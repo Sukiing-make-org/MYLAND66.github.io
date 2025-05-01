@@ -46,7 +46,7 @@ jobs:
           # 当前扫描范围：100000到2000000
           # 最后一个参数是否启用激进匹配（true/false）
           # 强烈建议保持激进匹配为启用状态（true），以避免重复抓取
-          python anitabi_auto_updater.py ${{ secrets.BARK_URL || 'https://api.day.app/FXxtHPEhbvdzxrgRpBW7E' }} 1800 3 100000 2000000 true
+          python anitabi_auto_updater.py ${{ secrets.BARK_URL || 'https://api.day.app/FXxtHPEhbvdzxrgRpBW7E' }} 1800 3 100000 1500000 true
 
       - name: Configure Git
         run: |
