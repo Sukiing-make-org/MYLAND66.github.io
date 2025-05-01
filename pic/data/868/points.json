@@ -442,5 +442,40 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uxuk0wpmo",
+    "cn": "函馆国际酒店",
+    "name": "函館国際ホテル",
+    "image": "https://image.xinu.ink/pic/data/868/images/uxuk0wpmo-1745429111505.jpg",
+    "ep": 27,
+    "s": 3504,
+    "geo": [
+      41.7694,
+      140.7224
+    ]
+  },
+  {
+    "id": "uxunfmzol",
+    "name": "ティー​ショップ​夕日",
+    "image": "https://image.xinu.ink/pic/data/868/images/uxunfmzol-1745429303399.jpg",
+    "ep": 27,
+    "s": 3056,
+    "geo": [
+      41.7664,
+      140.6954
+    ]
+  },
+  {
+    "id": "uxusqg847",
+    "cn": "地藏寺",
+    "name": "地藏寺",
+    "image": "https://image.xinu.ink/pic/data/868/images/uxusqg847-1745429605067.jpg",
+    "ep": 27,
+    "s": 3037,
+    "geo": [
+      41.7677,
+      140.6971
+    ]
   }
 ]

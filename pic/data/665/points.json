@@ -872,5 +872,32 @@
     ],
     "origin": "Anitabi@甜食伯爵",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "l97mxo072",
+    "cn": "河合桥",
+    "name": "河合桥",
+    "image": "https://image.xinu.ink/pic/data/665/images/l97mxo072_1718108468219.jpg",
+    "ep": 10,
+    "s": 1019,
+    "geo": [
+      35.0303,
+      135.7724
+    ],
+    "origin": "Anitabi@玖石澪",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ul4lvg2i8",
+    "name": "フード​ストア​の​むら前",
+    "image": "https://image.xinu.ink/pic/data/665/images/ul4lvg2i8_1744432260825.jpg",
+    "ep": "SP6",
+    "s": 147,
+    "geo": [
+      34.9333,
+      135.8
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
   }
 ]

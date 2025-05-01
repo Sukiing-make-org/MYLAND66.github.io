@@ -1,0 +1,108 @@
+{
+  "id": 398943,
+  "cn": "女神咖啡厅",
+  "title": "女神のカフェテラス",
+  "city": "神奈川县",
+  "cover": "https://image.xinu.ink/pic/data/5999/images/398943_fC8Lf.jpg",
+  "color": "#a1c0d6",
+  "cp": "MBS",
+  "modified": 1743448703570,
+  "litePoints": [
+    {
+      "id": "6ba52d31",
+      "name": "三浦海岸交差点",
+      "image": "https://image.anitabi.cn/points/398943/6ba52d31_1743448143476.jpg?plan=h160",
+      "geo": [
+        35.1851,
+        139.655
+      ]
+    },
+    {
+      "id": "f68bb557",
+      "name": "三浦海岸交差点②",
+      "image": "https://image.anitabi.cn/points/398943/f68bb557_1743448157242.jpg?plan=h160",
+      "geo": [
+        35.1849,
+        139.6552
+      ]
+    },
+    {
+      "id": "f9a0e8c4",
+      "name": "砂浜へ下りる階段",
+      "image": "https://image.anitabi.cn/points/398943/f9a0e8c4_1743448166579.jpg?plan=h160",
+      "geo": [
+        35.185,
+        139.6554
+      ]
+    },
+    {
+      "id": "9d6da494",
+      "name": "三浦海岸",
+      "image": "https://image.anitabi.cn/points/398943/9d6da494_1743448191657.jpg?plan=h160",
+      "geo": [
+        35.1851,
+        139.656
+      ]
+    },
+    {
+      "id": "54edcffd",
+      "name": "下浦海岸第１駐車場付近",
+      "image": "https://image.anitabi.cn/points/398943/54edcffd_1743448204986.jpg?plan=h160",
+      "geo": [
+        35.1837,
+        139.6548
+      ]
+    },
+    {
+      "id": "ce6ddde8",
+      "name": "コーヒーハウスぽえむ",
+      "image": "https://image.anitabi.cn/points/398943/ce6ddde8_1743448216050.jpg?plan=h160",
+      "geo": [
+        35.1872,
+        139.6525
+      ]
+    },
+    {
+      "id": "8bd61578",
+      "name": "三峯神社",
+      "image": "https://image.anitabi.cn/points/398943/8bd61578_1743448227122.jpg?plan=h160",
+      "geo": [
+        35.1857,
+        139.6508
+      ]
+    },
+    {
+      "id": "c45800b0",
+      "name": "三浦やさい直売所",
+      "image": "https://image.anitabi.cn/points/398943/c45800b0_1743448236497.jpg?plan=h160",
+      "geo": [
+        35.1882,
+        139.6524
+      ]
+    },
+    {
+      "id": "54758deb",
+      "name": "三浦海岸駅前",
+      "image": "https://image.anitabi.cn/points/398943/54758deb_1743448249282.jpg?plan=h160",
+      "geo": [
+        35.1881,
+        139.6528
+      ]
+    },
+    {
+      "id": "f1f8138b",
+      "name": "（参考）堤防",
+      "image": "https://image.anitabi.cn/points/398943/f1f8138b_1743448519152.jpg?plan=h160",
+      "geo": [
+        35.19,
+        139.6619
+      ]
+    }
+  ],
+  "pointsLength": 20,
+  "imagesLength": 20,
+  "name": "女神のカフェテラス",
+  "name_cn": "女神咖啡厅",
+  "theme_color": "#a1c0d6",
+  "local_id": 5999
+}

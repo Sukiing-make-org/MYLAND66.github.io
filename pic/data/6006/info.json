@@ -1,0 +1,79 @@
+{
+  "id": 526043,
+  "cn": "外星人姆姆",
+  "title": "宇宙人ムームー",
+  "city": "町田市",
+  "cover": "https://image.xinu.ink/pic/data/6006/images/526043_BzVh4.jpg",
+  "color": "#24cea6",
+  "cp": "京急大学人類再生研究会",
+  "modified": 1744272087256,
+  "litePoints": [
+    {
+      "id": "uj19gfim4",
+      "name": "東海大学湘南キャンパス",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/526043/points/uj19gfim4-1744268235058.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.3655,
+        139.2732
+      ]
+    },
+    {
+      "id": "uj1hzc7s9",
+      "name": "JR町田駅前 まほろデッキ",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/526043/points/uj1hzc7s9-1744268774665.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.5425,
+        139.4457
+      ]
+    },
+    {
+      "id": "uj1qp889c",
+      "name": "町田仲見世商店街",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/526043/points/uj1qp889c-1744269264756.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.5413,
+        139.4483
+      ]
+    },
+    {
+      "id": "uj24ajo3r",
+      "name": "恩田川の桜",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/526043/points/uj24ajo3r-1744270097057.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.5424,
+        139.4709
+      ]
+    },
+    {
+      "id": "uj2d1nq8p",
+      "name": "横浜・川崎海岸",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/526043/points/uj2d1nq8p-1744270626584.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.4281,
+        139.7109
+      ]
+    },
+    {
+      "id": "uj30cx9dc",
+      "cn": "东海大学8号馆食堂",
+      "name": "BaBレストラン8",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/526043/points/uj30cx9dc-1744272047350.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.365,
+        139.2724
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "name": "宇宙人ムームー",
+  "name_cn": "外星人姆姆",
+  "theme_color": "#24cea6",
+  "local_id": 6006
+}

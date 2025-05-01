@@ -1,0 +1,106 @@
+{
+  "id": 356983,
+  "cn": "传述之魔女",
+  "title": "イハナシの魔女",
+  "city": "冲绳县",
+  "cover": "https://image.xinu.ink/pic/data/5996/images/356983.jpg",
+  "color": "#4060bf",
+  "geo": [
+    26.30869071719745,
+    126.99986801043724
+  ],
+  "zoom": 8.519,
+  "modified": 1744647033089,
+  "litePoints": [
+    {
+      "id": "lubgqb7db",
+      "cn": "渡夜时岛港口",
+      "name": "渡名喜港",
+      "image": "https://image.anitabi.cn/points/356983/lubgqb7db_1744646926771.jpg?plan=h160",
+      "geo": [
+        26.3721,
+        127.1406
+      ]
+    },
+    {
+      "id": "unnkierrv",
+      "name": "那覇空港",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/356983/points/unnkierrv-1744630250143.jpg?plan=h160",
+      "geo": [
+        26.2086,
+        127.6507
+      ]
+    },
+    {
+      "id": "unnne6vp8",
+      "cn": "那霸港 泊埠头",
+      "name": "那覇港 泊ふ頭",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/356983/points/unnne6vp8-1744630479665.jpg?plan=h160",
+      "geo": [
+        26.224,
+        127.6834
+      ]
+    },
+    {
+      "id": "unnvcspcz",
+      "name": "兼城​港​フェリー​ターミナル",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/356983/points/unnvcspcz-1744630880540.jpg?plan=h160",
+      "geo": [
+        26.3414,
+        126.7531
+      ]
+    },
+    {
+      "id": "unq7xg0n8",
+      "name": "儀間市街地1",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/356983/points/unq7xg0n8-1744636025789.jpg?plan=h160",
+      "geo": [
+        26.3324,
+        126.7692
+      ]
+    },
+    {
+      "id": "unqqgs5ic",
+      "name": "久高殿",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/356983/points/unqqgs5ic-1744637145213.jpg?plan=h160",
+      "geo": [
+        26.1587,
+        127.8865
+      ]
+    },
+    {
+      "id": "unqz37k2j",
+      "name": "県立久米島高校",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/356983/points/unqz37k2j-1744637675100.jpg?plan=h160",
+      "geo": [
+        26.3379,
+        126.7613
+      ]
+    },
+    {
+      "id": "unr75vrl3",
+      "name": "儀間市街地2",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/356983/points/unr75vrl3-1744638137280.jpg?plan=h160",
+      "geo": [
+        26.3315,
+        126.77
+      ]
+    },
+    {
+      "id": "lubcv92l1",
+      "cn": "九九岛",
+      "name": "久米岛",
+      "image": null,
+      "geo": [
+        26.3516,
+        126.8197
+      ]
+    }
+  ],
+  "pointsLength": 9,
+  "imagesLength": 8,
+  "name": "イハナシの魔女",
+  "name_cn": "传述之魔女",
+  "theme_color": "#4060bf",
+  "local_id": 5996
+}

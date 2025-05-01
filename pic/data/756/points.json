@@ -154,5 +154,96 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1DS95YlXwZsLNLk6V60Ji6welRhqPgRE&ll=37.710499%2C138.810294&z=17"
+  },
+  {
+    "id": "k7e4u036y",
+    "name": "三条スパイス研究所 スパイスカレー",
+    "image": "https://image.xinu.ink/pic/data/756/images/k7e4u036y_1744632183572.jpg",
+    "ep": 8,
+    "s": 1191,
+    "geo": [
+      37.6325,
+      138.9548
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1DS95YlXwZsLNLk6V60Ji6welRhqPgRE&ll=37.632552%2C138.954813&z=17"
+  },
+  {
+    "id": "unnhyglfk",
+    "name": "DIY粉丝基地",
+    "image": "https://image.xinu.ink/pic/data/756/images/unnhyglfk_1744630075932.jpg",
+    "ep": 1,
+    "s": 1308,
+    "geo": [
+      37.6285,
+      138.9643
+    ],
+    "origin": "Anitabi@折木",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "unno1ahcq",
+    "name": "树屋",
+    "image": "https://image.xinu.ink/pic/data/756/images/unno1ahcq_1744630461689.jpg",
+    "ep": 12,
+    "s": 92,
+    "geo": [
+      37.6324,
+      138.9546
+    ],
+    "origin": "Anitabi@折木",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "unobmcerx",
+    "name": "八幡公园",
+    "image": "https://image.xinu.ink/pic/data/756/images/unobmcerx_1744631855849.jpg",
+    "ep": 8,
+    "s": 1164,
+    "geo": [
+      37.6335,
+      138.9505
+    ],
+    "origin": "Anitabi@折木",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "unoeunwwo",
+    "name": "JR北三条駅内",
+    "image": "https://image.xinu.ink/pic/data/756/images/unoeunwwo_1744632070870.jpg",
+    "ep": 6,
+    "s": 295,
+    "geo": [
+      37.6326,
+      138.9556
+    ],
+    "origin": "Anitabi@折木",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "unog12tvc",
+    "name": "雪橇椅子",
+    "image": "https://image.xinu.ink/pic/data/756/images/unog12tvc_1744632123397.jpg",
+    "ep": 2,
+    "s": 1127,
+    "geo": [
+      37.6324,
+      138.9546
+    ],
+    "origin": "Anitabi@折木",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "unolvydgq",
+    "name": "河边",
+    "image": "https://image.xinu.ink/pic/data/756/images/unolvydgq_1744632487629.jpg",
+    "ep": 12,
+    "s": 827,
+    "geo": [
+      37.6283,
+      138.964
+    ],
+    "origin": "Anitabi@折木",
+    "originURL": "https://anitabi.cn/"
   }
 ]

@@ -1,0 +1,107 @@
+{
+  "id": 154340,
+  "cn": "方根书简",
+  "title": "√LETTER",
+  "city": "岛根县",
+  "cover": "https://image.xinu.ink/pic/data/5990/images/154340_c5zDN.jpg",
+  "color": "#b4f3f4",
+  "modified": 1743950795224,
+  "litePoints": [
+    {
+      "id": "67383df7",
+      "name": "松江駅",
+      "image": "https://image.anitabi.cn/points/154340/67383df7_1743922943414.jpg?plan=h160",
+      "geo": [
+        35.464,
+        133.0638
+      ]
+    },
+    {
+      "id": "372950e2",
+      "name": "小泉八雲記念館",
+      "image": "https://image.anitabi.cn/points/154340/372950e2_1743923216237.jpg?plan=h160",
+      "geo": [
+        35.4791,
+        133.0491
+      ]
+    },
+    {
+      "id": "67ffd31c",
+      "name": "松江歴史館",
+      "image": "https://image.anitabi.cn/points/154340/67ffd31c_1743923223714.jpg?plan=h160",
+      "geo": [
+        35.4755,
+        133.0531
+      ]
+    },
+    {
+      "id": "b60f0022",
+      "name": "だんごや萌音 松江店",
+      "image": "https://image.anitabi.cn/points/154340/b60f0022_1743922974602.jpg?plan=h160",
+      "geo": [
+        35.4785,
+        133.0481
+      ]
+    },
+    {
+      "id": "38dda220",
+      "name": "北惣門橋",
+      "image": "https://image.anitabi.cn/points/154340/38dda220_1743923240463.jpg?plan=h160",
+      "geo": [
+        35.4754,
+        133.053
+      ]
+    },
+    {
+      "id": "fc1d2216",
+      "name": "松江観光案内所",
+      "image": "https://image.anitabi.cn/points/154340/fc1d2216_1743923161956.jpg?plan=h160",
+      "geo": [
+        35.4742,
+        133.0521
+      ]
+    },
+    {
+      "id": "291787e4",
+      "name": "城山公園入り口",
+      "image": "https://image.anitabi.cn/points/154340/291787e4_1743923259406.jpg?plan=h160",
+      "geo": [
+        35.4736,
+        133.0519
+      ]
+    },
+    {
+      "id": "d26cb73d",
+      "name": "カラコロ工房",
+      "image": "https://image.anitabi.cn/points/154340/d26cb73d_1743922908838.jpg?plan=h160",
+      "geo": [
+        35.4702,
+        133.0534
+      ]
+    },
+    {
+      "id": "a8f7b7ed",
+      "name": "京店商店街",
+      "image": "https://image.anitabi.cn/points/154340/a8f7b7ed_1743923029337.jpg?plan=h160",
+      "geo": [
+        35.4697,
+        133.0539
+      ]
+    },
+    {
+      "id": "45846f71",
+      "name": "島根県立美術館",
+      "image": "https://image.anitabi.cn/points/154340/45846f71_1743922924815.jpg?plan=h160",
+      "geo": [
+        35.4596,
+        133.0529
+      ]
+    }
+  ],
+  "pointsLength": 72,
+  "imagesLength": 71,
+  "name": "√LETTER",
+  "name_cn": "方根书简",
+  "theme_color": "#b4f3f4",
+  "local_id": 5990
+}

@@ -1178,5 +1178,114 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ttvfr0fkm",
+    "name": "前原​海岸​海水浴​場",
+    "image": "https://image.xinu.ink/pic/data/662/images/ttvfr0fkm_1742296428348.jpg",
+    "ep": 9,
+    "geo": [
+      35.1054,
+      140.1078
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ttwzdcjdd",
+    "name": "国道140 平神社附近",
+    "image": "https://image.xinu.ink/pic/data/662/images/ttwzdcjdd_1742299795528.jpg",
+    "ep": 10,
+    "geo": [
+      35.9513,
+      138.9323
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u102li6ok",
+    "name": "宝登山頂駅",
+    "image": "https://image.xinu.ink/pic/data/662/images/u102li6ok_1742855057368.jpg",
+    "ep": 35,
+    "geo": [
+      36.0913,
+      139.0931
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u8kytqg5z",
+    "cn": "浅草寺 雷门附近",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/662/images/u8kytqg5z_1743449153329.jpg",
+    "ep": 41,
+    "geo": [
+      35.7112,
+      139.7964
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u8l3c43x2",
+    "name": "宝蔵門",
+    "image": "https://image.xinu.ink/pic/data/662/images/u8l3c43x2_1743449376179.jpg",
+    "ep": 41,
+    "geo": [
+      35.7139,
+      139.7966
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u8l55lcly",
+    "name": "弁天堂",
+    "image": "https://image.xinu.ink/pic/data/662/images/u8l55lcly_1743449483468.jpg",
+    "ep": 41,
+    "geo": [
+      35.7133,
+      139.7975
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u8l67bpx4",
+    "name": "弁天堂 時の鐘",
+    "image": "https://image.xinu.ink/pic/data/662/images/u8l67bpx4_1743449754584.jpg",
+    "ep": 41,
+    "geo": [
+      35.7134,
+      139.7974
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u8ldgj3xj",
+    "name": "神谷バー",
+    "image": "https://image.xinu.ink/pic/data/662/images/u8ldgj3xj_1743449986531.jpg",
+    "ep": 41,
+    "geo": [
+      35.7108,
+      139.7975
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u90cgsj6b",
+    "name": "本屋B&B(Book&Beer)",
+    "image": "https://image.xinu.ink/pic/data/662/images/u90cgsj6b_1743482584983.jpg",
+    "ep": 42,
+    "geo": [
+      35.6593,
+      139.664
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
   }
 ]

@@ -256,5 +256,45 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1qIzDSC-rwzaTsR6koA_p2VTpAlHec2Px&ll=35.651958%2C139.454483&z=17"
+  },
+  {
+    "id": "utg22js39",
+    "cn": "奥多摩站",
+    "name": "奥多摩駅",
+    "image": "https://image.xinu.ink/pic/data/642/images/utg22js39-1745084083830.jpg",
+    "ep": "第2集",
+    "s": "12分06秒",
+    "geo": [
+      35.8092,
+      139.0966
+    ],
+    "origin": "Anitabi@Lucifer Jiang",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ufvtnnosb",
+    "cn": "女子学院 中学校･高等学校",
+    "name": "女子学院 中学校･高等学校",
+    "image": "https://image.xinu.ink/pic/data/642/images/ufvtnnosb-1744021329776.jpg",
+    "ep": "第1集",
+    "geo": [
+      35.6875,
+      139.738
+    ],
+    "origin": "Anitabi@Lucifer Jiang",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "utgn0478x",
+    "cn": "武藏小山商店街",
+    "name": "武蔵小山商店街 パルム",
+    "image": "https://image.xinu.ink/pic/data/642/images/utgn0478x-1745085410355.jpg",
+    "ep": "12集",
+    "geo": [
+      35.6192,
+      139.7036
+    ],
+    "origin": "Anitabi@Lucifer Jiang",
+    "originURL": "https://anitabi.cn/"
   }
 ]

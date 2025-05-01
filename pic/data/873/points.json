@@ -2456,5 +2456,32 @@
     ],
     "origin": "Anitabi@Azusa",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ujat9v608",
+    "cn": "MUZA川崎交响乐大厅",
+    "name": "ミューザ川崎シンフォニーホール",
+    "image": "https://image.xinu.ink/pic/data/873/images/ujat9v608-1744289088331.jpg",
+    "ep": 13,
+    "s": 1272,
+    "geo": [
+      35.5309,
+      139.6945
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ukafzbvq5",
+    "cn": "奥林匹克公园中心区（东门）",
+    "name": "国家体育场 鸟巢",
+    "image": "https://image.xinu.ink/pic/data/873/images/ukafzbvq5-1744366593138.jpg",
+    "ep": "宣传图/版权绘/封面",
+    "geo": [
+      39.9932,
+      116.3925
+    ],
+    "origin": "Anitabi@qingwan",
+    "originURL": "https://anitabi.cn/"
   }
 ]

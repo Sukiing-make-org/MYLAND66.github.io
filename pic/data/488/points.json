@@ -635,5 +635,28 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1J0K2QKstx1fjyCXMh2ZgWzgA5287_ZCt&ll=35.707448%2C139.728594&z=17"
+  },
+  {
+    "id": "u3wbdky6m",
+    "cn": "飞鸟山步行桥",
+    "name": "Asukayama Koen Hodo Bridge 飛鳥山公園歩道橋",
+    "image": "https://image.xinu.ink/pic/data/488/images/u3wbdky6m-1743082369070.jpg",
+    "ep": "11",
+    "s": "00:08",
+    "geo": [
+      35.7511,
+      139.7371
+    ]
+  },
+  {
+    "id": "u85yppqa3",
+    "cn": "新宿alta前",
+    "name": "新宿alta前",
+    "image": "https://image.xinu.ink/pic/data/488/images/u85yppqa3-1743416441411.jpg",
+    "ep": "EP1",
+    "geo": [
+      35.692,
+      139.7012
+    ]
   }
 ]

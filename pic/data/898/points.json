@@ -1907,5 +1907,61 @@
       34.7566,
       137.3975
     ]
+  },
+  {
+    "id": "negpavfxz",
+    "cn": "丰桥市视听教育中心",
+    "name": "豊橋市視聴覚教育センター",
+    "image": "https://image.xinu.ink/pic/data/898/images/negpavfxz_1724162254332.jpg",
+    "ep": 6,
+    "s": 371,
+    "geo": [
+      34.7294,
+      137.4315
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nqz5mh8m3",
+    "cn": "大丰商店街西",
+    "name": "大豊商店街西",
+    "image": "https://image.xinu.ink/pic/data/898/images/nqz5mh8m3_1725151400874_c16v9.jpg",
+    "ep": 8,
+    "s": 488,
+    "geo": [
+      34.7614,
+      137.3841
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uybcz437n",
+    "cn": "Uno Uno咖啡馆",
+    "name": "カフェ ウーノ・ウーノ",
+    "image": "https://image.xinu.ink/pic/data/898/images/uybcz437n-1745466844614.jpg",
+    "ep": 5,
+    "s": 7,
+    "geo": [
+      34.7633,
+      137.3828
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uyc7whaxq",
+    "cn": "豊橋市立大村小学校",
+    "name": "豊橋市立大村小学校",
+    "image": "https://image.xinu.ink/pic/data/898/images/uyc7whaxq-1745467518418.jpg",
+    "ep": 1,
+    "s": 1432,
+    "geo": [
+      34.7902,
+      137.3974
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
   }
 ]

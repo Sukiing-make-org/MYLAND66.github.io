@@ -171,5 +171,67 @@
     ],
     "origin": "Anitabi@耿耿-げん",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "umqg6qmku",
+    "name": "杭州浩成乒乓",
+    "image": "https://image.xinu.ink/pic/data/777/images/umqg6qmku-1744558146697.jpg",
+    "ep": 5,
+    "s": 1135,
+    "geo": [
+      30.2921,
+      120.1433
+    ],
+    "origin": "Anitabi@Nakano Prisma",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "umpopbt02",
+    "name": "知味观（延安路龙翔桥店）",
+    "image": "https://image.xinu.ink/pic/data/777/images/umpopbt02-1744556637726.jpg",
+    "ep": 1,
+    "s": "",
+    "geo": [
+      30.257,
+      120.1592
+    ],
+    "origin": "Anitabi@Nakano Prisma",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "umpsiqxt9",
+    "name": "西湖音乐喷泉",
+    "image": "https://image.xinu.ink/pic/data/777/images/umpsiqxt9-1744556698621.jpg",
+    "ep": 1,
+    "geo": [
+      30.256,
+      120.1557
+    ],
+    "origin": "Anitabi@Nakano Prisma",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "umqay64ic",
+    "name": "苏苏茶咖",
+    "image": "https://image.xinu.ink/pic/data/777/images/umqay64ic-1744558022053.jpg",
+    "ep": 1,
+    "geo": [
+      30.31,
+      120.1319
+    ],
+    "origin": "Anitabi@Nakano Prisma",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uujj1mrua",
+    "name": "大关桥",
+    "image": "https://image.xinu.ink/pic/data/777/images/uujj1mrua-1745170686798.jpg",
+    "ep": 1,
+    "geo": [
+      30.3057,
+      120.1368
+    ],
+    "origin": "Anitabi@Nakano Prisma",
+    "originURL": "https://anitabi.cn/"
   }
 ]

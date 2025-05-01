@@ -139,5 +139,61 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1J0K2QKstx1fjyCXMh2ZgWzgA5287_ZCt&ll=35.693043%2C139.749237&z=17"
+  },
+  {
+    "id": "umk0bm2ak",
+    "cn": "明治大街",
+    "name": "明治通り",
+    "image": "https://image.xinu.ink/pic/data/609/images/78e0cd5e_1722414043756.jpg",
+    "ep": 3,
+    "s": 1063,
+    "geo": [
+      35.718,
+      139.713
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1J0K2QKstx1fjyCXMh2ZgWzgA5287_ZCt&ll=35.718%2C139.71301&z=17"
+  },
+  {
+    "id": "umk0bm31n",
+    "cn": "大久保大街",
+    "name": "大久保通り",
+    "image": "https://image.xinu.ink/pic/data/609/images/8dea6856_1722414020795.jpg",
+    "ep": 9,
+    "s": 754,
+    "geo": [
+      35.7013,
+      139.7082
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1J0K2QKstx1fjyCXMh2ZgWzgA5287_ZCt&ll=35.701393%2C139.708219&z=17"
+  },
+  {
+    "id": "umk0bm30m",
+    "cn": "sunmall大塚商店街振興組合",
+    "name": "サンモール大塚商店街振興組合",
+    "image": "https://image.xinu.ink/pic/data/609/images/eae9a5b7_1722418421194.jpg",
+    "ep": 10,
+    "s": 20,
+    "geo": [
+      35.7301,
+      139.728
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1J0K2QKstx1fjyCXMh2ZgWzgA5287_ZCt&ll=35.730179%2C139.728015&z=17"
+  },
+  {
+    "id": "umk0bm2rq",
+    "cn": "武道馆",
+    "name": "武道館",
+    "image": "https://image.xinu.ink/pic/data/609/images/cae584a5_1722418426144.jpg",
+    "ep": 13,
+    "s": 153,
+    "geo": [
+      35.693,
+      139.7492
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1J0K2QKstx1fjyCXMh2ZgWzgA5287_ZCt&ll=35.693043%2C139.749237&z=17"
   }
 ]

@@ -129,5 +129,29 @@
       36.8144,
       139.22
     ]
+  },
+  {
+    "id": "umk0bwt35",
+    "cn": "野毛山動物園入口",
+    "name": "野毛山動物園入園所",
+    "image": "https://image.xinu.ink/pic/data/781/images/padbouplk-1729483635900.jpg",
+    "ep": 2,
+    "s": 512,
+    "geo": [
+      35.4466,
+      139.6227
+    ]
+  },
+  {
+    "id": "umk0bwtom",
+    "cn": "森戸神社",
+    "name": "森戸神社",
+    "image": "https://image.xinu.ink/pic/data/781/images/p8t4nkazq-1729477119810.jpg",
+    "ep": 6,
+    "s": 837,
+    "geo": [
+      35.2729,
+      139.5697
+    ]
   }
 ]
