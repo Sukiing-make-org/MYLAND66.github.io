@@ -1,0 +1,64 @@
+name: Monthly Anitabi Update
+
+on:
+  schedule:
+    # Run on the 1st day of every month at 00:00 UTC
+    - cron: '0 0 1 * *'
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  update-anitabi-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch all history for proper git operations
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Refresh apiid.json
+        run: |
+          # Change to pic/data directory
+          cd pic/data
+          # Run extract_apiid.py to refresh apiid.json
+          python ../../extract_apiid.py --base-dir .
+          # Move back to root directory
+          cd ../..
+          # Copy the apiid.json file to the root directory
+          cp pic/data/apiid.json .
+
+      - name: Run Anitabi updater
+        run: |
+          # Run the updater (lock file is handled by the script)
+          # Parameters: bark_url wait_time max_wait_attempts start_api_id end_api_id aggressive_matching
+          # 您可以根据需要修改扫描范围
+          # 当前扫描范围：100000到2000000
+          # 最后一个参数是否启用激进匹配（true/false）
+          # 强烈建议保持激进匹配为启用状态（true），以避免重复抓取
+          python anitabi_auto_updater.py ${{ secrets.BARK_URL || 'https://api.day.app/FXxtHPEhbvdzxrgRpBW7E' }} 1800 3 100000 2000000 true
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Commit and push changes
+        run: |
+          # Check if there are any changes
+          if [[ -n $(git status --porcelain) ]]; then
+            git add -A
+            git commit -m "Monthly update: $(date +'%Y-%m-%d')"
+            git push
+          else
+            echo "No changes to commit"
+          fi
