@@ -1,0 +1,86 @@
+name: Sync to Mirror Repositories
+
+on:
+  # Run after the monthly and daily workflows complete
+  workflow_run:
+    workflows: ["Monthly Anitabi Update", "Daily Anime Pilgrimage Update"]
+    types:
+      - completed
+  # Allow manual triggering
+  workflow_dispatch:
+
+jobs:
+  sync-mirrors:
+    # Only run if the triggering workflow was successful
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch all history for proper git operations
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run mirror synchronization
+        run: |
+          # Step 1: Sync to full mirror repositories if configured
+          if [ -n "${{ secrets.MIRROR_REPOSITORIES }}" ]; then
+            echo "Syncing to full mirror repositories with MIRROR_TOKEN"
+            python sync_mirrors.py \
+              --mirrors ${{ secrets.MIRROR_REPOSITORIES }} \
+              --github-token ${{ secrets.MIRROR_TOKEN }} \
+              --bark-url ${{ secrets.BARK_URL || 'https://api.day.app/FXxtHPEhbvdzxrgRpBW7E' }}
+
+            echo "Full mirror sync completed"
+          fi
+
+          # Step 2: Sync to load balancing repositories if configured
+          if [ -n "${{ secrets.LOAD_BALANCE_REPOSITORIES }}" ]; then
+            echo "Syncing to load balance repositories"
+
+            # Determine which token to use for load balancing repositories
+            LOAD_BALANCE_AUTH_TOKEN="${{ secrets.MIRROR_TOKEN }}"
+            if [ -n "${{ secrets.LOAD_BALANCE_TOKEN }}" ]; then
+              echo "Using separate token for load balancing repositories"
+              LOAD_BALANCE_AUTH_TOKEN="${{ secrets.LOAD_BALANCE_TOKEN }}"
+            fi
+
+            # Check if folder ranges are configured
+            if [ -n "${{ secrets.FOLDER_RANGES }}" ]; then
+              echo "Using custom folder ranges"
+              python sync_mirrors.py \
+                --mirrors ${{ secrets.LOAD_BALANCE_REPOSITORIES }} \
+                --github-token "$LOAD_BALANCE_AUTH_TOKEN" \
+                --bark-url ${{ secrets.BARK_URL || 'https://api.day.app/FXxtHPEhbvdzxrgRpBW7E' }} \
+                --load-balance \
+                --folder-ranges '${{ secrets.FOLDER_RANGES }}'
+            else
+              echo "Using default folder ranges"
+              python sync_mirrors.py \
+                --mirrors ${{ secrets.LOAD_BALANCE_REPOSITORIES }} \
+                --github-token "$LOAD_BALANCE_AUTH_TOKEN" \
+                --bark-url ${{ secrets.BARK_URL || 'https://api.day.app/FXxtHPEhbvdzxrgRpBW7E' }} \
+                --load-balance
+            fi
+
+            echo "Load balance sync completed"
+          fi
+
+          # If neither is configured, show a warning
+          if [ -z "${{ secrets.MIRROR_REPOSITORIES }}" ] && [ -z "${{ secrets.LOAD_BALANCE_REPOSITORIES }}" ]; then
+            echo "WARNING: No repositories configured for synchronization"
+            echo "Please set MIRROR_REPOSITORIES and/or LOAD_BALANCE_REPOSITORIES secrets"
+            exit 1
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.MIRROR_TOKEN }}

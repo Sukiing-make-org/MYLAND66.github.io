@@ -1,0 +1,76 @@
+name: Daily Anime Pilgrimage Update
+
+on:
+  schedule:
+    # Run every day at 12:00 UTC (different time from monthly update)
+    - cron: '0 12 * * *'
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  update-anime-pilgrimage:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch all history for proper git operations
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Chrome
+        run: |
+          wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+          echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests selenium pillow
+          pip install webdriver-manager
+
+      - name: Setup ChromeDriver
+        run: |
+          python -c "from webdriver_manager.chrome import ChromeDriverManager; from selenium import webdriver; ChromeDriverManager().install()"
+
+      - name: Refresh apiid.json
+        run: |
+          # Change to pic/data directory
+          cd pic/data
+          # Run extract_apiid.py to refresh apiid.json
+          python ../../extract_apiid.py --base-dir .
+          # Move back to root directory
+          cd ../..
+          # Copy the updated apiid.json to root directory if it doesn't exist there
+          if [ ! -f "apiid.json" ]; then
+            cp pic/data/apiid.json .
+          else
+            # Copy the apiid.json file to the root directory
+            cp pic/data/apiid.json .
+          fi
+
+      - name: Run Anime Pilgrimage daily updater
+        run: |
+          # Run with increased max-anime (50 -> 100) and increased scroll attempts
+          python anime_pilgrimage_daily_updater.py --max-anime 100 --wait-time 1800 --max-wait-attempts 3 --base-dir pic/data --bark-url ${{ secrets.BARK_URL || 'https://api.day.app/FXxtHPEhbvdzxrgRpBW7E' }}
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Commit and push changes
+        run: |
+          # Check if there are any changes
+          if [[ -n $(git status --porcelain) ]]; then
+            git add -A
+            git commit -m "Daily anime pilgrimage update: $(date +'%Y-%m-%d')"
+            git push
+          else
+            echo "No changes to commit"
+          fi

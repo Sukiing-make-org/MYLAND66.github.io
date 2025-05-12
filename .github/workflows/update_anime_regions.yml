@@ -1,0 +1,127 @@
+name: Update Anime Region Information
+
+on:
+  # Run daily at 13:00 UTC (different time from other workflows)
+  schedule:
+    - cron: '0 13 * * *'
+  # Allow manual triggering
+  workflow_dispatch:
+
+jobs:
+  update-anime-regions:
+    runs-on: ubuntu-latest
+    outputs:
+      changes_pushed: ${{ steps.commit_changes.outputs.changes_pushed }}
+
+    steps:
+      - name: Check for running workflows
+        id: check_workflows
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+
+            // Get all running workflows
+            const runningWorkflows = await github.rest.actions.listWorkflowRunsForRepo({
+              owner,
+              repo,
+              status: 'in_progress'
+            });
+
+            // Filter out the current workflow
+            const otherRunningWorkflows = runningWorkflows.data.workflow_runs.filter(
+              run => run.id !== context.runId
+            );
+
+            if (otherRunningWorkflows.length > 0) {
+              console.log('Other workflows are currently running. Cancelling this workflow.');
+              core.setFailed('Other workflows are currently running. Please try again later.');
+              return false;
+            }
+
+            console.log('No other workflows are running. Proceeding with execution.');
+            return true;
+
+      - name: Checkout repository
+        if: steps.check_workflows.outputs.result == 'true'
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch all history for proper git operations
+
+      - name: Set up Python
+        if: steps.check_workflows.outputs.result == 'true'
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        if: steps.check_workflows.outputs.result == 'true'
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Refresh apiid.json
+        if: steps.check_workflows.outputs.result == 'true'
+        run: |
+          # Change to pic/data directory
+          cd pic/data
+          # Run extract_apiid.py to refresh apiid.json
+          python ../../extract_apiid.py --base-dir .
+          # Move back to root directory
+          cd ../..
+          # Copy the updated apiid.json to root directory
+          cp pic/data/apiid.json .
+
+      - name: Run Region Info Updater
+        if: steps.check_workflows.outputs.result == 'true'
+        id: run_updater
+        continue-on-error: true  # Continue even if the script exits with an error
+        run: |
+          python add_region_info.py --base-dir pic/data --bark-url ${{ secrets.BARK_URL || 'https://api.day.app/FXxtHPEhbvdzxrgRpBW7E' }} --rate-limit 2.0 --max-workers 5 --max-api-failures 10 --max-runtime-hours 3.0
+
+      - name: Configure Git
+        if: steps.check_workflows.outputs.result == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Commit and push changes
+        if: steps.check_workflows.outputs.result == 'true'
+        id: commit_changes
+        run: |
+          # Check if there are any changes
+          if [[ -n $(git status --porcelain) ]]; then
+            git add -A
+            # Add information about whether the script completed successfully or was interrupted
+            if [ "${{ steps.run_updater.outcome }}" == "success" ]; then
+              git commit -m "更新动漫地区信息: $(date +'%Y-%m-%d')"
+            else
+              git commit -m "更新动漫地区信息(部分完成): $(date +'%Y-%m-%d')"
+            fi
+            git push
+            echo "changes_pushed=true" >> $GITHUB_OUTPUT
+          else
+            echo "没有需要提交的更改"
+            echo "changes_pushed=false" >> $GITHUB_OUTPUT
+          fi
+
+  # Trigger mirror sync after updating region information
+  trigger-mirror-sync:
+    needs: update-anime-regions
+    runs-on: ubuntu-latest
+    if: ${{ needs.update-anime-regions.outputs.changes_pushed == 'true' }}  # Only run if changes were pushed
+
+    steps:
+      - name: Trigger mirror sync workflow
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'sync_mirror_repositories.yml',
+              ref: 'main'  # or your default branch
+            })
