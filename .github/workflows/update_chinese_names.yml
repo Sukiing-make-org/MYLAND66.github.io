@@ -1,0 +1,77 @@
+name: Update Anime Chinese Names
+
+on:
+  # Run after the daily anime pilgrimage update
+  workflow_run:
+    workflows: ["Daily Anime Pilgrimage Update"]
+    types:
+      - completed
+  # Run on a schedule (once a day at 14:00 UTC, 2 hours after daily update)
+  schedule:
+    - cron: '0 14 * * *'
+  # Allow manual triggering
+  workflow_dispatch:
+
+jobs:
+  update-chinese-names:
+    # Only run if the triggering workflow was successful or if manually triggered
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch all history for proper git operations
+          token: ${{ secrets.PAT }}  # 使用个人访问令牌进行身份验证
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run Chinese name updater
+        run: |
+          python update_chinese_names.py --base-dir pic/data --bark-url ${{ secrets.BARK_URL || 'https://api.day.app/FXxtHPEhbvdzxrgRpBW7E' }}
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Commit and push changes
+        run: |
+          # Check if there are any changes
+          if [[ -n $(git status --porcelain) ]]; then
+            git add -A
+            git commit -m "更新动漫中文名: $(date +'%Y-%m-%d')"
+            # 使用个人访问令牌进行推送，确保有足够的权限
+            git push https://${{ secrets.PAT }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
+            echo "Changes committed and pushed"
+          else
+            echo "No changes to commit"
+          fi
+
+  # Trigger mirror sync after updating Chinese names
+  trigger-mirror-sync:
+    needs: update-chinese-names
+    runs-on: ubuntu-latest
+    if: ${{ success() && github.event_name != 'workflow_run' }}  # Only run if not already triggered by another workflow
+
+    steps:
+      - name: Trigger mirror sync workflow
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'sync_mirror_repositories.yml',
+              ref: 'main'  # or your default branch
+            })
