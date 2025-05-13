@@ -1,0 +1,754 @@
+{
+  "points": [
+    {
+      "id": "6009-1",
+      "name": "アクアアスレチック",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-1.jpg",
+      "ep": "OP",
+      "geo": [
+        35.70091,
+        138.6649
+      ]
+    },
+    {
+      "id": "6009-2",
+      "name": "天下茶屋",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-2.jpg",
+      "ep": "OP",
+      "geo": [
+        35.55675,
+        138.78369
+      ]
+    },
+    {
+      "id": "6009-3",
+      "name": "長潭橋",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-3.jpg",
+      "ep": "OP",
+      "geo": [
+        35.72588,
+        138.54885
+      ]
+    },
+    {
+      "id": "6009-4",
+      "name": "新倉山浅間公園",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-4.jpg",
+      "ep": "OP",
+      "geo": [
+        35.50194,
+        138.80181
+      ]
+    },
+    {
+      "id": "6009-5",
+      "name": "桜花の径 石碑",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.66991,
+        138.58068
+      ]
+    },
+    {
+      "id": "6009-6",
+      "name": "山梨県立科学館",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-6.jpg",
+      "ep": "1",
+      "geo": [
+        35.66932,
+        138.58051
+      ]
+    },
+    {
+      "id": "6009-7",
+      "name": "山梨県立科学館展望デッキ",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-7.jpg",
+      "ep": "1",
+      "geo": [
+        35.66883,
+        138.58078
+      ]
+    },
+    {
+      "id": "6009-8",
+      "name": "甲府城 鍛冶曲輪跡",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-8.jpg",
+      "ep": "2",
+      "geo": [
+        35.66463,
+        138.57202
+      ]
+    },
+    {
+      "id": "6009-9",
+      "name": "坂下門石垣",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-9.jpg",
+      "ep": "2",
+      "geo": [
+        35.66465,
+        138.57072
+      ]
+    },
+    {
+      "id": "6009-10",
+      "name": "甲府城 鉄門",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-10.jpg",
+      "ep": "2",
+      "geo": [
+        35.66505,
+        138.57073
+      ]
+    },
+    {
+      "id": "6009-11",
+      "name": "甲府城跡",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-11.jpg",
+      "ep": "2",
+      "geo": [
+        35.66537,
+        138.5713
+      ]
+    },
+    {
+      "id": "6009-12",
+      "name": "甲府城 天守台",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-12.jpg",
+      "ep": "2",
+      "geo": [
+        35.6653,
+        138.5714
+      ]
+    },
+    {
+      "id": "6009-13",
+      "name": "遊亀橋",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-13.jpg",
+      "ep": "2",
+      "geo": [
+        35.6639,
+        138.57137
+      ]
+    },
+    {
+      "id": "6009-14",
+      "name": "須玉IC",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-14.jpg",
+      "ep": "2",
+      "geo": [
+        35.77139,
+        138.42483
+      ]
+    },
+    {
+      "id": "6009-15",
+      "name": "デイリーヤマザキ 北杜須玉インター店",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-15.jpg",
+      "ep": "2",
+      "geo": [
+        35.78601,
+        138.41873
+      ]
+    },
+    {
+      "id": "6009-16",
+      "name": "七賢（山梨銘醸株式会社）",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-16.jpg",
+      "ep": "2",
+      "geo": [
+        35.80787,
+        138.34293
+      ]
+    },
+    {
+      "id": "6009-17",
+      "name": "白州屋 まめ吉",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-17.jpg",
+      "ep": "2",
+      "geo": [
+        35.80437,
+        138.35363
+      ]
+    },
+    {
+      "id": "6009-18",
+      "name": "旧甲州街道（白洲）",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-18.jpg",
+      "ep": "2",
+      "geo": [
+        35.80296,
+        138.35509
+      ]
+    },
+    {
+      "id": "6009-19",
+      "name": "山梨県立 まきば公園",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-19.jpg",
+      "ep": "2",
+      "geo": [
+        35.92417,
+        138.40799
+      ]
+    },
+    {
+      "id": "6009-20",
+      "name": "まきば公園 駐車場",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-20.jpg",
+      "ep": "2",
+      "geo": [
+        35.92873,
+        138.40877
+      ]
+    },
+    {
+      "id": "6009-21",
+      "name": "東沢大橋",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-21.jpg",
+      "ep": "2",
+      "geo": [
+        35.93221,
+        138.4139
+      ]
+    },
+    {
+      "id": "6009-22",
+      "name": "ニチノー 野辺山事務所",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-22.jpg",
+      "ep": "2",
+      "geo": [
+        35.99407,
+        138.49393
+      ]
+    },
+    {
+      "id": "6009-23",
+      "name": "レストハウスふるさと",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-23.jpg",
+      "ep": "2",
+      "geo": [
+        36.06414,
+        138.39248
+      ]
+    },
+    {
+      "id": "6009-24",
+      "name": "日向木場展望台",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-24.jpg",
+      "ep": "2",
+      "geo": [
+        36.05657,
+        138.31849
+      ]
+    },
+    {
+      "id": "6009-25",
+      "name": "ポールズキッチン",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-25.jpg",
+      "ep": "2",
+      "geo": [
+        36.03511,
+        138.25993
+      ]
+    },
+    {
+      "id": "6009-26",
+      "name": "本栖湖展望公園",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-26.jpg",
+      "ep": "3",
+      "geo": [
+        35.47411,
+        138.57572
+      ]
+    },
+    {
+      "id": "6009-27",
+      "name": "本栖湖ロッジ前 駐車場",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-27.jpg",
+      "ep": "3",
+      "geo": [
+        35.47414,
+        138.5741
+      ]
+    },
+    {
+      "id": "6009-28",
+      "name": "浩庵本館セントラルロッジ",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-28.jpg",
+      "ep": "3",
+      "geo": [
+        35.47359,
+        138.57341
+      ]
+    },
+    {
+      "id": "6009-29",
+      "name": "みのぶ観光案内所",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-29.jpg",
+      "ep": "3",
+      "geo": [
+        35.47497,
+        138.57841
+      ]
+    },
+    {
+      "id": "6009-30",
+      "name": "ふもとっぱら(キャンプサイト)",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-30.jpg",
+      "ep": "3",
+      "geo": [
+        35.40015,
+        138.56252
+      ]
+    },
+    {
+      "id": "6009-31",
+      "name": "古関町防災倉庫",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-31.jpg",
+      "ep": "3",
+      "geo": [
+        35.47941,
+        138.52739
+      ]
+    },
+    {
+      "id": "6009-32",
+      "name": "身延饅頭ベンチ",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-32.jpg",
+      "ep": "3",
+      "geo": [
+        35.36175,
+        138.45254
+      ]
+    },
+    {
+      "id": "6009-33",
+      "name": "内船駅",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-33.jpg",
+      "ep": "3",
+      "geo": [
+        35.28152,
+        138.46487
+      ]
+    },
+    {
+      "id": "6009-34",
+      "name": "タイヤガーデン 南部店",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-34.jpg",
+      "ep": "3",
+      "geo": [
+        35.28235,
+        138.45646
+      ]
+    },
+    {
+      "id": "6009-35",
+      "name": "四尾連湖 水明荘",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-35.jpg",
+      "ep": "3",
+      "geo": [
+        35.53055,
+        138.5186
+      ]
+    },
+    {
+      "id": "6009-36",
+      "name": "小作 竜王玉川店",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-36.jpg",
+      "ep": "3",
+      "geo": [
+        35.63587,
+        138.52114
+      ]
+    },
+    {
+      "id": "6009-37",
+      "name": "夜叉神ヒュッテ（旧夜叉神の森）",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-37.jpg",
+      "ep": "3",
+      "geo": [
+        35.63549,
+        138.34433
+      ]
+    },
+    {
+      "id": "6009-38",
+      "name": "ファミリーマート 南アルプス野牛島店",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-38.jpg",
+      "ep": "3",
+      "geo": [
+        35.66422,
+        138.48961
+      ]
+    },
+    {
+      "id": "6009-39",
+      "name": "諏訪湖 サービスエリア (下り)",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-39.jpg",
+      "ep": "3",
+      "geo": [
+        36.02698,
+        138.07596
+      ]
+    },
+    {
+      "id": "6009-40",
+      "name": "松本城",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-40.jpg",
+      "ep": "3",
+      "geo": [
+        36.2379,
+        137.9695
+      ]
+    },
+    {
+      "id": "6009-41",
+      "name": "陣馬形山キャンプ場",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-41.jpg",
+      "ep": "3",
+      "geo": [
+        35.67404,
+        137.98343
+      ]
+    },
+    {
+      "id": "6009-42",
+      "name": "菅の台バスセンター 駐車場",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-42.jpg",
+      "ep": "3",
+      "geo": [
+        35.74308,
+        137.89094
+      ]
+    },
+    {
+      "id": "6009-43",
+      "name": "軽食&喫茶 ガロ",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-43.jpg",
+      "ep": "3",
+      "geo": [
+        35.74318,
+        137.88919
+      ]
+    },
+    {
+      "id": "6009-44",
+      "name": "光前寺 三門",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-44.jpg",
+      "ep": "3",
+      "geo": [
+        35.7352,
+        137.89628
+      ]
+    },
+    {
+      "id": "6009-45",
+      "name": "光前寺 本堂",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-45.jpg",
+      "ep": "3",
+      "geo": [
+        35.73487,
+        137.89551
+      ]
+    },
+    {
+      "id": "6009-46",
+      "name": "高ボッチ高原",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-46.jpg",
+      "ep": "3",
+      "geo": [
+        36.13526,
+        138.03727
+      ]
+    },
+    {
+      "id": "6009-47",
+      "name": "鉢伏山 展望台",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-47.jpg",
+      "ep": "3",
+      "geo": [
+        36.16227,
+        138.05801
+      ]
+    },
+    {
+      "id": "6009-48",
+      "name": "片倉館",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-48.jpg",
+      "ep": "3",
+      "geo": [
+        36.04829,
+        138.11332
+      ]
+    },
+    {
+      "id": "6009-49",
+      "name": "霧ヶ峰ビーナス",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-49.jpg",
+      "ep": "3",
+      "geo": [
+        36.09723,
+        138.16817
+      ]
+    },
+    {
+      "id": "6009-50",
+      "name": "葡萄工房ワイングラス館",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-50.jpg",
+      "ep": "4",
+      "geo": [
+        35.67941,
+        138.71888
+      ]
+    },
+    {
+      "id": "6009-51",
+      "name": "甲州市勝沼 ぶどうの丘",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-51.jpg",
+      "ep": "4",
+      "geo": [
+        35.67471,
+        138.73695
+      ]
+    },
+    {
+      "id": "6009-52",
+      "name": "天空の湯",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-52.jpg",
+      "ep": "4",
+      "geo": [
+        35.67371,
+        138.73642
+      ]
+    },
+    {
+      "id": "6009-53",
+      "name": "いちやまマート 山梨店",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-53.jpg",
+      "ep": "4",
+      "geo": [
+        35.69347,
+        138.68661
+      ]
+    },
+    {
+      "id": "6009-54",
+      "name": "アシストエンジニアリング よっちゃばれ広場",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-54.jpg",
+      "ep": "4",
+      "geo": [
+        35.66742,
+        138.5699
+      ]
+    },
+    {
+      "id": "6009-55",
+      "name": "武田信玄公之像",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-55.jpg",
+      "ep": "4",
+      "geo": [
+        35.66679,
+        138.56801
+      ]
+    },
+    {
+      "id": "6009-56",
+      "name": "コーヒー&ランチの店 ひなた",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-56.jpg",
+      "ep": "4",
+      "geo": [
+        35.67323,
+        138.56777
+      ]
+    },
+    {
+      "id": "6009-57",
+      "name": "富士アイス 駐車場",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-57.jpg",
+      "ep": "4",
+      "geo": [
+        35.67329,
+        138.56754
+      ]
+    },
+    {
+      "id": "6009-58",
+      "name": "御勅使南公園",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-58.jpg",
+      "ep": "4",
+      "geo": [
+        35.66768,
+        138.45984
+      ]
+    },
+    {
+      "id": "6009-59",
+      "name": "服屋29",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-59.jpg",
+      "ep": "4",
+      "geo": [
+        35.66147,
+        138.43969
+      ]
+    },
+    {
+      "id": "6009-60",
+      "name": "竜王駅",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-60.jpg",
+      "ep": "4",
+      "geo": [
+        35.66859,
+        138.51957
+      ]
+    },
+    {
+      "id": "6009-61",
+      "name": "ブレーメン",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-61.jpg",
+      "ep": "4",
+      "geo": [
+        35.67205,
+        138.5241
+      ]
+    },
+    {
+      "id": "6009-62",
+      "name": "お食事処 ぼんち大盛り",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-62.jpg",
+      "ep": "4",
+      "geo": [
+        35.6595,
+        138.53219
+      ]
+    },
+    {
+      "id": "6009-63",
+      "name": "イオンスタイル甲府昭和",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-63.jpg",
+      "ep": "4",
+      "geo": [
+        35.62401,
+        138.52546
+      ]
+    },
+    {
+      "id": "6009-64",
+      "name": "八ヶ岳 パーキングエリア (下り)",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-64.jpg",
+      "ep": "5",
+      "geo": [
+        35.84466,
+        138.36467
+      ]
+    },
+    {
+      "id": "6009-65",
+      "name": "八ヶ岳食工房",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-65.jpg",
+      "ep": "5",
+      "geo": [
+        35.97043,
+        138.26571
+      ]
+    },
+    {
+      "id": "6009-66",
+      "name": "ミルクポット",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-66.jpg",
+      "ep": "5",
+      "geo": [
+        35.9184,
+        138.4361
+      ]
+    },
+    {
+      "id": "6009-67",
+      "name": "お食事処 峯の茶屋",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-67.jpg",
+      "ep": "5",
+      "geo": [
+        35.91889,
+        138.43786
+      ]
+    },
+    {
+      "id": "6009-68",
+      "name": "田舎そば 米村",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-68.jpg",
+      "ep": "5",
+      "geo": [
+        35.91801,
+        138.43531
+      ]
+    },
+    {
+      "id": "6009-69",
+      "name": "ファミリーマート 清里駅前店",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-69.jpg",
+      "ep": "5",
+      "geo": [
+        35.9186,
+        138.43661
+      ]
+    },
+    {
+      "id": "6009-70",
+      "name": "清里ハム",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-70.jpg",
+      "ep": "5",
+      "geo": [
+        35.8995,
+        138.43667
+      ]
+    },
+    {
+      "id": "6009-71",
+      "name": "サンメドウズ清里 スキー場/ハイランドパーク",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-71.jpg",
+      "ep": "5",
+      "geo": [
+        35.94755,
+        138.41445
+      ]
+    },
+    {
+      "id": "6009-72",
+      "name": "清里展望台",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-72.jpg",
+      "ep": "5",
+      "geo": [
+        35.95065,
+        138.40196
+      ]
+    },
+    {
+      "id": "6009-73",
+      "name": "萌木の村",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-73.jpg",
+      "ep": "5",
+      "geo": [
+        35.91571,
+        138.44205
+      ]
+    },
+    {
+      "id": "6009-74",
+      "name": "萌木の村 森のメリーゴーラウンド",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-74.jpg",
+      "ep": "5",
+      "geo": [
+        35.91453,
+        138.44406
+      ]
+    },
+    {
+      "id": "6009-75",
+      "name": "野呂川広河原インフォメーションセンター",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-75.jpg",
+      "ep": "5",
+      "geo": [
+        35.69711,
+        138.27084
+      ]
+    }
+  ]
+}

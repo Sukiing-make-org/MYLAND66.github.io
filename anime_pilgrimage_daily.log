@@ -1,0 +1,11 @@
+2025-05-13 00:20:27,457 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2025-05-13 00:20:27,458 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2025-05-13 00:20:27,661 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2025-05-13 00:20:29,122 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2025-05-13 00:23:08,914 - AnimePilgrimageUpdater - INFO - Successfully retrieved 89 anime in test run
+2025-05-13 00:23:08,914 - AnimePilgrimageUpdater - INFO - Test anime 1: ゆるゆり♪♪
+2025-05-13 00:23:08,914 - AnimePilgrimageUpdater - INFO - Test anime 2: ゆるゆり
+2025-05-13 00:23:08,914 - AnimePilgrimageUpdater - INFO - Test anime 3: 青春ブタ野郎はランドセルガールの夢を見ない
+2025-05-13 00:23:08,914 - AnimePilgrimageUpdater - INFO - Test anime 4: 真･侍伝 YAIBA
+2025-05-13 00:23:08,914 - AnimePilgrimageUpdater - INFO - Test anime 5: 小市民シリーズ 2期
+2025-05-13 00:46:41,286 - AnimePilgrimageUpdater - INFO - Daily update completed successfully with detailed data

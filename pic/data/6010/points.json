@@ -1,0 +1,54 @@
+{
+  "points": [
+    {
+      "id": "6010-1",
+      "name": "たけおか薬局",
+      "image": "https://image.xinu.ink/pic/data/6010/images/6010-1.jpg",
+      "ep": "1",
+      "geo": [
+        35.20561,
+        139.84611
+      ]
+    },
+    {
+      "id": "6010-2",
+      "name": "三柱神社",
+      "image": "https://image.xinu.ink/pic/data/6010/images/6010-2.jpg",
+      "ep": "3",
+      "geo": [
+        35.20559,
+        139.84144
+      ]
+    },
+    {
+      "id": "6010-3",
+      "name": "竹岡駅",
+      "image": "https://image.xinu.ink/pic/data/6010/images/6010-3.jpg",
+      "ep": "4",
+      "geo": [
+        35.19787,
+        139.83031
+      ]
+    },
+    {
+      "id": "6010-4",
+      "name": "善勝寺",
+      "image": "https://image.xinu.ink/pic/data/6010/images/6010-4.jpg",
+      "ep": "4",
+      "geo": [
+        35.52779,
+        140.28441
+      ]
+    },
+    {
+      "id": "6010-5",
+      "name": "食事処 なぶら [勝山漁港直営]",
+      "image": "https://image.xinu.ink/pic/data/6010/images/6010-5.jpg",
+      "ep": "11",
+      "geo": [
+        35.11207,
+        139.82777
+      ]
+    }
+  ]
+}
