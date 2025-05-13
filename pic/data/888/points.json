@@ -347,5 +347,17 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "vb6u6268i",
+    "cn": "铁路广场",
+    "name": "Jernbanetorget",
+    "image": "https://image.xinu.ink/pic/data/888/images/vb6u6268i-1746474720631.jpg",
+    "ep": 5,
+    "s": 1200,
+    "geo": [
+      59.911,
+      10.7501
+    ]
   }
 ]

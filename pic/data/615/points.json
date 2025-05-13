@@ -395,5 +395,18 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1MQNdvrVVP8wk0iDD5R1QRQ34-Cf_0ahm&ll=33.215764%2C130.359743&z=17"
+  },
+  {
+    "id": "51i521u2l",
+    "cn": "唐津城",
+    "name": "唐津城",
+    "image": "https://image.xinu.ink/pic/data/615/images/51i521u2l-1746795898615.jpg",
+    "ep": null,
+    "geo": [
+      33.453,
+      129.9781
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1MQNdvrVVP8wk0iDD5R1QRQ34-Cf_0ahm&ll=33.453062%2C129.978141&z=17"
   }
 ]

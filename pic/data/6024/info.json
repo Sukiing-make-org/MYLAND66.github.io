@@ -1,0 +1,123 @@
+{
+  "id": 484023,
+  "cn": "有故事的宇治",
+  "title": "うじには物語がある",
+  "city": "宇治市",
+  "cover": "https://image.xinu.ink/pic/data/6024/images/484023_v7qvoa9mi.jpg",
+  "color": "#63aaf1",
+  "geo": [
+    34.89119390519032,
+    135.80608504763228
+  ],
+  "zoom": 14.291,
+  "modified": 1746484708359,
+  "litePoints": [
+    {
+      "id": "v7p36m50c",
+      "name": "宇治神社",
+      "image": "https://image.anitabi.cn/user/1000/bangumi/484023/points/v7p36m50c-1746200813350.jpg?plan=h160",
+      "ep": 1,
+      "s": 8,
+      "geo": [
+        34.891,
+        135.8105
+      ]
+    },
+    {
+      "id": "v7p8qn9k7",
+      "name": "桐原水",
+      "image": "https://image.anitabi.cn/points/484023/v7p8qn9k7_1746201147163.jpg?plan=h160",
+      "s": 49,
+      "geo": [
+        34.8907,
+        135.8101
+      ]
+    },
+    {
+      "id": "v7p8xnsdp",
+      "name": "宇治神社 第一鸟居",
+      "image": "https://image.anitabi.cn/points/484023/v7p8xnsdp_1746201190882.jpg?plan=h160",
+      "s": 51,
+      "geo": [
+        34.8905,
+        135.8099
+      ]
+    },
+    {
+      "id": "v7pajw0dc",
+      "name": "平等院",
+      "image": "https://image.anitabi.cn/points/484023/v7pajw0dc_1746201251880.jpg?plan=h160",
+      "s": 70,
+      "geo": [
+        34.8893,
+        135.8081
+      ]
+    },
+    {
+      "id": "v7pfls0ln",
+      "name": "ますだ茶舗前",
+      "image": "https://image.anitabi.cn/points/484023/v7pfls0ln_1746201564079.jpg?plan=h160",
+      "s": 97,
+      "geo": [
+        34.8906,
+        135.8067
+      ]
+    },
+    {
+      "id": "v7pmwdyxl",
+      "name": "平等院表参道",
+      "image": "https://image.anitabi.cn/points/484023/v7pmwdyxl_1746201998177.jpg?plan=h160",
+      "s": 104,
+      "geo": [
+        34.8906,
+        135.8067
+      ]
+    },
+    {
+      "id": "v7pqw6ptp",
+      "name": "お休み処丸吉",
+      "image": "https://image.anitabi.cn/points/484023/v7pqw6ptp_1746202240023.jpg?plan=h160",
+      "s": 131,
+      "geo": [
+        34.891,
+        135.8064
+      ]
+    },
+    {
+      "id": "v7prqmmu5",
+      "name": "宇治​盛​茶会​やま​も​と",
+      "image": "https://image.anitabi.cn/points/484023/v7prqmmu5_1746202293824.jpg?plan=h160",
+      "s": 137,
+      "geo": [
+        34.891,
+        135.8039
+      ]
+    },
+    {
+      "id": "v7ptxr6vo",
+      "name": "中村藤吉",
+      "image": "https://image.anitabi.cn/points/484023/v7ptxr6vo_1746202426392.jpg?plan=h160",
+      "s": 142,
+      "geo": [
+        34.8893,
+        135.8016
+      ]
+    },
+    {
+      "id": "v7puthxhj",
+      "name": "三之间",
+      "image": "https://image.anitabi.cn/points/484023/v7puthxhj_1746202481160.jpg?plan=h160",
+      "s": 162,
+      "geo": [
+        34.8922,
+        135.8059
+      ]
+    }
+  ],
+  "pointsLength": 70,
+  "imagesLength": 70,
+  "name": "うじには物語がある",
+  "name_cn": "有故事的宇治",
+  "theme_color": "#63aaf1",
+  "local_id": 6024
+}

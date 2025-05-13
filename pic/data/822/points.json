@@ -114,5 +114,74 @@
     ],
     "origin": "Anitabi@Eureka",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v70i80c6y",
+    "cn": "全家便利店原町二丁目店",
+    "name": "ファミリーマート 原町二丁目店",
+    "image": "https://image.xinu.ink/pic/data/822/images/v70i80c6y-1746148166654.jpg",
+    "ep": 8,
+    "s": 710,
+    "geo": [
+      35.614,
+      139.6916
+    ],
+    "origin": "Anitabi@柒宇",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v70i7zqd2",
+    "cn": "Grandma's GEORGES",
+    "name": "Grandma's GEORGES",
+    "image": "https://image.xinu.ink/pic/data/822/images/v70i7zqd2-1746148166655.jpg",
+    "ep": 10,
+    "s": 248,
+    "geo": [
+      35.6621,
+      139.6995
+    ],
+    "origin": "Anitabi@柒宇",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v70i80evm",
+    "cn": "世田谷区立奥沢中学校",
+    "name": "世田谷区立奥沢中学校",
+    "image": "https://image.xinu.ink/pic/data/822/images/v70i80evm-1746148166656.jpg",
+    "ep": "ED",
+    "s": 1196,
+    "geo": [
+      35.6026,
+      139.68
+    ],
+    "origin": "Anitabi@柒宇",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v70i80hf5",
+    "name": "目黑",
+    "image": "https://image.xinu.ink/pic/data/822/images/v70i80hf5-1746148166655.jpg",
+    "ep": 6,
+    "s": 1281,
+    "geo": [
+      35.6333,
+      139.7156
+    ],
+    "origin": "Anitabi@柒宇",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v70i803w3",
+    "cn": "碑文谷警察署 原町派出所",
+    "name": "碑文谷警察署 原町交番",
+    "image": "https://image.xinu.ink/pic/data/822/images/v70i803w3-1746148166653.jpg",
+    "ep": 4,
+    "s": 756,
+    "geo": [
+      35.6151,
+      139.6915
+    ],
+    "origin": "Anitabi@柒宇",
+    "originURL": "https://anitabi.cn/"
   }
 ]

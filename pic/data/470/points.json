@@ -536,5 +536,38 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1xiL0gz7DztzX3KeJgo01p88aA7g&ll=33.450775%2C130.03543&z=17"
+  },
+  {
+    "id": "51i535upq",
+    "name": "西ノ浜２",
+    "image": "https://image.xinu.ink/pic/data/470/images/51i535upq_1746374381576.jpg",
+    "geo": [
+      33.4545,
+      129.9758
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1xiL0gz7DztzX3KeJgo01p88aA7g&ll=33.454584%2C129.975804&z=17"
+  },
+  {
+    "id": "51i535vo4",
+    "name": "ドライブイン鳥",
+    "image": "https://image.xinu.ink/pic/data/470/images/51i535vo4_1746374962596.jpg",
+    "geo": [
+      33.2871,
+      129.902
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1xiL0gz7DztzX3KeJgo01p88aA7g&ll=33.287194%2C129.902076&z=17"
+  },
+  {
+    "id": "51i535vdv",
+    "name": "飯塚アイスパレス",
+    "image": "https://image.xinu.ink/pic/data/470/images/51i535vdv_1746374500037.jpg",
+    "geo": [
+      33.6439,
+      130.7057
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1xiL0gz7DztzX3KeJgo01p88aA7g&ll=33.643983%2C130.705719&z=17"
   }
 ]
