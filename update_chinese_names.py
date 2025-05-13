@@ -76,7 +76,10 @@ def get_chinese_name_from_bangumi(japanese_name, logger):
         return japanese_name
 
 def update_chinese_names(args):
-    """Update Chinese names for anime where name and name_cn are identical
+    """更新动漫中文名，仅处理以下两种情况的番剧：
+    1. 中日名数组完全一致的番剧（name 和 name_cn 相同）
+    2. 中文数组为空的番剧（name_cn 为空）
+    其他情况的番剧将被跳过，不做任何修改。
 
     Args:
         args: Command line arguments
@@ -110,9 +113,26 @@ def update_chinese_names(args):
 
     # Process each anime in index.json
     for local_id, anime in index_data.items():
-        # Check if name and name_cn are identical or if name_cn is empty
-        if anime.get('name') == anime.get('name_cn') or not anime.get('name_cn'):
-            japanese_name = anime.get('name', '')
+        # 获取日文名和中文名
+        japanese_name = anime.get('name', '')
+        chinese_name_array = anime.get('name_cn', '')
+
+        # 检查是否需要更新中文名
+        needs_update = False
+
+        # 情况1: 中文数组为空
+        if not chinese_name_array:
+            needs_update = True
+            logger.info(f"动漫ID {local_id}: 中文名数组为空，需要更新")
+        # 情况2: 中日名数组完全一致
+        elif japanese_name == chinese_name_array:
+            needs_update = True
+            logger.info(f"动漫ID {local_id}: 中日名数组完全一致，需要更新")
+        else:
+            logger.info(f"动漫ID {local_id}: 中日名不同，无需更新")
+            continue
+
+        if needs_update:
             if not japanese_name:
                 logger.warning(f"动漫ID {local_id} 没有日文名，跳过")
                 continue
@@ -198,7 +218,7 @@ def send_bark_notification(bark_url, title, message):
 
 def main():
     # Parse command line arguments
-    parser = argparse.ArgumentParser(description='动漫中文名更新工具')
+    parser = argparse.ArgumentParser(description='动漫中文名更新工具 - 仅处理中日名相同或中文名为空的番剧')
     parser.add_argument('--base-dir', type=str, default=BASE_DIR, help='动漫数据的基础目录')
     parser.add_argument('--bark-url', type=str, default=DEFAULT_BARK_URL, help='Bark通知URL')
 
@@ -210,20 +230,20 @@ def main():
     # Send notification
     if result["updated_count"] > 0:
         title = "🔤 动漫中文名更新"
-        message = f"✅ 成功更新了 {result['updated_count']} 个动漫的中文名"
-        
+        message = f"✅ 成功更新了 {result['updated_count']} 个中日名相同或中文名为空的动漫"
+
         # Add some examples if available (limit to 3)
         if result["updated_anime"]:
             examples = result["updated_anime"][:3]
             message += "\n\n例如:"
             for anime in examples:
                 message += f"\n• {anime['japanese_name']} → {anime['chinese_name']}"
-            
+
             if len(result["updated_anime"]) > 3:
                 message += f"\n...等共 {result['updated_count']} 个"
     else:
         title = "🔤 动漫中文名检查"
-        message = "✓ 所有动漫已有正确的中文名，无需更新"
+        message = "✓ 没有发现中日名相同或中文名为空的动漫，无需更新"
 
     send_bark_notification(args.bark_url, title, message)
 
