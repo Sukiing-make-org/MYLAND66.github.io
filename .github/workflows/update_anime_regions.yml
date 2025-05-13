@@ -49,6 +49,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0  # Fetch all history for proper git operations
+          token: ${{ secrets.PAT }}  # 使用个人访问令牌进行身份验证
 
       - name: Set up Python
         if: steps.check_workflows.outputs.result == 'true'
@@ -100,7 +101,8 @@ jobs:
             else
               git commit -m "更新动漫地区信息(部分完成): $(date +'%Y-%m-%d')"
             fi
-            git push
+            # 使用个人访问令牌进行推送，确保有足够的权限
+            git push https://${{ secrets.PAT }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
             echo "changes_pushed=true" >> $GITHUB_OUTPUT
           else
             echo "没有需要提交的更改"
