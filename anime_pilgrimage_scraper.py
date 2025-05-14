@@ -1224,25 +1224,126 @@ class AnimePilgrimageScraper:
 
             self.logger.info(f"Checking if anime '{anime_title}' exists in {index_path} with {len(index_data)} entries")
 
-            # Check if the anime title exists in any entry
+            # 标准化函数：移除标点符号、空格，并转为小写
+            def normalize_name(name):
+                if not name:
+                    return ""
+                # 移除标点符号和空格，转为小写
+                import re
+                return re.sub(r'[^\w\s]', '', name).lower().replace(' ', '')
+
+            # 标准化搜索的番剧名称
+            normalized_anime_title = normalize_name(anime_title)
+            self.logger.info(f"Normalized search title: '{normalized_anime_title}'")
+
+            # 收集所有可能的匹配项，稍后选择最佳匹配
+            exact_matches = []  # 精确匹配
+            normalized_matches = []  # 标准化后的精确匹配
+            substring_matches = []  # 子字符串匹配
+
+            # 检查番剧是否存在于索引中
             for local_id, anime_data in index_data.items():
-                # Get the Japanese and Chinese names for comparison
+                # 获取日语和中文名称进行比较
                 jp_name = anime_data.get('name', '')
                 cn_name = anime_data.get('name_cn', '')
 
-                # Check both Japanese and Chinese names with exact matching
+                # 标准化数据库中的名称
+                normalized_jp_name = normalize_name(jp_name)
+                normalized_cn_name = normalize_name(cn_name)
+
+                # 首先检查精确匹配（原始名称）
                 if jp_name == anime_title or cn_name == anime_title:
                     self.logger.info(f"✓ Anime '{anime_title}' exactly matches existing anime in {index_path} with ID {local_id}")
                     self.logger.info(f"  Existing entry: JP='{jp_name}', CN='{cn_name}'")
-                    return (True, local_id)
+                    exact_matches.append((local_id, jp_name, cn_name, 100))  # 100表示最高匹配度
 
-                # Log near matches for debugging
+                # 然后检查标准化后的精确匹配
+                elif (normalized_jp_name and normalized_jp_name == normalized_anime_title) or \
+                     (normalized_cn_name and normalized_cn_name == normalized_anime_title):
+                    self.logger.info(f"✓ Anime '{anime_title}' matches existing anime after normalization in {index_path} with ID {local_id}")
+                    self.logger.info(f"  Existing entry: JP='{jp_name}', CN='{cn_name}'")
+                    self.logger.info(f"  Normalized: JP='{normalized_jp_name}', CN='{normalized_cn_name}'")
+                    normalized_matches.append((local_id, jp_name, cn_name, 90))  # 90表示次高匹配度
+
+                # 检查包含关系（如果标准化后的名称是另一个的子字符串）
+                # 只有当名称长度超过一定值时才考虑包含关系，以避免误匹配
+                else:
+                    min_length = 5  # 最小长度阈值
+
+                    if normalized_anime_title and len(normalized_anime_title) >= min_length:
+                        # 计算匹配分数 - 基于匹配的字符串长度和相似度
+                        match_score = 0
+                        match_type = ""
+
+                        # 特殊情况：检查搜索名称是否是数据库名称的前缀（如"Test Anime 2"是"Test Anime 2: The Sequel"的前缀）
+                        # 这种情况应该优先匹配
+                        if normalized_jp_name and normalized_jp_name.startswith(normalized_anime_title) and len(normalized_anime_title) >= min_length:
+                            # 给予更高的分数，确保这种匹配优先级最高
+                            score = 95 - (len(normalized_jp_name) - len(normalized_anime_title)) * 0.1  # 减去一点差异长度的惩罚
+                            if score > match_score:
+                                match_score = score
+                                match_type = "JP starts with search (prefix match)"
+
+                        if normalized_cn_name and normalized_cn_name.startswith(normalized_anime_title) and len(normalized_anime_title) >= min_length:
+                            score = 95 - (len(normalized_cn_name) - len(normalized_anime_title)) * 0.1
+                            if score > match_score:
+                                match_score = score
+                                match_type = "CN starts with search (prefix match)"
+
+                        # 检查数据库名称是否包含搜索名称（但不是前缀）
+                        if normalized_jp_name and normalized_anime_title in normalized_jp_name and not normalized_jp_name.startswith(normalized_anime_title) and len(normalized_jp_name) >= min_length:
+                            # 计算匹配分数：搜索名称长度占数据库名称长度的百分比
+                            score = (len(normalized_anime_title) / len(normalized_jp_name)) * 80
+                            if score > match_score:
+                                match_score = score
+                                match_type = "JP contains search"
+
+                        if normalized_cn_name and normalized_anime_title in normalized_cn_name and not normalized_cn_name.startswith(normalized_anime_title) and len(normalized_cn_name) >= min_length:
+                            score = (len(normalized_anime_title) / len(normalized_cn_name)) * 80
+                            if score > match_score:
+                                match_score = score
+                                match_type = "CN contains search"
+
+                        # 检查搜索名称是否包含数据库名称
+                        if normalized_jp_name and normalized_jp_name in normalized_anime_title and len(normalized_jp_name) >= min_length:
+                            # 计算匹配分数：数据库名称长度占搜索名称长度的百分比
+                            score = (len(normalized_jp_name) / len(normalized_anime_title)) * 70
+                            if score > match_score:
+                                match_score = score
+                                match_type = "Search contains JP"
+
+                        if normalized_cn_name and normalized_cn_name in normalized_anime_title and len(normalized_cn_name) >= min_length:
+                            score = (len(normalized_cn_name) / len(normalized_anime_title)) * 70
+                            if score > match_score:
+                                match_score = score
+                                match_type = "Search contains CN"
+
+                        # 如果有匹配，添加到子字符串匹配列表
+                        if match_score > 0:
+                            self.logger.info(f"✓ Substring match ({match_type}) for '{anime_title}' with ID {local_id}, score: {match_score:.1f}")
+                            self.logger.info(f"  Existing entry: JP='{jp_name}', CN='{cn_name}'")
+                            substring_matches.append((local_id, jp_name, cn_name, match_score))
+
+                # 记录接近匹配以便调试
                 if (jp_name and anime_title in jp_name) or (cn_name and anime_title in cn_name):
                     self.logger.info(f"  Near match found but not exact: ID={local_id}, JP='{jp_name}', CN='{cn_name}'")
-
-                # Also check if anime_title contains the Japanese or Chinese name
                 if (jp_name and jp_name in anime_title) or (cn_name and cn_name in anime_title):
                     self.logger.info(f"  Reverse near match found but not exact: ID={local_id}, JP='{jp_name}', CN='{cn_name}'")
+
+            # 选择最佳匹配
+            if exact_matches:
+                # 如果有精确匹配，返回第一个
+                best_match = exact_matches[0]
+                return (True, best_match[0])
+            elif normalized_matches:
+                # 如果有标准化匹配，返回第一个
+                best_match = normalized_matches[0]
+                return (True, best_match[0])
+            elif substring_matches:
+                # 如果有子字符串匹配，返回分数最高的
+                best_match = max(substring_matches, key=lambda x: x[3])
+                self.logger.info(f"Best substring match for '{anime_title}': ID={best_match[0]}, score: {best_match[3]:.1f}")
+                return (True, best_match[0])
 
             self.logger.info(f"✗ Anime '{anime_title}' not found in {index_path}")
             return (False, None)
