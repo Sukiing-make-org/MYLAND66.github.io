@@ -185,3 +185,14 @@
 2025-05-28 12:47:15,713 - AnimePilgrimageUpdater - INFO - Test anime 4: ゆるゆり なちゅやちゅみ！＋
 2025-05-28 12:47:15,713 - AnimePilgrimageUpdater - INFO - Test anime 5: ゆるゆり なちゅやちゅみ！
 2025-05-28 13:00:00,243 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2025-05-29 12:44:18,624 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2025-05-29 12:44:18,624 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2025-05-29 12:44:18,833 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2025-05-29 12:44:19,801 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2025-05-29 12:46:29,679 - AnimePilgrimageUpdater - INFO - Successfully retrieved 33 anime in test run
+2025-05-29 12:46:29,680 - AnimePilgrimageUpdater - INFO - Test anime 1: 小市民シリーズ 2期
+2025-05-29 12:46:29,680 - AnimePilgrimageUpdater - INFO - Test anime 2: ウマ娘 シンデレラグレイ
+2025-05-29 12:46:29,680 - AnimePilgrimageUpdater - INFO - Test anime 3: 前橋ウィッチーズ
+2025-05-29 12:46:29,680 - AnimePilgrimageUpdater - INFO - Test anime 4: ゆるゆり なちゅやちゅみ！＋
+2025-05-29 12:46:29,680 - AnimePilgrimageUpdater - INFO - Test anime 5: ゆるゆり なちゅやちゅみ！
+2025-05-29 12:59:28,368 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
