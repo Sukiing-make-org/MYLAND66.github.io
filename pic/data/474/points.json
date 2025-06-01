@@ -118,5 +118,17 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1ZJgkqQwpW33CwRoRE0QGbNES6KcIWz4&ll=34.723883%2C137.739037&z=17"
+  },
+  {
+    "id": "qbffpr",
+    "cn": "Act Tower",
+    "name": "アクトタワー",
+    "image": "https://image.xinu.ink/pic/data/474/images/qbffpr-1748601845038.jpg",
+    "ep": "2",
+    "s": "11",
+    "geo": [
+      34.7055,
+      137.7371
+    ]
   }
 ]

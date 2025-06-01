@@ -64,5 +64,92 @@
       34.9544,
       138.4524
     ]
+  },
+  {
+    "id": "mfdy7a",
+    "cn": "朝雾食品公园路牌",
+    "name": "あさぎりフードパーク",
+    "image": "https://image.xinu.ink/pic/data/829/images/mfdy7a-1748366585937.jpg",
+    "ep": 6,
+    "geo": [
+      35.413,
+      138.5918
+    ],
+    "origin": "Anitabi@Azusa",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mfjmq7",
+    "name": "溶岩樹型",
+    "image": "https://image.xinu.ink/pic/data/829/images/mfjmq7-1748366722935.jpg",
+    "ep": 6,
+    "geo": [
+      35.4118,
+      138.5908
+    ],
+    "origin": "Anitabi@Azusa",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mfmieb",
+    "name": "富士正酒造",
+    "image": "https://image.xinu.ink/pic/data/829/images/mfmieb-1748366880164.jpg",
+    "ep": 6,
+    "geo": [
+      35.4116,
+      138.5906
+    ],
+    "origin": "Anitabi@Azusa",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mg48r1",
+    "cn": "朝雾食品公园活动广场",
+    "name": "あさぎりフードパーク イベント広場",
+    "image": "https://image.xinu.ink/pic/data/829/images/mg48r1-1748367834695.jpg",
+    "ep": 6,
+    "geo": [
+      35.4121,
+      138.5915
+    ],
+    "origin": "Anitabi@Azusa",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mgddbs",
+    "cn": "富士山无人机飞行广场",
+    "name": "富士山スカイグラウンド",
+    "image": "https://image.xinu.ink/pic/data/829/images/mgddbs-1748368216573.jpg",
+    "ep": 6,
+    "geo": [
+      35.4118,
+      138.5934
+    ],
+    "origin": "Anitabi@Azusa",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mh9o6w",
+    "name": "清水灯台",
+    "image": "https://image.xinu.ink/pic/data/829/images/mh9o6w-1748369628539.jpg",
+    "ep": 1,
+    "geo": [
+      35.0105,
+      138.5304
+    ],
+    "origin": "Anitabi@Azusa",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mhpqwb",
+    "name": "清水真崎灯台",
+    "image": "https://image.xinu.ink/pic/data/829/images/mhpqwb-1748370985346.jpg",
+    "ep": 1,
+    "geo": [
+      35.0201,
+      138.5152
+    ],
+    "origin": "Anitabi@Azusa",
+    "originURL": "https://anitabi.cn/"
   }
 ]

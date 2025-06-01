@@ -1,0 +1,35 @@
+{
+  "id": 455602,
+  "title": "今日からここで暮らシマす!?",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/6031/images/455602.jpg",
+  "color": "#fd7235",
+  "modified": 1747474557212,
+  "litePoints": [
+    {
+      "id": "7g8x9n",
+      "name": "民宿 かいゆう丸",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/455602/points/7g8x9n-1747460925682.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        32.4649,
+        139.7613
+      ]
+    },
+    {
+      "id": "7fjdca",
+      "name": "青ヶ島港（三宝港）",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/455602/points/7fjdca-1747459843157.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        32.4471,
+        139.7587
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "name": "今日からここで暮らシマす!?",
+  "theme_color": "#fd7235",
+  "local_id": 6031
+}

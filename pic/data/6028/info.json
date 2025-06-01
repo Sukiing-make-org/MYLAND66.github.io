@@ -1,0 +1,48 @@
+{
+  "id": 280516,
+  "cn": "昨日之歌",
+  "title": "イエスタデイをうたって",
+  "cover": "https://image.xinu.ink/pic/data/6028/images/280516_TvEE7.jpg",
+  "cp": "イエスタデイをうたって",
+  "modified": 1748655140169,
+  "litePoints": [
+    {
+      "id": "51i52epaj",
+      "name": "第7話　浪と榀子のシーン①",
+      "image": "https://image.anitabi.cn/points/4631/51i52epaj_1672370107227.jpg?plan=h160",
+      "ep": 7,
+      "s": 924,
+      "geo": [
+        35.6559,
+        139.6698
+      ]
+    },
+    {
+      "id": "51i52epr1",
+      "name": "第7話　浪と榀子のシーン②",
+      "image": "https://image.anitabi.cn/points/4631/51i52epr1_1672370110227.jpg?plan=h160",
+      "ep": 7,
+      "s": 1000,
+      "geo": [
+        35.6556,
+        139.6697
+      ]
+    },
+    {
+      "id": "51i52eoz7",
+      "name": "せせらぎ公園",
+      "image": "https://image.anitabi.cn/points/4631/51i52eoz7_1672370094228.jpg?plan=h160",
+      "ep": 3,
+      "s": 646,
+      "geo": [
+        35.6539,
+        139.6711
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "name": "イエスタデイをうたって",
+  "name_cn": "昨日之歌",
+  "local_id": 6028
+}

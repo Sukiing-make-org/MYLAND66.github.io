@@ -1065,5 +1065,407 @@
       35.6616,
       139.6674
     ]
+  },
+  {
+    "id": "cl27l5",
+    "name": "金沢シーサイドライン下広場",
+    "image": "https://image.xinu.ink/pic/data/750/images/cl27l5_1747771330293.jpg",
+    "ep": 1,
+    "s": 241,
+    "geo": [
+      35.3303,
+      139.6231
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cm9tso",
+    "name": "八景生花店",
+    "image": "https://image.xinu.ink/pic/data/750/images/cm9tso_1747773358419.jpg",
+    "ep": 1,
+    "s": 419,
+    "geo": [
+      35.3312,
+      139.6206
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "csr0hh",
+    "name": "江の島大橋",
+    "image": "https://image.xinu.ink/pic/data/750/images/csr0hh_1747784239628.jpg",
+    "ep": 2,
+    "s": 337,
+    "geo": [
+      35.3059,
+      139.4831
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "csv0pl",
+    "name": "片瀬東浜海水浴場",
+    "image": "https://image.xinu.ink/pic/data/750/images/csv0pl_1747784424083.jpg",
+    "ep": 2,
+    "s": 339,
+    "geo": [
+      35.3067,
+      139.485
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cl5jpa",
+    "name": "金沢八景マンション前",
+    "image": "https://image.xinu.ink/pic/data/750/images/cl5jpa_1747771479220.jpg",
+    "ep": 3,
+    "s": 65,
+    "geo": [
+      35.3296,
+      139.6239
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "croeok",
+    "name": "下北沢 美容室 estrella",
+    "image": "https://image.xinu.ink/pic/data/750/images/croeok_1747782442251.jpg",
+    "ep": 3,
+    "s": 566,
+    "geo": [
+      35.6619,
+      139.6683
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cpdz63",
+    "name": "下北沢 時代屋",
+    "image": "https://image.xinu.ink/pic/data/750/images/cpdz63_1747778591856.jpg",
+    "ep": 4,
+    "s": 599,
+    "geo": [
+      35.6624,
+      139.6679
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cp5nbm",
+    "name": "下北沢パーキング",
+    "image": "https://image.xinu.ink/pic/data/750/images/cp5nbm_1747778203048.jpg",
+    "ep": 4,
+    "s": 621,
+    "geo": [
+      35.6627,
+      139.6691
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cmok9d",
+    "name": "下北沢プラッツ 自販機",
+    "image": "https://image.xinu.ink/pic/data/750/images/cmok9d_1747774046198.jpg",
+    "ep": 5,
+    "s": 736,
+    "geo": [
+      35.6616,
+      139.6692
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cs7d4n",
+    "name": "ローソン 金沢八景駅前店",
+    "image": "https://image.xinu.ink/pic/data/750/images/cs7d4n_1747783322591.jpg",
+    "ep": 6,
+    "s": 819,
+    "geo": [
+      35.331,
+      139.6207
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cmbyk3",
+    "name": "金沢八景駅前",
+    "image": "https://image.xinu.ink/pic/data/750/images/cmbyk3_1747773457112.jpg",
+    "ep": 6,
+    "s": 1230,
+    "geo": [
+      35.3313,
+      139.6205
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cq56gy",
+    "name": "小田急線車内",
+    "image": "https://image.xinu.ink/pic/data/750/images/cq56gy_1747779859226.jpg",
+    "ep": 9,
+    "s": 534,
+    "geo": [
+      35.6602,
+      139.6655
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cn0zxm",
+    "name": "片瀬江ノ島駅",
+    "image": "https://image.xinu.ink/pic/data/750/images/cn0zxm_1747774628252.jpg",
+    "ep": 9,
+    "s": 641,
+    "geo": [
+      35.3093,
+      139.4828
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "civzmb",
+    "name": "江ノ島海岸 バス停",
+    "image": "https://image.xinu.ink/pic/data/750/images/civzmb_1747767675816.jpg",
+    "ep": 9,
+    "s": 685,
+    "geo": [
+      35.3069,
+      139.484
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ck81vp",
+    "cn": "江之岛自动扶梯 1区入口",
+    "name": "江の島エスカー 1区乗り場",
+    "image": "https://image.xinu.ink/pic/data/750/images/ck81vp_1747769934888.jpg",
+    "ep": 9,
+    "s": 875,
+    "geo": [
+      35.3005,
+      139.4804
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "b3e522",
+    "cn": "江之岛自动扶梯 3区",
+    "name": "江の島エスカー 3区",
+    "image": "https://image.xinu.ink/pic/data/750/images/b3e522_1747681349725.jpg",
+    "ep": 9,
+    "s": 904,
+    "geo": [
+      35.2991,
+      139.4805
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "b3wtox",
+    "cn": "江之岛自动扶梯 3区出口",
+    "name": "江の島エスカー 3区降り場",
+    "image": "https://image.xinu.ink/pic/data/750/images/b3wtox_1747682053685.jpg",
+    "ep": 9,
+    "s": 925,
+    "geo": [
+      35.299,
+      139.4804
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "b3yeyb",
+    "name": "大道芸広場",
+    "image": "https://image.xinu.ink/pic/data/750/images/b3yeyb_1747682126384.jpg",
+    "ep": 9,
+    "s": 928,
+    "geo": [
+      35.2989,
+      139.4803
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ci1f8j",
+    "cn": "江之岛SeaCandle",
+    "name": "江の島シーキャンドル",
+    "image": "https://image.xinu.ink/pic/data/750/images/ci1f8j_1747766285409.jpg",
+    "ep": 9,
+    "s": 973,
+    "geo": [
+      35.2996,
+      139.4801
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ckhw5z",
+    "name": "江島神社 奉安殿",
+    "image": "https://image.xinu.ink/pic/data/750/images/ckhw5z_1747770376384.jpg",
+    "ep": 9,
+    "s": 1110,
+    "geo": [
+      35.3002,
+      139.4798
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ckq86a",
+    "name": "江島神社 辺津宮",
+    "image": "https://image.xinu.ink/pic/data/750/images/ckq86a_1747770764050.jpg",
+    "ep": 9,
+    "s": 1140,
+    "geo": [
+      35.3003,
+      139.4798
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cqsz7t",
+    "name": "新宿LOFT",
+    "image": "https://image.xinu.ink/pic/data/750/images/cqsz7t_1747780970691.jpg",
+    "ep": 10,
+    "s": 783,
+    "geo": [
+      35.6954,
+      139.7025
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "couqrq",
+    "name": "日本武道館",
+    "image": "https://image.xinu.ink/pic/data/750/images/couqrq_1747777693736.jpg",
+    "ep": 11,
+    "s": 1114,
+    "geo": [
+      35.6931,
+      139.7493
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "co9ds0",
+    "name": "御茶ノ水駅",
+    "image": "https://image.xinu.ink/pic/data/750/images/co9ds0_1747776698437.jpg",
+    "ep": 12,
+    "s": 893,
+    "geo": [
+      35.6998,
+      139.7635
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "co69di",
+    "name": "BigBossお茶の水駅前店 別館",
+    "image": "https://image.xinu.ink/pic/data/750/images/co69di_1747776551788.jpg",
+    "ep": 12,
+    "s": 894,
+    "geo": [
+      35.6993,
+      139.763
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "co3msq",
+    "name": "イシバシ楽器 御茶ノ水本店",
+    "image": "https://image.xinu.ink/pic/data/750/images/co3msq_1747776429030.jpg",
+    "ep": 12,
+    "s": 918,
+    "geo": [
+      35.6992,
+      139.7631
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cnty9n",
+    "name": "クロサワ楽器 お茶の水駅前店",
+    "image": "https://image.xinu.ink/pic/data/750/images/cnty9n_1747775978149.jpg",
+    "ep": 12,
+    "s": 1156,
+    "geo": [
+      35.6992,
+      139.7631
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "coa94i",
+    "name": "クロサワウインド お茶の水店",
+    "image": "https://image.xinu.ink/pic/data/750/images/coa94i_1747776739251.jpg",
+    "ep": 12,
+    "s": 1184,
+    "geo": [
+      35.6994,
+      139.7632
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cj9zf1",
+    "name": "江の島弁天橋",
+    "image": "https://image.xinu.ink/pic/data/750/images/cj9zf1_1747768355279.jpg",
+    "ep": "CD",
+    "geo": [
+      35.305,
+      139.4824
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cqfc39",
+    "name": "新代田駅前",
+    "image": "https://image.xinu.ink/pic/data/750/images/cqfc39_1747780333377.jpg",
+    "geo": [
+      35.6625,
+      139.6602
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cqoiwb",
+    "name": "Zepp Haneda",
+    "image": "https://image.xinu.ink/pic/data/750/images/cqoiwb_1747780761613.jpg",
+    "geo": [
+      35.5474,
+      139.7564
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
   }
 ]

@@ -84,5 +84,241 @@
     ],
     "origin": "Anitabi@うに",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "d1csdq",
+    "name": "夕映えの丘(7卷表紙)",
+    "image": "https://image.xinu.ink/pic/data/655/images/d1csdq-1747798747115.jpg",
+    "ep": null,
+    "geo": [
+      34.9824,
+      138.7727
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aqy3f2",
+    "name": "煌めきの丘",
+    "image": "https://image.xinu.ink/pic/data/655/images/aqy3f2-1747660306133.jpg",
+    "ep": null,
+    "geo": [
+      34.9963,
+      138.7791
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aq2uuf",
+    "name": "道龍橋",
+    "image": "https://image.xinu.ink/pic/data/655/images/aq2uuf-1747659343904.jpg",
+    "ep": null,
+    "geo": [
+      34.9709,
+      138.7776
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "apu1g7",
+    "cn": "道之驿 Kurura户田 外面的观光指引版",
+    "name": "道の駅 くるら戸田　外の観光案内板",
+    "image": "https://image.xinu.ink/pic/data/655/images/apu1g7-1747658427402.jpg",
+    "ep": null,
+    "geo": [
+      34.9714,
+      138.7869
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "as9hgg",
+    "cn": "東海巴士户田候车点",
+    "name": "東海バス戸田待合所",
+    "image": "https://image.xinu.ink/pic/data/655/images/as9hgg-1747674046952.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      34.973,
+      138.7773
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "atzgw6",
+    "name": "小舟ヶ浜",
+    "image": "https://image.xinu.ink/pic/data/655/images/atzgw6-1747665388397.jpg",
+    "ep": null,
+    "geo": [
+      34.9763,
+      138.7674
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "axv9ad",
+    "name": "沼津駅前",
+    "image": "https://image.xinu.ink/pic/data/655/images/axv9ad-1747671985579.jpg",
+    "ep": null,
+    "geo": [
+      35.102,
+      138.8595
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "axz0ms",
+    "name": "戸田温泉",
+    "image": "https://image.xinu.ink/pic/data/655/images/axz0ms-1747672095234.jpg",
+    "ep": null,
+    "geo": [
+      34.9719,
+      138.7833
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ay1mtm",
+    "name": "部田神社　鳥居",
+    "image": "https://image.xinu.ink/pic/data/655/images/ay1mtm-1747672209045.jpg",
+    "ep": null,
+    "geo": [
+      34.971,
+      138.7907
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ay3qco",
+    "name": "御浜岬",
+    "image": "https://image.xinu.ink/pic/data/655/images/ay3qco-1747672360484.jpg",
+    "ep": null,
+    "geo": [
+      34.9775,
+      138.7669
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ay8p7y",
+    "cn": "吉岡家的地方",
+    "name": "吉岡家の場所",
+    "image": "https://image.xinu.ink/pic/data/655/images/ay8p7y-1747672531241.jpg",
+    "ep": null,
+    "geo": [
+      34.9751,
+      138.7884
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aygnh3",
+    "cn": "家门口",
+    "name": "家の外",
+    "image": "https://image.xinu.ink/pic/data/655/images/aygnh3-1747672914579.jpg",
+    "ep": null,
+    "geo": [
+      34.9748,
+      138.7881
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ayjgbs",
+    "cn": "屋外的坡道",
+    "name": "家外の坂道",
+    "image": "https://image.xinu.ink/pic/data/655/images/ayjgbs-1747673070317.jpg",
+    "ep": null,
+    "geo": [
+      34.9746,
+      138.7875
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aymjxv",
+    "cn": "夜路",
+    "name": "夜道",
+    "image": "https://image.xinu.ink/pic/data/655/images/aymjxv-1747673264508.jpg",
+    "ep": null,
+    "geo": [
+      34.9736,
+      138.7866
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ayq5bt",
+    "name": "海のほてるいさば",
+    "image": "https://image.xinu.ink/pic/data/655/images/ayq5bt-1747673350980.jpg",
+    "ep": null,
+    "geo": [
+      34.9712,
+      138.7637
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ayw34u",
+    "cn": "Hotel魚梅(閉館)和Yamazaki戸田店(閉店)",
+    "name": "ホテル魚梅(閉館)とヤマザキ戸田店(閉店)",
+    "image": "https://image.xinu.ink/pic/data/655/images/ayw34u-1747673625757.jpg",
+    "ep": null,
+    "geo": [
+      34.9728,
+      138.7774
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "az14fi",
+    "name": "高田幸子たばこ店",
+    "image": "https://image.xinu.ink/pic/data/655/images/az14fi-1747673882385.jpg",
+    "ep": null,
+    "geo": [
+      34.9729,
+      138.7795
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "az3m12",
+    "name": "部田神社",
+    "image": "https://image.xinu.ink/pic/data/655/images/az3m12-1747673974730.jpg",
+    "ep": null,
+    "geo": [
+      34.971,
+      138.7915
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "d0yfzy",
+    "name": "ENEOS 戸田SS",
+    "image": "https://image.xinu.ink/pic/data/655/images/d0yfzy-1747798137897.jpg",
+    "ep": null,
+    "geo": [
+      34.9768,
+      138.7755
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
   }
 ]

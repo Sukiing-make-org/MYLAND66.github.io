@@ -1668,5 +1668,351 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "gkxmv9",
+    "name": "白子海岸",
+    "image": "https://image.xinu.ink/pic/data/877/images/gkxmv9-1748013012246.jpg",
+    "ep": 7,
+    "s": 126,
+    "geo": [
+      34.8332,
+      136.5958
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "gl27q0",
+    "name": "鈴鹿市​漁業​協同​組合​直販所​ 魚​魚​鈴",
+    "image": "https://image.xinu.ink/pic/data/877/images/gl27q0-1748013195425.jpg",
+    "ep": 7,
+    "s": 170,
+    "geo": [
+      34.8277,
+      136.5919
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "gl7l8s",
+    "name": "伊勢市駅 鳥居",
+    "image": "https://image.xinu.ink/pic/data/877/images/gl7l8s-1748013458159.jpg",
+    "ep": 7,
+    "s": 207,
+    "geo": [
+      34.4906,
+      136.7092
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "glbwxi",
+    "name": "若松屋本店",
+    "image": "https://image.xinu.ink/pic/data/877/images/glbwxi-1748013764752.jpg",
+    "ep": 7,
+    "s": 233,
+    "geo": [
+      34.4957,
+      136.7134
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "gljiyx",
+    "cn": "伊势神宫外宫",
+    "name": "伊勢神宮(外宮)",
+    "image": "https://image.xinu.ink/pic/data/877/images/gljiyx-1748014031162.jpg",
+    "ep": 7,
+    "s": 360,
+    "geo": [
+      34.4871,
+      136.7061
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "glpkis",
+    "name": "伊勢神宮 宇治橋",
+    "image": "https://image.xinu.ink/pic/data/877/images/glpkis-1748014329977.jpg",
+    "ep": 7,
+    "s": 412,
+    "geo": [
+      34.4587,
+      136.7232
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "gln7ob",
+    "name": "五十鈴川 御手洗場",
+    "image": "https://image.xinu.ink/pic/data/877/images/gln7ob-1748014199142.jpg",
+    "ep": 7,
+    "s": 420,
+    "geo": [
+      34.4559,
+      136.7218
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "glwbee",
+    "cn": "伊势神宫 内宫神乐殿",
+    "name": "伊勢神宮 内宮神楽殿",
+    "image": "https://image.xinu.ink/pic/data/877/images/glwbee-1748014603863.jpg",
+    "ep": 7,
+    "s": 423,
+    "geo": [
+      34.4554,
+      136.7232
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "glz91z",
+    "name": "内宮 皇大神宮前",
+    "image": "https://image.xinu.ink/pic/data/877/images/glz91z-1748014788666.jpg",
+    "ep": 7,
+    "s": 458,
+    "geo": [
+      34.4546,
+      136.7251
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "gm6kkf",
+    "name": "岩戸屋",
+    "image": "https://image.xinu.ink/pic/data/877/images/gm6kkf-1748015079718.jpg",
+    "ep": 7,
+    "s": 478,
+    "geo": [
+      34.4597,
+      136.7232
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "gm9qq1",
+    "name": "(有)​白鷹​三宅​商店",
+    "image": "https://image.xinu.ink/pic/data/877/images/gm9qq1-1748015245057.jpg",
+    "ep": 7,
+    "s": 482,
+    "geo": [
+      34.4609,
+      136.7234
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "gmbx4x",
+    "name": "赤福本店",
+    "image": "https://image.xinu.ink/pic/data/877/images/gmbx4x-1748015361881.jpg",
+    "ep": 7,
+    "s": 522,
+    "geo": [
+      34.4626,
+      136.7235
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "gmkh6s",
+    "name": "JR鳥羽駅前　金刀比羅神社大鳥居",
+    "image": "https://image.xinu.ink/pic/data/877/images/gmkh6s-1748015748879.jpg",
+    "ep": 7,
+    "s": 570,
+    "geo": [
+      34.486,
+      136.8436
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "gmmtv5",
+    "name": "旅館 海月",
+    "image": "https://image.xinu.ink/pic/data/877/images/gmmtv5-1748015837301.jpg",
+    "ep": 7,
+    "s": 583,
+    "geo": [
+      34.4847,
+      136.8438
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "gmpc6m",
+    "name": "みなと食堂",
+    "image": "https://image.xinu.ink/pic/data/877/images/gmpc6m-1748015954344.jpg",
+    "ep": 7,
+    "s": 631,
+    "geo": [
+      34.4673,
+      136.852
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "gnbdx1",
+    "name": "二見浦駅",
+    "image": "https://image.xinu.ink/pic/data/877/images/gnbdx1_1748016980270.jpg",
+    "ep": 7,
+    "s": 837,
+    "geo": [
+      34.5039,
+      136.7771
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "gmsx67",
+    "name": "夫婦岩",
+    "image": "https://image.xinu.ink/pic/data/877/images/gmsx67-1748016118584.jpg",
+    "ep": 7,
+    "s": 840,
+    "geo": [
+      34.5093,
+      136.7883
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m3o8o2",
+    "name": "宮島口駅",
+    "image": "https://image.xinu.ink/pic/data/877/images/m3o8o2-1748346801772.jpg",
+    "ep": 8,
+    "geo": [
+      34.3119,
+      132.303
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m3wbc0",
+    "name": "宮島口​旅客​ターミナル",
+    "image": "https://image.xinu.ink/pic/data/877/images/m3wbc0-1748347167624.jpg",
+    "ep": 8,
+    "geo": [
+      34.3111,
+      132.3049
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m404ia",
+    "name": "あ​なごめ​し​うえ​の",
+    "image": "https://image.xinu.ink/pic/data/877/images/m404ia-1748347341355.jpg",
+    "ep": 8,
+    "geo": [
+      34.3114,
+      132.3034
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m4e6xx",
+    "cn": "宫岛严岛神社大鸟居",
+    "name": "宮島 大鳥居",
+    "image": "https://image.xinu.ink/pic/data/877/images/m4e6xx-1748348009189.jpg",
+    "ep": 8,
+    "geo": [
+      34.2973,
+      132.3181
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m4hkf7",
+    "cn": "严岛神社",
+    "name": "厳島神社",
+    "image": "https://image.xinu.ink/pic/data/877/images/m4hkf7-1748348169498.jpg",
+    "ep": 8,
+    "geo": [
+      34.296,
+      132.3197
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m4vvji",
+    "name": "清盛神社",
+    "image": "https://image.xinu.ink/pic/data/877/images/m4vvji-1748348825210.jpg",
+    "ep": 8,
+    "geo": [
+      34.2963,
+      132.3164
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m4wuc6",
+    "name": "大聖院仁王門",
+    "image": "https://image.xinu.ink/pic/data/877/images/m4wuc6-1748348921362.jpg",
+    "ep": 8,
+    "geo": [
+      34.2925,
+      132.3188
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m542mc",
+    "cn": "大圣院 转经筒",
+    "name": "大聖院 マニ車",
+    "image": "https://image.xinu.ink/pic/data/877/images/m542mc-1748349296900.jpg",
+    "ep": 8,
+    "geo": [
+      34.2923,
+      132.3187
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m50rd0",
+    "name": "大聖院 遍照窟",
+    "image": "https://image.xinu.ink/pic/data/877/images/m50rd0-1748349064973.jpg",
+    "ep": 8,
+    "geo": [
+      34.2911,
+      132.3185
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m5a157",
+    "name": "本店紅葉堂",
+    "image": "https://image.xinu.ink/pic/data/877/images/m5a157-1748349480378.jpg",
+    "ep": 8,
+    "geo": [
+      34.2976,
+      132.3208
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
   }
 ]

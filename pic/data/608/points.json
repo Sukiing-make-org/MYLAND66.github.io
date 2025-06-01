@@ -436,5 +436,148 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1J0K2QKstx1fjyCXMh2ZgWzgA5287_ZCt&ll=35.731777%2C139.728211&z=17"
+  },
+  {
+    "id": "al30e5",
+    "cn": "面影橋  北岸西小道",
+    "name": "面影橋",
+    "image": "https://image.xinu.ink/pic/data/608/images/al30e5-1747650459638.jpg",
+    "ep": 5,
+    "s": 542,
+    "geo": [
+      35.7134,
+      139.714
+    ]
+  },
+  {
+    "id": "al7qb5",
+    "cn": "面影橋",
+    "name": "面影橋",
+    "image": "https://image.xinu.ink/pic/data/608/images/al7qb5-1747650775793.jpg",
+    "ep": 5,
+    "s": 564,
+    "geo": [
+      35.7133,
+      139.7142
+    ]
+  },
+  {
+    "id": "rdxxu1",
+    "name": "学习院下停留场",
+    "image": "https://image.xinu.ink/pic/data/608/images/rdxxu1-1748666365893.jpg",
+    "ep": 1,
+    "s": 261,
+    "geo": [
+      35.7159,
+      139.7123
+    ]
+  },
+  {
+    "id": "rehkdp",
+    "cn": "駒塚橋",
+    "name": "駒塚橋",
+    "image": "https://image.xinu.ink/pic/data/608/images/rehkdp-1748667278724.jpg",
+    "ep": 1,
+    "s": 496,
+    "geo": [
+      35.7119,
+      139.7232
+    ]
+  },
+  {
+    "id": "rewzvb",
+    "cn": "文京区关口1丁目40·神田川南岸",
+    "name": "文京区关口1丁目40·神田川南岸",
+    "image": "https://image.xinu.ink/pic/data/608/images/rewzvb-1748668006697.jpg",
+    "ep": 1,
+    "s": 729,
+    "geo": [
+      35.7119,
+      139.7228
+    ]
+  },
+  {
+    "id": "ri5cea",
+    "cn": "駒塚橋·南十字路口",
+    "name": "駒塚橋·南十字路口",
+    "image": "https://image.xinu.ink/pic/data/608/images/ri5cea-1748673431816.jpg",
+    "ep": 2,
+    "s": 657,
+    "geo": [
+      35.7116,
+      139.7231
+    ]
+  },
+  {
+    "id": "ribs14",
+    "cn": "都电荒川线·早稻田",
+    "name": "都电荒川线·早稻田",
+    "image": "https://image.xinu.ink/pic/data/608/images/ribs14-1748673777503.jpg",
+    "ep": 2,
+    "s": 712,
+    "geo": [
+      35.7117,
+      139.7192
+    ]
+  },
+  {
+    "id": "rvki3z",
+    "cn": "永青文库（流星堂）门口",
+    "name": "永青文库（流星堂）门口",
+    "image": "https://image.xinu.ink/pic/data/608/images/rvki3z-1748695967102.jpg",
+    "ep": 3,
+    "s": 178,
+    "geo": [
+      35.7128,
+      139.7236
+    ]
+  },
+  {
+    "id": "rzpguo",
+    "cn": "地藏通商店街·东口",
+    "name": "地藏通商店街·东口",
+    "image": "https://image.xinu.ink/pic/data/608/images/rzpguo-1748702966855.jpg",
+    "ep": 3,
+    "s": 437,
+    "geo": [
+      35.708,
+      139.734
+    ]
+  },
+  {
+    "id": "s08ghd",
+    "cn": "江户川公园·滑梯旁",
+    "name": "江户川公园·滑梯旁",
+    "image": "https://image.xinu.ink/pic/data/608/images/s08ghd-1748703810690.jpg",
+    "ep": 3,
+    "s": 510,
+    "geo": [
+      35.7105,
+      139.7264
+    ]
+  },
+  {
+    "id": "s0kddu",
+    "cn": "金泉汤（旭汤原型）",
+    "name": "金泉汤（旭汤原型）",
+    "image": "https://image.xinu.ink/pic/data/608/images/s0kddu-1748704534409.jpg",
+    "ep": 3,
+    "s": 552,
+    "geo": [
+      35.71,
+      139.7125
+    ]
+  },
+  {
+    "id": "s0ypyn",
+    "cn": "永青文库（流星堂原型）",
+    "name": "永青文库（流星堂原型）",
+    "image": "https://image.xinu.ink/pic/data/608/images/s0ypyn-1748705026208.jpg",
+    "ep": 3,
+    "s": 703,
+    "geo": [
+      35.7129,
+      139.7237
+    ]
   }
 ]

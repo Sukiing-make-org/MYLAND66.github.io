@@ -102,5 +102,52 @@
     ],
     "origin": "Anitabi@Nelson",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "oii99505v",
+    "cn": "坎伯兰瀑布",
+    "name": "Cumberland Falls",
+    "image": "https://image.xinu.ink/pic/data/618/images/nr469zc3c-1725153775854.jpg",
+    "s": null,
+    "geo": [
+      36.8388,
+      -84.345
+    ],
+    "origin": "Anitabi@Nelson",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "oii9950gw",
+    "cn": "美臣街",
+    "name": "Mason Street",
+    "image": "https://image.xinu.ink/pic/data/618/images/nr4a9u7ve-1725154002465.jpg",
+    "s": null,
+    "geo": [
+      37.7977,
+      -122.4121
+    ],
+    "origin": "Anitabi@Nelson",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "tr9mkpsvd",
+    "name": "Saks Fifth Ave",
+    "image": "https://image.xinu.ink/pic/data/618/images/tr9mkpsvd-1742092310262.jpg",
+    "ep": null,
+    "geo": [
+      37.7882,
+      -122.4085
+    ]
+  },
+  {
+    "id": "tr9p2uusy",
+    "cn": "渔人码头",
+    "name": "Jefferson St",
+    "image": "https://image.xinu.ink/pic/data/618/images/tr9p2uusy-1742092399416.jpg",
+    "ep": null,
+    "geo": [
+      37.8082,
+      -122.4159
+    ]
   }
 ]

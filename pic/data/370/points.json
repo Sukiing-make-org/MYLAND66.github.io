@@ -736,5 +736,32 @@
     ],
     "origin": "Anitabi@和泉Ciao",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "51i51yooo",
+    "name": "稲村ヶ崎",
+    "image": "https://image.xinu.ink/pic/data/370/images/51i51yooo-1748254094616.jpg",
+    "ep": 14,
+    "s": "1020",
+    "geo": [
+      35.303,
+      139.5225
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zlZiOItqQZ24.k0wqLHNw-v_Q&ll=35.303034%2C139.522569&z=17"
+  },
+  {
+    "id": "kkuao5",
+    "cn": "罗森镰仓坂之下店",
+    "name": "ローソン\n鎌倉​坂ノ下​店",
+    "image": "https://image.xinu.ink/pic/data/370/images/kkuao5-1748254701956.jpg",
+    "ep": "14",
+    "s": "1013",
+    "geo": [
+      35.309,
+      139.534
+    ],
+    "origin": "Anitabi@yusuke135",
+    "originURL": "https://anitabi.cn/"
   }
 ]

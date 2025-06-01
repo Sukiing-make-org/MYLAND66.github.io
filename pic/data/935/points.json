@@ -110,5 +110,122 @@
       36.3972,
       139.0578
     ]
+  },
+  {
+    "id": "cbcoi0",
+    "cn": "临江阁",
+    "name": "臨江閣",
+    "image": "https://image.xinu.ink/pic/data/935/images/cbcoi0-1747755101287.jpg",
+    "ep": 4,
+    "s": 793,
+    "geo": [
+      36.3957,
+      139.0623
+    ]
+  },
+  {
+    "id": "cbwwcc",
+    "name": "スズラン​前橋​店​",
+    "image": "https://image.xinu.ink/pic/data/935/images/cbwwcc-1747755969951.jpg",
+    "ep": 6,
+    "s": 236,
+    "geo": [
+      36.3922,
+      139.0697
+    ]
+  },
+  {
+    "id": "cbp089",
+    "name": "アクエル前橋",
+    "image": "https://image.xinu.ink/pic/data/935/images/cbp089-1747755629940.jpg",
+    "ep": 6,
+    "s": "",
+    "geo": [
+      36.3838,
+      139.0716
+    ]
+  },
+  {
+    "id": "fqsm8g",
+    "name": "Le Vin　ル・ヴァン",
+    "image": "https://image.xinu.ink/pic/data/935/images/fqsm8g-1747962398988.jpg",
+    "ep": "",
+    "s": "",
+    "geo": [
+      36.3947,
+      139.0719
+    ]
+  },
+  {
+    "id": "frfzox",
+    "name": "前橋文学館",
+    "image": "https://image.xinu.ink/pic/data/935/images/frfzox-1747963450943.jpg",
+    "ep": "",
+    "s": "",
+    "geo": [
+      36.3939,
+      139.0721
+    ]
+  },
+  {
+    "id": "fsloin",
+    "name": "赤城山",
+    "image": "https://image.xinu.ink/pic/data/935/images/fsloin-1747965397667.jpg",
+    "ep": null,
+    "geo": [
+      36.5459,
+      139.1761
+    ]
+  },
+  {
+    "id": "fuhgx3",
+    "name": "Marl",
+    "image": "https://image.xinu.ink/pic/data/935/images/fuhgx3-1747968741978.jpg",
+    "ep": "",
+    "s": "",
+    "geo": [
+      36.3926,
+      139.0696
+    ]
+  },
+  {
+    "id": "kxwy69",
+    "name": "スズラン​前橋​店別​館",
+    "image": "https://image.xinu.ink/pic/data/935/images/kxwy69-1748276651166.jpg",
+    "ep": null,
+    "geo": [
+      36.3934,
+      139.0684
+    ]
+  },
+  {
+    "id": "le4tti",
+    "name": "JINS PARK(ジンズパーク)",
+    "image": "https://image.xinu.ink/pic/data/935/images/le4tti-1748303933188.jpg",
+    "ep": null,
+    "geo": [
+      36.4278,
+      139.0396
+    ]
+  },
+  {
+    "id": "lmvf6d",
+    "name": "高崎駅",
+    "image": "https://image.xinu.ink/pic/data/935/images/lmvf6d-1748318579450.jpg",
+    "ep": null,
+    "geo": [
+      36.3224,
+      139.0125
+    ]
+  },
+  {
+    "id": "lnljxc",
+    "name": "Bookman's Academy　前橋店",
+    "image": "https://image.xinu.ink/pic/data/935/images/lnljxc-1748319808039.jpg",
+    "ep": null,
+    "geo": [
+      36.396,
+      139.0426
+    ]
   }
 ]

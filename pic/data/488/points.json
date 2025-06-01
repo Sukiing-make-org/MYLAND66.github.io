@@ -658,5 +658,65 @@
       35.692,
       139.7012
     ]
+  },
+  {
+    "id": "aa6bws",
+    "cn": "胸突坂 石凳前",
+    "name": "胸突坂",
+    "image": "https://image.xinu.ink/pic/data/488/images/aa6bws-1747632132222.jpg",
+    "ep": 11,
+    "s": 920,
+    "geo": [
+      35.7124,
+      139.7234
+    ]
+  },
+  {
+    "id": "aacf7v",
+    "cn": "大滝橋 北岸",
+    "name": "大滝橋",
+    "image": "https://image.xinu.ink/pic/data/488/images/aacf7v-1747632393457.jpg",
+    "ep": 11,
+    "s": 925,
+    "geo": [
+      35.7105,
+      139.7261
+    ]
+  },
+  {
+    "id": "kbd9ji",
+    "cn": "江戸川公園・秋千",
+    "name": "江戸川公園・秋千",
+    "image": "https://image.xinu.ink/pic/data/488/images/kbd9ji-1748238780826.jpg",
+    "ep": 12,
+    "s": 225,
+    "geo": [
+      35.7107,
+      139.7261
+    ]
+  },
+  {
+    "id": "kbia4c",
+    "cn": "神田川桜並木（自行车·步行者专用道路）路口",
+    "name": "神田川桜並木（自行车·步行者专用道路）路口",
+    "image": "https://image.xinu.ink/pic/data/488/images/kbia4c-1748239012561.jpg",
+    "ep": 1,
+    "s": 752,
+    "geo": [
+      35.7125,
+      139.7221
+    ]
+  },
+  {
+    "id": "kbqz2z",
+    "cn": "神田川桜並木·路口",
+    "name": "神田川桜並木·路口",
+    "image": "https://image.xinu.ink/pic/data/488/images/kbqz2z-1748239412845.jpg",
+    "ep": 1,
+    "s": 772,
+    "geo": [
+      35.7126,
+      139.7221
+    ]
   }
 ]
