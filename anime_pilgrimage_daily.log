@@ -229,3 +229,14 @@
 2025-06-01 12:44:39,159 - AnimePilgrimageUpdater - INFO - Test anime 4: mono
 2025-06-01 12:44:39,160 - AnimePilgrimageUpdater - INFO - Test anime 5: 前橋ウィッチーズ
 2025-06-01 13:06:28,683 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2025-06-02 12:44:50,420 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2025-06-02 12:44:50,421 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2025-06-02 12:44:50,631 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2025-06-02 12:44:51,962 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2025-06-02 12:47:31,292 - AnimePilgrimageUpdater - INFO - Successfully retrieved 90 anime in test run
+2025-06-02 12:47:31,292 - AnimePilgrimageUpdater - INFO - Test anime 1: ウィッチウォッチ
+2025-06-02 12:47:31,292 - AnimePilgrimageUpdater - INFO - Test anime 2: 小市民シリーズ 2期
+2025-06-02 12:47:31,292 - AnimePilgrimageUpdater - INFO - Test anime 3: ウマ娘 シンデレラグレイ
+2025-06-02 12:47:31,292 - AnimePilgrimageUpdater - INFO - Test anime 4: mono
+2025-06-02 12:47:31,292 - AnimePilgrimageUpdater - INFO - Test anime 5: 前橋ウィッチーズ
+2025-06-02 13:09:32,520 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
