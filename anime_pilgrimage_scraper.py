@@ -80,17 +80,17 @@ class AnimePilgrimageScraper:
         chrome_options.add_experimental_option("mobileEmulation", mobile_emulation)
 
         self.driver = webdriver.Chrome(options=chrome_options)
-        self.logger.info("Chrome driver initialized successfully")
+        self.logger.info("Chrome浏览器驱动初始化成功")
 
     def get_anime_list(self):
         """Get the list of anime from the recently updated page"""
-        self.logger.info("Fetching anime list from recently updated page...")
+        self.logger.info("从最近更新页面获取动漫列表...")
         self.driver.get(self.recently_updated_url)
 
-        # Save the page source for debugging before waiting
+        # 在等待前保存页面源代码用于调试
         with open("page_source_initial.html", "w", encoding="utf-8") as f:
             f.write(self.driver.page_source)
-        self.logger.info("Saved initial page source to page_source_initial.html")
+        self.logger.info("已保存初始页面源代码到 page_source_initial.html")
 
         # Wait for the page to load with expanded selectors
         selectors_to_try = [
@@ -1361,7 +1361,7 @@ class AnimePilgrimageScraper:
         Returns:
             dict: Updated anime data if successful, None otherwise
         """
-        self.logger.info(f"Updating existing anime: {anime_info['title']} with ID {local_id}")
+        self.logger.info(f"更新现有动漫: {anime_info['title']}，ID为 {local_id}")
 
         # Load existing anime data
         folder_path = self.base_dir / str(local_id)
@@ -1381,12 +1381,12 @@ class AnimePilgrimageScraper:
                 with open(points_path, 'r', encoding='utf-8') as f:
                     points_data = json.load(f)
                     existing_points = points_data.get("points", [])
-                    self.logger.info(f"Loaded {len(existing_points)} existing points from {points_path}")
+                    self.logger.info(f"从 {points_path} 加载了 {len(existing_points)} 个现有点位")
 
-                    # Log the first few existing points for debugging
+                    # 记录前几个现有点位用于调试
                     for i, point in enumerate(existing_points[:3]):
                         if "geo" in point and len(point["geo"]) == 2:
-                            self.logger.info(f"  Existing point {i+1}: name='{point.get('name', 'Unknown')}', geo={point['geo']}")
+                            self.logger.info(f"  现有点位 {i+1}: 名称='{point.get('name', '未知')}', 坐标={point['geo']}")
         except Exception as e:
             self.logger.error(f"Error loading existing points data: {e}")
             return None
@@ -1403,7 +1403,7 @@ class AnimePilgrimageScraper:
             return None
 
         # Scrape new points from the anime page
-        self.logger.info(f"Scraping new points for anime: {anime_info['title']}")
+        self.logger.info(f"为动漫抓取新点位: {anime_info['title']}")
 
         # Visit the anime page
         self.driver.get(anime_info['link'])
@@ -1442,7 +1442,7 @@ class AnimePilgrimageScraper:
 
         # Extract pilgrimage points (similar to scrape_anime method)
         # Scroll to load all pilgrimage points
-        self.logger.info("Scrolling to load all pilgrimage points...")
+        self.logger.info("滚动页面以加载所有巡礼点位...")
         last_height = self.driver.execute_script("return document.body.scrollHeight")
         scroll_attempts = 0
         max_scroll_attempts = 20  # Increased from 15 to ensure more content is loaded
@@ -1518,19 +1518,19 @@ class AnimePilgrimageScraper:
                 except Exception as e:
                     self.logger.error(f"Error finding Google Maps links: {e}")
 
-            self.logger.info(f"Processing {len(point_elements)} pilgrimage points")
+            self.logger.info(f"处理 {len(point_elements)} 个巡礼点位")
 
-            # Create a set of existing point coordinates to check for duplicates
+            # 创建现有点位坐标集合以检查重复
             existing_coords = set()
             for point in existing_points:
                 if "geo" in point and len(point["geo"]) == 2:
-                    # Round coordinates to 5 decimal places for comparison (about 1.1 meters precision)
-                    # This helps avoid missing points due to tiny coordinate differences
+                    # 将坐标四舍五入到5位小数进行比较（约1.1米精度）
+                    # 这有助于避免因微小坐标差异而遗漏点位
                     lat = round(point["geo"][0], 5)
                     lng = round(point["geo"][1], 5)
                     existing_coords.add((lat, lng))
 
-            self.logger.info(f"Found {len(existing_coords)} existing point coordinates")
+            self.logger.info(f"找到 {len(existing_coords)} 个现有点位坐标")
 
             # Process each point element
             for i, point_elem in enumerate(point_elements, 1):
@@ -1562,7 +1562,7 @@ class AnimePilgrimageScraper:
                                 text = name_elem.text.strip()
                                 if text and len(text) > 1:
                                     name = text
-                                    self.logger.info(f"  Found name '{name}' with selector {selector}")
+                                    self.logger.info(f"  使用选择器 {selector} 找到名称 '{name}'")
                                     break
                             if name != "Unknown Location":
                                 break
@@ -1611,7 +1611,7 @@ class AnimePilgrimageScraper:
                                             pass
                                         else:
                                             ep = ep_text
-                                        self.logger.info(f"  Found episode: {ep} with selector {selector}")
+                                        self.logger.info(f"  使用选择器 {selector} 找到集数: {ep}")
                                         break
                             if ep:
                                 break
@@ -1646,7 +1646,7 @@ class AnimePilgrimageScraper:
                                 href = link.get_attribute("href")
                                 if href and ("maps.google" in href or "goo.gl/maps" in href or "google.com/maps" in href):
                                     map_url = href
-                                    self.logger.info(f"  Found map URL: {map_url}")
+                                    self.logger.info(f"  找到地图URL: {map_url}")
                                     break
                             if map_url:
                                 break
@@ -1656,58 +1656,82 @@ class AnimePilgrimageScraper:
                     # Extract coordinates from map URL
                     if map_url:
                         try:
-                            # Try to extract coordinates from the URL
-                            # Pattern 1: ?q=lat,lng
-                            q_match = re.search(r'\?q=(-?\d+\.\d+),(-?\d+\.\d+)', map_url)
-                            if q_match:
-                                lat = float(q_match.group(1))
-                                lng = float(q_match.group(2))
-                                self.logger.info(f"  Extracted coordinates from q parameter: {lat}, {lng}")
-                            else:
-                                # Pattern 2: @lat,lng
-                                at_match = re.search(r'@(-?\d+\.\d+),(-?\d+\.\d+)', map_url)
-                                if at_match:
-                                    lat = float(at_match.group(1))
-                                    lng = float(at_match.group(2))
-                                    self.logger.info(f"  Extracted coordinates from @ parameter: {lat}, {lng}")
-                                else:
-                                    # Pattern 3: ll=lat,lng
-                                    ll_match = re.search(r'll=(-?\d+\.\d+),(-?\d+\.\d+)', map_url)
-                                    if ll_match:
-                                        lat = float(ll_match.group(1))
-                                        lng = float(ll_match.group(2))
-                                        self.logger.info(f"  Extracted coordinates from ll parameter: {lat}, {lng}")
+                            # Clean up the URL by removing extra spaces
+                            map_url = map_url.replace(" ", "")
+                            self.logger.info(f"  清理后的地图URL: {map_url}")
+
+                            # 尝试使用多种模式从URL中提取坐标
+                            coordinate_patterns = [
+                                (r'destination=(-?\d+\.\d+),(-?\d+\.\d+)', "destination"),
+                                (r'\?q=(-?\d+\.\d+),(-?\d+\.\d+)', "q"),
+                                (r'@(-?\d+\.\d+),(-?\d+\.\d+)', "@"),
+                                (r'll=(-?\d+\.\d+),(-?\d+\.\d+)', "ll"),
+                                (r'query=(-?\d+\.\d+),(-?\d+\.\d+)', "query"),
+                                (r'center=(-?\d+\.\d+),(-?\d+\.\d+)', "center"),
+                                (r'daddr=(-?\d+\.\d+),(-?\d+\.\d+)', "daddr"),
+                                (r'saddr=(-?\d+\.\d+),(-?\d+\.\d+)', "saddr"),
+                                (r'loc:(-?\d+\.\d+),(-?\d+\.\d+)', "loc:"),
+                                (r'loc=(-?\d+\.\d+),(-?\d+\.\d+)', "loc="),
+                                (r'lat=(-?\d+\.\d+).*lon=(-?\d+\.\d+)', "lat/lon"),
+                                (r'latitude=(-?\d+\.\d+).*longitude=(-?\d+\.\d+)', "latitude/longitude")
+                            ]
+
+                            coordinates_found = False
+                            for pattern, pattern_name in coordinate_patterns:
+                                match = re.search(pattern, map_url)
+                                if match:
+                                    lat = float(match.group(1))
+                                    lng = float(match.group(2))
+                                    self.logger.info(f"  从 {pattern_name} 参数提取坐标: {lat}, {lng}")
+                                    coordinates_found = True
+                                    break
+
+                            if not coordinates_found:
+                                self.logger.warning(f"  无法从地图URL提取坐标: {map_url}")
+                                # 尝试查找任何可能是坐标的小数
+                                decimal_numbers = re.findall(r'(-?\d+\.\d+)', map_url)
+                                if len(decimal_numbers) >= 2:
+                                    # 将前两个小数作为潜在坐标
+                                    potential_lat = float(decimal_numbers[0])
+                                    potential_lng = float(decimal_numbers[1])
+                                    # 基本验证：纬度应在-90到90之间，经度在-180到180之间
+                                    if -90 <= potential_lat <= 90 and -180 <= potential_lng <= 180:
+                                        lat = potential_lat
+                                        lng = potential_lng
+                                        self.logger.info(f"  从小数提取坐标: {lat}, {lng}")
+                                        coordinates_found = True
                                     else:
-                                        # Pattern 4: query=lat,lng
-                                        query_match = re.search(r'query=(-?\d+\.\d+),(-?\d+\.\d+)', map_url)
-                                        if query_match:
-                                            lat = float(query_match.group(1))
-                                            lng = float(query_match.group(2))
-                                            self.logger.info(f"  Extracted coordinates from query parameter: {lat}, {lng}")
+                                        self.logger.warning(f"  找到小数但看起来不像有效坐标: {decimal_numbers}")
+
+                                if not coordinates_found:
+                                    self.logger.error(f"  无法从URL提取任何有效坐标: {map_url}")
+
                         except Exception as e:
                             self.logger.error(f"  Error extracting coordinates from map URL: {e}")
+                            self.logger.error(f"  Map URL was: {map_url}")
 
                     # If we have valid coordinates, check if this point already exists
                     if lat != 0 and lng != 0:
-                        # Round coordinates to 5 decimal places for comparison (about 1.1 meters precision)
+                        self.logger.info(f"  处理有效坐标的点位: {lat}, {lng}")
+                        # 将坐标四舍五入到5位小数进行比较（约1.1米精度）
                         lat_rounded = round(lat, 5)
                         lng_rounded = round(lng, 5)
 
-                        # Check if this point is too close to any existing point
-                        # Define a small threshold for considering points as duplicates (0.0001 is about 11 meters)
+                        # 检查此点位是否与现有点位过于接近
+                        # 定义一个小阈值来判断点位是否重复（0.0001约为11米）
                         threshold = 0.0001
                         is_duplicate = False
 
-                        # First check exact match
+                        # 首先检查精确匹配
                         if (lat_rounded, lng_rounded) in existing_coords:
-                            self.logger.info(f"  Skipping point with coordinates {lat}, {lng} as it exactly matches an existing point")
+                            self.logger.info(f"  跳过坐标为 {lat}, {lng} 的点位，因为它与现有点位完全匹配")
                             is_duplicate = True
                         else:
-                            # Then check for nearby points within threshold
+                            # 然后检查阈值内的附近点位
                             for existing_lat, existing_lng in existing_coords:
                                 if (abs(lat_rounded - existing_lat) < threshold and
                                     abs(lng_rounded - existing_lng) < threshold):
-                                    self.logger.info(f"  Skipping point with coordinates {lat}, {lng} as it's very close to existing point at {existing_lat}, {existing_lng}")
+                                    self.logger.info(f"  跳过坐标为 {lat}, {lng} 的点位，因为它与现有点位 {existing_lat}, {existing_lng} 非常接近")
                                     is_duplicate = True
                                     break
 
@@ -1754,20 +1778,24 @@ class AnimePilgrimageScraper:
                         }
 
                         new_points.append(point_data)
-                        self.logger.info(f"  Added new point: {point_data['name']} at {lat}, {lng}")
+                        self.logger.info(f"  添加新点位: {point_data['name']} 位于 {lat}, {lng}")
+                    else:
+                        self.logger.warning(f"  跳过点位 {i} '{name}' - 未找到有效坐标 (纬度={lat}, 经度={lng})")
+                        if map_url:
+                            self.logger.warning(f"  地图URL为: {map_url}")
                 except Exception as e:
-                    self.logger.error(f"  Error extracting point {i}: {e}")
+                    self.logger.error(f"  提取点位 {i} 时出错: {e}")
 
-            self.logger.info(f"Found {len(new_points)} new points")
+            self.logger.info(f"找到 {len(new_points)} 个新点位")
 
-            # If no new points were found, return None
+            # 如果未找到新点位，返回None
             if not new_points:
-                self.logger.info("No new points found for this anime")
+                self.logger.info("此动漫未找到新点位")
                 return None
 
-            # Combine existing and new points
+            # 合并现有点位和新点位
             combined_points = existing_points + new_points
-            self.logger.info(f"Combined {len(existing_points)} existing points with {len(new_points)} new points")
+            self.logger.info(f"合并了 {len(existing_points)} 个现有点位和 {len(new_points)} 个新点位")
 
             # Update points.json
             with open(points_path, 'w', encoding='utf-8') as f:
@@ -2113,17 +2141,17 @@ class AnimePilgrimageScraper:
 
                 for i in range(start_idx - 1, end_idx):
                     anime_info = anime_list[i]
-                    self.logger.info(f"[{i+1}/{end_idx}] Checking anime: {anime_info['title']}")
+                    self.logger.info(f"[{i+1}/{end_idx}] 检查动漫: {anime_info['title']}")
 
-                    # Check if this anime is already in the database
+                    # 检查此动漫是否已在数据库中
                     exists, existing_id = self.is_anime_already_in_database(anime_info['title'])
                     if exists:
-                        self.logger.info(f"Anime '{anime_info['title']}' already exists with ID {existing_id}, checking for updates")
-                        # Try to update the existing anime with new pilgrimage points
+                        self.logger.info(f"动漫 '{anime_info['title']}' 已存在，ID为 {existing_id}，检查更新")
+                        # 尝试为现有动漫更新新的巡礼点位
                         updated_data = self.update_existing_anime(anime_info, existing_id)
                         if updated_data:
                             new_points_count = updated_data.get('new_points_count', 0)
-                            self.logger.info(f"Updated anime '{anime_info['title']}' with {new_points_count} new points")
+                            self.logger.info(f"更新动漫 '{anime_info['title']}'，添加了 {new_points_count} 个新点位")
                             anime_data_list.append(updated_data)
 
                             # Add to updated anime list with detailed info
@@ -2138,15 +2166,15 @@ class AnimePilgrimageScraper:
                                 'latest_point': latest_point
                             })
 
-                            # Update index.json with the updated anime data
-                            self.logger.info("Saving updates to index.json...")
+                            # 使用更新的动漫数据更新index.json
+                            self.logger.info("保存更新到 index.json...")
                             self.update_index_json([updated_data], update_mode=True)
-                            self.logger.info("Updates saved.")
+                            self.logger.info("更新已保存。")
                         else:
-                            self.logger.info(f"No updates found for anime '{anime_info['title']}'")
+                            self.logger.info(f"动漫 '{anime_info['title']}' 未找到更新")
                         continue
 
-                    self.logger.info(f"Scraping anime: {anime_info['title']}")
+                    self.logger.info(f"抓取动漫: {anime_info['title']}")
                     anime_data = self.scrape_anime(anime_info, local_folder_id, False)  # Always use automatic mode
 
                     if anime_data:
@@ -2166,25 +2194,25 @@ class AnimePilgrimageScraper:
 
                     local_folder_id += 1
 
-                # Final update to index.json is not needed since we save after each anime
+                # 由于我们在每个动漫后都保存，所以不需要最终更新index.json
                 if not anime_data_list:
-                    self.logger.warning("No anime data was collected. No new anime or updates found.")
-                    # Return a special status code (2) to indicate no new data but successful execution
+                    self.logger.warning("未收集到动漫数据。未找到新动漫或更新。")
+                    # 返回特殊状态码(2)表示无新数据但执行成功
                     return 2
                 else:
-                    self.logger.info(f"Successfully scraped {len(anime_data_list)} anime.")
+                    self.logger.info(f"成功抓取了 {len(anime_data_list)} 部动漫。")
 
-                    # Return detailed information about the updates
+                    # 返回更新的详细信息
                     if auto_mode:
                         result_data = {
                             'updated_anime': updated_anime,
                             'new_anime': new_anime
                         }
-                        self.logger.info(f"Returning detailed update information: {len(updated_anime)} updated anime, {len(new_anime)} new anime")
+                        self.logger.info(f"返回详细更新信息: {len(updated_anime)} 部更新动漫, {len(new_anime)} 部新动漫")
                         return result_data
                     else:
-                        # For manual mode, just return True
-                        self.logger.info("Scraping completed successfully!")
+                        # 对于手动模式，只返回True
+                        self.logger.info("抓取成功完成！")
                         return True
 
             finally:
