@@ -49,6 +49,226 @@
         35.66979,
         139.76721
       ]
+    },
+    {
+      "id": "5906-6",
+      "name": "銀座三越",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-6.jpg",
+      "ep": "2",
+      "geo": [
+        35.67134,
+        139.76531
+      ]
+    },
+    {
+      "id": "5906-7",
+      "name": "道頓堀橋",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-7.jpg",
+      "ep": "2",
+      "geo": [
+        34.66911,
+        135.50036
+      ]
+    },
+    {
+      "id": "5906-8",
+      "name": "日川時計店",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-8.jpg",
+      "ep": "2",
+      "geo": [
+        35.49288,
+        138.80402
+      ]
+    },
+    {
+      "id": "5906-9",
+      "name": "雷門",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-9.jpg",
+      "ep": "2",
+      "geo": [
+        35.71097,
+        139.79633
+      ]
+    },
+    {
+      "id": "5906-10",
+      "name": "七十七銀行 東京支店",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-10.jpg",
+      "ep": "2",
+      "geo": [
+        35.66877,
+        139.76825
+      ]
+    },
+    {
+      "id": "5906-11",
+      "name": "築地警察署 数寄屋橋交番",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-11.jpg",
+      "ep": "3",
+      "geo": [
+        35.67268,
+        139.76327
+      ]
+    },
+    {
+      "id": "5906-12",
+      "name": "日高屋 東銀座店",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-12.jpg",
+      "ep": "4",
+      "geo": [
+        35.66946,
+        139.767
+      ]
+    },
+    {
+      "id": "5906-13",
+      "name": "勝鬨橋",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-13.jpg",
+      "ep": "4",
+      "geo": [
+        35.66187,
+        139.77517
+      ]
+    },
+    {
+      "id": "5906-14",
+      "name": "浜離宮恩賜庭園",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-14.jpg",
+      "ep": "4",
+      "geo": [
+        35.65899,
+        139.76174
+      ]
+    },
+    {
+      "id": "5906-15",
+      "name": "第一生命ホール",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-15.jpg",
+      "ep": "4",
+      "geo": [
+        35.65692,
+        139.78182
+      ]
+    },
+    {
+      "id": "5906-16",
+      "name": "中央区立晴海第三公園(サウストリトンパーク)",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-16.jpg",
+      "ep": "4",
+      "geo": [
+        35.65613,
+        139.78115
+      ]
+    },
+    {
+      "id": "5906-17",
+      "name": "銀座出世地蔵尊",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-17.jpg",
+      "ep": "5",
+      "geo": [
+        35.6715,
+        139.76576
+      ]
+    },
+    {
+      "id": "5906-18",
+      "name": "潮風公園",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-18.jpg",
+      "ep": "6",
+      "geo": [
+        35.62359,
+        139.76895
+      ]
+    },
+    {
+      "id": "5906-19",
+      "name": "Miyashita Park",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-19.jpg",
+      "ep": "6",
+      "geo": [
+        35.66278,
+        139.70225
+      ]
+    },
+    {
+      "id": "5906-20",
+      "name": "旧台徳院霊廟惣門",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-20.jpg",
+      "ep": "6",
+      "geo": [
+        35.65614,
+        139.74996
+      ]
+    },
+    {
+      "id": "5906-21",
+      "name": "東京會舘 本舘",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-21.jpg",
+      "ep": "6",
+      "geo": [
+        35.67723,
+        139.76044
+      ]
+    },
+    {
+      "id": "5906-22",
+      "name": "日比谷公園大音楽堂",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-22.jpg",
+      "ep": "6",
+      "geo": [
+        35.67252,
+        139.75431
+      ]
+    },
+    {
+      "id": "5906-23",
+      "name": "東京大学安田講堂",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-23.jpg",
+      "ep": "6",
+      "geo": [
+        35.71337,
+        139.76192
+      ]
+    },
+    {
+      "id": "5906-24",
+      "name": "東急プラザ銀座",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-24.jpg",
+      "ep": "6",
+      "geo": [
+        35.67253,
+        139.76282
+      ]
+    },
+    {
+      "id": "5906-25",
+      "name": "築地川銀座公園",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-25.jpg",
+      "ep": "6",
+      "geo": [
+        35.6686,
+        139.76881
+      ]
+    },
+    {
+      "id": "5906-26",
+      "name": "萬年橋",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-26.jpg",
+      "ep": "6",
+      "geo": [
+        35.6683,
+        139.76865
+      ]
+    },
+    {
+      "id": "5906-27",
+      "name": "GINZA SIX",
+      "image": "https://image.xinu.ink/pic/data/5906/images/5906-27.jpg",
+      "ep": "7",
+      "geo": [
+        35.66986,
+        139.76363
+      ]
     }
   ]
 }
