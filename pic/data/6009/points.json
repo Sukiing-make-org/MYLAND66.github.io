@@ -1299,6 +1299,186 @@
         36.12192,
         137.62476
       ]
+    },
+    {
+      "id": "6009-131",
+      "name": "伊勢関IC",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-131.jpg",
+      "ep": "9",
+      "geo": [
+        34.83681,
+        136.42379
+      ]
+    },
+    {
+      "id": "6009-132",
+      "name": "上高地",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-132.jpg",
+      "ep": "9",
+      "geo": [
+        36.24857,
+        137.63791
+      ]
+    },
+    {
+      "id": "6009-133",
+      "name": "光明寺公園",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-133.jpg",
+      "ep": "9",
+      "geo": [
+        35.36109,
+        136.80102
+      ]
+    },
+    {
+      "id": "6009-134",
+      "name": "川島パーキングエリア (下り)",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-134.jpg",
+      "ep": "9",
+      "geo": [
+        35.37012,
+        136.80768
+      ]
+    },
+    {
+      "id": "6009-135",
+      "name": "上高地観光センター",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-135.jpg",
+      "ep": "9",
+      "geo": [
+        36.24615,
+        137.63528
+      ]
+    },
+    {
+      "id": "6009-136",
+      "name": "お土産処ピッケル",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-136.jpg",
+      "ep": "9",
+      "geo": [
+        36.24615,
+        137.63566
+      ]
+    },
+    {
+      "id": "6009-137",
+      "name": "小梨平キャンプ場",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-137.jpg",
+      "ep": "9",
+      "geo": [
+        36.2516,
+        137.64001
+      ]
+    },
+    {
+      "id": "6009-138",
+      "name": "小梨平食堂",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-138.jpg",
+      "ep": "9",
+      "geo": [
+        36.25163,
+        137.6415
+      ]
+    },
+    {
+      "id": "6009-139",
+      "name": "五千尺キッチン",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-139.jpg",
+      "ep": "9",
+      "geo": [
+        36.24863,
+        137.63805
+      ]
+    },
+    {
+      "id": "6009-140",
+      "name": "上高地食堂",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-140.jpg",
+      "ep": "9",
+      "geo": [
+        36.24625,
+        137.63555
+      ]
+    },
+    {
+      "id": "6009-141",
+      "name": "扇沢駅",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-141.jpg",
+      "ep": "9",
+      "geo": [
+        36.55819,
+        137.72116
+      ]
+    },
+    {
+      "id": "6009-142",
+      "name": "黒部ダム駅",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-142.jpg",
+      "ep": "9",
+      "geo": [
+        36.56695,
+        137.66612
+      ]
+    },
+    {
+      "id": "6009-143",
+      "name": "黒部ダム 展望台休憩所",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-143.jpg",
+      "ep": "9",
+      "geo": [
+        36.56736,
+        137.66432
+      ]
+    },
+    {
+      "id": "6009-144",
+      "name": "黒部ダムレストハウス",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-144.jpg",
+      "ep": "9",
+      "geo": [
+        36.56652,
+        137.66458
+      ]
+    },
+    {
+      "id": "6009-145",
+      "name": "黒部ダム",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-145.jpg",
+      "ep": "9",
+      "geo": [
+        36.5666,
+        137.66243
+      ]
+    },
+    {
+      "id": "6009-146",
+      "name": "白馬ジャンプ競技場",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-146.jpg",
+      "ep": "9",
+      "geo": [
+        36.69541,
+        137.83739
+      ]
+    },
+    {
+      "id": "6009-147",
+      "name": "白馬ジャンプ競技場",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-147.jpg",
+      "ep": "9",
+      "geo": [
+        36.69554,
+        137.83313
+      ]
+    },
+    {
+      "id": "6009-148",
+      "name": "白馬ジャンプ競技場 第1駐車場",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-148.jpg",
+      "ep": "9",
+      "geo": [
+        36.69418,
+        137.83628
+      ]
     }
   ]
 }
