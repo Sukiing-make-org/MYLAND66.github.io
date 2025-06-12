@@ -64,5 +64,11 @@
   ],
   "pointsLength": 5,
   "imagesLength": 5,
-  "local_id": 548
+  "local_id": 548,
+  "region": [
+    "长宁区",
+    "黄浦区",
+    "虹口区",
+    "浦东新区"
+  ]
 }
