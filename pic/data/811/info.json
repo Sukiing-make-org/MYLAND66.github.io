@@ -84,5 +84,12 @@
   ],
   "pointsLength": 7,
   "imagesLength": 7,
-  "local_id": 811
+  "local_id": 811,
+  "region": [
+    "西湖区",
+    "朝阳区",
+    "东城区",
+    "丰台区",
+    "城关区"
+  ]
 }
