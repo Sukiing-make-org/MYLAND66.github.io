@@ -4,5 +4,11 @@
   "title": "STEINS;GATE",
   "cover": "https://image.xinu.ink/pic/data/1049/images/1.jpg",
   "pointsLength": 160,
-  "local_id": 1049
+  "local_id": 1049,
+  "region": [
+    "东京都/東京都",
+    "Los Angeles County",
+    "千叶县",
+    "Luna County"
+  ]
 }

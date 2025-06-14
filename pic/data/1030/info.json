@@ -4,5 +4,11 @@
   "title": "戦国コレクション \"Sengoku Collection\"",
   "cover": "https://image.xinu.ink/pic/data/1030/images/1.jpg",
   "pointsLength": 29,
-  "local_id": 1030
+  "local_id": 1030,
+  "region": [
+    "东京都/東京都",
+    "神奈川縣",
+    "大阪府",
+    "青森县"
+  ]
 }
