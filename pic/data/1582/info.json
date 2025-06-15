@@ -4,5 +4,9 @@
   "title": "NEW GAME!",
   "cover": "https://image.xinu.ink/pic/data/1582/images/1.jpg",
   "pointsLength": 45,
-  "local_id": 1582
+  "local_id": 1582,
+  "region": [
+    "东京都/東京都",
+    "千叶县"
+  ]
 }

@@ -4,5 +4,15 @@
   "title": "北へ。 \"Kita e\"",
   "cover": "https://image.xinu.ink/pic/data/1099/images/1.jpg",
   "pointsLength": 33,
-  "local_id": 1099
+  "local_id": 1099,
+  "region": [
+    "石狩振興局",
+    "十勝綜合振興局",
+    "上川綜合振興局",
+    "積丹郡",
+    "幌泉郡",
+    "虻田郡",
+    "川上郡",
+    "廣尾郡"
+  ]
 }

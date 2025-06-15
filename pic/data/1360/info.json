@@ -4,5 +4,9 @@
   "title": "White Album",
   "cover": "https://image.xinu.ink/pic/data/1360/images/1.jpg",
   "pointsLength": 2,
-  "local_id": 1360
+  "local_id": 1360,
+  "region": [
+    "山形县",
+    "石川县"
+  ]
 }
