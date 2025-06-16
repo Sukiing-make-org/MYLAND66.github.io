@@ -4,5 +4,9 @@
   "title": "天気の子",
   "cover": "https://image.xinu.ink/pic/data/5945/images/1.jpg",
   "pointsLength": 50,
-  "local_id": 5945
+  "local_id": 5945,
+  "region": [
+    "东京都/東京都",
+    "大島支廳"
+  ]
 }

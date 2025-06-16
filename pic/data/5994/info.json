@@ -129,5 +129,10 @@
   "imagesLength": 19,
   "name": "SSSS.DYNAZENON",
   "name_cn": "SSSS.电光机王",
-  "local_id": 5994
+  "local_id": 5994,
+  "region": [
+    "东京都/東京都",
+    "千叶县",
+    "神奈川縣"
+  ]
 }

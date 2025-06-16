@@ -104,5 +104,8 @@
   "name": "女神のカフェテラス",
   "name_cn": "女神咖啡厅",
   "theme_color": "#a1c0d6",
-  "local_id": 5999
+  "local_id": 5999,
+  "region": [
+    "神奈川縣"
+  ]
 }

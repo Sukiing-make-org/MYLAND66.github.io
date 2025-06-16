@@ -4,5 +4,11 @@
   "title": "ゴールデンタイム",
   "cover": "https://image.xinu.ink/pic/data/5937/images/1.jpg",
   "pointsLength": 40,
-  "local_id": 5937
+  "local_id": 5937,
+  "region": [
+    "东京都/東京都",
+    "静冈县/靜岡縣",
+    "神奈川縣",
+    "埼玉县"
+  ]
 }

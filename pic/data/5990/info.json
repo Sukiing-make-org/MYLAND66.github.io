@@ -103,5 +103,10 @@
   "name": "√LETTER",
   "name_cn": "方根书简",
   "theme_color": "#b4f3f4",
-  "local_id": 5990
+  "local_id": 5990,
+  "region": [
+    "岛根县",
+    "鹿足郡",
+    "隱歧郡"
+  ]
 }

@@ -55,5 +55,9 @@
   "imagesLength": 5,
   "name": "贝果爱情故事",
   "name_cn": "贝果爱情故事",
-  "local_id": 6004
+  "local_id": 6004,
+  "region": [
+    "江夏区",
+    "洪山区"
+  ]
 }

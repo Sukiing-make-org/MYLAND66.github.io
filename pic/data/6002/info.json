@@ -22,5 +22,8 @@
   "imagesLength": 1,
   "name": "日本へようこそエルフさん。",
   "name_cn": "欢迎来到日本，精灵小姐。",
-  "local_id": 6002
+  "local_id": 6002,
+  "region": [
+    "青森县"
+  ]
 }
