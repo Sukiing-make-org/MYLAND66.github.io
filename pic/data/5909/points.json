@@ -599,6 +599,66 @@
         35.41627,
         136.71917
       ]
+    },
+    {
+      "id": "5909-61",
+      "name": "岐阜市民病院",
+      "image": "https://image.xinu.ink/pic/data/5909/images/5909-61.jpg",
+      "ep": "8",
+      "geo": [
+        35.41383,
+        136.7351
+      ]
+    },
+    {
+      "id": "5909-62",
+      "name": "青柳公園",
+      "image": "https://image.xinu.ink/pic/data/5909/images/5909-62.jpg",
+      "ep": "12",
+      "geo": [
+        35.4288,
+        136.74809
+      ]
+    },
+    {
+      "id": "5909-63",
+      "name": "河渡橋",
+      "image": "https://image.xinu.ink/pic/data/5909/images/5909-63.jpg",
+      "ep": "12",
+      "geo": [
+        35.40814,
+        136.70703
+      ]
+    },
+    {
+      "id": "5909-64",
+      "name": "AND LADY",
+      "image": "https://image.xinu.ink/pic/data/5909/images/5909-64.jpg",
+      "ep": "12",
+      "geo": [
+        35.42726,
+        136.76484
+      ]
+    },
+    {
+      "id": "5909-65",
+      "name": "ナチュラルカフェ",
+      "image": "https://image.xinu.ink/pic/data/5909/images/5909-65.jpg",
+      "ep": "12",
+      "geo": [
+        35.43217,
+        136.7672
+      ]
+    },
+    {
+      "id": "5909-66",
+      "name": "忠節橋",
+      "image": "https://image.xinu.ink/pic/data/5909/images/5909-66.jpg",
+      "ep": "12",
+      "geo": [
+        35.43099,
+        136.75241
+      ]
     }
   ]
 }
