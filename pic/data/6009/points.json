@@ -1779,6 +1779,36 @@
         35.70939,
         138.44939
       ]
+    },
+    {
+      "id": "6009-179",
+      "name": "深城ダム",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-179.jpg",
+      "ep": "12",
+      "geo": [
+        35.70737,
+        138.94862
+      ]
+    },
+    {
+      "id": "6009-180",
+      "name": "小金沢公園",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-180.jpg",
+      "ep": "12",
+      "geo": [
+        35.71053,
+        138.93947
+      ]
+    },
+    {
+      "id": "6009-181",
+      "name": "小金沢公園",
+      "image": "https://image.xinu.ink/pic/data/6009/images/6009-181.jpg",
+      "ep": "12",
+      "geo": [
+        35.70997,
+        138.93956
+      ]
     }
   ]
 }

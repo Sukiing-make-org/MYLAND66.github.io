@@ -269,6 +269,66 @@
         35.67639,
         139.74755
       ]
+    },
+    {
+      "id": "5907-28",
+      "name": "道頓堀",
+      "image": "https://image.xinu.ink/pic/data/5907/images/5907-28.jpg",
+      "ep": "13",
+      "geo": [
+        34.66872,
+        135.50135
+      ]
+    },
+    {
+      "id": "5907-29",
+      "name": "嚴島神社",
+      "image": "https://image.xinu.ink/pic/data/5907/images/5907-29.jpg",
+      "ep": "13",
+      "geo": [
+        34.29699,
+        132.31844
+      ]
+    },
+    {
+      "id": "5907-30",
+      "name": "レールマウンテンバイクGattan Go!!渓谷コース",
+      "image": "https://image.xinu.ink/pic/data/5907/images/5907-30.jpg",
+      "ep": "13",
+      "geo": [
+        36.38221,
+        137.2771
+      ]
+    },
+    {
+      "id": "5907-31",
+      "name": "東大寺",
+      "image": "https://image.xinu.ink/pic/data/5907/images/5907-31.jpg",
+      "ep": "13",
+      "geo": [
+        34.68543,
+        135.83987
+      ]
+    },
+    {
+      "id": "5907-32",
+      "name": "大通公園３丁目",
+      "image": "https://image.xinu.ink/pic/data/5907/images/5907-32.jpg",
+      "ep": "13",
+      "geo": [
+        43.06059,
+        141.35268
+      ]
+    },
+    {
+      "id": "5907-33",
+      "name": "太閤井戸跡",
+      "image": "https://image.xinu.ink/pic/data/5907/images/5907-33.jpg",
+      "ep": "13",
+      "geo": [
+        35.37741,
+        136.25956
+      ]
     }
   ]
 }
