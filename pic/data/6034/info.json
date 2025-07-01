@@ -1,0 +1,55 @@
+{
+  "id": 181958,
+  "cn": "战地1",
+  "title": "Battlefield 1",
+  "cover": "https://image.xinu.ink/pic/data/6034/images/181958_zXxf2.jpg",
+  "modified": 1750041848544,
+  "litePoints": [
+    {
+      "id": "1d2i2io",
+      "cn": "黑尔戈兰",
+      "name": "Helgoland",
+      "image": "https://image.anitabi.cn/user/2186/bangumi/181958/points/1d2i2io-1749977420787.jpg?plan=h160",
+      "geo": [
+        54.182,
+        7.8857
+      ]
+    },
+    {
+      "id": "1d3gsgp",
+      "cn": "尚蒂伊城堡",
+      "name": "Château de Chantilly",
+      "image": "https://image.anitabi.cn/user/2186/bangumi/181958/points/1d3gsgp-1749979185127.jpg?plan=h160",
+      "geo": [
+        49.1939,
+        2.4854
+      ]
+    },
+    {
+      "id": "1d9fxx2",
+      "cn": "法乌克斯要塞",
+      "name": "Fort de Vaux",
+      "image": "https://image.anitabi.cn/user/0/bangumi/181958/points/1d9fxx2-1749989113642.jpg?plan=h160",
+      "geo": [
+        49.2004,
+        5.4701
+      ]
+    },
+    {
+      "id": "1d9nwaf",
+      "cn": "亚眠",
+      "name": "Amiens",
+      "image": "https://image.anitabi.cn/user/0/bangumi/181958/points/1d9nwaf-1749989448759.jpg?plan=h160",
+      "s": 7,
+      "geo": [
+        49.8955,
+        2.2967
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "name": "Battlefield 1",
+  "name_cn": "战地1",
+  "local_id": 6034
+}

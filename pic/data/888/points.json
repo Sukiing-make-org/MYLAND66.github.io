@@ -359,5 +359,73 @@
       59.911,
       10.7501
     ]
+  },
+  {
+    "id": "1kqng9s",
+    "name": "Jernbanetorget",
+    "image": "https://image.xinu.ink/pic/data/888/images/1kqng9s_1750441248679_c16v9.jpg",
+    "ep": 5,
+    "s": 1325,
+    "geo": [
+      59.9109,
+      10.75
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1kqlf8w",
+    "cn": "奥斯陆",
+    "name": "Oslo",
+    "image": "https://image.xinu.ink/pic/data/888/images/1kqlf8w_1750441153909_c16v9.jpg",
+    "ep": 6,
+    "s": 114,
+    "geo": [
+      59.9049,
+      10.752
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1kqwc42",
+    "cn": "莫斯科 阿尔巴特街 星巴克旁",
+    "name": "улица Арбат",
+    "image": "https://image.xinu.ink/pic/data/888/images/1kqwc42_1750441727175_c16v9.jpg",
+    "ep": 5,
+    "s": 784,
+    "geo": [
+      55.7508,
+      37.5957
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1kr3jme",
+    "cn": "阿尔巴特街  Arbatskaya Flea Market旁",
+    "name": "Бизнес-центр \"Альфа Арбат Центр\"",
+    "image": "https://image.xinu.ink/pic/data/888/images/1kr3jme_1750442118589_c16v9.jpg",
+    "ep": 5,
+    "s": 788,
+    "geo": [
+      55.7519,
+      37.5991
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1krwjex",
+    "name": "Frank by Баста",
+    "image": "https://image.xinu.ink/pic/data/888/images/1krwjex_1750443370267_c16v9.jpg",
+    "ep": 5,
+    "s": 795,
+    "geo": [
+      55.7484,
+      37.5879
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
   }
 ]

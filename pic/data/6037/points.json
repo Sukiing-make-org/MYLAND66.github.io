@@ -1,0 +1,41 @@
+[
+  {
+    "id": "13455d8",
+    "cn": "威克岛",
+    "name": "Wake Island",
+    "image": "https://image.xinu.ink/pic/data/6037/images/13455d8-1749375500780.jpg",
+    "ep": null,
+    "geo": [
+      19.2888,
+      166.6486
+    ],
+    "origin": "Anitabi@enldm",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "134qney",
+    "cn": "硫磺岛",
+    "name": "硫黄島",
+    "image": "https://image.xinu.ink/pic/data/6037/images/134qney-1749376501429.jpg",
+    "ep": null,
+    "geo": [
+      24.7739,
+      141.3272
+    ],
+    "origin": "Anitabi@enldm",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1d30hlc",
+    "cn": "白房子",
+    "name": "Witte Huis",
+    "image": "https://image.xinu.ink/pic/data/6037/images/1d30hlc-1749978672723.jpg",
+    "ep": null,
+    "geo": [
+      51.9188,
+      4.4917
+    ],
+    "origin": "Anitabi@enldm",
+    "originURL": "https://anitabi.cn/"
+  }
+]

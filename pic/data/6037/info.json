@@ -1,0 +1,44 @@
+{
+  "id": 246818,
+  "cn": "战地5",
+  "title": "Battlefield V",
+  "cover": "https://image.xinu.ink/pic/data/6037/images/246818_8WeVe.jpg",
+  "modified": 1749981527204,
+  "litePoints": [
+    {
+      "id": "13455d8",
+      "cn": "威克岛",
+      "name": "Wake Island",
+      "image": "https://image.anitabi.cn/user/2186/bangumi/246818/points/13455d8-1749375500780.jpg?plan=h160",
+      "geo": [
+        19.2888,
+        166.6486
+      ]
+    },
+    {
+      "id": "134qney",
+      "cn": "硫磺岛",
+      "name": "硫黄島",
+      "image": "https://image.anitabi.cn/user/2186/bangumi/246818/points/134qney-1749376501429.jpg?plan=h160",
+      "geo": [
+        24.7739,
+        141.3272
+      ]
+    },
+    {
+      "id": "1d30hlc",
+      "cn": "白房子",
+      "name": "Witte Huis",
+      "image": "https://image.anitabi.cn/user/2186/bangumi/246818/points/1d30hlc-1749978672723.jpg?plan=h160",
+      "geo": [
+        51.9188,
+        4.4917
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "name": "Battlefield V",
+  "name_cn": "战地5",
+  "local_id": 6037
+}

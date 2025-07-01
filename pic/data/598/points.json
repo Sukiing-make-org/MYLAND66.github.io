@@ -129,5 +129,46 @@
       38.8906,
       -77.0124
     ]
+  },
+  {
+    "id": "12vqk1q",
+    "cn": "鱼尾狮公园",
+    "name": "Merlion Park",
+    "image": "https://image.xinu.ink/pic/data/598/images/12vqk1q-1749361468686.jpg",
+    "ep": 11,
+    "s": 1102,
+    "geo": [
+      1.2868,
+      103.8544
+    ],
+    "origin": "Anitabi@enldm",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "12w00of",
+    "cn": "大阪城",
+    "name": "大阪城",
+    "image": "https://image.xinu.ink/pic/data/598/images/12w00of-1749361822929.jpg",
+    "ep": 11,
+    "s": 1113,
+    "geo": [
+      34.6874,
+      135.5259
+    ],
+    "origin": "Anitabi@enldm",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "12vwmii",
+    "cn": "德拉白鹤酒店",
+    "name": "Hôtel de la Cigogne",
+    "image": "https://image.xinu.ink/pic/data/598/images/12vwmii-1749361717096.jpg",
+    "ep": null,
+    "geo": [
+      46.2027,
+      6.15
+    ],
+    "origin": "Anitabi@enldm",
+    "originURL": "https://anitabi.cn/"
   }
 ]

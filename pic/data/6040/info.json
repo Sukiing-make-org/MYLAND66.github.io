@@ -1,0 +1,46 @@
+{
+  "id": 385739,
+  "cn": "描绘直至生命尽头",
+  "title": "これ描いて死ね",
+  "city": "静冈县",
+  "cover": "https://image.xinu.ink/pic/data/6040/images/385739_CPqIU.jpg",
+  "modified": 1751283472481,
+  "litePoints": [
+    {
+      "id": "1ynvk5o",
+      "name": "波浮港見晴台",
+      "image": "https://image.anitabi.cn/points/385739/1ynvk5o_1751283116560.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        34.6871,
+        139.4356
+      ]
+    },
+    {
+      "id": "1ynx96z",
+      "name": "波浮港",
+      "image": "https://image.anitabi.cn/points/385739/1ynx96z_1751283170640.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        34.6866,
+        139.4388
+      ]
+    },
+    {
+      "id": "1yo083o",
+      "cn": "东京国际会展中心",
+      "name": 2,
+      "image": "https://image.anitabi.cn/points/385739/1yo083o_1751283313164.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6297,
+        139.7937
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "name": "これ描いて死ね",
+  "name_cn": "描绘直至生命尽头",
+  "local_id": 6040
+}

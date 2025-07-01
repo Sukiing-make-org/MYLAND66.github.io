@@ -614,5 +614,40 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1Eul9AN6fuClmabHjc838IJXciY0ywMEz&ll=35.726172%2C139.47763&z=17"
+  },
+  {
+    "id": "5430ec06",
+    "name": "八王子西放射線通り①",
+    "image": "https://image.xinu.ink/pic/data/631/images/5430ec06-1749016012685.jpg",
+    "ep": null,
+    "geo": [
+      35.6585,
+      139.3359
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Eul9AN6fuClmabHjc838IJXciY0ywMEz&ll=35.658518%2C139.335932&z=17"
+  },
+  {
+    "id": "b117c3e2",
+    "name": "八王子西放射線通り②",
+    "image": "https://image.xinu.ink/pic/data/631/images/b117c3e2-1749016119562.jpg",
+    "ep": null,
+    "geo": [
+      35.6589,
+      139.3353
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Eul9AN6fuClmabHjc838IJXciY0ywMEz&ll=35.658913%2C139.335382&z=17"
+  },
+  {
+    "id": "x6gos4",
+    "name": " 八坂駅站台",
+    "image": "https://image.xinu.ink/pic/data/631/images/x6gos4-1749016762130.jpg",
+    "ep": null,
+    "s": 1180,
+    "geo": [
+      35.7451,
+      139.4674
+    ]
   }
 ]

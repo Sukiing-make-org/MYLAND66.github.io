@@ -352,5 +352,77 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1nw5vCUbi_QNrUQkJ5fLmGWU2D8w&ll=42.625824%2C141.566592&z=17"
+  },
+  {
+    "id": "1r6xuav",
+    "cn": "熊标本",
+    "name": "熊の剥製",
+    "image": "https://image.xinu.ink/pic/data/426/images/1r6xuav-1750831451162.jpg",
+    "ep": 7,
+    "s": 89,
+    "geo": [
+      42.6318,
+      141.6049
+    ]
+  },
+  {
+    "id": "1r70q4r",
+    "cn": "小丑",
+    "name": "ピエロ",
+    "image": "https://image.xinu.ink/pic/data/426/images/1r70q4r-1750831635166.jpg",
+    "ep": 4,
+    "s": 438,
+    "geo": [
+      42.6319,
+      141.6049
+    ]
+  },
+  {
+    "id": "1r74arf",
+    "cn": "万花筒",
+    "name": "万華鏡",
+    "image": "https://image.xinu.ink/pic/data/426/images/1r74arf-1750831788065.jpg",
+    "ep": 4,
+    "s": 501,
+    "geo": [
+      42.6319,
+      141.6049
+    ]
+  },
+  {
+    "id": "1r78ary",
+    "cn": "天文馆",
+    "name": "プラネタリウム",
+    "image": "https://image.xinu.ink/pic/data/426/images/1r78ary-1750831892967.jpg",
+    "ep": 4,
+    "s": 523,
+    "geo": [
+      42.6319,
+      141.6048
+    ]
+  },
+  {
+    "id": "1r7avtw",
+    "cn": "厕所",
+    "name": "トイレ",
+    "image": "https://image.xinu.ink/pic/data/426/images/1r7avtw-1750832003039.jpg",
+    "ep": 4,
+    "s": 443,
+    "geo": [
+      42.6317,
+      141.6047
+    ]
+  },
+  {
+    "id": "1r7daop",
+    "cn": "冰球场外部楼梯",
+    "name": "アイスアリーナ外部階段",
+    "image": "https://image.xinu.ink/pic/data/426/images/1r7daop-1750832189121.jpg",
+    "ep": 10,
+    "s": 680,
+    "geo": [
+      42.6396,
+      141.6074
+    ]
   }
 ]

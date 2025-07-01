@@ -346,5 +346,105 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1F0DRNeGVqr8YRgBrKEu-fi69B8E&ll=35.006312%2C135.772044&z=17"
+  },
+  {
+    "id": "1t17clx",
+    "cn": "佃小桥",
+    "name": "Tsukudako Bridge",
+    "image": "https://image.xinu.ink/pic/data/443/images/1t17clx-1750943019738.jpg",
+    "ep": 1,
+    "s": 1352,
+    "geo": [
+      35.6672,
+      139.7833
+    ]
+  },
+  {
+    "id": "1t1qf58",
+    "cn": "佃天安",
+    "name": "佃煮天安",
+    "image": "https://image.xinu.ink/pic/data/443/images/1t1qf58-1750943632755.jpg",
+    "ep": null,
+    "geo": [
+      35.6676,
+      139.7822
+    ]
+  },
+  {
+    "id": "1ueiueo",
+    "cn": "鸟居",
+    "name": "MQ9J+8X8 中央区 日本东京都",
+    "image": "https://image.xinu.ink/pic/data/443/images/1ueiueo-1751025750315.jpg",
+    "ep": null,
+    "geo": [
+      35.6682,
+      139.7824
+    ]
+  },
+  {
+    "id": "1uf5ed5",
+    "cn": "中央区立石川島公園",
+    "name": "中央区立石川島公園",
+    "image": "https://image.xinu.ink/pic/data/443/images/1uf5ed5-1751026583928.jpg",
+    "ep": null,
+    "geo": [
+      35.6714,
+      139.786
+    ]
+  },
+  {
+    "id": "1ufxtr6",
+    "cn": "麦当劳",
+    "name": "麦当劳",
+    "image": "https://image.xinu.ink/pic/data/443/images/1ufxtr6-1751027900559.jpg",
+    "ep": null,
+    "geo": [
+      35.6651,
+      139.7836
+    ]
+  },
+  {
+    "id": "1ugf0pe",
+    "cn": "月岛站",
+    "name": "月岛站",
+    "image": "https://image.xinu.ink/pic/data/443/images/1ugf0pe-1751028705095.jpg",
+    "ep": null,
+    "geo": [
+      35.6654,
+      139.7841
+    ]
+  },
+  {
+    "id": "1ughu2y",
+    "cn": "高架桥",
+    "name": "高架桥",
+    "image": "https://image.xinu.ink/pic/data/443/images/1ughu2y-1751028942142.jpg",
+    "ep": null,
+    "geo": [
+      35.6662,
+      139.783
+    ]
+  },
+  {
+    "id": "1ugu7yb",
+    "cn": "河边",
+    "name": "无",
+    "image": "https://image.xinu.ink/pic/data/443/images/1ugu7yb-1751029619626.jpg",
+    "ep": null,
+    "geo": [
+      35.6679,
+      139.7823
+    ]
+  },
+  {
+    "id": "1uh4pwc",
+    "cn": "水位观测所",
+    "name": "霊岸島検潮所",
+    "image": "https://image.xinu.ink/pic/data/443/images/1uh4pwc-1751029906680.jpg",
+    "ep": null,
+    "geo": [
+      35.6719,
+      139.7827
+    ]
   }
 ]

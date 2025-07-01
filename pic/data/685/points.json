@@ -346,5 +346,45 @@
     ],
     "origin": "Anitabi@澄蔦",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1999we8",
+    "name": "湯田中駅",
+    "image": "https://image.xinu.ink/pic/data/685/images/1999we8-1749747151243.jpg",
+    "ep": null,
+    "geo": [
+      36.7417,
+      138.4145
+    ]
+  },
+  {
+    "id": "199qd7q",
+    "name": "夜間瀬温泉街",
+    "image": "https://image.xinu.ink/pic/data/685/images/199qd7q-1749747746107.jpg",
+    "ep": null,
+    "geo": [
+      36.7346,
+      138.4331
+    ]
+  },
+  {
+    "id": "19a07ho",
+    "name": "くつの館",
+    "image": "https://image.xinu.ink/pic/data/685/images/19a07ho-1749748177537.jpg",
+    "ep": null,
+    "geo": [
+      36.7324,
+      138.433
+    ]
+  },
+  {
+    "id": "19b31cn",
+    "name": "やまびこ広場",
+    "image": "https://image.xinu.ink/pic/data/685/images/19b31cn-1749749977954.jpg",
+    "ep": null,
+    "geo": [
+      36.7348,
+      138.4226
+    ]
   }
 ]

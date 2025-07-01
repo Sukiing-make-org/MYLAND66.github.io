@@ -311,5 +311,51 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1ANhPx9EOLsDPEcB-lSLJg2q_931N5JmL&ll=43.061105%2C141.356425&z=17"
+  },
+  {
+    "id": "1r7sjgf",
+    "cn": "Secomart 南8条店",
+    "name": "セーコーマート 南8条店",
+    "image": "https://image.xinu.ink/pic/data/676/images/1r7sjgf-1750832938509.jpg",
+    "ep": 4,
+    "s": 262,
+    "geo": [
+      43.0509,
+      141.3543
+    ]
+  },
+  {
+    "id": "1r87934",
+    "cn": "藻岩山吉祥物",
+    "name": "もーりす",
+    "image": "https://image.xinu.ink/pic/data/676/images/1r87934-1750833496968.jpg",
+    "ep": 9,
+    "s": 655,
+    "geo": [
+      43.0221,
+      141.3255
+    ]
+  },
+  {
+    "id": "1r82tri",
+    "cn": "OP钟表台",
+    "name": "OP時計台",
+    "image": "https://image.xinu.ink/pic/data/676/images/1r82tri-1750833297325.jpg",
+    "ep": null,
+    "geo": [
+      43.0624,
+      141.3533
+    ]
+  },
+  {
+    "id": "1r8d8kr",
+    "cn": "OP法国餐厅",
+    "name": "オーベルジュ・ド・リル サッポロ",
+    "image": "https://image.xinu.ink/pic/data/676/images/1r8d8kr-1750833796903.jpg",
+    "ep": null,
+    "geo": [
+      43.055,
+      141.3145
+    ]
   }
 ]

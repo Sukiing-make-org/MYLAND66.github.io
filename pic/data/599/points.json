@@ -521,5 +521,919 @@
       35.3041,
       139.5137
     ]
+  },
+  {
+    "id": "1j5n3m5",
+    "name": "腰越独立教会",
+    "image": "https://image.xinu.ink/pic/data/599/images/1j5n3m5-1750345541100.jpg",
+    "ep": "OP",
+    "s": 55,
+    "geo": [
+      35.3068,
+      139.4972
+    ]
+  },
+  {
+    "id": "12rju57",
+    "name": "オーベル藤沢藤が岡１",
+    "image": "https://image.xinu.ink/pic/data/599/images/12rju57-1749355190087.jpg",
+    "ep": 1,
+    "s": 883,
+    "geo": [
+      35.3444,
+      139.4941
+    ]
+  },
+  {
+    "id": "12sc04z",
+    "name": "サンパール広場（藤沢駅北口ペデストリアンデッキ）",
+    "image": "https://image.xinu.ink/pic/data/599/images/12sc04z-1749355672614.jpg",
+    "ep": 1,
+    "s": 1379,
+    "geo": [
+      35.3394,
+      139.4876
+    ]
+  },
+  {
+    "id": "12smyrv",
+    "name": "柳通り",
+    "image": "https://image.xinu.ink/pic/data/599/images/12smyrv-1749356176610.jpg",
+    "ep": 1,
+    "s": 1411,
+    "geo": [
+      35.3401,
+      139.4883
+    ]
+  },
+  {
+    "id": "12svt72",
+    "name": "アットパーク藤沢朝日町",
+    "image": "https://image.xinu.ink/pic/data/599/images/12svt72-1749356596729.jpg",
+    "ep": 1,
+    "s": 1424,
+    "geo": [
+      35.3412,
+      139.4926
+    ]
+  },
+  {
+    "id": "12sxaya",
+    "name": "御所ヶ谷橋 西北侧",
+    "image": "https://image.xinu.ink/pic/data/599/images/12sxaya-1749356684568.jpg",
+    "ep": 1,
+    "s": 1425,
+    "geo": [
+      35.3417,
+      139.4926
+    ]
+  },
+  {
+    "id": "12t1u9o",
+    "name": "2-chōme-2-50 Daigiri",
+    "image": "https://image.xinu.ink/pic/data/599/images/12t1u9o-1749356871482.jpg",
+    "ep": 1,
+    "s": 1429,
+    "geo": [
+      35.342,
+      139.4929
+    ]
+  },
+  {
+    "id": "12tdo3y",
+    "name": "御所ヶ谷児童遊園",
+    "image": "https://image.xinu.ink/pic/data/599/images/12tdo3y-1749357443863.jpg",
+    "ep": 1,
+    "s": 248,
+    "geo": [
+      35.343,
+      139.4917
+    ]
+  },
+  {
+    "id": "12tmt5z",
+    "name": "御所ヶ谷橋",
+    "image": "https://image.xinu.ink/pic/data/599/images/12tmt5z-1749357850952.jpg",
+    "ep": 1,
+    "s": 884,
+    "geo": [
+      35.3414,
+      139.4928
+    ]
+  },
+  {
+    "id": "12tsugg",
+    "name": "カラオケベスト10 藤沢店 东侧天桥下",
+    "image": "https://image.xinu.ink/pic/data/599/images/12tsugg-1749358128139.jpg",
+    "ep": 2,
+    "s": 240,
+    "geo": [
+      35.3401,
+      139.4881
+    ]
+  },
+  {
+    "id": "12w70g9",
+    "name": "藤沢駅南口",
+    "image": "https://image.xinu.ink/pic/data/599/images/12w70g9-1749362170776.jpg",
+    "ep": 2,
+    "s": 626,
+    "geo": [
+      35.338,
+      139.4871
+    ]
+  },
+  {
+    "id": "12w941g",
+    "name": "江ノ島電鉄線藤沢駅",
+    "image": "https://image.xinu.ink/pic/data/599/images/12w941g-1749362287699.jpg",
+    "ep": 2,
+    "s": 628,
+    "geo": [
+      35.3371,
+      139.4872
+    ]
+  },
+  {
+    "id": "12wjp6b",
+    "cn": "大垣站前超级酒店",
+    "name": "スーパー​ホテル​大垣​駅前",
+    "image": "https://image.xinu.ink/pic/data/599/images/12wjp6b-1749362742754.jpg",
+    "ep": 2,
+    "s": 1124,
+    "geo": [
+      35.3651,
+      136.6151
+    ]
+  },
+  {
+    "id": "12wmmls",
+    "name": "駅前澤田屋",
+    "image": "https://image.xinu.ink/pic/data/599/images/12wmmls-1749362896739.jpg",
+    "ep": 2,
+    "s": 1275,
+    "geo": [
+      35.3656,
+      136.6178
+    ]
+  },
+  {
+    "id": "13bqua0",
+    "name": "水都タワー",
+    "image": "https://image.xinu.ink/pic/data/599/images/13bqua0-1749388266907.jpg",
+    "ep": 3,
+    "s": 54,
+    "geo": [
+      35.3661,
+      136.6174
+    ]
+  },
+  {
+    "id": "13btyz6",
+    "name": "金蝶園総本家",
+    "image": "https://image.xinu.ink/pic/data/599/images/13btyz6-1749388420160.jpg",
+    "ep": 3,
+    "s": 55,
+    "geo": [
+      35.3658,
+      136.6178
+    ]
+  },
+  {
+    "id": "13c05yg",
+    "name": "藤沢ゲートパーク",
+    "image": "https://image.xinu.ink/pic/data/599/images/13c05yg-1749388751208.jpg",
+    "ep": 3,
+    "s": 332,
+    "geo": [
+      35.3404,
+      139.4902
+    ]
+  },
+  {
+    "id": "13c40ho",
+    "cn": "Seven Eleven便利店藤泽朝日町店",
+    "name": "セブン​イレブン\n藤沢​朝日町​店",
+    "image": "https://image.xinu.ink/pic/data/599/images/13c40ho-1749388879602.jpg",
+    "ep": 3,
+    "s": 370,
+    "geo": [
+      35.3406,
+      139.4925
+    ]
+  },
+  {
+    "id": "13c9svl",
+    "cn": "罗森藤泽朝日町店",
+    "name": "ローソン\n藤沢​朝日町​店",
+    "image": "https://image.xinu.ink/pic/data/599/images/13c9svl-1749389150058.jpg",
+    "ep": 3,
+    "s": 551,
+    "geo": [
+      35.3406,
+      139.4926
+    ]
+  },
+  {
+    "id": "13ealmm",
+    "name": "ビィートリックイベントサービス",
+    "image": "https://image.xinu.ink/pic/data/599/images/13ealmm-1749392552936.jpg",
+    "ep": 4,
+    "s": 1247,
+    "geo": [
+      35.3428,
+      139.4876
+    ]
+  },
+  {
+    "id": "13ec25a",
+    "name": "蔵​ま​え​ギャラリー",
+    "image": "https://image.xinu.ink/pic/data/599/images/13ec25a-1749392612526.jpg",
+    "ep": 4,
+    "s": 1258,
+    "geo": [
+      35.343,
+      139.4872
+    ]
+  },
+  {
+    "id": "13ee8a0",
+    "name": "大正橋",
+    "image": "https://image.xinu.ink/pic/data/599/images/13ee8a0-1749392729144.jpg",
+    "ep": 4,
+    "s": 1269,
+    "geo": [
+      35.3433,
+      139.4883
+    ]
+  },
+  {
+    "id": "13er6rk",
+    "name": "江の島弁天橋",
+    "image": "https://image.xinu.ink/pic/data/599/images/13er6rk-1749393318116.jpg",
+    "ep": 5,
+    "s": 524,
+    "geo": [
+      35.304,
+      139.482
+    ]
+  },
+  {
+    "id": "13eu3ig",
+    "name": "赤灯台",
+    "image": "https://image.xinu.ink/pic/data/599/images/13eu3ig-1749393464021.jpg",
+    "ep": 5,
+    "s": 556,
+    "geo": [
+      35.3051,
+      139.4798
+    ]
+  },
+  {
+    "id": "13eworw",
+    "name": "江の島弁天橋西侧沙滩",
+    "image": "https://image.xinu.ink/pic/data/599/images/13eworw-1749393605094.jpg",
+    "ep": 5,
+    "s": 619,
+    "geo": [
+      35.305,
+      139.4824
+    ]
+  },
+  {
+    "id": "13f2qnx",
+    "name": "リブリソーシャルスペース",
+    "image": "https://image.xinu.ink/pic/data/599/images/13f2qnx-1749393863666.jpg",
+    "ep": 5,
+    "s": 1117,
+    "geo": [
+      35.3399,
+      139.488
+    ]
+  },
+  {
+    "id": "13f7tgx",
+    "cn": "横滨高岛屋",
+    "name": "タカシマヤ",
+    "image": "https://image.xinu.ink/pic/data/599/images/13f7tgx-1749394114678.jpg",
+    "ep": 6,
+    "s": 271,
+    "geo": [
+      35.4657,
+      139.6205
+    ]
+  },
+  {
+    "id": "13forjj",
+    "cn": "片濑桥",
+    "name": "片瀬橋",
+    "image": "https://image.xinu.ink/pic/data/599/images/13forjj-1749394884950.jpg",
+    "ep": 5,
+    "s": 523,
+    "geo": [
+      35.3078,
+      139.4834
+    ]
+  },
+  {
+    "id": "14ot3jz",
+    "name": "藤沢市​片瀬​江の島​観光​案内​所",
+    "image": "https://image.xinu.ink/pic/data/599/images/14ot3jz-1749470674454.jpg",
+    "ep": 6,
+    "s": 835,
+    "geo": [
+      35.3077,
+      139.4845
+    ]
+  },
+  {
+    "id": "14ovabk",
+    "name": "片瀬江の島 なぎさ広場 地下通路",
+    "image": "https://image.xinu.ink/pic/data/599/images/14ovabk-1749470781967.jpg",
+    "ep": 6,
+    "s": 836,
+    "geo": [
+      35.3075,
+      139.4844
+    ]
+  },
+  {
+    "id": "14oxu3q",
+    "name": "土産物​レストラン​貝​作​総本店",
+    "image": "https://image.xinu.ink/pic/data/599/images/14oxu3q-1749470891770.jpg",
+    "ep": 6,
+    "s": 856,
+    "geo": [
+      35.3021,
+      139.4814
+    ]
+  },
+  {
+    "id": "14p3vud",
+    "name": "しらす​問屋​江の島​と​びっ​ちょ​江の島​弁財天​仲見世​通り​店",
+    "image": "https://image.xinu.ink/pic/data/599/images/14p3vud-1749471178408.jpg",
+    "ep": 6,
+    "s": 857,
+    "geo": [
+      35.3019,
+      139.4808
+    ]
+  },
+  {
+    "id": "14pgqed",
+    "name": "江の島ガラスHOOK 弁財天仲見世通り本店",
+    "image": "https://image.xinu.ink/pic/data/599/images/14pgqed-1749471775153.jpg",
+    "ep": 6,
+    "s": 858,
+    "geo": [
+      35.3016,
+      139.4808
+    ]
+  },
+  {
+    "id": "14pkj98",
+    "name": "朝日堂龍蝦仙貝",
+    "image": "https://image.xinu.ink/pic/data/599/images/14pkj98-1749471960210.jpg",
+    "ep": 6,
+    "s": 866,
+    "geo": [
+      35.3009,
+      139.4805
+    ]
+  },
+  {
+    "id": "14plirf",
+    "name": "お​食事処​老舗​鶴屋",
+    "image": "https://image.xinu.ink/pic/data/599/images/14plirf-1749471995959.jpg",
+    "ep": 6,
+    "s": 867,
+    "geo": [
+      35.3008,
+      139.4803
+    ]
+  },
+  {
+    "id": "14q28bz",
+    "name": "弁財天童子石像 右侧楼梯",
+    "image": "https://image.xinu.ink/pic/data/599/images/14q28bz-1749472780823.jpg",
+    "ep": 6,
+    "s": 875,
+    "geo": [
+      35.3004,
+      139.4799
+    ]
+  },
+  {
+    "id": "14q4eom",
+    "name": "御神札所",
+    "image": "https://image.xinu.ink/pic/data/599/images/14q4eom-1749472907609.jpg",
+    "ep": 6,
+    "s": 892,
+    "geo": [
+      35.3002,
+      139.4796
+    ]
+  },
+  {
+    "id": "14q6zl6",
+    "name": "江島神社奉安殿",
+    "image": "https://image.xinu.ink/pic/data/599/images/14q6zl6-1749472997635.jpg",
+    "ep": 6,
+    "s": 908,
+    "geo": [
+      35.3001,
+      139.4797
+    ]
+  },
+  {
+    "id": "14q9kzh",
+    "name": "むすびの樹",
+    "image": "https://image.xinu.ink/pic/data/599/images/14q9kzh-1749473119809.jpg",
+    "ep": 6,
+    "s": 917,
+    "geo": [
+      35.3002,
+      139.4801
+    ]
+  },
+  {
+    "id": "14qi6zm",
+    "name": "御所ヶ谷児童遊園 西侧小路",
+    "image": "https://image.xinu.ink/pic/data/599/images/14qi6zm-1749473523512.jpg",
+    "ep": 6,
+    "s": 1438,
+    "geo": [
+      35.343,
+      139.4917
+    ]
+  },
+  {
+    "id": "14qscpl",
+    "name": "ジュンク堂​書店​藤沢​店",
+    "image": "https://image.xinu.ink/pic/data/599/images/14qscpl-1749473997440.jpg",
+    "ep": 7,
+    "s": 281,
+    "geo": [
+      35.3395,
+      139.4881
+    ]
+  },
+  {
+    "id": "14r0r58",
+    "name": "銀座通り自転車歩行者専用道",
+    "image": "https://image.xinu.ink/pic/data/599/images/14r0r58-1749474387902.jpg",
+    "ep": 7,
+    "s": 489,
+    "geo": [
+      35.3398,
+      139.4863
+    ]
+  },
+  {
+    "id": "14rc3b5",
+    "name": "藤沢40号線",
+    "image": "https://image.xinu.ink/pic/data/599/images/14rc3b5-1749474916309.jpg",
+    "ep": 7,
+    "s": 519,
+    "geo": [
+      35.3397,
+      139.4862
+    ]
+  },
+  {
+    "id": "14repud",
+    "name": "駐輪場(125cc)ＡＢ藤沢ビル",
+    "image": "https://image.xinu.ink/pic/data/599/images/14repud-1749475037175.jpg",
+    "ep": 7,
+    "s": 526,
+    "geo": [
+      35.3395,
+      139.4861
+    ]
+  },
+  {
+    "id": "14rka0j",
+    "name": "ガーデンパーク",
+    "image": "https://image.xinu.ink/pic/data/599/images/14rka0j-1749475303631.jpg",
+    "ep": 7,
+    "s": 592,
+    "geo": [
+      35.3399,
+      139.4879
+    ]
+  },
+  {
+    "id": "166in2o",
+    "name": "豊島屋本店",
+    "image": "https://image.xinu.ink/pic/data/599/images/166in2o-1749560908450.jpg",
+    "ep": 8,
+    "s": 422,
+    "geo": [
+      35.3204,
+      139.5525
+    ]
+  },
+  {
+    "id": "16784m8",
+    "name": "ローソン\n藤沢​本鵠沼​店",
+    "image": "https://image.xinu.ink/pic/data/599/images/16784m8-1749562073596.jpg",
+    "ep": 8,
+    "s": 716,
+    "geo": [
+      35.3308,
+      139.4745
+    ]
+  },
+  {
+    "id": "1679ikv",
+    "name": "本鵠沼駅西口",
+    "image": "https://image.xinu.ink/pic/data/599/images/1679ikv-1749562140334.jpg",
+    "ep": 8,
+    "s": 721,
+    "geo": [
+      35.3306,
+      139.4747
+    ]
+  },
+  {
+    "id": "167eq5c",
+    "cn": "鹄沼海滨浴场",
+    "name": "鵠沼海水浴場",
+    "image": "https://image.xinu.ink/pic/data/599/images/167eq5c-1749562381442.jpg",
+    "ep": 8,
+    "s": 805,
+    "geo": [
+      35.3164,
+      139.4621
+    ]
+  },
+  {
+    "id": "167gug4",
+    "cn": "片濑江之岛",
+    "name": "片瀬江ノ島",
+    "image": "https://image.xinu.ink/pic/data/599/images/167gug4-1749562475981.jpg",
+    "ep": 8,
+    "s": 927,
+    "geo": [
+      35.3088,
+      139.4834
+    ]
+  },
+  {
+    "id": "167sqxn",
+    "cn": "鹄沼海滨公园",
+    "name": "鵠沼海浜公園",
+    "image": "https://image.xinu.ink/pic/data/599/images/167sqxn-1749563031619.jpg",
+    "ep": 8,
+    "s": 1402,
+    "geo": [
+      35.3164,
+      139.4659
+    ]
+  },
+  {
+    "id": "167x2qy",
+    "name": "カフェ・ベローチェ 藤沢店",
+    "image": "https://image.xinu.ink/pic/data/599/images/167x2qy-1749563274102.jpg",
+    "ep": 9,
+    "s": 395,
+    "geo": [
+      35.3399,
+      139.4885
+    ]
+  },
+  {
+    "id": "167zc9h",
+    "name": "柳通り 遊行通り十字路口",
+    "image": "https://image.xinu.ink/pic/data/599/images/167zc9h-1749563348706.jpg",
+    "ep": 9,
+    "s": 400,
+    "geo": [
+      35.34,
+      139.4887
+    ]
+  },
+  {
+    "id": "16854ar",
+    "cn": "藤泽",
+    "name": "藤沢駅",
+    "image": "https://image.xinu.ink/pic/data/599/images/16854ar-1749563654661.jpg",
+    "ep": 9,
+    "s": 414,
+    "geo": [
+      35.3388,
+      139.4873
+    ]
+  },
+  {
+    "id": "1deouds",
+    "name": "江ノ島電鉄 七里ヶ浜駅附近",
+    "image": "https://image.xinu.ink/pic/data/599/images/1deouds-1749997978791.jpg",
+    "ep": 1,
+    "s": 579,
+    "geo": [
+      35.3059,
+      139.5091
+    ]
+  },
+  {
+    "id": "1dfc419",
+    "name": "七里ヶ浜-行合橋",
+    "image": "https://image.xinu.ink/pic/data/599/images/1dfc419-1749998999969.jpg",
+    "ep": 2,
+    "s": 788,
+    "geo": [
+      35.3052,
+      139.5105
+    ]
+  },
+  {
+    "id": "1dfefcu",
+    "name": "七里ヶ浜海岸駐車場 江の島側",
+    "image": "https://image.xinu.ink/pic/data/599/images/1dfefcu-1749999098311.jpg",
+    "ep": 2,
+    "s": 831,
+    "geo": [
+      35.3052,
+      139.5107
+    ]
+  },
+  {
+    "id": "1dfgqgv",
+    "name": "七里ヶ浜",
+    "image": "https://image.xinu.ink/pic/data/599/images/1dfgqgv-1749999174842.jpg",
+    "ep": 2,
+    "s": 873,
+    "geo": [
+      35.3048,
+      139.511
+    ]
+  },
+  {
+    "id": "1dfw3yq",
+    "cn": "御所谷公园",
+    "name": "御所ケ谷公園",
+    "image": "https://image.xinu.ink/pic/data/599/images/1dfw3yq-1749999888486.jpg",
+    "ep": 9,
+    "s": 668,
+    "geo": [
+      35.3431,
+      139.4933
+    ]
+  },
+  {
+    "id": "1euexh3",
+    "name": "2-chōme-21-3 Fujigaoka",
+    "image": "https://image.xinu.ink/pic/data/599/images/1euexh3-1750084766266.jpg",
+    "ep": 10,
+    "s": 488,
+    "geo": [
+      35.3437,
+      139.4942
+    ]
+  },
+  {
+    "id": "1euicte",
+    "name": "2-chōme-1-34 Fujigaoka",
+    "image": "https://image.xinu.ink/pic/data/599/images/1euicte-1750084908805.jpg",
+    "ep": 10,
+    "s": 495,
+    "geo": [
+      35.3439,
+      139.4941
+    ]
+  },
+  {
+    "id": "1euw75g",
+    "name": "SHIBUYA109",
+    "image": "https://image.xinu.ink/pic/data/599/images/1euw75g-1750085568360.jpg",
+    "ep": 10,
+    "s": 900,
+    "geo": [
+      35.6595,
+      139.6986
+    ]
+  },
+  {
+    "id": "1g5ttaa",
+    "name": "横滨市立大学附属医院",
+    "image": "https://image.xinu.ink/pic/data/599/images/1g5ttaa-1750164407184.jpg",
+    "ep": 12,
+    "s": 112,
+    "geo": [
+      35.3445,
+      139.6512
+    ]
+  },
+  {
+    "id": "1g67v9y",
+    "name": "鼓門",
+    "image": "https://image.xinu.ink/pic/data/599/images/1g67v9y-1750165054852.jpg",
+    "ep": 12,
+    "s": 564,
+    "geo": [
+      36.5777,
+      136.6489
+    ]
+  },
+  {
+    "id": "1g6g167",
+    "name": "藤沢団地前",
+    "image": "https://image.xinu.ink/pic/data/599/images/1g6g167-1750165424191.jpg",
+    "ep": 12,
+    "s": 977,
+    "geo": [
+      35.345,
+      139.4953
+    ]
+  },
+  {
+    "id": "1g6q9cw",
+    "name": "万世橋",
+    "image": "https://image.xinu.ink/pic/data/599/images/1g6q9cw-1750165905676.jpg",
+    "ep": 12,
+    "s": 1118,
+    "geo": [
+      35.697,
+      139.7711
+    ]
+  },
+  {
+    "id": "1g6ucod",
+    "name": "東京文化会館",
+    "image": "https://image.xinu.ink/pic/data/599/images/1g6ucod-1750166096767.jpg",
+    "ep": 12,
+    "s": 1129,
+    "geo": [
+      35.7148,
+      139.7753
+    ]
+  },
+  {
+    "id": "1g73ywc",
+    "name": "上野公園 交番",
+    "image": "https://image.xinu.ink/pic/data/599/images/1g73ywc-1750166578152.jpg",
+    "ep": 12,
+    "s": 1132,
+    "geo": [
+      35.7153,
+      139.7745
+    ]
+  },
+  {
+    "id": "1g75pdu",
+    "name": "上野公園",
+    "image": "https://image.xinu.ink/pic/data/599/images/1g75pdu-1750166621998.jpg",
+    "ep": 12,
+    "s": 1138,
+    "geo": [
+      35.7155,
+      139.7739
+    ]
+  },
+  {
+    "id": "1g77nwg",
+    "name": "上野動物園",
+    "image": "https://image.xinu.ink/pic/data/599/images/1g77nwg-1750166718001.jpg",
+    "ep": 12,
+    "s": 1150,
+    "geo": [
+      35.716,
+      139.7727
+    ]
+  },
+  {
+    "id": "1g9qqqn",
+    "name": "御幣公園",
+    "image": "https://image.xinu.ink/pic/data/599/images/1g9qqqn-1750170959803.jpg",
+    "ep": 12,
+    "s": 1280,
+    "geo": [
+      35.3454,
+      139.4923
+    ]
+  },
+  {
+    "id": "1ikynqz",
+    "name": "コンフォール​藤沢​ C-2",
+    "image": "https://image.xinu.ink/pic/data/599/images/1ikynqz-1750310779386.jpg",
+    "ep": 12,
+    "s": 1282,
+    "geo": [
+      35.3441,
+      139.4923
+    ]
+  },
+  {
+    "id": "1il2l0i",
+    "name": "コンフォール​藤沢​C​-​3号棟",
+    "image": "https://image.xinu.ink/pic/data/599/images/1il2l0i-1750310946709.jpg",
+    "ep": 12,
+    "s": 1284,
+    "geo": [
+      35.3444,
+      139.4924
+    ]
+  },
+  {
+    "id": "1il3s9m",
+    "cn": "御币公园",
+    "name": "御幣公園",
+    "image": "https://image.xinu.ink/pic/data/599/images/1il3s9m-1750310974832.jpg",
+    "ep": 12,
+    "s": 1287,
+    "geo": [
+      35.3456,
+      139.4919
+    ]
+  },
+  {
+    "id": "1il4rsq",
+    "cn": "藤冈中学",
+    "name": "藤ケ岡中",
+    "image": "https://image.xinu.ink/pic/data/599/images/1il4rsq-1750311021557.jpg",
+    "ep": 12,
+    "s": 1306,
+    "geo": [
+      35.347,
+      139.4982
+    ]
+  },
+  {
+    "id": "1il7wjk",
+    "name": "藤沢市民病院",
+    "image": "https://image.xinu.ink/pic/data/599/images/1il7wjk-1750311203567.jpg",
+    "ep": 13,
+    "s": 192,
+    "geo": [
+      35.3498,
+      139.4816
+    ]
+  },
+  {
+    "id": "1ilj6e0",
+    "name": "白旗神社前",
+    "image": "https://image.xinu.ink/pic/data/599/images/1ilj6e0-1750311705204.jpg",
+    "ep": 13,
+    "s": 207,
+    "geo": [
+      35.3499,
+      139.4792
+    ]
+  },
+  {
+    "id": "1ilygjg",
+    "name": "金沢市眺望点『ひがし茶屋街卯辰山側』",
+    "image": "https://image.xinu.ink/pic/data/599/images/1ilygjg-1750312423062.jpg",
+    "ep": 13,
+    "s": 882,
+    "geo": [
+      36.5723,
+      136.6678
+    ]
+  },
+  {
+    "id": "1im2s9n",
+    "name": "ひがし茶屋街",
+    "image": "https://image.xinu.ink/pic/data/599/images/1im2s9n-1750312620460.jpg",
+    "ep": 13,
+    "s": 880,
+    "geo": [
+      36.5724,
+      136.6669
+    ]
+  },
+  {
+    "id": "1im4qsh",
+    "name": "箔座ひかり藏",
+    "image": "https://image.xinu.ink/pic/data/599/images/1im4qsh-1750312736788.jpg",
+    "ep": 13,
+    "s": 885,
+    "geo": [
+      36.5725,
+      136.6671
+    ]
+  },
+  {
+    "id": "1j4om2y",
+    "name": "金沢駅",
+    "image": "https://image.xinu.ink/pic/data/599/images/1j4om2y-1750343874228.jpg",
+    "ep": 13,
+    "s": 1166,
+    "geo": [
+      36.5781,
+      136.6483
+    ]
+  },
+  {
+    "id": "1j4zecu",
+    "name": "おみやげ処金沢店",
+    "image": "https://image.xinu.ink/pic/data/599/images/1j4zecu-1750344368986.jpg",
+    "ep": 13,
+    "s": 1169,
+    "geo": [
+      36.5785,
+      136.6483
+    ]
   }
 ]

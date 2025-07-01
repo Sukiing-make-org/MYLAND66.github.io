@@ -192,5 +192,29 @@
       139.7354
     ],
     "originLink": "https://maps.app.goo.gl/wNEpqCEdPvRddsoaA?g_st=com.google.maps.preview.copy"
+  },
+  {
+    "id": "upfulo",
+    "cn": "麦当劳 西武新宿站前店4层",
+    "name": "マクドナルド 西武新宿駅前店4层",
+    "image": "https://image.xinu.ink/pic/data/639/images/upfulo-1748867155933.jpg",
+    "ep": 1,
+    "s": 696,
+    "geo": [
+      35.6941,
+      139.7006
+    ]
+  },
+  {
+    "id": "uplxm5",
+    "cn": "麦当劳西武新宿站前店4层",
+    "name": "マクドナルド 西武新宿駅前店4F",
+    "image": "https://image.xinu.ink/pic/data/639/images/uplxm5-1748867385426.jpg",
+    "ep": 1,
+    "s": 645,
+    "geo": [
+      35.6941,
+      139.7006
+    ]
   }
 ]

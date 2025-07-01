@@ -167,5 +167,65 @@
     ],
     "origin": "Anitabi@Xmなのだ",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "14o4v11",
+    "cn": "竹内ビル",
+    "name": "竹内ビル",
+    "image": "https://image.xinu.ink/pic/data/551/images/14o4v11-1749469726659.jpg",
+    "ep": "2",
+    "s": "11:07",
+    "geo": [
+      34.6986,
+      135.4872
+    ]
+  },
+  {
+    "id": "14osf59",
+    "cn": "焼肉藤もと大吉商店 YAKINIKU FUJIMOTO",
+    "name": "焼肉藤もと大吉商店 YAKINIKU FUJIMOTO",
+    "image": "https://image.xinu.ink/pic/data/551/images/14osf59-1749470701987.jpg",
+    "ep": "2",
+    "s": "11:59",
+    "geo": [
+      34.6985,
+      135.4871
+    ]
+  },
+  {
+    "id": "165gv4m",
+    "cn": "酒房まつい 京橋本店",
+    "name": "酒房まつい 京橋本店",
+    "image": "https://image.xinu.ink/pic/data/551/images/165gv4m-1749559149368.jpg",
+    "ep": "6",
+    "s": "5:36",
+    "geo": [
+      34.6975,
+      135.5338
+    ]
+  },
+  {
+    "id": "165o8hi",
+    "cn": "立ち飲みいなせや 京橋店",
+    "name": "立ち飲みいなせや 京橋店",
+    "image": "https://image.xinu.ink/pic/data/551/images/165o8hi-1749559480653.jpg",
+    "ep": "6",
+    "s": "6:04",
+    "geo": [
+      34.6977,
+      135.5342
+    ]
+  },
+  {
+    "id": "17m8ca6",
+    "cn": "かみふく薬局",
+    "name": "Chikada Cigarette Shop, 宮川ビル 7-chōme-6-4 Fukushima, Fukushima Ward, Osaka, 553-0003附近",
+    "image": "https://image.xinu.ink/pic/data/551/images/17m8ca6-1749647768575.jpg",
+    "ep": "11",
+    "s": "16:48",
+    "geo": [
+      34.6973,
+      135.4867
+    ]
   }
 ]

@@ -1182,5 +1182,58 @@
     ],
     "origin": "Anitabi@Lilin",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "13nskri",
+    "name": "俯瞰东京",
+    "image": "https://image.xinu.ink/pic/data/532/images/13nskri_1749408500976.jpg",
+    "ep": "剧场版 ",
+    "s": 1314,
+    "geo": [
+      35.6899,
+      139.7469
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "13c51ln",
+    "cn": "多罗布国家公园",
+    "name": "Dorob National Park",
+    "image": "https://image.xinu.ink/pic/data/532/images/13c51ln_1749388924774.jpg",
+    "ep": "剧场版 ",
+    "s": 2116,
+    "geo": [
+      -22.7412,
+      14.5855
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "13fsc2t",
+    "name": "山下公园",
+    "image": "https://image.xinu.ink/pic/data/532/images/13fsc2t_1749395116875.jpg",
+    "ep": "遥远的黄金乡ED",
+    "s": 55,
+    "geo": [
+      35.4462,
+      139.6498
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "143pzm0",
+    "name": "鸭川河岸 三条大桥南",
+    "image": "https://image.xinu.ink/pic/data/532/images/143pzm0-1749435272633.jpg",
+    "ep": 6,
+    "s": 43,
+    "geo": [
+      35.0043,
+      135.7719
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
   }
 ]

@@ -200,5 +200,132 @@
       35.633,
       139.771
     ]
+  },
+  {
+    "id": "14tswjo",
+    "cn": "变电站",
+    "name": "変電設備",
+    "image": "https://image.xinu.ink/pic/data/653/images/14tswjo-1749479163291.jpg",
+    "ep": null,
+    "geo": [
+      35.6423,
+      139.6691
+    ]
+  },
+  {
+    "id": "14tx63y",
+    "name": "KYO",
+    "image": "https://image.xinu.ink/pic/data/653/images/14tx63y-1749479261627.jpg",
+    "ep": null,
+    "geo": [
+      35.6423,
+      139.669
+    ]
+  },
+  {
+    "id": "14tybp0",
+    "cn": "肉之Hanamasa",
+    "name": "肉のハナマサ",
+    "image": "https://image.xinu.ink/pic/data/653/images/14tybp0-1749479325388.jpg",
+    "ep": null,
+    "geo": [
+      35.6429,
+      139.669
+    ]
+  },
+  {
+    "id": "14tz0ze",
+    "name": "ファッション​ビル​第2",
+    "image": "https://image.xinu.ink/pic/data/653/images/14tz0ze-1749479372939.jpg",
+    "ep": null,
+    "geo": [
+      35.643,
+      139.669
+    ],
+    "origin": "Citrus@Steam",
+    "originLink": "https://steamcommunity.com/sharedfiles/filedetails/?l=japanese&id=3340149528"
+  },
+  {
+    "id": "14u4oe7",
+    "name": "三軒​茶​屋​お​の​整骨院​はり灸​マッサージ​院",
+    "image": "https://image.xinu.ink/pic/data/653/images/14u4oe7-1749479611675.jpg",
+    "ep": null,
+    "geo": [
+      35.6416,
+      139.6683
+    ]
+  },
+  {
+    "id": "14w1rpf",
+    "cn": "银座线-井之头线换乘通道",
+    "name": "銀座線と井の頭線連絡通路",
+    "image": "https://image.xinu.ink/pic/data/653/images/14w1rpf-1749482909207.jpg",
+    "ep": null,
+    "geo": [
+      35.6587,
+      139.7006
+    ]
+  },
+  {
+    "id": "14whcji",
+    "name": "カラオケ ベスト１０",
+    "image": "https://image.xinu.ink/pic/data/653/images/14whcji-1749483633666.jpg",
+    "ep": null,
+    "geo": [
+      35.6427,
+      139.6689
+    ]
+  },
+  {
+    "id": "14wokd4",
+    "name": "iPhone​修理​救急​便",
+    "image": "https://image.xinu.ink/pic/data/653/images/14wokd4-1749483895261.jpg",
+    "ep": null,
+    "geo": [
+      35.6601,
+      139.6989
+    ]
+  },
+  {
+    "id": "14wq1lg",
+    "name": "ファミリー​マート\nスバル​渋谷​センター​街​店",
+    "image": "https://image.xinu.ink/pic/data/653/images/14wq1lg-1749483975879.jpg",
+    "ep": null,
+    "geo": [
+      35.6603,
+      139.699
+    ]
+  },
+  {
+    "id": "14wqnmu",
+    "name": "松屋\n渋谷​センター​街​店",
+    "image": "https://image.xinu.ink/pic/data/653/images/14wqnmu-1749484000071.jpg",
+    "ep": null,
+    "geo": [
+      35.6601,
+      139.6989
+    ]
+  },
+  {
+    "id": "14wrh17",
+    "name": "バーガーキング 渋谷センター街店",
+    "image": "https://image.xinu.ink/pic/data/653/images/14wrh17-1749484046491.jpg",
+    "ep": null,
+    "geo": [
+      35.6603,
+      139.6988
+    ]
+  },
+  {
+    "id": "14wtt42",
+    "name": "パセラ渋谷店",
+    "image": "https://image.xinu.ink/pic/data/653/images/14wtt42-1749484185733.jpg",
+    "ep": null,
+    "geo": [
+      35.6612,
+      139.701
+    ],
+    "origin": "ペルソナ５　聖地巡礼マップ",
+    "originLink": "https://www.google.com/maps/d/viewer?mid=1wJaF6aHfQ_lPE5T6X7o9XQZb4xM&g_ep=CAESCTExLjYwLjcwMxgAQgJLUg"
   }
 ]

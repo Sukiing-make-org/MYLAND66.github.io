@@ -101,5 +101,60 @@
     ],
     "origin": "Anitabi@Eureka",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1a6lpmq",
+    "name": "洗足駅前ふれあい広場",
+    "image": "https://image.xinu.ink/pic/data/879/images/1a6lpmq-1749804042252.jpg",
+    "ep": 16,
+    "s": 732,
+    "geo": [
+      35.6106,
+      139.6945
+    ],
+    "origin": "Anitabi@柒宇",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1a6lpne",
+    "cn": "全家 原町二丁目店",
+    "name": "ファミリーマート 原町二丁目店",
+    "image": "https://image.xinu.ink/pic/data/879/images/1a6lpne-1749804042253.jpg",
+    "ep": 16,
+    "s": 487,
+    "geo": [
+      35.6141,
+      139.6916
+    ],
+    "origin": "Anitabi@柒宇",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1a6lpgh",
+    "cn": "惠比寿花园广场",
+    "name": "恵比寿ガーデンプレイス",
+    "image": "https://image.xinu.ink/pic/data/879/images/1a6lpgh-1749804087397.jpg",
+    "ep": 17,
+    "s": 1051,
+    "geo": [
+      35.6419,
+      139.7141
+    ],
+    "origin": "Anitabi@柒宇",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1a6lpte",
+    "cn": "洗足站",
+    "name": "洗足駅",
+    "image": "https://image.xinu.ink/pic/data/879/images/1a6lpte-1749804119082.jpg",
+    "ep": 20,
+    "s": 619,
+    "geo": [
+      35.6104,
+      139.6945
+    ],
+    "origin": "Anitabi@柒宇",
+    "originURL": "https://anitabi.cn/"
   }
 ]
