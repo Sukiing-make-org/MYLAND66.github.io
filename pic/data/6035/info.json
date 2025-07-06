@@ -101,5 +101,9 @@
   "imagesLength": 9,
   "name": "PiCNiC",
   "name_cn": "梦旅人",
-  "local_id": 6035
+  "local_id": 6035,
+  "region": [
+    "东京都/東京都",
+    "神奈川縣"
+  ]
 }

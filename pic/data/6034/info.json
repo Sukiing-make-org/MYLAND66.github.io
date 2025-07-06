@@ -51,5 +51,11 @@
   "imagesLength": 4,
   "name": "Battlefield 1",
   "name_cn": "战地1",
-  "local_id": 6034
+  "local_id": 6034,
+  "region": [
+    "Kreis Pinneberg",
+    "Oise",
+    "Meuse",
+    "Somme"
+  ]
 }
