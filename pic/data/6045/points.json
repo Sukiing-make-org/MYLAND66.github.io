@@ -1,0 +1,54 @@
+{
+  "points": [
+    {
+      "id": "6045-1",
+      "name": "天然温泉 久松湯",
+      "image": "https://image.xinu.ink/pic/data/6045/images/6045-1.jpg",
+      "ep": "1",
+      "geo": [
+        35.74142,
+        139.66184
+      ]
+    },
+    {
+      "id": "6045-2",
+      "name": "桜台の餃子家",
+      "image": "https://image.xinu.ink/pic/data/6045/images/6045-2.jpg",
+      "ep": "1",
+      "geo": [
+        35.74199,
+        139.66153
+      ]
+    },
+    {
+      "id": "6045-3",
+      "name": "すき家 氷川台駅前店",
+      "image": "https://image.xinu.ink/pic/data/6045/images/6045-3.jpg",
+      "ep": "1",
+      "geo": [
+        35.7498,
+        139.66497
+      ]
+    },
+    {
+      "id": "6045-4",
+      "name": "ファミリーマート 氷川台店",
+      "image": "https://image.xinu.ink/pic/data/6045/images/6045-4.jpg",
+      "ep": "1",
+      "geo": [
+        35.75004,
+        139.66463
+      ]
+    },
+    {
+      "id": "6045-5",
+      "name": "ヴェントゥーノ",
+      "image": "https://image.xinu.ink/pic/data/6045/images/6045-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.75041,
+        139.66491
+      ]
+    }
+  ]
+}
