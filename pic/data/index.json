@@ -411849,7 +411849,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/6046/points.json"
+    "inform": "https://image.xinu.ink/pic/data/6046/points.json",
+    "region": [
+      "宇陀郡",
+      "三重县"
+    ]
   },
   "6047": {
     "name": "青春ブタ野郎はサンタクロースの夢を見ない",
@@ -412088,6 +412092,13 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/6047/points.json"
+    "inform": "https://image.xinu.ink/pic/data/6047/points.json",
+    "region": [
+      "神奈川縣",
+      "东京都/東京都",
+      "国头郡",
+      "三宅支廳",
+      "足柄下郡"
+    ]
   }
 }
