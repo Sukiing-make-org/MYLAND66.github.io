@@ -411714,10 +411714,10 @@
     "name": "彼女、お借りします 4期",
     "name_cn": "彼女、お借りします 4期",
     "cover": "https://image.xinu.ink/pic/data/6045/images/1.jpg",
-    "theme_color": "#97939a",
+    "theme_color": "#7f6a95",
     "points": [
       {
-        "id": "rnxm99s3",
+        "id": "ao9qszfp",
         "name": "天然温泉 久松湯",
         "image": "https://image.xinu.ink/pic/data/6045/images/6045-1.jpg",
         "ep": "1",
@@ -411727,7 +411727,7 @@
         ]
       },
       {
-        "id": "sxp8h6rz",
+        "id": "m01cxn9e",
         "name": "桜台の餃子家",
         "image": "https://image.xinu.ink/pic/data/6045/images/6045-2.jpg",
         "ep": "1",
@@ -411737,7 +411737,7 @@
         ]
       },
       {
-        "id": "r6l37rut",
+        "id": "yxf54w2j",
         "name": "すき家 氷川台駅前店",
         "image": "https://image.xinu.ink/pic/data/6045/images/6045-3.jpg",
         "ep": "1",
@@ -411747,7 +411747,7 @@
         ]
       },
       {
-        "id": "cja0va0o",
+        "id": "lmriys5c",
         "name": "ファミリーマート 氷川台店",
         "image": "https://image.xinu.ink/pic/data/6045/images/6045-4.jpg",
         "ep": "1",
@@ -411757,13 +411757,33 @@
         ]
       },
       {
-        "id": "qtuha1z4",
+        "id": "xw3pgg8w",
         "name": "ヴェントゥーノ",
         "image": "https://image.xinu.ink/pic/data/6045/images/6045-5.jpg",
         "ep": "1",
         "geo": [
           35.75041,
           139.66491
+        ]
+      },
+      {
+        "id": "hcx56p9e",
+        "name": "松屋 氷川台店",
+        "image": "https://image.xinu.ink/pic/data/6045/images/6045-6.jpg",
+        "ep": "2",
+        "geo": [
+          35.75014,
+          139.66466
+        ]
+      },
+      {
+        "id": "4qcqiz5p",
+        "name": "サイゼリヤ 氷川台駅前店",
+        "image": "https://image.xinu.ink/pic/data/6045/images/6045-7.jpg",
+        "ep": "2",
+        "geo": [
+          35.75001,
+          139.66496
         ]
       }
     ],
@@ -411859,10 +411879,10 @@
     "name": "青春ブタ野郎はサンタクロースの夢を見ない",
     "name_cn": "青春笨蛋少年不做圣诞服女郎的梦",
     "cover": "https://image.xinu.ink/pic/data/6047/images/1.jpg",
-    "theme_color": "#a99670",
+    "theme_color": "#7f6a95",
     "points": [
       {
-        "id": "4zz9y2sc",
+        "id": "pezrjj6m",
         "name": "金沢八景駅第３自転車駐車場",
         "image": "https://image.xinu.ink/pic/data/6047/images/6047-1.jpg",
         "ep": "OP",
@@ -411872,7 +411892,7 @@
         ]
       },
       {
-        "id": "dzkg7pd9",
+        "id": "kfrhmntj",
         "name": "横浜市立大学 金沢八景キャンパス",
         "image": "https://image.xinu.ink/pic/data/6047/images/6047-2.jpg",
         "ep": "OP",
@@ -411882,7 +411902,7 @@
         ]
       },
       {
-        "id": "cqrf42vg",
+        "id": "94y9zvi6",
         "name": "藤沢駅",
         "image": "https://image.xinu.ink/pic/data/6047/images/6047-3.jpg",
         "ep": "OP",
@@ -411892,7 +411912,7 @@
         ]
       },
       {
-        "id": "rzrtpmrx",
+        "id": "wd418js4",
         "name": "日本武道館",
         "image": "https://image.xinu.ink/pic/data/6047/images/6047-4.jpg",
         "ep": "OP",
@@ -411902,7 +411922,7 @@
         ]
       },
       {
-        "id": "qgc1rq3w",
+        "id": "p22o6xpa",
         "name": "桜木町駅",
         "image": "https://image.xinu.ink/pic/data/6047/images/6047-5.jpg",
         "ep": "OP",
@@ -411912,7 +411932,7 @@
         ]
       },
       {
-        "id": "os7jr5xa",
+        "id": "j9o5wqgk",
         "name": "ハートロック",
         "image": "https://image.xinu.ink/pic/data/6047/images/6047-6.jpg",
         "ep": "OP",
@@ -411922,7 +411942,7 @@
         ]
       },
       {
-        "id": "sw0p7q7e",
+        "id": "ziqplrnb",
         "name": "七里ガ浜ポンプ場",
         "image": "https://image.xinu.ink/pic/data/6047/images/6047-7.jpg",
         "ep": "OP",
@@ -411932,7 +411952,7 @@
         ]
       },
       {
-        "id": "0258ci0z",
+        "id": "akrrm4av",
         "name": "横浜赤レンガ倉庫",
         "image": "https://image.xinu.ink/pic/data/6047/images/6047-8.jpg",
         "ep": "ED",
@@ -411942,7 +411962,7 @@
         ]
       },
       {
-        "id": "iwmrf8d9",
+        "id": "42zspdpt",
         "name": "横浜市立大学 金沢八景キャンパス",
         "image": "https://image.xinu.ink/pic/data/6047/images/6047-9.jpg",
         "ep": "1",
@@ -411952,7 +411972,7 @@
         ]
       },
       {
-        "id": "5sm7lael",
+        "id": "2qdxgfup",
         "name": "伊豆岬灯台",
         "image": "https://image.xinu.ink/pic/data/6047/images/6047-10.jpg",
         "ep": "1",
@@ -411962,7 +411982,7 @@
         ]
       },
       {
-        "id": "5a9gdlke",
+        "id": "2cskry7m",
         "name": "横浜市立大学 金沢八景キャンパス",
         "image": "https://image.xinu.ink/pic/data/6047/images/6047-11.jpg",
         "ep": "1",
@@ -411972,7 +411992,7 @@
         ]
       },
       {
-        "id": "3bmqalkt",
+        "id": "kk2p8tve",
         "name": "箱根神社",
         "image": "https://image.xinu.ink/pic/data/6047/images/6047-12.jpg",
         "ep": "1",
@@ -411982,7 +412002,7 @@
         ]
       },
       {
-        "id": "h4h3hxfv",
+        "id": "f2c0pt6a",
         "name": "南幸橋",
         "image": "https://image.xinu.ink/pic/data/6047/images/6047-13.jpg",
         "ep": "1",
@@ -411992,7 +412012,7 @@
         ]
       },
       {
-        "id": "kp536q0d",
+        "id": "3wde1ei1",
         "name": "横浜ビブレ",
         "image": "https://image.xinu.ink/pic/data/6047/images/6047-14.jpg",
         "ep": "1",
@@ -412002,7 +412022,7 @@
         ]
       },
       {
-        "id": "qyzyn6zd",
+        "id": "fvsrizdv",
         "name": "123横浜西口店",
         "image": "https://image.xinu.ink/pic/data/6047/images/6047-15.jpg",
         "ep": "1",
@@ -412012,7 +412032,7 @@
         ]
       },
       {
-        "id": "bj6jc5zo",
+        "id": "pg14o9rb",
         "name": "123横浜西口店",
         "image": "https://image.xinu.ink/pic/data/6047/images/6047-16.jpg",
         "ep": "1",
@@ -412022,7 +412042,7 @@
         ]
       },
       {
-        "id": "ywsyrz0l",
+        "id": "8c7fmb8g",
         "name": "THE SUIT COMPANY 横浜西口店",
         "image": "https://image.xinu.ink/pic/data/6047/images/6047-17.jpg",
         "ep": "1",
@@ -412032,7 +412052,7 @@
         ]
       },
       {
-        "id": "yok970p0",
+        "id": "xp8y7ehd",
         "name": "横浜高島屋",
         "image": "https://image.xinu.ink/pic/data/6047/images/6047-18.jpg",
         "ep": "1",
@@ -412042,7 +412062,7 @@
         ]
       },
       {
-        "id": "zpkgwxch",
+        "id": "mys3cg58",
         "name": "横浜高島屋",
         "image": "https://image.xinu.ink/pic/data/6047/images/6047-19.jpg",
         "ep": "1",
@@ -412052,7 +412072,7 @@
         ]
       },
       {
-        "id": "hcmyuyu8",
+        "id": "cmmv9v1n",
         "name": "オーベル藤沢藤が岡１",
         "image": "https://image.xinu.ink/pic/data/6047/images/6047-20.jpg",
         "ep": "1",
@@ -412062,7 +412082,7 @@
         ]
       },
       {
-        "id": "xmxmbgpf",
+        "id": "5jrupim4",
         "name": "横浜市立大学 金沢八景キャンパス",
         "image": "https://image.xinu.ink/pic/data/6047/images/6047-21.jpg",
         "ep": "1",
@@ -412072,7 +412092,7 @@
         ]
       },
       {
-        "id": "z9lpy01z",
+        "id": "686beog2",
         "name": "デニーズ 藤沢北口店",
         "image": "https://image.xinu.ink/pic/data/6047/images/6047-22.jpg",
         "ep": "1",
@@ -412082,13 +412102,23 @@
         ]
       },
       {
-        "id": "mdzgik4s",
+        "id": "mozj094v",
         "name": "横浜銀行 藤沢中央支店",
         "image": "https://image.xinu.ink/pic/data/6047/images/6047-23.jpg",
         "ep": "1",
         "geo": [
           35.3394,
           139.48664
+        ]
+      },
+      {
+        "id": "vb8xsl91",
+        "name": "横浜市立大学 金沢八景キャンパス",
+        "image": "https://image.xinu.ink/pic/data/6047/images/6047-24.jpg",
+        "ep": "1",
+        "geo": [
+          35.33364,
+          139.61905
         ]
       }
     ],
@@ -412100,5 +412130,74 @@
       "三宅支廳",
       "足柄下郡"
     ]
+  },
+  "6048": {
+    "name": "Turkey!",
+    "name_cn": "Turkey!",
+    "cover": "https://image.xinu.ink/pic/data/6048/images/1.jpg",
+    "theme_color": "#9a6b88",
+    "points": [
+      {
+        "id": "fr3xnuqa",
+        "name": "姨捨駅",
+        "image": "https://image.xinu.ink/pic/data/6048/images/6048-1.jpg",
+        "ep": "1",
+        "geo": [
+          36.50263,
+          138.09348
+        ]
+      },
+      {
+        "id": "qcl0b7k3",
+        "name": "姨捨駅",
+        "image": "https://image.xinu.ink/pic/data/6048/images/6048-2.jpg",
+        "ep": "1",
+        "geo": [
+          36.50252,
+          138.09326
+        ]
+      },
+      {
+        "id": "ggj6fwhm",
+        "name": "姨捨棚田駐車場",
+        "image": "https://image.xinu.ink/pic/data/6048/images/6048-3.jpg",
+        "ep": "1",
+        "geo": [
+          36.49996,
+          138.09739
+        ]
+      },
+      {
+        "id": "es03f0tq",
+        "name": "うな竹",
+        "image": "https://image.xinu.ink/pic/data/6048/images/6048-4.jpg",
+        "ep": "1",
+        "geo": [
+          36.48062,
+          138.14266
+        ]
+      },
+      {
+        "id": "gr0dpvze",
+        "name": "おやき七福本店",
+        "image": "https://image.xinu.ink/pic/data/6048/images/6048-5.jpg",
+        "ep": "1",
+        "geo": [
+          36.48094,
+          138.14034
+        ]
+      },
+      {
+        "id": "1cu91cg6",
+        "name": "アピナボウル長野篠ノ井店",
+        "image": "https://image.xinu.ink/pic/data/6048/images/6048-6.jpg",
+        "ep": "1",
+        "geo": [
+          36.57346,
+          138.14328
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6048/points.json"
   }
 }
