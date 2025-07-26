@@ -69,6 +69,96 @@
         34.51041,
         136.20595
       ]
+    },
+    {
+      "id": "6046-8",
+      "name": "桜井警察署 御杖駐在所",
+      "image": "https://image.xinu.ink/pic/data/6046/images/6046-8.jpg",
+      "ep": "OP",
+      "geo": [
+        34.49306,
+        136.17173
+      ]
+    },
+    {
+      "id": "6046-9",
+      "name": "三木里駅",
+      "image": "https://image.xinu.ink/pic/data/6046/images/6046-9.jpg",
+      "ep": "ED",
+      "geo": [
+        34.00144,
+        136.20235
+      ]
+    },
+    {
+      "id": "6046-10",
+      "name": "三木里ビーチ",
+      "image": "https://image.xinu.ink/pic/data/6046/images/6046-10.jpg",
+      "ep": "ED",
+      "geo": [
+        34.00167,
+        136.21357
+      ]
+    },
+    {
+      "id": "6046-11",
+      "name": "三木里ビーチ",
+      "image": "https://image.xinu.ink/pic/data/6046/images/6046-11.jpg",
+      "ep": "ED",
+      "geo": [
+        34.00115,
+        136.21392
+      ]
+    },
+    {
+      "id": "6046-12",
+      "name": "三木里ビーチ",
+      "image": "https://image.xinu.ink/pic/data/6046/images/6046-12.jpg",
+      "ep": "ED",
+      "geo": [
+        34.00123,
+        136.21439
+      ]
+    },
+    {
+      "id": "6046-13",
+      "name": "御杖神社",
+      "image": "https://image.xinu.ink/pic/data/6046/images/6046-13.jpg",
+      "ep": "2",
+      "geo": [
+        34.49407,
+        136.1948
+      ]
+    },
+    {
+      "id": "6046-14",
+      "name": "イオン久居店",
+      "image": "https://image.xinu.ink/pic/data/6046/images/6046-14.jpg",
+      "ep": "2",
+      "geo": [
+        34.6828,
+        136.46406
+      ]
+    },
+    {
+      "id": "6046-15",
+      "name": "敷津集会所",
+      "image": "https://image.xinu.ink/pic/data/6046/images/6046-15.jpg",
+      "ep": "3",
+      "geo": [
+        34.50912,
+        136.20335
+      ]
+    },
+    {
+      "id": "6046-16",
+      "name": "サイゼリヤ 久居インターガーデン店",
+      "image": "https://image.xinu.ink/pic/data/6046/images/6046-16.jpg",
+      "ep": "3",
+      "geo": [
+        34.68346,
+        136.46551
+      ]
     }
   ]
 }
