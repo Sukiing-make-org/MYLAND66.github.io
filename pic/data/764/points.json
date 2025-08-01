@@ -664,5 +664,53 @@
     ],
     "origin": "Anitabi@Azusa",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "26xzc3n",
+    "name": "阿闍梨餅本舗満月本店旁",
+    "image": "https://image.xinu.ink/pic/data/764/images/26xzc3n-1751783819119.jpg",
+    "ep": 1,
+    "geo": [
+      35.0299,
+      135.7778
+    ],
+    "origin": "Anitabi@Azusa",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "26ybfin",
+    "name": "京都站前",
+    "image": "https://image.xinu.ink/pic/data/764/images/26ybfin-1751784362213.jpg",
+    "ep": 11,
+    "geo": [
+      34.9862,
+      135.7587
+    ],
+    "origin": "Anitabi@Azusa",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "26ybzi2",
+    "name": "京都站",
+    "image": "https://image.xinu.ink/pic/data/764/images/26ybzi2-1751784392559.jpg",
+    "ep": 11,
+    "geo": [
+      34.986,
+      135.7588
+    ],
+    "origin": "Anitabi@Azusa",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "26yfn0m",
+    "name": "京都站 站前",
+    "image": "https://image.xinu.ink/pic/data/764/images/26yfn0m-1751784575212.jpg",
+    "ep": 1,
+    "geo": [
+      34.9863,
+      135.7589
+    ],
+    "origin": "Anitabi@Azusa",
+    "originURL": "https://anitabi.cn/"
   }
 ]

@@ -89,5 +89,41 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1OPO0Fbly7mLxN31ml73Pb4hRk9I&ll=34.689466%2C137.601539&z=17"
+  },
+  {
+    "id": "51i53odag",
+    "name": "小國神社",
+    "image": "https://image.xinu.ink/pic/data/489/images/51i53odag_1753090112803.jpg",
+    "ep": 9,
+    "geo": [
+      34.847,
+      137.8994
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OPO0Fbly7mLxN31ml73Pb4hRk9I&ll=34.847031%2C137.899495&z=17"
+  },
+  {
+    "id": "2sk259m",
+    "name": "浜松西図書館（旧）",
+    "image": "https://image.xinu.ink/pic/data/489/images/2sk259m_1753090784327.jpg",
+    "ep": 11,
+    "geo": [
+      34.6976,
+      137.7023
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2sk8k0q",
+    "name": "浜松労災病院",
+    "image": "https://image.xinu.ink/pic/data/489/images/2sk8k0q_1753091218098.jpg",
+    "ep": "OVA2",
+    "geo": [
+      34.7166,
+      137.7556
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
   }
 ]

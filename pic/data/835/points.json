@@ -35,5 +35,65 @@
       43.8434,
       143.9257
     ]
+  },
+  {
+    "id": "9e006cb9",
+    "name": "セイコーマート 北見端野店",
+    "image": "https://image.xinu.ink/pic/data/835/images/9e006cb9-1751556085349.jpg",
+    "ep": null,
+    "geo": [
+      43.8536,
+      143.9426
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1YSCc9MUDEz0OFMKtbHXR1QQU5TvLJXM&ll=43.853643%2C143.942677&z=17"
+  },
+  {
+    "id": "6670c95d",
+    "name": "北見駅",
+    "image": "https://image.xinu.ink/pic/data/835/images/6670c95d-1751556308073.jpg",
+    "ep": null,
+    "geo": [
+      43.8049,
+      143.8972
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1YSCc9MUDEz0OFMKtbHXR1QQU5TvLJXM&ll=43.804982%2C143.897298&z=17"
+  },
+  {
+    "id": "9a8fb874",
+    "name": "北見駅南多目的広場",
+    "image": "https://image.xinu.ink/pic/data/835/images/9a8fb874-1751556375932.jpg",
+    "ep": null,
+    "geo": [
+      43.8048,
+      143.8997
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1YSCc9MUDEz0OFMKtbHXR1QQU5TvLJXM&ll=43.80488%2C143.899718&z=17"
+  },
+  {
+    "id": "4d2f74f7",
+    "name": "スリラーカラオケ 北見店",
+    "image": "https://image.xinu.ink/pic/data/835/images/4d2f74f7-1751556397516.jpg",
+    "ep": null,
+    "geo": [
+      43.806,
+      143.8913
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1YSCc9MUDEz0OFMKtbHXR1QQU5TvLJXM&ll=43.806006%2C143.891383&z=17"
+  },
+  {
+    "id": "be7f51ec",
+    "name": "ホルモン焼肉まる笑柏陽店",
+    "image": "https://image.xinu.ink/pic/data/835/images/be7f51ec-1751556657469.jpg",
+    "ep": null,
+    "geo": [
+      43.8217,
+      143.9134
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1YSCc9MUDEz0OFMKtbHXR1QQU5TvLJXM&ll=43.821748%2C143.913427&z=17"
   }
 ]

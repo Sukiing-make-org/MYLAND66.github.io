@@ -471,5 +471,117 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1j5_m2Y05Hxauef1JtT3AKyzjw2U&ll=35.918975%2C139.483662&z=17"
+  },
+  {
+    "id": "2x87i0e",
+    "cn": "东京巨蛋城",
+    "name": "東京​ドームシティアトラクションズ",
+    "image": "https://image.xinu.ink/pic/data/515/images/2x87i0e-1753373122573.jpg",
+    "ep": "EP7",
+    "s": "00：34",
+    "geo": [
+      35.7052,
+      139.754
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1j5_m2Y05Hxauef1JtT3AKyzjw2U&ll=35.705246%2C139.754007&z=17"
+  },
+  {
+    "id": "2x8ab94",
+    "cn": "熊谷站",
+    "name": "熊谷",
+    "image": "https://image.xinu.ink/pic/data/515/images/2x8ab94-1753373314045.jpg",
+    "ep": "EP6",
+    "s": "08：42",
+    "geo": [
+      36.1396,
+      139.3899
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1j5_m2Y05Hxauef1JtT3AKyzjw2U&ll=36.139695%2C139.38996&z=17"
+  },
+  {
+    "id": "2x8q0ku",
+    "cn": "京都站前",
+    "name": "京都駅前",
+    "image": "https://image.xinu.ink/pic/data/515/images/2x8q0ku-1753373984163.jpg",
+    "ep": "EP4",
+    "s": "05：04",
+    "geo": [
+      34.9863,
+      135.7589
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1j5_m2Y05Hxauef1JtT3AKyzjw2U&ll=34.986308%2C135.758974&z=17"
+  },
+  {
+    "id": "2x8ghcg",
+    "cn": "熊谷运动文化公园",
+    "name": "熊谷スポーツ文化公園",
+    "image": "https://image.xinu.ink/pic/data/515/images/2x8ghcg-1753373566341.jpg",
+    "ep": "EP6",
+    "s": "09：28",
+    "geo": [
+      36.1626,
+      139.4105
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1j5_m2Y05Hxauef1JtT3AKyzjw2U&ll=36.162609%2C139.410534&z=17"
+  },
+  {
+    "id": "2x8woju",
+    "cn": "四条大桥",
+    "name": "四条大桥",
+    "image": "https://image.xinu.ink/pic/data/515/images/2x8woju-1753374321353.jpg",
+    "ep": "EP4",
+    "s": "13：11",
+    "geo": [
+      35.0021,
+      135.7709
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1j5_m2Y05Hxauef1JtT3AKyzjw2U&ll=35.002157%2C135.770979&z=17"
+  },
+  {
+    "id": "2x8stl7",
+    "cn": "清水寺",
+    "name": "清水寺",
+    "image": "https://image.xinu.ink/pic/data/515/images/2x8stl7-1753374110762.jpg",
+    "ep": "EP4",
+    "s": "05：12",
+    "geo": [
+      34.9945,
+      135.7853
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1j5_m2Y05Hxauef1JtT3AKyzjw2U&ll=34.99456%2C135.785386&z=17"
+  },
+  {
+    "id": "2x78ckp",
+    "cn": "东京站",
+    "name": "東京駅",
+    "image": "https://image.xinu.ink/pic/data/515/images/2x78ckp-1753371490199.jpg",
+    "ep": "EP4",
+    "s": "00：05",
+    "geo": [
+      35.6815,
+      139.7652
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1j5_m2Y05Hxauef1JtT3AKyzjw2U&ll=35.681579%2C139.765288&z=17"
+  },
+  {
+    "id": "2ygnjqr",
+    "cn": "饭田桥站B2a口",
+    "name": "飯田橋駅B2a口",
+    "image": "https://image.xinu.ink/pic/data/515/images/2ygnjqr-1753447850226.jpg",
+    "ep": "EP6",
+    "s": "09:48",
+    "geo": [
+      35.7004,
+      139.7429
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1j5_m2Y05Hxauef1JtT3AKyzjw2U&ll=35.700462%2C139.742954&z=17"
   }
 ]

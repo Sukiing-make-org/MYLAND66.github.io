@@ -404,5 +404,66 @@
     ],
     "origin": "Anitabi@Xmなのだ",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "24ii2m2",
+    "cn": "取手站去长禅寺的巷道",
+    "name": "駅から長禅寺方面の脇道です",
+    "image": "https://image.xinu.ink/pic/data/405/images/24ii2m2-1751637090992.jpg",
+    "ep": 7,
+    "s": "12.10",
+    "geo": [
+      35.8935,
+      140.0634
+    ]
+  },
+  {
+    "id": "24jjdy5",
+    "cn": "卖团子店铺的取景地（此地店铺不是卖团子的，作品虚构的团子店）",
+    "name": "Vegetaboo LEAF",
+    "image": "https://image.xinu.ink/pic/data/405/images/24jjdy5-1751638852093.jpg",
+    "ep": 7,
+    "s": 737,
+    "geo": [
+      35.8943,
+      140.0637
+    ]
+  },
+  {
+    "id": "24l1plq",
+    "cn": "取手站西口公交车站（但公交车站现在已经大改了与原地差别很大，设立点位以此纪念））",
+    "name": "2 Chūōchō, Toride, Ibaraki 302-0014日本",
+    "image": "https://image.xinu.ink/pic/data/405/images/24l1plq-1751641334351.jpg",
+    "ep": 7,
+    "s": "12分45",
+    "geo": [
+      35.8969,
+      140.0623
+    ]
+  },
+  {
+    "id": "24laxkh",
+    "cn": "取手站西口公交车站（公交车站背后就是有宇打电动的商城，但已经倒闭巡礼不能，设立点位以此纪念））",
+    "name": "2 Chūōchō, Toride, Ibaraki 302-0014日本",
+    "image": "https://image.xinu.ink/pic/data/405/images/24laxkh-1751641630081.jpg",
+    "ep": 7,
+    "s": 809,
+    "geo": [
+      35.8969,
+      140.0623
+    ]
+  },
+  {
+    "id": "2km88ef",
+    "cn": "伊尔库茨克火车站",
+    "name": "Иркутск-Пассажирский",
+    "image": "https://image.xinu.ink/pic/data/405/images/2km88ef-1752610583707.jpg",
+    "ep": "EP13",
+    "s": "15:50",
+    "geo": [
+      52.2835,
+      104.2593
+    ],
+    "originLink": "https://sazanami.net/20150929-charlotte-13-location/"
   }
 ]

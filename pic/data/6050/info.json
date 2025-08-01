@@ -1,0 +1,41 @@
+{
+  "id": 205729,
+  "cn": "Golden Hour",
+  "title": "ゴールデンアワー",
+  "cover": "https://image.xinu.ink/pic/data/6050/images/205729_2ogelnj.jpg",
+  "modified": 1752842683750,
+  "litePoints": [
+    {
+      "id": "2nlzztd",
+      "name": "旧東急東横線駅舎",
+      "image": "https://image.anitabi.cn/user/0/bangumi/205729/points/2nlzztd-1752791747023.jpg?plan=h160",
+      "geo": [
+        35.6579,
+        139.7028
+      ]
+    },
+    {
+      "id": "2nmi0ln",
+      "name": "渋谷駅前",
+      "image": "https://image.anitabi.cn/user/0/bangumi/205729/points/2nmi0ln-1752792448721.jpg?plan=h160",
+      "geo": [
+        35.6579,
+        139.7028
+      ]
+    },
+    {
+      "id": "2nnn2sn",
+      "name": "神宮前六丁目交差点",
+      "image": "https://image.anitabi.cn/user/0/bangumi/205729/points/2nnn2sn-1752794362481.jpg?plan=h160",
+      "geo": [
+        35.6635,
+        139.7017
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "name": "ゴールデンアワー",
+  "name_cn": "Golden Hour",
+  "local_id": 6050
+}

@@ -41,5 +41,38 @@
       35.637,
       139.7617
     ]
+  },
+  {
+    "id": "2pnt4ex",
+    "cn": "鸭川若松町",
+    "name": "若松町",
+    "image": "https://image.xinu.ink/pic/data/878/images/2pnt4ex-1752915653306.jpg",
+    "ep": "11月19日",
+    "geo": [
+      35.0076,
+      135.7716
+    ]
+  },
+  {
+    "id": "1zluw42",
+    "cn": "三日月餐厅",
+    "name": "レストラン「クレッセント」",
+    "image": "https://image.xinu.ink/pic/data/878/images/1zluw42-1751340234281.jpg",
+    "ep": null,
+    "geo": [
+      35.6576,
+      139.751
+    ]
+  },
+  {
+    "id": "2168do7",
+    "cn": "武藏野大学有明校区",
+    "name": "武蔵野大有明キャンパス",
+    "image": "https://image.xinu.ink/pic/data/878/images/2168do7-1751434918666.jpg",
+    "ep": null,
+    "geo": [
+      35.6314,
+      139.7862
+    ]
   }
 ]

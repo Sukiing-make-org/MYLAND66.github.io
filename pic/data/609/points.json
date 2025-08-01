@@ -195,5 +195,17 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1J0K2QKstx1fjyCXMh2ZgWzgA5287_ZCt&ll=35.693043%2C139.749237&z=17"
+  },
+  {
+    "id": "2eotrk9",
+    "cn": "江户川公园",
+    "name": "文京区立江戸川公園",
+    "image": "https://image.xinu.ink/pic/data/609/images/2eotrk9-1752252242038.jpg",
+    "ep": 5,
+    "s": 655,
+    "geo": [
+      35.7105,
+      139.7263
+    ]
   }
 ]

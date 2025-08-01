@@ -491,5 +491,29 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1Sq592ILlS_OscsI_5bSMrPnORQz_D3Y&ll=35.697371%2C139.80742&z=17"
+  },
+  {
+    "id": "2wsohka",
+    "cn": "押上站前",
+    "name": "押上駅前",
+    "image": "https://image.xinu.ink/pic/data/797/images/2wsohka-1753347050366.jpg",
+    "ep": 4,
+    "s": 321,
+    "geo": [
+      35.7105,
+      139.8132
+    ]
+  },
+  {
+    "id": "2x3fv3r",
+    "cn": "押上水族馆",
+    "name": "押上水族馆",
+    "image": "https://image.xinu.ink/pic/data/797/images/2x3fv3r-1753365102585.jpg",
+    "ep": 4,
+    "s": 727,
+    "geo": [
+      35.7103,
+      139.8123
+    ]
   }
 ]

@@ -1,0 +1,103 @@
+{
+  "id": 287553,
+  "cn": "水野与茶山",
+  "title": "水野と茶山",
+  "city": "袋井市",
+  "cover": "https://image.xinu.ink/pic/data/6057/images/287553_LP7aI.jpg",
+  "color": "#c5a381",
+  "modified": 1752228609344,
+  "litePoints": [
+    {
+      "id": "cf879c95",
+      "name": "旧静岡南高校",
+      "image": "https://image.anitabi.cn/points/287553/cf879c95_1752224451777.jpg?plan=h160",
+      "geo": [
+        34.9591,
+        138.4362
+      ]
+    },
+    {
+      "id": "a189d1f1",
+      "name": "秀英予備校袋井駅前校",
+      "image": "https://image.anitabi.cn/points/287553/a189d1f1_1752228096552.jpg?plan=h160",
+      "geo": [
+        34.7429,
+        137.925
+      ]
+    },
+    {
+      "id": "53da70a9",
+      "name": "ローソン 袋井駅前通店",
+      "image": "https://image.anitabi.cn/points/287553/53da70a9_1752228163272.jpg?plan=h160",
+      "geo": [
+        34.7427,
+        137.9251
+      ]
+    },
+    {
+      "id": "8640d8d5",
+      "name": "しんしん袋井店",
+      "image": "https://image.anitabi.cn/points/287553/8640d8d5_1752227721561.jpg?plan=h160",
+      "geo": [
+        34.7046,
+        137.9359
+      ]
+    },
+    {
+      "id": "e70c277c",
+      "name": "ウエルシア袋井諸井店",
+      "image": "https://image.anitabi.cn/points/287553/e70c277c_1752227954664.jpg?plan=h160",
+      "geo": [
+        34.7247,
+        137.9198
+      ]
+    },
+    {
+      "id": "34185cd4",
+      "name": "清水邸庭園",
+      "image": "https://image.anitabi.cn/points/287553/34185cd4_1752228325672.jpg?plan=h160",
+      "geo": [
+        34.6819,
+        137.9788
+      ]
+    },
+    {
+      "id": "71a378f0",
+      "name": "村松肥料",
+      "geo": [
+        34.7115,
+        137.925
+      ]
+    },
+    {
+      "id": "b6bc4e9c",
+      "name": "袋井Ｂ＆Ｇ海洋センター",
+      "geo": [
+        34.7366,
+        137.9345
+      ]
+    },
+    {
+      "id": "1e250686",
+      "name": "荻原サイクル",
+      "geo": [
+        34.7135,
+        137.924
+      ]
+    },
+    {
+      "id": "20047876",
+      "name": "村松肥料店",
+      "geo": [
+        34.7112,
+        137.925
+      ]
+    }
+  ],
+  "pointsLength": 10,
+  "imagesLength": 6,
+  "name": "水野と茶山",
+  "name_cn": "水野与茶山",
+  "theme_color": "#c5a381",
+  "local_id": 6057
+}

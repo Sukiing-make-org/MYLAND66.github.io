@@ -162,5 +162,29 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1tGFyH0fu1bvrw4KDgYVv-nOKoWda8A7A&ll=36.821636%2C137.0288&z=17"
+  },
+  {
+    "id": "kpx6ojjz5",
+    "name": "高岡駅前",
+    "image": "https://image.xinu.ink/pic/data/564/images/kpx6ojjz5-1753628230085.jpg",
+    "ep": null,
+    "geo": [
+      36.7405,
+      137.0158
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tGFyH0fu1bvrw4KDgYVv-nOKoWda8A7A&ll=36.740533%2C137.015826&z=17"
+  },
+  {
+    "id": "kpx6ojkdi",
+    "name": "末広町交差点",
+    "image": "https://image.xinu.ink/pic/data/564/images/kpx6ojkdi-1753628308738.jpg",
+    "ep": null,
+    "geo": [
+      36.7449,
+      137.0131
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tGFyH0fu1bvrw4KDgYVv-nOKoWda8A7A&ll=36.744907%2C137.013108&z=17"
   }
 ]

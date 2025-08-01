@@ -168,5 +168,41 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2pitxbb",
+    "cn": "出云大社 势溜大鸟居",
+    "name": "出雲大社 勢溜の大鳥居",
+    "image": "https://image.xinu.ink/pic/data/903/images/2pitxbb-1752907380157.jpg",
+    "ep": "漫画201话",
+    "s": "14P",
+    "geo": [
+      35.3966,
+      132.6864
+    ]
+  },
+  {
+    "id": "2pj19is",
+    "cn": "松江城天守",
+    "name": "松江城天守",
+    "image": "https://image.xinu.ink/pic/data/903/images/2pj19is-1752907567452.jpg",
+    "ep": "漫画201话",
+    "s": "20P",
+    "geo": [
+      35.4751,
+      133.0508
+    ]
+  },
+  {
+    "id": "2pp753s",
+    "cn": "出云大社神乐殿",
+    "name": "出雲大社神楽殿",
+    "image": "https://image.xinu.ink/pic/data/903/images/2pp753s-1752917909831.jpg",
+    "ep": "漫画176话",
+    "s": "P15-16",
+    "geo": [
+      35.4014,
+      132.6844
+    ]
   }
 ]

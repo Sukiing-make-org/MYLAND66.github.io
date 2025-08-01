@@ -959,5 +959,29 @@
       35.6843,
       139.7031
     ]
+  },
+  {
+    "id": "2wza4k3",
+    "cn": "泷 的家",
+    "name": "離宮ハイム",
+    "image": "https://image.xinu.ink/pic/data/455/images/2wza4k3-1753358199451.jpg",
+    "ep": null,
+    "geo": [
+      35.6819,
+      139.726
+    ]
+  },
+  {
+    "id": "35bcdwd",
+    "name": "首都高速4号新宿線高架下",
+    "image": "https://image.xinu.ink/pic/data/455/images/35bcdwd-1753862140677.jpg",
+    "ep": null,
+    "s": 5694,
+    "geo": [
+      35.6789,
+      139.733
+    ],
+    "origin": "ckrito",
+    "originLink": "https://www.google.com/maps/d/edit?mid=1_lGB-sWlsYob0oTfYjg0R81vBa4FNj8&usp=sharing"
   }
 ]

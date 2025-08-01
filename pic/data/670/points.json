@@ -343,5 +343,146 @@
       33.2359,
       130.3204
     ]
+  },
+  {
+    "id": "2a0ac4c",
+    "name": "伊東玄朴旧宅",
+    "image": "https://image.xinu.ink/pic/data/670/images/2a0ac4c-1751969071664.jpg",
+    "ep": 9,
+    "s": 1294,
+    "geo": [
+      33.3559,
+      130.3642
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2a0psx3",
+    "name": "莲池社迹（东屋）",
+    "image": "https://image.xinu.ink/pic/data/670/images/2a0psx3-1751969818526.jpg",
+    "ep": 8,
+    "s": 636,
+    "geo": [
+      33.246,
+      130.3591
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2a10g3g",
+    "name": "莲池公园",
+    "image": "https://image.xinu.ink/pic/data/670/images/2a10g3g-1751970296663.jpg",
+    "ep": 8,
+    "s": 538,
+    "geo": [
+      33.2442,
+      130.3585
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2a1deui",
+    "name": "武雄神社",
+    "image": "https://image.xinu.ink/pic/data/670/images/2a1deui-1751970897824.jpg",
+    "ep": 8,
+    "s": 699,
+    "geo": [
+      33.1882,
+      130.0209
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2a2nrem",
+    "name": "鬼ノ鼻山憩いの森",
+    "image": "https://image.xinu.ink/pic/data/670/images/2a2nrem-1751973052026.jpg",
+    "ep": 10,
+    "s": 837,
+    "geo": [
+      33.2369,
+      130.0987
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2a2pptj",
+    "name": "有浦米穀店",
+    "image": "https://image.xinu.ink/pic/data/670/images/2a2pptj-1751973149876.jpg",
+    "ep": 10,
+    "s": 832,
+    "geo": [
+      33.2471,
+      130.208
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2a3d1ja",
+    "name": "末広串焼",
+    "image": "https://image.xinu.ink/pic/data/670/images/2a3d1ja-1751974229565.jpg",
+    "ep": 10,
+    "s": 1247,
+    "geo": [
+      33.2525,
+      130.3033
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2a7rjot",
+    "name": "浜崎海岸公園",
+    "image": "https://image.xinu.ink/pic/data/670/images/2a7rjot-1751981624808.jpg",
+    "ep": 11,
+    "s": 154,
+    "geo": [
+      33.4518,
+      130.0371
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2a7v2m0",
+    "name": "イオン​ショッピングセンター",
+    "image": "https://image.xinu.ink/pic/data/670/images/2a7v2m0-1751981787924.jpg",
+    "ep": 11,
+    "s": 252,
+    "geo": [
+      33.437,
+      130.0123
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2a7wacs",
+    "name": "イオン​唐津​ショッピングセンター",
+    "image": "https://image.xinu.ink/pic/data/670/images/2a7wacs-1751981843553.jpg",
+    "ep": 11,
+    "s": 253,
+    "geo": [
+      33.4369,
+      130.0123
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2sfgvw3",
+    "name": "Live House 佐賀GEILS",
+    "image": "https://image.xinu.ink/pic/data/670/images/2sfgvw3-1753083006548.jpg",
+    "ep": "1",
+    "s": "1202",
+    "geo": [
+      33.2669,
+      130.2978
+    ]
   }
 ]

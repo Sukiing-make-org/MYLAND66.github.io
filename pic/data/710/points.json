@@ -754,5 +754,83 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1CcrNtSsfPfnaC2oktSP48sdC2vIRiMz3&ll=35.707715%2C139.716278&z=17"
+  },
+  {
+    "id": "2veg7sn",
+    "name": "はるか展望台",
+    "image": "https://image.xinu.ink/pic/data/710/images/2veg7sn-1753262677081.jpg",
+    "ep": "S01E06",
+    "s": "04:06",
+    "geo": [
+      34.2038,
+      139.1337
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1CcrNtSsfPfnaC2oktSP48sdC2vIRiMz3&ll=34.203801%2C139.133711&z=17"
+  },
+  {
+    "id": "2vez761",
+    "name": "みんなの別荘ファミリア",
+    "image": "https://image.xinu.ink/pic/data/710/images/2vez761-1753263631687.jpg",
+    "ep": "S01E05",
+    "s": "15:37",
+    "geo": [
+      34.205,
+      139.1353
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1CcrNtSsfPfnaC2oktSP48sdC2vIRiMz3&ll=34.205084%2C139.135328&z=17"
+  },
+  {
+    "id": "2vkp457",
+    "name": "神津島港ふ頭灯台",
+    "image": "https://image.xinu.ink/pic/data/710/images/2vkp457-1753273144317.jpg",
+    "ep": "S01E06",
+    "s": "04:50",
+    "geo": [
+      34.2091,
+      139.1274
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1CcrNtSsfPfnaC2oktSP48sdC2vIRiMz3&ll=34.209143%2C139.127458&z=17"
+  },
+  {
+    "id": "2vkse8e",
+    "name": "東京都立神津高等学校",
+    "image": "https://image.xinu.ink/pic/data/710/images/2vkse8e-1753273297675.jpg",
+    "ep": "S01E06",
+    "s": "04:32",
+    "geo": [
+      34.2024,
+      139.1338
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1CcrNtSsfPfnaC2oktSP48sdC2vIRiMz3&ll=34.202498%2C139.133853&z=17"
+  },
+  {
+    "id": "2vkxsi4",
+    "name": "旧長浜展望台",
+    "image": "https://image.xinu.ink/pic/data/710/images/2vkxsi4-1753273585164.jpg",
+    "ep": "S01E05",
+    "s": "16:51",
+    "geo": [
+      34.2216,
+      139.133
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1CcrNtSsfPfnaC2oktSP48sdC2vIRiMz3&ll=34.221608%2C139.133008&z=17"
+  },
+  {
+    "id": "2vl2nrh",
+    "name": "赤崎遊歩道",
+    "image": "https://image.xinu.ink/pic/data/710/images/2vl2nrh-1753273772400.jpg",
+    "ep": "S01E05",
+    "s": "16:23",
+    "geo": [
+      34.2406,
+      139.1371
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1CcrNtSsfPfnaC2oktSP48sdC2vIRiMz3&ll=34.240611%2C139.137109&z=17"
   }
 ]

@@ -1,0 +1,38 @@
+{
+  "id": 567684,
+  "title": "迷宮のしおり",
+  "city": "横滨市",
+  "cover": "https://image.xinu.ink/pic/data/6073/images/567684_qbYrH.jpg",
+  "cp": "『迷宮のしおり』",
+  "geo": [
+    35.4436739,
+    139.6379639
+  ],
+  "zoom": 5,
+  "modified": 1751719667734,
+  "litePoints": [
+    {
+      "id": "23dgkxw",
+      "cn": "见港湾丘公园 展望台",
+      "name": "港の見える丘公園 展望台",
+      "image": "https://image.anitabi.cn/points/567684/23dgkxw_1751567965052.jpg?plan=h160",
+      "geo": [
+        35.4406,
+        139.6546
+      ]
+    },
+    {
+      "id": "23dxre2",
+      "name": "よこはま​コスモ​ワールド",
+      "image": "https://image.anitabi.cn/points/567684/23dxre2_1751568734836_c16v9.jpg?plan=h160",
+      "geo": [
+        35.4553,
+        139.637
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "name": "迷宮のしおり",
+  "local_id": 6073
+}

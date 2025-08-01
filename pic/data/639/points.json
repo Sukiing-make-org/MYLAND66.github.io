@@ -216,5 +216,38 @@
       35.6941,
       139.7006
     ]
+  },
+  {
+    "id": "32hpjv6",
+    "cn": "台场海滨公园",
+    "name": "お台場海浜公園",
+    "image": "https://image.xinu.ink/pic/data/639/images/32hpjv6-1753691437158.jpg",
+    "ep": null,
+    "geo": [
+      35.6276,
+      139.7715
+    ]
+  },
+  {
+    "id": "36ndvmb",
+    "name": "青梅街道",
+    "image": "https://image.xinu.ink/pic/data/639/images/36ndvmb-1753942828034.jpg",
+    "ep": null,
+    "s": 692,
+    "geo": [
+      35.6936,
+      139.6994
+    ]
+  },
+  {
+    "id": "36o4m6k",
+    "name": "歌舞伎町一番街入り口",
+    "image": "https://image.xinu.ink/pic/data/639/images/36o4m6k-1753944036478.jpg",
+    "ep": null,
+    "s": 475,
+    "geo": [
+      35.6937,
+      139.7009
+    ]
   }
 ]

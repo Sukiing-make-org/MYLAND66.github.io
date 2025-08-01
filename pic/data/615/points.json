@@ -408,5 +408,31 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1MQNdvrVVP8wk0iDD5R1QRQ34-Cf_0ahm&ll=33.453062%2C129.978141&z=17"
+  },
+  {
+    "id": "2rgtj10",
+    "name": "鏡山展望台",
+    "image": "https://image.xinu.ink/pic/data/615/images/2rgtj10-1753024903556.jpg",
+    "ep": 11,
+    "s": 1100,
+    "geo": [
+      33.4305,
+      130.018
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1MQNdvrVVP8wk0iDD5R1QRQ34-Cf_0ahm&ll=33.430519%2C130.018013&z=17"
+  },
+  {
+    "id": "2rjblyz",
+    "name": "バルーンさが駅",
+    "image": "https://image.xinu.ink/pic/data/615/images/2rjblyz-1753028983841.jpg",
+    "ep": 9,
+    "s": 28,
+    "geo": [
+      33.2575,
+      130.2456
+    ],
+    "origin": "xckb的雑記帳",
+    "originLink": "https://xckb.hatenablog.com/entry/2019/03/11/121527"
   }
 ]

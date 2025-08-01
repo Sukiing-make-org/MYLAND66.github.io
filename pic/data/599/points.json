@@ -1435,5 +1435,42 @@
       36.5785,
       136.6483
     ]
+  },
+  {
+    "id": "2pzphho",
+    "name": "江島神社 大鳥居",
+    "image": "https://image.xinu.ink/pic/data/599/images/2pzphho-1752935546594.jpg",
+    "ep": null,
+    "geo": [
+      35.3006,
+      139.4803
+    ],
+    "origin": "Anitabi@舞影一诺",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2pzqg9c",
+    "cn": "聂耳纪念广场",
+    "name": "囁耳記念広場",
+    "image": "https://image.xinu.ink/pic/data/599/images/2pzqg9c-1752935591812.jpg",
+    "ep": null,
+    "geo": [
+      35.3171,
+      139.4682
+    ],
+    "origin": "Anitabi@舞影一诺",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2pzs6qp",
+    "name": "鎌倉高校前駅",
+    "image": "https://image.xinu.ink/pic/data/599/images/2pzs6qp-1752935672859.jpg",
+    "ep": null,
+    "geo": [
+      35.3067,
+      139.5005
+    ],
+    "origin": "Anitabi@舞影一诺",
+    "originURL": "https://anitabi.cn/"
   }
 ]

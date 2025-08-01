@@ -697,5 +697,133 @@
     ],
     "origin": "Anitabi@Xmなのだ",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v39n4h6r7",
+    "cn": "直岛东码头",
+    "name": "直岛东码头",
+    "image": "https://image.xinu.ink/pic/data/795/images/v39n4h6r7_1749044387575.jpg",
+    "ep": 4,
+    "s": 1060,
+    "geo": [
+      34.452,
+      134.0014
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uh3zucae7",
+    "cn": "宫浦港",
+    "name": "宮浦港",
+    "image": "https://image.xinu.ink/pic/data/795/images/uh3zucae7_1744117431575.jpg",
+    "ep": 1,
+    "s": 769,
+    "geo": [
+      34.4561,
+      133.9736
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "28vrq42",
+    "name": "男木島​灯台​資料館",
+    "image": "https://image.xinu.ink/pic/data/795/images/28vrq42_1751901057659.jpg",
+    "ep": 14,
+    "s": 1211,
+    "geo": [
+      34.4335,
+      134.0608
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "32vy7v3",
+    "name": "玉野市​観光​案内​所",
+    "image": "https://image.xinu.ink/pic/data/795/images/32vy7v3_1753715340454.jpg",
+    "ep": 16,
+    "s": 624,
+    "geo": [
+      34.4944,
+      133.9537
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "32vzwl4",
+    "name": "うの食堂",
+    "image": "https://image.xinu.ink/pic/data/795/images/32vzwl4_1753715429408.jpg",
+    "ep": 16,
+    "s": 643,
+    "geo": [
+      34.4947,
+      133.953
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "32w2toy",
+    "name": "宇野駅",
+    "image": "https://image.xinu.ink/pic/data/795/images/32w2toy_1753715517687.jpg",
+    "ep": 16,
+    "s": 709,
+    "geo": [
+      34.4945,
+      133.9535
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "32w6fwj",
+    "name": "桃太郎大通り",
+    "image": "https://image.xinu.ink/pic/data/795/images/32w6fwj_1753715695658.jpg",
+    "ep": 16,
+    "s": 716,
+    "geo": [
+      34.6655,
+      133.9294
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "32vjn11",
+    "name": "海の駅なおしま",
+    "image": "https://image.xinu.ink/pic/data/795/images/32vjn11_1753714622152.jpg",
+    "ep": 17,
+    "geo": [
+      34.4568,
+      133.9744
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2842ez8",
+    "name": "动画OP鸥在行李箱上",
+    "image": "https://image.xinu.ink/pic/data/795/images/2842ez8-1751854563955.jpg",
+    "ep": null,
+    "geo": [
+      34.4481,
+      133.9829
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1HwI6d1p8N7RNKB4dG0_edBzaJmthMgRs&ll=34.448181%2C133.982956&z=17"
+  },
+  {
+    "id": "32vvuop",
+    "name": "ドミトリー​in​九龍",
+    "image": "https://image.xinu.ink/pic/data/795/images/32vvuop_1753715187896.jpg",
+    "geo": [
+      34.4578,
+      133.9747
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
   }
 ]

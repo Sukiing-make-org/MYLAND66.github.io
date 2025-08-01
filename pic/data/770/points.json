@@ -33,5 +33,27 @@
     ],
     "origin": "Anitabi@enldm",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2a1i6kf",
+    "cn": "南极洲麦克默多站",
+    "name": "McMurdo Station",
+    "image": "https://image.xinu.ink/pic/data/770/images/2a1i6kf-1751971164148.jpg",
+    "ep": null,
+    "geo": [
+      -77.5206,
+      159.7618
+    ]
+  },
+  {
+    "id": "2a2nbos",
+    "cn": "阿郎港",
+    "name": "Alang",
+    "image": "https://image.xinu.ink/pic/data/770/images/2a2nbos-1751973090901.jpg",
+    "ep": null,
+    "geo": [
+      21.3288,
+      72.1223
+    ]
   }
 ]

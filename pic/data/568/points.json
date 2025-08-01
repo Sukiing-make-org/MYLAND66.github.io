@@ -20,5 +20,29 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1kocdGmmR4QIqMS07P1x3S3F8S2Dh8xYn&ll=42.920666%2C143.202211&z=17"
+  },
+  {
+    "id": "51i53yu47",
+    "name": "ＪＲ帯広駅北口",
+    "image": "https://image.xinu.ink/pic/data/568/images/51i53yu47_1753948783308.jpg",
+    "ep": 2,
+    "geo": [
+      42.9187,
+      143.2015
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1kocdGmmR4QIqMS07P1x3S3F8S2Dh8xYn&ll=42.918752%2C143.201509&z=17"
+  },
+  {
+    "id": "51i53yttb",
+    "name": "ペペサーレ帯広店",
+    "image": "https://image.xinu.ink/pic/data/568/images/51i53yttb_1753948791708.jpg",
+    "ep": 2,
+    "geo": [
+      42.9167,
+      143.2057
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1kocdGmmR4QIqMS07P1x3S3F8S2Dh8xYn&ll=42.916764%2C143.205704&z=17"
   }
 ]

@@ -193,5 +193,126 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=166LgiTupEBfRI17zldZsTDT6gjs&ll=36.022206%2C139.708733&z=17"
+  },
+  {
+    "id": "51i53r2nh",
+    "name": "府中競馬正門前駅 連絡橋",
+    "image": "https://image.xinu.ink/pic/data/473/images/51i53r2nh_1753091843469.jpg",
+    "geo": [
+      35.666,
+      139.4846
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=166LgiTupEBfRI17zldZsTDT6gjs&ll=35.666039%2C139.484621&z=17"
+  },
+  {
+    "id": "51i53r3sy",
+    "name": "3Fスタンド入口",
+    "image": "https://image.xinu.ink/pic/data/473/images/51i53r3sy_1753092158284.jpg",
+    "geo": [
+      35.6654,
+      139.4846
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=166LgiTupEBfRI17zldZsTDT6gjs&ll=35.665473%2C139.484632&z=17"
+  },
+  {
+    "id": "51i53r39i",
+    "name": "馬モニュメント",
+    "image": "https://image.xinu.ink/pic/data/473/images/51i53r39i_1753092233550.jpg",
+    "geo": [
+      35.6652,
+      139.4849
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=166LgiTupEBfRI17zldZsTDT6gjs&ll=35.665264%2C139.484927&z=17"
+  },
+  {
+    "id": "51i53r3ia",
+    "name": "3Fフロア",
+    "image": "https://image.xinu.ink/pic/data/473/images/51i53r3ia_1753092205628.jpg",
+    "geo": [
+      35.6653,
+      139.4839
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=166LgiTupEBfRI17zldZsTDT6gjs&ll=35.665368%2C139.483999&z=17"
+  },
+  {
+    "id": "51i53r389",
+    "name": "ウエストホール",
+    "image": "https://image.xinu.ink/pic/data/473/images/51i53r389_1753092519069.jpg",
+    "geo": [
+      35.665,
+      139.4836
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=166LgiTupEBfRI17zldZsTDT6gjs&ll=35.66507%2C139.483699&z=17"
+  },
+  {
+    "id": "lqfm212th",
+    "name": "1F パドック",
+    "image": "https://image.xinu.ink/pic/data/473/images/lqfm212th_1753092187998.jpg",
+    "geo": [
+      35.6655,
+      139.483
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=166LgiTupEBfRI17zldZsTDT6gjs&ll=35.665551%2C139.483012&z=17"
+  },
+  {
+    "id": "51i53r36w",
+    "name": "日吉が丘公園",
+    "image": "https://image.xinu.ink/pic/data/473/images/51i53r36w_1753092256943.jpg",
+    "geo": [
+      35.6653,
+      139.4883
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=166LgiTupEBfRI17zldZsTDT6gjs&ll=35.665377%2C139.488301&z=17"
+  },
+  {
+    "id": "51i53r3w1",
+    "name": "乗馬センター",
+    "image": "https://image.xinu.ink/pic/data/473/images/51i53r3w1_1753092305086.jpg",
+    "geo": [
+      35.6645,
+      139.4899
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=166LgiTupEBfRI17zldZsTDT6gjs&ll=35.664575%2C139.489943&z=17"
+  },
+  {
+    "id": "51i53r3c3",
+    "name": "東京競馬場コース",
+    "image": "https://image.xinu.ink/pic/data/473/images/51i53r3c3_1753092445061.jpg",
+    "geo": [
+      35.6643,
+      139.4837
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=166LgiTupEBfRI17zldZsTDT6gjs&ll=35.664322%2C139.483731&z=17"
+  },
+  {
+    "id": "51i53r4kj",
+    "name": "さいたまスーパーアリーナ",
+    "image": "https://image.xinu.ink/pic/data/473/images/51i53r4kj_1753092451509.jpg",
+    "geo": [
+      35.8947,
+      139.6308
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=166LgiTupEBfRI17zldZsTDT6gjs&ll=35.894761%2C139.630823&z=17"
+  },
+  {
+    "id": "51i53r42y",
+    "name": "さいたまスーパーアリーナ Aゲート",
+    "image": "https://image.xinu.ink/pic/data/473/images/51i53r42y_1753092459669.jpg",
+    "geo": [
+      35.8941,
+      139.6303
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=166LgiTupEBfRI17zldZsTDT6gjs&ll=35.894196%2C139.630373&z=17"
   }
 ]

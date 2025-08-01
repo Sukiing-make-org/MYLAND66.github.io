@@ -20,5 +20,225 @@
       35.2598,
       139.7395
     ]
+  },
+  {
+    "id": "5cda9a54",
+    "name": "たたら浜",
+    "image": "https://image.xinu.ink/pic/data/625/images/5cda9a54_1752720300505.jpg",
+    "geo": [
+      35.2515,
+      139.7408
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GxymYQxQxfejGt7r7z-AC4eT1Y-msN2J&ll=35.251532%2C139.740897&z=17"
+  },
+  {
+    "id": "b5a3a958",
+    "name": "BASE CAMP",
+    "image": "https://image.xinu.ink/pic/data/625/images/b5a3a958_1752720169305.jpg",
+    "geo": [
+      35.7022,
+      139.7539
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GxymYQxQxfejGt7r7z-AC4eT1Y-msN2J&ll=35.702203%2C139.75392&z=17"
+  },
+  {
+    "id": "61b69537",
+    "name": "観音崎小突堤付近",
+    "image": "https://image.xinu.ink/pic/data/625/images/61b69537_1752723413457.jpg",
+    "geo": [
+      35.2595,
+      139.7403
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GxymYQxQxfejGt7r7z-AC4eT1Y-msN2J&ll=35.259569%2C139.740352&z=17"
+  },
+  {
+    "id": "6ce506ea",
+    "name": "観音崎通り（県道209号線）その１",
+    "image": "https://image.xinu.ink/pic/data/625/images/6ce506ea_1752723301241.jpg",
+    "geo": [
+      35.2596,
+      139.7398
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GxymYQxQxfejGt7r7z-AC4eT1Y-msN2J&ll=35.259633%2C139.739882&z=17"
+  },
+  {
+    "id": "0e2208cd",
+    "name": "観音崎通り（県道209号線）その２",
+    "image": "https://image.xinu.ink/pic/data/625/images/0e2208cd_1752723312523.jpg",
+    "geo": [
+      35.259,
+      139.7405
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GxymYQxQxfejGt7r7z-AC4eT1Y-msN2J&ll=35.259095%2C139.740566&z=17"
+  },
+  {
+    "id": "55b1ff2a",
+    "name": "ハーミット",
+    "image": "https://image.xinu.ink/pic/data/625/images/55b1ff2a_1752720184327.jpg",
+    "geo": [
+      35.7011,
+      139.7511
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GxymYQxQxfejGt7r7z-AC4eT1Y-msN2J&ll=35.701163%2C139.751181&z=17"
+  },
+  {
+    "id": "fa45e445",
+    "name": "遊歩道その1",
+    "image": "https://image.xinu.ink/pic/data/625/images/fa45e445_1752721367438.jpg",
+    "geo": [
+      35.2566,
+      139.7452
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GxymYQxQxfejGt7r7z-AC4eT1Y-msN2J&ll=35.256622%2C139.745208&z=17"
+  },
+  {
+    "id": "5fb9b570",
+    "name": "遊歩道その2",
+    "image": "https://image.xinu.ink/pic/data/625/images/5fb9b570_1752721380605.jpg",
+    "geo": [
+      35.2565,
+      139.7444
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GxymYQxQxfejGt7r7z-AC4eT1Y-msN2J&ll=35.256587%2C139.744463&z=17"
+  },
+  {
+    "id": "4beeb305",
+    "name": "遊歩道その3",
+    "image": "https://image.xinu.ink/pic/data/625/images/4beeb305_1752721412718.jpg",
+    "geo": [
+      35.2563,
+      139.7446
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GxymYQxQxfejGt7r7z-AC4eT1Y-msN2J&ll=35.256337%2C139.744618&z=17"
+  },
+  {
+    "id": "040c28cd",
+    "name": "観音崎灯台",
+    "image": "https://image.xinu.ink/pic/data/625/images/040c28cd_1752720212247.jpg",
+    "geo": [
+      35.2561,
+      139.7452
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GxymYQxQxfejGt7r7z-AC4eT1Y-msN2J&ll=35.256143%2C139.745243&z=17"
+  },
+  {
+    "id": "fdf9625d",
+    "name": "遊歩道その4",
+    "image": "https://image.xinu.ink/pic/data/625/images/fdf9625d_1752721392246.jpg",
+    "geo": [
+      35.257,
+      139.7449
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GxymYQxQxfejGt7r7z-AC4eT1Y-msN2J&ll=35.25702%2C139.74496&z=17"
+  },
+  {
+    "id": "d126632f",
+    "name": "京浜急行電鉄 横須賀中央駅",
+    "image": "https://image.xinu.ink/pic/data/625/images/d126632f_1752720267902.jpg",
+    "geo": [
+      35.2786,
+      139.6706
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GxymYQxQxfejGt7r7z-AC4eT1Y-msN2J&ll=35.278686%2C139.670649&z=17"
+  },
+  {
+    "id": "402a72e6",
+    "name": "横須賀海軍カレー本舗",
+    "image": "https://image.xinu.ink/pic/data/625/images/402a72e6_1752720406727.jpg",
+    "geo": [
+      35.2793,
+      139.672
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GxymYQxQxfejGt7r7z-AC4eT1Y-msN2J&ll=35.279308%2C139.672025&z=17"
+  },
+  {
+    "id": "ecaf2b07",
+    "name": "丸伊丸",
+    "image": "https://image.xinu.ink/pic/data/625/images/ecaf2b07_1752721171782.jpg",
+    "geo": [
+      35.1973,
+      139.6042
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GxymYQxQxfejGt7r7z-AC4eT1Y-msN2J&ll=35.197335%2C139.604236&z=17"
+  },
+  {
+    "id": "69a2fc2c",
+    "name": "横浜・八景島シーパラダイス センターハウス",
+    "image": "https://image.xinu.ink/pic/data/625/images/69a2fc2c_1752721287812.jpg",
+    "geo": [
+      35.3376,
+      139.6462
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GxymYQxQxfejGt7r7z-AC4eT1Y-msN2J&ll=35.33769%2C139.646293&z=17"
+  },
+  {
+    "id": "6e33eb36",
+    "name": "横浜・八景島シーパラダイス アクアミュージアム",
+    "image": "https://image.xinu.ink/pic/data/625/images/6e33eb36_1752721517645.jpg",
+    "geo": [
+      35.3376,
+      139.6469
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GxymYQxQxfejGt7r7z-AC4eT1Y-msN2J&ll=35.337694%2C139.646948&z=17"
+  },
+  {
+    "id": "4986e8e6",
+    "name": "横浜・八景島シーパラダイス うみファーム",
+    "image": "https://image.xinu.ink/pic/data/625/images/4986e8e6_1752721236132.jpg",
+    "geo": [
+      35.3358,
+      139.6466
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GxymYQxQxfejGt7r7z-AC4eT1Y-msN2J&ll=35.335832%2C139.646645&z=17"
+  },
+  {
+    "id": "994c091c",
+    "name": "横浜・八景島シーパラダイス メリーゴーランド",
+    "image": "https://image.xinu.ink/pic/data/625/images/994c091c_1752722081302.jpg",
+    "geo": [
+      35.3376,
+      139.6432
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GxymYQxQxfejGt7r7z-AC4eT1Y-msN2J&ll=35.337662%2C139.643206&z=17"
+  },
+  {
+    "id": "becac0bb",
+    "name": "横浜・八景島シーパラダイス シートレイン",
+    "image": "https://image.xinu.ink/pic/data/625/images/becac0bb_1752721609163.jpg",
+    "geo": [
+      35.3383,
+      139.6441
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GxymYQxQxfejGt7r7z-AC4eT1Y-msN2J&ll=35.338322%2C139.644102&z=17"
+  },
+  {
+    "id": "72be5df4",
+    "name": "横浜・八景島シーパラダイス アクアライドII",
+    "image": "https://image.xinu.ink/pic/data/625/images/72be5df4_1752721666232.jpg",
+    "geo": [
+      35.3368,
+      139.6477
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GxymYQxQxfejGt7r7z-AC4eT1Y-msN2J&ll=35.336843%2C139.647712&z=17"
   }
 ]

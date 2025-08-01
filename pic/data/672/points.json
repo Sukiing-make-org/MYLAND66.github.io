@@ -1277,5 +1277,145 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1McLO02lKGvSm5RuTiOY0-f8g4wLBoRQ&ll=36.538138%2C139.185339&z=17"
+  },
+  {
+    "id": "2v1g4jd",
+    "cn": "武甲山脚下公路",
+    "name": "武甲山脚下公路",
+    "image": "https://image.xinu.ink/pic/data/672/images/2v1g4jd-1753240857496.jpg",
+    "ep": 5,
+    "s": 864,
+    "geo": [
+      35.9746,
+      139.1061
+    ],
+    "origin": "Anitabi@火柴",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2v1jy8t",
+    "cn": "秩父石灰工業 武甲工場",
+    "name": "秩父石灰工業 武甲工場",
+    "image": "https://image.xinu.ink/pic/data/672/images/2v1jy8t-1753241010187.jpg",
+    "ep": 5,
+    "s": 885,
+    "geo": [
+      35.967,
+      139.1057
+    ],
+    "origin": "Anitabi@火柴",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2v1ls4g",
+    "cn": "武甲山御嶽神社 一ノ鳥居",
+    "name": "武甲山御嶽神社 一ノ鳥居",
+    "image": "https://image.xinu.ink/pic/data/672/images/2v1ls4g-1753241102811.jpg",
+    "ep": 5,
+    "s": 887,
+    "geo": [
+      35.9418,
+      139.1162
+    ],
+    "origin": "Anitabi@火柴",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2v1o3hs",
+    "cn": "武甲山コース",
+    "name": "武甲山コース",
+    "image": "https://image.xinu.ink/pic/data/672/images/2v1o3hs-1753241176199.jpg",
+    "ep": 5,
+    "s": 920,
+    "geo": [
+      35.9415,
+      139.1143
+    ],
+    "origin": "Anitabi@火柴",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2vg11qv",
+    "cn": "武甲山の不動滝",
+    "name": "武甲山の不動滝",
+    "image": "https://image.xinu.ink/pic/data/672/images/2vg11qv-1753265311882.jpg",
+    "ep": 5,
+    "s": 1002,
+    "geo": [
+      35.9443,
+      139.1047
+    ],
+    "origin": "Anitabi@火柴",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2vg6u0b",
+    "cn": "大杉の広場",
+    "name": "大杉の広場",
+    "image": "https://image.xinu.ink/pic/data/672/images/2vg6u0b-1753265570871.jpg",
+    "ep": 5,
+    "s": 1094,
+    "geo": [
+      35.9478,
+      139.1052
+    ],
+    "origin": "Anitabi@火柴",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2vg8rdb",
+    "cn": "五十一丁目",
+    "name": "五十一丁目",
+    "image": "https://image.xinu.ink/pic/data/672/images/2vg8rdb-1753265655632.jpg",
+    "ep": 5,
+    "s": 1132,
+    "geo": [
+      35.9509,
+      139.0978
+    ],
+    "origin": "Anitabi@火柴",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2vg9pc8",
+    "cn": "武甲山御嶽神社",
+    "name": "武甲山御嶽神社",
+    "image": "https://image.xinu.ink/pic/data/672/images/2vg9pc8-1753265704142.jpg",
+    "ep": 5,
+    "s": 1137,
+    "geo": [
+      35.9511,
+      139.0977
+    ],
+    "origin": "Anitabi@火柴",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2vgcsoq",
+    "cn": "武甲山第一展望所",
+    "name": "武甲山第一展望所",
+    "image": "https://image.xinu.ink/pic/data/672/images/2vgcsoq-1753265854798.jpg",
+    "ep": 5,
+    "s": 1161,
+    "geo": [
+      35.9516,
+      139.0977
+    ],
+    "origin": "Anitabi@火柴",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2vgfd9h",
+    "cn": "武甲山展望所",
+    "name": "武甲山展望所",
+    "image": "https://image.xinu.ink/pic/data/672/images/2vgfd9h-1753266009651.jpg",
+    "ep": 5,
+    "s": 1175,
+    "geo": [
+      35.9518,
+      139.0975
+    ],
+    "origin": "Anitabi@火柴",
+    "originURL": "https://anitabi.cn/"
   }
 ]

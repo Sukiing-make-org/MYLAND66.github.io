@@ -619,5 +619,39 @@
       35.6247,
       140.0532
     ]
+  },
+  {
+    "id": "205oz5o",
+    "cn": "中央园区通道",
+    "name": "中央広場",
+    "image": "https://image.xinu.ink/pic/data/649/images/205oz5o-1751373502977.jpg",
+    "ep": 1,
+    "s": 357,
+    "geo": [
+      35.6422,
+      139.8602
+    ]
+  },
+  {
+    "id": "33rpkng",
+    "cn": "稻毛路桥上",
+    "name": "稻毛陆桥上",
+    "image": "https://image.xinu.ink/pic/data/649/images/33rpkng-1753768658531.jpg",
+    "ep": "EP11",
+    "geo": [
+      35.6319,
+      140.0846
+    ]
+  },
+  {
+    "id": "207b4tt",
+    "cn": "小金井公园",
+    "name": "小金井公园",
+    "image": "https://image.xinu.ink/pic/data/649/images/207b4tt-1751376215094.jpg",
+    "ep": null,
+    "geo": [
+      35.7154,
+      139.5123
+    ]
   }
 ]

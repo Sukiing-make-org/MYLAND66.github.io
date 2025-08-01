@@ -1853,5 +1853,66 @@
     ],
     "origin": "Anitabi@甜食伯爵",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2106zs5",
+    "cn": "茶与宇治之街历史公园",
+    "name": "お茶と宇治のまち歴史公園",
+    "image": "https://image.xinu.ink/pic/data/449/images/2106zs5-1751424749757.jpg",
+    "ep": 9,
+    "s": 1396,
+    "geo": [
+      34.8956,
+      135.8047
+    ]
+  },
+  {
+    "id": "304k893",
+    "name": "京都车站 乌丸小路广场",
+    "image": "https://image.xinu.ink/pic/data/449/images/304k893-1753548487401.jpg",
+    "ep": 7,
+    "s": 1031,
+    "geo": [
+      34.9856,
+      135.7561
+    ]
+  },
+  {
+    "id": "sff2b89ni",
+    "name": "飛び出し注意看板（中世古香織）",
+    "image": "https://image.xinu.ink/pic/data/449/images/sff2b89ni-1753927767883.jpg",
+    "ep": null,
+    "geo": [
+      34.898,
+      135.8076
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "s8o6nenvt",
+    "name": "幸栄堂本店",
+    "image": "https://image.xinu.ink/pic/data/449/images/s8o6nenvt-1753928261081.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      34.905,
+      135.8077
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "s8on30c2x",
+    "cn": "飛び出し注意看板（傘木希美）",
+    "name": "お肉ダイニングきく",
+    "image": "https://image.xinu.ink/pic/data/449/images/s8on30c2x-1753927880893.jpg",
+    "ep": null,
+    "geo": [
+      34.8915,
+      135.8056
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
   }
 ]

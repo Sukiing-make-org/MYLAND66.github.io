@@ -37,5 +37,533 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=14jU68uv8HbkU06W4p9vD0g7FmT7R8Hl2&ll=35.653941%2C139.671177&z=17"
+  },
+  {
+    "id": "51i52es1m",
+    "name": "新宿三丁目　A5出入り口",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52es1m_1672370160066.jpg",
+    "ep": 11,
+    "s": 796,
+    "geo": [
+      35.6912,
+      139.7035
+    ]
+  },
+  {
+    "id": "51i52es05",
+    "name": "jinan's bar",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52es05_1672370158213.jpg",
+    "ep": 8,
+    "s": 98,
+    "geo": [
+      35.6989,
+      139.6584
+    ]
+  },
+  {
+    "id": "51i52esjs",
+    "name": "写真スタジオ",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52esjs_1672370156230.jpg",
+    "ep": 4,
+    "s": 1447,
+    "geo": [
+      35.7078,
+      139.7148
+    ]
+  },
+  {
+    "id": "51i52es8c",
+    "name": "早大南門通り",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52es8c_1672370154228.jpg",
+    "ep": 8,
+    "s": 564,
+    "geo": [
+      35.7079,
+      139.7202
+    ]
+  },
+  {
+    "id": "51i52es3g",
+    "name": "結婚式からの帰り②",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52es3g_1672370152227.jpg",
+    "ep": 7,
+    "s": 849,
+    "geo": [
+      35.7264,
+      139.7077
+    ]
+  },
+  {
+    "id": "51i52erzy",
+    "name": "結婚式からの帰り①",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52erzy_1672370149258.jpg",
+    "ep": 7,
+    "s": 803,
+    "geo": [
+      35.7263,
+      139.7072
+    ]
+  },
+  {
+    "id": "51i52erue",
+    "name": "自由学園明日館",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52erue_1672370145226.jpg",
+    "ep": 7,
+    "s": 785,
+    "geo": [
+      35.7265,
+      139.7073
+    ]
+  },
+  {
+    "id": "51i52er8m",
+    "name": "山下公園",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52er8m_1672370143227.jpg",
+    "ep": 5,
+    "s": 984,
+    "geo": [
+      35.4467,
+      139.6489
+    ]
+  },
+  {
+    "id": "51i52eraa",
+    "name": "居酒屋「晩小屋」",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52eraa_1672370141227.jpg",
+    "ep": 5,
+    "s": 328,
+    "geo": [
+      35.7029,
+      139.5993
+    ]
+  },
+  {
+    "id": "51i52ent1",
+    "name": "リクオのバイト先のコンビニ",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52ent1_1672370052228.jpg",
+    "ep": 1,
+    "s": 22,
+    "geo": [
+      35.6597,
+      139.6421
+    ]
+  },
+  {
+    "id": "51i52eotz",
+    "name": "豪徳寺駅北口",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52eotz_1672370054231.jpg",
+    "ep": 1,
+    "s": 16,
+    "geo": [
+      35.6539,
+      139.6471
+    ]
+  },
+  {
+    "id": "51i52eogo",
+    "name": "ガスト世田谷代田店",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52eogo_1672370056228.jpg",
+    "ep": 7,
+    "s": 1090,
+    "geo": [
+      35.6512,
+      139.6605
+    ]
+  },
+  {
+    "id": "51i52eoao",
+    "name": "CoCo壱番屋下北沢点付近",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52eoao_1672370059530.jpg",
+    "ep": 1,
+    "s": 429,
+    "geo": [
+      35.6593,
+      139.6676
+    ]
+  },
+  {
+    "id": "51i52eo73",
+    "name": "くぬぎ公園前",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52eo73_1672370064228.jpg",
+    "ep": 1,
+    "s": 540,
+    "geo": [
+      35.6458,
+      139.6515
+    ]
+  },
+  {
+    "id": "51i52eo6u",
+    "name": "くぬぎ公園",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52eo6u_1672370062227.jpg",
+    "ep": 1,
+    "s": 554,
+    "geo": [
+      35.6457,
+      139.6513
+    ]
+  },
+  {
+    "id": "51i52eo5g",
+    "name": "くぬぎ公園付近の坂道",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52eo5g_1672370065228.jpg",
+    "ep": 8,
+    "s": 328,
+    "geo": [
+      35.646,
+      139.6511
+    ]
+  },
+  {
+    "id": "51i52eond",
+    "name": "世田谷線沿道",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52eond_1672370069605.jpg",
+    "ep": 1,
+    "s": 656,
+    "geo": [
+      35.6592,
+      139.6421
+    ]
+  },
+  {
+    "id": "51i52eoul",
+    "name": "太子堂中学校前バス停",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52eoul_1672370073233.jpg",
+    "ep": 12,
+    "s": 946,
+    "geo": [
+      35.6513,
+      139.6702
+    ]
+  },
+  {
+    "id": "51i52eopn",
+    "name": "太子堂中学校前",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52eopn_1672370072196.jpg",
+    "ep": 1,
+    "s": 875,
+    "geo": [
+      35.6514,
+      139.6704
+    ]
+  },
+  {
+    "id": "51i52eok1",
+    "name": "松陰神社鳥居",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52eok1_1672370074251.jpg",
+    "ep": 10,
+    "s": 892,
+    "geo": [
+      35.6463,
+      139.6559
+    ]
+  },
+  {
+    "id": "51i52eode",
+    "name": "日本学園中学校・高等学校",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52eode_1672370075347.jpg",
+    "ep": 2,
+    "s": 171,
+    "geo": [
+      35.665,
+      139.6495
+    ]
+  },
+  {
+    "id": "51i52eoc8",
+    "name": "若林公園①",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52eoc8_1672370076707.jpg",
+    "ep": 1,
+    "s": 1166,
+    "geo": [
+      35.6467,
+      139.6548
+    ]
+  },
+  {
+    "id": "51i52eohe",
+    "name": "若林公園②",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52eohe_1672370078210.jpg",
+    "ep": 2,
+    "s": 389,
+    "geo": [
+      35.6468,
+      139.6551
+    ]
+  },
+  {
+    "id": "51i52epob",
+    "name": "若林公園③",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52epob_1672370079716.jpg",
+    "ep": 2,
+    "s": 735,
+    "geo": [
+      35.648,
+      139.6558
+    ]
+  },
+  {
+    "id": "51i52epd9",
+    "name": "国士舘大学付近の道路",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52epd9_1672370081227.jpg",
+    "ep": 3,
+    "s": 1138,
+    "geo": [
+      35.6472,
+      139.6536
+    ]
+  },
+  {
+    "id": "51i52epih",
+    "name": "世田谷区役所前交差点",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52epih_1672370085174.jpg",
+    "ep": 3,
+    "s": 1143,
+    "geo": [
+      35.6466,
+      139.6535
+    ]
+  },
+  {
+    "id": "51i52ephy",
+    "name": "ミルクホール　モデル地",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52ephy_1672370087230.jpg",
+    "ep": 3,
+    "s": 486,
+    "geo": [
+      35.6557,
+      139.6486
+    ]
+  },
+  {
+    "id": "51i52epeg",
+    "name": "MVに登場した階段の場所",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52epeg_1672370088228.jpg",
+    "ep": 10,
+    "s": 776,
+    "geo": [
+      35.6408,
+      139.6019
+    ]
+  },
+  {
+    "id": "oii99apjt",
+    "name": "成城学園前駅付近の橋",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52epey_1672370090229.jpg",
+    "ep": 7,
+    "s": 285,
+    "geo": [
+      35.6408,
+      139.6019
+    ]
+  },
+  {
+    "id": "51i52ep2k",
+    "name": "ハルと浪が歩いていた道",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52ep2k_1672370096236.jpg",
+    "ep": 4,
+    "s": 826,
+    "geo": [
+      35.6546,
+      139.6671
+    ]
+  },
+  {
+    "id": "51i52ep3w",
+    "name": "リクオ、ハル、榀子、湊の4人が出くわした場所",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52ep3w_1672370098393.jpg",
+    "ep": 5,
+    "s": 425,
+    "geo": [
+      35.6469,
+      139.6585
+    ]
+  },
+  {
+    "id": "51i52ep3j",
+    "name": "ハルと湊が話をしていた階段",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52ep3j_1672370101230.jpg",
+    "ep": 5,
+    "s": 519,
+    "geo": [
+      35.6549,
+      139.6639
+    ]
+  },
+  {
+    "id": "51i52epjz",
+    "name": "北沢川緑道",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52epjz_1672370104275.jpg",
+    "ep": 5,
+    "s": 591,
+    "geo": [
+      35.6546,
+      139.6643
+    ]
+  },
+  {
+    "id": "51i52eq8y",
+    "name": "ラーメン屋",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52eq8y_1672370115227.jpg",
+    "ep": 7,
+    "s": 632,
+    "geo": [
+      35.6554,
+      139.6673
+    ]
+  },
+  {
+    "id": "51i52eptx",
+    "name": "ビスマルクカフェ",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52eptx_1672370117227.jpg",
+    "ep": 8,
+    "s": 538,
+    "geo": [
+      35.6537,
+      139.6469
+    ]
+  },
+  {
+    "id": "51i52eqaa",
+    "name": "リクオとハル　自販機前のシーン",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52eqaa_1672370119231.jpg",
+    "ep": 8,
+    "s": 1159,
+    "geo": [
+      35.6503,
+      139.6637
+    ]
+  },
+  {
+    "id": "51i52eq7f",
+    "name": "スーパーライフ　経堂店",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52eq7f_1672370120232.jpg",
+    "ep": 9,
+    "s": 347,
+    "geo": [
+      35.648,
+      139.6324
+    ]
+  },
+  {
+    "id": "51i52eq1m",
+    "name": "淡島交差点付近①",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52eq1m_1672370122227.jpg",
+    "ep": 9,
+    "s": 1214,
+    "geo": [
+      35.654,
+      139.6728
+    ]
+  },
+  {
+    "id": "51i52eqez",
+    "name": "淡島交差点付近②",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52eqez_1672370124226.jpg",
+    "ep": 9,
+    "s": 1227,
+    "geo": [
+      35.6538,
+      139.6726
+    ]
+  },
+  {
+    "id": "51i52eqed",
+    "name": "旬菜魚いなだ",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52eqed_1672370126228.jpg",
+    "ep": 10,
+    "s": 889,
+    "geo": [
+      35.6555,
+      139.6483
+    ]
+  },
+  {
+    "id": "51i52eqmh",
+    "name": "井の頭公園のベンチ",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52eqmh_1672370128172.jpg",
+    "ep": 12,
+    "s": 413,
+    "geo": [
+      35.7009,
+      139.576
+    ]
+  },
+  {
+    "id": "51i52erfw",
+    "name": "井の頭公園　歩道",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52erfw_1672370129837.jpg",
+    "ep": 12,
+    "s": 369,
+    "geo": [
+      35.6993,
+      139.5788
+    ]
+  },
+  {
+    "id": "51i52ernk",
+    "name": "井の頭公園　池",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52ernk_1672370132228.jpg",
+    "ep": 12,
+    "s": 398,
+    "geo": [
+      35.6999,
+      139.5775
+    ]
+  },
+  {
+    "id": "51i52er8p",
+    "name": "ハルがミルクホールの配達で走っていた道",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52er8p_1672370134227.jpg",
+    "ep": 3,
+    "s": 420,
+    "geo": [
+      35.7011,
+      139.4836
+    ]
+  },
+  {
+    "id": "51i52era8",
+    "name": "浪が通っている美術学校のモデル",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52era8_1672370136230.jpg",
+    "ep": 3,
+    "s": 429,
+    "geo": [
+      35.7005,
+      139.4839
+    ]
+  },
+  {
+    "id": "51i52erwg",
+    "name": "gallery bauhaus",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52erwg_1672370139230.jpg",
+    "ep": 8,
+    "s": 415,
+    "geo": [
+      35.702,
+      139.7667
+    ]
+  },
+  {
+    "id": "51i52erus",
+    "name": "TOHOシネマズ渋谷",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52erus_1672370137227.jpg",
+    "ep": 3,
+    "s": 798,
+    "geo": [
+      35.6591,
+      139.6988
+    ]
+  },
+  {
+    "id": "51i52eqg1",
+    "name": "お好み焼き屋",
+    "image": "https://image.xinu.ink/pic/data/6028/images/51i52eqg1_1672370112227.jpg",
+    "ep": 7,
+    "s": 0,
+    "geo": [
+      35.6424,
+      139.6548
+    ]
   }
 ]

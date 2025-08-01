@@ -283,5 +283,17 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1bQOd8C7ytKQkgwHvJaagajzM26VCMC9D&ll=50.22561%2C7.420716&z=17"
+  },
+  {
+    "id": "2285tsf",
+    "cn": "捷克卡罗维发利",
+    "name": "Karlovy Vary",
+    "image": "https://image.xinu.ink/pic/data/659/images/2285tsf-1751498655317.jpg",
+    "ep": "剧场版",
+    "s": "22：16",
+    "geo": [
+      50.2264,
+      12.8815
+    ]
   }
 ]

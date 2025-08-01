@@ -2261,5 +2261,70 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1bLKGYdCayP9e5knF7dH5fT7WaVo-XveR&ll=35.019594%2C138.885109&z=17"
+  },
+  {
+    "id": "2dhnimx",
+    "name": "西伊豆スカイライン土肥駐車場",
+    "image": "https://image.xinu.ink/pic/data/522/images/2dhnimx-1752179642025.jpg",
+    "ep": 10,
+    "s": 1270,
+    "geo": [
+      34.9347,
+      138.8318
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2dhw5pd",
+    "name": "安田屋旅館  温泉1階",
+    "image": "https://image.xinu.ink/pic/data/522/images/2dhw5pd-1752180051405.jpg",
+    "ep": 10,
+    "s": 1002,
+    "geo": [
+      35.02,
+      138.8976
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2dhy5cz",
+    "name": "安田屋旅館　温泉への廊下",
+    "image": "https://image.xinu.ink/pic/data/522/images/2dhy5cz-1752180169939.jpg",
+    "ep": 10,
+    "s": 1010,
+    "geo": [
+      35.02,
+      138.8974
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2di1nnx",
+    "name": "安田屋旅館　お食事処",
+    "image": "https://image.xinu.ink/pic/data/522/images/2di1nnx-1752180300502.jpg",
+    "ep": 10,
+    "s": 1020,
+    "geo": [
+      35.0202,
+      138.8973
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2di1ala",
+    "name": "安田屋旅館　廊下",
+    "image": "https://image.xinu.ink/pic/data/522/images/2di1ala-1752180278644.jpg",
+    "ep": 10,
+    "s": 1018,
+    "geo": [
+      35.0203,
+      138.8974
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
   }
 ]

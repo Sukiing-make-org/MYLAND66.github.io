@@ -1,0 +1,552 @@
+[
+  {
+    "id": "77df1b55",
+    "name": "JR東小金井駅前 北口",
+    "image": "https://image.xinu.ink/pic/data/6055/images/77df1b55_1752727582348.jpg",
+    "geo": [
+      35.7017,
+      139.5246
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.701766%2C139.524635&z=17"
+  },
+  {
+    "id": "bf333ffd",
+    "name": "JR東小金井駅",
+    "image": "https://image.xinu.ink/pic/data/6055/images/bf333ffd_1752730131655.jpg",
+    "geo": [
+      35.7016,
+      139.5246
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.701616%2C139.524627&z=17"
+  },
+  {
+    "id": "ec4cf52b",
+    "name": "小金井公園 入口",
+    "image": "https://image.xinu.ink/pic/data/6055/images/ec4cf52b_1752727740499.jpg",
+    "geo": [
+      35.7128,
+      139.518
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.7128%2C139.518022&z=17"
+  },
+  {
+    "id": "e94e85ac",
+    "name": "島田園 無人販売所",
+    "image": "https://image.xinu.ink/pic/data/6055/images/e94e85ac_1752727891260.jpg",
+    "geo": [
+      35.7135,
+      139.52
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.713505%2C139.520021&z=17"
+  },
+  {
+    "id": "84c3e59e",
+    "name": "菓子工房 ビルドルセ",
+    "image": "https://image.xinu.ink/pic/data/6055/images/84c3e59e_1752727818540.jpg",
+    "geo": [
+      35.7006,
+      139.5241
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.700626%2C139.524117&z=17"
+  },
+  {
+    "id": "0cd58673",
+    "name": "六甲山",
+    "image": "https://image.xinu.ink/pic/data/6055/images/0cd58673_1752727873421.jpg",
+    "geo": [
+      35.7016,
+      139.5274
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.701685%2C139.527486&z=17"
+  },
+  {
+    "id": "ba7d388a",
+    "name": "小金井公園 バーベキュー広場",
+    "image": "https://image.xinu.ink/pic/data/6055/images/ba7d388a_1752727912652.jpg",
+    "geo": [
+      35.7152,
+      139.525
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.715213%2C139.525054&z=17"
+  },
+  {
+    "id": "980ea31d",
+    "name": "パピスプラザ",
+    "image": "https://image.xinu.ink/pic/data/6055/images/980ea31d_1752727924659.jpg",
+    "geo": [
+      35.702,
+      139.5271
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.702037%2C139.52716&z=17"
+  },
+  {
+    "id": "39deac22",
+    "name": "東京電機大学高等学校",
+    "image": "https://image.xinu.ink/pic/data/6055/images/39deac22_1752727984427.jpg",
+    "geo": [
+      35.7063,
+      139.5257
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.706367%2C139.525758&z=17"
+  },
+  {
+    "id": "a7796588",
+    "name": "小金井第一中学校",
+    "image": "https://image.xinu.ink/pic/data/6055/images/a7796588_1752727948252.jpg",
+    "geo": [
+      35.7106,
+      139.5036
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.710694%2C139.503624&z=17"
+  },
+  {
+    "id": "70fca946",
+    "name": "小金井公園 わんぱく山",
+    "image": "https://image.xinu.ink/pic/data/6055/images/70fca946_1752727998900.jpg",
+    "geo": [
+      35.7153,
+      139.5206
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.715313%2C139.520681&z=17"
+  },
+  {
+    "id": "3a190ba0",
+    "name": "JR岡山駅前 桃太郎像",
+    "image": "https://image.xinu.ink/pic/data/6055/images/3a190ba0_1752727430068.jpg",
+    "geo": [
+      34.6658,
+      133.9186
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=34.665821%2C133.918658&z=17"
+  },
+  {
+    "id": "4af52824",
+    "name": "JR岡山駅 23番線ホーム",
+    "image": "https://image.xinu.ink/pic/data/6055/images/4af52824_1752727446771.jpg",
+    "geo": [
+      34.666,
+      133.9181
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=34.666009%2C133.918101&z=17"
+  },
+  {
+    "id": "2ad358c8",
+    "name": "JR山陽新幹線 吉井川橋梁",
+    "image": "https://image.xinu.ink/pic/data/6055/images/2ad358c8_1752727463021.jpg",
+    "geo": [
+      34.7249,
+      134.1015
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=34.724934%2C134.101538&z=17"
+  },
+  {
+    "id": "83b8b435",
+    "name": "ブックスキャロット（閉店）",
+    "image": "https://image.xinu.ink/pic/data/6055/images/83b8b435_1752728057557.jpg",
+    "geo": [
+      35.7021,
+      139.5252
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.702195%2C139.525256&z=17"
+  },
+  {
+    "id": "6d97620c",
+    "name": "マルエツ 東小金井駅北口店",
+    "image": "https://image.xinu.ink/pic/data/6055/images/6d97620c_1752728078275.jpg",
+    "geo": [
+      35.7027,
+      139.5249
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.702787%2C139.524951&z=17"
+  },
+  {
+    "id": "919af461",
+    "name": "手打ちそば 醍醐",
+    "image": "https://image.xinu.ink/pic/data/6055/images/919af461_1752728092858.jpg",
+    "geo": [
+      35.7032,
+      139.5253
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.703216%2C139.525391&z=17"
+  },
+  {
+    "id": "d334bd8b",
+    "name": "にじいろ薬局",
+    "image": "https://image.xinu.ink/pic/data/6055/images/d334bd8b_1752728124060.jpg",
+    "geo": [
+      35.7037,
+      139.5253
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.70379%2C139.525325&z=17"
+  },
+  {
+    "id": "d286aa04",
+    "name": "梶野通り ミニストップ小金井梶野町店",
+    "image": "https://image.xinu.ink/pic/data/6055/images/d286aa04_1752728150124.jpg",
+    "geo": [
+      35.7082,
+      139.5257
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.708226%2C139.52573&z=17"
+  },
+  {
+    "id": "bd81d142",
+    "name": "関野橋",
+    "image": "https://image.xinu.ink/pic/data/6055/images/bd81d142_1752728410899.jpg",
+    "geo": [
+      35.7126,
+      139.5215
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.712644%2C139.521562&z=17"
+  },
+  {
+    "id": "614ccd07",
+    "name": "Token Plaza",
+    "image": "https://image.xinu.ink/pic/data/6055/images/614ccd07_1752728428507.jpg",
+    "geo": [
+      35.6998,
+      139.5242
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.699871%2C139.524241&z=17"
+  },
+  {
+    "id": "6051024a",
+    "name": "平右衛門橋",
+    "image": "https://image.xinu.ink/pic/data/6055/images/6051024a_1752728446042.jpg",
+    "geo": [
+      35.7125,
+      139.5187
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.712542%2C139.518737&z=17"
+  },
+  {
+    "id": "dbeeecf3",
+    "name": "中央大学附属中学高校",
+    "image": "https://image.xinu.ink/pic/data/6055/images/dbeeecf3_1752728469849.jpg",
+    "geo": [
+      35.7095,
+      139.4991
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.709566%2C139.499145&z=17"
+  },
+  {
+    "id": "5df4d9c7",
+    "name": "小金井公園 梅林",
+    "image": "https://image.xinu.ink/pic/data/6055/images/5df4d9c7_1752728629098.jpg",
+    "geo": [
+      35.715,
+      139.5154
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.715078%2C139.515454&z=17"
+  },
+  {
+    "id": "127c7414",
+    "name": "小金井公園 梅林 テーブル",
+    "image": "https://image.xinu.ink/pic/data/6055/images/127c7414_1752728637586.jpg",
+    "geo": [
+      35.7151,
+      139.5144
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.715159%2C139.514466&z=17"
+  },
+  {
+    "id": "9b4dc0a4",
+    "name": "幕張メッセ",
+    "image": "https://image.xinu.ink/pic/data/6055/images/9b4dc0a4_1752728699619.jpg",
+    "geo": [
+      35.6477,
+      140.0353
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.647785%2C140.035328&z=17"
+  },
+  {
+    "id": "0a064d9f",
+    "name": "小金井公園 花の小径",
+    "image": "https://image.xinu.ink/pic/data/6055/images/0a064d9f_1752730014473.jpg",
+    "geo": [
+      35.7137,
+      139.5181
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.713703%2C139.518181&z=17"
+  },
+  {
+    "id": "5f234c20",
+    "name": "小金井公園 たてもの園前広場 テーブル",
+    "image": "https://image.xinu.ink/pic/data/6055/images/5f234c20_1752742978578.jpg",
+    "geo": [
+      35.7147,
+      139.5132
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.714729%2C139.513251&z=17"
+  },
+  {
+    "id": "483319da",
+    "name": "東京農工大学 小金井キャンパス東門",
+    "image": "https://image.xinu.ink/pic/data/6055/images/483319da_1752729576826.jpg",
+    "geo": [
+      35.6994,
+      139.5208
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.699438%2C139.520819&z=17"
+  },
+  {
+    "id": "b0ddddbb",
+    "name": "梶野橋",
+    "image": "https://image.xinu.ink/pic/data/6055/images/b0ddddbb_1752728728617.jpg",
+    "geo": [
+      35.7123,
+      139.5261
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.712378%2C139.526193&z=17"
+  },
+  {
+    "id": "116177cc",
+    "name": "貫井橋",
+    "image": "https://image.xinu.ink/pic/data/6055/images/116177cc_1752729497682.jpg",
+    "geo": [
+      35.7125,
+      139.5019
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.712526%2C139.501902&z=17"
+  },
+  {
+    "id": "2c9da498",
+    "name": "サイのツノ",
+    "image": "https://image.xinu.ink/pic/data/6055/images/2c9da498_1752729556651.jpg",
+    "geo": [
+      35.6994,
+      139.5242
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.699453%2C139.52424&z=17"
+  },
+  {
+    "id": "8f18fdd2",
+    "name": "カラオケ館 武蔵小金井駅前店",
+    "image": "https://image.xinu.ink/pic/data/6055/images/8f18fdd2_1752730082807.jpg",
+    "geo": [
+      35.7006,
+      139.5072
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.700607%2C139.507286&z=17"
+  },
+  {
+    "id": "966b0750",
+    "name": "JR東小金井駅 南口",
+    "image": "https://image.xinu.ink/pic/data/6055/images/966b0750_1752730101824.jpg",
+    "geo": [
+      35.7013,
+      139.5248
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.701374%2C139.524814&z=17"
+  },
+  {
+    "id": "bc74852c",
+    "name": "JR東小金井駅 南口道路",
+    "image": "https://image.xinu.ink/pic/data/6055/images/bc74852c_1752730170543.jpg",
+    "geo": [
+      35.7014,
+      139.5252
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.701424%2C139.52525&z=17"
+  },
+  {
+    "id": "9257624c",
+    "name": "東京ドーム前",
+    "image": "https://image.xinu.ink/pic/data/6055/images/9257624c_1752730208192.jpg",
+    "geo": [
+      35.7048,
+      139.753
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.704866%2C139.753038&z=17"
+  },
+  {
+    "id": "4d9f8d80",
+    "name": "ラクーアガーデンステージ",
+    "image": "https://image.xinu.ink/pic/data/6055/images/4d9f8d80_1752737689108.jpg",
+    "geo": [
+      35.7066,
+      139.7533
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.706689%2C139.753395&z=17"
+  },
+  {
+    "id": "8f127546",
+    "name": "エンドレス",
+    "image": "https://image.xinu.ink/pic/data/6055/images/8f127546_1752739029929.jpg",
+    "geo": [
+      35.6357,
+      139.6597
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.635743%2C139.659711&z=17"
+  },
+  {
+    "id": "5937b73f",
+    "name": "燻薫～kunkun～",
+    "image": "https://image.xinu.ink/pic/data/6055/images/5937b73f_1752739128875.jpg",
+    "geo": [
+      35.6989,
+      139.5242
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.698942%2C139.524213&z=17"
+  },
+  {
+    "id": "928031eb",
+    "name": "スナフキッチン",
+    "image": "https://image.xinu.ink/pic/data/6055/images/928031eb_1752739110029.jpg",
+    "geo": [
+      35.703,
+      139.5186
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.70309%2C139.518601&z=17"
+  },
+  {
+    "id": "d8aac5f4",
+    "name": "JR大宮駅",
+    "image": "https://image.xinu.ink/pic/data/6055/images/d8aac5f4_1752739169594.jpg",
+    "geo": [
+      35.9059,
+      139.6232
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.905972%2C139.623234&z=17"
+  },
+  {
+    "id": "d645bb3c",
+    "name": "大宮ソニックシティ",
+    "image": "https://image.xinu.ink/pic/data/6055/images/d645bb3c_1752739660901.jpg",
+    "geo": [
+      35.9058,
+      139.6194
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.905844%2C139.619412&z=17"
+  },
+  {
+    "id": "b33e514c",
+    "name": "オーブン・ミトン",
+    "image": "https://image.xinu.ink/pic/data/6055/images/b33e514c_1752739716157.jpg",
+    "geo": [
+      35.6991,
+      139.5102
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.699168%2C139.510279&z=17"
+  },
+  {
+    "id": "1edd5d79",
+    "name": "珈琲や",
+    "image": "https://image.xinu.ink/pic/data/6055/images/1edd5d79_1752729530361.jpg",
+    "geo": [
+      35.7016,
+      139.5273
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.701688%2C139.527372&z=17"
+  },
+  {
+    "id": "70c441d3",
+    "name": "吉野家 東小金井駅前北口店",
+    "image": "https://image.xinu.ink/pic/data/6055/images/70c441d3_1752739748512.jpg",
+    "geo": [
+      35.7018,
+      139.5243
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.701847%2C139.524333&z=17"
+  },
+  {
+    "id": "c62a9de8",
+    "name": "芳文社",
+    "image": "https://image.xinu.ink/pic/data/6055/images/c62a9de8_1752742769909.jpg",
+    "geo": [
+      35.7028,
+      139.7516
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.702823%2C139.751665&z=17"
+  },
+  {
+    "id": "da48ec44",
+    "name": "アコースティック",
+    "image": "https://image.xinu.ink/pic/data/6055/images/da48ec44_1752742783881.jpg",
+    "geo": [
+      35.7025,
+      139.5218
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.7026%2C139.52188&z=17"
+  },
+  {
+    "id": "e4dddc80",
+    "name": "小金井公園 第一駐車場",
+    "image": "https://image.xinu.ink/pic/data/6055/images/e4dddc80_1752742869859.jpg",
+    "geo": [
+      35.7142,
+      139.5134
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.714216%2C139.513454&z=17"
+  },
+  {
+    "id": "10c12b21",
+    "name": "たてもの園前広場",
+    "image": "https://image.xinu.ink/pic/data/6055/images/10c12b21_1752742831371.jpg",
+    "geo": [
+      35.7147,
+      139.5126
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.714759%2C139.512617&z=17"
+  },
+  {
+    "id": "542f8e10",
+    "name": "小金井公園 さくら通りトイレ",
+    "image": "https://image.xinu.ink/pic/data/6055/images/542f8e10_1752742876882.jpg",
+    "geo": [
+      35.7148,
+      139.5153
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.714885%2C139.515322&z=17"
+  }
+]

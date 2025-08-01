@@ -42,5 +42,111 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "316g8u7",
+    "name": "広尾北公園",
+    "image": "https://image.xinu.ink/pic/data/784/images/316g8u7_1753612015127.jpg",
+    "ep": 30,
+    "geo": [
+      35.6563,
+      139.72
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "28f6cdx",
+    "name": "押业桥周边",
+    "image": "https://image.xinu.ink/pic/data/784/images/28f6cdx_1751873520042.jpg",
+    "ep": 59,
+    "geo": [
+      35.7094,
+      139.8117
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "28fjj5q",
+    "name": "水族馆",
+    "image": "https://image.xinu.ink/pic/data/784/images/28fjj5q_1751873753295.jpg",
+    "ep": 18,
+    "geo": [
+      35.6279,
+      139.7352
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "28g0vll",
+    "name": "江ノ島​電鉄​(株)",
+    "image": "https://image.xinu.ink/pic/data/784/images/28g0vll_1751874711333.jpg",
+    "ep": 33,
+    "geo": [
+      35.3053,
+      139.5114
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "28g4xxq",
+    "name": "七里ヶ浜",
+    "image": "https://image.xinu.ink/pic/data/784/images/28g4xxq_1751874752327.jpg",
+    "ep": 34,
+    "geo": [
+      35.3052,
+      139.5095
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2opzmjv",
+    "name": "茅ヶ崎市立図書館",
+    "image": "https://image.xinu.ink/pic/data/784/images/2opzmjv_1752858758236.jpg",
+    "ep": 3,
+    "geo": [
+      35.3265,
+      139.4055
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2oev4sr",
+    "name": "自由之丘站",
+    "image": "https://image.xinu.ink/pic/data/784/images/2oev4sr_1752840185109.jpg",
+    "geo": [
+      35.6078,
+      139.6688
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2oeymc0",
+    "name": "蛋糕店",
+    "image": "https://image.xinu.ink/pic/data/784/images/2oeymc0_1752840234848.jpg",
+    "geo": [
+      35.6093,
+      139.6687
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2of207k",
+    "name": "池袋站西口（中央）",
+    "image": "https://image.xinu.ink/pic/data/784/images/2of207k-1752840415692.jpg",
+    "ep": null,
+    "geo": [
+      35.7311,
+      139.7097
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
   }
 ]

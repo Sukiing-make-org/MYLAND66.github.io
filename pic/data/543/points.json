@@ -103,5 +103,29 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "51i53vgt2",
+    "name": "白河実業高校前",
+    "image": "https://image.xinu.ink/pic/data/543/images/51i53vgt2_1752572742768.jpg",
+    "ep": 1,
+    "geo": [
+      37.1022,
+      140.2288
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1LmjWI46K5WWGNP7saTiZ9jkol4HOqbrt&ll=37.102227%2C140.228849&z=17"
+  },
+  {
+    "id": "51i53vicj",
+    "name": "新宿駅B7B8",
+    "image": "https://image.xinu.ink/pic/data/543/images/51i53vicj_1752572828081.jpg",
+    "ep": 2,
+    "geo": [
+      35.6918,
+      139.7027
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1LmjWI46K5WWGNP7saTiZ9jkol4HOqbrt&ll=35.691894%2C139.702752&z=17"
   }
 ]

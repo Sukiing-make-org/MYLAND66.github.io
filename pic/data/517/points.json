@@ -3252,5 +3252,31 @@
     ],
     "origin": "Anitabi@Nakano Prisma",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "25pguew",
+    "name": "西知多総合病院 病房",
+    "image": "https://image.xinu.ink/pic/data/517/images/25pguew_1751709045971.jpg",
+    "ep": 33,
+    "s": "10页",
+    "geo": [
+      34.9991,
+      136.8992
+    ],
+    "origin": "Anitabi@Nakano Prisma",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "25pl2bz",
+    "name": "西知多総合病院 走廊",
+    "image": "https://image.xinu.ink/pic/data/517/images/25pl2bz_1751709230465.jpg",
+    "ep": 33,
+    "s": "22页",
+    "geo": [
+      34.9991,
+      136.8992
+    ],
+    "origin": "Anitabi@Nakano Prisma",
+    "originURL": "https://anitabi.cn/"
   }
 ]

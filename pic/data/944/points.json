@@ -1564,5 +1564,290 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2ehwpjt",
+    "cn": "学生サポートセンター(学生課) 二层",
+    "name": 278,
+    "image": "https://image.xinu.ink/pic/data/944/images/2ehwpjt_1752240548413_c16v9.jpg",
+    "ep": 10,
+    "s": 235,
+    "geo": [
+      35.617,
+      139.3781
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "25j13a7",
+    "cn": "学生サポートセンター(学生課)  阶梯",
+    "name": 278,
+    "image": "https://image.xinu.ink/pic/data/944/images/25j13a7_1751698338269_c16v9.jpg",
+    "ep": 11,
+    "s": 422,
+    "geo": [
+      35.617,
+      139.3781
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2ehzgb2",
+    "name": "東京都立大学 南大沢キャンパス 1号館",
+    "image": "https://image.xinu.ink/pic/data/944/images/2ehzgb2_1752240788191_c16v9.jpg",
+    "ep": 11,
+    "s": 540,
+    "geo": [
+      35.6166,
+      139.3784
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2eicmwi",
+    "name": "三井​アウトレット​パーク​多摩​南大沢",
+    "image": "https://image.xinu.ink/pic/data/944/images/2eicmwi_1752241336512_c16v9.jpg",
+    "ep": 11,
+    "s": 710,
+    "geo": [
+      35.6154,
+      139.3791
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "247behw",
+    "name": "中山下田農園",
+    "image": "https://image.xinu.ink/pic/data/944/images/247behw_1751618134231_c16v9.jpg",
+    "ep": 8,
+    "s": 715,
+    "geo": [
+      35.6246,
+      139.3668
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "245cf75",
+    "name": "さいたま新都心",
+    "image": "https://image.xinu.ink/pic/data/944/images/245cf75_1751614802784_c16v9.jpg",
+    "ep": 8,
+    "s": 996,
+    "geo": [
+      35.8925,
+      139.6329
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "25phm43",
+    "cn": "鵯山隧道",
+    "name": "ひよどり山トンネル",
+    "image": "https://image.xinu.ink/pic/data/944/images/25phm43_1751709097303.jpg",
+    "ep": 9,
+    "s": 662,
+    "geo": [
+      35.6776,
+      139.341
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "25pp36i",
+    "name": "道​の​駅​八王子​滝山",
+    "image": "https://image.xinu.ink/pic/data/944/images/25pp36i_1751709482870_c16v9.jpg",
+    "ep": 9,
+    "s": 667,
+    "geo": [
+      35.6862,
+      139.3409
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "265r1h9",
+    "name": "津嶋神社",
+    "image": "https://image.xinu.ink/pic/data/944/images/265r1h9_1751736506006_c16v9.jpg",
+    "ep": 10,
+    "s": 187,
+    "geo": [
+      34.2443,
+      133.7167
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "265a154",
+    "name": "覚城院外",
+    "image": "https://image.xinu.ink/pic/data/944/images/265a154_1751735634479_c16v9.jpg",
+    "ep": 10,
+    "s": 221,
+    "geo": [
+      34.2016,
+      133.647
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "25qmfmp",
+    "name": "吉野家",
+    "image": "https://image.xinu.ink/pic/data/944/images/25qmfmp_1751711089463_c16v9.jpg",
+    "ep": 10,
+    "s": 341,
+    "geo": [
+      35.7161,
+      139.5102
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "260gyba",
+    "name": "伊根港",
+    "image": "https://image.xinu.ink/pic/data/944/images/260gyba_1751727516568_c16v9.jpg",
+    "ep": 10,
+    "s": 667,
+    "geo": [
+      35.6732,
+      135.2865
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "260a1qv",
+    "name": "伊根岬",
+    "image": "https://image.xinu.ink/pic/data/944/images/260a1qv_1751727219081_c16v9.jpg",
+    "ep": 10,
+    "s": 871,
+    "geo": [
+      35.665,
+      135.2877
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2607veq",
+    "name": "カンジャガハナ灯台",
+    "image": "https://image.xinu.ink/pic/data/944/images/2607veq_1751727100946_c16v9.jpg",
+    "ep": 10,
+    "s": 876,
+    "geo": [
+      35.6655,
+      135.2873
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "260k82j",
+    "name": "伊根​舟屋​ステイ​海​凪",
+    "image": "https://image.xinu.ink/pic/data/944/images/260k82j_1751727681711_c16v9.jpg",
+    "ep": 10,
+    "s": 884,
+    "geo": [
+      35.6751,
+      135.2891
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "25yacjt",
+    "name": "道​の​駅​舟屋​の​里​伊根 台阶",
+    "image": "https://image.xinu.ink/pic/data/944/images/25yacjt_1751723897877_c16v9.jpg",
+    "ep": 10,
+    "s": 890,
+    "geo": [
+      35.6747,
+      135.2919
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2654pcn",
+    "name": "广岛县吴市",
+    "image": "https://image.xinu.ink/pic/data/944/images/2654pcn_1751735419272_c16v9.jpg",
+    "ep": 10,
+    "s": 912,
+    "geo": [
+      34.1852,
+      132.6911
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v254fubri",
+    "name": "高尾山口",
+    "image": "https://image.xinu.ink/pic/data/944/images/v254fubri_1745765925223_c16v9.jpg",
+    "ep": 3,
+    "geo": [
+      35.6322,
+      139.2699
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "23zfmh2",
+    "name": "大塚山公園",
+    "image": "https://image.xinu.ink/pic/data/944/images/23zfmh2_1751604946117_c16v9.jpg",
+    "ep": 8,
+    "s": 0,
+    "geo": [
+      35.625,
+      139.3482
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2452729",
+    "name": "小山内裏公園西展望広場",
+    "image": "https://image.xinu.ink/pic/data/944/images/2452729_1751614349461.jpg",
+    "ep": 8,
+    "geo": [
+      35.6046,
+      139.3656
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2ekcmbg",
+    "name": "東京都立大学 体育館 駐車場",
+    "image": "https://image.xinu.ink/pic/data/944/images/2ekcmbg_1752244691428_c16v9.jpg",
+    "ep": 12,
+    "geo": [
+      35.6223,
+      139.3856
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2ekg74a",
+    "name": "東京都立大学 体育館 駐車場外",
+    "image": "https://image.xinu.ink/pic/data/944/images/2ekg74a_1752244813544_c16v9.jpg",
+    "ep": 12,
+    "geo": [
+      35.6223,
+      139.3852
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
   }
 ]

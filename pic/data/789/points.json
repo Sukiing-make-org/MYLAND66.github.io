@@ -22,5 +22,27 @@
     ],
     "origin": "",
     "originLink": "10000, Gornji Grad - Medveščak, 萨格勒布克罗地亚"
+  },
+  {
+    "id": "2mvvod0",
+    "cn": "贝尔格莱德",
+    "name": "Beograd",
+    "image": "https://image.xinu.ink/pic/data/789/images/2mvvod0-1752747746979.jpg",
+    "ep": null,
+    "geo": [
+      44.8129,
+      20.4623
+    ]
+  },
+  {
+    "id": "2mw4k5d",
+    "cn": "萨拉热窝",
+    "name": "Sarajevo",
+    "image": "https://image.xinu.ink/pic/data/789/images/2mw4k5d-1752748258319.jpg",
+    "ep": "",
+    "geo": [
+      43.8489,
+      18.3896
+    ]
   }
 ]

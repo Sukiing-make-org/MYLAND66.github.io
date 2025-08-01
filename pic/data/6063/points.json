@@ -1,0 +1,41 @@
+[
+  {
+    "id": "25zyjno",
+    "name": "野猿街道",
+    "image": "https://image.xinu.ink/pic/data/6063/images/25zyjno-1751726889631.jpg",
+    "ep": 1,
+    "s": 1302,
+    "geo": [
+      35.6561,
+      139.3351
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "260jn0y",
+    "name": "八王子站",
+    "image": "https://image.xinu.ink/pic/data/6063/images/260jn0y-1751727722381.jpg",
+    "ep": 1,
+    "s": 447,
+    "geo": [
+      35.6568,
+      139.3393
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "267jsdc",
+    "name": "八王子站东",
+    "image": "https://image.xinu.ink/pic/data/6063/images/267jsdc_1751739413611.jpg",
+    "ep": 1,
+    "s": 391,
+    "geo": [
+      35.6542,
+      139.3415
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  }
+]

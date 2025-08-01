@@ -924,5 +924,41 @@
     ],
     "origin": "Anitabi@Nakano Prisma",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2a29ziu",
+    "cn": "橄榄公园 魔法の扉",
+    "name": "魔法の扉",
+    "image": "https://image.xinu.ink/pic/data/549/images/2a29ziu-1751972658707.jpg",
+    "ep": "第三季op",
+    "s": 41,
+    "geo": [
+      34.4731,
+      134.2735
+    ]
+  },
+  {
+    "id": "2a209bv",
+    "cn": "王子大桥北部东侧海岸",
+    "name": "王子大桥北部东侧海岸",
+    "image": "https://image.xinu.ink/pic/data/549/images/2a209bv-1751971972470.jpg",
+    "ep": "擅长捉弄的高木同学剧场版",
+    "s": 1158,
+    "geo": [
+      34.4824,
+      134.1893
+    ]
+  },
+  {
+    "id": "ukhhbjdxv",
+    "name": "土庄港​ターミナル",
+    "image": "https://image.xinu.ink/pic/data/549/images/ukhhbjdxv-1753167236774.jpg",
+    "ep": null,
+    "geo": [
+      34.4892,
+      134.1718
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
   }
 ]

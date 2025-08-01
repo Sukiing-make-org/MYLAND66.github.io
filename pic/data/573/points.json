@@ -160,5 +160,85 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1dY1ODdheoJtdUBJmrSWwH29cf3U2zqdn&ll=36.648213%2C138.191199&z=17"
+  },
+  {
+    "id": "51i52389r",
+    "cn": "伺去神社 附近环山斜路",
+    "name": "01話05話10話",
+    "image": "https://image.xinu.ink/pic/data/573/images/51i52389r_1752050064984.jpg",
+    "geo": [
+      36.6853,
+      138.1996
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dY1ODdheoJtdUBJmrSWwH29cf3U2zqdn&ll=36.685375%2C138.19967&z=17"
+  },
+  {
+    "id": "51i52385h",
+    "cn": "长野运动公园 弓道馆",
+    "name": "01話08話",
+    "image": "https://image.xinu.ink/pic/data/573/images/51i52385h_1752051543958.jpg",
+    "geo": [
+      36.6612,
+      138.2305
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dY1ODdheoJtdUBJmrSWwH29cf3U2zqdn&ll=36.661255%2C138.230593&z=17"
+  },
+  {
+    "id": "lqfm24mqq",
+    "cn": "浅川桥",
+    "name": "01話",
+    "image": "https://image.xinu.ink/pic/data/573/images/lqfm24mqq_1752048901307.jpg",
+    "geo": [
+      36.6809,
+      138.2007
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dY1ODdheoJtdUBJmrSWwH29cf3U2zqdn&ll=36.680942%2C138.200781&z=17"
+  },
+  {
+    "id": "51i5238mz",
+    "name": "桐原駅",
+    "image": "https://image.xinu.ink/pic/data/573/images/51i5238mz_1752048340923.jpg",
+    "geo": [
+      36.6655,
+      138.213
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dY1ODdheoJtdUBJmrSWwH29cf3U2zqdn&ll=36.665587%2C138.213&z=17"
+  },
+  {
+    "id": "51i523871",
+    "name": "長野運動公園弓道場",
+    "image": "https://image.xinu.ink/pic/data/573/images/51i523871_1752051106203.jpg",
+    "geo": [
+      36.6615,
+      138.2307
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dY1ODdheoJtdUBJmrSWwH29cf3U2zqdn&ll=36.661583%2C138.230765&z=17"
+  },
+  {
+    "id": "51i52395k",
+    "name": "往生寺公園",
+    "image": "https://image.xinu.ink/pic/data/573/images/51i52395k_1752050085063.jpg",
+    "geo": [
+      36.6631,
+      138.1819
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dY1ODdheoJtdUBJmrSWwH29cf3U2zqdn&ll=36.663171%2C138.181906&z=17"
+  },
+  {
+    "id": "51i52394i",
+    "name": "兼六園弓道場",
+    "image": "https://image.xinu.ink/pic/data/573/images/51i52394i_1752046977164.jpg",
+    "geo": [
+      36.559,
+      136.6642
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dY1ODdheoJtdUBJmrSWwH29cf3U2zqdn&ll=36.559096%2C136.664245&z=17"
   }
 ]

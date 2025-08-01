@@ -2844,5 +2844,51 @@
       34.9115,
       135.8055
     ]
+  },
+  {
+    "id": "34e10am",
+    "name": "河原町通",
+    "image": "https://image.xinu.ink/pic/data/393/images/34e10am-1753806211120.jpg",
+    "ep": "14",
+    "s": "659",
+    "geo": [
+      35.0075,
+      135.769
+    ]
+  },
+  {
+    "id": "s8pg4fqk8",
+    "name": "飛び出し注意看板（加藤葉月）",
+    "image": "https://image.xinu.ink/pic/data/393/images/s8pg4fqk8-1753927734210.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      34.8899,
+      135.8021
+    ],
+    "originLink": "https://uji-joyo.goguynet.jp/2021/12/22/be-careful-of-popping-out-2/"
+  },
+  {
+    "id": "sffrvo228",
+    "name": "飛び出し注意看板（高坂麗奈）",
+    "image": "https://image.xinu.ink/pic/data/393/images/sffrvo228-1753927805805.jpg",
+    "ep": null,
+    "geo": [
+      34.9338,
+      135.8558
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2pbfrhy",
+    "cn": "羽户山绿地 附近",
+    "name": "羽戸山緑地 附近",
+    "image": "https://image.xinu.ink/pic/data/393/images/2pbfrhy-1752894807824.jpg",
+    "ep": null,
+    "geo": [
+      34.9064,
+      135.8113
+    ]
   }
 ]
