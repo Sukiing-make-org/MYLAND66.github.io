@@ -159,6 +159,36 @@
         34.68346,
         136.46551
       ]
+    },
+    {
+      "id": "6046-17",
+      "name": "セブン-イレブン 津市久居駅前店",
+      "image": "https://image.xinu.ink/pic/data/6046/images/6046-17.jpg",
+      "ep": "4",
+      "geo": [
+        34.67458,
+        136.47587
+      ]
+    },
+    {
+      "id": "6046-18",
+      "name": "市営久居駅 東口駐車場",
+      "image": "https://image.xinu.ink/pic/data/6046/images/6046-18.jpg",
+      "ep": "4",
+      "geo": [
+        34.67424,
+        136.47694
+      ]
+    },
+    {
+      "id": "6046-19",
+      "name": "御杖神社",
+      "image": "https://image.xinu.ink/pic/data/6046/images/6046-19.jpg",
+      "ep": "4",
+      "geo": [
+        34.49455,
+        136.19488
+      ]
     }
   ]
 }
