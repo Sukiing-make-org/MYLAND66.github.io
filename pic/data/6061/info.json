@@ -54,5 +54,9 @@
   "pointsLength": 5,
   "imagesLength": 5,
   "name": "夏日花火",
-  "local_id": 6061
+  "local_id": 6061,
+  "region": [
+    "中山区",
+    "西岗区"
+  ]
 }
