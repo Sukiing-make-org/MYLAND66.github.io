@@ -418594,7 +418594,7 @@
     "theme_color": "#7f6a95",
     "points": [
       {
-        "id": "6045-1",
+        "id": "iuk2aigf",
         "name": "天然温泉 久松湯",
         "image": "https://image.xinu.ink/pic/data/6045/images/6045-1.jpg",
         "ep": "1",
@@ -418604,7 +418604,7 @@
         ]
       },
       {
-        "id": "6045-2",
+        "id": "zpwrqcox",
         "name": "桜台の餃子家",
         "image": "https://image.xinu.ink/pic/data/6045/images/6045-2.jpg",
         "ep": "1",
@@ -418614,7 +418614,7 @@
         ]
       },
       {
-        "id": "6045-3",
+        "id": "q7w7qhss",
         "name": "すき家 氷川台駅前店",
         "image": "https://image.xinu.ink/pic/data/6045/images/6045-3.jpg",
         "ep": "1",
@@ -418624,7 +418624,7 @@
         ]
       },
       {
-        "id": "6045-4",
+        "id": "tmq89whj",
         "name": "ファミリーマート 氷川台店",
         "image": "https://image.xinu.ink/pic/data/6045/images/6045-4.jpg",
         "ep": "1",
@@ -418634,7 +418634,7 @@
         ]
       },
       {
-        "id": "6045-5",
+        "id": "8ps8sgg3",
         "name": "ヴェントゥーノ",
         "image": "https://image.xinu.ink/pic/data/6045/images/6045-5.jpg",
         "ep": "1",
@@ -418644,7 +418644,7 @@
         ]
       },
       {
-        "id": "6045-6",
+        "id": "fgmwggxw",
         "name": "松屋 氷川台店",
         "image": "https://image.xinu.ink/pic/data/6045/images/6045-6.jpg",
         "ep": "2",
@@ -418654,7 +418654,7 @@
         ]
       },
       {
-        "id": "6045-7",
+        "id": "qlo5bvt8",
         "name": "サイゼリヤ 氷川台駅前店",
         "image": "https://image.xinu.ink/pic/data/6045/images/6045-7.jpg",
         "ep": "2",
@@ -418664,7 +418664,7 @@
         ]
       },
       {
-        "id": "6045-8",
+        "id": "4tibo0v9",
         "name": "代官山GLAMS BBQ Lounge",
         "image": "https://image.xinu.ink/pic/data/6045/images/6045-8.jpg",
         "ep": "3",
@@ -418674,13 +418674,23 @@
         ]
       },
       {
-        "id": "6045-9",
+        "id": "lgsbu07l",
         "name": "代官山コミュニティルーム",
         "image": "https://image.xinu.ink/pic/data/6045/images/6045-9.jpg",
         "ep": "3",
         "geo": [
           35.64947,
           139.70397
+        ]
+      },
+      {
+        "id": "kjmh1q3s",
+        "name": "ミスタードーナツ 富士見台駅前ショップ",
+        "image": "https://image.xinu.ink/pic/data/6045/images/6045-10.jpg",
+        "ep": "5",
+        "geo": [
+          35.73556,
+          139.62943
         ]
       }
     ],
