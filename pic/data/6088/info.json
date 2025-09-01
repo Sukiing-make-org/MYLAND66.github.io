@@ -1,0 +1,45 @@
+{
+  "id": 524123,
+  "cn": "阳光马达棒球场！",
+  "title": "ボールパークでつかまえて！",
+  "cover": "https://image.xinu.ink/pic/data/6088/images/524123_5Pwit.jpg",
+  "cp": "ボールパークでつかまえて！",
+  "modified": 1754630250603,
+  "litePoints": [
+    {
+      "id": "3h68atp",
+      "name": "ZOZOマリンスタジアム",
+      "image": "https://image.anitabi.cn/user/0/bangumi/524123/points/3h68atp-1754579145426.jpg?plan=h160",
+      "ep": 12,
+      "geo": [
+        35.6461,
+        140.0318
+      ]
+    },
+    {
+      "id": "3h6jvau",
+      "name": "海浜幕張駅北口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/524123/points/3h6jvau-1754579659103.jpg?plan=h160",
+      "ep": 11,
+      "geo": [
+        35.6487,
+        140.0419
+      ]
+    },
+    {
+      "id": "3h7p5sv",
+      "name": "さくら広場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/524123/points/3h7p5sv-1754581585369.jpg?plan=h160",
+      "ep": 12,
+      "geo": [
+        35.6594,
+        140.0237
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "name": "ボールパークでつかまえて！",
+  "name_cn": "阳光马达棒球场！",
+  "local_id": 6088
+}

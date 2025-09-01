@@ -2497,5 +2497,45 @@
     ],
     "origin": "Anitabi@Lilin",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3cq2tt1",
+    "cn": "新干线车内",
+    "name": "新幹線車内",
+    "image": "https://image.xinu.ink/pic/data/873/images/3cq2tt1_1754310098129.jpg",
+    "ep": 1,
+    "s": 23,
+    "geo": [
+      35.6826,
+      139.7689
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3cq7dgf",
+    "name": "武道館",
+    "image": "https://image.xinu.ink/pic/data/873/images/3cq7dgf_1754310310778.jpg",
+    "ep": "OP",
+    "s": 188,
+    "geo": [
+      35.6933,
+      139.7498
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3cql1aw",
+    "name": "ラゾーナ川崎プラザ 2階入口",
+    "image": "https://image.xinu.ink/pic/data/873/images/3cql1aw_1754310946977.jpg",
+    "ep": 1,
+    "s": 1256,
+    "geo": [
+      35.532,
+      139.6962
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
   }
 ]

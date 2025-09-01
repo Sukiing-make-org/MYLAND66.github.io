@@ -1,0 +1,39 @@
+{
+  "id": 414459,
+  "title": "我在终点线等你",
+  "cover": "https://image.xinu.ink/pic/data/6083/images/414459.jpg",
+  "color": "#272332",
+  "geo": [
+    36.06103444980357,
+    120.30546335843269
+  ],
+  "zoom": 14.369,
+  "modified": 1754092306912,
+  "litePoints": [
+    {
+      "id": "38ettsm",
+      "cn": "青岛站",
+      "name": "青岛站",
+      "image": "https://image.anitabi.cn/user/0/bangumi/414459/points/38ettsm-1754050866236.jpg?plan=h160",
+      "geo": [
+        36.0633,
+        120.309
+      ]
+    },
+    {
+      "id": "38ge0l3",
+      "cn": "青岛第一中学",
+      "name": "青岛第一中学",
+      "image": "https://image.anitabi.cn/user/0/bangumi/414459/points/38ge0l3-1754052013943.jpg?plan=h160",
+      "geo": [
+        36.0587,
+        120.3018
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "name": "我在终点线等你",
+  "theme_color": "#272332",
+  "local_id": 6083
+}

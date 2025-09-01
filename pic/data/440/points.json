@@ -220,5 +220,71 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1dAoFpnYQj7xxSV9aJZRj6k0Mpfk&ll=35.285404%2C139.69588&z=17"
+  },
+  {
+    "id": "3wu9kn2",
+    "name": "ヴェルニー公園",
+    "image": "https://image.xinu.ink/pic/data/440/images/3wu9kn2-1755526553459.jpg",
+    "ep": "13",
+    "s": "65",
+    "geo": [
+      35.2835,
+      139.659
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dAoFpnYQj7xxSV9aJZRj6k0Mpfk&ll=35.283503%2C139.659087&z=17"
+  },
+  {
+    "id": "3wwehqi",
+    "name": "モアイ＆カピー",
+    "image": "https://image.xinu.ink/pic/data/440/images/3wwehqi-1755530070291.jpg",
+    "ep": "13",
+    "s": "869.5",
+    "geo": [
+      35.2807,
+      139.6631
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dAoFpnYQj7xxSV9aJZRj6k0Mpfk&ll=35.280735%2C139.663125&z=17"
+  },
+  {
+    "id": "3wvxxbb",
+    "name": "さかくら総本家 横須賀中央駅前店",
+    "image": "https://image.xinu.ink/pic/data/440/images/3wvxxbb-1755530181948.jpg",
+    "ep": "13",
+    "s": "406.4",
+    "geo": [
+      35.2785,
+      139.6709
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dAoFpnYQj7xxSV9aJZRj6k0Mpfk&ll=35.278571%2C139.670987&z=17"
+  },
+  {
+    "id": "3wt0lxl",
+    "cn": "衣笠山公园展望台",
+    "name": "衣笠山公園展望台",
+    "image": "https://image.xinu.ink/pic/data/440/images/3wt0lxl-1755524453595.jpg",
+    "ep": "13",
+    "s": "715.4",
+    "geo": [
+      35.2497,
+      139.6568
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dAoFpnYQj7xxSV9aJZRj6k0Mpfk&ll=35.24972%2C139.65689&z=17"
+  },
+  {
+    "id": "3yafj7v",
+    "name": "ヨコスカシェル",
+    "image": "https://image.xinu.ink/pic/data/440/images/3yafj7v-1755614230614.jpg",
+    "ep": "13",
+    "s": "19:51",
+    "geo": [
+      35.2818,
+      139.6674
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1dAoFpnYQj7xxSV9aJZRj6k0Mpfk&ll=35.281822%2C139.66748&z=17"
   }
 ]

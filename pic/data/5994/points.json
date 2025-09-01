@@ -271,5 +271,150 @@
     ],
     "origin": "Anitabi@Niamos!",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3wy1q9i",
+    "name": "羽村駅",
+    "image": "https://image.xinu.ink/pic/data/5994/images/3wy1q9i-1755533018976.jpg",
+    "ep": 1,
+    "s": 1347,
+    "geo": [
+      35.7588,
+      139.3157
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3wydwom",
+    "name": "鷺ノ宮駅",
+    "image": "https://image.xinu.ink/pic/data/5994/images/3wydwom-1755533399424.jpg",
+    "ep": 10,
+    "s": 397,
+    "geo": [
+      35.7224,
+      139.6379
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3wyrbde",
+    "name": "社橋",
+    "image": "https://image.xinu.ink/pic/data/5994/images/3wyrbde-1755534004457.jpg",
+    "ep": 8,
+    "s": 765,
+    "geo": [
+      35.7085,
+      139.6059
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3wyxmfp",
+    "cn": "星巴克荻窪店门前",
+    "name": "スターバックス コーヒー ルミネ荻窪店",
+    "image": "https://image.xinu.ink/pic/data/5994/images/3wyxmfp-1755534314927.jpg",
+    "ep": 11,
+    "s": 551,
+    "geo": [
+      35.7047,
+      139.6196
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3wz3yzh",
+    "name": "イナズマ カフェ前",
+    "image": "https://image.xinu.ink/pic/data/5994/images/3wz3yzh-1755534598883.jpg",
+    "ep": 8,
+    "s": 773,
+    "geo": [
+      35.7069,
+      139.6199
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3wz77vd",
+    "name": "杉並公会堂前",
+    "image": "https://image.xinu.ink/pic/data/5994/images/3wz77vd-1755534774376.jpg",
+    "ep": 8,
+    "s": 791,
+    "geo": [
+      35.7071,
+      139.6164
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3ydyhdb",
+    "name": "荻窪地下道",
+    "image": "https://image.xinu.ink/pic/data/5994/images/3ydyhdb-1755620274391.jpg",
+    "ep": "6",
+    "s": "1054",
+    "geo": [
+      35.7046,
+      139.6222
+    ]
+  },
+  {
+    "id": "43xpemn",
+    "name": "堀切站前立交桥",
+    "image": "https://image.xinu.ink/pic/data/5994/images/43xpemn-1755955563658.jpg",
+    "ep": "8",
+    "s": "1451",
+    "geo": [
+      35.7428,
+      139.8177
+    ]
+  },
+  {
+    "id": "43ygau9",
+    "name": "中野四季の森公園",
+    "image": "https://image.xinu.ink/pic/data/5994/images/43ygau9-1755956749249.jpg",
+    "ep": "8",
+    "s": "1213",
+    "geo": [
+      35.7079,
+      139.6601
+    ]
+  },
+  {
+    "id": "43yvi6c",
+    "name": "中野駅",
+    "image": "https://image.xinu.ink/pic/data/5994/images/43yvi6c-1755957470633.jpg",
+    "ep": "8",
+    "s": "855",
+    "geo": [
+      35.7061,
+      139.6661
+    ]
+  },
+  {
+    "id": "43z9ypa",
+    "name": "上井草駅",
+    "image": "https://image.xinu.ink/pic/data/5994/images/43z9ypa-1755958138292.jpg",
+    "ep": "2",
+    "s": "879",
+    "geo": [
+      35.725,
+      139.6035
+    ]
+  },
+  {
+    "id": "43zjceh",
+    "name": "セブン-イレブン 西国分寺駅南口店",
+    "image": "https://image.xinu.ink/pic/data/5994/images/43zjceh-1755958578406.jpg",
+    "ep": "9",
+    "s": "1243",
+    "geo": [
+      35.6985,
+      139.4657
+    ]
   }
 ]

@@ -251,5 +251,17 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1tp7aSvKbrzTP2AGawYT2MiZNxJTbEdM&ll=34.758251%2C135.350491&z=17"
+  },
+  {
+    "id": "8f845454",
+    "name": "長崎港ターミナル前",
+    "image": "https://image.xinu.ink/pic/data/844/images/8f845454-1753960103443.jpg",
+    "ep": null,
+    "geo": [
+      32.7454,
+      129.8683
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tp7aSvKbrzTP2AGawYT2MiZNxJTbEdM&ll=32.745434%2C129.868374&z=17"
   }
 ]

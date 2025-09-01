@@ -34,5 +34,137 @@
       35.6912,
       140.0205
     ]
+  },
+  {
+    "id": "3nn9cu0",
+    "name": "万世橋交差点",
+    "image": "https://image.xinu.ink/pic/data/508/images/3nn9cu0_1754970523810.jpg",
+    "ep": 1,
+    "geo": [
+      35.6975,
+      139.7711
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3nnczea",
+    "name": "万世橋駅＆昌平橋",
+    "image": "https://image.xinu.ink/pic/data/508/images/3nnczea_1754970797880.jpg",
+    "ep": 1,
+    "geo": [
+      35.6972,
+      139.7707
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3nnisw1",
+    "name": "芳林公園",
+    "image": "https://image.xinu.ink/pic/data/508/images/3nnisw1_1754971045411.jpg",
+    "ep": 1,
+    "geo": [
+      35.7018,
+      139.7699
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3nnoizd",
+    "name": "オノデン本館前",
+    "image": "https://image.xinu.ink/pic/data/508/images/3nnoizd_1754971219031.jpg",
+    "ep": 1,
+    "geo": [
+      35.6986,
+      139.7711
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3nntvr5",
+    "name": "アマチュア​無線​本館",
+    "image": "https://image.xinu.ink/pic/data/508/images/3nntvr5_1754971458626.jpg",
+    "ep": 1,
+    "geo": [
+      35.6986,
+      139.7701
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3nnvm1b",
+    "name": "タイトー​ステーション秋葉原店",
+    "image": "https://image.xinu.ink/pic/data/508/images/3nnvm1b_1754971546370.jpg",
+    "ep": 1,
+    "geo": [
+      35.7002,
+      139.7717
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3npbikz",
+    "name": "新宿大ガード西",
+    "image": "https://image.xinu.ink/pic/data/508/images/3npbikz_1754973964057.jpg",
+    "ep": 8,
+    "geo": [
+      35.6936,
+      139.6993
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3npds48",
+    "name": "Suicaのペンギン広場のテラス付近",
+    "image": "https://image.xinu.ink/pic/data/508/images/3npds48_1754974510015.jpg",
+    "ep": 8,
+    "geo": [
+      35.688,
+      139.7008
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3npf7an",
+    "name": "Suicaのペンギンの像",
+    "image": "https://image.xinu.ink/pic/data/508/images/3npf7an_1754974504505.jpg",
+    "ep": 8,
+    "geo": [
+      35.6881,
+      139.701
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3nplokl",
+    "name": "イーストデッキ（高島屋前の橋）",
+    "image": "https://image.xinu.ink/pic/data/508/images/3nplokl_1754974436498.jpg",
+    "ep": 8,
+    "geo": [
+      35.6868,
+      139.7009
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3npzfx2",
+    "name": "新宿サザンテラス小道",
+    "image": "https://image.xinu.ink/pic/data/508/images/3npzfx2_1754975095746.jpg",
+    "ep": 8,
+    "geo": [
+      35.6874,
+      139.7003
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
   }
 ]

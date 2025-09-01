@@ -61,5 +61,120 @@
     ],
     "origin": "Anitabi@pshow",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "46rcnvl",
+    "name": "海女の小屋 海上亭",
+    "image": "https://image.xinu.ink/pic/data/586/images/46rcnvl-1756126268762.jpg",
+    "ep": "1",
+    "s": "18",
+    "geo": [
+      34.9533,
+      139.1315
+    ],
+    "origin": "Anitabi@suichan1oshi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "46rweou",
+    "name": "川奈区民会館前",
+    "image": "https://image.xinu.ink/pic/data/586/images/46rweou-1756127156311.jpg",
+    "ep": "1",
+    "s": "237",
+    "geo": [
+      34.9521,
+      139.1321
+    ],
+    "origin": "Anitabi@suichan1oshi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "46rycxr",
+    "name": "川奈のビーチエントリー場所",
+    "image": "https://image.xinu.ink/pic/data/586/images/46rycxr-1756127959150.jpg",
+    "ep": "6",
+    "s": "1187",
+    "geo": [
+      34.9523,
+      139.1353
+    ],
+    "origin": "Anitabi@suichan1oshi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "46sjwuz",
+    "name": "沖縄美ら海水族館　黒潮の海",
+    "image": "https://image.xinu.ink/pic/data/586/images/46sjwuz-1756128244905.jpg",
+    "ep": "2",
+    "s": "1203",
+    "geo": [
+      26.6945,
+      127.8781
+    ],
+    "origin": "Anitabi@suichan1oshi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "46sns5m",
+    "name": "川奈ホテル",
+    "image": "https://image.xinu.ink/pic/data/586/images/46sns5m-1756128427218.jpg",
+    "ep": "4",
+    "s": "4",
+    "geo": [
+      34.9395,
+      139.1405
+    ],
+    "origin": "Anitabi@suichan1oshi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "46t0xud",
+    "name": "まるげん",
+    "image": "https://image.xinu.ink/pic/data/586/images/46t0xud-1756129075212.jpg",
+    "ep": "5",
+    "s": "1240",
+    "geo": [
+      34.9726,
+      139.0938
+    ],
+    "origin": "Anitabi@suichan1oshi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "46tde75",
+    "name": "オアシスダイビングサービス",
+    "image": "https://image.xinu.ink/pic/data/586/images/46tde75-1756129634371.jpg",
+    "ep": "3",
+    "s": "755",
+    "geo": [
+      34.9525,
+      139.1362
+    ],
+    "origin": "Anitabi@suichan1oshi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "46utyqf",
+    "name": "Beach Side House Miyakojima",
+    "image": "https://image.xinu.ink/pic/data/586/images/46utyqf-1756132660106.jpg",
+    "ep": "10",
+    "s": "210",
+    "geo": [
+      24.8319,
+      125.2788
+    ],
+    "origin": "Anitabi@suichan1oshi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3nkwtbr",
+    "cn": "川奈站",
+    "name": "川奈站",
+    "image": "https://image.xinu.ink/pic/data/586/images/3nkwtbr-1754966603802.jpg",
+    "ep": null,
+    "geo": [
+      34.951,
+      139.1236
+    ]
   }
 ]

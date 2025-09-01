@@ -1,0 +1,98 @@
+{
+  "id": 507209,
+  "cn": "怠工之夏",
+  "title": "サボタージュ・サマー",
+  "city": "井原市",
+  "cover": "https://image.xinu.ink/pic/data/6085/images/507209_aoBek.jpg",
+  "modified": 1754163426196,
+  "litePoints": [
+    {
+      "id": "3a4pbzk",
+      "cn": "出部站西北",
+      "name": "いずえ",
+      "image": "https://image.anitabi.cn/points/507209/3a4pbzk_1754153292819.jpg?plan=h160",
+      "geo": [
+        34.5881,
+        133.45
+      ]
+    },
+    {
+      "id": "3a4p5x4",
+      "cn": "出部站",
+      "name": "いずえ",
+      "image": "https://image.anitabi.cn/points/507209/3a4p5x4_1754153433689.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        34.5879,
+        133.4507
+      ]
+    },
+    {
+      "id": "3a4yvo0",
+      "cn": "出部站 南出口",
+      "name": "いずえ",
+      "image": "https://image.anitabi.cn/points/507209/3a4yvo0_1754153864717.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        34.5878,
+        133.4507
+      ]
+    },
+    {
+      "id": "3a9fskx",
+      "cn": "井原大桥东",
+      "name": 5,
+      "image": "https://image.anitabi.cn/points/507209/3a9fskx_1754161249963.jpg?plan=h160",
+      "geo": [
+        34.5987,
+        133.4723
+      ]
+    },
+    {
+      "id": "3a9thv5",
+      "cn": "Halows Ibara",
+      "name": "ハローズ 井原店",
+      "image": "https://image.anitabi.cn/points/507209/3a9thv5_1754161890066.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        34.599,
+        133.4622
+      ]
+    },
+    {
+      "id": "3a9xees",
+      "name": "ロマンチック街道313",
+      "image": "https://image.anitabi.cn/points/507209/3a9xees_1754162055533.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        34.5995,
+        133.462
+      ]
+    },
+    {
+      "id": "3aa9d68",
+      "name": "笠岡ベイファーム花畑",
+      "image": "https://image.anitabi.cn/points/507209/3aa9d68_1754162616266.jpg?plan=h160",
+      "geo": [
+        34.4719,
+        133.497
+      ]
+    },
+    {
+      "id": "3aakve5",
+      "cn": "美星天文台附近",
+      "name": "Chusei Yumegahara",
+      "image": "https://image.anitabi.cn/points/507209/3aakve5_1754163301379.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        34.6743,
+        133.5398
+      ]
+    }
+  ],
+  "pointsLength": 11,
+  "imagesLength": 11,
+  "name": "サボタージュ・サマー",
+  "name_cn": "怠工之夏",
+  "local_id": 6085
+}

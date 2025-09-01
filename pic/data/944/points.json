@@ -1849,5 +1849,46 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "25pwdlj",
+    "name": "都立大 南門",
+    "image": "https://image.xinu.ink/pic/data/944/images/25pwdlj_1751709840342_c16v9.jpg",
+    "ep": 12,
+    "s": 1384,
+    "geo": [
+      35.6163,
+      139.378
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3jhhrvd",
+    "cn": "阶梯",
+    "name": "阶梯",
+    "image": "https://image.xinu.ink/pic/data/944/images/3jhhrvd_1754718997304_c16v9.jpg",
+    "ep": 12,
+    "s": 1005,
+    "geo": [
+      35.6355,
+      139.2947
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3jgxqsi",
+    "cn": "御灵神社 御手洗",
+    "name": "御霊神社",
+    "image": "https://image.xinu.ink/pic/data/944/images/3jgxqsi_1754718300224_c16v9.jpg",
+    "ep": 12,
+    "s": 1041,
+    "geo": [
+      35.6347,
+      139.2932
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
   }
 ]

@@ -812,5 +812,94 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1fWVlM9AZxCs74cCorPFHB3KZdTc&ll=34.217121%2C133.054084&z=17"
+  },
+  {
+    "id": "51i53g61n",
+    "name": "撮影地点",
+    "image": "https://image.xinu.ink/pic/data/419/images/51i53g61n-1755264639769.jpg",
+    "ep": "2",
+    "geo": [
+      35.2115,
+      139.7107
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1fWVlM9AZxCs74cCorPFHB3KZdTc&ll=35.21158%2C139.71071&z=17"
+  },
+  {
+    "id": "51i53fwx2",
+    "name": "日本国道最高地点",
+    "image": "https://image.xinu.ink/pic/data/419/images/51i53fwx2_1754648994023.jpg",
+    "geo": [
+      36.6607,
+      138.5353
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1fWVlM9AZxCs74cCorPFHB3KZdTc&ll=36.660768%2C138.535312&z=17"
+  },
+  {
+    "id": "51i53fx2b",
+    "name": "双龍",
+    "image": "https://image.xinu.ink/pic/data/419/images/51i53fx2b_1754649013889.jpg",
+    "geo": [
+      35.497,
+      139.4052
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1fWVlM9AZxCs74cCorPFHB3KZdTc&ll=35.497052%2C139.405217&z=17"
+  },
+  {
+    "id": "51i53g4e1",
+    "name": "マクドナルド駒沢大学店",
+    "image": "https://image.xinu.ink/pic/data/419/images/51i53g4e1_1754649179449.jpg",
+    "geo": [
+      35.6328,
+      139.6611
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1fWVlM9AZxCs74cCorPFHB3KZdTc&ll=35.63285%2C139.661165&z=17"
+  },
+  {
+    "id": "51i53g4m7",
+    "name": "浦賀駅",
+    "image": "https://image.xinu.ink/pic/data/419/images/51i53g4m7_1754649198316.jpg",
+    "geo": [
+      35.2505,
+      139.715
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1fWVlM9AZxCs74cCorPFHB3KZdTc&ll=35.25053%2C139.715079&z=17"
+  },
+  {
+    "id": "51i53g4pg",
+    "name": "208号線",
+    "image": "https://image.xinu.ink/pic/data/419/images/51i53g4pg_1754649227145.jpg",
+    "geo": [
+      35.25,
+      139.715
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1fWVlM9AZxCs74cCorPFHB3KZdTc&ll=35.250044%2C139.715053&z=17"
+  },
+  {
+    "id": "51i53g6fb",
+    "name": "ミニストップ看板",
+    "image": "https://image.xinu.ink/pic/data/419/images/51i53g6fb_1754649266600.jpg",
+    "geo": [
+      35.2429,
+      139.7183
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1fWVlM9AZxCs74cCorPFHB3KZdTc&ll=35.242977%2C139.718362&z=17"
+  },
+  {
+    "id": "51i53g70t",
+    "name": "三浦市総合福祉センター前",
+    "image": "https://image.xinu.ink/pic/data/419/images/51i53g70t_1754649584818.jpg",
+    "geo": [
+      35.1658,
+      139.6426
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1fWVlM9AZxCs74cCorPFHB3KZdTc&ll=35.165882%2C139.642697&z=17"
   }
 ]

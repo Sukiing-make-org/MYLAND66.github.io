@@ -1,0 +1,67 @@
+{
+  "id": 323154,
+  "cn": "Happy live show up!",
+  "title": "ハッピーライヴ ショウアップ！",
+  "city": "海外",
+  "cover": "https://image.xinu.ink/pic/data/6081/images/323154_uzuzt7fjs.jpg",
+  "color": "#ffaa55",
+  "modified": 1755184523723,
+  "litePoints": [
+    {
+      "id": "3qppgg8",
+      "cn": "列宁格勒火车站",
+      "name": "Ленинградский вокзал",
+      "image": "https://image.anitabi.cn/user/0/bangumi/323154/points/3qppgg8-1755156120063.jpg?plan=h160",
+      "geo": [
+        55.7763,
+        37.6578
+      ]
+    },
+    {
+      "id": "3qpzo15",
+      "cn": "莫斯科四季酒店",
+      "name": "Four Seasons Hotel Moscow",
+      "image": "https://image.anitabi.cn/user/0/bangumi/323154/points/3qpzo15-1755156487758.jpg?plan=h160",
+      "geo": [
+        55.7567,
+        37.6164
+      ]
+    },
+    {
+      "id": "3qq5r87",
+      "cn": "耶稣升天教堂",
+      "name": "Церковь Вознесения Господня",
+      "image": "https://image.anitabi.cn/user/0/bangumi/323154/points/3qq5r87-1755156830224.jpg?plan=h160",
+      "geo": [
+        55.6673,
+        37.6707
+      ]
+    },
+    {
+      "id": "3qqb2lt",
+      "cn": "莫斯科国际贸易银行大楼",
+      "name": "Здание Московского международного торгового банка",
+      "image": "https://image.anitabi.cn/user/0/bangumi/323154/points/3qqb2lt-1755157101716.jpg?plan=h160",
+      "geo": [
+        55.7621,
+        37.6253
+      ]
+    },
+    {
+      "id": "3qqfb6b",
+      "cn": "古姆百货",
+      "name": "ГУМ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/323154/points/3qqfb6b-1755157275479.jpg?plan=h160",
+      "geo": [
+        55.7553,
+        37.6201
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "name": "ハッピーライヴ ショウアップ！",
+  "name_cn": "Happy live show up!",
+  "theme_color": "#ffaa55",
+  "local_id": 6081
+}

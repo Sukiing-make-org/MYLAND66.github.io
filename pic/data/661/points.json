@@ -1173,5 +1173,70 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1ynumGPIQvUI_yQJRcnUq7yL_kyXuGwY&ll=35.437175%2C136.716923&z=17"
+  },
+  {
+    "id": "3bhd03t",
+    "name": "名古屋駅 桜通口",
+    "image": "https://image.xinu.ink/pic/data/661/images/3bhd03t-1754235313703.jpg",
+    "ep": 9,
+    "s": 968,
+    "geo": [
+      35.1708,
+      136.8832
+    ],
+    "originLink": "https://www.google.com/maps/@35.1709255,136.8833843,2a,54.1y,157.82h,85.87t/data=!3m7!1e1!3m5!1s400LoMy-VRJlSozSe-iMxA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.129559655251413%26panoid%3D400LoMy-VRJlSozSe-iMxA%26yaw%3D157.8152749703844!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": "3pzgn42",
+    "name": "鞍掛神社",
+    "image": "https://image.xinu.ink/pic/data/661/images/3pzgn42-1755111942620.jpg",
+    "ep": 3,
+    "s": 372,
+    "geo": [
+      35.4544,
+      136.6796
+    ],
+    "origin": "Anitabi@小funny",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3q02id2",
+    "name": "川部公園",
+    "image": "https://image.xinu.ink/pic/data/661/images/3q02id2-1755112943873.jpg",
+    "ep": 4,
+    "s": 1242,
+    "geo": [
+      35.441,
+      136.707
+    ],
+    "origin": "Anitabi@小funny",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3q04ewj",
+    "name": "岐阜尻毛郵便局",
+    "image": "https://image.xinu.ink/pic/data/661/images/3q04ewj-1755113050097.jpg",
+    "ep": 4,
+    "s": 970,
+    "geo": [
+      35.4373,
+      136.7156
+    ],
+    "origin": "Anitabi@小funny",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4bae0l6",
+    "cn": "JR东海道线 车内",
+    "name": "JR東海道本線 車内",
+    "image": "https://image.xinu.ink/pic/data/661/images/4bae0l6-1756400067029.jpg",
+    "ep": 9,
+    "s": 468,
+    "geo": [
+      35.367,
+      136.6199
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
   }
 ]

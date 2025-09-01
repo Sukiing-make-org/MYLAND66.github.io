@@ -31,5 +31,83 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1RFkyA8UMYhikLp8Lcnkk897pC3pADhE&ll=34.843701%2C136.539492&z=17"
+  },
+  {
+    "id": "ko3gyodw9",
+    "name": "三宅島",
+    "image": "https://image.xinu.ink/pic/data/557/images/ko3gyodw9_1754646101944.jpg",
+    "ep": 1,
+    "geo": [
+      34.0788,
+      139.5178
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1RFkyA8UMYhikLp8Lcnkk897pC3pADhE&ll=34.078842%2C139.517819&z=17"
+  },
+  {
+    "id": "ko3gyoduj",
+    "name": "三宅島警察署 阿古駐在所",
+    "image": "https://image.xinu.ink/pic/data/557/images/ko3gyoduj_1754646308878.jpg",
+    "geo": [
+      34.0714,
+      139.4807
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1RFkyA8UMYhikLp8Lcnkk897pC3pADhE&ll=34.071467%2C139.480781&z=17"
+  },
+  {
+    "id": "ko3gyodww",
+    "name": "ヤマノベ旅館",
+    "image": "https://image.xinu.ink/pic/data/557/images/ko3gyodww_1754646535515.jpg",
+    "geo": [
+      34.0614,
+      139.4873
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1RFkyA8UMYhikLp8Lcnkk897pC3pADhE&ll=34.061437%2C139.487345&z=17"
+  },
+  {
+    "id": "ko3gyodj6",
+    "name": "三宅島一周道路",
+    "image": "https://image.xinu.ink/pic/data/557/images/ko3gyodj6_1754646659575.jpg",
+    "geo": [
+      34.0616,
+      139.4853
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1RFkyA8UMYhikLp8Lcnkk897pC3pADhE&ll=34.061618%2C139.485304&z=17"
+  },
+  {
+    "id": "ko3gyodg0",
+    "name": "三宅島TTのスタート地点",
+    "image": "https://image.xinu.ink/pic/data/557/images/ko3gyodg0_1754646577288.jpg",
+    "geo": [
+      34.0486,
+      139.5032
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1RFkyA8UMYhikLp8Lcnkk897pC3pADhE&ll=34.048633%2C139.503282&z=17"
+  },
+  {
+    "id": "ko3gyodpm",
+    "name": "迷子椎",
+    "image": "https://image.xinu.ink/pic/data/557/images/ko3gyodpm_1754646287416.jpg",
+    "geo": [
+      34.0562,
+      139.5228
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1RFkyA8UMYhikLp8Lcnkk897pC3pADhE&ll=34.056232%2C139.522817&z=17"
+  },
+  {
+    "id": "ko3qiowgy",
+    "name": "赤場暁橋",
+    "image": "https://image.xinu.ink/pic/data/557/images/ko3qiowgy_1754646247877.jpg",
+    "geo": [
+      34.1053,
+      139.5589
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1RFkyA8UMYhikLp8Lcnkk897pC3pADhE&ll=34.105348%2C139.558923&z=17"
   }
 ]

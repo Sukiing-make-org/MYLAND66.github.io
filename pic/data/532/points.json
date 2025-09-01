@@ -1235,5 +1235,45 @@
     ],
     "origin": "Anitabi@Niamos!",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3clmcqn",
+    "name": "上野駅 広小路口 喫煙所",
+    "image": "https://image.xinu.ink/pic/data/532/images/3clmcqn_1754302611733.jpg",
+    "ep": 4,
+    "s": 727,
+    "geo": [
+      35.7116,
+      139.7762
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3cj88qo",
+    "cn": "东京站 19号线站台",
+    "name": "東京駅 19番線フォーム",
+    "image": "https://image.xinu.ink/pic/data/532/images/3cj88qo_1754298593162.jpg",
+    "ep": 6,
+    "s": 902,
+    "geo": [
+      35.6826,
+      139.7688
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3co1zl3",
+    "name": "赤羽橋",
+    "image": "https://image.xinu.ink/pic/data/532/images/3co1zl3_1754306699805.jpg",
+    "ep": "剧场版 ",
+    "s": 5103,
+    "geo": [
+      35.6549,
+      139.7454
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
   }
 ]

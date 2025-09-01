@@ -10,5 +10,225 @@
       34.9855,
       139.0945
     ]
+  },
+  {
+    "id": "0e63983c",
+    "name": "家康の湯",
+    "image": "https://image.xinu.ink/pic/data/445/images/0e63983c_1755762253834.jpg",
+    "geo": [
+      35.1034,
+      139.0783
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=165lx4YaGFvmLRLf1lK1Jy-dW1n8Y3ebL&ll=35.103478%2C139.078369&z=17"
+  },
+  {
+    "id": "6061050d",
+    "name": "熱海親水公園",
+    "image": "https://image.xinu.ink/pic/data/445/images/6061050d_1755760591315.jpg",
+    "geo": [
+      35.0952,
+      139.0757
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=165lx4YaGFvmLRLf1lK1Jy-dW1n8Y3ebL&ll=35.095299%2C139.075748&z=17"
+  },
+  {
+    "id": "f75b651d",
+    "name": "欧風レストラン クレール",
+    "image": "https://image.xinu.ink/pic/data/445/images/f75b651d_1755762895867.jpg",
+    "geo": [
+      35.0967,
+      139.0751
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=165lx4YaGFvmLRLf1lK1Jy-dW1n8Y3ebL&ll=35.09677%2C139.075136&z=17"
+  },
+  {
+    "id": "58da1780",
+    "name": "熱海商工会議所",
+    "image": "https://image.xinu.ink/pic/data/445/images/58da1780_1755761741064.jpg",
+    "geo": [
+      35.0961,
+      139.0747
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=165lx4YaGFvmLRLf1lK1Jy-dW1n8Y3ebL&ll=35.096165%2C139.074707&z=17"
+  },
+  {
+    "id": "2ea0cbee",
+    "name": "熱海銀座商店街",
+    "image": "https://image.xinu.ink/pic/data/445/images/2ea0cbee_1755761851842.jpg",
+    "geo": [
+      35.0963,
+      139.0743
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=165lx4YaGFvmLRLf1lK1Jy-dW1n8Y3ebL&ll=35.096377%2C139.074346&z=17"
+  },
+  {
+    "id": "55fd5a6c",
+    "name": "本町商店街（バス）",
+    "image": "https://image.xinu.ink/pic/data/445/images/55fd5a6c_1755761910338.jpg",
+    "geo": [
+      35.0966,
+      139.0725
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=165lx4YaGFvmLRLf1lK1Jy-dW1n8Y3ebL&ll=35.096611%2C139.072542&z=17"
+  },
+  {
+    "id": "d16fe92c",
+    "name": "道の駅 伊東マリンタウン",
+    "image": "https://image.xinu.ink/pic/data/445/images/d16fe92c_1755763288201.jpg",
+    "geo": [
+      34.9856,
+      139.094
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=165lx4YaGFvmLRLf1lK1Jy-dW1n8Y3ebL&ll=34.985659%2C139.094097&z=17"
+  },
+  {
+    "id": "f296a383",
+    "name": "伊東オレンジビーチ",
+    "image": "https://image.xinu.ink/pic/data/445/images/f296a383_1755762227482.jpg",
+    "geo": [
+      34.9755,
+      139.0961
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=165lx4YaGFvmLRLf1lK1Jy-dW1n8Y3ebL&ll=34.975556%2C139.096111&z=17"
+  },
+  {
+    "id": "906188b7",
+    "name": "伊東駅",
+    "image": "https://image.xinu.ink/pic/data/445/images/906188b7_1755760774522.jpg",
+    "geo": [
+      34.9746,
+      139.0922
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=165lx4YaGFvmLRLf1lK1Jy-dW1n8Y3ebL&ll=34.97461%2C139.092218&z=17"
+  },
+  {
+    "id": "f9157c5c",
+    "name": "東海館",
+    "image": "https://image.xinu.ink/pic/data/445/images/f9157c5c_1755761080571.jpg",
+    "geo": [
+      34.9716,
+      139.097
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=165lx4YaGFvmLRLf1lK1Jy-dW1n8Y3ebL&ll=34.971687%2C139.097&z=17"
+  },
+  {
+    "id": "d1cb1572",
+    "name": "八幡神社",
+    "image": "https://image.xinu.ink/pic/data/445/images/d1cb1572_1755761053250.jpg",
+    "geo": [
+      34.9709,
+      139.0987
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=165lx4YaGFvmLRLf1lK1Jy-dW1n8Y3ebL&ll=34.970939%2C139.098706&z=17"
+  },
+  {
+    "id": "55cc1e83",
+    "name": "なぎさ公園",
+    "image": "https://image.xinu.ink/pic/data/445/images/55cc1e83_1755761108825.jpg",
+    "geo": [
+      34.9729,
+      139.1004
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=165lx4YaGFvmLRLf1lK1Jy-dW1n8Y3ebL&ll=34.972901%2C139.10046&z=17"
+  },
+  {
+    "id": "6bc56db1",
+    "name": "汐吹公園",
+    "image": "https://image.xinu.ink/pic/data/445/images/6bc56db1_1755761200465.jpg",
+    "geo": [
+      34.9686,
+      139.1278
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=165lx4YaGFvmLRLf1lK1Jy-dW1n8Y3ebL&ll=34.968666%2C139.127863&z=17"
+  },
+  {
+    "id": "933c028c",
+    "name": "海女の小屋海上亭",
+    "image": "https://image.xinu.ink/pic/data/445/images/933c028c_1755761374515.jpg",
+    "geo": [
+      34.9538,
+      139.1312
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=165lx4YaGFvmLRLf1lK1Jy-dW1n8Y3ebL&ll=34.953837%2C139.131252&z=17"
+  },
+  {
+    "id": "b612ece2",
+    "name": "新井神社",
+    "image": "https://image.xinu.ink/pic/data/445/images/b612ece2_1755761175825.jpg",
+    "geo": [
+      34.9707,
+      139.1093
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=165lx4YaGFvmLRLf1lK1Jy-dW1n8Y3ebL&ll=34.970751%2C139.109322&z=17"
+  },
+  {
+    "id": "726ea7de",
+    "name": "和むら",
+    "image": "https://image.xinu.ink/pic/data/445/images/726ea7de_1755761385499.jpg",
+    "geo": [
+      34.9002,
+      139.1224
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=165lx4YaGFvmLRLf1lK1Jy-dW1n8Y3ebL&ll=34.900227%2C139.122445&z=17"
+  },
+  {
+    "id": "21ed0939",
+    "name": "伊豆高原駅",
+    "image": "https://image.xinu.ink/pic/data/445/images/21ed0939_1755761565330.jpg",
+    "geo": [
+      34.8775,
+      139.1081
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=165lx4YaGFvmLRLf1lK1Jy-dW1n8Y3ebL&ll=34.877534%2C139.108187&z=17"
+  },
+  {
+    "id": "b4ec318b",
+    "name": "雑貨＆カフェ伊豆高原ローズテラス",
+    "image": "https://image.xinu.ink/pic/data/445/images/b4ec318b_1755763594120.jpg",
+    "geo": [
+      34.8784,
+      139.113
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=165lx4YaGFvmLRLf1lK1Jy-dW1n8Y3ebL&ll=34.878455%2C139.113098&z=17"
+  },
+  {
+    "id": "9fceaf50",
+    "name": "大瀬海水浴場",
+    "image": "https://image.xinu.ink/pic/data/445/images/9fceaf50_1755763695136.jpg",
+    "geo": [
+      35.0244,
+      138.7865
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=165lx4YaGFvmLRLf1lK1Jy-dW1n8Y3ebL&ll=35.024498%2C138.786554&z=17"
+  },
+  {
+    "id": "40rsrm2",
+    "name": "伊東高校前（バス）",
+    "image": "https://image.xinu.ink/pic/data/445/images/40rsrm2_1755764287862.jpg",
+    "geo": [
+      34.9589,
+      139.1029
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
   }
 ]

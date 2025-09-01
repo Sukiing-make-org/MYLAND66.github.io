@@ -127,5 +127,438 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1LmjWI46K5WWGNP7saTiZ9jkol4HOqbrt&ll=35.691894%2C139.702752&z=17"
+  },
+  {
+    "id": "b08bd291",
+    "name": "本郷六丁目バス停",
+    "image": "https://image.xinu.ink/pic/data/543/images/b08bd291_1754362509725.jpg",
+    "ep": "OP1",
+    "geo": [
+      35.7132,
+      139.7565
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.713222%2C139.756577&z=17"
+  },
+  {
+    "id": "1bfba9dd",
+    "name": "西片交差点",
+    "image": "https://image.xinu.ink/pic/data/543/images/1bfba9dd_1754362528389.jpg",
+    "ep": "OP1",
+    "geo": [
+      35.7112,
+      139.7525
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.711261%2C139.752595&z=17"
+  },
+  {
+    "id": "8d36ed92",
+    "name": "西片一丁目 Ｔ字路その１",
+    "image": "https://image.xinu.ink/pic/data/543/images/8d36ed92_1754364550640.jpg",
+    "ep": "OP1",
+    "geo": [
+      35.712,
+      139.7541
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.712064%2C139.754193&z=17"
+  },
+  {
+    "id": "878c0600",
+    "name": "善光寺坂 慈眼院沢蔵司稲荷前",
+    "image": "https://image.xinu.ink/pic/data/543/images/878c0600_1754362688172.jpg",
+    "ep": "OP1",
+    "geo": [
+      35.7118,
+      139.7488
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.711876%2C139.748865&z=17"
+  },
+  {
+    "id": "d10a2c70",
+    "name": "西片公園",
+    "image": "https://image.xinu.ink/pic/data/543/images/d10a2c70_1754362722443.jpg",
+    "geo": [
+      35.714,
+      139.7556
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.714013%2C139.755614&z=17"
+  },
+  {
+    "id": "05c561a7",
+    "name": "善光寺坂のムクノキ",
+    "image": "https://image.xinu.ink/pic/data/543/images/05c561a7_1754363216218.jpg",
+    "geo": [
+      35.7117,
+      139.7483
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.711783%2C139.748356&z=17"
+  },
+  {
+    "id": "d63d0e06",
+    "name": "都立竹早高等学校",
+    "image": "https://image.xinu.ink/pic/data/543/images/d63d0e06_1754363233562.jpg",
+    "geo": [
+      35.7123,
+      139.7444
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.712318%2C139.744481&z=17"
+  },
+  {
+    "id": "db2c913d",
+    "name": "JR水道橋駅 西口",
+    "image": "https://image.xinu.ink/pic/data/543/images/db2c913d_1754363336601.jpg",
+    "geo": [
+      35.7022,
+      139.752
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.702236%2C139.752084&z=17"
+  },
+  {
+    "id": "5ff0a99d",
+    "name": "JR水道橋駅 上りホーム",
+    "image": "https://image.xinu.ink/pic/data/543/images/5ff0a99d_1754363350459.jpg",
+    "geo": [
+      35.7021,
+      139.7527
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.702129%2C139.752761&z=17"
+  },
+  {
+    "id": "73dd21e2",
+    "name": "中央総武線橋梁",
+    "image": "https://image.xinu.ink/pic/data/543/images/73dd21e2_1754473826732.jpg",
+    "geo": [
+      35.6985,
+      139.7712
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.69852%2C139.771267&z=17"
+  },
+  {
+    "id": "995ce744",
+    "name": "中央通り",
+    "image": "https://image.xinu.ink/pic/data/543/images/995ce744_1754473839515.jpg",
+    "geo": [
+      35.6995,
+      139.7711
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.699563%2C139.771128&z=17"
+  },
+  {
+    "id": "12c3d19d",
+    "name": "とらのあな前",
+    "image": "https://image.xinu.ink/pic/data/543/images/12c3d19d_1754473848891.jpg",
+    "geo": [
+      35.7003,
+      139.7716
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.700365%2C139.771633&z=17"
+  },
+  {
+    "id": "797990f1",
+    "name": "タイトーステーション秋葉原店横",
+    "image": "https://image.xinu.ink/pic/data/543/images/797990f1_1754365376957.jpg",
+    "geo": [
+      35.7002,
+      139.7718
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.700293%2C139.771839&z=17"
+  },
+  {
+    "id": "629985cb",
+    "name": "アニメイト秋葉原店",
+    "image": "https://image.xinu.ink/pic/data/543/images/629985cb_1754363490971.jpg",
+    "geo": [
+      35.7005,
+      139.7716
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.700504%2C139.771674&z=17"
+  },
+  {
+    "id": "fb7d917b",
+    "name": "クリハラビル前",
+    "image": "https://image.xinu.ink/pic/data/543/images/fb7d917b_1754473920543.jpg",
+    "geo": [
+      35.7004,
+      139.772
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.700405%2C139.772059&z=17"
+  },
+  {
+    "id": "2b04ba23",
+    "name": "ブリスターコミックス前",
+    "image": "https://image.xinu.ink/pic/data/543/images/2b04ba23_1754473950861.jpg",
+    "geo": [
+      35.7005,
+      139.772
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.700557%2C139.772084&z=17"
+  },
+  {
+    "id": "f31bf1ca",
+    "name": "秋葉原UDX横",
+    "image": "https://image.xinu.ink/pic/data/543/images/f31bf1ca_1754363519594.jpg",
+    "geo": [
+      35.7003,
+      139.7722
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.700319%2C139.772234&z=17"
+  },
+  {
+    "id": "e0c8c63f",
+    "name": "神田明神 拝殿",
+    "image": "https://image.xinu.ink/pic/data/543/images/e0c8c63f_1754364052817.jpg",
+    "geo": [
+      35.7018,
+      139.7677
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.701856%2C139.767793&z=17"
+  },
+  {
+    "id": "6f687694",
+    "name": "神田明神 祭務所",
+    "image": "https://image.xinu.ink/pic/data/543/images/6f687694_1754364032377.jpg",
+    "geo": [
+      35.7016,
+      139.7678
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.70162%2C139.767809&z=17"
+  },
+  {
+    "id": "d1da187c",
+    "name": "神田明神 鳥居",
+    "image": "https://image.xinu.ink/pic/data/543/images/d1da187c_1754364392797.jpg",
+    "geo": [
+      35.701,
+      139.7671
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.701072%2C139.767115&z=17"
+  },
+  {
+    "id": "190af38e",
+    "name": "ビックカメラ新宿東口駅前店",
+    "image": "https://image.xinu.ink/pic/data/543/images/190af38e_1754364987094.jpg",
+    "geo": [
+      35.6919,
+      139.7017
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.691906%2C139.701765&z=17"
+  },
+  {
+    "id": "671595c9",
+    "name": "JR新宿駅 東Cロッカー",
+    "image": "https://image.xinu.ink/pic/data/543/images/671595c9_1754365242294.jpg",
+    "geo": [
+      35.6911,
+      139.7012
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.691183%2C139.70124&z=17"
+  },
+  {
+    "id": "c554d0e8",
+    "name": "メトロナードB7出口",
+    "image": "https://image.xinu.ink/pic/data/543/images/c554d0e8_1754365282277.jpg",
+    "geo": [
+      35.6919,
+      139.7027
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.691934%2C139.702704&z=17"
+  },
+  {
+    "id": "9eb507ef",
+    "name": "アニメイト新宿店",
+    "image": "https://image.xinu.ink/pic/data/543/images/9eb507ef_1754362762811.jpg",
+    "geo": [
+      35.6925,
+      139.7034
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.69251%2C139.703459&z=17"
+  },
+  {
+    "id": "a393d9e2",
+    "name": "靖国通り",
+    "image": "https://image.xinu.ink/pic/data/543/images/a393d9e2_1754364691536.jpg",
+    "geo": [
+      35.6934,
+      139.7028
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.693447%2C139.702802&z=17"
+  },
+  {
+    "id": "65217276",
+    "name": "新宿通り",
+    "image": "https://image.xinu.ink/pic/data/543/images/65217276_1754364703376.jpg",
+    "geo": [
+      35.6907,
+      139.7048
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.6907%2C139.704885&z=17"
+  },
+  {
+    "id": "3ae8cbfa",
+    "name": "世界堂 新宿本店",
+    "image": "https://image.xinu.ink/pic/data/543/images/3ae8cbfa_1754362786348.jpg",
+    "geo": [
+      35.69,
+      139.7064
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.690029%2C139.706487&z=17"
+  },
+  {
+    "id": "a30f53ac",
+    "name": "ビックロ新宿東口店",
+    "image": "https://image.xinu.ink/pic/data/543/images/a30f53ac_1754365489894.jpg",
+    "geo": [
+      35.6912,
+      139.7025
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.691289%2C139.702501&z=17"
+  },
+  {
+    "id": "2c472c0f",
+    "name": "ZARA新宿東口店",
+    "image": "https://image.xinu.ink/pic/data/543/images/2c472c0f_1754474627326.jpg",
+    "geo": [
+      35.6911,
+      139.7023
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.691132%2C139.70231&z=17"
+  },
+  {
+    "id": "d21ed983",
+    "name": "新宿ライオン会館前",
+    "image": "https://image.xinu.ink/pic/data/543/images/d21ed983_1754474639563.jpg",
+    "geo": [
+      35.691,
+      139.7024
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.691012%2C139.702415&z=17"
+  },
+  {
+    "id": "2cc25cec",
+    "name": "眼鏡市場 渋谷店",
+    "image": "https://image.xinu.ink/pic/data/543/images/2cc25cec_1754363545097.jpg",
+    "geo": [
+      35.6608,
+      139.7006
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.660896%2C139.700648&z=17"
+  },
+  {
+    "id": "42ad026f",
+    "name": "東京メトロ麻布十番駅３番出口",
+    "image": "https://image.xinu.ink/pic/data/543/images/42ad026f_1754363837697.jpg",
+    "geo": [
+      35.6556,
+      139.7373
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.655695%2C139.737303&z=17"
+  },
+  {
+    "id": "68156bee",
+    "name": "東京メトロ麻布十番駅",
+    "image": "https://image.xinu.ink/pic/data/543/images/68156bee_1754363853984.jpg",
+    "geo": [
+      35.6551,
+      139.7371
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.655198%2C139.737177&z=17"
+  },
+  {
+    "id": "9daee321",
+    "name": "JR代々木駅",
+    "image": "https://image.xinu.ink/pic/data/543/images/9daee321_1754363285033.jpg",
+    "geo": [
+      35.684,
+      139.7022
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.684051%2C139.702247&z=17"
+  },
+  {
+    "id": "47e317f7",
+    "name": "酒道 ハナクラ しぞ～かおでん荻窪店",
+    "image": "https://image.xinu.ink/pic/data/543/images/47e317f7_1754363584211.jpg",
+    "geo": [
+      35.7053,
+      139.618
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.705344%2C139.618012&z=17"
+  },
+  {
+    "id": "d7d16b27",
+    "name": "JR東京駅",
+    "image": "https://image.xinu.ink/pic/data/543/images/d7d16b27_1754364133570.jpg",
+    "geo": [
+      35.6812,
+      139.7655
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.681249%2C139.765555&z=17"
+  },
+  {
+    "id": "535be3e6",
+    "name": "JR東京駅新幹線21番ホーム",
+    "image": "https://image.xinu.ink/pic/data/543/images/535be3e6_1754364169103.jpg",
+    "geo": [
+      35.6816,
+      139.7671
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.681641%2C139.767153&z=17"
+  },
+  {
+    "id": "56153999",
+    "name": "猿島海水浴場",
+    "image": "https://image.xinu.ink/pic/data/543/images/56153999_1754365620500.jpg",
+    "geo": [
+      35.2847,
+      139.693
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.284755%2C139.693017&z=17"
+  },
+  {
+    "id": "df82c2da",
+    "name": "ナガシマスパーランド",
+    "image": "https://image.xinu.ink/pic/data/543/images/df82c2da_1754473423141.jpg",
+    "geo": [
+      35.0302,
+      136.7299
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.030282%2C136.729991&z=17"
   }
 ]

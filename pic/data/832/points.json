@@ -366,5 +366,27 @@
     ],
     "origin": "Anitabi@うに",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "48zocnw",
+    "name": "武蔵横手駅",
+    "image": "https://image.xinu.ink/pic/data/832/images/48zocnw-1756261142599.jpg",
+    "ep": 4,
+    "s": 354,
+    "geo": [
+      35.885,
+      139.2808
+    ]
+  },
+  {
+    "id": "48zo2up",
+    "name": "飯能市吾野公民館",
+    "image": "https://image.xinu.ink/pic/data/832/images/48zo2up-1756261603388.jpg",
+    "ep": 1,
+    "s": 400,
+    "geo": [
+      35.8852,
+      139.2806
+    ]
   }
 ]

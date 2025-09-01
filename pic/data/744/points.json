@@ -52,5 +52,31 @@
     ],
     "origin": "Anitabi@枣子",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "417kops",
+    "name": "スポーツデポ カラフルタウン岐阜店",
+    "image": "https://image.xinu.ink/pic/data/744/images/417kops-1755790721239.jpg",
+    "ep": "3",
+    "s": "287",
+    "geo": [
+      35.3624,
+      136.7286
+    ],
+    "origin": "Anitabi@suichan1oshi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "417nywb",
+    "name": "カラフルタウン岐阜",
+    "image": "https://image.xinu.ink/pic/data/744/images/417nywb-1755790835284.jpg",
+    "ep": "5",
+    "s": "317",
+    "geo": [
+      35.3624,
+      136.7286
+    ],
+    "origin": "Anitabi@suichan1oshi",
+    "originURL": "https://anitabi.cn/"
   }
 ]

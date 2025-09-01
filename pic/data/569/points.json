@@ -654,5 +654,45 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=119EozafBkytFQvOD_Jro9WRcMBvDzYI&ll=33.947432%2C130.961063&z=17"
+  },
+  {
+    "id": "3ea6qv8",
+    "name": "寺田屋",
+    "image": "https://image.xinu.ink/pic/data/569/images/3ea6qv8-1754404381041.jpg",
+    "ep": null,
+    "geo": [
+      34.9302,
+      135.7595
+    ]
+  },
+  {
+    "id": "3eam0yj",
+    "name": "星砂海岸",
+    "image": "https://image.xinu.ink/pic/data/569/images/3eam0yj-1754405164086.jpg",
+    "ep": null,
+    "geo": [
+      24.3224,
+      124.0769
+    ]
+  },
+  {
+    "id": "3eawqr2",
+    "name": "戀人岬",
+    "image": "https://image.xinu.ink/pic/data/569/images/3eawqr2-1754405624736.jpg",
+    "ep": null,
+    "geo": [
+      13.5352,
+      144.8023
+    ]
+  },
+  {
+    "id": "3eb4y45",
+    "name": "The waterfront around the Surf Club restaurant",
+    "image": "https://image.xinu.ink/pic/data/569/images/3eb4y45-1754406012712.jpg",
+    "ep": null,
+    "geo": [
+      15.1469,
+      145.7001
+    ]
   }
 ]

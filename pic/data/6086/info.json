@@ -1,0 +1,34 @@
+{
+  "id": 509062,
+  "cn": "和雨和你",
+  "title": "雨と君と",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/6086/images/509062_mC4D1.jpg",
+  "cp": "雨と君と",
+  "modified": 1755432525198,
+  "litePoints": [
+    {
+      "id": "3b0e5jh",
+      "name": "古濑户咖啡店",
+      "image": "https://image.anitabi.cn/points/509062/3b0e5jh_1754206614808.jpg?plan=h160",
+      "geo": [
+        35.6961,
+        139.7614
+      ]
+    },
+    {
+      "id": "3vab05f",
+      "name": "麻布十番",
+      "image": "https://image.anitabi.cn/points/509062/3vab05f_1755432504676.jpg?plan=h160",
+      "geo": [
+        35.6551,
+        139.7353
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "name": "雨と君と",
+  "name_cn": "和雨和你",
+  "local_id": 6086
+}

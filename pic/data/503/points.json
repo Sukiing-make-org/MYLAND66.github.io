@@ -463,5 +463,27 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1z8W1XeA_Ay3exSIRLcXDq2Mc6ss&ll=36.491364%2C136.750292&z=17"
+  },
+  {
+    "id": "51i53t1fc",
+    "name": "彫刻師工房の通り",
+    "image": "https://image.xinu.ink/pic/data/503/images/51i53t1fc_1754648303704.jpg",
+    "geo": [
+      36.5596,
+      136.9715
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1SA1Rj9KDlPW6zRACAJYfHksqEa0&ll=36.559618%2C136.971585&z=17"
+  },
+  {
+    "id": "ab3d2879",
+    "name": "市営バス停車所(桜ヶ池)",
+    "image": "https://image.xinu.ink/pic/data/503/images/ab3d2879_1754648698361.jpg",
+    "geo": [
+      36.5004,
+      136.8717
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1z8W1XeA_Ay3exSIRLcXDq2Mc6ss&ll=36.500437%2C136.871739&z=17"
   }
 ]

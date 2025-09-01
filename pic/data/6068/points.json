@@ -89,5 +89,72 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3e8u2lv",
+    "cn": "京王电铁杜鹃丘站 检票口内",
+    "name": "京王電鉄つつじヶ丘駅 改札内",
+    "image": "https://image.xinu.ink/pic/data/6068/images/3e8u2lv-1754402269181.jpg",
+    "ep": 5,
+    "s": 1072,
+    "geo": [
+      35.658,
+      139.5752
+    ],
+    "origin": "末日晴空SR",
+    "originLink": "https://www.google.com/maps/place/35%C2%B039'29.1%22N+139%C2%B034'30.8%22E/@35.6580452,139.5751525,2a,31.6y,61.58h,86.93t/data=!3m7!1e1!3m5!1sPB9OYcTe5-11JJ8iHR6ffw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.071641108095932%26panoid%3DPB9OYcTe5-11JJ8iHR6ffw%26yaw%3D61.58060379063096!7i13312!8i6656!4m10!1m5!3m4!2zMzXCsDM5JzI5LjEiTiAxMznCsDM0JzMwLjgiRQ!8m2!3d35.6580719!4d139.5752144!3m3!8m2!3d35.6580719!4d139.5752144?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": "3ei33uq",
+    "cn": "京王电铁杜鹃丘站附近",
+    "name": "Nishitsutsujigaoka, 调布市东京都 182-0006日本",
+    "image": "https://image.xinu.ink/pic/data/6068/images/3ei33uq-1754417610466.jpg",
+    "ep": 5,
+    "s": 917,
+    "geo": [
+      35.6569,
+      139.5727
+    ]
+  },
+  {
+    "id": "3f3mezc",
+    "name": "東京都立第五商業高等學校",
+    "image": "https://image.xinu.ink/pic/data/6068/images/3f3mezc-1754453784231.jpg",
+    "ep": 5,
+    "s": 349,
+    "geo": [
+      35.6891,
+      139.4413
+    ],
+    "origin": "TOKI",
+    "originLink": "https://maps.app.goo.gl/iFkk4pzM8o2kaeT39"
+  },
+  {
+    "id": "3o85qhp",
+    "cn": "调布车站外",
+    "name": "調布駅",
+    "image": "https://image.xinu.ink/pic/data/6068/images/3o85qhp-1755005784084.jpg",
+    "ep": 5,
+    "s": 653,
+    "geo": [
+      35.6518,
+      139.5439
+    ],
+    "origin": "TOKI",
+    "originLink": "https://maps.app.goo.gl/NyTFBYS3BuzDXRQc9"
+  },
+  {
+    "id": "4batf9e",
+    "cn": "京王9000系电车内",
+    "name": "京王電鉄京王線 9000系電車内",
+    "image": "https://image.xinu.ink/pic/data/6068/images/4batf9e-1756400781295.jpg",
+    "ep": 5,
+    "s": 1088,
+    "geo": [
+      35.6572,
+      139.5734
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
   }
 ]
