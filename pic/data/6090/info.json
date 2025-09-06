@@ -55,5 +55,9 @@
   "imagesLength": 5,
   "name": "纸房子",
   "name_cn": "纸房子",
-  "local_id": 6090
+  "local_id": 6090,
+  "region": [
+    "荣县",
+    "自流井区"
+  ]
 }
