@@ -515,5 +515,41 @@
       35.7103,
       139.8123
     ]
+  },
+  {
+    "id": "4kur0mo",
+    "cn": "仲见世商店街",
+    "name": "仲见世商店街",
+    "image": "https://image.xinu.ink/pic/data/797/images/4kur0mo-1756978606720.jpg",
+    "ep": "EP5 ",
+    "s": 400,
+    "geo": [
+      35.7116,
+      139.7964
+    ]
+  },
+  {
+    "id": "4p6b5si",
+    "cn": "锦糸公园",
+    "name": "锦糸公园",
+    "image": "https://image.xinu.ink/pic/data/797/images/4p6b5si-1757239739803.jpg",
+    "ep": "EP1",
+    "s": 750,
+    "geo": [
+      35.6989,
+      139.8152
+    ]
+  },
+  {
+    "id": "4pc61iw",
+    "cn": "锦糸公园西门街边",
+    "name": "錦糸町錦糸公園",
+    "image": "https://image.xinu.ink/pic/data/797/images/4pc61iw-1757249631784.jpg",
+    "ep": "EP1",
+    "s": 435,
+    "geo": [
+      35.699,
+      139.8149
+    ]
   }
 ]

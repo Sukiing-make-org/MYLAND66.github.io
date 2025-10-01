@@ -1925,5 +1925,45 @@
       34.9082,
       135.8154
     ]
+  },
+  {
+    "id": "4x30jwi",
+    "name": "​羽戸山​西侧长台阶附近",
+    "image": "https://image.xinu.ink/pic/data/449/images/4x30jwi_1757717942867.jpg",
+    "ep": 9,
+    "s": 733,
+    "geo": [
+      34.9073,
+      135.8104
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4xv25qy",
+    "name": "車田児童遊園",
+    "image": "https://image.xinu.ink/pic/data/449/images/4xv25qy_1757765033463.jpg",
+    "ep": 1,
+    "s": 2718,
+    "geo": [
+      34.8997,
+      135.8023
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4xv3m4i",
+    "cn": "京阪三室户站",
+    "name": "三室戸駅",
+    "image": "https://image.xinu.ink/pic/data/449/images/4xv3m4i_1757765102569.jpg",
+    "ep": 10,
+    "s": 122,
+    "geo": [
+      34.8986,
+      135.8064
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
   }
 ]

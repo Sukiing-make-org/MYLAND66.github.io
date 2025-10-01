@@ -1,0 +1,134 @@
+{
+  "id": 512190,
+  "cn": "琉璃的宝石",
+  "title": "瑠璃の宝石",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/6100/images/512190.jpg",
+  "color": "#fad698",
+  "cp": "瑠璃の宝石",
+  "geo": [
+    36.42411295409099,
+    139.34941978373342
+  ],
+  "zoom": 11.849,
+  "modified": 1759164330896,
+  "litePoints": [
+    {
+      "id": "4o8jhaw",
+      "name": "笹洞鉱山ミネラルハンティングガイドツアー",
+      "image": "https://image.anitabi.cn/user/2200/bangumi/512190/points/4o8jhaw-1758976103575.jpg?plan=h160",
+      "ep": 3,
+      "s": 1100,
+      "geo": [
+        35.6425,
+        137.1192
+      ]
+    },
+    {
+      "id": "4o7ztl5",
+      "name": "秩父市大滝振興会館",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/512190/points/4o7ztl5-1757182138474.jpg?plan=h160",
+      "ep": 3,
+      "s": 1269,
+      "geo": [
+        35.9494,
+        138.9378
+      ]
+    },
+    {
+      "id": "4o9742z",
+      "name": "旧桂ヶ谷貯水池堰堤",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/512190/points/4o9742z-1757184130276.jpg?plan=h160",
+      "ep": 9,
+      "s": 681,
+      "geo": [
+        34.1183,
+        131.3868
+      ]
+    },
+    {
+      "id": "5ktovwj",
+      "name": "松田川ダム",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/512190/points/5ktovwj-1759153491886.jpg?plan=h160",
+      "ep": 9,
+      "s": 860,
+      "geo": [
+        36.4263,
+        139.425
+      ]
+    },
+    {
+      "id": "5kosdb4",
+      "name": "群馬大学桐生正門前",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/512190/points/5kosdb4-1759145244512.jpg?plan=h160",
+      "ep": 12,
+      "s": 359,
+      "geo": [
+        36.4224,
+        139.3467
+      ]
+    },
+    {
+      "id": "5a159a7",
+      "name": "ジョイフル本田 新田店",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/512190/points/5a159a7-1758500870341.jpg?plan=h160",
+      "ep": 12,
+      "s": 401,
+      "geo": [
+        36.3029,
+        139.3022
+      ]
+    },
+    {
+      "id": "5a0z8xm",
+      "name": "高崎站西口",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/512190/points/5a0z8xm-1758500605115.jpg?plan=h160",
+      "ep": 12,
+      "s": 693,
+      "geo": [
+        36.3225,
+        139.0116
+      ]
+    },
+    {
+      "id": "5hvppuw",
+      "cn": "星巴克 高崎店",
+      "name": "スターバックス コーヒー イーサイト高崎店",
+      "image": "https://image.anitabi.cn/user/2200/bangumi/512190/points/5hvppuw-1758975513007.jpg?plan=h160",
+      "ep": 12,
+      "s": 695,
+      "geo": [
+        36.3221,
+        139.0135
+      ]
+    },
+    {
+      "id": "5jut69c",
+      "name": "道の駅オアシスおぶせ",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/512190/points/5jut69c-1759094970569.jpg?plan=h160",
+      "ep": 13,
+      "s": 6,
+      "geo": [
+        36.689,
+        138.2947
+      ]
+    },
+    {
+      "id": "5jvhnae",
+      "name": "金具屋",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/512190/points/5jvhnae-1759096029863.jpg?plan=h160",
+      "ep": 13,
+      "s": 117,
+      "geo": [
+        36.7346,
+        138.4327
+      ]
+    }
+  ],
+  "pointsLength": 11,
+  "imagesLength": 11,
+  "name": "瑠璃の宝石",
+  "name_cn": "琉璃的宝石",
+  "theme_color": "#fad698",
+  "local_id": 6100
+}

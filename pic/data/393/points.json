@@ -2902,5 +2902,30 @@
       34.8903,
       135.8009
     ]
+  },
+  {
+    "id": "4qkomh3",
+    "name": "京阪宇治站车辆入站",
+    "image": "https://image.xinu.ink/pic/data/393/images/4qkomh3-1757324347454.jpg",
+    "ep": 9,
+    "s": 645,
+    "geo": [
+      34.8955,
+      135.8063
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4x2po29",
+    "name": "羽戸山第三児童公園 秋千",
+    "image": "https://image.xinu.ink/pic/data/393/images/4x2po29_1757717440313.jpg",
+    "ep": 9,
+    "geo": [
+      34.9076,
+      135.8148
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
   }
 ]

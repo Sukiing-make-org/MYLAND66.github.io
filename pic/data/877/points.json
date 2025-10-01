@@ -4143,5 +4143,96 @@
       37.5033,
       139.9402
     ]
+  },
+  {
+    "id": "5eb3u36",
+    "name": "カワチ薬品 那須烏山店",
+    "image": "https://image.xinu.ink/pic/data/877/images/5eb3u36-1758759451205.jpg",
+    "ep": 5,
+    "s": 677,
+    "geo": [
+      36.6539,
+      140.1593
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5eb4wu4",
+    "name": "AKIMOTO洋菓子店",
+    "image": "https://image.xinu.ink/pic/data/877/images/5eb4wu4-1758759498264.jpg",
+    "ep": 5,
+    "s": 680,
+    "geo": [
+      36.6536,
+      140.1602
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5eb8wxc",
+    "name": "AKIMOTO洋菓子店前",
+    "image": "https://image.xinu.ink/pic/data/877/images/5eb8wxc-1758759698168.jpg",
+    "ep": 5,
+    "s": 689,
+    "geo": [
+      36.6537,
+      140.1602
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5ebajw4",
+    "name": "烏山大橋",
+    "image": "https://image.xinu.ink/pic/data/877/images/5ebajw4-1758759770152.jpg",
+    "ep": 5,
+    "s": 699,
+    "geo": [
+      36.6522,
+      140.1688
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5ebn0rh",
+    "name": "もり食堂　外",
+    "image": "https://image.xinu.ink/pic/data/877/images/5ebn0rh-1758760354888.jpg",
+    "ep": 5,
+    "s": 764,
+    "geo": [
+      36.6493,
+      140.1854
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5ebnr8e",
+    "name": "もり食堂内",
+    "image": "https://image.xinu.ink/pic/data/877/images/5ebnr8e-1758760384557.jpg",
+    "ep": 5,
+    "s": 769,
+    "geo": [
+      36.6493,
+      140.1853
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5ebpbtb",
+    "name": "もり食堂内　天盛りそば",
+    "image": "https://image.xinu.ink/pic/data/877/images/5ebpbtb-1758760459279.jpg",
+    "ep": 5,
+    "s": 779,
+    "geo": [
+      36.6493,
+      140.1854
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
   }
 ]

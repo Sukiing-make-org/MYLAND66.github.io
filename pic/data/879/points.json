@@ -156,5 +156,113 @@
     ],
     "origin": "Anitabi@柒宇",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5di5vzx",
+    "name": "洗足駅前ふれあい広場",
+    "image": "https://image.xinu.ink/pic/data/879/images/5di5vzx_1758710831102.jpg",
+    "ep": "OP1",
+    "s": 154,
+    "geo": [
+      35.6106,
+      139.6946
+    ],
+    "origin": "Anitabi@初晨",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5dh2eu3",
+    "cn": "全家便利店原町二丁目店",
+    "name": "ファミリーマート 原町二丁目店",
+    "image": "https://image.xinu.ink/pic/data/879/images/5dh2eu3_1758708989415.jpg",
+    "ep": 13,
+    "s": 499,
+    "geo": [
+      35.614,
+      139.6915
+    ],
+    "origin": "Anitabi@初晨",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5dh5uua",
+    "cn": "洗足站",
+    "name": "洗足駅",
+    "image": "https://image.xinu.ink/pic/data/879/images/5dh5uua_1758709149999.jpg",
+    "ep": 17,
+    "s": 199,
+    "geo": [
+      35.6104,
+      139.6942
+    ],
+    "origin": "Anitabi@初晨",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1a6lpng",
+    "cn": "惠比寿花园广场",
+    "name": "恵比寿ガーデンプレイス",
+    "image": "https://image.xinu.ink/pic/data/879/images/1a6lpng-1749804087399.jpg",
+    "ep": 17,
+    "s": 848,
+    "geo": [
+      35.6415,
+      139.7143
+    ],
+    "origin": "Anitabi@柒宇",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5dicqki",
+    "name": "竹下通",
+    "image": "https://image.xinu.ink/pic/data/879/images/5dicqki_1758711161975.jpg",
+    "ep": 19,
+    "s": 1097,
+    "geo": [
+      35.6712,
+      139.7048
+    ],
+    "origin": "Anitabi@初晨",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j9pfqx6qk",
+    "cn": "奈良公园",
+    "name": "奈良公園",
+    "image": "https://image.xinu.ink/pic/data/879/images/j9pfqx6qk-1712505096212.jpg",
+    "ep": 24,
+    "s": 587,
+    "geo": [
+      34.6855,
+      135.8429
+    ],
+    "origin": "Anitabi@Eureka",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5cfzezb",
+    "name": "千本鳥居",
+    "image": "https://image.xinu.ink/pic/data/879/images/5cfzezb_1758646705042.jpg",
+    "ep": 25,
+    "s": 555,
+    "geo": [
+      34.9665,
+      135.7745
+    ],
+    "origin": "Anitabi@初晨",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5cg3r8k",
+    "name": "稻荷站口",
+    "image": "https://image.xinu.ink/pic/data/879/images/5cg3r8k_1758646909261.jpg",
+    "ep": 25,
+    "s": 768,
+    "geo": [
+      34.967,
+      135.7709
+    ],
+    "origin": "Anitabi@初晨",
+    "originURL": "https://anitabi.cn/"
   }
 ]

@@ -206,5 +206,40 @@
     ],
     "origin": "Anitabi@Zyglisfer",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5cfmla0",
+    "name": "ポートアイランド 北公園",
+    "image": "https://image.xinu.ink/pic/data/381/images/5cfmla0_1758646106193.jpg",
+    "geo": [
+      34.6768,
+      135.2037
+    ],
+    "origin": "Anitabi@初晨",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5cfo6e1",
+    "cn": "风间鸡馆",
+    "name": "風見鶏の館（旧トーマス住宅）",
+    "image": "https://image.xinu.ink/pic/data/381/images/5cfo6e1_1758646180933.jpg",
+    "geo": [
+      34.7013,
+      135.1895
+    ],
+    "origin": "Anitabi@初晨",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5cfov3i",
+    "cn": "鱼鳞之家",
+    "name": "うろこの家(旧ハリヤー邸)",
+    "image": "https://image.xinu.ink/pic/data/381/images/5cfov3i_1758646212608.jpg",
+    "geo": [
+      34.7028,
+      135.1907
+    ],
+    "origin": "Anitabi@初晨",
+    "originURL": "https://anitabi.cn/"
   }
 ]

@@ -78,5 +78,57 @@
     ],
     "origin": "Anitabi@suichan1oshi",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u9oeoynxe",
+    "name": "八一卜の木 公園",
+    "image": "https://image.xinu.ink/pic/data/744/images/u9oeoynxe-1743535095982.jpg",
+    "ep": 2,
+    "s": 17,
+    "geo": [
+      35.3665,
+      136.7646
+    ],
+    "origin": "Anitabi@枣子",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uaa7p5zil",
+    "name": "笠松みなと公園",
+    "image": "https://image.xinu.ink/pic/data/744/images/uaa7p5zil-1743582464065.jpg",
+    "ep": 2,
+    "s": 17,
+    "geo": [
+      35.366,
+      136.7633
+    ],
+    "origin": "Anitabi@枣子",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5c87s3r",
+    "name": "大井競馬場",
+    "image": "https://image.xinu.ink/pic/data/744/images/5c87s3r-1758633756318.jpg",
+    "ep": "9卷（第77话）",
+    "s": "P21",
+    "geo": [
+      35.5919,
+      139.7442
+    ],
+    "origin": "Anitabi@Elm",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5g6osff",
+    "name": "穴守稲荷神社",
+    "image": "https://image.xinu.ink/pic/data/744/images/5g6osff-1758872981124.jpg",
+    "ep": "134",
+    "s": "P3",
+    "geo": [
+      35.5505,
+      139.7499
+    ],
+    "origin": "Anitabi@Elm",
+    "originURL": "https://anitabi.cn/"
   }
 ]

@@ -156,5 +156,359 @@
     ],
     "origin": "Anitabi@末日晴空SR",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5d7l74d",
+    "name": "イプサ 伊勢丹新宿店",
+    "image": "https://image.xinu.ink/pic/data/6068/images/5d7l74d-1758693171899.jpg",
+    "ep": 3,
+    "s": 377,
+    "geo": [
+      35.6919,
+      139.7043
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4ki3ih4",
+    "cn": "武藏野台站月台",
+    "name": "武蔵野台駅のホーム",
+    "image": "https://image.xinu.ink/pic/data/6068/images/4ki3ih4-1756957311665.jpg",
+    "ep": 9,
+    "s": 284,
+    "geo": [
+      35.6643,
+      139.5103
+    ],
+    "origin": "TOKI",
+    "originLink": "https://maps.app.goo.gl/raCN1sWybHwHBv7s8"
+  },
+  {
+    "id": "4hkk8tl",
+    "cn": "京王电铁武蔵野台站 检票口内",
+    "name": "京王電鉄武蔵野台駅 改札内",
+    "image": "https://image.xinu.ink/pic/data/6068/images/4hkk8tl-1756779990233.jpg",
+    "ep": 9,
+    "s": 300,
+    "geo": [
+      35.6641,
+      139.5111
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4h68o1w",
+    "cn": "武蔵野台駅南口",
+    "name": "武蔵野台駅南口",
+    "image": "https://image.xinu.ink/pic/data/6068/images/4h68o1w-1756756146227.jpg",
+    "ep": 9,
+    "s": 781,
+    "geo": [
+      35.6638,
+      139.511
+    ],
+    "originLink": "https://maps.app.goo.gl/eHA573J4AxrQ7ekVA"
+  },
+  {
+    "id": "4hlriwo",
+    "cn": "新宿站6站台 特急舞女",
+    "name": "新宿駅6番線　特急踊り子",
+    "image": "https://image.xinu.ink/pic/data/6068/images/4hlriwo-1756782068932.jpg",
+    "ep": 9,
+    "s": 995,
+    "geo": [
+      35.6886,
+      139.7011
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4hlxaut",
+    "cn": "特急舞女 车内 新宿站",
+    "name": "特急 踊り子車内 新宿駅",
+    "image": "https://image.xinu.ink/pic/data/6068/images/4hlxaut-1756782340071.jpg",
+    "ep": 9,
+    "s": 1038,
+    "geo": [
+      35.6877,
+      139.7012
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5377lf2",
+    "cn": "特急舞女 车内 东海道本线",
+    "name": "特急 踊り子 車内 東海道本線",
+    "image": "https://image.xinu.ink/pic/data/6068/images/5377lf2-1758088148147.jpg",
+    "ep": 9,
+    "s": 1055,
+    "geo": [
+      35.2199,
+      139.1418
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "521k46z",
+    "cn": "伊豆多贺站",
+    "name": "伊豆多賀駅",
+    "image": "https://image.xinu.ink/pic/data/6068/images/521k46z-1758017901640.jpg",
+    "ep": 9,
+    "s": 1085,
+    "geo": [
+      35.0591,
+      139.0669
+    ]
+  },
+  {
+    "id": "4h4nkno",
+    "cn": "網代駅",
+    "name": "網代",
+    "image": "https://image.xinu.ink/pic/data/6068/images/4h4nkno-1756753805233.jpg",
+    "ep": 9,
+    "s": 1098,
+    "geo": [
+      35.0435,
+      139.0815
+    ],
+    "originLink": "https://maps.app.goo.gl/VbTYP3KY4R5iV23x7"
+  },
+  {
+    "id": "4h5hcvd",
+    "cn": "潮止橋",
+    "name": "しおどめはし",
+    "image": "https://image.xinu.ink/pic/data/6068/images/4h5hcvd-1756754766065.jpg",
+    "ep": 9,
+    "s": 1249,
+    "geo": [
+      35.0451,
+      139.0825
+    ],
+    "originLink": "https://maps.app.goo.gl/NX2CyCMANtVZKHVD9"
+  },
+  {
+    "id": "5d6phi4",
+    "cn": "国道135号线 网代段 潮止橋",
+    "name": "国道135号線 網代 潮止橋",
+    "image": "https://image.xinu.ink/pic/data/6068/images/5d6phi4-1758691721695.jpg",
+    "ep": 9,
+    "s": 1294,
+    "geo": [
+      35.0454,
+      139.0826
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5d73p67",
+    "cn": "网代市区航拍",
+    "name": "網代",
+    "image": "https://image.xinu.ink/pic/data/6068/images/5d73p67-1758692255705.jpg",
+    "ep": 9,
+    "s": 1307,
+    "geo": [
+      35.0438,
+      139.0875
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "51l0k46",
+    "cn": "国道135号线 网代段 人行道",
+    "name": "国道135号線 網代 ほどう",
+    "image": "https://image.xinu.ink/pic/data/6068/images/51l0k46-1757990143448.jpg",
+    "ep": 11,
+    "s": 196,
+    "geo": [
+      35.0453,
+      139.0831
+    ],
+    "originLink": "https://www.google.com/maps/@35.0452433,139.0831615,3a,20.5y,95.18h,92.66t/data=!3m7!1e1!3m5!1suDVRi5Na-sQQxrnGFPbI0w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.6608787493357084%26panoid%3DuDVRi5Na-sQQxrnGFPbI0w%26yaw%3D95.17680121180929!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkxMC4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": "51llpdd",
+    "cn": "四季之道观景台",
+    "name": "さくらの名所散策路(四季の道)",
+    "image": "https://image.xinu.ink/pic/data/6068/images/51llpdd-1757991411633.jpg",
+    "ep": 11,
+    "s": 202,
+    "geo": [
+      35.0552,
+      139.0664
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5ipvx1b",
+    "cn": "多贺桥电车上",
+    "name": "多賀橋りょう",
+    "image": "https://image.xinu.ink/pic/data/6068/images/5ipvx1b-1759026176301.jpg",
+    "ep": "EP11",
+    "s": 202,
+    "geo": [
+      35.0545,
+      139.0676
+    ]
+  },
+  {
+    "id": "51pg6n8",
+    "cn": "网代站内",
+    "name": "網代駅内",
+    "image": "https://image.xinu.ink/pic/data/6068/images/51pg6n8-1757997496386.jpg",
+    "ep": 11,
+    "s": 1227,
+    "geo": [
+      35.0436,
+      139.0812
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5c4gaoo",
+    "cn": "京王电铁 飞田给-武蔵野台 区间 航拍",
+    "name": "京王電鉄 飛田給～武蔵野台間",
+    "image": "https://image.xinu.ink/pic/data/6068/images/5c4gaoo-1758627352250.jpg",
+    "ep": 12,
+    "s": 2,
+    "geo": [
+      35.6629,
+      139.5168
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5bmhr7y",
+    "cn": "调布站 广场口前道路",
+    "name": "調布駅 広場口前通路",
+    "image": "https://image.xinu.ink/pic/data/6068/images/5bmhr7y-1758597184267.jpg",
+    "ep": 12,
+    "s": 409,
+    "geo": [
+      35.6521,
+      139.5429
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5bk6gew",
+    "cn": "调布站 广场口",
+    "name": "調布駅 広場口",
+    "image": "https://image.xinu.ink/pic/data/6068/images/5bk6gew-1758593491027.jpg",
+    "ep": 12,
+    "s": 412,
+    "geo": [
+      35.6519,
+      139.5436
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5bkp4ni",
+    "name": "ターザン児童遊園",
+    "image": "https://image.xinu.ink/pic/data/6068/images/5bkp4ni-1758594248231.jpg",
+    "ep": 12,
+    "s": 511,
+    "geo": [
+      35.6533,
+      139.5365
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5bl519w",
+    "cn": "巴黎夏尔·戴高乐机场 T2E/F",
+    "name": "Aéroport de Paris-Charles de Gaulle",
+    "image": "https://image.xinu.ink/pic/data/6068/images/5bl519w-1758595070146.jpg",
+    "ep": 12,
+    "s": 538,
+    "geo": [
+      49.0043,
+      2.577
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5i4mj8d",
+    "cn": "萨莉亚 仙川店",
+    "name": "サイゼリヤ 仙川店",
+    "image": "https://image.xinu.ink/pic/data/6068/images/5i4mj8d-1758990583166.jpg",
+    "ep": 12,
+    "s": 806,
+    "geo": [
+      35.6612,
+      139.5856
+    ],
+    "origin": "TOKI",
+    "originLink": "https://maps.app.goo.gl/yvuaJueMMazswGXv8"
+  },
+  {
+    "id": "5j8jntk",
+    "cn": "Freshness Burger - 仙川店",
+    "name": "フレッシュネスバーガー仙川店",
+    "image": "https://image.xinu.ink/pic/data/6068/images/5j8jntk_1759057504536.jpg",
+    "ep": 12,
+    "s": 813,
+    "geo": [
+      35.6612,
+      139.5855
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5bmsz20",
+    "cn": "Maxell Aqua Park 品川",
+    "name": "マクセル アクアパーク 品川",
+    "image": "https://image.xinu.ink/pic/data/6068/images/5bmsz20-1758597722951.jpg",
+    "ep": 12,
+    "s": 877,
+    "geo": [
+      35.6284,
+      139.7354
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5bp0zkj",
+    "cn": "Maxell Aqua Park 品川 馆内",
+    "name": "マクセル アクアパーク 品川",
+    "image": "https://image.xinu.ink/pic/data/6068/images/5bp0zkj-1758601450434.jpg",
+    "ep": 12,
+    "s": 939,
+    "geo": [
+      35.628,
+      139.735
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5bpdxbn",
+    "cn": "武藏野台站 站台",
+    "name": "武蔵野台駅 ホーム",
+    "image": "https://image.xinu.ink/pic/data/6068/images/5bpdxbn-1758602066589.jpg",
+    "ep": 12,
+    "s": 1389,
+    "geo": [
+      35.664,
+      139.5115
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
   }
 ]

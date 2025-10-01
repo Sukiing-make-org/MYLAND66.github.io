@@ -1764,5 +1764,373 @@
     ],
     "origin": "Anitabi@AmaiAya",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "54pvx05",
+    "cn": "真名濑巴士站",
+    "name": "真名瀬（バス）",
+    "image": "https://image.xinu.ink/pic/data/866/images/54pvx05-1758429729330.jpg",
+    "ep": "エガクミライ",
+    "s": 23,
+    "geo": [
+      35.2703,
+      139.5712
+    ],
+    "origin": "Anitabi@checkyoursignal",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "54qi80s",
+    "cn": "全家逗子渚桥店",
+    "name": "ファミリー​マート\n逗子​渚橋​店",
+    "image": "https://image.xinu.ink/pic/data/866/images/54qi80s-1758428665230.jpg",
+    "ep": "エガクミライ",
+    "s": 34,
+    "geo": [
+      35.287,
+      139.5744
+    ],
+    "origin": "Anitabi@checkyoursignal",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "54qoxjk",
+    "name": "HAYAMA TOWN GUIDE",
+    "image": "https://image.xinu.ink/pic/data/866/images/54qoxjk-1758343409109.jpg",
+    "ep": "エガクミライ",
+    "s": 45,
+    "geo": [
+      35.2683,
+      139.5703
+    ]
+  },
+  {
+    "id": "54m5qae",
+    "cn": "一色海岸",
+    "name": "一色海岸",
+    "image": "https://image.xinu.ink/pic/data/866/images/54m5qae-1758174332187.jpg",
+    "ep": "エガクミライ",
+    "s": 16,
+    "geo": [
+      35.264,
+      139.5762
+    ]
+  },
+  {
+    "id": "54p7x8l",
+    "cn": "逗子海岸水上公园",
+    "name": "逗子海岸ウォーターパーク",
+    "image": "https://image.xinu.ink/pic/data/866/images/54p7x8l-1758178548923.jpg",
+    "ep": "エガクミライ",
+    "s": 69,
+    "geo": [
+      35.29,
+      139.5739
+    ]
+  },
+  {
+    "id": "54po2z0",
+    "name": "葉山港堤防",
+    "image": "https://image.xinu.ink/pic/data/866/images/54po2z0-1758179395622.jpg",
+    "ep": "エガクミライ",
+    "s": 72,
+    "geo": [
+      35.283,
+      139.567
+    ]
+  },
+  {
+    "id": "54pwz69",
+    "name": "葉山港堤防 防波堤A 防波護岸入口",
+    "image": "https://image.xinu.ink/pic/data/866/images/54pwz69-1758179664784.jpg",
+    "ep": "エガクミライ",
+    "s": 79,
+    "geo": [
+      35.2832,
+      139.5672
+    ]
+  },
+  {
+    "id": "54qny8q",
+    "name": "芝崎海岸",
+    "image": "https://image.xinu.ink/pic/data/866/images/54qny8q-1758180938604.jpg",
+    "ep": "エガクミライ",
+    "s": 80,
+    "geo": [
+      35.2661,
+      139.5691
+    ]
+  },
+  {
+    "id": "54qzbr5",
+    "name": "一色海水浴場",
+    "image": "https://image.xinu.ink/pic/data/866/images/54qzbr5-1758181490169.jpg",
+    "ep": "エガクミライ",
+    "s": 85,
+    "geo": [
+      35.2635,
+      139.5766
+    ],
+    "origin": "Anitabi@checkyoursignal",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "54rkjc2",
+    "name": "葉山港防波堤赤灯台（葉山港A防波堤灯台）",
+    "image": "https://image.xinu.ink/pic/data/866/images/54rkjc2-1758182462386.jpg",
+    "ep": "エガクミライ",
+    "s": 88,
+    "geo": [
+      35.2831,
+      139.5659
+    ]
+  },
+  {
+    "id": "54rxk7g",
+    "name": "鐙摺児童遊園",
+    "image": "https://image.xinu.ink/pic/data/866/images/54rxk7g-1758183098394.jpg",
+    "ep": "エガクミライ",
+    "s": 158,
+    "geo": [
+      35.2838,
+      139.5689
+    ]
+  },
+  {
+    "id": "54rk42j",
+    "cn": "潮騒小道",
+    "name": "しおさいこみち",
+    "image": "https://image.xinu.ink/pic/data/866/images/54rk42j-1758342476314.jpg",
+    "ep": "エガクミライ",
+    "s": 178,
+    "geo": [
+      35.2642,
+      139.5766
+    ]
+  },
+  {
+    "id": "54rw4qs",
+    "cn": "葉山町牌子",
+    "name": "葉山町",
+    "image": "https://image.xinu.ink/pic/data/866/images/54rw4qs-1758188761988.jpg",
+    "ep": "エガクミライ",
+    "s": 166,
+    "geo": [
+      35.2848,
+      139.5701
+    ]
+  },
+  {
+    "id": "54sqr54",
+    "cn": "叶山港棕榈树",
+    "name": "葉山港ヤシの木",
+    "image": "https://image.xinu.ink/pic/data/866/images/54sqr54-1758184527639.jpg",
+    "ep": "エガクミライ",
+    "s": 55,
+    "geo": [
+      35.2838,
+      139.5675
+    ]
+  },
+  {
+    "id": "54t1liy",
+    "cn": "叶山巴士站",
+    "name": "葉山（バス）",
+    "image": "https://image.xinu.ink/pic/data/866/images/54t1liy-1758184978005.jpg",
+    "ep": "エガクミライ",
+    "s": 111,
+    "geo": [
+      35.2623,
+      139.5796
+    ]
+  },
+  {
+    "id": "54tqsaq",
+    "name": "シァルの砂時計",
+    "image": "https://image.xinu.ink/pic/data/866/images/54tqsaq-1758186091395.jpg",
+    "ep": "エガクミライ",
+    "s": 143,
+    "geo": [
+      35.2752,
+      139.5718
+    ]
+  },
+  {
+    "id": "54tvshw",
+    "name": "SCAPES THE SUITE",
+    "image": "https://image.xinu.ink/pic/data/866/images/54tvshw-1758186342533.jpg",
+    "ep": "エガクミライ",
+    "s": 138,
+    "geo": [
+      35.2752,
+      139.5716
+    ]
+  },
+  {
+    "id": "54u3dsb",
+    "cn": "三角屋根停车场",
+    "name": "三角屋根",
+    "image": "https://image.xinu.ink/pic/data/866/images/54u3dsb-1758186689829.jpg",
+    "ep": "エガクミライ",
+    "s": 158,
+    "geo": [
+      35.2716,
+      139.5714
+    ]
+  },
+  {
+    "id": "54u7thu",
+    "name": " 森戸海岸第５ 駐車場 自動販売機",
+    "image": "https://image.xinu.ink/pic/data/866/images/54u7thu-1758186914954.jpg",
+    "ep": "エガクミライ",
+    "s": 175,
+    "geo": [
+      35.2717,
+      139.5713
+    ]
+  },
+  {
+    "id": "54ujirg",
+    "cn": "真名濑巴士站观景平台",
+    "name": "真名瀬（バス）",
+    "image": "https://image.xinu.ink/pic/data/866/images/54ujirg-1758187466001.jpg",
+    "ep": "エガクミライ",
+    "s": 160,
+    "geo": [
+      35.2703,
+      139.571
+    ]
+  },
+  {
+    "id": "54v8bs7",
+    "name": "コンドミニアムザハヤマ東棟",
+    "image": "https://image.xinu.ink/pic/data/866/images/54v8bs7-1758188659622.jpg",
+    "ep": "エガクミライ",
+    "s": 165,
+    "geo": [
+      35.2662,
+      139.5704
+    ]
+  },
+  {
+    "id": "54vhvuc",
+    "name": "葉山港",
+    "image": "https://image.xinu.ink/pic/data/866/images/54vhvuc-1758189081539.jpg",
+    "ep": "エガクミライ",
+    "s": 167,
+    "geo": [
+      35.283,
+      139.5661
+    ]
+  },
+  {
+    "id": "54vnklw",
+    "name": "渚橋交差点",
+    "image": "https://image.xinu.ink/pic/data/866/images/54vnklw-1758189300354.jpg",
+    "ep": "エガクミライ",
+    "s": 169,
+    "geo": [
+      35.2867,
+      139.5741
+    ]
+  },
+  {
+    "id": "54xa98k",
+    "cn": "县道207线急弯标记",
+    "name": "県道207線の急カーブ標示",
+    "image": "https://image.xinu.ink/pic/data/866/images/54xa98k-1758192197697.jpg",
+    "ep": "エガクミライ",
+    "s": 176,
+    "geo": [
+      35.2709,
+      139.5713
+    ]
+  },
+  {
+    "id": "54xhxgw",
+    "cn": "叶山公园凉棚",
+    "name": "バーゴラ（葉山公園）",
+    "image": "https://image.xinu.ink/pic/data/866/images/54xhxgw-1758192480651.jpg",
+    "ep": "エガクミライ",
+    "s": 176,
+    "geo": [
+      35.2584,
+      139.5796
+    ],
+    "origin": "Anitabi@checkyoursignal",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "54y55f4",
+    "name": "大浜海岸",
+    "image": "https://image.xinu.ink/pic/data/866/images/54y55f4-1758193494643.jpg",
+    "ep": "エガクミライ",
+    "s": 181,
+    "geo": [
+      35.259,
+      139.5784
+    ]
+  },
+  {
+    "id": "57i3c4d",
+    "name": "県道134号",
+    "image": "https://image.xinu.ink/pic/data/866/images/57i3c4d-1758347981969.jpg",
+    "ep": "エガクミライ",
+    "s": 177,
+    "geo": [
+      35.29,
+      139.5738
+    ],
+    "origin": "Anitabi@checkyoursignal",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "58xqyas",
+    "name": "諏訪町下海岸",
+    "image": "https://image.xinu.ink/pic/data/866/images/58xqyas-1758434788503.jpg",
+    "ep": "エガクミライ",
+    "s": 92,
+    "geo": [
+      35.2792,
+      139.5703
+    ]
+  },
+  {
+    "id": "58xzs2u",
+    "cn": "紫阳花公园",
+    "name": "あじさい公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/58xzs2u-1758435133649.jpg",
+    "ep": "エガクミライ",
+    "s": 87,
+    "geo": [
+      35.2703,
+      139.5759
+    ]
+  },
+  {
+    "id": "5928sc2",
+    "name": "小磯の鼻",
+    "image": "https://image.xinu.ink/pic/data/866/images/5928sc2-1758442279477.jpg",
+    "ep": "エガクミライ",
+    "s": 197,
+    "geo": [
+      35.2605,
+      139.5763
+    ],
+    "origin": "Anitabi@checkyoursignal",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4t8x4ww",
+    "cn": "幕张国际展览中心停车场",
+    "name": "幕張メッセ駐車場",
+    "image": "https://image.xinu.ink/pic/data/866/images/4t8x4ww-1757486078720.jpg",
+    "ep": "OP《壱雫空》取景地",
+    "geo": [
+      35.6513,
+      140.0289
+    ],
+    "origin": "紫荆7x",
+    "originLink": "https://bbs.nga.cn/read.php?tid=45059067"
   }
 ]

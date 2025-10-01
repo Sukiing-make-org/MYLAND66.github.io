@@ -371,5 +371,71 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1Ql3IPoV0dhpAz6GbjZwXlOWDnEg&ll=36.312827%2C139.806489&z=17"
+  },
+  {
+    "id": "4i6ahr1",
+    "name": "公园口",
+    "image": "https://image.xinu.ink/pic/data/477/images/4i6ahr1-1756816466455.jpg",
+    "ep": "16",
+    "s": "52",
+    "geo": [
+      35.8904,
+      139.799
+    ],
+    "origin": "Anitabi@蛙壶真君",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4i6bvbd",
+    "name": "公园凉亭",
+    "image": "https://image.xinu.ink/pic/data/477/images/4i6bvbd-1756816567465.jpg",
+    "ep": "4",
+    "s": "1112",
+    "geo": [
+      35.8904,
+      139.7993
+    ],
+    "origin": "Anitabi@蛙壶真君",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4i6glqv",
+    "name": "東越谷第一ポンプ場",
+    "image": "https://image.xinu.ink/pic/data/477/images/4i6glqv-1756816787732.jpg",
+    "ep": "4",
+    "s": "1196",
+    "geo": [
+      35.8901,
+      139.7993
+    ],
+    "origin": "Anitabi@蛙壶真君",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4i7lrxk",
+    "cn": "公园",
+    "name": "公园椅子",
+    "image": "https://image.xinu.ink/pic/data/477/images/4i7lrxk-1756819040591.jpg",
+    "ep": "9",
+    "s": "1206",
+    "geo": [
+      35.8911,
+      139.8006
+    ],
+    "origin": "Anitabi@蛙壶真君",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4i7i0v4",
+    "name": "東越谷２丁目自治会館",
+    "image": "https://image.xinu.ink/pic/data/477/images/4i7i0v4-1756818474848.jpg",
+    "ep": "13",
+    "s": "179",
+    "geo": [
+      35.8901,
+      139.7993
+    ],
+    "origin": "Anitabi@蛙壶真君",
+    "originURL": "https://anitabi.cn/"
   }
 ]

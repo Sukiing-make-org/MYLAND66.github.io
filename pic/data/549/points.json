@@ -972,5 +972,38 @@
     ],
     "origin": "Anitabi@Nakano Prisma",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5fa2wxl",
+    "cn": "土庄町永代桥",
+    "name": "土庄町永代橋",
+    "image": "https://image.xinu.ink/pic/data/549/images/5fa2wxl-1758818219336.jpg",
+    "ep": null,
+    "geo": [
+      34.4858,
+      134.1869
+    ]
+  },
+  {
+    "id": "5fagbyv",
+    "name": "小豆島霊場第58番 奥の院 誓願の塔",
+    "image": "https://image.xinu.ink/pic/data/549/images/5fagbyv-1758818838817.jpg",
+    "ep": null,
+    "geo": [
+      34.4828,
+      134.1871
+    ]
+  },
+  {
+    "id": "5famcs4",
+    "cn": "Books Kotobuki前的海岸",
+    "name": "Books Kotobuki前的海岸",
+    "image": "https://image.xinu.ink/pic/data/549/images/5famcs4-1758819223477.jpg",
+    "ep": null,
+    "s": "",
+    "geo": [
+      34.4819,
+      134.1889
+    ]
   }
 ]

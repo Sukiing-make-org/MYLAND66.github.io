@@ -1,0 +1,35 @@
+{
+  "id": 404998,
+  "cn": "宇宙的音乐",
+  "title": "宇宙の音楽",
+  "city": "明石市",
+  "cover": "https://image.xinu.ink/pic/data/6098/images/404998_IHZeC.jpg",
+  "modified": 1758761964691,
+  "litePoints": [
+    {
+      "id": "5eciowd",
+      "name": "明石市立天文科学館 北",
+      "image": "https://image.anitabi.cn/points/404998/5eciowd_1758761832319.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        34.6496,
+        135.0015
+      ]
+    },
+    {
+      "id": "5eclm7c",
+      "name": "明石高",
+      "image": "https://image.anitabi.cn/points/404998/5eclm7c_1758761960177.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        34.6568,
+        135.0083
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "name": "宇宙の音楽",
+  "name_cn": "宇宙的音乐",
+  "local_id": 6098
+}

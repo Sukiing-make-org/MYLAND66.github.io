@@ -193,5 +193,46 @@
       35.7005,
       139.7487
     ]
+  },
+  {
+    "id": "v70i7zltv",
+    "cn": "洗足站",
+    "name": "洗足駅",
+    "image": "https://image.xinu.ink/pic/data/822/images/v70i7zltv-1746148166651.jpg",
+    "ep": 4,
+    "s": 816,
+    "geo": [
+      35.6104,
+      139.6942
+    ],
+    "origin": "Anitabi@柒宇",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j9pqf3ua3",
+    "cn": "原町交番",
+    "name": "碑文谷警察署 原町交番",
+    "image": "https://image.xinu.ink/pic/data/822/images/j9pqf3ua3_1726752596262_c16v9.jpg",
+    "ep": 4,
+    "s": 815,
+    "geo": [
+      35.6151,
+      139.6915
+    ],
+    "origin": "Anitabi@Eureka",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v70i7zue7",
+    "name": "目黑",
+    "image": "https://image.xinu.ink/pic/data/822/images/v70i7zue7-1746148166655.jpg",
+    "ep": 5,
+    "s": 1275,
+    "geo": [
+      35.6333,
+      139.7156
+    ],
+    "origin": "Anitabi@柒宇",
+    "originURL": "https://anitabi.cn/"
   }
 ]

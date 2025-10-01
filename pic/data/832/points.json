@@ -388,5 +388,138 @@
       35.8852,
       139.2806
     ]
+  },
+  {
+    "id": "5f8ozqz",
+    "cn": "西武秩父线铁路",
+    "name": "西武秩父線鉄道",
+    "image": "https://image.xinu.ink/pic/data/832/images/5f8ozqz-1758815868211.jpg",
+    "ep": 1,
+    "s": "",
+    "geo": [
+      35.9088,
+      139.2235
+    ]
+  },
+  {
+    "id": "5f8ywof",
+    "cn": "夜间散步",
+    "name": "夜の散歩",
+    "image": "https://image.xinu.ink/pic/data/832/images/5f8ywof-1758816338306.jpg",
+    "ep": "1",
+    "geo": [
+      35.9114,
+      139.2215
+    ]
+  },
+  {
+    "id": "5f93i47",
+    "cn": "吾野小路",
+    "name": "吾野の小道",
+    "image": "https://image.xinu.ink/pic/data/832/images/5f93i47-1758816559555.jpg",
+    "ep": 1,
+    "s": "",
+    "geo": [
+      35.9116,
+      139.2214
+    ]
+  },
+  {
+    "id": "5f99ld8",
+    "cn": "高丽川的旁边",
+    "name": "高麗川の隣",
+    "image": "https://image.xinu.ink/pic/data/832/images/5f99ld8-1758816839761.jpg",
+    "ep": "1",
+    "geo": [
+      35.9083,
+      139.2321
+    ]
+  },
+  {
+    "id": "5f9dvu4",
+    "cn": "高丽川附近",
+    "name": "高麗川の隣",
+    "image": "https://image.xinu.ink/pic/data/832/images/5f9dvu4-1758817082250.jpg",
+    "ep": "1",
+    "geo": [
+      35.9093,
+      139.232
+    ]
+  },
+  {
+    "id": "5f9hixh",
+    "cn": "静留奔跑的道路",
+    "name": "静留の走る道",
+    "image": "https://image.xinu.ink/pic/data/832/images/5f9hixh-1758817211740.jpg",
+    "ep": "1",
+    "geo": [
+      35.9098,
+      139.2317
+    ]
+  },
+  {
+    "id": "5f9njhs",
+    "cn": "吾野站和后面的墓地",
+    "name": "吾野駅とはか",
+    "image": "https://image.xinu.ink/pic/data/832/images/5f9njhs-1758817505229.jpg",
+    "ep": "1",
+    "geo": [
+      35.9083,
+      139.2263
+    ]
+  },
+  {
+    "id": "5f9swql",
+    "cn": "吾野宿的对面",
+    "name": "吾野宿の対面",
+    "image": "https://image.xinu.ink/pic/data/832/images/5f9swql-1758817745417.jpg",
+    "ep": "1",
+    "geo": [
+      35.9102,
+      139.2312
+    ]
+  },
+  {
+    "id": "5faeuym",
+    "cn": "吾野站与墓地",
+    "name": "吾野駅とはか",
+    "image": "https://image.xinu.ink/pic/data/832/images/5faeuym-1758818770161.jpg",
+    "ep": "1",
+    "geo": [
+      35.9082,
+      139.2262
+    ]
+  },
+  {
+    "id": "5fak8gy",
+    "cn": "高丽川的附近",
+    "name": "高麗川の隣",
+    "image": "https://image.xinu.ink/pic/data/832/images/5fak8gy-1758819003649.jpg",
+    "ep": "1",
+    "geo": [
+      35.9083,
+      139.2321
+    ]
+  },
+  {
+    "id": "5fanpl2",
+    "cn": "西武秩父线的平交道口",
+    "name": "西武秩父線の踏切",
+    "image": "https://image.xinu.ink/pic/data/832/images/5fanpl2-1758819162485.jpg",
+    "ep": "1",
+    "geo": [
+      35.9087,
+      139.2235
+    ]
+  },
+  {
+    "id": "5faqhrc",
+    "name": "SK​マテリアル​(株)​吾野​鉱業​所",
+    "image": "https://image.xinu.ink/pic/data/832/images/5faqhrc-1758819294247.jpg",
+    "ep": null,
+    "geo": [
+      35.9094,
+      139.222
+    ]
   }
 ]

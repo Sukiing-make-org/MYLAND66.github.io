@@ -123,5 +123,102 @@
       136.4523
     ],
     "originLink": "https://maps.app.goo.gl/Q1MWy1G1py77VLpi7"
+  },
+  {
+    "id": "5i0u8r5",
+    "name": "ファミリー​マート\n小松​城南​店",
+    "image": "https://image.xinu.ink/pic/data/6052/images/5i0u8r5-1758984084835.jpg",
+    "ep": 1,
+    "s": 775,
+    "geo": [
+      36.4074,
+      136.4371
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5i1gxom",
+    "cn": "城南町中路口",
+    "name": "城南町中交差点付近",
+    "image": "https://image.xinu.ink/pic/data/6052/images/5i1gxom-1758985128996.jpg",
+    "ep": 1,
+    "s": 788,
+    "geo": [
+      36.4071,
+      136.437
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5i1exki",
+    "cn": "京町路口",
+    "name": "京町交差点付近",
+    "image": "https://image.xinu.ink/pic/data/6052/images/5i1exki-1758985052380.jpg",
+    "ep": 1,
+    "s": 863,
+    "geo": [
+      36.4059,
+      136.4496
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5j2ixgo",
+    "cn": "向本折大桥",
+    "name": "向本折大橋",
+    "image": "https://image.xinu.ink/pic/data/6052/images/5j2ixgo_1759047382658.jpg",
+    "ep": 2,
+    "s": 160,
+    "geo": [
+      36.3959,
+      136.4361
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5j2lo4f",
+    "cn": "細江町東路口附近",
+    "name": "細江町東付近交差点",
+    "image": "https://image.xinu.ink/pic/data/6052/images/5j2lo4f_1759047496199.jpg",
+    "ep": 4,
+    "s": 339,
+    "geo": [
+      36.4057,
+      136.4524
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5i0saes",
+    "cn": "小松市立图书馆",
+    "name": "小松市立図書館",
+    "image": "https://image.xinu.ink/pic/data/6052/images/5i0saes-1758983989197.jpg",
+    "ep": 4,
+    "s": 1406,
+    "geo": [
+      36.4093,
+      136.4468
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5i1c75k",
+    "cn": "三日市商店街",
+    "name": "三日市商店街",
+    "image": "https://image.xinu.ink/pic/data/6052/images/5i1c75k-1758984918854.jpg",
+    "ep": 9,
+    "s": 21,
+    "geo": [
+      36.4031,
+      136.4494
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
   }
 ]

@@ -1995,5 +1995,256 @@
       34.7636,
       137.3821
     ]
+  },
+  {
+    "id": "mp7f71dal",
+    "cn": "白谷海滨公园",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/898/images/mp7f71dal_1722182918903.jpg",
+    "ep": 3,
+    "s": 650,
+    "geo": [
+      34.6861,
+      137.2324
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u41i7gqm4",
+    "name": "パン 生菓子 ボン･千賀",
+    "image": "https://image.xinu.ink/pic/data/898/images/u41i7gqm4-1743093290600.jpg",
+    "ep": 5,
+    "s": 785,
+    "geo": [
+      34.7633,
+      137.385
+    ],
+    "origin": "Anitabi@折木",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5f70b2v",
+    "name": "日の丸​薬局​駅前​店",
+    "image": "https://image.xinu.ink/pic/data/898/images/5f70b2v-1758813123285.jpg",
+    "ep": "ED1",
+    "s": 39,
+    "geo": [
+      34.7633,
+      137.3849
+    ],
+    "origin": "Anitabi@Elm",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mowb4uyy6",
+    "cn": "精文馆书店 丰桥本店前",
+    "name": "精文館書店 豊橋本店",
+    "image": "https://image.xinu.ink/pic/data/898/images/mowb4uyy6-1722158833278.jpg",
+    "ep": 3,
+    "s": 509,
+    "geo": [
+      34.7642,
+      137.384
+    ]
+  },
+  {
+    "id": "njpy9f8lc",
+    "cn": "丰桥市立旭小学校",
+    "name": "旭小",
+    "image": "https://image.xinu.ink/pic/data/898/images/njpy9f8lc_1724574178841.jpg",
+    "ep": 7,
+    "s": 647,
+    "geo": [
+      34.7667,
+      137.4042
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "um57r1l3u",
+    "cn": "田原街道",
+    "name": "田原街道",
+    "image": "https://image.xinu.ink/pic/data/898/images/um57r1l3u-1744511909976.jpg",
+    "ep": "EP2",
+    "s": 1356,
+    "geo": [
+      34.7417,
+      137.3855
+    ]
+  },
+  {
+    "id": "njqycuyqi",
+    "name": "愛知大学前",
+    "image": "https://image.xinu.ink/pic/data/898/images/njqycuyqi_1724576361149.jpg",
+    "ep": 7,
+    "s": 1230,
+    "geo": [
+      34.7401,
+      137.3855
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ndwystwq2",
+    "cn": "丰桥站西口",
+    "name": "豊橋駅西口",
+    "image": "https://image.xinu.ink/pic/data/898/images/ndwystwq2-1724119341290.jpg",
+    "ep": 6,
+    "s": 209,
+    "geo": [
+      34.7626,
+      137.381
+    ],
+    "origin": "Anitabi@折木八幡desu",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u41sspz9c",
+    "cn": "丰桥市地下资源馆",
+    "name": "豊橋市​地下資源館",
+    "image": "https://image.xinu.ink/pic/data/898/images/u41sspz9c-1743093931427.jpg",
+    "ep": 6,
+    "s": 238,
+    "geo": [
+      34.7291,
+      137.4313
+    ],
+    "origin": "Anitabi@折木",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "negnl9z9m",
+    "cn": "丰桥市视听教育中心",
+    "name": "豊橋市視聴覚教育センター",
+    "image": "https://image.xinu.ink/pic/data/898/images/negnl9z9m_1724162140580.jpg",
+    "ep": 6,
+    "s": 234,
+    "geo": [
+      34.7292,
+      137.4319
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "necboq72t",
+    "cn": "岩屋公园巴士站",
+    "name": "岩屋公園口バス",
+    "image": "https://image.xinu.ink/pic/data/898/images/necboq72t_1724152831849.jpg",
+    "ep": 6,
+    "s": 546,
+    "geo": [
+      34.7289,
+      137.4306
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "negbaym0v",
+    "name": "奥三河​観光​案内​所",
+    "image": "https://image.xinu.ink/pic/data/898/images/negbaym0v_1724161424261.jpg",
+    "ep": 6,
+    "s": 850,
+    "geo": [
+      34.9176,
+      137.5337
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "njoq2reus",
+    "cn": "副川诹访神社",
+    "name": "副川諏訪神社",
+    "image": "https://image.xinu.ink/pic/data/898/images/njoq2reus_1724571574185.jpg",
+    "ep": 7,
+    "s": 304,
+    "geo": [
+      35.0169,
+      137.5557
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "njowgi7hj",
+    "cn": "本长篠站",
+    "name": "本長篠",
+    "image": "https://image.xinu.ink/pic/data/898/images/njowgi7hj_1724571915633.jpg",
+    "ep": 7,
+    "s": 546,
+    "geo": [
+      34.9326,
+      137.5761
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nt3c4arjq",
+    "name": "あぐり​パーク​食彩​村",
+    "image": "https://image.xinu.ink/pic/data/898/images/nt3c4arjq_1725308602528_c16v9.jpg",
+    "ep": 8,
+    "s": 935,
+    "geo": [
+      34.6961,
+      137.4148
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "om7lsrrxn",
+    "cn": "大花坛",
+    "name": "大花壇",
+    "image": "https://image.xinu.ink/pic/data/898/images/om7lsrrxn_1727590454912_c16v9.jpg",
+    "ep": 11,
+    "s": 238,
+    "geo": [
+      34.7216,
+      137.4348
+    ],
+    "originLink": "https://i-animal.jp/NonhoiPark/mappage.html?lang=ch"
+  },
+  {
+    "id": "vhgs5bgs8",
+    "cn": "爱知大学丰桥校区侧门",
+    "name": "愛知大学 豊橋キャンパス",
+    "image": "https://image.xinu.ink/pic/data/898/images/vhgs5bgs8_1746966371577.jpg",
+    "ep": "EP2",
+    "geo": [
+      34.7393,
+      137.3861
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "mhk5zbeyw",
+    "cn": "丰桥综合动植物公园 大花坛",
+    "name": "豊橋総合動植物公園（のんほいパーク）　大花壇",
+    "image": "https://image.xinu.ink/pic/data/898/images/mhk5zbeyw_1721583748721.jpg",
+    "ep": "op",
+    "s": "",
+    "geo": [
+      34.7214,
+      137.4349
+    ],
+    "originLink": "https://i-animal.jp/NonhoiPark/mappage.html?lang=ch"
+  },
+  {
+    "id": "5g7ziou",
+    "name": "モリタウン",
+    "image": "https://image.xinu.ink/pic/data/898/images/5g7ziou-1758875302045.jpg",
+    "ep": "ツワブキ高校文芸部課外活動",
+    "geo": [
+      35.7137,
+      139.3612
+    ],
+    "originLink": "https://makeine-anime.com/event/"
   }
 ]

@@ -20,5 +20,40 @@
       31.2157,
       130.7633
     ]
+  },
+  {
+    "id": "5f9abfg",
+    "cn": "宗谷岬",
+    "name": "Cape Sōya",
+    "image": "https://image.xinu.ink/pic/data/6070/images/5f9abfg-1758817048228.jpg",
+    "ep": "Episode 32 (5.0新版本剧情)",
+    "geo": [
+      45.5229,
+      141.9366
+    ],
+    "originLink": "https://maps.app.goo.gl/bhy8VD4bE6rEkDRLA"
+  },
+  {
+    "id": "5f9g7da",
+    "cn": "八王子駅",
+    "name": "Hachiōji Station",
+    "image": "https://image.xinu.ink/pic/data/6070/images/5f9g7da-1758817214750.jpg",
+    "ep": "Episode 25 (5.0新版本剧情)",
+    "geo": [
+      35.6563,
+      139.3391
+    ],
+    "originLink": "https://maps.app.goo.gl/HioVczjqNCGGkb2U7"
+  },
+  {
+    "id": "5f9opxh",
+    "cn": "鹿儿岛县 种子岛警察局",
+    "name": "鹿児島県 種子島警察署",
+    "image": "https://image.xinu.ink/pic/data/6070/images/5f9opxh-1758817614978.jpg",
+    "ep": "Episode 1",
+    "geo": [
+      30.7171,
+      130.9816
+    ]
   }
 ]

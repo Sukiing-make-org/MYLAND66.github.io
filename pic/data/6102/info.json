@@ -1,0 +1,51 @@
+{
+  "id": 545133,
+  "cn": "美波超进化",
+  "title": "ミナミザスーパーエボリューション",
+  "city": "多摩市",
+  "cover": "https://image.xinu.ink/pic/data/6102/images/545133_GEGJ5.jpg",
+  "modified": 1758066205510,
+  "litePoints": [
+    {
+      "id": "52u5kws",
+      "name": "多摩川 京王线东",
+      "image": "https://image.anitabi.cn/points/545133/52u5kws_1758065881112.jpg?plan=h160",
+      "geo": [
+        35.6528,
+        139.4518
+      ]
+    },
+    {
+      "id": "52u7m73",
+      "name": "多摩川 京王线",
+      "image": "https://image.anitabi.cn/points/545133/52u7m73_1758065981815.jpg?plan=h160",
+      "geo": [
+        35.6542,
+        139.4503
+      ]
+    },
+    {
+      "id": "52u6nws",
+      "name": "多摩川 京王线东 西眺",
+      "image": "https://image.anitabi.cn/points/545133/52u6nws_1758065899564.jpg?plan=h160",
+      "geo": [
+        35.6526,
+        139.452
+      ]
+    },
+    {
+      "id": "52ubp17",
+      "name": "ヴィータ​聖蹟​桜ヶ丘\n聖蹟​桜ヶ丘​ビュー​タワー",
+      "image": "https://image.anitabi.cn/points/545133/52ubp17_1758066199718.jpg?plan=h160",
+      "geo": [
+        35.6493,
+        139.4473
+      ]
+    }
+  ],
+  "pointsLength": 8,
+  "imagesLength": 8,
+  "name": "ミナミザスーパーエボリューション",
+  "name_cn": "美波超进化",
+  "local_id": 6102
+}
