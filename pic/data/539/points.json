@@ -466,5 +466,29 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1g1Yv1CWGw_XAGyiHOhq4jtxikKwXifo&ll=36.498194%2C138.916588&z=17"
+  },
+  {
+    "id": "6p3d6xd",
+    "name": "ロックハート城 駐車場",
+    "image": "https://image.xinu.ink/pic/data/539/images/6p3d6xd-1761588440325.jpg",
+    "ep": 5,
+    "s": 169,
+    "geo": [
+      36.6321,
+      138.9879
+    ]
+  },
+  {
+    "id": "6poebgl",
+    "cn": "锁心城堡",
+    "name": "ロックハート城",
+    "image": "https://image.xinu.ink/pic/data/539/images/6poebgl-1761623790297.jpg",
+    "ep": "5",
+    "geo": [
+      36.6307,
+      138.9885
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
   }
 ]

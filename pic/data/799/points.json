@@ -75,5 +75,65 @@
     ],
     "origin": "Anitabi@耿耿-げん",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6ct1gqz",
+    "cn": "立川立飞",
+    "name": "ららぽーと​立川​立飛",
+    "image": "https://image.xinu.ink/pic/data/799/images/6ct1gqz-1760845949715.jpg",
+    "ep": "9",
+    "s": "13:37",
+    "geo": [
+      35.7126,
+      139.418
+    ]
+  },
+  {
+    "id": "6dhjjmp",
+    "cn": "立飞站",
+    "name": "立飛",
+    "image": "https://image.xinu.ink/pic/data/799/images/6dhjjmp-1760886638417.jpg",
+    "ep": "9",
+    "s": "17:11",
+    "geo": [
+      35.7143,
+      139.4171
+    ]
+  },
+  {
+    "id": "6disc3h",
+    "cn": "多摩川绿道",
+    "name": "府中多摩川かぜのみち",
+    "image": "https://image.xinu.ink/pic/data/799/images/6disc3h-1760888955330.jpg",
+    "ep": "7",
+    "s": "22:00",
+    "geo": [
+      35.6531,
+      139.4739
+    ]
+  },
+  {
+    "id": "6enq49g",
+    "cn": "是政橋",
+    "name": "是政橋",
+    "image": "https://image.xinu.ink/pic/data/799/images/6enq49g-1760957465416.jpg",
+    "ep": "7",
+    "s": "19:30",
+    "geo": [
+      35.6535,
+      139.4878
+    ]
+  },
+  {
+    "id": "6enwoyb",
+    "cn": "多摩川步行道",
+    "name": "府中多摩川かぜのみち",
+    "image": "https://image.xinu.ink/pic/data/799/images/6enwoyb-1760957835765.jpg",
+    "ep": "7",
+    "s": "21:31",
+    "geo": [
+      35.6539,
+      139.4778
+    ]
   }
 ]

@@ -1,0 +1,124 @@
+{
+  "id": 539395,
+  "cn": "末世二轮之旅",
+  "title": "終末ツーリング",
+  "cover": "https://image.xinu.ink/pic/data/6111/images/539395_I5958.jpg",
+  "cp": "終末ツーリング",
+  "modified": 1759681852227,
+  "litePoints": [
+    {
+      "id": "5th8ltn",
+      "cn": "箱根町 公交站",
+      "name": "箱根町 バス停",
+      "image": "https://image.anitabi.cn/points/539395/5th8ltn_1759676817282.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.1902,
+        139.0261
+      ]
+    },
+    {
+      "id": "5thw3ft",
+      "cn": "第一鸟居",
+      "name": "第一鳥居",
+      "image": "https://image.anitabi.cn/points/539395/5thw3ft_1759677890180.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.2008,
+        139.0307
+      ]
+    },
+    {
+      "id": "5ti0v60",
+      "cn": "赛的河原",
+      "name": "賽の河原",
+      "image": "https://image.anitabi.cn/points/539395/5ti0v60_1759678093978.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.2011,
+        139.0308
+      ]
+    },
+    {
+      "id": "5ti8et5",
+      "cn": "一号国道 路标",
+      "name": "一号国道 路标",
+      "image": "https://image.anitabi.cn/points/539395/5ti8et5_1759678445719.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.2021,
+        139.0312
+      ]
+    },
+    {
+      "id": "5thl63u",
+      "cn": "小天鹅船 港口",
+      "name": "ボート乗り場",
+      "image": "https://image.anitabi.cn/points/539395/5thl63u_1759677438031.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.2015,
+        139.0306
+      ]
+    },
+    {
+      "id": "5tibrvv",
+      "cn": "一号国道 十字路口",
+      "name": "一号国道 交叉点",
+      "image": "https://image.anitabi.cn/points/539395/5tibrvv_1759678604304.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.203,
+        139.0315
+      ]
+    },
+    {
+      "id": "5tiggin",
+      "cn": "一号国道",
+      "name": "一号国道",
+      "image": "https://image.anitabi.cn/points/539395/5tiggin_1759678800861.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.2023,
+        139.0313
+      ]
+    },
+    {
+      "id": "5tiwvrx",
+      "name": "箱根神社 正门",
+      "image": "https://image.anitabi.cn/points/539395/5tiwvrx_1759679572140.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.2045,
+        139.0253
+      ]
+    },
+    {
+      "id": "5tixxix",
+      "cn": "箱根神社 九头龙神社 新宮",
+      "name": "箱根神社 九頭龍神社 新宮",
+      "image": "https://image.anitabi.cn/points/539395/5tixxix_1759679629610.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.2045,
+        139.0256
+      ]
+    },
+    {
+      "id": "5tj1wk8",
+      "cn": "箱根海盗船",
+      "name": "箱根海賊船",
+      "image": "https://image.anitabi.cn/points/539395/5tj1wk8_1759679899240.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.1941,
+        139.0201
+      ]
+    }
+  ],
+  "pointsLength": 13,
+  "imagesLength": 13,
+  "name": "終末ツーリング",
+  "name_cn": "末世二轮之旅",
+  "local_id": 6111
+}

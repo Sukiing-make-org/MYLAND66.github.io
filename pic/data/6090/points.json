@@ -48,5 +48,38 @@
       29.3547,
       104.7705
     ]
+  },
+  {
+    "id": "5r7fwny",
+    "name": "塘湾路小巷",
+    "image": "https://image.xinu.ink/pic/data/6090/images/5r7fwny_1759539712478_c16v9.jpg",
+    "geo": [
+      29.3504,
+      104.7483
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5s022wf",
+    "name": "赵颖家",
+    "image": "https://image.xinu.ink/pic/data/6090/images/5s022wf_1759587441716.jpg",
+    "geo": [
+      29.3503,
+      104.7463
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5r8z937",
+    "name": "枫叶林咖啡酒馆",
+    "image": "https://image.xinu.ink/pic/data/6090/images/5r8z937_1759581648316.jpg",
+    "geo": [
+      29.3223,
+      104.7611
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
   }
 ]

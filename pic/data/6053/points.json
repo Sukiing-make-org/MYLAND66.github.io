@@ -592,5 +592,82 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1JRWNlTXxoCHfDAf3-omZZOJ6qDZhXaDh&ll=34.793757%2C136.893904&z=17"
+  },
+  {
+    "id": "705bc238",
+    "name": "エスカ地下街 E9出入口",
+    "image": "https://image.xinu.ink/pic/data/6053/images/705bc238_1760713082141.jpg",
+    "geo": [
+      35.1703,
+      136.8808
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1JRWNlTXxoCHfDAf3-omZZOJ6qDZhXaDh&ll=35.170302%2C136.880843&z=17"
+  },
+  {
+    "id": "59b95ace",
+    "name": "エスカ地下街 E9出入口横",
+    "image": "https://image.xinu.ink/pic/data/6053/images/59b95ace_1760713092781.jpg",
+    "geo": [
+      35.1704,
+      136.8807
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1JRWNlTXxoCHfDAf3-omZZOJ6qDZhXaDh&ll=35.170449%2C136.880759&z=17"
+  },
+  {
+    "id": "52d55930",
+    "name": "ポートメッセなごや",
+    "image": "https://image.xinu.ink/pic/data/6053/images/52d55930_1760713107565.jpg",
+    "geo": [
+      35.0487,
+      136.8433
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1JRWNlTXxoCHfDAf3-omZZOJ6qDZhXaDh&ll=35.048722%2C136.843392&z=17"
+  },
+  {
+    "id": "6f53482f",
+    "name": "中橋",
+    "image": "https://image.xinu.ink/pic/data/6053/images/6f53482f_1760713121036.jpg",
+    "geo": [
+      36.14,
+      137.2592
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1JRWNlTXxoCHfDAf3-omZZOJ6qDZhXaDh&ll=36.140008%2C137.259222&z=17"
+  },
+  {
+    "id": "b2de6f8a",
+    "name": "桜城橋",
+    "image": "https://image.xinu.ink/pic/data/6053/images/b2de6f8a_1760713136170.jpg",
+    "geo": [
+      34.9549,
+      137.1661
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1JRWNlTXxoCHfDAf3-omZZOJ6qDZhXaDh&ll=34.954928%2C137.166103&z=17"
+  },
+  {
+    "id": "dc33cafe",
+    "name": "若松ポートサイドビーチ",
+    "image": "https://image.xinu.ink/pic/data/6053/images/dc33cafe_1760713449976.jpg",
+    "geo": [
+      34.7798,
+      136.8498
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1JRWNlTXxoCHfDAf3-omZZOJ6qDZhXaDh&ll=34.779801%2C136.849844&z=17"
+  },
+  {
+    "id": "85050788",
+    "name": "若松海岸",
+    "image": "https://image.xinu.ink/pic/data/6053/images/85050788_1760713488287.jpg",
+    "geo": [
+      34.78,
+      136.8497
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1JRWNlTXxoCHfDAf3-omZZOJ6qDZhXaDh&ll=34.780025%2C136.849705&z=17"
   }
 ]

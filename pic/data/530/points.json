@@ -1660,5 +1660,30 @@
     ],
     "origin": "Anitabi@Elm",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3aa8ngbj",
+    "name": "鎌倉中央公園",
+    "image": "https://image.xinu.ink/pic/data/530/images/3aa8ngbj-1760602672975.jpg",
+    "ep": 4,
+    "s": 149,
+    "geo": [
+      35.3343,
+      139.5308
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1aL7PTUG34bise1f87AZDensHuEfTLHDP&ll=35.334357%2C139.530855&z=17"
+  },
+  {
+    "id": "696b7xs",
+    "cn": "湘南海岸公园",
+    "name": "湘南海岸公園",
+    "image": "https://image.xinu.ink/pic/data/530/images/696b7xs-1760625865106.jpg",
+    "ep": 8,
+    "s": 1055,
+    "geo": [
+      35.3133,
+      139.4752
+    ]
   }
 ]

@@ -766,5 +766,57 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1_QGr5UxUby9l_ZCYAfy-0-zMWwaha7M&ll=37.04586%2C136.965159&z=17"
+  },
+  {
+    "id": "5z51hj0",
+    "name": "洋食屋​topone",
+    "image": "https://image.xinu.ink/pic/data/800/images/5z51hj0-1760019225688.jpg",
+    "ep": 8,
+    "s": 1232,
+    "geo": [
+      37.0452,
+      136.957
+    ],
+    "originLink": "https://maps.app.goo.gl/6LqAvP7TPjA6HJ2T6"
+  },
+  {
+    "id": "697q2r6",
+    "name": "七尾美術館前",
+    "image": "https://image.xinu.ink/pic/data/800/images/697q2r6-1760628334088.jpg",
+    "ep": 2,
+    "s": 1360,
+    "geo": [
+      37.0447,
+      136.9547
+    ],
+    "origin": "@香喵星人",
+    "originLink": "https://maps.app.goo.gl/n9Boj1vigWfyeo6d8"
+  },
+  {
+    "id": "6glk7qs",
+    "cn": "mont-bell 运动用品 金沢店門前",
+    "name": "モンベル 金沢店",
+    "image": "https://image.xinu.ink/pic/data/800/images/6glk7qs-1761074771206.jpg",
+    "ep": 10,
+    "s": 493,
+    "geo": [
+      36.5757,
+      136.652
+    ],
+    "origin": "@香喵星人",
+    "originLink": "https://maps.app.goo.gl/aXsMGVNxivs1A8N38"
+  },
+  {
+    "id": "6gnndm7",
+    "name": "桜町児童公園",
+    "image": "https://image.xinu.ink/pic/data/800/images/6gnndm7-1761078334251.jpg",
+    "ep": 4,
+    "s": 888,
+    "geo": [
+      37.0511,
+      136.9643
+    ],
+    "origin": "@香喵星人",
+    "originLink": "https://maps.app.goo.gl/uvw429H5hsHoU8577"
   }
 ]

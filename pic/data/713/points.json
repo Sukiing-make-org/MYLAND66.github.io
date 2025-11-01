@@ -8,5 +8,61 @@
       35.6811,
       139.6926
     ]
+  },
+  {
+    "id": "5qmlja6",
+    "cn": "涩谷全向十字路口",
+    "name": "涩谷スクランブル交差点",
+    "image": "https://image.xinu.ink/pic/data/713/images/5qmlja6-1759504667329.jpg",
+    "ep": "熱風 3Dmv",
+    "s": "1:39",
+    "geo": [
+      35.6594,
+      139.7005
+    ]
+  },
+  {
+    "id": "5qosik8",
+    "name": "渋谷ター街",
+    "image": "https://image.xinu.ink/pic/data/713/images/5qosik8-1759508200719.jpg",
+    "ep": "中央街",
+    "s": "游戏内地图",
+    "geo": [
+      35.6601,
+      139.6992
+    ]
+  },
+  {
+    "id": "5rrftxq",
+    "cn": "表参道 Hills",
+    "name": "表参道ヒルズ",
+    "image": "https://image.xinu.ink/pic/data/713/images/5rrftxq-1759573697572.jpg",
+    "ep": "宫益坂",
+    "s": "夕阳场景",
+    "geo": [
+      35.6672,
+      139.7085
+    ]
+  },
+  {
+    "id": "5qpbiko",
+    "name": "タワ一レコ一ド渋谷店",
+    "image": "https://image.xinu.ink/pic/data/713/images/5qpbiko-1759509039857.jpg",
+    "ep": "游戏内小地图-音乐商店",
+    "geo": [
+      35.6619,
+      139.7008
+    ]
+  },
+  {
+    "id": "5rsbmrj",
+    "name": "渋谷ンター街",
+    "image": "https://image.xinu.ink/pic/data/713/images/5rsbmrj-1759574446839.jpg",
+    "ep": "中央街",
+    "s": "",
+    "geo": [
+      35.6602,
+      139.6991
+    ]
   }
 ]

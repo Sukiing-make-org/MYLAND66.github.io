@@ -434,5 +434,96 @@
     ],
     "origin": "xckb的雑記帳",
     "originLink": "https://xckb.hatenablog.com/entry/2019/03/11/121527"
+  },
+  {
+    "id": "6mw8ydd",
+    "name": "佐賀県立佐賀城本丸歴史館",
+    "image": "https://image.xinu.ink/pic/data/615/images/6mw8ydd_1761455480593.jpg",
+    "ep": 2,
+    "s": 1276,
+    "geo": [
+      33.2455,
+      130.3029
+    ],
+    "origin": "Anitabi@折木",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6mw3loj",
+    "cn": "livehouse",
+    "name": "ライブハウス",
+    "image": "https://image.xinu.ink/pic/data/615/images/6mw3loj_1761455243487.jpg",
+    "ep": 1,
+    "s": 835,
+    "geo": [
+      33.267,
+      130.2978
+    ],
+    "origin": "Anitabi@折木",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6mwlnec",
+    "name": "鹿島ガタリンピック会場",
+    "image": "https://image.xinu.ink/pic/data/615/images/6mwlnec_1761456061833.jpg",
+    "ep": 5,
+    "s": 866,
+    "geo": [
+      33.0757,
+      130.1462
+    ],
+    "origin": "Anitabi@折木",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6mwx1sj",
+    "name": "伊万里湾大花火会場",
+    "image": "https://image.xinu.ink/pic/data/615/images/6mwx1sj_1761456607372.jpg",
+    "ep": 7,
+    "s": 779,
+    "geo": [
+      33.3283,
+      129.8362
+    ],
+    "origin": "Anitabi@折木",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6mvsg4y",
+    "name": "曳山展示場",
+    "image": "https://image.xinu.ink/pic/data/615/images/6mvsg4y_1761454722952.jpg",
+    "ep": 5,
+    "s": 718,
+    "geo": [
+      33.446,
+      129.97
+    ],
+    "origin": "Anitabi@折木",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6mx03oc",
+    "name": "伊万里 夢みさき公園",
+    "image": "https://image.xinu.ink/pic/data/615/images/6mx03oc_1761456737927.jpg",
+    "ep": 5,
+    "s": 541,
+    "geo": [
+      33.3469,
+      129.8502
+    ],
+    "origin": "Anitabi@折木",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "51i521uj7",
+    "name": "千代田橋",
+    "image": "https://image.xinu.ink/pic/data/615/images/51i521uj7-1761221605931.jpg",
+    "ep": 1,
+    "geo": [
+      33.4523,
+      129.9734
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1MQNdvrVVP8wk0iDD5R1QRQ34-Cf_0ahm&ll=33.452346%2C129.973465&z=17"
   }
 ]

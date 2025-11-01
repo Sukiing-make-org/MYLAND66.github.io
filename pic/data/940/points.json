@@ -107,5 +107,127 @@
       33.7955,
       132.693
     ]
+  },
+  {
+    "id": "6cjldje",
+    "name": "松前港",
+    "image": "https://image.xinu.ink/pic/data/940/images/6cjldje_1760829576415.jpg",
+    "ep": 1,
+    "s": 160,
+    "geo": [
+      33.7879,
+      132.7018
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6cjfmsi",
+    "name": "おたたの浜",
+    "image": "https://image.xinu.ink/pic/data/940/images/6cjfmsi_1760829289345.jpg",
+    "ep": 1,
+    "s": 259,
+    "geo": [
+      33.7762,
+      132.6987
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6b9tztu",
+    "cn": "盐美桥北侧",
+    "name": "塩美橋北",
+    "image": "https://image.xinu.ink/pic/data/940/images/6b9tztu_1760752692760.jpg",
+    "ep": 1,
+    "s": 268,
+    "geo": [
+      33.7957,
+      132.6929
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6b9li08",
+    "cn": "盐美桥",
+    "name": "塩美橋",
+    "image": "https://image.xinu.ink/pic/data/940/images/6b9li08_1760752682919.jpg",
+    "ep": 1,
+    "s": 269,
+    "geo": [
+      33.7956,
+      132.6929
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6b7qcw6",
+    "cn": "伊予农业高中",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6b7qcw6_1760749414272.jpg",
+    "ep": 1,
+    "s": 458,
+    "geo": [
+      33.7639,
+      132.7053
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6b8ztsb",
+    "name": "ふたみシーサイド公園",
+    "image": "https://image.xinu.ink/pic/data/940/images/6b8ztsb_1760751714506.jpg",
+    "ep": 1,
+    "s": 1109,
+    "geo": [
+      33.686,
+      132.6351
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6cksc2e",
+    "cn": "全家便利店 伊予​滩町​店",
+    "name": "ファミリー​マート伊予​灘町​店",
+    "image": "https://image.xinu.ink/pic/data/940/images/6cksc2e_1760831564043.jpg",
+    "ep": 2,
+    "s": 998,
+    "geo": [
+      33.7585,
+      132.6999
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6gb85wf",
+    "name": "伊予港",
+    "image": "https://image.xinu.ink/pic/data/940/images/6gb85wf_1761057382290.jpg",
+    "ep": 3,
+    "s": 118,
+    "geo": [
+      33.7589,
+      132.697
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6j9eupo",
+    "cn": "五色滨",
+    "name": "五色浜",
+    "image": "https://image.xinu.ink/pic/data/940/images/6j9eupo_1761235725698.jpg",
+    "ep": 4,
+    "s": 472,
+    "geo": [
+      33.7561,
+      132.6928
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
   }
 ]

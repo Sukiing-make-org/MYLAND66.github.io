@@ -338,5 +338,27 @@
     ],
     "origin": "Anitabi@耿耿-げん",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5zgecex",
+    "name": "昭和纪念公园入口的梦广场",
+    "image": "https://image.xinu.ink/pic/data/629/images/5zgecex-1760038238370.jpg",
+    "ep": 17,
+    "s": 531,
+    "geo": [
+      35.7025,
+      139.4094
+    ]
+  },
+  {
+    "id": "5zglh88",
+    "name": "昭和纪念公园西大道的人行道",
+    "image": "https://image.xinu.ink/pic/data/629/images/5zglh88-1760038560685.jpg",
+    "ep": 3,
+    "s": 1331,
+    "geo": [
+      35.7028,
+      139.4109
+    ]
   }
 ]

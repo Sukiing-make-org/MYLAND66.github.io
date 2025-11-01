@@ -1080,5 +1080,26 @@
     ],
     "origin": "Anitabi@和泉Ciao",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5rsgr0i",
+    "name": "前橋城天守閣",
+    "image": "https://image.xinu.ink/pic/data/935/images/5rsgr0i-1759574684050.jpg",
+    "ep": "",
+    "s": "",
+    "geo": [
+      36.3923,
+      139.0615
+    ]
+  },
+  {
+    "id": "5w1rzml",
+    "name": "金冠塚古墳",
+    "image": "https://image.xinu.ink/pic/data/935/images/5w1rzml-1759832181638.jpg",
+    "ep": null,
+    "geo": [
+      36.353,
+      139.1192
+    ]
   }
 ]

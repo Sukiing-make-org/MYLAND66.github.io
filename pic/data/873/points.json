@@ -2636,5 +2636,78 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5tl06kv",
+    "cn": "Mos Burger 涩谷道玄坂店",
+    "name": "モスバーガー渋谷道玄坂店",
+    "image": "https://image.xinu.ink/pic/data/873/images/5tl06kv_1759683067931.jpg",
+    "ep": 3,
+    "s": 597,
+    "geo": [
+      35.6592,
+      139.6979
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5p342qc",
+    "name": "カードボックス青馬堂 矢向店",
+    "image": "https://image.xinu.ink/pic/data/873/images/5p342qc_1759411148295.jpg",
+    "ep": "剧场版总集篇后篇",
+    "geo": [
+      35.5379,
+      139.6828
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5q0qxr4",
+    "name": "Solo殿町北",
+    "image": "https://image.xinu.ink/pic/data/873/images/5q0qxr4-1759467684608.jpg",
+    "ep": "宣传图/版权绘/封面",
+    "geo": [
+      35.5406,
+      139.7484
+    ]
+  },
+  {
+    "id": "5t0v88y",
+    "name": "Zepp DiverCity TOKYO",
+    "image": "https://image.xinu.ink/pic/data/873/images/5t0v88y_1759649240604.jpg",
+    "ep": "宣传图/版权绘/封面",
+    "geo": [
+      35.6247,
+      139.7746
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6u4usb1",
+    "name": "中国华润大厦（春笋），深圳湾",
+    "image": "https://image.xinu.ink/pic/data/873/images/6u4usb1-1761893257581.jpg",
+    "ep": "宣传图/版权绘/封面",
+    "geo": [
+      22.5132,
+      113.9464
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6gdlay9",
+    "cn": "下鸭神社",
+    "name": "下鴨神社",
+    "image": "https://image.xinu.ink/pic/data/873/images/6gdlay9-1761061377628.jpg",
+    "ep": null,
+    "geo": [
+      35.0381,
+      135.7728
+    ],
+    "origin": "Anitabi@澄蔦",
+    "originURL": "https://anitabi.cn/"
   }
 ]
