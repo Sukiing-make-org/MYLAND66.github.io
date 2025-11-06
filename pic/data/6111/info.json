@@ -120,5 +120,9 @@
   "imagesLength": 13,
   "name": "終末ツーリング",
   "name_cn": "末世二轮之旅",
-  "local_id": 6111
+  "local_id": 6111,
+  "region": [
+    "足柄下郡",
+    "神奈川縣"
+  ]
 }
