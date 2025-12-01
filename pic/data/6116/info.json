@@ -1,0 +1,60 @@
+{
+  "id": 604105,
+  "title": "Z.A.T.O. // I Love the World and Everything In It",
+  "city": "欧洲",
+  "cover": "https://image.xinu.ink/pic/data/6116/images/604105_Q5wRi.jpg",
+  "color": "#f5cce2",
+  "modified": 1764528711694,
+  "litePoints": [
+    {
+      "id": "81mlbpm",
+      "cn": "苏维埃茨基",
+      "name": "Советский, Коми",
+      "image": "https://image.anitabi.cn/points/604105/81mlbpm_1764524319719.jpg?plan=h160",
+      "geo": [
+        67.5059,
+        64.3664
+      ]
+    },
+    {
+      "id": "81op2ix",
+      "cn": "白俄罗斯音乐剧院",
+      "name": "Белорусский музыкальный театр",
+      "geo": [
+        53.8956,
+        27.5401
+      ]
+    },
+    {
+      "id": "81owxpy",
+      "name": "Автотехцентр",
+      "geo": [
+        55.7198,
+        37.1816
+      ]
+    },
+    {
+      "id": "81pa2s5",
+      "cn": "巴甫洛夫斯克中学",
+      "name": "Павловская средняя общеобразовательная школа",
+      "geo": [
+        57.8365,
+        54.8286
+      ]
+    },
+    {
+      "id": "81pqdyn",
+      "cn": "西伯利亚农工之家",
+      "name": "Сибирский агропромышленный дом",
+      "geo": [
+        54.917,
+        82.991
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 1,
+  "name": "Z.A.T.O. // I Love the World and Everything In It",
+  "theme_color": "#f5cce2",
+  "local_id": 6116
+}

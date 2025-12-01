@@ -820,5 +820,18 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1uoafgQsBhCcdeuSq71wLwiSE9RSj10Dr&ll=26.208547%2C127.651339&z=17"
+  },
+  {
+    "id": "81a5643",
+    "cn": "东京站 新干线南换乘口",
+    "name": "東京駅　新幹線南乗り換え口",
+    "image": "https://image.xinu.ink/pic/data/747/images/81a5643_1764502116236.jpg",
+    "ep": 1,
+    "s": 209,
+    "geo": [
+      35.6811,
+      139.7672
+    ],
+    "originLink": "https://www.google.com/maps/@35.6810846,139.767358,2a,45.4y,243.77h,87.69t/data=!3m8!1e1!3m6!1snBKGgBU2BmPhVLBNyWwVFQ!2e0!3e2!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.3087615546828886%26panoid%3DnBKGgBU2BmPhVLBNyWwVFQ%26yaw%3D243.7710870251786!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D"
   }
 ]

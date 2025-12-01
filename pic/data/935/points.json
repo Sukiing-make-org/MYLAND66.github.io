@@ -1101,5 +1101,29 @@
       36.353,
       139.1192
     ]
+  },
+  {
+    "id": "5cpwlab",
+    "name": "小林ビル",
+    "image": "https://image.xinu.ink/pic/data/935/images/5cpwlab_1758663369889.jpg",
+    "ep": 2,
+    "s": 833,
+    "geo": [
+      36.3882,
+      139.0722
+    ],
+    "origin": "Anitabi@和泉Ciao",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7haf441",
+    "name": "臨江閣別館2階大広間 前橋市鳥瞰図",
+    "image": "https://image.xinu.ink/pic/data/935/images/7haf441-1763293418774.jpg",
+    "ep": null,
+    "s": "",
+    "geo": [
+      36.396,
+      139.0621
+    ]
   }
 ]

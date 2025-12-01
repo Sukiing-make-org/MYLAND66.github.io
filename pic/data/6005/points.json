@@ -33,5 +33,25 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "73ajssk",
+    "name": "道の駅 大谷海岸",
+    "image": "https://image.xinu.ink/pic/data/6005/images/73ajssk-1762447019740.jpg",
+    "ep": 11,
+    "geo": [
+      38.8145,
+      141.5625
+    ]
+  },
+  {
+    "id": "73aq263",
+    "name": "はまカフェ（道の駅 大谷海岸）",
+    "image": "https://image.xinu.ink/pic/data/6005/images/73aq263-1762447302164.jpg",
+    "ep": 11,
+    "geo": [
+      38.8147,
+      141.5629
+    ]
   }
 ]

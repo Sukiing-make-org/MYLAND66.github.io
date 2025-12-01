@@ -983,5 +983,96 @@
     ],
     "origin": "ckrito",
     "originLink": "https://www.google.com/maps/d/edit?mid=1_lGB-sWlsYob0oTfYjg0R81vBa4FNj8&usp=sharing"
+  },
+  {
+    "id": "7ayn8m5",
+    "name": "代々木駅",
+    "image": "https://image.xinu.ink/pic/data/455/images/7ayn8m5-1762910683656.jpg",
+    "ep": null,
+    "s": 4465,
+    "geo": [
+      35.6848,
+      139.7019
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7ay12gr",
+    "name": "惠比寿花园广场展望台",
+    "image": "https://image.xinu.ink/pic/data/455/images/7ay12gr-1762909948632.jpg",
+    "ep": null,
+    "s": 5899,
+    "geo": [
+      35.642,
+      139.7134
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7b0zia7",
+    "name": "新宿駅 远景",
+    "image": "https://image.xinu.ink/pic/data/455/images/7b0zia7-1762914636500.jpg",
+    "ep": null,
+    "s": 1210,
+    "geo": [
+      35.6911,
+      139.7002
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7b191rb",
+    "name": "東京駅 新干线站台",
+    "image": "https://image.xinu.ink/pic/data/455/images/7b191rb-1762915095799.jpg",
+    "ep": null,
+    "s": 2786,
+    "geo": [
+      35.6791,
+      139.7671
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7b2ptos",
+    "name": "新宿センタービル",
+    "image": "https://image.xinu.ink/pic/data/455/images/7b2ptos-1762917546033.jpg",
+    "ep": null,
+    "s": 5614,
+    "geo": [
+      35.6915,
+      139.6962
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7b307zt",
+    "name": "新宿駅南口券壳機横",
+    "image": "https://image.xinu.ink/pic/data/455/images/7b307zt-1762918013147.jpg",
+    "ep": "",
+    "s": 5971,
+    "geo": [
+      35.6893,
+      139.7003
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7b6sp0r",
+    "name": "タワーレコード 渋谷店",
+    "image": "https://image.xinu.ink/pic/data/455/images/7b6sp0r-1762924380529.jpg",
+    "ep": null,
+    "s": 142,
+    "geo": [
+      35.6618,
+      139.7011
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
   }
 ]

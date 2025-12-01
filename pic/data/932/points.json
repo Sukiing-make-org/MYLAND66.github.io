@@ -55,5 +55,149 @@
       35.6574,
       139.7006
     ]
+  },
+  {
+    "id": "7kcfjnk",
+    "name": "大阪駅 暁の広場",
+    "image": "https://image.xinu.ink/pic/data/932/images/7kcfjnk-1763478078743.jpg",
+    "ep": "剧场版",
+    "s": 63,
+    "geo": [
+      34.7031,
+      135.4954
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7kcr9n4",
+    "name": "城端サービスエリア下り",
+    "image": "https://image.xinu.ink/pic/data/932/images/7kcr9n4-1763478619052.jpg",
+    "ep": "剧场版",
+    "s": 89,
+    "geo": [
+      36.5033,
+      136.8723
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7kd7xwy",
+    "name": "JR筑肥線の車内（まもなく波多江駅）",
+    "image": "https://image.xinu.ink/pic/data/932/images/7kd7xwy-1763479463164.jpg",
+    "ep": "剧场版",
+    "s": 101,
+    "geo": [
+      33.5706,
+      130.2458
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7kdg31u",
+    "name": "徳島駅前バス乗り場",
+    "image": "https://image.xinu.ink/pic/data/932/images/7kdg31u-1763479770142.jpg",
+    "ep": "剧场版",
+    "s": 110,
+    "geo": [
+      34.0738,
+      134.551
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7kdtybk",
+    "cn": "711 涩谷樱丘店前",
+    "name": "セブンイレブン 渋谷桜丘店前",
+    "image": "https://image.xinu.ink/pic/data/932/images/7kdtybk-1763480411129.jpg",
+    "ep": "剧场版",
+    "s": 165,
+    "geo": [
+      35.6558,
+      139.7007
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7ke208o",
+    "name": "桜坂 ハノイのホイさん前",
+    "image": "https://image.xinu.ink/pic/data/932/images/7ke208o-1763480793856.jpg",
+    "ep": "剧场版",
+    "s": 188,
+    "geo": [
+      35.6562,
+      139.7007
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7g4sx3o",
+    "cn": "鹿岛停车场 国分町（日本银行仙台支行别馆）",
+    "name": "カシマバーキング国分町（日本銀行仙台支店別舘）",
+    "image": "https://image.xinu.ink/pic/data/932/images/7g4sx3o-1763223791316.jpg",
+    "ep": "剧场版",
+    "s": 221,
+    "geo": [
+      38.2607,
+      140.8705
+    ]
+  },
+  {
+    "id": "7kej7es",
+    "name": "中島医院",
+    "image": "https://image.xinu.ink/pic/data/932/images/7kej7es-1763481598228.jpg",
+    "ep": "剧场版",
+    "s": 259,
+    "geo": [
+      35.6603,
+      139.6944
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7kf5qrw",
+    "name": "北谷公園",
+    "image": "https://image.xinu.ink/pic/data/932/images/7kf5qrw-1763482648292.jpg",
+    "ep": "剧场版",
+    "s": 1109,
+    "geo": [
+      35.664,
+      139.6997
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7kfpu25",
+    "name": "新宿YUNIKA VISION",
+    "image": "https://image.xinu.ink/pic/data/932/images/7kfpu25-1763483573387.jpg",
+    "ep": null,
+    "s": "2826",
+    "geo": [
+      35.6938,
+      139.7004
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7kfu0vy",
+    "cn": "宫下公园人行隧道",
+    "name": "宮下公園 トンネル駐輪所",
+    "image": "https://image.xinu.ink/pic/data/932/images/7kfu0vy-1763483793301.jpg",
+    "ep": "",
+    "s": "3270",
+    "geo": [
+      35.6603,
+      139.7013
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
   }
 ]

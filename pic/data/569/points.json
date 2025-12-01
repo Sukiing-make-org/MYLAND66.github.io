@@ -694,5 +694,37 @@
       15.1469,
       145.7001
     ]
+  },
+  {
+    "id": "7gpo8j8",
+    "name": "堂ヶ島天窓洞",
+    "image": "https://image.xinu.ink/pic/data/569/images/7gpo8j8-1763258421062.jpg",
+    "ep": null,
+    "geo": [
+      34.7827,
+      138.7659
+    ]
+  },
+  {
+    "id": "7gobbuw",
+    "name": "旅館​ニュー​は​ま​ぐち​屋",
+    "image": "https://image.xinu.ink/pic/data/569/images/7gobbuw-1763256171431.jpg",
+    "ep": null,
+    "geo": [
+      34.3105,
+      136.6705
+    ]
+  },
+  {
+    "id": "7gpamko",
+    "cn": "春溪公园萤火虫洞",
+    "name": "Natural Bridge",
+    "image": "https://image.xinu.ink/pic/data/569/images/7gpamko-1763257879092.jpg",
+    "ep": null,
+    "geo": [
+      -28.2121,
+      153.2337
+    ],
+    "originLink": "https://www.tourgc.com.au/tour/glow-worm"
   }
 ]

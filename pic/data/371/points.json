@@ -65,5 +65,33 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=zdM6qTIlrilQ.kYyYg6QOsbeY&ll=35.667678%2C139.697358&z=17"
+  },
+  {
+    "id": "7q2hjfb",
+    "cn": "sunshine city 喷泉广场",
+    "name": "サンシャインシティ 噴水広場",
+    "image": "https://image.xinu.ink/pic/data/371/images/7q2hjfb-1763824239449.jpg",
+    "ep": 6,
+    "s": 814,
+    "geo": [
+      35.7291,
+      139.7187
+    ],
+    "origin": "Anitabi@MikiEteRiRi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7q2oua3",
+    "cn": "池袋sunshine city",
+    "name": "池袋サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/371/images/7q2oua3-1763824535829.jpg",
+    "ep": 6,
+    "s": 783,
+    "geo": [
+      35.7299,
+      139.7179
+    ],
+    "origin": "Anitabi@MikiEteRiRi",
+    "originURL": "https://anitabi.cn/"
   }
 ]

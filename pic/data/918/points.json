@@ -448,5 +448,117 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6vzgfue",
+    "cn": "多摩动物公园",
+    "name": "多摩動物公園",
+    "image": "https://image.xinu.ink/pic/data/918/images/6vzgfue_1762005072478.jpg",
+    "ep": 5,
+    "s": 702,
+    "geo": [
+      35.6498,
+      139.4008
+    ],
+    "origin": "Anitabi@Elm",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7114ez7",
+    "cn": "高幡不动五重塔",
+    "name": "高幡不动五重塔",
+    "image": "https://image.xinu.ink/pic/data/918/images/7114ez7-1762310302816.jpg",
+    "ep": 7,
+    "s": 242,
+    "geo": [
+      35.6621,
+      139.4104
+    ],
+    "originLink": "https://ameblo.jp/yamakei-815/entry-12867990076.html"
+  },
+  {
+    "id": "711ek6n",
+    "cn": "土方岁三像",
+    "name": "土方歳三像",
+    "image": "https://image.xinu.ink/pic/data/918/images/711ek6n-1762310764521.jpg",
+    "ep": 1,
+    "s": "6",
+    "geo": [
+      35.6618,
+      139.4109
+    ],
+    "originLink": "https://ameblo.jp/yamakei-815/entry-12867990076.html"
+  },
+  {
+    "id": "712pbpx",
+    "cn": "多摩川河岸地",
+    "name": "多摩川河川敷",
+    "image": "https://image.xinu.ink/pic/data/918/images/712pbpx-1762312843511.jpg",
+    "ep": "1",
+    "s": "10",
+    "geo": [
+      35.6793,
+      139.4167
+    ]
+  },
+  {
+    "id": "712gvtb",
+    "cn": "南平体育馆",
+    "name": "南平体育館",
+    "image": "https://image.xinu.ink/pic/data/918/images/712gvtb-1762312513965.jpg",
+    "ep": 12,
+    "s": 907,
+    "geo": [
+      35.6591,
+      139.397
+    ]
+  },
+  {
+    "id": "72kdgzd",
+    "cn": "中央线铁路桥下",
+    "name": " 中央線橋下",
+    "image": "https://image.xinu.ink/pic/data/918/images/72kdgzd-1762403072958.jpg",
+    "ep": "11",
+    "s": "980",
+    "geo": [
+      35.6795,
+      139.3941
+    ]
+  },
+  {
+    "id": "72klm9g",
+    "cn": "中程久保桥",
+    "name": "中程久保橋",
+    "image": "https://image.xinu.ink/pic/data/918/images/72klm9g-1762403440387.jpg",
+    "ep": "1",
+    "s": "43",
+    "geo": [
+      35.6532,
+      139.4084
+    ]
+  },
+  {
+    "id": "72n999p",
+    "cn": "阿夫利神社",
+    "name": "阿夫利神社",
+    "image": "https://image.xinu.ink/pic/data/918/images/72n999p-1762408065714.jpg",
+    "ep": "8",
+    "s": "820",
+    "geo": [
+      35.4314,
+      139.2387
+    ]
+  },
+  {
+    "id": "711uxx9",
+    "cn": "美原公园附近步行道",
+    "name": "みはらし公園近く遊歩道",
+    "image": "https://image.xinu.ink/pic/data/918/images/711uxx9-1762311708671.jpg",
+    "ep": 1,
+    "s": 0,
+    "geo": [
+      35.6541,
+      139.4006
+    ]
   }
 ]

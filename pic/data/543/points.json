@@ -560,5 +560,60 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.030282%2C136.729991&z=17"
+  },
+  {
+    "id": "747aee76",
+    "name": "右京山上",
+    "image": "https://image.xinu.ink/pic/data/543/images/747aee76_1764253406775.jpg",
+    "geo": [
+      35.7104,
+      139.7545
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.710434%2C139.754573&z=17"
+  },
+  {
+    "id": "4a9a5d77",
+    "name": "清和公園 階段２",
+    "image": "https://image.xinu.ink/pic/data/543/images/4a9a5d77_1764253170391.jpg",
+    "geo": [
+      35.7101,
+      139.7543
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.710164%2C139.754354&z=17"
+  },
+  {
+    "id": "e85ba4fd",
+    "name": "西片一丁目 上り坂",
+    "image": "https://image.xinu.ink/pic/data/543/images/e85ba4fd_1764253077535.jpg",
+    "geo": [
+      35.7117,
+      139.7539
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.711706%2C139.753989&z=17"
+  },
+  {
+    "id": "3e09beb0",
+    "name": "西片一丁目 Ｔ字路その２",
+    "image": "https://image.xinu.ink/pic/data/543/images/3e09beb0_1764253106446.jpg",
+    "geo": [
+      35.7121,
+      139.7549
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.712113%2C139.754976&z=17"
+  },
+  {
+    "id": "07c24821",
+    "name": "西片一丁目 Ｔ字路その３",
+    "image": "https://image.xinu.ink/pic/data/543/images/07c24821_1764253119519.jpg",
+    "geo": [
+      35.7133,
+      139.7556
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.713309%2C139.755696&z=17"
   }
 ]
