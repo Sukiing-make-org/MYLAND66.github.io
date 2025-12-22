@@ -1,0 +1,394 @@
+{
+  "points": [
+    {
+      "id": "6120-1",
+      "name": "ホワイトヒルズ",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-1.jpg",
+      "ep": "2",
+      "geo": [
+        35.82042,
+        139.91902
+      ]
+    },
+    {
+      "id": "6120-2",
+      "name": "アドミナル７号",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-2.jpg",
+      "ep": "2",
+      "geo": [
+        35.82035,
+        139.91865
+      ]
+    },
+    {
+      "id": "6120-3",
+      "name": "新松戸中央公園",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-3.jpg",
+      "ep": "2",
+      "geo": [
+        35.82587,
+        139.91229
+      ]
+    },
+    {
+      "id": "6120-4",
+      "name": "新松戸中央公園",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-4.jpg",
+      "ep": "2",
+      "geo": [
+        35.82572,
+        139.91217
+      ]
+    },
+    {
+      "id": "6120-5",
+      "name": "丹後の渡し跡",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-5.jpg",
+      "ep": "2",
+      "geo": [
+        35.84863,
+        139.89339
+      ]
+    },
+    {
+      "id": "6120-6",
+      "name": "チリエージョ",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-6.jpg",
+      "ep": "3",
+      "geo": [
+        35.81955,
+        139.91867
+      ]
+    },
+    {
+      "id": "6120-7",
+      "name": "チリエージョ",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-7.jpg",
+      "ep": "3",
+      "geo": [
+        35.81979,
+        139.91854
+      ]
+    },
+    {
+      "id": "6120-8",
+      "name": "ときわ書房 新松戸店",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-8.jpg",
+      "ep": "3",
+      "geo": [
+        35.82546,
+        139.91924
+      ]
+    },
+    {
+      "id": "6120-9",
+      "name": "まんぷく亭",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-9.jpg",
+      "ep": "3",
+      "geo": [
+        35.8251,
+        139.92059
+      ]
+    },
+    {
+      "id": "6120-10",
+      "name": "新松戸駅",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-10.jpg",
+      "ep": "3",
+      "geo": [
+        35.82578,
+        139.92065
+      ]
+    },
+    {
+      "id": "6120-11",
+      "name": "三井のリパーク 新松戸４丁目第３ 駐車場",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-11.jpg",
+      "ep": "3",
+      "geo": [
+        35.82711,
+        139.91829
+      ]
+    },
+    {
+      "id": "6120-12",
+      "name": "エッグスカントリー",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-12.jpg",
+      "ep": "3",
+      "geo": [
+        35.82678,
+        139.91558
+      ]
+    },
+    {
+      "id": "6120-13",
+      "name": "伊藤楽器 マイスター船橋",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-13.jpg",
+      "ep": "4",
+      "geo": [
+        35.69842,
+        139.98577
+      ]
+    },
+    {
+      "id": "6120-14",
+      "name": "千葉県立保健医療大学 幕張キャンパス",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-14.jpg",
+      "ep": "5",
+      "geo": [
+        35.65156,
+        140.04983
+      ]
+    },
+    {
+      "id": "6120-15",
+      "name": "田川肉店",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-15.jpg",
+      "ep": "6",
+      "geo": [
+        35.6586,
+        140.05652
+      ]
+    },
+    {
+      "id": "6120-16",
+      "name": "幕張駅第７自転車駐車場",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-16.jpg",
+      "ep": "6",
+      "geo": [
+        35.65918,
+        140.05647
+      ]
+    },
+    {
+      "id": "6120-17",
+      "name": "新松戸駅前大橋",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-17.jpg",
+      "ep": "6",
+      "geo": [
+        35.82551,
+        139.91946
+      ]
+    },
+    {
+      "id": "6120-18",
+      "name": "新松戸中央公園",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-18.jpg",
+      "ep": "6",
+      "geo": [
+        35.82644,
+        139.91067
+      ]
+    },
+    {
+      "id": "6120-19",
+      "name": "幕張駅",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-19.jpg",
+      "ep": "6",
+      "geo": [
+        35.65954,
+        140.0576
+      ]
+    },
+    {
+      "id": "6120-20",
+      "name": "幕張南口整骨院",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-20.jpg",
+      "ep": "6",
+      "geo": [
+        35.65749,
+        140.05528
+      ]
+    },
+    {
+      "id": "6120-21",
+      "name": "幕張公民館",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-21.jpg",
+      "ep": "7",
+      "geo": [
+        35.66014,
+        140.05605
+      ]
+    },
+    {
+      "id": "6120-22",
+      "name": "海浜幕張駅",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-22.jpg",
+      "ep": "7",
+      "geo": [
+        35.64884,
+        140.04208
+      ]
+    },
+    {
+      "id": "6120-23",
+      "name": "幕張総合高校（バス）",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-23.jpg",
+      "ep": "12",
+      "geo": [
+        35.64787,
+        140.0511
+      ]
+    },
+    {
+      "id": "6120-24",
+      "name": "東葛病院",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-24.jpg",
+      "ep": "18",
+      "geo": [
+        35.85251,
+        139.91647
+      ]
+    },
+    {
+      "id": "6120-25",
+      "name": "菓子 ヒトトキ",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-25.jpg",
+      "ep": "18",
+      "geo": [
+        35.85068,
+        139.91829
+      ]
+    },
+    {
+      "id": "6120-26",
+      "name": "大熊333駐車場",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-26.jpg",
+      "ep": "18",
+      "geo": [
+        35.83266,
+        139.92254
+      ]
+    },
+    {
+      "id": "6120-27",
+      "name": "ピザハット 新松戸店",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-27.jpg",
+      "ep": "18",
+      "geo": [
+        35.82904,
+        139.92095
+      ]
+    },
+    {
+      "id": "6120-28",
+      "name": "幸谷駅",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-28.jpg",
+      "ep": "18",
+      "geo": [
+        35.82612,
+        139.9201
+      ]
+    },
+    {
+      "id": "6120-29",
+      "name": "新松戸駅前大橋",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-29.jpg",
+      "ep": "18",
+      "geo": [
+        35.82502,
+        139.91946
+      ]
+    },
+    {
+      "id": "6120-30",
+      "name": "Parking in 新松戸２丁目",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-30.jpg",
+      "ep": "18",
+      "geo": [
+        35.82445,
+        139.91935
+      ]
+    },
+    {
+      "id": "6120-31",
+      "name": "島谷台公園",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-31.jpg",
+      "ep": "18",
+      "geo": [
+        35.82017,
+        139.92071
+      ]
+    },
+    {
+      "id": "6120-32",
+      "name": "島谷台公園",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-32.jpg",
+      "ep": "18",
+      "geo": [
+        35.81934,
+        139.92089
+      ]
+    },
+    {
+      "id": "6120-33",
+      "name": "八積駅",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-33.jpg",
+      "ep": "19",
+      "geo": [
+        35.40364,
+        140.34556
+      ]
+    },
+    {
+      "id": "6120-34",
+      "name": "竜宮台築山公園",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-34.jpg",
+      "ep": "19",
+      "geo": [
+        35.39605,
+        140.38223
+      ]
+    },
+    {
+      "id": "6120-35",
+      "name": "高度ポリテクセンター",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-35.jpg",
+      "ep": "20",
+      "geo": [
+        35.65099,
+        140.04921
+      ]
+    },
+    {
+      "id": "6120-36",
+      "name": "ファミリーマート 津田沼南口店",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-36.jpg",
+      "ep": "20",
+      "geo": [
+        35.69019,
+        140.01845
+      ]
+    },
+    {
+      "id": "6120-37",
+      "name": "ウィステリア新松戸",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-37.jpg",
+      "ep": "20",
+      "geo": [
+        35.82397,
+        139.91026
+      ]
+    },
+    {
+      "id": "6120-38",
+      "name": "新松戸中央公園",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-38.jpg",
+      "ep": "21",
+      "geo": [
+        35.82664,
+        139.91093
+      ]
+    },
+    {
+      "id": "6120-39",
+      "name": "千葉県文化会館",
+      "image": "https://image.xinu.ink/pic/data/6120/images/6120-39.jpg",
+      "ep": "23",
+      "geo": [
+        35.6029,
+        140.12695
+      ]
+    }
+  ]
+}

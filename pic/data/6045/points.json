@@ -99,6 +99,106 @@
         35.73556,
         139.62943
       ]
+    },
+    {
+      "id": "6045-11",
+      "name": "上野駅",
+      "image": "https://image.xinu.ink/pic/data/6045/images/6045-11.jpg",
+      "ep": "6",
+      "geo": [
+        35.71267,
+        139.777
+      ]
+    },
+    {
+      "id": "6045-12",
+      "name": "湯本駅",
+      "image": "https://image.xinu.ink/pic/data/6045/images/6045-12.jpg",
+      "ep": "6",
+      "geo": [
+        37.00634,
+        140.84996
+      ]
+    },
+    {
+      "id": "6045-13",
+      "name": "いわき湯本温泉旅館協同組合",
+      "image": "https://image.xinu.ink/pic/data/6045/images/6045-13.jpg",
+      "ep": "6",
+      "geo": [
+        37.00625,
+        140.8494
+      ]
+    },
+    {
+      "id": "6045-14",
+      "name": "スパリゾートハワイアンズ",
+      "image": "https://image.xinu.ink/pic/data/6045/images/6045-14.jpg",
+      "ep": "6",
+      "geo": [
+        36.99408,
+        140.81712
+      ]
+    },
+    {
+      "id": "6045-15",
+      "name": "スパリゾートハワイアンズ モノリスタワー",
+      "image": "https://image.xinu.ink/pic/data/6045/images/6045-15.jpg",
+      "ep": "7",
+      "geo": [
+        36.99418,
+        140.81716
+      ]
+    },
+    {
+      "id": "6045-16",
+      "name": "スパリゾートハワイアンズ",
+      "image": "https://image.xinu.ink/pic/data/6045/images/6045-16.jpg",
+      "ep": "7",
+      "geo": [
+        36.9937,
+        140.81613
+      ]
+    },
+    {
+      "id": "6045-17",
+      "name": "スパリゾートハワイアンズ",
+      "image": "https://image.xinu.ink/pic/data/6045/images/6045-17.jpg",
+      "ep": "7",
+      "geo": [
+        36.99378,
+        140.81575
+      ]
+    },
+    {
+      "id": "6045-18",
+      "name": "富士見台駅",
+      "image": "https://image.xinu.ink/pic/data/6045/images/6045-18.jpg",
+      "ep": "8",
+      "geo": [
+        35.73583,
+        139.62949
+      ]
+    },
+    {
+      "id": "6045-19",
+      "name": "スパリゾートハワイアンズ",
+      "image": "https://image.xinu.ink/pic/data/6045/images/6045-19.jpg",
+      "ep": "9",
+      "geo": [
+        36.99393,
+        140.81642
+      ]
+    },
+    {
+      "id": "6045-20",
+      "name": "スパリゾートハワイアンズ",
+      "image": "https://image.xinu.ink/pic/data/6045/images/6045-20.jpg",
+      "ep": "11",
+      "geo": [
+        36.99448,
+        140.81784
+      ]
     }
   ]
 }

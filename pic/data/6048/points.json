@@ -139,6 +139,116 @@
         36.50327,
         138.0983
       ]
+    },
+    {
+      "id": "6048-15",
+      "name": "名月堂",
+      "image": "https://image.xinu.ink/pic/data/6048/images/6048-15.jpg",
+      "ep": "OP",
+      "geo": [
+        36.47853,
+        138.15513
+      ]
+    },
+    {
+      "id": "6048-16",
+      "name": "道祖神",
+      "image": "https://image.xinu.ink/pic/data/6048/images/6048-16.jpg",
+      "ep": "4",
+      "geo": [
+        36.51824,
+        138.12722
+      ]
+    },
+    {
+      "id": "6048-17",
+      "name": "千曲市城山史跡公園",
+      "image": "https://image.xinu.ink/pic/data/6048/images/6048-17.jpg",
+      "ep": "7",
+      "geo": [
+        36.47947,
+        138.13664
+      ]
+    },
+    {
+      "id": "6048-18",
+      "name": "千曲市さらしなの里歴史資料館",
+      "image": "https://image.xinu.ink/pic/data/6048/images/6048-18.jpg",
+      "ep": "10",
+      "geo": [
+        36.50017,
+        138.11367
+      ]
+    },
+    {
+      "id": "6048-19",
+      "name": "若宮東(バス)",
+      "image": "https://image.xinu.ink/pic/data/6048/images/6048-19.jpg",
+      "ep": "10",
+      "geo": [
+        36.48848,
+        138.14145
+      ]
+    },
+    {
+      "id": "6048-20",
+      "name": "戸倉千曲川緑地公園",
+      "image": "https://image.xinu.ink/pic/data/6048/images/6048-20.jpg",
+      "ep": "10",
+      "geo": [
+        36.48167,
+        138.14515
+      ]
+    },
+    {
+      "id": "6048-21",
+      "name": "須坂神社",
+      "image": "https://image.xinu.ink/pic/data/6048/images/6048-21.jpg",
+      "ep": "10",
+      "geo": [
+        36.50199,
+        138.11702
+      ]
+    },
+    {
+      "id": "6048-22",
+      "name": "天満天神社",
+      "image": "https://image.xinu.ink/pic/data/6048/images/6048-22.jpg",
+      "ep": "10",
+      "geo": [
+        36.41474,
+        138.20115
+      ]
+    },
+    {
+      "id": "6048-23",
+      "name": "リバーサイド上田館",
+      "image": "https://image.xinu.ink/pic/data/6048/images/6048-23.jpg",
+      "ep": "12",
+      "geo": [
+        36.48362,
+        138.14356
+      ]
+    },
+    {
+      "id": "6048-24",
+      "name": "リバーサイド上田館",
+      "image": "https://image.xinu.ink/pic/data/6048/images/6048-24.jpg",
+      "ep": "12",
+      "geo": [
+        36.48382,
+        138.14455
+      ]
+    },
+    {
+      "id": "6048-25",
+      "name": "昭和レトロの民泊 正直屋 駐車場",
+      "image": "https://image.xinu.ink/pic/data/6048/images/6048-25.jpg",
+      "ep": "12",
+      "geo": [
+        36.48467,
+        138.14314
+      ]
     }
   ]
 }

@@ -1,0 +1,34 @@
+{
+  "points": [
+    {
+      "id": "6118-1",
+      "name": "御手洗病院",
+      "image": "https://image.xinu.ink/pic/data/6118/images/6118-1.jpg",
+      "ep": "5",
+      "geo": [
+        32.79766,
+        131.9271
+      ]
+    },
+    {
+      "id": "6118-2",
+      "name": "道の駅 かまえ",
+      "image": "https://image.xinu.ink/pic/data/6118/images/6118-2.jpg",
+      "ep": "5",
+      "geo": [
+        32.80141,
+        131.92456
+      ]
+    },
+    {
+      "id": "6118-3",
+      "name": "渋谷区交差点",
+      "image": "https://image.xinu.ink/pic/data/6118/images/6118-3.jpg",
+      "ep": "7",
+      "geo": [
+        35.65945,
+        139.70069
+      ]
+    }
+  ]
+}

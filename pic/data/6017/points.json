@@ -179,6 +179,66 @@
         35.70375,
         139.57981
       ]
+    },
+    {
+      "id": "6017-19",
+      "name": "ベーカリー＆カフェ ルパ 吉祥寺店",
+      "image": "https://image.xinu.ink/pic/data/6017/images/6017-19.jpg",
+      "ep": "21",
+      "geo": [
+        35.7027,
+        139.57969
+      ]
+    },
+    {
+      "id": "6017-20",
+      "name": "吉祥寺駅",
+      "image": "https://image.xinu.ink/pic/data/6017/images/6017-20.jpg",
+      "ep": "21",
+      "geo": [
+        35.70329,
+        139.57995
+      ]
+    },
+    {
+      "id": "6017-21",
+      "name": "シュナ＆バニ",
+      "image": "https://image.xinu.ink/pic/data/6017/images/6017-21.jpg",
+      "ep": "24",
+      "geo": [
+        35.70082,
+        139.57835
+      ]
+    },
+    {
+      "id": "6017-22",
+      "name": "ドトールコーヒーショップ 吉祥寺公園口店",
+      "image": "https://image.xinu.ink/pic/data/6017/images/6017-22.jpg",
+      "ep": "24",
+      "geo": [
+        35.7019,
+        139.57885
+      ]
+    },
+    {
+      "id": "6017-23",
+      "name": "吉祥寺シアター",
+      "image": "https://image.xinu.ink/pic/data/6017/images/6017-23.jpg",
+      "ep": "24",
+      "geo": [
+        35.70376,
+        139.5833
+      ]
+    },
+    {
+      "id": "6017-24",
+      "name": "NEW YORK JOE EXCHANGE",
+      "image": "https://image.xinu.ink/pic/data/6017/images/6017-24.jpg",
+      "ep": "24",
+      "geo": [
+        35.70103,
+        139.57842
+      ]
     }
   ]
 }
