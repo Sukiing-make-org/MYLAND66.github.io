@@ -541,5 +541,29 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1OgeSmT6pvmwNyx8MCdCq2C5JFqM&ll=35.700588%2C139.774573&z=17"
+  },
+  {
+    "id": "4sm48erv7",
+    "name": "やぐら橋",
+    "image": "https://image.xinu.ink/pic/data/367/images/4sm48erv7-1766108917763.jpg",
+    "ep": "8",
+    "geo": [
+      35.6312,
+      139.7927
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OgeSmT6pvmwNyx8MCdCq2C5JFqM&ll=35.631297%2C139.792796&z=17"
+  },
+  {
+    "id": "4sm48erw5",
+    "name": "曙橋",
+    "image": "https://image.xinu.ink/pic/data/367/images/4sm48erw5-1766108878760.jpg",
+    "ep": "",
+    "geo": [
+      35.7139,
+      139.7133
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OgeSmT6pvmwNyx8MCdCq2C5JFqM&ll=35.713939%2C139.713328&z=17"
   }
 ]

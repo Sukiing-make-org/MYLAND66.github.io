@@ -525,5 +525,18 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1MQNdvrVVP8wk0iDD5R1QRQ34-Cf_0ahm&ll=33.452346%2C129.973465&z=17"
+  },
+  {
+    "id": "51i521tfw",
+    "name": "カフェモカ",
+    "image": "https://image.xinu.ink/pic/data/615/images/51i521tfw-1764650914275.jpg",
+    "ep": 4,
+    "s": 452,
+    "geo": [
+      33.097,
+      129.9848
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1MQNdvrVVP8wk0iDD5R1QRQ34-Cf_0ahm&ll=33.097082%2C129.984802&z=17"
   }
 ]

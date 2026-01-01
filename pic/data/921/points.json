@@ -82,5 +82,77 @@
       35.7678,
       139.5058
     ]
+  },
+  {
+    "id": "8gk0n46",
+    "name": "ファミリー​マート\n小金井​桜町​三丁目​店",
+    "image": "https://image.xinu.ink/pic/data/921/images/8gk0n46_1765425723100.jpg",
+    "ep": 1,
+    "geo": [
+      35.7129,
+      139.512
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "8gk31f7",
+    "name": "小金井公園内",
+    "image": "https://image.xinu.ink/pic/data/921/images/8gk31f7_1765425815933.jpg",
+    "ep": 2,
+    "geo": [
+      35.7145,
+      139.5183
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "8gk9umk",
+    "name": "デニーズ\n中村橋​店",
+    "image": "https://image.xinu.ink/pic/data/921/images/8gk9umk_1765426136520.jpg",
+    "ep": 2,
+    "geo": [
+      35.7371,
+      139.6472
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "8gkbwx0",
+    "name": "相模川​ふれあい​科学館 アクアリウム",
+    "image": "https://image.xinu.ink/pic/data/921/images/8gkbwx0_1765426227041.jpg",
+    "ep": 2,
+    "geo": [
+      35.5474,
+      139.3289
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "8gkf5v7",
+    "name": "アイン薬局 清瀬店",
+    "image": "https://image.xinu.ink/pic/data/921/images/8gkf5v7_1765426391480.jpg",
+    "ep": 4,
+    "geo": [
+      35.769,
+      139.5067
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "8gkhkto",
+    "name": "旧古河庭園 大谷美術館",
+    "image": "https://image.xinu.ink/pic/data/921/images/8gkhkto_1765426497861.jpg",
+    "ep": 10,
+    "geo": [
+      35.743,
+      139.7458
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
   }
 ]

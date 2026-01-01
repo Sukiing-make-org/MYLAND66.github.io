@@ -615,5 +615,16 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.713309%2C139.755696&z=17"
+  },
+  {
+    "id": "80e7a472",
+    "name": "芳文社撮影ポイント",
+    "image": "https://image.xinu.ink/pic/data/543/images/80e7a472_1766110652780.jpg",
+    "geo": [
+      35.7031,
+      139.752
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.703183%2C139.752048&z=17"
   }
 ]

@@ -416,5 +416,44 @@
       35.6985,
       139.4657
     ]
+  },
+  {
+    "id": "97nnj5h",
+    "name": "首都圏中央連絡自動車道(茅ヶ崎～大栄)",
+    "image": "https://image.xinu.ink/pic/data/5994/images/97nnj5h_1767064388825.jpg",
+    "ep": 5,
+    "s": 1218,
+    "geo": [
+      35.7184,
+      139.2822
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "97qvpdp",
+    "name": "河堤道路上",
+    "image": "https://image.xinu.ink/pic/data/5994/images/97qvpdp_1767069872346.jpg",
+    "ep": 2,
+    "s": 450,
+    "geo": [
+      35.747,
+      139.8213
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "97r1tl5",
+    "name": "海ほたる​4階",
+    "image": "https://image.xinu.ink/pic/data/5994/images/97r1tl5_1767070159304.jpg",
+    "ep": 7,
+    "s": 1040,
+    "geo": [
+      35.464,
+      139.8745
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
   }
 ]

@@ -95,5 +95,211 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1YSCc9MUDEz0OFMKtbHXR1QQU5TvLJXM&ll=43.821748%2C143.913427&z=17"
+  },
+  {
+    "id": "97p1xfc",
+    "name": "セイコー​マート​北見​端野​店",
+    "image": "https://image.xinu.ink/pic/data/835/images/97p1xfc_1767068624066.jpg",
+    "ep": 1,
+    "s": 1406,
+    "geo": [
+      43.8536,
+      143.9426
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "97p3orb",
+    "name": "ロコ・ポス(カーリング郵便ポスト)",
+    "image": "https://image.xinu.ink/pic/data/835/images/97p3orb_1767068644661.jpg",
+    "ep": 2,
+    "s": 297,
+    "geo": [
+      43.8051,
+      143.8969
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "97p7bd8",
+    "name": "みんとロード",
+    "image": "https://image.xinu.ink/pic/data/835/images/97p7bd8_1767068659029.jpg",
+    "ep": 2,
+    "s": 333,
+    "geo": [
+      43.8051,
+      143.8975
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "97ph9qm",
+    "name": "北見​芸術​文化​ホール前",
+    "image": "https://image.xinu.ink/pic/data/835/images/97ph9qm_1767068675157.jpg",
+    "ep": 2,
+    "s": 575,
+    "geo": [
+      43.8049,
+      143.8998
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "97pieu6",
+    "name": "北見駅前",
+    "image": "https://image.xinu.ink/pic/data/835/images/97pieu6_1767068690799.jpg",
+    "ep": 2,
+    "s": 631,
+    "geo": [
+      43.8053,
+      143.8969
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "97pmh4u",
+    "name": "北見​信用金庫​本店",
+    "image": "https://image.xinu.ink/pic/data/835/images/97pmh4u_1767068706767.jpg",
+    "ep": 2,
+    "s": 658,
+    "geo": [
+      43.8055,
+      143.8967
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1ccc5dd2",
+    "name": "東武イーストモール 端野店",
+    "image": "https://image.xinu.ink/pic/data/835/images/1ccc5dd2_1766029670208.jpg",
+    "ep": 4,
+    "s": 870,
+    "geo": [
+      43.8413,
+      143.9285
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1YSCc9MUDEz0OFMKtbHXR1QQU5TvLJXM&ll=43.841309%2C143.928588&z=17"
+  },
+  {
+    "id": "b29c35ab",
+    "name": "イオン北見店",
+    "image": "https://image.xinu.ink/pic/data/835/images/b29c35ab_1766029690947.jpg",
+    "ep": 5,
+    "s": 574,
+    "geo": [
+      43.8084,
+      143.8755
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1YSCc9MUDEz0OFMKtbHXR1QQU5TvLJXM&ll=43.808473%2C143.875571&z=17"
+  },
+  {
+    "id": "97pqomd",
+    "name": "イオンシネマ北見",
+    "image": "https://image.xinu.ink/pic/data/835/images/97pqomd_1767068727854.jpg",
+    "ep": 8,
+    "s": 372,
+    "geo": [
+      43.8087,
+      143.8761
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "943af6ec",
+    "name": "網走湖ワカサギ釣り",
+    "image": "https://image.xinu.ink/pic/data/835/images/943af6ec_1766029820677.jpg",
+    "ep": 9,
+    "s": 461,
+    "geo": [
+      43.9643,
+      144.1763
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1YSCc9MUDEz0OFMKtbHXR1QQU5TvLJXM&ll=43.964311%2C144.176397&z=17"
+  },
+  {
+    "id": "0aae0ec6",
+    "name": "網走駅",
+    "image": "https://image.xinu.ink/pic/data/835/images/0aae0ec6_1766029766980.jpg",
+    "ep": 11,
+    "s": 245,
+    "geo": [
+      44.02,
+      144.254
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1YSCc9MUDEz0OFMKtbHXR1QQU5TvLJXM&ll=44.020093%2C144.254042&z=17"
+  },
+  {
+    "id": "1d61511d",
+    "name": "鯛焼きカフェ あずき",
+    "image": "https://image.xinu.ink/pic/data/835/images/1d61511d_1766029752848.jpg",
+    "ep": 11,
+    "s": 270,
+    "geo": [
+      44.0207,
+      144.2709
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1YSCc9MUDEz0OFMKtbHXR1QQU5TvLJXM&ll=44.02072%2C144.270944&z=17"
+  },
+  {
+    "id": "721e7f8e",
+    "name": "ひがしもこと（東藻琴）芝桜公園",
+    "image": "https://image.xinu.ink/pic/data/835/images/721e7f8e_1766029710000.jpg",
+    "ep": 11,
+    "s": 453,
+    "geo": [
+      43.7832,
+      144.3124
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1YSCc9MUDEz0OFMKtbHXR1QQU5TvLJXM&ll=43.783221%2C144.312464&z=17"
+  },
+  {
+    "id": "97pw8kc",
+    "name": "東藻琴芝桜公園 山津見神社",
+    "image": "https://image.xinu.ink/pic/data/835/images/97pw8kc_1767068748517.jpg",
+    "ep": 11,
+    "s": 643,
+    "geo": [
+      43.7844,
+      144.3114
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "62c961c7",
+    "name": "女満別空港",
+    "image": "https://image.xinu.ink/pic/data/835/images/62c961c7_1766029732873.jpg",
+    "ep": 12,
+    "s": 911,
+    "geo": [
+      43.8816,
+      144.1585
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1YSCc9MUDEz0OFMKtbHXR1QQU5TvLJXM&ll=43.881646%2C144.158585&z=17"
+  },
+  {
+    "id": "0908fcdd",
+    "name": "ノーザンアークリゾート （営業終了）",
+    "image": "https://image.xinu.ink/pic/data/835/images/0908fcdd_1766030078720.jpg",
+    "geo": [
+      43.868,
+      143.9266
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1YSCc9MUDEz0OFMKtbHXR1QQU5TvLJXM&ll=43.868008%2C143.926667&z=17"
   }
 ]

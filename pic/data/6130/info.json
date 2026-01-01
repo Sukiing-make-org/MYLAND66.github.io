@@ -1,0 +1,35 @@
+{
+  "id": 475663,
+  "cn": "这里是充满笑容的职场。",
+  "title": "笑顔のたえない職場です。",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/6130/images/475663_1bGVv.jpg",
+  "cp": "笑顔のたえない職場です。",
+  "modified": 1766200426944,
+  "litePoints": [
+    {
+      "id": "8t8qf5p",
+      "name": "新宿站南口",
+      "image": "https://image.anitabi.cn/points/475663/8t8qf5p_1766192829130.jpg?plan=h160",
+      "ep": 11,
+      "geo": [
+        35.6891,
+        139.6998
+      ]
+    },
+    {
+      "id": "8t8hhqu",
+      "name": "武蔵野通り",
+      "image": "https://image.anitabi.cn/points/475663/8t8hhqu_1766192414679.jpg?plan=h160",
+      "geo": [
+        35.6914,
+        139.7024
+      ]
+    }
+  ],
+  "pointsLength": 13,
+  "imagesLength": 13,
+  "name": "笑顔のたえない職場です。",
+  "name_cn": "这里是充满笑容的职场。",
+  "local_id": 6130
+}

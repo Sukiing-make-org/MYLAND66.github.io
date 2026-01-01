@@ -1205,5 +1205,82 @@
       136.9047
     ],
     "originLink": "https://10th.fate-go.jp/"
+  },
+  {
+    "id": "945vg34",
+    "name": "丸の内南口",
+    "image": "https://image.xinu.ink/pic/data/382/images/945vg34-1766853126142.jpg",
+    "ep": "2.0终章结束动画",
+    "s": "04：16",
+    "geo": [
+      35.6805,
+      139.7655
+    ],
+    "origin": "Anitabi@耿耿-げん",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9464jns",
+    "name": "丸之内中央口前广场",
+    "image": "https://image.xinu.ink/pic/data/382/images/9464jns-1766853561558.jpg",
+    "ep": "2.0终章结束动画",
+    "s": "04：55",
+    "geo": [
+      35.6815,
+      139.7656
+    ],
+    "origin": "Anitabi@耿耿-げん",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9466166",
+    "name": "东京站",
+    "image": "https://image.xinu.ink/pic/data/382/images/9466166-1766853620190.jpg",
+    "ep": "2.0终章结束动画",
+    "s": "05：07",
+    "geo": [
+      35.6815,
+      139.7655
+    ],
+    "origin": "Anitabi@耿耿-げん",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "946dqms",
+    "cn": "「愛の像 (アガペの像)」横江嘉純",
+    "name": "Ashley",
+    "image": "https://image.xinu.ink/pic/data/382/images/946dqms-1766853979826.jpg",
+    "ep": "2.0终章结束动画",
+    "s": "05：10",
+    "geo": [
+      35.6808,
+      139.7646
+    ],
+    "origin": "Anitabi@耿耿-げん",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "944uv7s",
+    "name": "东京站 ",
+    "image": "https://image.xinu.ink/pic/data/382/images/944uv7s-1766851445214.jpg",
+    "ep": "04：34",
+    "geo": [
+      35.6817,
+      139.7659
+    ],
+    "origin": "Anitabi@耿耿-げん",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "945qf28",
+    "name": "东京站 丸之内南口检票闸机外",
+    "image": "https://image.xinu.ink/pic/data/382/images/945qf28-1766852890805.jpg",
+    "ep": "04：11",
+    "geo": [
+      35.6804,
+      139.7659
+    ],
+    "origin": "Anitabi@耿耿-げん",
+    "originURL": "https://anitabi.cn/"
   }
 ]

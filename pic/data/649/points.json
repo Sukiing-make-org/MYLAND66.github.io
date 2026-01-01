@@ -663,5 +663,28 @@
       35.6427,
       139.8605
     ]
+  },
+  {
+    "id": "mxa1q4wz2",
+    "cn": "商场千叶县atm前",
+    "name": "ららぽーと​TOKYO​-​BAY",
+    "image": "https://image.xinu.ink/pic/data/649/images/mxa1q4wz2_1761902768442.jpg",
+    "ep": 4,
+    "s": 330,
+    "geo": [
+      35.6863,
+      139.9903
+    ]
+  },
+  {
+    "id": "205hifa",
+    "cn": "葛西临海公园站",
+    "name": "葛西臨海公園駅",
+    "image": "https://image.xinu.ink/pic/data/649/images/205hifa-1751373146266.jpg",
+    "ep": null,
+    "geo": [
+      35.6441,
+      139.8618
+    ]
   }
 ]
