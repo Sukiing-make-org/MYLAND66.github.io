@@ -439453,10 +439453,10 @@
     "name": "違国日記",
     "name_cn": "他国日记",
     "cover": "https://image.xinu.ink/pic/data/6133/images/1.jpg",
-    "theme_color": "#9caca6",
+    "theme_color": "#7f6a95",
     "points": [
       {
-        "id": "zdytalg5",
+        "id": "t4haesp5",
         "name": "Unknown Location",
         "image": "",
         "ep": "",
@@ -439466,7 +439466,7 @@
         ]
       },
       {
-        "id": "nuw73x9s",
+        "id": "wzmfr0af",
         "name": "Unknown Location",
         "image": "",
         "ep": "",
@@ -439476,7 +439476,7 @@
         ]
       },
       {
-        "id": "u7oxmyq9",
+        "id": "sc3er7f3",
         "name": "Unknown Location",
         "image": "",
         "ep": "",
@@ -439486,7 +439486,7 @@
         ]
       },
       {
-        "id": "pxkxle0s",
+        "id": "0uvs577m",
         "name": "Unknown Location",
         "image": "",
         "ep": "",
@@ -439496,7 +439496,7 @@
         ]
       },
       {
-        "id": "3gqkxzq2",
+        "id": "getxqqqc",
         "name": "Unknown Location",
         "image": "",
         "ep": "",
@@ -439506,7 +439506,7 @@
         ]
       },
       {
-        "id": "e5rkfwmv",
+        "id": "kvdpdemj",
         "name": "Unknown Location",
         "image": "",
         "ep": "",
@@ -439516,7 +439516,7 @@
         ]
       },
       {
-        "id": "8uiodpmh",
+        "id": "14vi97w3",
         "name": "Unknown Location",
         "image": "",
         "ep": "",
@@ -439526,7 +439526,7 @@
         ]
       },
       {
-        "id": "110h4m0e",
+        "id": "ij939xdu",
         "name": "Unknown Location",
         "image": "",
         "ep": "",
@@ -439536,7 +439536,7 @@
         ]
       },
       {
-        "id": "o4ipl9a7",
+        "id": "ckv0h5u8",
         "name": "Unknown Location",
         "image": "",
         "ep": "",
@@ -439546,7 +439546,7 @@
         ]
       },
       {
-        "id": "ofg8u025",
+        "id": "dnsxq1je",
         "name": "ヤマシタトモコ",
         "image": "https://image.xinu.ink/pic/data/6133/images/6133-10.jpg",
         "ep": "",
@@ -439556,7 +439556,7 @@
         ]
       },
       {
-        "id": "odj57asq",
+        "id": "7ujjaxko",
         "name": "ヤマシタトモコ",
         "image": "https://image.xinu.ink/pic/data/6133/images/6133-11.jpg",
         "ep": "",
@@ -439566,7 +439566,7 @@
         ]
       },
       {
-        "id": "ak7dcv8u",
+        "id": "r3ymxtl1",
         "name": "Unknown Location",
         "image": "",
         "ep": "",
@@ -439576,7 +439576,7 @@
         ]
       },
       {
-        "id": "6lr8vouc",
+        "id": "ozqy2l0h",
         "name": "Unknown Location",
         "image": "",
         "ep": "",
@@ -439586,7 +439586,7 @@
         ]
       },
       {
-        "id": "g1y7unga",
+        "id": "rsk483zw",
         "name": "Unknown Location",
         "image": "",
         "ep": "",
@@ -439596,13 +439596,33 @@
         ]
       },
       {
-        "id": "v8nnwcvt",
+        "id": "yegj7wz1",
         "name": "Unknown Location",
         "image": "",
         "ep": "",
         "geo": [
           0,
           0
+        ]
+      },
+      {
+        "id": "v0ycuk8a",
+        "name": "スターバックス コーヒー サザンスカイタワー八王子店",
+        "image": "https://image.xinu.ink/pic/data/6133/images/6133-16.jpg",
+        "ep": "1",
+        "geo": [
+          35.65435,
+          139.33804
+        ]
+      },
+      {
+        "id": "4mit1fki",
+        "name": "セブン-イレブン 八王子サザンスカイタワー店",
+        "image": "https://image.xinu.ink/pic/data/6133/images/6133-17.jpg",
+        "ep": "1",
+        "geo": [
+          35.6541,
+          139.33777
         ]
       }
     ],
