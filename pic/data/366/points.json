@@ -488,5 +488,49 @@
       42.5652,
       140.8272
     ]
+  },
+  {
+    "id": "9fbsjqt",
+    "name": "火山科学馆服务台",
+    "image": "https://image.xinu.ink/pic/data/366/images/9fbsjqt-1767528259388.jpg",
+    "ep": "OVA",
+    "s": 38,
+    "geo": [
+      42.5638,
+      140.8152
+    ]
+  },
+  {
+    "id": "9fcb3a5",
+    "name": "洞爺湖温泉観光協会",
+    "image": "https://image.xinu.ink/pic/data/366/images/9fcb3a5-1767529436573.jpg",
+    "ep": 12,
+    "s": 437,
+    "geo": [
+      42.5644,
+      140.8181
+    ]
+  },
+  {
+    "id": "9fc2qn0",
+    "name": "火山科学館 楼梯",
+    "image": "https://image.xinu.ink/pic/data/366/images/9fc2qn0-1767528756381.jpg",
+    "ep": "OVA",
+    "s": 26,
+    "geo": [
+      42.5639,
+      140.815
+    ]
+  },
+  {
+    "id": "9fdps1i",
+    "name": "洞爺観光ホテル",
+    "image": "https://image.xinu.ink/pic/data/366/images/9fdps1i-1767531444873.jpg",
+    "ep": "OVA",
+    "s": 263,
+    "geo": [
+      42.5651,
+      140.821
+    ]
   }
 ]

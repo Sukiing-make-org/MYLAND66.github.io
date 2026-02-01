@@ -437,5 +437,109 @@
     ],
     "origin": "Anitabi@蛙壶真君",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9wkv4ub",
+    "name": "東越谷七丁目しいの木公園",
+    "image": "https://image.xinu.ink/pic/data/477/images/9wkv4ub-1768571355424.jpg",
+    "ep": "2",
+    "s": "1090",
+    "geo": [
+      35.8906,
+      139.8004
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jS-KHHjXACM3cJ5veEtNEYg8LXU&ll=35.890648%2C139.800466&z=17"
+  },
+  {
+    "id": "9wmgowv",
+    "name": "元荒川沿岸",
+    "image": "https://image.xinu.ink/pic/data/477/images/9wmgowv-1768574054233.jpg",
+    "ep": "4",
+    "s": "493",
+    "geo": [
+      35.889,
+      139.7919
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jS-KHHjXACM3cJ5veEtNEYg8LXU&ll=35.889069%2C139.791917&z=17"
+  },
+  {
+    "id": "9wnm88y",
+    "name": "東越谷ボタン公園",
+    "image": "https://image.xinu.ink/pic/data/477/images/9wnm88y-1768575979027.jpg",
+    "ep": "4",
+    "s": "1172",
+    "geo": [
+      35.8907,
+      139.7993
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jS-KHHjXACM3cJ5veEtNEYg8LXU&ll=35.890724%2C139.799303&z=17"
+  },
+  {
+    "id": "9wnwpac",
+    "name": "舊越谷市役所",
+    "image": "https://image.xinu.ink/pic/data/477/images/9wnwpac-1768576490450.jpg",
+    "ep": "8",
+    "s": "353",
+    "geo": [
+      35.8908,
+      139.7903
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jS-KHHjXACM3cJ5veEtNEYg8LXU&ll=35.89081%2C139.790317&z=17"
+  },
+  {
+    "id": "9woakrh",
+    "name": "東越谷八丁目けやき公園",
+    "image": "https://image.xinu.ink/pic/data/477/images/9woakrh-1768577199611.jpg",
+    "ep": "6",
+    "s": 6,
+    "geo": [
+      35.8925,
+      139.8051
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jS-KHHjXACM3cJ5veEtNEYg8LXU&ll=35.892542%2C139.805151&z=17"
+  },
+  {
+    "id": "9won0yy",
+    "name": "通學路",
+    "image": "https://image.xinu.ink/pic/data/477/images/9won0yy-1768577696129.jpg",
+    "ep": "4",
+    "s": "995",
+    "geo": [
+      35.8915,
+      139.8043
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jS-KHHjXACM3cJ5veEtNEYg8LXU&ll=35.891573%2C139.804351&z=17"
+  },
+  {
+    "id": "9woxood",
+    "name": "ビッグ・エー 越谷赤山店",
+    "image": "https://image.xinu.ink/pic/data/477/images/9woxood-1768578194902.jpg",
+    "ep": "2",
+    "s": "320",
+    "geo": [
+      35.8858,
+      139.7837
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jS-KHHjXACM3cJ5veEtNEYg8LXU&ll=35.885852%2C139.783721&z=17"
+  },
+  {
+    "id": "9wp4zab",
+    "name": "佐久間駐車場",
+    "image": "https://image.xinu.ink/pic/data/477/images/9wp4zab-1768578540727.jpg",
+    "ep": "3",
+    "s": "670",
+    "geo": [
+      35.8859,
+      139.7837
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1jS-KHHjXACM3cJ5veEtNEYg8LXU&ll=35.88595%2C139.783757&z=17"
   }
 ]

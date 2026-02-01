@@ -2721,5 +2721,66 @@
     ],
     "origin": "Anitabi@耿耿-げん",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "a0v1h06",
+    "name": "花咲スポーツ公園 球技場",
+    "image": "https://image.xinu.ink/pic/data/873/images/a0v1h06_1768830348550.jpg",
+    "ep": 8,
+    "s": 18,
+    "geo": [
+      43.7887,
+      142.3706
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "a0vdpdw",
+    "name": "バス停 スタルヒン球場前駅",
+    "image": "https://image.xinu.ink/pic/data/873/images/a0vdpdw_1768830885753.jpg",
+    "ep": 13,
+    "s": 1267,
+    "geo": [
+      43.7895,
+      142.3674
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "a0unil2",
+    "name": "パートナー川崎小川町第2パーキング",
+    "image": "https://image.xinu.ink/pic/data/873/images/a0unil2_1768829661544.jpg",
+    "ep": "剧场版总集篇前篇",
+    "geo": [
+      35.528,
+      139.6987
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "a0pcdc5",
+    "name": "川崎大師山門前 住吉",
+    "image": "https://image.xinu.ink/pic/data/873/images/a0pcdc5_1768820743882.jpg",
+    "ep": "宣传图/版权绘/封面",
+    "geo": [
+      35.5345,
+      139.7305
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "a0ozifb",
+    "name": "大師河原歩道橋",
+    "image": "https://image.xinu.ink/pic/data/873/images/a0ozifb_1768820189035.jpg",
+    "geo": [
+      35.5373,
+      139.741
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
   }
 ]

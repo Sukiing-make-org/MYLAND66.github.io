@@ -461,5 +461,37 @@
       35.6589,
       139.7035
     ]
+  },
+  {
+    "id": "a7hn4ic",
+    "cn": "明治神宫前",
+    "name": "明治神宮",
+    "image": "https://image.xinu.ink/pic/data/653/images/a7hn4ic-1769232580662.jpg",
+    "ep": null,
+    "geo": [
+      35.6756,
+      139.6994
+    ]
+  },
+  {
+    "id": "a7imt2x",
+    "cn": "竹下通",
+    "name": "原宿竹下通り",
+    "image": "https://image.xinu.ink/pic/data/653/images/a7imt2x-1769232798801.jpg",
+    "ep": null,
+    "geo": [
+      35.6715,
+      139.703
+    ]
+  },
+  {
+    "id": "a7j1y7n",
+    "name": "涉谷秘密基地",
+    "image": "https://image.xinu.ink/pic/data/653/images/a7j1y7n-1769233501507.jpg",
+    "ep": null,
+    "geo": [
+      35.6587,
+      139.7002
+    ]
   }
 ]

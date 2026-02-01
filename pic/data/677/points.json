@@ -10,5 +10,365 @@
       35.9064,
       139.6257
     ]
+  },
+  {
+    "id": "aajikbe",
+    "name": "花積第一駐車場",
+    "image": "https://image.xinu.ink/pic/data/677/images/aajikbe_1769483206738.jpg",
+    "ep": 1,
+    "geo": [
+      35.9686,
+      139.7135
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aajjzuw",
+    "name": "オートショップQuick",
+    "image": "https://image.xinu.ink/pic/data/677/images/aajjzuw_1769483214659.jpg",
+    "ep": 1,
+    "geo": [
+      35.9674,
+      139.713
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aajn2c8",
+    "name": "ドラッグストアセキ 東岩槻店",
+    "image": "https://image.xinu.ink/pic/data/677/images/aajn2c8_1769483221000.jpg",
+    "ep": 1,
+    "geo": [
+      35.9659,
+      139.7109
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aakkp10",
+    "name": "サンドラッグ 大宮東口駅前店",
+    "image": "https://image.xinu.ink/pic/data/677/images/aakkp10_1769483232318.jpg",
+    "ep": 1,
+    "geo": [
+      35.9076,
+      139.6249
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aaklz82",
+    "name": "ミニストップ\n大宮​東口​店",
+    "image": "https://image.xinu.ink/pic/data/677/images/aaklz82_1769483387602.jpg",
+    "ep": 1,
+    "geo": [
+      35.9077,
+      139.625
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aakq2zm",
+    "name": "武蔵浦和駅西口（バス）",
+    "image": "https://image.xinu.ink/pic/data/677/images/aakq2zm_1769483397789.jpg",
+    "ep": 1,
+    "geo": [
+      35.8454,
+      139.6462
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aakn8pm",
+    "name": "大宮駅西口 (バス)",
+    "image": "https://image.xinu.ink/pic/data/677/images/aakn8pm_1769483408429.jpg",
+    "ep": 2,
+    "geo": [
+      35.9055,
+      139.6227
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aajpfew",
+    "name": "花積田中駐車場",
+    "image": "https://image.xinu.ink/pic/data/677/images/aajpfew_1769483419462.jpg",
+    "ep": 2,
+    "geo": [
+      35.97,
+      139.7127
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aaktwuq",
+    "name": "アルーサ北与野ポルテ29",
+    "image": "https://image.xinu.ink/pic/data/677/images/aaktwuq_1769483430415.jpg",
+    "ep": 2,
+    "geo": [
+      35.8895,
+      139.628
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aakvb75",
+    "name": "上落合整形外科・内科",
+    "image": "https://image.xinu.ink/pic/data/677/images/aakvb75_1769483436589.jpg",
+    "ep": 2,
+    "geo": [
+      35.8891,
+      139.628
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aal0rrm",
+    "name": "びゅうサイトタワー",
+    "image": "https://image.xinu.ink/pic/data/677/images/aal0rrm_1769483445824.jpg",
+    "ep": 2,
+    "geo": [
+      35.8884,
+      139.6282
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aal1za3",
+    "name": "東京​電力​パワー​グリッド​(株)​与野​変電所",
+    "image": "https://image.xinu.ink/pic/data/677/images/aal1za3_1769483582938.jpg",
+    "ep": 2,
+    "geo": [
+      35.8879,
+      139.6286
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aandxdd",
+    "name": "パーム​コテージ​Ⅴ",
+    "image": "https://image.xinu.ink/pic/data/677/images/aandxdd_1769483592712.jpg",
+    "ep": 2,
+    "geo": [
+      35.8872,
+      139.6288
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aanfh7r",
+    "name": "下落合氷川神社",
+    "image": "https://image.xinu.ink/pic/data/677/images/aanfh7r_1769483598344.jpg",
+    "ep": 2,
+    "geo": [
+      35.8843,
+      139.6288
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aanjsz0",
+    "name": "ケヤキ薬局",
+    "image": "https://image.xinu.ink/pic/data/677/images/aanjsz0_1769483604635.jpg",
+    "ep": 2,
+    "geo": [
+      35.8824,
+      139.6291
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aano1li",
+    "name": "大宮駅",
+    "image": "https://image.xinu.ink/pic/data/677/images/aano1li_1769483612498.jpg",
+    "ep": 3,
+    "geo": [
+      35.9064,
+      139.6241
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aanpq45",
+    "name": "ビームス 大宮",
+    "image": "https://image.xinu.ink/pic/data/677/images/aanpq45_1769483618704.jpg",
+    "ep": 3,
+    "geo": [
+      35.9061,
+      139.624
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aajruj5",
+    "name": "東岩槻駅",
+    "image": "https://image.xinu.ink/pic/data/677/images/aajruj5_1769483628134.jpg",
+    "ep": 3,
+    "geo": [
+      35.9631,
+      139.7116
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aajtmzk",
+    "name": "グループ​ホーム​みんな​の​家・​春日部​花積",
+    "image": "https://image.xinu.ink/pic/data/677/images/aajtmzk_1769483636592.jpg",
+    "ep": 4,
+    "geo": [
+      35.967,
+      139.7126
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aantj3p",
+    "name": "fino",
+    "image": "https://image.xinu.ink/pic/data/677/images/aantj3p_1769483645423.jpg",
+    "ep": 5,
+    "geo": [
+      35.8895,
+      139.6295
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aanvuil",
+    "name": "埼玉りそな銀行 大宮支店 西口",
+    "image": "https://image.xinu.ink/pic/data/677/images/aanvuil_1769483655611.jpg",
+    "ep": 5,
+    "geo": [
+      35.9055,
+      139.6232
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aao1iwl",
+    "name": "ルミネ大宮屋上庭園",
+    "image": "https://image.xinu.ink/pic/data/677/images/aao1iwl_1769483660582.jpg",
+    "ep": 5,
+    "geo": [
+      35.9062,
+      139.6246
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aao3okd",
+    "name": "大宮アルシェ",
+    "image": "https://image.xinu.ink/pic/data/677/images/aao3okd_1769483665992.jpg",
+    "ep": 5,
+    "geo": [
+      35.906,
+      139.6221
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aaoeh99",
+    "name": "ビックカメラ 大宮西口そごう店",
+    "image": "https://image.xinu.ink/pic/data/677/images/aaoeh99_1769483671879.jpg",
+    "ep": 5,
+    "geo": [
+      35.9045,
+      139.6213
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aaoixgu",
+    "name": "西谷公園",
+    "image": "https://image.xinu.ink/pic/data/677/images/aaoixgu_1769483684056.jpg",
+    "ep": 6,
+    "geo": [
+      35.8833,
+      139.6267
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aajxkfc",
+    "name": "ローソン\n東岩槻​駅​北口​店",
+    "image": "https://image.xinu.ink/pic/data/677/images/aajxkfc_1769483691581.jpg",
+    "ep": 7,
+    "geo": [
+      35.9638,
+      139.7122
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aaom3zp",
+    "name": "まいばすけっと 与野本町駅東店",
+    "image": "https://image.xinu.ink/pic/data/677/images/aaom3zp_1769483700359.jpg",
+    "ep": 8,
+    "geo": [
+      35.8818,
+      139.6296
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aajx1ko",
+    "name": "エスポワール岩槻",
+    "image": "https://image.xinu.ink/pic/data/677/images/aajx1ko_1769483713392.jpg",
+    "ep": 8,
+    "geo": [
+      35.9667,
+      139.7122
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aak2zh4",
+    "name": "表慈恩寺団地 前の公園",
+    "image": "https://image.xinu.ink/pic/data/677/images/aak2zh4_1769483723455.jpg",
+    "ep": 8,
+    "geo": [
+      35.9689,
+      139.7127
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aak9uy1",
+    "name": "ガスト\n東岩槻​店​(から​好し​取扱店)",
+    "image": "https://image.xinu.ink/pic/data/677/images/aak9uy1_1769483728612.jpg",
+    "ep": 8,
+    "geo": [
+      35.9657,
+      139.7108
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
   }
 ]

@@ -1074,5 +1074,42 @@
     ],
     "origin": "Anitabi@真手凛",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7b6h2pw",
+    "name": "新宿センタービル",
+    "image": "https://image.xinu.ink/pic/data/455/images/7b6h2pw-1762923840053.jpg",
+    "ep": "",
+    "s": 144,
+    "geo": [
+      35.6909,
+      139.6964
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "35breqh",
+    "name": "首都高速4号新宿線高架下",
+    "image": "https://image.xinu.ink/pic/data/455/images/35breqh-1753862798742.jpg",
+    "ep": null,
+    "s": 5691,
+    "geo": [
+      35.6792,
+      139.7328
+    ],
+    "origin": "ckrito",
+    "originLink": "https://www.google.com/maps/d/edit?mid=1_lGB-sWlsYob0oTfYjg0R81vBa4FNj8&usp=sharing"
+  },
+  {
+    "id": "9ywpt3w",
+    "cn": "須賀神社",
+    "name": "須賀神社男坂上",
+    "image": "https://image.xinu.ink/pic/data/455/images/9ywpt3w-1768712213389.jpg",
+    "ep": null,
+    "geo": [
+      35.685,
+      139.7232
+    ]
   }
 ]

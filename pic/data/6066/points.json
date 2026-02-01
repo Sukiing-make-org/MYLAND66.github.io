@@ -515,5 +515,52 @@
     ],
     "origin": "Anitabi@和泉Ciao",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9p388q6",
+    "cn": "福井県庁周边",
+    "name": "福井県庁周边",
+    "image": "https://image.xinu.ink/pic/data/6066/images/9p388q6-1768118622352.jpg",
+    "ep": 9,
+    "s": 1194,
+    "geo": [
+      36.0662,
+      136.2213
+    ]
+  },
+  {
+    "id": "9p3pnc0",
+    "cn": "福井県庁周辺",
+    "name": "福井県庁周辺",
+    "image": "https://image.xinu.ink/pic/data/6066/images/9p3pnc0-1768119322258.jpg",
+    "ep": 9,
+    "s": 1171,
+    "geo": [
+      36.0662,
+      136.2212
+    ]
+  },
+  {
+    "id": "9p4hhwr",
+    "cn": "杉杜白髭神社",
+    "name": "杉杜白髭神社",
+    "image": "https://image.xinu.ink/pic/data/6066/images/9p4hhwr-1768120627905.jpg",
+    "ep": 7,
+    "s": 1028,
+    "geo": [
+      36.0568,
+      136.2276
+    ]
+  },
+  {
+    "id": "9p3mzm0",
+    "cn": "愛宕坂",
+    "name": "愛宕坂",
+    "image": "https://image.xinu.ink/pic/data/6066/images/9p3mzm0-1768119170121.jpg",
+    "ep": null,
+    "geo": [
+      36.0599,
+      136.2111
+    ]
   }
 ]

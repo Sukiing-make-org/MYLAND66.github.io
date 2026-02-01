@@ -61,5 +61,30 @@
     ],
     "origin": "もつ (id:exceed-yukikaze)",
     "originLink": "https://www.motsu-tanbou.com/entry/pilgrimage-umamusume3rd"
+  },
+  {
+    "id": "9zbhsci",
+    "cn": "东京赛马场 终点线",
+    "name": "東京競馬場 ゴール",
+    "image": "https://image.xinu.ink/pic/data/836/images/9zbhsci-1768737021389.jpg",
+    "ep": 1,
+    "s": 1289,
+    "geo": [
+      35.6643,
+      139.4838
+    ]
+  },
+  {
+    "id": "ca26fba3",
+    "cn": "东京站",
+    "name": "東京駅",
+    "image": "https://image.xinu.ink/pic/data/836/images/ca26fba3-1768650335712.jpg",
+    "ep": null,
+    "geo": [
+      35.6812,
+      139.7671
+    ],
+    "origin": "もつ (id:exceed-yukikaze)",
+    "originLink": "https://www.motsu-tanbou.com/entry/pilgrimage-umamusume3rd"
   }
 ]

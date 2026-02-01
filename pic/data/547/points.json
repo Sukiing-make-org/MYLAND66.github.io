@@ -814,5 +814,18 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1lKpy5FEiX-0WW8pLVArhx47NxZBydez4&ll=35.691344%2C139.752577&z=17"
+  },
+  {
+    "id": "aiaw5vd",
+    "name": "新条茜家",
+    "image": "https://image.xinu.ink/pic/data/547/images/aiaw5vd_1769884950698.jpg",
+    "ep": 2,
+    "s": 406,
+    "geo": [
+      35.7436,
+      139.815
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
   }
 ]

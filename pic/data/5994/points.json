@@ -455,5 +455,31 @@
     ],
     "origin": "Anitabi@Niamos!",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "afdd14f",
+    "name": "元平田食事センター",
+    "image": "https://image.xinu.ink/pic/data/5994/images/afdd14f_1769707659120.jpg",
+    "ep": 11,
+    "s": 100,
+    "geo": [
+      34.614,
+      133.8411
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aghsff5",
+    "name": "ラウンドワンスタジアム",
+    "image": "https://image.xinu.ink/pic/data/5994/images/aghsff5_1769775539770.jpg",
+    "ep": 8,
+    "s": 546,
+    "geo": [
+      35.7765,
+      139.6778
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
   }
 ]

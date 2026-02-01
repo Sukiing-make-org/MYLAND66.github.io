@@ -280,5 +280,52 @@
       35.726,
       139.9615
     ]
+  },
+  {
+    "id": "cm9qygvo3",
+    "cn": "阪神竞马场",
+    "name": "阪神競馬場",
+    "image": "https://image.xinu.ink/pic/data/528/images/cm9qygvo3-1768652048834.jpg",
+    "ep": "第二季第四集",
+    "s": "04:06",
+    "geo": [
+      34.7806,
+      135.3632
+    ]
+  },
+  {
+    "id": "9xx8l5o",
+    "cn": "东海道新干线",
+    "name": "東海道新幹線",
+    "image": "https://image.xinu.ink/pic/data/528/images/9xx8l5o-1768652611333.jpg",
+    "ep": 2,
+    "s": 986,
+    "geo": [
+      34.7441,
+      137.9381
+    ]
+  },
+  {
+    "id": "9zcjl9t",
+    "cn": "成田机场第二航站楼",
+    "name": "成田空港第2ターミナル",
+    "image": "https://image.xinu.ink/pic/data/528/images/9zcjl9t-1768738796335.jpg",
+    "ep": 13,
+    "s": 120,
+    "geo": [
+      35.7739,
+      140.3877
+    ]
+  },
+  {
+    "id": "af4teqr",
+    "cn": "东京竞马场",
+    "name": "東京レースコース",
+    "image": "https://image.xinu.ink/pic/data/528/images/af4teqr-1769693349438.jpg",
+    "ep": "1",
+    "geo": [
+      35.6682,
+      139.4848
+    ]
   }
 ]

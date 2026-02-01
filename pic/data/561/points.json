@@ -137,5 +137,122 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1OnOJkoybO7gH-0omYq0F20Xdsys&ll=43.071474%2C141.368873&z=17"
+  },
+  {
+    "id": "5qpzriub",
+    "name": "旧松橋家住宅",
+    "image": "https://image.xinu.ink/pic/data/561/images/5qpzriub-1769398836158.jpg",
+    "ep": 4,
+    "s": 1036,
+    "geo": [
+      43.0476,
+      141.499
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OnOJkoybO7gH-0omYq0F20Xdsys&ll=43.047669%2C141.499022&z=17"
+  },
+  {
+    "id": "5qpzrjge",
+    "name": "旧三ます河本そば屋",
+    "image": "https://image.xinu.ink/pic/data/561/images/5qpzrjge-1769398560629.jpg",
+    "ep": 4,
+    "s": 748,
+    "geo": [
+      43.0475,
+      141.4981
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OnOJkoybO7gH-0omYq0F20Xdsys&ll=43.047536%2C141.498182&z=17"
+  },
+  {
+    "id": "5qpzrjl7",
+    "name": "旧武井商店酒造部",
+    "image": "https://image.xinu.ink/pic/data/561/images/5qpzrjl7-1769398792776.jpg",
+    "ep": 4,
+    "s": 838,
+    "geo": [
+      43.0473,
+      141.4983
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OnOJkoybO7gH-0omYq0F20Xdsys&ll=43.047333%2C141.498343&z=17"
+  },
+  {
+    "id": "5qpzrjhg",
+    "name": "旧近藤医院",
+    "image": "https://image.xinu.ink/pic/data/561/images/5qpzrjhg-1769398970297.jpg",
+    "ep": 12,
+    "s": 174,
+    "geo": [
+      43.0471,
+      141.4985
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OnOJkoybO7gH-0omYq0F20Xdsys&ll=43.047103%2C141.49859&z=17"
+  },
+  {
+    "id": "5qpzrjk0",
+    "name": "旧青山家漁家住宅",
+    "image": "https://image.xinu.ink/pic/data/561/images/5qpzrjk0-1769398940172.jpg",
+    "ep": 8,
+    "s": 1245,
+    "geo": [
+      43.047,
+      141.5006
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OnOJkoybO7gH-0omYq0F20Xdsys&ll=43.047089%2C141.500688&z=17"
+  },
+  {
+    "id": "5qpzrjz4",
+    "name": "旧納内屯田兵屋",
+    "image": "https://image.xinu.ink/pic/data/561/images/5qpzrjz4-1769398901651.jpg",
+    "ep": 4,
+    "s": 1142,
+    "geo": [
+      43.0443,
+      141.4989
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OnOJkoybO7gH-0omYq0F20Xdsys&ll=43.044394%2C141.498982&z=17"
+  },
+  {
+    "id": "5qpzriw2",
+    "name": "鰊御殿",
+    "image": "https://image.xinu.ink/pic/data/561/images/5qpzriw2-1768054154892.jpg",
+    "ep": null,
+    "s": "",
+    "geo": [
+      43.2377,
+      141.0156
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OnOJkoybO7gH-0omYq0F20Xdsys&ll=43.237797%2C141.015648&z=17"
+  },
+  {
+    "id": "5qpzrjco",
+    "name": "旧山本理髪店",
+    "image": "https://image.xinu.ink/pic/data/561/images/5qpzrjco-1768053411473.jpg",
+    "ep": null,
+    "s": "",
+    "geo": [
+      43.0468,
+      141.4994
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OnOJkoybO7gH-0omYq0F20Xdsys&ll=43.046802%2C141.499466&z=17"
+  },
+  {
+    "id": "5qpzrjrq",
+    "name": "旧広瀬写真館",
+    "image": "https://image.xinu.ink/pic/data/561/images/5qpzrjrq-1768053623105.jpg",
+    "ep": null,
+    "s": 86515,
+    "geo": [
+      43.0466,
+      141.4985
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OnOJkoybO7gH-0omYq0F20Xdsys&ll=43.046679%2C141.498579&z=17"
   }
 ]

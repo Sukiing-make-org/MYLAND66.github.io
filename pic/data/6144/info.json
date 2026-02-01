@@ -1,0 +1,34 @@
+{
+  "id": 599997,
+  "cn": "二人巴士",
+  "title": "ふたりバス",
+  "city": "南丹市",
+  "cover": "https://image.xinu.ink/pic/data/6144/images/599997_BMcs8.jpg",
+  "modified": 1768495317170,
+  "litePoints": [
+    {
+      "id": "9u5omh4",
+      "name": "町営バス事務所",
+      "image": "https://image.anitabi.cn/points/599997/9u5omh4_1768424927582.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        35.1789,
+        135.3753
+      ]
+    },
+    {
+      "id": "9vbhwh2",
+      "name": "質美線 庄ノ路駅",
+      "image": "https://image.anitabi.cn/points/599997/9vbhwh2_1768495299341.jpg?plan=h160",
+      "geo": [
+        35.2146,
+        135.3787
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "name": "ふたりバス",
+  "name_cn": "二人巴士",
+  "local_id": 6144
+}

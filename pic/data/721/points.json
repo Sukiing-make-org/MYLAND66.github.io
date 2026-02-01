@@ -244,5 +244,39 @@
       39.8432,
       114.5622
     ]
+  },
+  {
+    "id": "9gdm0fs",
+    "cn": "监察坊",
+    "name": "监察坊",
+    "image": "https://image.xinu.ink/pic/data/721/images/9gdm0fs-1767591870928.jpg",
+    "ep": "小西天",
+    "geo": [
+      35.8194,
+      111.2724
+    ]
+  },
+  {
+    "id": "9ge2oiw",
+    "cn": "西溪二仙庙",
+    "name": "西溪二仙庙",
+    "image": "https://image.xinu.ink/pic/data/721/images/9ge2oiw-1767592513220.jpg",
+    "ep": "黑风山",
+    "geo": [
+      35.7644,
+      113.2488
+    ]
+  },
+  {
+    "id": "9ge6g3p",
+    "cn": "铁佛寺",
+    "name": "铁佛寺",
+    "image": "https://image.xinu.ink/pic/data/721/images/9ge6g3p-1767592692470.jpg",
+    "ep": "小西天 小雷音寺 山门",
+    "s": "",
+    "geo": [
+      35.7659,
+      112.9683
+    ]
   }
 ]

@@ -149,5 +149,127 @@
       37.8082,
       -122.4159
     ]
+  },
+  {
+    "id": "a3rst8u",
+    "name": "恋人の丘「龍恋の鐘」",
+    "image": "https://image.xinu.ink/pic/data/618/images/a3rst8u-1769006450533.jpg",
+    "ep": "",
+    "geo": [
+      35.2987,
+      139.4768
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "a3s20b4",
+    "name": "鎌倉高校前駅",
+    "image": "https://image.xinu.ink/pic/data/618/images/a3s20b4-1769006708116.jpg",
+    "ep": "",
+    "geo": [
+      35.3067,
+      139.5006
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "a3syh6t",
+    "cn": "横滨红砖仓库2号馆",
+    "name": "横浜赤レンガ倉庫2号館",
+    "image": "https://image.xinu.ink/pic/data/618/images/a3syh6t-1769008522512.jpg",
+    "ep": "",
+    "geo": [
+      35.4527,
+      139.6426
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "a3tat6w",
+    "name": "みなとみらい 観覧車",
+    "image": "https://image.xinu.ink/pic/data/618/images/a3tat6w-1769008808662.jpg",
+    "ep": null,
+    "geo": [
+      35.4558,
+      139.635
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "a3trkq0",
+    "name": "伊勢山緑地",
+    "image": "https://image.xinu.ink/pic/data/618/images/a3trkq0-1769009594849.jpg",
+    "ep": null,
+    "geo": [
+      35.3484,
+      139.4737
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "a3tw77t",
+    "name": "銀座通り りそな銀行 藤沢支店",
+    "image": "https://image.xinu.ink/pic/data/618/images/a3tw77t-1769009805266.jpg",
+    "ep": null,
+    "geo": [
+      35.34,
+      139.4862
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "a3u1axy",
+    "name": "パークハウス江ノ島",
+    "image": "https://image.xinu.ink/pic/data/618/images/a3u1axy-1769010041788.jpg",
+    "ep": null,
+    "geo": [
+      35.3095,
+      139.4807
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "a3u87qm",
+    "name": "片瀬西浜海水浴場",
+    "image": "https://image.xinu.ink/pic/data/618/images/a3u87qm-1769010377081.jpg",
+    "ep": null,
+    "geo": [
+      35.3118,
+      139.476
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "a3udfh1",
+    "cn": "Seven Miles Club附近",
+    "name": "セブンマイルズクラブ付近",
+    "image": "https://image.xinu.ink/pic/data/618/images/a3udfh1-1769010635092.jpg",
+    "ep": null,
+    "geo": [
+      35.3069,
+      139.5034
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "a3um4qu",
+    "name": "鎌倉高校踏切前",
+    "image": "https://image.xinu.ink/pic/data/618/images/a3um4qu-1769011017365.jpg",
+    "ep": null,
+    "geo": [
+      35.3066,
+      139.502
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
   }
 ]
