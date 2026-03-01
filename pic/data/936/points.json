@@ -44,5 +44,108 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "bjdn8d5",
+    "name": "一德路 海中宝大厦对面",
+    "image": "https://image.xinu.ink/pic/data/936/images/bjdn8d5_1772126778861.jpg",
+    "ep": "特别篇",
+    "s": 17,
+    "geo": [
+      23.1156,
+      113.2532
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "b4n1haz",
+    "cn": "壁江深海紫菜",
+    "name": "壁江深海紫菜",
+    "image": "https://image.xinu.ink/pic/data/936/images/b4n1haz-1771235547022.jpg",
+    "ep": "特别篇",
+    "s": 32,
+    "geo": [
+      23.1136,
+      113.2523
+    ],
+    "origin": "Anitabi@耿耿-げん",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "b3izb5k",
+    "cn": "黎明行",
+    "name": "黎明行",
+    "image": "https://image.xinu.ink/pic/data/936/images/b3izb5k-1771168271006.jpg",
+    "ep": "特别篇",
+    "s": 37,
+    "geo": [
+      23.1157,
+      113.2531
+    ]
+  },
+  {
+    "id": "b217194",
+    "name": "7-11沿江中路店",
+    "image": "https://image.xinu.ink/pic/data/936/images/b217194_1771077908632.jpg",
+    "ep": "特别篇",
+    "s": 718,
+    "geo": [
+      23.1169,
+      113.2632
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "b20yyej",
+    "name": "海珠广场",
+    "image": "https://image.xinu.ink/pic/data/936/images/b20yyej_1771077522521.jpg",
+    "ep": "特别篇",
+    "s": 773,
+    "geo": [
+      23.1168,
+      113.2597
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "b201d3x",
+    "name": "广州市第三中学北1门",
+    "image": "https://image.xinu.ink/pic/data/936/images/b201d3x_1771075957709.jpg",
+    "ep": "特别篇",
+    "s": 1634,
+    "geo": [
+      23.1185,
+      113.2533
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "b203u3w",
+    "name": "广州市第三中学 风雨连廊",
+    "image": "https://image.xinu.ink/pic/data/936/images/b203u3w_1771076119312.jpg",
+    "ep": "特别篇",
+    "s": 1637,
+    "geo": [
+      23.1185,
+      113.2538
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "b3io53j",
+    "cn": "工商银行对面",
+    "name": "沿江西路",
+    "image": "https://image.xinu.ink/pic/data/936/images/b3io53j-1771167873566.jpg",
+    "ep": "特别篇",
+    "s": 1002,
+    "geo": [
+      23.1122,
+      113.2523
+    ]
   }
 ]

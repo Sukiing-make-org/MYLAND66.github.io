@@ -93,5 +93,145 @@
       35.2313,
       139.1004
     ]
+  },
+  {
+    "id": "bao1iw7",
+    "cn": "箱根驛傳往路終點、復路起點",
+    "name": "東京箱根間往復大学駅伝競走 往路ゴール・復路スタート碑",
+    "image": "https://image.xinu.ink/pic/data/611/images/bao1iw7-1771600213144.jpg",
+    "ep": 20,
+    "s": 914,
+    "geo": [
+      35.1893,
+      139.0245
+    ]
+  },
+  {
+    "id": "bao9hq3",
+    "name": "芦ノ湖箱根湾ボート乗り場",
+    "image": "https://image.xinu.ink/pic/data/611/images/bao9hq3-1771600438053.jpg",
+    "ep": 17,
+    "s": 948,
+    "geo": [
+      35.1898,
+      139.0242
+    ]
+  },
+  {
+    "id": "baocryt",
+    "cn": "盧之湖旁的小橋",
+    "name": "(35.1901345, 139.0247934)",
+    "image": "https://image.xinu.ink/pic/data/611/images/baocryt-1771600601711.jpg",
+    "ep": 17,
+    "s": 791,
+    "geo": [
+      35.1901,
+      139.0248
+    ]
+  },
+  {
+    "id": "baohng8",
+    "cn": "箱根町港旁",
+    "name": "52RF+3VM 箱根町 日本神奈川縣",
+    "image": "https://image.xinu.ink/pic/data/611/images/baohng8-1771600787196.jpg",
+    "ep": 17,
+    "s": 798,
+    "geo": [
+      35.1901,
+      139.0246
+    ]
+  },
+  {
+    "id": "baonzma",
+    "cn": "國道一號最高點",
+    "name": "国道1号最高地点 (標高874m)",
+    "image": "https://image.xinu.ink/pic/data/611/images/baonzma-1771601081726.jpg",
+    "ep": 17,
+    "s": 762,
+    "geo": [
+      35.2175,
+      139.0386
+    ]
+  },
+  {
+    "id": "baoqf49",
+    "cn": "國道一號最高點附近",
+    "name": "62CV+6MP 箱根町 日本神奈川縣",
+    "image": "https://image.xinu.ink/pic/data/611/images/baoqf49-1771601229850.jpg",
+    "ep": 17,
+    "s": 767,
+    "geo": [
+      35.2206,
+      139.0442
+    ]
+  },
+  {
+    "id": "baoto2c",
+    "cn": "大平台",
+    "name": "大平台ヘアピンカーブ",
+    "image": "https://image.xinu.ink/pic/data/611/images/baoto2c-1771601357605.jpg",
+    "ep": 20,
+    "s": 646,
+    "geo": [
+      35.2402,
+      139.0724
+    ]
+  },
+  {
+    "id": "baow3wk",
+    "cn": "出山巴士站",
+    "name": "Deyama Bus Stop 出山（バス）",
+    "image": "https://image.xinu.ink/pic/data/611/images/baow3wk-1771601469672.jpg",
+    "ep": 20,
+    "s": 620,
+    "geo": [
+      35.2338,
+      139.0866
+    ]
+  },
+  {
+    "id": "baoyddo",
+    "name": "玉の緒橋",
+    "image": "https://image.xinu.ink/pic/data/611/images/baoyddo-1771601570484.jpg",
+    "ep": 20,
+    "s": 613,
+    "geo": [
+      35.233,
+      139.0937
+    ]
+  },
+  {
+    "id": "bap093q",
+    "name": "函嶺洞門",
+    "image": "https://image.xinu.ink/pic/data/611/images/bap093q-1771601646635.jpg",
+    "ep": 17,
+    "s": 744,
+    "geo": [
+      35.2325,
+      139.0973
+    ]
+  },
+  {
+    "id": "bap55jc",
+    "cn": "小田原中繼站",
+    "name": "小田原中繼所",
+    "image": "https://image.xinu.ink/pic/data/611/images/bap55jc-1771601918476.jpg",
+    "ep": 17,
+    "s": 732,
+    "geo": [
+      35.2454,
+      139.1296
+    ]
+  },
+  {
+    "id": "bap9p8x",
+    "name": "平塚中繼所",
+    "image": "https://image.xinu.ink/pic/data/611/images/bap9p8x-1771602107181.jpg",
+    "ep": 17,
+    "s": 728,
+    "geo": [
+      35.3137,
+      139.3309
+    ]
   }
 ]

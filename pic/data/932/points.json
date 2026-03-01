@@ -368,5 +368,40 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "axopa9y",
+    "cn": "神南邮局前路口",
+    "name": "神南郵便局前交差点",
+    "image": "https://image.xinu.ink/pic/data/932/images/axopa9y-1770815062833.jpg",
+    "ep": null,
+    "s": 545,
+    "geo": [
+      35.6622,
+      139.7008
+    ]
+  },
+  {
+    "id": "axqcpig",
+    "cn": "涩谷区役所前路口",
+    "name": "渋谷区役所前交差点",
+    "image": "https://image.xinu.ink/pic/data/932/images/axqcpig-1770817933633.jpg",
+    "ep": null,
+    "s": 1076,
+    "geo": [
+      35.6646,
+      139.6987
+    ]
+  },
+  {
+    "id": "b3fnkso",
+    "name": "排気塔モニュメント",
+    "image": "https://image.xinu.ink/pic/data/932/images/b3fnkso-1771162706745.jpg",
+    "ep": null,
+    "s": "1018",
+    "geo": [
+      35.6647,
+      139.6987
+    ]
   }
 ]

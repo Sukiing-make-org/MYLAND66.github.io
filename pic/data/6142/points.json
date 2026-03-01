@@ -178,5 +178,49 @@
     ],
     "origin": "Anitabi@甜食伯爵",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "bl5z9xr",
+    "name": "山内図書館",
+    "image": "https://image.xinu.ink/pic/data/6142/images/bl5z9xr-1772234813130.jpg",
+    "ep": "5",
+    "s": "16:18",
+    "geo": [
+      35.5669,
+      139.5538
+    ]
+  },
+  {
+    "id": "bl6du7n",
+    "name": "山内地区センター前交差点",
+    "image": "https://image.xinu.ink/pic/data/6142/images/bl6du7n-1772235483250.jpg",
+    "ep": "5",
+    "s": "16:44",
+    "geo": [
+      35.5671,
+      139.5538
+    ]
+  },
+  {
+    "id": "bl6g694",
+    "name": "あざみ野の河津桜",
+    "image": "https://image.xinu.ink/pic/data/6142/images/bl6g694-1772235595121.jpg",
+    "ep": "5",
+    "s": "16:55",
+    "geo": [
+      35.567,
+      139.5538
+    ]
+  },
+  {
+    "id": "bl6c4p0",
+    "name": "山内地区センター",
+    "image": "https://image.xinu.ink/pic/data/6142/images/bl6c4p0-1772235402875.jpg",
+    "ep": "5",
+    "s": "16:41",
+    "geo": [
+      35.567,
+      139.5538
+    ]
   }
 ]

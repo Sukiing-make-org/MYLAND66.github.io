@@ -565,5 +565,18 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1OgeSmT6pvmwNyx8MCdCq2C5JFqM&ll=35.713939%2C139.713328&z=17"
+  },
+  {
+    "id": "4sm48ern2",
+    "name": "高戸橋",
+    "image": "https://image.xinu.ink/pic/data/367/images/4sm48ern2-1770737500012.jpg",
+    "ep": null,
+    "s": "05:47",
+    "geo": [
+      35.7143,
+      139.7116
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1OgeSmT6pvmwNyx8MCdCq2C5JFqM&ll=35.714375%2C139.711622&z=17"
   }
 ]

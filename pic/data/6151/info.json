@@ -1,0 +1,75 @@
+{
+  "id": 501576,
+  "cn": "上木荔枝系列",
+  "title": "上木らいちシリーズ",
+  "cover": "https://image.xinu.ink/pic/data/6151/images/501576_M4kZl.jpg",
+  "color": "#e3459b",
+  "modified": 1770950807103,
+  "litePoints": [
+    {
+      "id": "aq7ntbe",
+      "cn": "JR滨松町站的北出口",
+      "name": "JR浜松町駅北口",
+      "image": "https://image.anitabi.cn/points/501576/aq7ntbe_1770634743572.jpg?plan=h160",
+      "geo": [
+        35.6563,
+        139.7572
+      ]
+    },
+    {
+      "id": "aq7tbcj",
+      "cn": "竹芝港客船站中央广场",
+      "name": "竹芝ターミナル　中央広場",
+      "image": "https://image.anitabi.cn/points/501576/aq7tbcj_1770634760786.jpg?plan=h160",
+      "geo": [
+        35.6545,
+        139.7629
+      ]
+    },
+    {
+      "id": "aq7zysi",
+      "cn": "竹芝港客船站第二候船室",
+      "name": "竹芝ターミナル第二待合室",
+      "image": "https://image.anitabi.cn/points/501576/aq7zysi_1770634773422.jpg?plan=h160",
+      "geo": [
+        35.6535,
+        139.7627
+      ]
+    },
+    {
+      "id": "aq86vn2",
+      "cn": "小笠原丸",
+      "name": "おがさわら丸",
+      "image": "https://image.anitabi.cn/points/501576/aq86vn2_1770634778004.jpg?plan=h160",
+      "geo": [
+        35.6535,
+        139.7633
+      ]
+    },
+    {
+      "id": "aq9174p",
+      "cn": "第六台场、富士电视台",
+      "name": "第六台場＆フジテレビ",
+      "image": "https://image.anitabi.cn/points/501576/aq9174p_1770634788812.jpg?plan=h160",
+      "geo": [
+        35.634,
+        139.7645
+      ]
+    },
+    {
+      "id": "aula9gr",
+      "name": "二見岩＆二見港東防波堤灯台",
+      "image": "https://image.anitabi.cn/points/501576/aula9gr_1770950790071.jpg?plan=h160",
+      "geo": [
+        27.0958,
+        142.1995
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "name": "上木らいちシリーズ",
+  "name_cn": "上木荔枝系列",
+  "theme_color": "#e3459b",
+  "local_id": 6151
+}
