@@ -1124,5 +1124,28 @@
     ],
     "origin": "宇宇欣",
     "originLink": "https://b23.tv/B00dplZ"
+  },
+  {
+    "id": "ck8niwg",
+    "cn": "Nitori",
+    "name": "ニトリ",
+    "image": "https://image.xinu.ink/pic/data/455/images/ck8niwg-1774355612822.jpg",
+    "ep": null,
+    "s": 5605,
+    "geo": [
+      35.6859,
+      139.7024
+    ]
+  },
+  {
+    "id": "ck8rzyc",
+    "name": "新青山東急ビル",
+    "image": "https://image.xinu.ink/pic/data/455/images/ck8rzyc-1774355811039.jpg",
+    "ep": null,
+    "s": 160,
+    "geo": [
+      35.6662,
+      139.714
+    ]
   }
 ]

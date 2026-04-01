@@ -1323,5 +1323,123 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1LpOLpt8tMF1ZZKRO2Gg_9-jcBKumHxgN&ll=32.868864%2C129.767091&z=17"
+  },
+  {
+    "id": "kmpcgsdb4",
+    "cn": "唯翔家应当在的地方",
+    "name": "唯翔の家の場所",
+    "image": "https://image.xinu.ink/pic/data/601/images/kmpcgsdb4-1774292194966.jpg",
+    "ep": 9,
+    "s": 1119,
+    "geo": [
+      32.733,
+      129.8761
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1LpOLpt8tMF1ZZKRO2Gg_9-jcBKumHxgN&ll=32.733041%2C129.876116&z=17"
+  },
+  {
+    "id": "cj4ytnj",
+    "name": "鍋冠山展望台",
+    "image": "https://image.xinu.ink/pic/data/601/images/cj4ytnj-1774288953764.jpg",
+    "ep": 13,
+    "s": 1271,
+    "geo": [
+      32.7294,
+      129.869
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cj5go4f",
+    "name": "翔家的背景",
+    "image": "https://image.xinu.ink/pic/data/601/images/cj5go4f-1774289776430.jpg",
+    "ep": 1,
+    "s": 555,
+    "geo": [
+      32.7291,
+      129.8738
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cj5lazs",
+    "name": "第一次见到翔",
+    "image": "https://image.xinu.ink/pic/data/601/images/cj5lazs-1774290003608.jpg",
+    "ep": 1,
+    "s": 1269,
+    "geo": [
+      32.7291,
+      129.8745
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cj629xv",
+    "name": "出雲近隣公園 亭子",
+    "image": "https://image.xinu.ink/pic/data/601/images/cj629xv-1774290785214.jpg",
+    "ep": 12,
+    "s": 987,
+    "geo": [
+      32.7292,
+      129.8741
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cj6emuw",
+    "name": "魚市橋",
+    "image": "https://image.xinu.ink/pic/data/601/images/cj6emuw-1774291373323.jpg",
+    "ep": 9,
+    "s": 442,
+    "geo": [
+      32.7474,
+      129.8808
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cj6ilyg",
+    "name": "石橋駅",
+    "image": "https://image.xinu.ink/pic/data/601/images/cj6ilyg-1774291552991.jpg",
+    "ep": 9,
+    "s": 644,
+    "geo": [
+      32.7342,
+      129.8724
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cj6qjj0",
+    "name": "グラバー スカイロード内",
+    "image": "https://image.xinu.ink/pic/data/601/images/cj6qjj0-1774291924045.jpg",
+    "ep": 9,
+    "s": 678,
+    "geo": [
+      32.7332,
+      129.8719
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cj75d07",
+    "name": "水辺の森公園（石のベンチ）",
+    "image": "https://image.xinu.ink/pic/data/601/images/cj75d07-1774292616492.jpg",
+    "ep": 10,
+    "s": 321,
+    "geo": [
+      32.7398,
+      129.8685
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
   }
 ]

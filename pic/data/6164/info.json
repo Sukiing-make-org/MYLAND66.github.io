@@ -1,0 +1,33 @@
+{
+  "id": 617400,
+  "title": "北洋花开-恋爱咏叹调",
+  "city": "天津市",
+  "cover": "https://image.xinu.ink/pic/data/6164/images/617400_Ub5P3.jpg",
+  "color": "#fc5aa1",
+  "modified": 1773713416409,
+  "litePoints": [
+    {
+      "id": "c9lzsll",
+      "name": "天津大学东门",
+      "image": "https://image.anitabi.cn/points/617400/c9lzsll_1773713272145.jpg?plan=h160",
+      "geo": [
+        39.107,
+        117.1724
+      ]
+    },
+    {
+      "id": "c9m6cig",
+      "name": "天津大学北洋纪念亭",
+      "image": "https://image.anitabi.cn/points/617400/c9m6cig_1773713292454.jpg?plan=h160",
+      "geo": [
+        39.1071,
+        117.1694
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "name": "北洋花开-恋爱咏叹调",
+  "theme_color": "#fc5aa1",
+  "local_id": 6164
+}

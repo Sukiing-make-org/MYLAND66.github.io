@@ -686,5 +686,31 @@
       35.6441,
       139.8618
     ]
+  },
+  {
+    "id": "boqoled",
+    "name": "THE SURF OCEAN TERRACE（ザ・サーフ オーシャンテラス）",
+    "image": "https://image.xinu.ink/pic/data/649/images/boqoled-1772451606344.jpg",
+    "ep": 12,
+    "s": 1164,
+    "geo": [
+      35.6249,
+      140.053
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "bor384b",
+    "name": "ザ・​サーフ​オーシャン​テラス",
+    "image": "https://image.xinu.ink/pic/data/649/images/bor384b-1772451655458.jpg",
+    "ep": 12,
+    "s": 1171,
+    "geo": [
+      35.6249,
+      140.053
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
   }
 ]

@@ -20,5 +20,83 @@
       35.767,
       139.6294
     ]
+  },
+  {
+    "id": "csw5e96",
+    "name": "都営大江戸線",
+    "image": "https://image.xinu.ink/pic/data/6033/images/csw5e96_1774878850845.jpg",
+    "geo": [
+      35.7585,
+      139.6294
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "csweu71",
+    "name": "夏之云公园",
+    "image": "https://image.xinu.ink/pic/data/6033/images/csweu71_1774879275329.jpg",
+    "geo": [
+      35.7583,
+      139.6292
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "csxpixh",
+    "name": "春之风公园",
+    "image": "https://image.xinu.ink/pic/data/6033/images/csxpixh_1774881416445.jpg",
+    "geo": [
+      35.7563,
+      139.6223
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cswrz17",
+    "name": "IMA商场",
+    "image": "https://image.xinu.ink/pic/data/6033/images/cswrz17_1774881517865.jpg",
+    "geo": [
+      35.7597,
+      139.6286
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "csxq766",
+    "name": "光丘公园",
+    "image": "https://image.xinu.ink/pic/data/6033/images/csxq766_1774881446162.jpg",
+    "geo": [
+      35.7628,
+      139.629
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "csy851f",
+    "name": "石神井公园",
+    "image": "https://image.xinu.ink/pic/data/6033/images/csy851f_1774882285647.jpg",
+    "geo": [
+      35.7399,
+      139.6016
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "csy95n6",
+    "cn": "日本武道馆",
+    "name": "日本武道館",
+    "image": "https://image.xinu.ink/pic/data/6033/images/csy95n6_1774882331269.jpg",
+    "geo": [
+      35.6932,
+      139.7498
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
   }
 ]

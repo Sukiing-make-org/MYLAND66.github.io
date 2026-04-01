@@ -44,5 +44,149 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "clw5d5w",
+    "name": "八幡宮 一の鳥居",
+    "image": "https://image.xinu.ink/pic/data/6144/images/clw5d5w_1774455536366.jpg",
+    "ep": 24,
+    "geo": [
+      35.2136,
+      135.3815
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "c9no1n3",
+    "name": "二条駅",
+    "image": "https://image.xinu.ink/pic/data/6144/images/c9no1n3_1773715705144.jpg",
+    "ep": 15,
+    "geo": [
+      35.0109,
+      135.7416
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "c9nyui5",
+    "cn": "麦当劳四条河原町店",
+    "name": "マクドナルド\n四条​河原町​店",
+    "image": "https://image.xinu.ink/pic/data/6144/images/c9nyui5_1773716202427.jpg",
+    "ep": 15,
+    "geo": [
+      35.0035,
+      135.7675
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "c9o7xj7",
+    "name": "丹波​自然​運動​公園",
+    "image": "https://image.xinu.ink/pic/data/6144/images/c9o7xj7_1773716634854.jpg",
+    "ep": 15,
+    "geo": [
+      35.1669,
+      135.4132
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "c93squi",
+    "name": "スーパーマーケットサンダイコー",
+    "image": "https://image.xinu.ink/pic/data/6144/images/c93squi_1773682431870.jpg",
+    "ep": 22,
+    "geo": [
+      35.1799,
+      135.3741
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "c93z101",
+    "name": "府道444",
+    "image": "https://image.xinu.ink/pic/data/6144/images/c93z101_1773682639244.jpg",
+    "ep": 22,
+    "geo": [
+      35.1815,
+      135.3717
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "c940a44",
+    "name": "桧山須知線",
+    "image": "https://image.xinu.ink/pic/data/6144/images/c940a44_1773682963102.jpg",
+    "ep": 22,
+    "geo": [
+      35.1817,
+      135.3709
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cd8p6ij",
+    "name": "京丹波町立瑞穂中学校",
+    "image": "https://image.xinu.ink/pic/data/6144/images/cd8p6ij-1773932573709.jpg",
+    "ep": "EP1",
+    "geo": [
+      35.178,
+      135.3715
+    ]
+  },
+  {
+    "id": "cd9nm61",
+    "name": "質美線 下村駅",
+    "image": "https://image.xinu.ink/pic/data/6144/images/cd9nm61-1773934044707.jpg",
+    "ep": "EP6",
+    "geo": [
+      35.2086,
+      135.3985
+    ]
+  },
+  {
+    "id": "clvwvkp",
+    "cn": "上野站东 春平家附近",
+    "name": "上野駅",
+    "image": "https://image.xinu.ink/pic/data/6144/images/clvwvkp_1774455176721.jpg",
+    "ep": 23,
+    "geo": [
+      35.2086,
+      135.3934
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "clw07na",
+    "cn": "春平家（疑似）",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/6144/images/clw07na_1774455304434.jpg",
+    "ep": 14,
+    "geo": [
+      35.2083,
+      135.3934
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "clw1rhy",
+    "cn": "小杏家（疑似）",
+    "name": 22,
+    "image": "https://image.xinu.ink/pic/data/6144/images/clw1rhy_1774455440047.jpg",
+    "ep": 22,
+    "geo": [
+      35.2152,
+      135.3776
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
   }
 ]

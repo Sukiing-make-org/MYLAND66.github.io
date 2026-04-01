@@ -538,5 +538,41 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1MQNdvrVVP8wk0iDD5R1QRQ34-Cf_0ahm&ll=33.097082%2C129.984802&z=17"
+  },
+  {
+    "id": "51i521tnt",
+    "name": "路地",
+    "image": "https://image.xinu.ink/pic/data/615/images/51i521tnt-1774786812757.jpg",
+    "ep": null,
+    "geo": [
+      33.0965,
+      129.9849
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1MQNdvrVVP8wk0iDD5R1QRQ34-Cf_0ahm&ll=33.09657%2C129.984995&z=17"
+  },
+  {
+    "id": "51i521t9v",
+    "name": "広川鮮魚店通り",
+    "image": "https://image.xinu.ink/pic/data/615/images/51i521t9v-1774787019320.jpg",
+    "ep": null,
+    "geo": [
+      33.0973,
+      129.9846
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1MQNdvrVVP8wk0iDD5R1QRQ34-Cf_0ahm&ll=33.097369%2C129.98463&z=17"
+  },
+  {
+    "id": "51i521ubb",
+    "name": "駐車場",
+    "image": "https://image.xinu.ink/pic/data/615/images/51i521ubb-1774786707117.jpg",
+    "ep": null,
+    "geo": [
+      33.0962,
+      129.9852
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1MQNdvrVVP8wk0iDD5R1QRQ34-Cf_0ahm&ll=33.096297%2C129.985268&z=17"
   }
 ]

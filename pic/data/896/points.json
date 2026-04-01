@@ -80,5 +80,80 @@
       33.9471,
       130.9642
     ]
+  },
+  {
+    "id": "bq2iyeu",
+    "cn": "樱井二见浦 海中鸟居",
+    "name": "桜井二見ヶ浦 海中大鳥居",
+    "image": "https://image.xinu.ink/pic/data/896/images/bq2iyeu-1772531384262.jpg",
+    "ep": "玉依ひまり线约会地",
+    "geo": [
+      33.639,
+      130.1968
+    ]
+  },
+  {
+    "id": "bq2uovo",
+    "cn": "金丝雀购物中心",
+    "name": "キャナルシティ博多",
+    "image": "https://image.xinu.ink/pic/data/896/images/bq2uovo-1772531909221.jpg",
+    "ep": null,
+    "geo": [
+      33.5896,
+      130.4125
+    ]
+  },
+  {
+    "id": "bq38056",
+    "name": "キャナルシティ博多 サンプラザステージ",
+    "image": "https://image.xinu.ink/pic/data/896/images/bq38056-1772532514740.jpg",
+    "ep": null,
+    "geo": [
+      33.5896,
+      130.4108
+    ]
+  },
+  {
+    "id": "bq3bz3s",
+    "cn": "大濠公园浮见堂",
+    "name": "大濠公園浮見堂",
+    "image": "https://image.xinu.ink/pic/data/896/images/bq3bz3s-1772532854620.jpg",
+    "ep": null,
+    "geo": [
+      33.5877,
+      130.3756
+    ]
+  },
+  {
+    "id": "bq3o0o0",
+    "cn": "大桥站站前",
+    "name": "大橋駅前",
+    "image": "https://image.xinu.ink/pic/data/896/images/bq3o0o0-1772533259912.jpg",
+    "ep": null,
+    "geo": [
+      33.5593,
+      130.4265
+    ]
+  },
+  {
+    "id": "bq3qo2h",
+    "name": "どんどん亭 城南店",
+    "image": "https://image.xinu.ink/pic/data/896/images/bq3qo2h-1772533408599.jpg",
+    "ep": null,
+    "geo": [
+      33.5467,
+      130.3804
+    ]
+  },
+  {
+    "id": "bq3yjpi",
+    "cn": "福冈塔",
+    "name": "福岡タワー",
+    "image": "https://image.xinu.ink/pic/data/896/images/bq3yjpi-1772533773835.jpg",
+    "ep": null,
+    "geo": [
+      33.5932,
+      130.3515
+    ]
   }
 ]

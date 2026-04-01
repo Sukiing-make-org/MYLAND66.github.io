@@ -9,5 +9,71 @@
       35.6921,
       139.7623
     ]
+  },
+  {
+    "id": "bw43gk3",
+    "cn": "肚脐神社",
+    "name": "へそ神社",
+    "image": "https://image.xinu.ink/pic/data/726/images/bw43gk3-1772896788875.jpg",
+    "ep": 9,
+    "s": 610,
+    "geo": [
+      43.3464,
+      142.3895
+    ]
+  },
+  {
+    "id": "bw4cx73",
+    "name": "ふらのワイナリー",
+    "image": "https://image.xinu.ink/pic/data/726/images/bw4cx73-1772897219561.jpg",
+    "ep": 9,
+    "s": 759,
+    "geo": [
+      43.3586,
+      142.3736
+    ]
+  },
+  {
+    "id": "c576b6w",
+    "name": "北海道 富良野 北海道中心標",
+    "image": "https://image.xinu.ink/pic/data/726/images/c576b6w-1773446156255.jpg",
+    "ep": 9,
+    "s": 1054,
+    "geo": [
+      43.3442,
+      142.3832
+    ]
+  },
+  {
+    "id": "bw41iew",
+    "cn": "菓子司 新谷",
+    "name": "菓子司 新谷",
+    "image": "https://image.xinu.ink/pic/data/726/images/bw41iew-1772896673493.jpg",
+    "ep": "9",
+    "geo": [
+      43.3476,
+      142.3884
+    ]
+  },
+  {
+    "id": "bw480yu",
+    "cn": "富良野站前公园",
+    "name": "ふらの駅前公園",
+    "image": "https://image.xinu.ink/pic/data/726/images/bw480yu-1772896987890.jpg",
+    "ep": null,
+    "geo": [
+      43.3474,
+      142.3908
+    ]
+  },
+  {
+    "id": "bw4a61a",
+    "name": "すずらん通り",
+    "image": "https://image.xinu.ink/pic/data/726/images/bw4a61a-1772897080863.jpg",
+    "ep": null,
+    "geo": [
+      43.3463,
+      142.3889
+    ]
   }
 ]

@@ -38,5 +38,71 @@
       48.8566,
       2.3467
     ]
+  },
+  {
+    "id": "cm7ldpi",
+    "name": "Lungarno degli Archibusieri",
+    "image": "https://image.xinu.ink/pic/data/805/images/cm7ldpi-1774474833099.jpg",
+    "ep": 3,
+    "s": 1009,
+    "geo": [
+      43.7682,
+      11.254
+    ]
+  },
+  {
+    "id": "cm7psue",
+    "name": "乌菲兹美术馆前拱廊",
+    "image": "https://image.xinu.ink/pic/data/805/images/cm7psue-1774474967724.jpg",
+    "ep": 3,
+    "s": 924,
+    "geo": [
+      43.7677,
+      11.2552
+    ]
+  },
+  {
+    "id": "cm7tqnp",
+    "name": "阿诺河沿岸（往对面看）",
+    "image": "https://image.xinu.ink/pic/data/805/images/cm7tqnp-1774475161446.jpg",
+    "ep": 3,
+    "s": 981,
+    "geo": [
+      43.7671,
+      11.2543
+    ]
+  },
+  {
+    "id": "cm7vfh3",
+    "name": "圣十字圣殿",
+    "image": "https://image.xinu.ink/pic/data/805/images/cm7vfh3-1774475240760.jpg",
+    "ep": 3,
+    "s": 184,
+    "geo": [
+      43.7686,
+      11.2621
+    ]
+  },
+  {
+    "id": "cm7wnm4",
+    "name": "Piazza del Pesce",
+    "image": "https://image.xinu.ink/pic/data/805/images/cm7wnm4-1774475303572.jpg",
+    "ep": 3,
+    "s": 928,
+    "geo": [
+      43.7683,
+      11.2538
+    ]
+  },
+  {
+    "id": "cm8dkx5",
+    "name": "Ponte alle Grazie",
+    "image": "https://image.xinu.ink/pic/data/805/images/cm8dkx5-1774476077664.jpg",
+    "ep": 3,
+    "s": 1253,
+    "geo": [
+      43.7661,
+      11.2587
+    ]
   }
 ]

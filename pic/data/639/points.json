@@ -272,5 +272,124 @@
       35.6939,
       139.6995
     ]
+  },
+  {
+    "id": "bm62kwe",
+    "cn": "PEANUTS CLUB",
+    "name": "米田ビル",
+    "image": "https://image.xinu.ink/pic/data/639/images/bm62kwe-1772295595381.jpg",
+    "ep": null,
+    "s": 755,
+    "geo": [
+      35.7052,
+      139.7355
+    ]
+  },
+  {
+    "id": "bm8j25y",
+    "cn": "冰川神社",
+    "name": "氷川神社",
+    "image": "https://image.xinu.ink/pic/data/639/images/bm8j25y-1772299561184.jpg",
+    "ep": null,
+    "s": 2879,
+    "geo": [
+      35.7047,
+      139.6511
+    ]
+  },
+  {
+    "id": "bm87q2n",
+    "cn": "NTT DOCOMO代代木大厦",
+    "name": "NTT​ドコモ​代々木​ビル",
+    "image": "https://image.xinu.ink/pic/data/639/images/bm87q2n-1772299208216.jpg",
+    "ep": null,
+    "s": 5356,
+    "geo": [
+      35.6844,
+      139.7031
+    ]
+  },
+  {
+    "id": "bm8rk7i",
+    "cn": "气象神社",
+    "name": "気象神社",
+    "image": "https://image.xinu.ink/pic/data/639/images/bm8rk7i-1772299947128.jpg",
+    "ep": null,
+    "s": 2839,
+    "geo": [
+      35.7047,
+      139.651
+    ]
+  },
+  {
+    "id": "bm3okzc",
+    "cn": "都道302号",
+    "name": "都道302番",
+    "image": "https://image.xinu.ink/pic/data/639/images/bm3okzc-1772291576436.jpg",
+    "ep": null,
+    "s": 5322,
+    "geo": [
+      35.6937,
+      139.6995
+    ]
+  },
+  {
+    "id": "bm3zbak",
+    "cn": "山手线、湘南新宿线和埼京线分叉点",
+    "name": "山手線 湘南新宿ライン 埼京線の分岐点",
+    "image": "https://image.xinu.ink/pic/data/639/images/bm3zbak-1772292263028.jpg",
+    "ep": null,
+    "s": 5272,
+    "geo": [
+      35.6983,
+      139.6999
+    ]
+  },
+  {
+    "id": "bm906jk",
+    "cn": "代代木会馆",
+    "name": "代々木会館",
+    "image": "https://image.xinu.ink/pic/data/639/images/bm906jk-1772300526416.jpg",
+    "ep": null,
+    "s": 5833,
+    "geo": [
+      35.6834,
+      139.7018
+    ]
+  },
+  {
+    "id": "bq0atq4",
+    "cn": "池袋警察署",
+    "name": "警視庁池袋警察署",
+    "image": "https://image.xinu.ink/pic/data/639/images/bq0atq4-1772527596187.jpg",
+    "ep": null,
+    "s": 4896,
+    "geo": [
+      35.7285,
+      139.7071
+    ]
+  },
+  {
+    "id": "bq0duws",
+    "cn": "hotel hisoca ikebukuro",
+    "name": "ホテルヒソカ池袋",
+    "image": "https://image.xinu.ink/pic/data/639/images/bq0duws-1772528007665.jpg",
+    "ep": null,
+    "s": 4135,
+    "geo": [
+      35.7293,
+      139.7085
+    ]
+  },
+  {
+    "id": "bq11chs",
+    "name": "メゾン・ド・パラディ",
+    "image": "https://image.xinu.ink/pic/data/639/images/bq11chs-1772528993645.jpg",
+    "ep": null,
+    "s": 5174,
+    "geo": [
+      35.718,
+      139.7053
+    ]
   }
 ]
