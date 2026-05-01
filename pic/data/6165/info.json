@@ -1,0 +1,53 @@
+{
+  "id": 321744,
+  "cn": "虚忆定格",
+  "title": "虚忆定格",
+  "city": "广东省",
+  "cover": "https://image.xinu.ink/pic/data/6165/images/321744_YNk7k.jpg",
+  "color": "#3b93f3",
+  "modified": 1776091554309,
+  "litePoints": [
+    {
+      "id": "dcxa7tc",
+      "name": "江门一中 图书馆前广场",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/321744/points/dcxa7tc-1776090068756.jpg?plan=h160",
+      "geo": [
+        22.5593,
+        113.1074
+      ]
+    },
+    {
+      "id": "dcxgc9k",
+      "name": "江门一中 操场",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/321744/points/dcxgc9k-1776090329518.jpg?plan=h160",
+      "geo": [
+        22.558,
+        113.1053
+      ]
+    },
+    {
+      "id": "dcxlyyz",
+      "name": "江门一中 图书馆走廊",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/321744/points/dcxlyyz-1776090584093.jpg?plan=h160",
+      "geo": [
+        22.5594,
+        113.1071
+      ]
+    },
+    {
+      "id": "dcy2wxd",
+      "name": "江门一中 艺术楼",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/321744/points/dcy2wxd-1776091379387.jpg?plan=h160",
+      "geo": [
+        22.5598,
+        113.1079
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "name": "虚忆定格",
+  "name_cn": "虚忆定格",
+  "theme_color": "#3b93f3",
+  "local_id": 6165
+}

@@ -1,0 +1,37 @@
+{
+  "id": 486165,
+  "cn": "播种之谣",
+  "title": "たねつみの歌",
+  "city": "爱知县",
+  "cover": "https://image.xinu.ink/pic/data/6166/images/486165_CtccO.jpg",
+  "color": "#b81c28",
+  "modified": 1775094352762,
+  "litePoints": [
+    {
+      "id": "cwfz14m",
+      "cn": "三河安城站",
+      "name": "三河安城駅",
+      "image": "https://image.anitabi.cn/points/486165/cwfz14m_1775093972569.jpg?plan=h160",
+      "geo": [
+        34.9686,
+        137.0601
+      ]
+    },
+    {
+      "id": "cwf3gao",
+      "cn": "伊世贺美隧道",
+      "name": "伊世賀美隧道",
+      "image": "https://image.anitabi.cn/points/486165/cwf3gao_1775094122887.jpg?plan=h160",
+      "geo": [
+        35.1712,
+        137.4281
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "name": "たねつみの歌",
+  "name_cn": "播种之谣",
+  "theme_color": "#b81c28",
+  "local_id": 6166
+}

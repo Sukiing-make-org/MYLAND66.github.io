@@ -104,5 +104,49 @@
       43.7661,
       11.2587
     ]
+  },
+  {
+    "id": "du8ac9s",
+    "name": "新圣母圣殿",
+    "image": "https://image.xinu.ink/pic/data/805/images/du8ac9s-1777136459214.jpg",
+    "ep": 3,
+    "s": 187,
+    "geo": [
+      43.7738,
+      11.2495
+    ]
+  },
+  {
+    "id": "du8dl7u",
+    "name": "Piazza di Santa Maria Novella",
+    "image": "https://image.xinu.ink/pic/data/805/images/du8dl7u-1777136587064.jpg",
+    "ep": 3,
+    "s": 181,
+    "geo": [
+      43.7735,
+      11.2494
+    ]
+  },
+  {
+    "id": "du8ftlb",
+    "name": "乌菲兹美术馆拱廊",
+    "image": "https://image.xinu.ink/pic/data/805/images/du8ftlb-1777136696163.jpg",
+    "ep": 3,
+    "s": 902,
+    "geo": [
+      43.7681,
+      11.2553
+    ]
+  },
+  {
+    "id": "du8i9w5",
+    "name": "新圣母大殿",
+    "image": "https://image.xinu.ink/pic/data/805/images/du8i9w5-1777136808366.jpg",
+    "ep": 3,
+    "s": 217,
+    "geo": [
+      43.7736,
+      11.2495
+    ]
   }
 ]

@@ -510,5 +510,18 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1MQNdvrVVP8wk0iDD5R1QRQ34-Cf_0ahm&ll=33.236145%2C130.320347&z=17"
+  },
+  {
+    "id": "cvhx4g6",
+    "name": "Forrest Gump Point",
+    "image": "https://image.xinu.ink/pic/data/670/images/cvhx4g6_1775036311137.jpg",
+    "ep": 2,
+    "s": 1384,
+    "geo": [
+      37.1019,
+      -109.9902
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
   }
 ]

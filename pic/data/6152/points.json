@@ -82,5 +82,76 @@
     ],
     "origin": "sana",
     "originLink": "https://www.google.com/maps/d/u/2/edit?mid=1JVnmy7SSJbGWPCCJL3p3JJ_tTdFIyAY&usp=sharing"
+  },
+  {
+    "id": "d199393",
+    "name": "新宿区立大久保公園",
+    "image": "https://image.xinu.ink/pic/data/6152/images/d199393-1775384576107.jpg",
+    "ep": null,
+    "geo": [
+      35.6972,
+      139.7011
+    ],
+    "origin": "sana",
+    "originLink": "https://www.google.com/maps/d/u/2/edit?mid=1JVnmy7SSJbGWPCCJL3p3JJ_tTdFIyAY&usp=sharing"
+  },
+  {
+    "id": "d19g4ae",
+    "name": "セントラルロード",
+    "image": "https://image.xinu.ink/pic/data/6152/images/d19g4ae-1775384895396.jpg",
+    "ep": null,
+    "geo": [
+      35.694,
+      139.7016
+    ],
+    "origin": "sana",
+    "originLink": "https://www.google.com/maps/d/u/2/edit?mid=1JVnmy7SSJbGWPCCJL3p3JJ_tTdFIyAY&usp=sharing"
+  },
+  {
+    "id": "d19lzl8",
+    "name": "JR新宿駅東口駅前広場",
+    "image": "https://image.xinu.ink/pic/data/6152/images/d19lzl8-1775385150037.jpg",
+    "ep": null,
+    "geo": [
+      35.6923,
+      139.701
+    ],
+    "origin": "sana",
+    "originLink": "https://www.google.com/maps/d/u/2/edit?mid=1JVnmy7SSJbGWPCCJL3p3JJ_tTdFIyAY&usp=sharing"
+  },
+  {
+    "id": "d19q4sq",
+    "name": "区渋谷交差点",
+    "image": "https://image.xinu.ink/pic/data/6152/images/d19q4sq-1775385344489.jpg",
+    "ep": null,
+    "geo": [
+      35.6592,
+      139.7008
+    ],
+    "origin": "sana",
+    "originLink": "https://www.google.com/maps/d/u/2/edit?mid=1JVnmy7SSJbGWPCCJL3p3JJ_tTdFIyAY&usp=sharing"
+  },
+  {
+    "id": "d19vj3o",
+    "name": "多摩川堤通り",
+    "image": "https://image.xinu.ink/pic/data/6152/images/d19vj3o-1775385625403.jpg",
+    "ep": null,
+    "geo": [
+      35.6416,
+      139.5358
+    ],
+    "origin": "sana",
+    "originLink": "https://www.google.com/maps/d/u/2/edit?mid=1JVnmy7SSJbGWPCCJL3p3JJ_tTdFIyAY&usp=sharing"
+  },
+  {
+    "id": "d19xxsp",
+    "cn": "台场海滨公园",
+    "name": "お台場海浜公園",
+    "image": "https://image.xinu.ink/pic/data/6152/images/d19xxsp-1775385777290.jpg",
+    "ep": null,
+    "geo": [
+      35.6303,
+      139.7752
+    ]
   }
 ]

@@ -1335,5 +1335,31 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "dtkgzen",
+    "name": "是空温泉室内",
+    "image": "https://image.xinu.ink/pic/data/662/images/dtkgzen-1777096453403.jpg",
+    "ep": 3,
+    "s": 1014,
+    "geo": [
+      35.0762,
+      140.0951
+    ],
+    "origin": "Anitabi@蛙壶真君",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "dtkacne",
+    "name": "站前观光案内所方向",
+    "image": "https://image.xinu.ink/pic/data/662/images/dtkacne-1777096123305.jpg",
+    "ep": 3,
+    "s": 462,
+    "geo": [
+      35.9896,
+      139.0834
+    ],
+    "origin": "Anitabi@蛙壶真君",
+    "originURL": "https://anitabi.cn/"
   }
 ]
