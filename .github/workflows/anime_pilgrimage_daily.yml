@@ -64,15 +64,16 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          # 全局忽略日志文件，避免再次被加入暂存区
+          # 永久忽略大日志文件
           echo "anime_pilgrimage_scraper.log" >> .gitignore
 
       - name: Commit and push changes
         run: |
           # Check if there are any changes
           if [[ -n $(git status --porcelain) ]]; then
-            # 关键修复：不要 add -A，排除大日志文件
-            git add . --exclude=anime_pilgrimage_scraper.log
+            git add .
+            # 强制移除日志文件（防止之前被add进去）
+            git reset -- anime_pilgrimage_scraper.log
             git commit -m "Daily anime pilgrimage update: $(date +'%Y-%m-%d')"
             # 使用个人访问令牌进行推送，确保有足够的权限
             git push https://${{ secrets.PAT }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
