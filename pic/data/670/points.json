@@ -523,5 +523,58 @@
     ],
     "origin": "Anitabi@Niamos!",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f2xd3je",
+    "name": "杉ノ原放牧場",
+    "image": "https://image.xinu.ink/pic/data/670/images/f2xd3je_1779839063237.jpg",
+    "ep": 1,
+    "s": 111,
+    "geo": [
+      33.5664,
+      129.8815
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ojs07j2uq",
+    "name": "諸富橋",
+    "image": "https://image.xinu.ink/pic/data/670/images/ojs07j2uq-1727399805616.jpg",
+    "ep": 2,
+    "s": 821,
+    "geo": [
+      33.2219,
+      130.3626
+    ],
+    "origin": "Anitabi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nhtztjwwz",
+    "name": "祐徳稲荷",
+    "image": "https://image.xinu.ink/pic/data/670/images/nhtztjwwz-1724426330402.jpg",
+    "ep": 2,
+    "s": 711,
+    "geo": [
+      33.0734,
+      130.1082
+    ],
+    "origin": "Anitabi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kdi0yk6nm",
+    "cn": "九州佐贺国际机场",
+    "name": "九州​佐賀​国際​空港",
+    "image": "https://image.xinu.ink/pic/data/670/images/kdi0yk6nm-1715623429050.jpg",
+    "ep": 3,
+    "s": 763,
+    "geo": [
+      33.1495,
+      130.3034
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1MQNdvrVVP8wk0iDD5R1QRQ34-Cf_0ahm&ll=33.149588%2C130.303469&z=17"
   }
 ]

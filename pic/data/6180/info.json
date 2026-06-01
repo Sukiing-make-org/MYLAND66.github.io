@@ -1,0 +1,45 @@
+{
+  "id": 576121,
+  "cn": "落语朱音",
+  "title": "あかね噺",
+  "cover": "https://image.xinu.ink/pic/data/6180/images/576121_sqqIH.jpg",
+  "cp": "『あかね噺』",
+  "modified": 1779249598068,
+  "litePoints": [
+    {
+      "id": "esgjyyk",
+      "name": "內幸町ホール前",
+      "image": "https://image.anitabi.cn/user/0/bangumi/576121/points/esgjyyk-1779206485541.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6699,
+        139.7575
+      ]
+    },
+    {
+      "id": "esh264y",
+      "name": "新宿末広亭",
+      "image": "https://image.anitabi.cn/user/0/bangumi/576121/points/esh264y-1779207043283.jpg?plan=h160",
+      "geo": [
+        35.6911,
+        139.7059
+      ]
+    },
+    {
+      "id": "eshbyjt",
+      "cn": "東京藝術劇場",
+      "name": "東京芸術劇場",
+      "image": "https://image.anitabi.cn/user/0/bangumi/576121/points/eshbyjt-1779207625926.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.7303,
+        139.7086
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "name": "あかね噺",
+  "name_cn": "落语朱音",
+  "local_id": 6180
+}

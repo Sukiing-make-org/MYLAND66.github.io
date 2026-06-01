@@ -10,5 +10,57 @@
       23.0371,
       113.3817
     ]
+  },
+  {
+    "id": "ey4rc9l",
+    "name": "广州美术学院（大学城校区）正门",
+    "image": "https://image.xinu.ink/pic/data/6159/images/ey4rc9l-1779549189467.jpg",
+    "ep": "1",
+    "s": "198",
+    "geo": [
+      23.0386,
+      113.3776
+    ],
+    "origin": "Anitabi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ey4vctd",
+    "name": "广州美术学院（大学城校区）正门大楼梯",
+    "image": "https://image.xinu.ink/pic/data/6159/images/ey4vctd-1779549371798.jpg",
+    "ep": "1",
+    "s": "232",
+    "geo": [
+      23.0389,
+      113.378
+    ],
+    "origin": "Anitabi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ey4z7zg",
+    "name": "南亭村南亭大道",
+    "image": "https://image.xinu.ink/pic/data/6159/images/ey4z7zg-1779549533005.jpg",
+    "ep": "1",
+    "s": "261",
+    "geo": [
+      23.0376,
+      113.3818
+    ],
+    "origin": "Anitabi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ey5a53l",
+    "name": "南亭村南亭商业街",
+    "image": "https://image.xinu.ink/pic/data/6159/images/ey5a53l-1779550092605.jpg",
+    "ep": "1",
+    "s": "726",
+    "geo": [
+      23.0396,
+      113.3829
+    ],
+    "origin": "Anitabi",
+    "originURL": "https://anitabi.cn/"
   }
 ]

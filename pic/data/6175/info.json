@@ -1,0 +1,122 @@
+{
+  "id": 340294,
+  "cn": "月付房租 带院子带房东",
+  "title": "毎月庭つき大家つき",
+  "city": "埼玉县",
+  "cover": "https://image.xinu.ink/pic/data/6175/images/340294_rEqeE.jpg",
+  "color": "#d09e5f",
+  "geo": [
+    35.9233070872134,
+    139.48572450916015
+  ],
+  "zoom": 15.5,
+  "modified": 1779987847822,
+  "litePoints": [
+    {
+      "id": "f2jq005",
+      "name": "舞浜アンフィシアター",
+      "image": "https://image.anitabi.cn/points/340294/f2jq005_1779816237294.jpg?plan=h160",
+      "ep": 11,
+      "geo": [
+        35.6325,
+        139.8882
+      ]
+    },
+    {
+      "id": "f2kab0o",
+      "name": "時の鐘",
+      "image": "https://image.anitabi.cn/points/340294/f2kab0o_1779817118890.jpg?plan=h160",
+      "ep": 18,
+      "geo": [
+        35.9234,
+        139.4835
+      ]
+    },
+    {
+      "id": "f2kcvlu",
+      "name": "川越氷川神社 二の鳥居",
+      "image": "https://image.anitabi.cn/points/340294/f2kcvlu_1779817386818.jpg?plan=h160",
+      "ep": 18,
+      "geo": [
+        35.9273,
+        139.4884
+      ]
+    },
+    {
+      "id": "f2ki69g",
+      "name": "川越氷川神社 絵馬トンネル",
+      "image": "https://image.anitabi.cn/points/340294/f2ki69g_1779817651317.jpg?plan=h160",
+      "ep": 18,
+      "geo": [
+        35.9275,
+        139.4884
+      ]
+    },
+    {
+      "id": "f2kpdb4",
+      "name": "川越アートカフェエレバート",
+      "image": "https://image.anitabi.cn/points/340294/f2kpdb4_1779843791228.jpg?plan=h160",
+      "ep": 18,
+      "geo": [
+        35.9214,
+        139.4827
+      ]
+    },
+    {
+      "id": "f30w96e",
+      "name": "川越熊野神社 二の鳥居",
+      "image": "https://image.anitabi.cn/points/340294/f30w96e_1779845080351.jpg?plan=h160",
+      "ep": 18,
+      "geo": [
+        35.919,
+        139.4835
+      ]
+    },
+    {
+      "id": "f311v4r",
+      "name": "川越熊野神社 茅の輪",
+      "image": "https://image.anitabi.cn/points/340294/f311v4r_1779845269985.jpg?plan=h160",
+      "ep": 18,
+      "geo": [
+        35.9191,
+        139.4833
+      ]
+    },
+    {
+      "id": "f5d40i0",
+      "name": "伊勢丹新宿店",
+      "image": "https://image.anitabi.cn/points/340294/f5d40i0_1779986472115.jpg?plan=h160",
+      "ep": 26,
+      "geo": [
+        35.6913,
+        139.7037
+      ]
+    },
+    {
+      "id": "f5de6hg",
+      "name": "渋谷駅ハチ公口",
+      "image": "https://image.anitabi.cn/points/340294/f5de6hg_1779987004956.jpg?plan=h160",
+      "ep": 29,
+      "geo": [
+        35.6594,
+        139.7008
+      ]
+    },
+    {
+      "id": "f5dgmwj",
+      "name": "渋谷スクランブル交差点",
+      "image": "https://image.anitabi.cn/points/340294/f5dgmwj_1779987040301.jpg?plan=h160",
+      "ep": 29,
+      "geo": [
+        35.6594,
+        139.7005
+      ]
+    }
+  ],
+  "pointsLength": 17,
+  "imagesLength": 17,
+  "name": "毎月庭つき大家つき",
+  "name_cn": "月付房租 带院子带房东",
+  "theme_color": "#d09e5f",
+  "local_id": 6175
+}

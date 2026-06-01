@@ -702,5 +702,49 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=16rSjitawJZKgMSjo_P6zUSy_77EsRX0&ll=34.797327%2C114.305924&z=17"
+  },
+  {
+    "id": "4023a48a",
+    "name": "徐州市",
+    "image": "https://image.xinu.ink/pic/data/6131/images/4023a48a_1777645055484.jpg",
+    "geo": [
+      34.2044,
+      117.2857
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=16rSjitawJZKgMSjo_P6zUSy_77EsRX0&ll=34.2044%2C117.28577&z=17"
+  },
+  {
+    "id": "6f2687a1",
+    "name": "濮阳市故县村",
+    "image": "https://image.xinu.ink/pic/data/6131/images/6f2687a1_1777645060156.jpg",
+    "geo": [
+      35.6405,
+      114.9729
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=16rSjitawJZKgMSjo_P6zUSy_77EsRX0&ll=35.640579%2C114.972986&z=17"
+  },
+  {
+    "id": "e52adfeb",
+    "name": "亳州市",
+    "image": "https://image.xinu.ink/pic/data/6131/images/e52adfeb_1777645228156.jpg",
+    "geo": [
+      33.8409,
+      115.7731
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=16rSjitawJZKgMSjo_P6zUSy_77EsRX0&ll=33.840933%2C115.77311&z=17"
+  },
+  {
+    "id": "dafb047b",
+    "name": "新野县",
+    "image": "https://image.xinu.ink/pic/data/6131/images/dafb047b_1777645466184.jpg",
+    "geo": [
+      32.5224,
+      112.3729
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=16rSjitawJZKgMSjo_P6zUSy_77EsRX0&ll=32.522477%2C112.372921&z=17"
   }
 ]

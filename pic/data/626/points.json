@@ -3789,5 +3789,488 @@
       35.3815,
       138.4246
     ]
+  },
+  {
+    "id": "3jllkva",
+    "name": "掛塚灯台",
+    "image": "https://image.xinu.ink/pic/data/626/images/3jllkva-1754725838513.jpg",
+    "ep": 2,
+    "s": 530,
+    "geo": [
+      34.6476,
+      137.8026
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5fchw277a",
+    "name": "県道420号",
+    "image": "https://image.xinu.ink/pic/data/626/images/5fchw277a_1673452359364.jpg",
+    "ep": 2,
+    "s": 1142,
+    "geo": [
+      35.5378,
+      138.4244
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1_Jm0ElrPNjzMiGH0dctAc6cM23YyGNjL&ll=35.537853%2C138.424488&z=17"
+  },
+  {
+    "id": "5fchw27zf",
+    "name": "途中",
+    "image": "https://image.xinu.ink/pic/data/626/images/5fchw27zf_1673452406140.jpg",
+    "ep": 12,
+    "s": 521,
+    "geo": [
+      35.1521,
+      138.6071
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1_Jm0ElrPNjzMiGH0dctAc6cM23YyGNjL&ll=35.152137%2C138.607198&z=17"
+  },
+  {
+    "id": "f5od01y",
+    "name": "御前崎サンロード",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5od01y_1780005335558.jpg",
+    "ep": 2,
+    "geo": [
+      34.6004,
+      138.2075
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5p02uf",
+    "name": "見付天神 矢奈比賣神社 停车场",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5p02uf_1780006413385.jpg",
+    "ep": 2,
+    "geo": [
+      34.7289,
+      137.8649
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5p74li",
+    "name": "つつじ公園",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5p74li_1780006748478.jpg",
+    "ep": 2,
+    "geo": [
+      34.7316,
+      137.8648
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5pcwcu",
+    "name": "竜洋海洋公園",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5pcwcu_1780007009998.jpg",
+    "ep": 2,
+    "geo": [
+      34.6502,
+      137.807
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5qqnjc",
+    "name": "（右）富士川身延桥北侧",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5qqnjc_1780009333988.jpg",
+    "ep": 2,
+    "geo": [
+      35.3652,
+      138.452
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5qun45",
+    "name": "（左）身延山 東側展望台",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5qun45_1780009521710.jpg",
+    "ep": 2,
+    "geo": [
+      35.3953,
+      138.4166
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5pk4xp",
+    "name": "福田海岸 停车场",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5pk4xp_1780007348620.jpg",
+    "ep": 2,
+    "geo": [
+      34.664,
+      137.8796
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5pkt9e",
+    "name": "福田海岸 賀正鳥居",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5pkt9e_1780007381082.jpg",
+    "ep": 2,
+    "geo": [
+      34.663,
+      137.8804
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5plp98",
+    "name": "福田海岸 差分",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5plp98_1780007420171.jpg",
+    "ep": 2,
+    "geo": [
+      34.6621,
+      137.8811
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5lmkyk",
+    "name": "渚園 キャンプ場",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5lmkyk_1780000743073.jpg",
+    "ep": 3,
+    "geo": [
+      34.6974,
+      137.6071
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5lxujk",
+    "name": "中之岛大桥",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5lxujk_1780001272044.jpg",
+    "ep": 3,
+    "geo": [
+      34.7086,
+      137.6089
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5lvdw5",
+    "name": "開春楼 南侧",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5lvdw5_1780001157918.jpg",
+    "ep": 3,
+    "geo": [
+      34.6887,
+      137.6036
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5mydh6",
+    "name": "開春楼 南侧 差分",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5mydh6_1780002973175.jpg",
+    "ep": 4,
+    "geo": [
+      34.6884,
+      137.6034
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5mon4h",
+    "name": "滨名湖",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5mon4h_1780002518872.jpg",
+    "ep": 3,
+    "geo": [
+      34.744,
+      137.5788
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5lsd8s",
+    "name": "灯塔",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5lsd8s_1780001012957.jpg",
+    "ep": 3,
+    "geo": [
+      34.6733,
+      137.5978
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5m64ce",
+    "name": "喜福",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5m64ce_1780001670129.jpg",
+    "ep": 3,
+    "geo": [
+      34.7672,
+      137.613
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5m8g91",
+    "name": "天龙滨名湖铁道 电车内",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5m8g91_1780001763248.jpg",
+    "ep": 3,
+    "geo": [
+      34.8071,
+      137.6515
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5men0j",
+    "name": "さくめ(Sakume)",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5men0j_1780002053378.jpg",
+    "ep": 3,
+    "geo": [
+      34.7895,
+      137.5995
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5mxivg",
+    "name": "日東​工業​(株)​三ケ日​荘 前 俯瞰",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5mxivg_1780002935587.jpg",
+    "ep": 3,
+    "geo": [
+      34.7849,
+      137.5888
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5mucf8",
+    "name": "姬街道",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5mucf8_1780002851410.jpg",
+    "ep": 3,
+    "geo": [
+      34.7934,
+      137.6157
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5mkx9n",
+    "name": "滨松名物！うなぎパイ！",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5mkx9n_1780002346770.jpg",
+    "ep": 3,
+    "geo": [
+      34.7033,
+      137.7342
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5jbqzy",
+    "name": "セブン-イレブン 富士吉田富士見バイパス南店 附近",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5jbqzy_1779996906157.jpg",
+    "ep": 5,
+    "geo": [
+      35.4727,
+      138.8071
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5jd54z",
+    "name": "道の駅 富士吉田",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5jd54z_1779997050303.jpg",
+    "ep": 5,
+    "geo": [
+      35.4586,
+      138.8042
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5jmdz3",
+    "name": "旧鎌倉往還",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5jmdz3_1779997480076.jpg",
+    "ep": 5,
+    "geo": [
+      35.4547,
+      138.8083
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5k1f34",
+    "name": "オギノ山中湖店",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5k1f34_1779998083866.jpg",
+    "ep": 5,
+    "geo": [
+      35.4334,
+      138.8469
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5k9l6r",
+    "name": "みさきキャンプ場 管理栋",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5k9l6r_1779998466465.jpg",
+    "ep": 5,
+    "geo": [
+      35.4229,
+      138.8939
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5frljv",
+    "name": "マリモ通り",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5frljv_1779990900509.jpg",
+    "ep": 6,
+    "geo": [
+      35.4289,
+      138.8979
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5fuql7",
+    "name": "山中湖平野観光案内所",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5fuql7_1779998342542.jpg",
+    "ep": 5,
+    "geo": [
+      35.4262,
+      138.903
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5n8xt5",
+    "name": "西富士宮駅 前 差分",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5n8xt5_1780003465430.jpg",
+    "ep": 7,
+    "geo": [
+      35.2256,
+      138.6028
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5nc4g5",
+    "name": "富士山本宮浅間大社 拝殿 西侧",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5nc4g5_1780003614763.jpg",
+    "ep": 7,
+    "geo": [
+      35.2274,
+      138.6095
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "45h7a6w",
+    "name": "お好み食堂伊東",
+    "image": "https://image.xinu.ink/pic/data/626/images/45h7a6w_1756048706072.jpg",
+    "ep": 7,
+    "geo": [
+      35.2411,
+      138.5965
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5npduz",
+    "name": "隧道出口",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5npduz_1780004234164.jpg",
+    "ep": 8,
+    "geo": [
+      35.1445,
+      138.6132
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5nyfi4",
+    "name": "野田山健康緑地公園 キャンプ場 地图",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5nyfi4_1780004654732.jpg",
+    "ep": 8,
+    "geo": [
+      35.1521,
+      138.6069
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5nuuct",
+    "name": "野田山健康緑地公園 キャンプ場",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5nuuct_1780004502385.jpg",
+    "ep": 8,
+    "geo": [
+      35.1484,
+      138.5976
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5nvght",
+    "name": "野田山健康緑地公園 キャンプ場 差分",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5nvght_1780004516095.jpg",
+    "ep": 8,
+    "geo": [
+      35.1478,
+      138.5972
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5r2f6b",
+    "name": "喜久屋（歴史文化公園休憩処） 西侧",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5r2f6b_1780009881475.jpg",
+    "ep": 7,
+    "geo": [
+      35.3971,
+      138.3767
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f5r3nt2",
+    "name": "宿の駅清水屋",
+    "image": "https://image.xinu.ink/pic/data/626/images/f5r3nt2_1780009937980.jpg",
+    "ep": 7,
+    "geo": [
+      35.3974,
+      138.3765
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
   }
 ]

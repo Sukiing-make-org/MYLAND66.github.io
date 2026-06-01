@@ -2794,5 +2794,137 @@
       35.5174,
       139.6952
     ]
+  },
+  {
+    "id": "f9tq5lr",
+    "name": "南河原公園",
+    "image": "https://image.xinu.ink/pic/data/873/images/f9tq5lr_1780256214865.jpg",
+    "ep": 1,
+    "s": 249,
+    "geo": [
+      35.536,
+      139.6888
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f9tsyzq",
+    "name": "南河原公園 入口信号",
+    "image": "https://image.xinu.ink/pic/data/873/images/f9tsyzq_1780256351090.jpg",
+    "ep": 1,
+    "s": 255,
+    "geo": [
+      35.5371,
+      139.6883
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f9vkj75",
+    "name": "矢向湯",
+    "image": "https://image.xinu.ink/pic/data/873/images/f9vkj75_1780259315444.jpg",
+    "ep": 1,
+    "s": 270,
+    "geo": [
+      35.5372,
+      139.6842
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f9vshkq",
+    "name": "溝ノ口劇場",
+    "image": "https://image.xinu.ink/pic/data/873/images/f9vshkq_1780259683639.jpg",
+    "ep": 7,
+    "s": 20,
+    "geo": [
+      35.5983,
+      139.613
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f9pzh4i",
+    "name": "京急川崎駅前",
+    "image": "https://image.xinu.ink/pic/data/873/images/f9pzh4i_1780249943191.jpg",
+    "ep": "剧场版总集篇前篇",
+    "s": 199,
+    "geo": [
+      35.5318,
+      139.6997
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f9rbmm5",
+    "cn": "川崎HelloBridge",
+    "name": "川崎ハローブリッジ",
+    "image": "https://image.xinu.ink/pic/data/873/images/f9rbmm5_1780252178505.jpg",
+    "ep": "剧场版总集篇前篇",
+    "s": 205,
+    "geo": [
+      35.53,
+      139.7044
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f9swbgq",
+    "name": "矢向駅前歩道橋",
+    "image": "https://image.xinu.ink/pic/data/873/images/f9swbgq_1780254826697.jpg",
+    "ep": "剧场版总集篇前篇",
+    "s": 263,
+    "geo": [
+      35.5385,
+      139.6808
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f9y6pcs",
+    "name": "南河原銀座ハッピーロード",
+    "image": "https://image.xinu.ink/pic/data/873/images/f9y6pcs_1780263703730.jpg",
+    "ep": "剧场版总集篇前篇",
+    "s": 1074,
+    "geo": [
+      35.5333,
+      139.6918
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f9xtaw8",
+    "cn": "SALUT HAIR SALON",
+    "name": "サリュー・ヘアサロン",
+    "image": "https://image.xinu.ink/pic/data/873/images/f9xtaw8_1780263079895.jpg",
+    "ep": "剧场版总集篇后篇",
+    "s": 1090,
+    "geo": [
+      35.5377,
+      139.6828
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f9sanfs",
+    "name": "川崎河原町分譲共同ビル13号棟 西棟",
+    "image": "https://image.xinu.ink/pic/data/873/images/f9sanfs_1780253824167.jpg",
+    "ep": "MV1",
+    "s": 246,
+    "geo": [
+      35.5399,
+      139.692
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
   }
 ]

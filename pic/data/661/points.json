@@ -1250,5 +1250,108 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1ynumGPIQvUI_yQJRcnUq7yL_kyXuGwY&ll=35.425051%2C136.733543&z=17"
+  },
+  {
+    "id": "il57h5eap",
+    "name": "21. 島西運動場",
+    "image": "https://image.xinu.ink/pic/data/661/images/il57h5eap_1778079353479.jpg",
+    "geo": [
+      35.4318,
+      136.723
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ynumGPIQvUI_yQJRcnUq7yL_kyXuGwY&ll=35.431832%2C136.723039&z=17"
+  },
+  {
+    "id": "il57h5eg7",
+    "name": "24. 島南公園",
+    "image": "https://image.xinu.ink/pic/data/661/images/il57h5eg7_1778079027058.jpg",
+    "geo": [
+      35.4239,
+      136.7347
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ynumGPIQvUI_yQJRcnUq7yL_kyXuGwY&ll=35.423993%2C136.734703&z=17"
+  },
+  {
+    "id": "e9u80y4",
+    "cn": "中部国际机场",
+    "name": "中部​国際​空港​セントレア",
+    "image": "https://image.xinu.ink/pic/data/661/images/e9u80y4_1778080290827.jpg",
+    "geo": [
+      34.863,
+      136.8096
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "il5etc11k",
+    "name": "九商フェリー(株) 島原港",
+    "image": "https://image.xinu.ink/pic/data/661/images/il5etc11k_1778081598570.jpg",
+    "geo": [
+      32.7671,
+      130.3729
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ynumGPIQvUI_yQJRcnUq7yL_kyXuGwY&ll=32.767155%2C130.37297&z=17"
+  },
+  {
+    "id": "e9upya9",
+    "cn": "海地狱",
+    "name": "海地獄",
+    "image": "https://image.xinu.ink/pic/data/661/images/e9upya9_1778081133991.jpg",
+    "geo": [
+      33.3167,
+      131.4688
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "e9ufq7k",
+    "cn": "灶门地狱",
+    "name": "かまど地獄",
+    "image": "https://image.xinu.ink/pic/data/661/images/e9ufq7k_1778080718155.jpg",
+    "geo": [
+      33.3159,
+      131.472
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "e9ucok0",
+    "cn": "鬼山地狱",
+    "name": "鬼山地獄",
+    "image": "https://image.xinu.ink/pic/data/661/images/e9ucok0_1778080494083.jpg",
+    "geo": [
+      33.3161,
+      131.4734
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "il57h5e74",
+    "name": "阿蘇山",
+    "image": "https://image.xinu.ink/pic/data/661/images/il57h5e74_1778081469949.jpg",
+    "geo": [
+      32.8855,
+      131.0534
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ynumGPIQvUI_yQJRcnUq7yL_kyXuGwY&ll=32.885549%2C131.053482&z=17"
+  },
+  {
+    "id": "il57h5elk",
+    "name": "ハウステンボス",
+    "image": "https://image.xinu.ink/pic/data/661/images/il57h5elk_1778081547438.jpg",
+    "geo": [
+      33.0897,
+      129.7918
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ynumGPIQvUI_yQJRcnUq7yL_kyXuGwY&ll=33.08972%2C129.791892&z=17"
   }
 ]

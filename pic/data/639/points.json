@@ -391,5 +391,47 @@
       35.718,
       139.7053
     ]
+  },
+  {
+    "id": "f9gxh8n",
+    "cn": "アタミビル",
+    "name": "アタミビル",
+    "image": "https://image.xinu.ink/pic/data/639/images/f9gxh8n-1780234730993.jpg",
+    "ep": null,
+    "s": 544,
+    "geo": [
+      35.696,
+      139.703
+    ],
+    "origin": "Anitabi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f9geerk",
+    "cn": "临海线 东京电讯站A出口",
+    "name": "りんかい線 東京電訊車站  A出口",
+    "image": "https://image.xinu.ink/pic/data/639/images/f9geerk-1780233937674.jpg",
+    "ep": null,
+    "s": 2177,
+    "geo": [
+      35.627,
+      139.7796
+    ],
+    "origin": "Anitabi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f9glcow",
+    "cn": "新宿中央公園前",
+    "name": "新宿中央公園前",
+    "image": "https://image.xinu.ink/pic/data/639/images/f9glcow-1780234159238.jpg",
+    "ep": null,
+    "s": 2294,
+    "geo": [
+      35.6904,
+      139.6919
+    ],
+    "origin": "Anitabi",
+    "originURL": "https://anitabi.cn/"
   }
 ]

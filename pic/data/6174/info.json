@@ -1,0 +1,122 @@
+{
+  "id": 338969,
+  "cn": "雨夜之月",
+  "title": "雨夜の月",
+  "city": "岩手县",
+  "cover": "https://image.xinu.ink/pic/data/6174/images/338969_ZVL8v.jpg",
+  "color": "#dc66a1",
+  "geo": [
+    39.75961542712349,
+    141.17568146015924
+  ],
+  "zoom": 14.716,
+  "modified": 1780217740854,
+  "litePoints": [
+    {
+      "id": "f8530ev",
+      "name": "北松園2丁目",
+      "image": "https://image.anitabi.cn/points/338969/f8530ev_1780154359809.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        39.7602,
+        141.1714
+      ]
+    },
+    {
+      "id": "f84gag5",
+      "name": "盛岡誠桜高等学校",
+      "image": "https://image.anitabi.cn/points/338969/f84gag5_1780153320666.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        39.7229,
+        141.1415
+      ]
+    },
+    {
+      "id": "f84k628",
+      "name": "盛岡誠桜高等学校前",
+      "image": "https://image.anitabi.cn/points/338969/f84k628_1780153504665.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        39.7218,
+        141.1395
+      ]
+    },
+    {
+      "id": "f84lua5",
+      "name": "盛岡高松郵便局",
+      "image": "https://image.anitabi.cn/points/338969/f84lua5_1780153570000.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        39.722,
+        141.1391
+      ]
+    },
+    {
+      "id": "f84qeth",
+      "name": "西郷歯科医院",
+      "image": "https://image.anitabi.cn/points/338969/f84qeth_1780153774726.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        39.7227,
+        141.139
+      ]
+    },
+    {
+      "id": "f96ke5q",
+      "name": "松園バスターミナル",
+      "image": "https://image.anitabi.cn/points/338969/f96ke5q_1780217350461.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        39.7491,
+        141.1545
+      ]
+    },
+    {
+      "id": "f85f43b",
+      "name": "MOSS",
+      "image": "https://image.anitabi.cn/points/338969/f85f43b_1780154970863.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        39.7029,
+        141.1445
+      ]
+    },
+    {
+      "id": "f8tk0kh",
+      "name": "ジュンク堂書店 盛岡店",
+      "image": "https://image.anitabi.cn/points/338969/f8tk0kh_1780195480501.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        39.7024,
+        141.1448
+      ]
+    },
+    {
+      "id": "f8tqibm",
+      "name": "カラオケ JOYSOUND盛岡大通り店",
+      "image": "https://image.anitabi.cn/points/338969/f8tqibm_1780195797376.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        39.7034,
+        141.1447
+      ]
+    },
+    {
+      "id": "f8tw55d",
+      "name": "松園東近隣公園",
+      "image": "https://image.anitabi.cn/points/338969/f8tw55d_1780196035253.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        39.76,
+        141.1737
+      ]
+    }
+  ],
+  "pointsLength": 50,
+  "imagesLength": 50,
+  "name": "雨夜の月",
+  "name_cn": "雨夜之月",
+  "theme_color": "#dc66a1",
+  "local_id": 6174
+}

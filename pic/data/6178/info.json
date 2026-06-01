@@ -1,0 +1,114 @@
+{
+  "id": 478079,
+  "cn": "狱门抚子在此",
+  "title": "獄門撫子此処ニ在リ",
+  "city": "京都市",
+  "cover": "https://image.xinu.ink/pic/data/6178/images/478079_3s8Br.jpg",
+  "color": "#c20000",
+  "geo": [
+    34.99137449499679,
+    135.78844056272214
+  ],
+  "zoom": 15.24,
+  "modified": 1779845858239,
+  "litePoints": [
+    {
+      "id": "f0qjejc",
+      "name": "宇治橋",
+      "image": "https://image.anitabi.cn/points/478079/f0qjejc_1779706694777.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        34.8924,
+        135.8057
+      ]
+    },
+    {
+      "id": "f0qlvcd",
+      "name": "平等院",
+      "image": "https://image.anitabi.cn/points/478079/f0qlvcd_1779707150915.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        34.8895,
+        135.8065
+      ]
+    },
+    {
+      "id": "f0w948n",
+      "name": "四条大橋",
+      "image": "https://image.anitabi.cn/points/478079/f0w948n_1779716360123.jpg?plan=h160",
+      "ep": 7,
+      "geo": [
+        35.0038,
+        135.7717
+      ]
+    },
+    {
+      "id": "f0wooce",
+      "name": "出雲の阿国",
+      "image": "https://image.anitabi.cn/points/478079/f0wooce_1779717010676.jpg?plan=h160",
+      "ep": 7,
+      "geo": [
+        35.0041,
+        135.7719
+      ]
+    },
+    {
+      "id": "f0plabf",
+      "cn": "花山隧道",
+      "name": "花山トンネル",
+      "image": "https://image.anitabi.cn/points/478079/f0plabf_1779706227747.jpg?plan=h160",
+      "ep": 8,
+      "geo": [
+        34.9892,
+        135.7892
+      ]
+    },
+    {
+      "id": "f1095bv",
+      "name": "丸太町橋",
+      "image": "https://image.anitabi.cn/points/478079/f1095bv_1779723157014.jpg?plan=h160",
+      "geo": [
+        35.0175,
+        135.7716
+      ]
+    },
+    {
+      "id": "f0z616d",
+      "name": "鸟边野",
+      "geo": [
+        34.9916,
+        135.7848
+      ]
+    },
+    {
+      "id": "f0x8kuh",
+      "name": "同志社大学",
+      "geo": [
+        35.0305,
+        135.7596
+      ]
+    },
+    {
+      "id": "f0xfr9g",
+      "name": "鴨川",
+      "geo": [
+        35.0036,
+        135.7712
+      ]
+    },
+    {
+      "id": "f0xh555",
+      "name": "京都駅",
+      "geo": [
+        34.9871,
+        135.7586
+      ]
+    }
+  ],
+  "pointsLength": 43,
+  "imagesLength": 8,
+  "name": "獄門撫子此処ニ在リ",
+  "name_cn": "狱门抚子在此",
+  "theme_color": "#c20000",
+  "local_id": 6178
+}
