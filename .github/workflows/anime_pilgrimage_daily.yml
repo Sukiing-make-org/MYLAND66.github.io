@@ -56,24 +56,25 @@ jobs:
           fi
 
       - name: Run Anime Pilgrimage daily updater
+        timeout-minutes: 360
         run: |
-          # Run with increased max-anime (50 -> 100) and increased scroll attempts
-          python anime_pilgrimage_daily_updater.py --max-anime 100 --wait-time 1800 --max-wait-attempts 3 --base-dir pic/data --bark-url ${{ secrets.BARK_URL || 'https://api.day.app/FXxtHPEhbvdzxrgRpBW7E' }}
+          # Scroll through all anime until SAO Ordinal Scale is reached at the bottom
+          python anime_pilgrimage_daily_updater.py --max-anime 500 --wait-time 3600 --max-wait-attempts 5 --base-dir pic/data --bark-url ${{ secrets.BARK_URL || 'https://api.day.app/FXxtHPEhbvdzxrgRpBW7E' }}
 
       - name: Configure Git
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          # 永久忽略大日志文件
-          echo "anime_pilgrimage_scraper.log" >> .gitignore
 
       - name: Commit and push changes
         run: |
           # Check if there are any changes
           if [[ -n $(git status --porcelain) ]]; then
             git add .
-            # 强制移除日志文件（防止之前被add进去）
-            git reset -- anime_pilgrimage_scraper.log
+            # 安全检查：强制移除日志和调试文件（双重保险，.gitignore 已排除）
+            git reset -- anime_pilgrimage_scraper.log anime_pilgrimage_daily.log
+            git reset -- page_source_initial.html page_source.html daily_updater_error_page.html
+            git reset -- 'anime_page_*.html'
             git commit -m "Daily anime pilgrimage update: $(date +'%Y-%m-%d')"
             # 使用个人访问令牌进行推送，确保有足够的权限
             git push https://${{ secrets.PAT }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
