@@ -11,7 +11,6 @@ import random
 import argparse
 import sys
 import logging
-import urllib.parse
 from pathlib import Path
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -79,6 +78,81 @@ class AnimePilgrimageScraper:
 
     def get_anime_list(self):
         self.logger.info("从最近更新页面获取动漫列表...")
+
+        RECENTLY_UPDATED_API = "https://recently-updated.animepilgrimage.com/updated"
+
+        anime_list = []
+        stop_found = False
+
+        try:
+            self.logger.info("尝试通过 API 获取第 1 页数据...")
+            resp = requests.get(f"{RECENTLY_UPDATED_API}/page-1.json", headers=self.headers, timeout=15)
+            if resp.status_code == 200:
+                data = resp.json()
+                items = data.get("items", [])
+                has_next = data.get("hasNext", False)
+                self.logger.info(f"API 第 1 页返回 {len(items)} 条, hasNext={has_next}")
+
+                for item in items:
+                    title = ""
+                    for locale in ["ja", "en"]:
+                        t = item.get("title", {}).get(locale, "")
+                        if t:
+                            title = t
+                            break
+                    anime_id = item.get("animeId", "")
+                    anime_slug = item.get("animeSlug", "")
+                    link = f"https://www.animepilgrimage.com/ja/maps/anime/{anime_id}/{anime_slug}" if anime_id else ""
+
+                    if title and link:
+                        anime_list.append({"title": title, "link": link})
+                        if STOP_ANIME_TITLE in title:
+                            stop_found = True
+
+                page = 2
+                while has_next and not stop_found and page <= 500:
+                    try:
+                        resp = requests.get(f"{RECENTLY_UPDATED_API}/page-{page}.json", headers=self.headers, timeout=15)
+                        if resp.status_code != 200:
+                            self.logger.warning(f"API 第 {page} 页返回状态码 {resp.status_code}")
+                            break
+                        data = resp.json()
+                        items = data.get("items", [])
+                        has_next = data.get("hasNext", False)
+                        self.logger.info(f"API 第 {page} 页返回 {len(items)} 条, hasNext={has_next}")
+
+                        for item in items:
+                            title = ""
+                            for locale in ["ja", "en"]:
+                                t = item.get("title", {}).get(locale, "")
+                                if t:
+                                    title = t
+                                    break
+                            anime_id = item.get("animeId", "")
+                            anime_slug = item.get("animeSlug", "")
+                            link = f"https://www.animepilgrimage.com/ja/maps/anime/{anime_id}/{anime_slug}" if anime_id else ""
+
+                            if title and link:
+                                anime_list.append({"title": title, "link": link})
+                                if STOP_ANIME_TITLE in title:
+                                    stop_found = True
+
+                        page += 1
+                        time.sleep(1)
+                    except Exception as e:
+                        self.logger.warning(f"获取 API 第 {page} 页失败: {e}")
+                        break
+
+                if anime_list:
+                    self.logger.info(f"API 方式共提取 {len(anime_list)} 部动漫")
+                    if stop_found:
+                        self.logger.info(f"已找到终止番剧: {STOP_ANIME_TITLE}")
+                    return anime_list
+            else:
+                self.logger.warning(f"API 第 1 页返回状态码 {resp.status_code}, 回退到 Selenium 方式")
+        except Exception as e:
+            self.logger.warning(f"API 获取失败: {e}, 回退到 Selenium 方式")
+
         self.driver.get(self.recently_updated_url)
 
         with open("page_source_initial.html", "w", encoding="utf-8") as f:
@@ -115,15 +189,71 @@ class AnimePilgrimageScraper:
             return []
 
         self.logger.info("开始无限滚动加载全部动漫...")
-        last_height = self.driver.execute_script("return document.body.scrollHeight")
+        time.sleep(3)
+
+        sidebar = None
+        sidebar_selectors = [
+            "[class*='mapSideNavOuter']",
+            "[class*='mapSideNav__CgqtP']",
+            "[class*='mapSideNav']",
+            "[class*='mapSide___']",
+        ]
+        for sel in sidebar_selectors:
+            try:
+                elems = self.driver.find_elements(By.CSS_SELECTOR, sel)
+                for elem in elems:
+                    sh = self.driver.execute_script("return arguments[0].scrollHeight", elem)
+                    ch = self.driver.execute_script("return arguments[0].clientHeight", elem)
+                    overflow_y = self.driver.execute_script("return getComputedStyle(arguments[0]).overflowY", elem)
+                    self.logger.info(f"检查侧边栏: {sel} scrollHeight={sh}, clientHeight={ch}, overflowY={overflow_y}")
+                    if sh > ch or overflow_y in ('scroll', 'auto'):
+                        sidebar = elem
+                        self.logger.info(f"找到可滚动侧边栏: {sel}")
+                        break
+                if sidebar:
+                    break
+            except Exception as e:
+                self.logger.warning(f"检查选择器 {sel} 时出错: {e}")
+                continue
+
+        if not sidebar:
+            try:
+                sidebar = self.driver.execute_script("""
+                    var posters = document.querySelectorAll('div.container__poster');
+                    if (posters.length > 0) {
+                        var el = posters[0];
+                        while (el && el !== document.body) {
+                            var style = getComputedStyle(el);
+                            if ((style.overflowY === 'auto' || style.overflowY === 'scroll') && el.scrollHeight > el.clientHeight) {
+                                return el;
+                            }
+                            el = el.parentElement;
+                        }
+                    }
+                    return null;
+                """)
+                if sidebar:
+                    self.logger.info("通过 JS 查找到 container__poster 的可滚动父元素")
+            except Exception as e:
+                self.logger.warning(f"JS 查找可滚动父元素失败: {e}")
+
         scroll_attempts = 0
         max_scroll_attempts = 200
         no_change_count = 0
         max_no_change = 5
-        stop_found = False
+        prev_count = len(self.driver.find_elements(By.CSS_SELECTOR, "div.container__poster"))
 
         while scroll_attempts < max_scroll_attempts and no_change_count < max_no_change and not stop_found:
-            self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+            if sidebar:
+                self.driver.execute_script("""
+                    arguments[0].scrollTop = arguments[0].scrollHeight;
+                    arguments[0].dispatchEvent(new Event('scroll', {bubbles: true}));
+                """, sidebar)
+            else:
+                self.driver.execute_script("""
+                    window.scrollTo(0, document.body.scrollHeight);
+                    window.dispatchEvent(new Event('scroll', {bubbles: true}));
+                """)
             time.sleep(3)
 
             page_text = self.driver.page_source
@@ -133,22 +263,22 @@ class AnimePilgrimageScraper:
                 time.sleep(2)
                 break
 
-            new_height = self.driver.execute_script("return document.body.scrollHeight")
-            if new_height == last_height:
+            current_count = len(self.driver.find_elements(By.CSS_SELECTOR, "div.container__poster"))
+            if current_count > prev_count:
+                self.logger.info(f"滚动 {scroll_attempts+1}: 加载了 {current_count} 个动漫 (新增 {current_count - prev_count})")
+                prev_count = current_count
+                no_change_count = 0
+            else:
                 no_change_count += 1
                 self.logger.info(f"无新内容加载: {no_change_count}/{max_no_change}")
-            else:
-                no_change_count = 0
 
-            last_height = new_height
             scroll_attempts += 1
             if scroll_attempts % 10 == 0:
-                self.logger.info(f"滚动尝试 {scroll_attempts}/{max_scroll_attempts} - 页面高度: {new_height}px")
+                self.logger.info(f"滚动尝试 {scroll_attempts}/{max_scroll_attempts} - 当前 {current_count} 个动漫")
 
         if not stop_found:
             self.logger.warning(f"滚动 {max_scroll_attempts} 次后未找到终止番剧 '{STOP_ANIME_TITLE}'")
 
-        anime_list = []
         anime_items = self.driver.find_elements(By.CSS_SELECTOR, "div.container__poster")
         self.logger.info(f"使用 container__poster 找到 {len(anime_items)} 个动漫条目")
 
@@ -284,36 +414,6 @@ class AnimePilgrimageScraper:
         except Exception as e:
             self.logger.error(f"Error finding next available local ID: {e}")
             return 5901
-
-    def get_chinese_name_from_bangumi(self, japanese_name):
-        try:
-            self.logger.info(f"Fetching Chinese name for anime: {japanese_name}")
-
-            encoded_name = urllib.parse.quote(japanese_name)
-            url = f"https://api.bgm.tv/search/subject/{encoded_name}?type=1&responseGroup=small"
-
-            response = requests.get(url, headers=self.headers)
-            if response.status_code == 200:
-                data = response.json()
-
-                if data.get('results', 0) > 0 and len(data.get('list', [])) > 0:
-                    for item in data['list']:
-                        if item.get('name_cn') and item.get('name_cn').strip():
-                            chinese_name = item['name_cn']
-                            self.logger.info(f"Found Chinese name: {chinese_name}")
-                            return chinese_name
-
-                    self.logger.info(f"No Chinese name found in Bangumi API results")
-                    return japanese_name
-                else:
-                    self.logger.info(f"No results found in Bangumi API for: {japanese_name}")
-                    return japanese_name
-            else:
-                self.logger.warning(f"Failed to get data from Bangumi API: {response.status_code}")
-                return japanese_name
-        except Exception as e:
-            self.logger.error(f"Error fetching Chinese name from Bangumi API: {e}")
-            return japanese_name
 
     def extract_dominant_color(self, image_path):
         try:
@@ -473,337 +573,86 @@ class AnimePilgrimageScraper:
 
         return 0, 0
 
-    def _find_google_maps_link(self, point_elem):
-        try:
-            page_links = self.driver.find_elements(By.CSS_SELECTOR, "a[href*='google.com/maps/dir']")
-            for link in page_links:
-                href = link.get_attribute("href") or ""
-                if "destination=" in href:
-                    return href
-        except:
-            pass
-
-        direct_selectors = [
-            (By.CSS_SELECTOR, "a[href*='google.com/maps/dir']"),
-            (By.CSS_SELECTOR, "a[href*='google.com/maps']"),
-            (By.CSS_SELECTOR, "a[href*='maps.google']"),
-            (By.CSS_SELECTOR, "a[href*='goo.gl/maps']"),
-            (By.CSS_SELECTOR, "a[href*='maps.app.goo.gl']"),
+    def _get_google_maps_link_from_detail(self):
+        link_selectors = [
+            "a[href*='google.com/maps/dir']",
+            "a[href*='google.com/maps']",
+            "a[href*='maps.google']",
+            "a[href*='goo.gl/maps']",
+            "a[href*='maps.app.goo.gl']",
         ]
-
-        for selector in direct_selectors:
+        for sel in link_selectors:
             try:
-                links = point_elem.find_elements(*selector)
+                links = self.driver.find_elements(By.CSS_SELECTOR, sel)
                 for link in links:
-                    href = link.get_attribute("href")
+                    href = link.get_attribute("href") or ""
                     if href and ("google" in href.lower() or "goo.gl" in href.lower()):
                         return href
             except:
                 continue
-
-        try:
-            page_links = self.driver.find_elements(By.CSS_SELECTOR, "a[href*='maps.app.goo.gl']")
-            for link in page_links:
-                href = link.get_attribute("href")
-                if href:
-                    return href
-        except:
-            pass
-
-        try:
-            page_links = self.driver.find_elements(By.CSS_SELECTOR, "a[href*='google.com/maps']")
-            for link in page_links:
-                href = link.get_attribute("href")
-                if href and "saved" not in href and "search" not in href:
-                    return href
-        except:
-            pass
-
         return ""
 
-    def _extract_point_name(self, point_elem):
-        name = "Unknown Location"
-
-        name_selectors = [
-            (By.CSS_SELECTOR, "[class*='horizontalCardName']"),
-            (By.CSS_SELECTOR, "[class*='titleText']"),
-            (By.CSS_SELECTOR, "[class*='innerTitle'] [class*='titleText']"),
-            (By.CSS_SELECTOR, "h2[class*='title']"),
-            (By.CSS_SELECTOR, ".title__text"),
-            (By.CSS_SELECTOR, "h2"),
-            (By.CSS_SELECTOR, "h3"),
-            (By.CSS_SELECTOR, "strong"),
-            (By.CSS_SELECTOR, "[class*='title']"),
-            (By.CSS_SELECTOR, "[class*='name']"),
-        ]
-
-        for selector in name_selectors:
-            try:
-                elems = point_elem.find_elements(*selector)
-                for elem in elems:
-                    text = elem.text.strip()
-                    if text and len(text) > 1 and len(text) < 200:
-                        name = text
-                        return name
-            except:
-                continue
-
-        try:
-            all_text = point_elem.text.strip()
-            if all_text:
-                lines = [line.strip() for line in all_text.split('\n') if line.strip()]
-                for line in lines:
-                    if 1 < len(line) < 80:
-                        name = line
-                        return name
-        except:
-            pass
-
-        return name
-
-    def _extract_episode(self, point_elem):
-        ep = ""
-
-        ep_selectors = [
-            (By.CSS_SELECTOR, "[class*='horizontalCardMeta']"),
-            (By.CSS_SELECTOR, "[class*='typeText']"),
-            (By.CSS_SELECTOR, "[class*='infoContainer'] span"),
-            (By.CSS_SELECTOR, "[class*='type']"),
-            (By.CSS_SELECTOR, "span[class*='ep']"),
-        ]
-
-        for selector in ep_selectors:
-            try:
-                elems = point_elem.find_elements(*selector)
-                for elem in elems:
-                    text = elem.text.strip()
-                    if not text:
-                        continue
-
-                    meta_match = re.search(r'(EP|OP|ED|OVA|SP|MOVIE|MV|PV)\s*(\d+)?', text, re.IGNORECASE)
-                    if meta_match:
-                        ep = meta_match.group(0).strip()
-                        return ep
-
-                    upper_text = text.upper()
-                    if any(marker in upper_text for marker in ["EP", "OP", "ED", "OVA", "EPISODE", "SPECIAL", "SP", "MOVIE", "MV", "PV"]):
-                        ep = text
-                        return ep
-            except:
-                continue
-
-        try:
-            all_text = point_elem.text
-            ep_match = re.search(r'(EP|OP|ED|OVA|SP|MOVIE|MV|PV)\s*(\d+)', all_text, re.IGNORECASE)
-            if ep_match:
-                ep = ep_match.group(0).strip()
-        except:
-            pass
-
-        return ep
-
-    def _extract_timestamp(self, point_elem):
-        ts = ""
-
-        try:
-            meta_elems = point_elem.find_elements(By.CSS_SELECTOR, "[class*='horizontalCardMeta']")
-            for elem in meta_elems:
-                text = elem.text.strip()
-                ts_match = re.search(r'(\d{1,2}:\d{2})', text)
-                if ts_match:
-                    ts = ts_match.group(1)
-                    return ts
-        except:
-            pass
-
-        try:
-            all_text = point_elem.text
-            ts_match = re.search(r'(\d{1,2}:\d{2})', all_text)
-            if ts_match:
-                ts = ts_match.group(1)
-        except:
-            pass
-
-        return ts
-
-    def _extract_point_image(self, point_elem, images_folder, local_folder_id, point_index):
+    def _extract_card_info(self, card):
         img_url = ""
+        try:
+            img = card.find_element(By.CSS_SELECTOR, "img")
+            src = img.get_attribute("src") or ""
+            if src:
+                if src.startswith("/_next/image?"):
+                    url_match = re.search(r'url=([^&]+)', src)
+                    if url_match:
+                        from urllib.parse import unquote
+                        src = unquote(url_match.group(1))
+                img_url = src
+        except:
+            pass
 
-        img_selectors = [
-            (By.CSS_SELECTOR, "[class*='imgInner'] img"),
-            (By.CSS_SELECTOR, "[class*='componentImg'] img"),
-            (By.CSS_SELECTOR, "[class*='horizontalCardImg'] img"),
-            (By.CSS_SELECTOR, "img[loading='lazy']"),
-            (By.CSS_SELECTOR, "img[decoding='async']"),
-            (By.CSS_SELECTOR, "img[data-nimg='1']"),
-            (By.CSS_SELECTOR, "img"),
-        ]
+        name = ""
+        try:
+            name_elem = card.find_element(By.CSS_SELECTOR, "[class*='horizontalCardName']")
+            name = name_elem.text.strip()
+        except:
+            pass
 
-        for selector in img_selectors:
+        ep = ""
+        try:
+            meta_elem = card.find_element(By.CSS_SELECTOR, "[class*='horizontalCardMeta']")
+            ep = meta_elem.text.strip()
+        except:
+            pass
+
+        return img_url, name, ep
+
+    def _find_point_elements(self):
+        sidebar = None
+        for sel in ["[class*='mapSideContainer']", "[class*='mapSideNav__CgqtP']", "[class*='mapSideNav']"]:
             try:
-                img_elems = point_elem.find_elements(*selector)
-                for img_elem in img_elems:
-                    for attr in ["src", "data-src", "srcset"]:
-                        src = img_elem.get_attribute(attr)
-                        if not src:
-                            continue
-
-                        if attr == "srcset" and " " in src:
-                            src = src.split(" ")[0]
-
-                        if src.startswith("/_next/image?"):
-                            url_param_match = re.search(r'url=([^&]+)', src)
-                            if url_param_match:
-                                from urllib.parse import unquote
-                                src = unquote(url_param_match.group(1))
-
-                        width = 0
-                        height = 0
-                        try:
-                            width = int(img_elem.get_attribute("width") or 0)
-                            height = int(img_elem.get_attribute("height") or 0)
-                        except:
-                            pass
-
-                        if width > 0 and width < 50:
-                            continue
-                        if height > 0 and height < 50:
-                            continue
-
-                        if "membership" in src.lower() or "locked" in src.lower():
-                            continue
-
-                        if any(ext in src.lower() for ext in [".jpg", ".jpeg", ".png", ".gif", ".webp"]) or "image" in src.lower() or "firebasestorage" in src.lower() or "cdn.animepilgrimage" in src.lower():
-                            img_path = f"{images_folder}/{local_folder_id}-{point_index}.jpg"
-                            if self.download_image(src, img_path):
-                                img_url = f"https://image.xinu.ink/pic/data/{local_folder_id}/images/{local_folder_id}-{point_index}.jpg"
-                                return img_url
-
-                if img_url:
+                elems = self.driver.find_elements(By.CSS_SELECTOR, sel)
+                for elem in elems:
+                    cards = elem.find_elements(By.CSS_SELECTOR, "[class*='horizontalCard__Ev']")
+                    if cards:
+                        sidebar = elem
+                        break
+                if sidebar:
                     break
             except:
                 continue
 
-        if not img_url:
-            try:
-                point_html = point_elem.get_attribute('outerHTML')
-                firebase_match = re.search(r'firebasestorage\.googleapis\.com/v0/b/[^"&]+', point_html)
-                if firebase_match:
-                    firebase_url = "https://" + firebase_match.group(0)
-                    firebase_url = firebase_url.replace('%252F', '/')
-                    img_path = Path(images_folder) / f"{local_folder_id}-{point_index}.jpg"
-                    if self.download_image(firebase_url, img_path):
-                        img_url = f"https://image.xinu.ink/pic/data/{local_folder_id}/images/{local_folder_id}-{point_index}.jpg"
-            except:
-                pass
+        search_root = sidebar if sidebar else self.driver
 
-        return img_url
-
-    def _find_point_elements(self):
-        card = self.driver.find_elements(By.CSS_SELECTOR, "[class*='horizontalCard__Ev']")
-        if card:
+        cards = search_root.find_elements(By.CSS_SELECTOR, "[class*='horizontalCard__Ev']")
+        if cards:
             filtered = []
-            for c in card:
+            for c in cards:
                 try:
-                    parent_html = c.find_element(By.XPATH, "./ancestor::div[@data-locked='true']")
+                    c.find_element(By.XPATH, "./ancestor::div[@data-locked='true']")
                     continue
                 except:
                     filtered.append(c)
-            self.logger.info(f"使用 horizontalCard 找到 {len(filtered)} 个巡礼点位 (过滤锁定 {len(card)-len(filtered)} 个)")
+            self.logger.info(f"找到 {len(filtered)} 个巡礼点位 (过滤锁定 {len(cards)-len(filtered)} 个)")
             return filtered
 
-        point_selectors = [
-            (By.CSS_SELECTOR, "[class*='mapSideComponent']"),
-            (By.CSS_SELECTOR, "[class*='inlinePlaceDetail']"),
-        ]
-
-        for selector in point_selectors:
-            try:
-                elements = self.driver.find_elements(*selector)
-                if elements:
-                    self.logger.info(f"使用选择器 {selector} 找到 {len(elements)} 个巡礼点位")
-                    return elements
-            except:
-                continue
-
         return []
-
-    def _scroll_detail_page(self):
-        self.logger.info("滚动侧边栏以加载所有巡礼点位...")
-
-    def _extract_markers_from_rsc(self):
-        markers = []
-        try:
-            page_html = self.driver.page_source
-
-            geo_pattern = r'\\"geo\\":\{\\"latitude\\":([\d.e+-]+),\\"longitude\\":([\d.e+-]+)\}'
-            name_pattern = r'\\"name\\":\{\\"ja\\":\\"([^"\\]*)\\"'
-            en_name_pattern = r'\\"en\\":\\"([^"\\]*)\\"'
-            ep_pattern = r'\\"ep\\":(\d+)'
-            type_pattern = r'\\"type\\":\\"([^"\\]*)\\"'
-            image_pattern = r'\\"image\\":\\"([^"\\]*)\\"'
-            sv_pattern = r'\\"streetViewUrl\\":\\"([^"\\]*)\\"'
-            ts_pattern = r'\\"sceneTimestampSec\\":(\d+)'
-
-            geo_matches = list(re.finditer(geo_pattern, page_html))
-            self.logger.info(f"找到 {len(geo_matches)} 个 geo 坐标块")
-
-            for geo_m in geo_matches:
-                try:
-                    lat = float(geo_m.group(1))
-                    lng = float(geo_m.group(2))
-
-                    start = max(0, geo_m.start() - 2000)
-                    end = min(len(page_html), geo_m.end() + 500)
-                    context = page_html[start:end]
-
-                    name_m = re.search(name_pattern, context)
-                    if not name_m:
-                        name_m = re.search(en_name_pattern, context)
-                    name = name_m.group(1) if name_m else "Unknown"
-
-                    ep_m = re.search(ep_pattern, context)
-                    ep_num = int(ep_m.group(1)) if ep_m else 0
-
-                    type_m = re.search(r'\\"type\\":\\"(EP|OP|ED|OVA|SP|MOVIE|MV|PV|OTHERS)\\"', context)
-                    ep_type = type_m.group(1) if type_m else ""
-
-                    image_m = re.search(image_pattern, context)
-                    image = image_m.group(1) if image_m else ""
-
-                    if "membership" in image.lower() or "locked" in context.lower() or "ko-fi" in context.lower():
-                        continue
-
-                    sv_m = re.search(sv_pattern, context)
-                    sv_url = sv_m.group(1) if sv_m else ""
-
-                    ts_m = re.search(ts_pattern, context)
-                    ts_sec = int(ts_m.group(1)) if ts_m else 0
-
-                    ep_str = f"{ep_type}{ep_num}" if ep_type else ""
-
-                    ts_str = ""
-                    if ts_sec > 0:
-                        mins = ts_sec // 60
-                        secs = ts_sec % 60
-                        ts_str = f"{mins}:{secs:02d}"
-
-                    markers.append({
-                        "name": name,
-                        "ep": ep_str,
-                        "geo": [lat, lng],
-                        "image": image,
-                        "streetViewUrl": sv_url,
-                        "ts": ts_str
-                    })
-                except Exception as e:
-                    continue
-
-            self.logger.info(f"从 RSC 载荷提取了 {len(markers)} 个标记数据")
-        except Exception as e:
-            self.logger.error(f"提取 RSC 标记数据失败: {e}")
-
-        return markers
 
     def _make_point(self, local_folder_id, point_index, card_data):
         point = {
@@ -822,6 +671,7 @@ class AnimePilgrimageScraper:
 
         sidebar = None
         sidebar_selectors = [
+            "[class*='mapSideNavOuter']",
             "[class*='mapSideNav__CgqtP']",
             "[class*='mapSideNav']",
             "[class*='mapSide___']",
@@ -832,7 +682,8 @@ class AnimePilgrimageScraper:
                 for elem in elems:
                     sh = self.driver.execute_script("return arguments[0].scrollHeight", elem)
                     ch = self.driver.execute_script("return arguments[0].clientHeight", elem)
-                    if sh > ch:
+                    overflow_y = self.driver.execute_script("return getComputedStyle(arguments[0]).overflowY", elem)
+                    if sh > ch or overflow_y in ('scroll', 'auto'):
                         sidebar = elem
                         self.logger.info(f"找到可滚动侧边栏: {sel} (scrollHeight={sh}, clientHeight={ch})")
                         break
@@ -840,6 +691,27 @@ class AnimePilgrimageScraper:
                     break
             except:
                 continue
+
+        if not sidebar:
+            try:
+                sidebar = self.driver.execute_script("""
+                    var cards = document.querySelectorAll('[class*="horizontalCard__Ev"]');
+                    if (cards.length > 0) {
+                        var el = cards[0];
+                        while (el && el !== document.body) {
+                            var style = getComputedStyle(el);
+                            if ((style.overflowY === 'auto' || style.overflowY === 'scroll') && el.scrollHeight > el.clientHeight) {
+                                return el;
+                            }
+                            el = el.parentElement;
+                        }
+                    }
+                    return null;
+                """)
+                if sidebar:
+                    self.logger.info("通过 JS 查找到卡片的可滚动父元素")
+            except Exception as e:
+                self.logger.warning(f"JS 查找可滚动父元素失败: {e}")
 
         if not sidebar:
             self.logger.warning("未找到可滚动侧边栏，使用页面滚动")
@@ -859,7 +731,10 @@ class AnimePilgrimageScraper:
         max_scrolls = 100
 
         for i in range(max_scrolls):
-            self.driver.execute_script("arguments[0].scrollTop = arguments[0].scrollHeight", sidebar)
+            self.driver.execute_script("""
+                arguments[0].scrollTop = arguments[0].scrollHeight;
+                arguments[0].dispatchEvent(new Event('scroll', {bubbles: true}));
+            """, sidebar)
             time.sleep(3)
 
             cards = self.driver.find_elements(By.CSS_SELECTOR, "[class*='horizontalCard__Ev']")
@@ -1007,8 +882,6 @@ class AnimePilgrimageScraper:
                     continue
             else:
                 self.logger.error(f"等待动漫页面加载超时: {anime_info['link']}")
-                with open(f"anime_page_{local_folder_id}.html", "w", encoding="utf-8") as f:
-                    f.write(self.driver.page_source)
                 return None
         except Exception as e:
             self.logger.error(f"Error waiting for page to load: {e}")
@@ -1024,72 +897,55 @@ class AnimePilgrimageScraper:
 
         self._scroll_detail_page()
 
+        point_elements = self._find_point_elements()
+        total = len(point_elements)
+        self.logger.info(f"共 {total} 个点位，开始逐个提取...")
+
         points = []
-        try:
-            rsc_markers = self._extract_markers_from_rsc()
+        for i, card in enumerate(point_elements):
+            try:
+                img_src, name, ep = self._extract_card_info(card)
 
-            point_elements = self._find_point_elements()
-            total = len(point_elements)
-            self.logger.info(f"DOM 卡片: {total} 个, RSC 标记: {len(rsc_markers)} 个")
+                img_url = ""
+                if img_src:
+                    img_path = f"{images_folder}/{local_folder_id}-{i+1}.jpg"
+                    if self.download_image(img_src, img_path):
+                        img_url = f"https://image.xinu.ink/pic/data/{local_folder_id}/images/{local_folder_id}-{i+1}.jpg"
 
-            use_rsc = len(rsc_markers) >= total * 0.5
+                geo = [0, 0]
+                try:
+                    card.click()
+                    time.sleep(2)
 
-            if use_rsc:
-                self.logger.info(f"使用 RSC 载荷数据 ({len(rsc_markers)} 个点位)")
-                for i, marker in enumerate(rsc_markers, 1):
-                    img_url = ""
-                    if marker["image"]:
-                        cdn_url = f"https://cdn.animepilgrimage.com/{marker['image']}"
-                        img_path = f"{images_folder}/{local_folder_id}-{i}.jpg"
-                        if self.download_image(cdn_url, img_path):
-                            img_url = f"https://image.xinu.ink/pic/data/{local_folder_id}/images/{local_folder_id}-{i}.jpg"
+                    maps_link = self._get_google_maps_link_from_detail()
+                    if maps_link:
+                        lat, lng = self._resolve_and_extract_coords(maps_link)
+                        if lat != 0 or lng != 0:
+                            geo = [lat, lng]
+                            self.logger.info(f"  [{i+1}/{total}] {name[:25]} 坐标: ({lat:.6f}, {lng:.6f})")
+                        else:
+                            self.logger.warning(f"  [{i+1}/{total}] {name[:25]} 无法解析坐标")
+                    else:
+                        self.logger.warning(f"  [{i+1}/{total}] {name[:25]} 未找到Google地图链接")
+                except Exception as e:
+                    self.logger.warning(f"  [{i+1}/{total}] {name[:25]} 获取坐标失败: {e}")
 
-                    point_data = {
-                        "id": f"{local_folder_id}-{i}",
-                        "name": marker["name"],
-                        "image": img_url,
-                        "ep": marker["ep"],
-                        "geo": marker["geo"]
-                    }
-                    if marker["ts"]:
-                        point_data["s"] = marker["ts"]
-                    points.append(point_data)
-                    self.logger.info(f"  [{i}/{len(rsc_markers)}] {marker['name'][:25]} ep={marker['ep']} geo=({marker['geo'][0]:.4f},{marker['geo'][1]:.4f})")
-            else:
-                self.logger.info(f"使用 DOM 卡片数据 ({total} 个点位, RSC 不可用)")
-                for i in range(total):
-                    try:
-                        fresh_cards = self._find_point_elements()
-                        if i >= len(fresh_cards):
-                            break
-                        point_elem = fresh_cards[i]
-                        name = self._extract_point_name(point_elem)
-                        ep = self._extract_episode(point_elem)
-                        ts = self._extract_timestamp(point_elem)
-                        img_url = self._extract_point_image(point_elem, images_folder, local_folder_id, i + 1)
+                point_data = {
+                    "id": f"{local_folder_id}-{i+1}",
+                    "name": name,
+                    "image": img_url,
+                    "ep": ep,
+                    "geo": geo
+                }
+                points.append(point_data)
+                self.logger.info(f"  [{i+1}/{total}] {name[:25]} ep={ep} img={'有' if img_url else '无'} geo={geo}")
 
-                        point_data = {
-                            "id": f"{local_folder_id}-{i+1}",
-                            "name": name,
-                            "image": img_url,
-                            "ep": ep,
-                            "geo": [0, 0]
-                        }
-                        if ts:
-                            point_data["s"] = ts
-                        points.append(point_data)
-                        self.logger.info(f"  [{i+1}/{total}] {name[:30]} ep={ep}")
-                    except Exception as e:
-                        self.logger.warning(f"  提取点位 {i+1} 失败: {e}")
-
-        except Exception as e:
-            self.logger.error(f"Error extracting pilgrimage points: {e}")
-
-        chinese_name = self.get_chinese_name_from_bangumi(anime_title)
+            except Exception as e:
+                self.logger.warning(f"  提取点位 {i+1} 失败: {e}")
 
         anime_data = {
             "name": anime_title,
-            "name_cn": chinese_name,
+            "name_cn": anime_title,
             "cover": cover_image_url,
             "theme_color": theme_color,
             "points": points
@@ -1251,10 +1107,6 @@ class AnimePilgrimageScraper:
                     points_data = json.load(f)
                     existing_points = points_data.get("points", [])
                     self.logger.info(f"从 {points_path} 加载了 {len(existing_points)} 个现有点位")
-
-                    for i, point in enumerate(existing_points[:3]):
-                        if "geo" in point and len(point["geo"]) == 2:
-                            self.logger.info(f"  现有点位 {i+1}: 名称='{point.get('name', '未知')}', 坐标={point['geo']}")
         except Exception as e:
             self.logger.error(f"Error loading existing points data: {e}")
             return None
@@ -1264,179 +1116,126 @@ class AnimePilgrimageScraper:
             if info_path.exists():
                 with open(info_path, 'r', encoding='utf-8') as f:
                     existing_info = json.load(f)
-                    self.logger.info(f"Loaded existing info from {info_path}")
         except Exception as e:
             self.logger.error(f"Error loading existing info data: {e}")
             return None
-
-        self.logger.info(f"为动漫抓取新点位: {anime_info['title']}")
 
         self.driver.get(anime_info['link'])
         time.sleep(8)
 
         try:
-            selectors_to_try = [
-                (By.CSS_SELECTOR, "h1"),
-                (By.CSS_SELECTOR, "[class*='locationsTitle']"),
-                (By.CSS_SELECTOR, "[class*='posterInner'] img"),
-                (By.TAG_NAME, "img"),
-            ]
-
-            for selector in selectors_to_try:
-                try:
-                    WebDriverWait(self.driver, 30).until(
-                        EC.presence_of_element_located(selector)
-                    )
-                    self.logger.info(f"Page loaded, found element with selector: {selector}")
-                    break
-                except TimeoutException:
-                    continue
-            else:
-                self.logger.error(f"Timeout waiting for anime page to load: {anime_info['link']}")
-                return None
-        except Exception as e:
-            self.logger.error(f"Error waiting for page to load: {e}")
+            WebDriverWait(self.driver, 30).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, "h1"))
+            )
+        except:
+            self.logger.error(f"Timeout waiting for anime page to load: {anime_info['link']}")
             return None
 
         anime_title = anime_info['title']
-        cover_image_url = existing_info.get("cover", "")
-        theme_color = existing_info.get("theme_color", "#7f6a95")
 
         self._scroll_detail_page()
 
+        point_elements = self._find_point_elements()
+        total = len(point_elements)
+        self.logger.info(f"共 {total} 个点位，检查新增...")
+
+        existing_coords = set()
+        for point in existing_points:
+            if "geo" in point and len(point["geo"]) == 2:
+                lat = round(point["geo"][0], 5)
+                lng = round(point["geo"][1], 5)
+                existing_coords.add((lat, lng))
+
+        threshold = 0.0001
+
+        def is_new_coord(lat, lng):
+            lat_r = round(lat, 5)
+            lng_r = round(lng, 5)
+            if (lat_r, lng_r) in existing_coords:
+                return False
+            for elat, elng in existing_coords:
+                if abs(lat_r - elat) < threshold and abs(lng_r - elng) < threshold:
+                    return False
+            return True
+
         new_points = []
-        try:
-            rsc_markers = self._extract_markers_from_rsc()
+        for i, card in enumerate(point_elements):
+            try:
+                img_src, name, ep = self._extract_card_info(card)
 
-            point_elements = self._find_point_elements()
-            total = len(point_elements)
-            self.logger.info(f"DOM 卡片: {total} 个, RSC 标记: {len(rsc_markers)} 个")
+                geo = [0, 0]
+                try:
+                    card.click()
+                    time.sleep(2)
 
-            existing_coords = set()
-            for point in existing_points:
-                if "geo" in point and len(point["geo"]) == 2:
-                    lat = round(point["geo"][0], 5)
-                    lng = round(point["geo"][1], 5)
-                    existing_coords.add((lat, lng))
+                    maps_link = self._get_google_maps_link_from_detail()
+                    if maps_link:
+                        lat, lng = self._resolve_and_extract_coords(maps_link)
+                        if lat != 0 or lng != 0:
+                            geo = [lat, lng]
+                except Exception as e:
+                    self.logger.warning(f"  点位 {i+1} 获取坐标失败: {e}")
 
-            self.logger.info(f"找到 {len(existing_coords)} 个现有点位坐标")
+                if geo[0] == 0 and geo[1] == 0:
+                    continue
 
-            threshold = 0.0001
+                if not is_new_coord(geo[0], geo[1]):
+                    continue
 
-            if rsc_markers:
-                self.logger.info(f"使用 RSC 载荷数据检查新点位 ({len(rsc_markers)} 个)")
-                for i, marker in enumerate(rsc_markers, 1):
-                    lat, lng = marker["geo"]
-                    if lat == 0 and lng == 0:
-                        continue
+                existing_coords.add((round(geo[0], 5), round(geo[1], 5)))
 
-                    lat_rounded = round(lat, 5)
-                    lng_rounded = round(lng, 5)
+                img_url = ""
+                if img_src:
+                    img_idx = len(existing_points) + len(new_points) + 1
+                    img_path = f"{images_folder}/{local_id}-{img_idx}.jpg"
+                    if self.download_image(img_src, img_path):
+                        img_url = f"https://image.xinu.ink/pic/data/{local_id}/images/{local_id}-{img_idx}.jpg"
 
-                    is_duplicate = False
-                    if (lat_rounded, lng_rounded) in existing_coords:
-                        is_duplicate = True
-                    else:
-                        for elat, elng in existing_coords:
-                            if abs(lat_rounded - elat) < threshold and abs(lng_rounded - elng) < threshold:
-                                is_duplicate = True
-                                break
+                point_data = {
+                    "id": f"{local_id}-{len(existing_points) + len(new_points) + 1}",
+                    "name": name,
+                    "image": img_url,
+                    "ep": ep,
+                    "geo": geo
+                }
+                new_points.append(point_data)
+                self.logger.info(f"  新点位: {name[:25]} ({geo[0]:.4f}, {geo[1]:.4f})")
 
-                    if is_duplicate:
-                        continue
+            except Exception as e:
+                self.logger.warning(f"  提取点位 {i+1} 失败: {e}")
 
-                    existing_coords.add((lat_rounded, lng_rounded))
+        self.logger.info(f"找到 {len(new_points)} 个新点位")
 
-                    img_url = ""
-                    if marker["image"]:
-                        cdn_url = f"https://cdn.animepilgrimage.com/{marker['image']}"
-                        img_idx = len(existing_points) + len(new_points) + 1
-                        img_path = f"{images_folder}/{local_id}-{img_idx}.jpg"
-                        if self.download_image(cdn_url, img_path):
-                            img_url = f"https://image.xinu.ink/pic/data/{local_id}/images/{local_id}-{img_idx}.jpg"
-
-                    point_data = {
-                        "id": f"{local_id}-{len(existing_points) + len(new_points) + 1}",
-                        "name": marker["name"],
-                        "image": img_url,
-                        "ep": marker["ep"],
-                        "geo": [lat, lng]
-                    }
-                    if marker["ts"]:
-                        point_data["s"] = marker["ts"]
-
-                    new_points.append(point_data)
-                    self.logger.info(f"  新点位: {marker['name'][:25]} ({lat:.4f}, {lng:.4f})")
-            else:
-                self.logger.info("RSC 载荷无坐标数据，使用 DOM 卡片 (无坐标)")
-                for i in range(total):
-                    try:
-                        fresh_cards = self._find_point_elements()
-                        if i >= len(fresh_cards):
-                            break
-                        point_elem = fresh_cards[i]
-                        name = self._extract_point_name(point_elem)
-                        ep = self._extract_episode(point_elem)
-                        ts = self._extract_timestamp(point_elem)
-                        img_url = self._extract_point_image(point_elem, images_folder, local_id, len(existing_points) + len(new_points) + 1)
-
-                        point_data = {
-                            "id": f"{local_id}-{len(existing_points) + len(new_points) + 1}",
-                            "name": name,
-                            "image": img_url,
-                            "ep": ep,
-                            "geo": [0, 0]
-                        }
-                        if ts:
-                            point_data["s"] = ts
-                        new_points.append(point_data)
-                    except Exception as e:
-                        self.logger.warning(f"  提取点位 {i+1} 失败: {e}")
-
-            self.logger.info(f"找到 {len(new_points)} 个新点位")
-
-            if not new_points:
-                self.logger.info("此动漫未找到新点位")
-                return None
-
-            combined_points = existing_points + new_points
-            self.logger.info(f"合并了 {len(existing_points)} 个现有点位和 {len(new_points)} 个新点位")
-
-            with open(points_path, 'w', encoding='utf-8') as f:
-                json.dump({"points": combined_points}, f, ensure_ascii=False, indent=2)
-
-            updated_info = existing_info.copy()
-            updated_info["pointsLength"] = len(combined_points)
-
-            with open(info_path, 'w', encoding='utf-8') as f:
-                json.dump(updated_info, f, ensure_ascii=False, indent=2)
-
-            chinese_name = self.get_chinese_name_from_bangumi(anime_title)
-
-            anime_data = {
-                "name": anime_title,
-                "name_cn": chinese_name,
-                "cover": cover_image_url,
-                "theme_color": theme_color,
-                "points": combined_points
-            }
-
-            updated_info["cn"] = chinese_name
-
-            with open(info_path, 'w', encoding='utf-8') as f:
-                json.dump(updated_info, f, ensure_ascii=False, indent=2)
-
-            self.logger.info(f"Updated info.json with Chinese name: {chinese_name}")
-
-            return {
-                "local_id": local_id,
-                "anime_data": anime_data,
-                "new_points_count": len(new_points)
-            }
-
-        except Exception as e:
-            self.logger.error(f"Error extracting pilgrimage points: {e}")
+        if not new_points:
+            self.logger.info("此动漫未找到新点位")
             return None
+
+        combined_points = existing_points + new_points
+        self.logger.info(f"合并了 {len(existing_points)} 个现有点位和 {len(new_points)} 个新点位")
+
+        with open(points_path, 'w', encoding='utf-8') as f:
+            json.dump({"points": combined_points}, f, ensure_ascii=False, indent=2)
+
+        updated_info = existing_info.copy()
+        updated_info["pointsLength"] = len(combined_points)
+        updated_info["cn"] = anime_title
+
+        with open(info_path, 'w', encoding='utf-8') as f:
+            json.dump(updated_info, f, ensure_ascii=False, indent=2)
+
+        anime_data = {
+            "name": anime_title,
+            "name_cn": anime_title,
+            "cover": existing_info.get("cover", ""),
+            "theme_color": existing_info.get("theme_color", "#7f6a95"),
+            "points": combined_points
+        }
+
+        return {
+            "local_id": local_id,
+            "anime_data": anime_data,
+            "new_points_count": len(new_points)
+        }
 
     def update_index_json(self, anime_data_list, update_mode=False):
         index_path = self.base_dir / "index.json"
