@@ -1,0 +1,774 @@
+{
+  "points": [
+    {
+      "id": "6190-1",
+      "name": "久我山駅",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-1.jpg",
+      "ep": "ED1",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-2",
+      "name": "日本橋",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-2.jpg",
+      "ep": "ED1",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-3",
+      "name": "名鉄協商パーキング渋谷第１２代々木１丁目駐輪場",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-3.jpg",
+      "ep": "ED1",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-4",
+      "name": "ビーフラット・コミュニティパーク宇田川町駐車場",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-4.jpg",
+      "ep": "ED1",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-5",
+      "name": "荒川中洲南端",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-5.jpg",
+      "ep": "ED1",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-6",
+      "name": "バンコクナイト渋谷",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-6.jpg",
+      "ep": "ED6",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-7",
+      "name": "CONA 渋谷宇田川町店",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-7.jpg",
+      "ep": "ED6",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-8",
+      "name": "生焼きホルモン元家 別邸",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-8.jpg",
+      "ep": "ED6",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-9",
+      "name": "中渋谷ガード駐輪場",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-9.jpg",
+      "ep": "ED6",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-10",
+      "name": "Street garden \"butterfly effect\"",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-10.jpg",
+      "ep": "ED6",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-11",
+      "name": "渋谷PARCO",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-11.jpg",
+      "ep": "ED6",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-12",
+      "name": "LUKE'S LOBSTER 渋谷ParkStreet店",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-12.jpg",
+      "ep": "ED6",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-13",
+      "name": "ハンズ渋谷店",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-13.jpg",
+      "ep": "ED6",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-14",
+      "name": "渋谷駅西口歩道橋",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-14.jpg",
+      "ep": "ED6",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-15",
+      "name": "BOAT RACE 多摩川(多摩川ボートレース場)",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-15.jpg",
+      "ep": "EP2",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-16",
+      "name": "桑実商店",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-16.jpg",
+      "ep": "EP2",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-17",
+      "name": "那覇空港",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-17.jpg",
+      "ep": "EP3",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-18",
+      "name": "よへなあじさい園",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-18.jpg",
+      "ep": "EP3",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-19",
+      "name": "水の階段（海洋博公園）",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-19.jpg",
+      "ep": "EP3",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-20",
+      "name": "沖縄美ら海水族館",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-20.jpg",
+      "ep": "EP3",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-21",
+      "name": "JR新宿駅 東口駅前広場",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-21.jpg",
+      "ep": "EP5",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-22",
+      "name": "ケンタッキーフライドチキン新宿西口店",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-22.jpg",
+      "ep": "EP5",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-23",
+      "name": "三井住友信託銀行 立川支店",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-23.jpg",
+      "ep": "EP6",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-24",
+      "name": "ウェンディーズ・ファーストキッチン 立川フロム中武店",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-24.jpg",
+      "ep": "EP6",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-25",
+      "name": "立川駅",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-25.jpg",
+      "ep": "EP6",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-26",
+      "name": "インド定食ターリー屋 立川北口店",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-26.jpg",
+      "ep": "EP6",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-27",
+      "name": "宮下第1歩道橋",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-27.jpg",
+      "ep": "EP7",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-28",
+      "name": "「LOUVERS OF MIRROR」ヴィト・アコンチ",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-28.jpg",
+      "ep": "EP7",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-29",
+      "name": "カフェ・ベローチェ 渋谷駅新南口店",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-29.jpg",
+      "ep": "EP7",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-30",
+      "name": "B3F 渋谷ヒカリエ",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-30.jpg",
+      "ep": "EP8",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-31",
+      "name": "原宿駅",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-31.jpg",
+      "ep": "EP8",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-32",
+      "name": "ミスターミニット東京メトロ 明治神宮前",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-32.jpg",
+      "ep": "EP8",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-33",
+      "name": "B2F 明治神宮前〈原宿〉駅",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-33.jpg",
+      "ep": "EP8",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-34",
+      "name": "B4F 神宮前交差点方面改札",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-34.jpg",
+      "ep": "EP8",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-35",
+      "name": "明治神宮前（原宿）駅 東京メトロ副都心線3・4番線ホーム",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-35.jpg",
+      "ep": "EP9",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-36",
+      "name": "渋谷駅 東京メトロ副都心線 5・6番線",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-36.jpg",
+      "ep": "EP9",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-37",
+      "name": "Mothership",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-37.jpg",
+      "ep": "EP10",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-38",
+      "name": "ファミリーマート 渋谷一丁目店",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-38.jpg",
+      "ep": "EP10",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-39",
+      "name": "セカンドストリート渋谷神南店",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-39.jpg",
+      "ep": "EP10",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-40",
+      "name": "渋谷東急REIホテル",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-40.jpg",
+      "ep": "EP10",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-41",
+      "name": "渋谷モディ",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-41.jpg",
+      "ep": "EP11",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-42",
+      "name": "ブリッジ渋谷21",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-42.jpg",
+      "ep": "EP11",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-43",
+      "name": "渋谷駅（バス）",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-43.jpg",
+      "ep": "EP12",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-44",
+      "name": "池湖 渋谷",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-44.jpg",
+      "ep": "EP12",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-45",
+      "name": "東急百貨店本店前(バス)",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-45.jpg",
+      "ep": "EP12",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-46",
+      "name": "俺流塩らーめん 東急本店前店",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-46.jpg",
+      "ep": "EP12",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-47",
+      "name": "渋谷駅東口（バス）",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-47.jpg",
+      "ep": "EP13",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-48",
+      "name": "B4F 渋谷ヒカリエ1改札付近",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-48.jpg",
+      "ep": "EP13",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-49",
+      "name": "2F アベニューゲート",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-49.jpg",
+      "ep": "EP14",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-50",
+      "name": "岡本太郎「明日の神話」",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-50.jpg",
+      "ep": "EP15",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-51",
+      "name": "SHIBUYAフレンズ動物病院",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-51.jpg",
+      "ep": "EP16",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-52",
+      "name": "RELX VAPE &NEWS STAND",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-52.jpg",
+      "ep": "EP16",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-53",
+      "name": "スターバックスコーヒー 渋谷ストリーム店",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-53.jpg",
+      "ep": "EP16",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-54",
+      "name": "ファミリーマート 渋谷道玄坂プラザ通り店",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-54.jpg",
+      "ep": "EP16",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-55",
+      "name": "博多天神 渋谷南口店",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-55.jpg",
+      "ep": "EP16",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-56",
+      "name": "渋谷料金所",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-56.jpg",
+      "ep": "EP16",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-57",
+      "name": "宝くじロトハウス 渋谷駅井の頭口店",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-57.jpg",
+      "ep": "EP16",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-58",
+      "name": "京都駅",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-58.jpg",
+      "ep": "EP16",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-59",
+      "name": "渋谷ストリーム ホール",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-59.jpg",
+      "ep": "EP16",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-60",
+      "name": "薬 マツモトキヨシ SHIBUYA DOGENZAKA FLAG",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-60.jpg",
+      "ep": "EP17",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-61",
+      "name": "渋谷スクランブル交差点",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-61.jpg",
+      "ep": "EP17",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-62",
+      "name": "ファミリーマート 渋谷１０９前店",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-62.jpg",
+      "ep": "EP17",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-63",
+      "name": "ハチ公改札",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-63.jpg",
+      "ep": "EP18",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-64",
+      "name": "道玄坂改札 B2F",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-64.jpg",
+      "ep": "EP18",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-65",
+      "name": "B4F 宮益坂東改札付近",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-65.jpg",
+      "ep": "EP18",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-66",
+      "name": "焼肉 もうもうくうくう 渋谷店",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-66.jpg",
+      "ep": "EP18",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-67",
+      "name": "スターバックス コーヒー 渋谷文化村通り店",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-67.jpg",
+      "ep": "EP19",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-68",
+      "name": "B1F Bunkamura Street Exit 3a",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-68.jpg",
+      "ep": "EP19",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-69",
+      "name": "ユニクロ 渋谷道玄坂店",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-69.jpg",
+      "ep": "EP19",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-70",
+      "name": "B1F プライム出口1",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-70.jpg",
+      "ep": "EP19",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-71",
+      "name": "B2F 文化村通り 3a出口",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-71.jpg",
+      "ep": "EP20",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-72",
+      "name": "渋谷駅 田園都市線 1番線",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-72.jpg",
+      "ep": "EP20",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-73",
+      "name": "サーティワンアイスクリーム 渋谷店",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-73.jpg",
+      "ep": "EP21",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-74",
+      "name": "B3F 田園都市線ホーム",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-74.jpg",
+      "ep": "EP22",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-75",
+      "name": "ファミリーマート 銀座木挽町通り店",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-75.jpg",
+      "ep": "EP23",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-76",
+      "name": "飯田橋駅",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-76.jpg",
+      "ep": "EP23",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6190-77",
+      "name": "佃大橋",
+      "image": "https://image.xinu.ink/pic/data/6190/images/6190-77.jpg",
+      "ep": "EP23",
+      "geo": [
+        0,
+        0
+      ]
+    }
+  ]
+}

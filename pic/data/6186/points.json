@@ -1,0 +1,534 @@
+{
+  "points": [
+    {
+      "id": "6186-1",
+      "name": "歌舞伎座",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-1.jpg",
+      "ep": "EP1",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-2",
+      "name": "西川家別邸",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-2.jpg",
+      "ep": "EP1",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-3",
+      "name": "区境ホール",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-3.jpg",
+      "ep": "EP1",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-4",
+      "name": "佃大橋",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-4.jpg",
+      "ep": "EP1",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-5",
+      "name": "銀座一郵便局",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-5.jpg",
+      "ep": "EP1",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-6",
+      "name": "銀座一郵便局",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-6.jpg",
+      "ep": "EP1",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-7",
+      "name": "コートヤード・マリオット銀座東武ホテル",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-7.jpg",
+      "ep": "EP1",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-8",
+      "name": "ヤマト運輸 東銀座営業所",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-8.jpg",
+      "ep": "EP1",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-9",
+      "name": "歌舞伎座",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-9.jpg",
+      "ep": "EP1",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-10",
+      "name": "大宮ラクーンよしもと劇場",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-10.jpg",
+      "ep": "EP3",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-11",
+      "name": "大宮ラクーンよしもと劇場",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-11.jpg",
+      "ep": "EP3",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-12",
+      "name": "トナリエ 宇都宮",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-12.jpg",
+      "ep": "EP5",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-13",
+      "name": "かむり大橋",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-13.jpg",
+      "ep": "EP7",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-14",
+      "name": "パタゴニア 仙台",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-14.jpg",
+      "ep": "EP7",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-15",
+      "name": "東京芸術劇場",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-15.jpg",
+      "ep": "EP7",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-16",
+      "name": "hairsalon de Forever",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-16.jpg",
+      "ep": "EP7",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-17",
+      "name": "中目黒アトラスタワー",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-17.jpg",
+      "ep": "EP7",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-18",
+      "name": "正美堂セレモニーホール",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-18.jpg",
+      "ep": "EP7",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-19",
+      "name": "ナカノサウステラ",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-19.jpg",
+      "ep": "EP7",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-20",
+      "name": "岩森書店",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-20.jpg",
+      "ep": "EP7",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-21",
+      "name": "盛岡地方裁判所",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-21.jpg",
+      "ep": "EP8",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-22",
+      "name": "医大内丸メディカルセンター前（バス）",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-22.jpg",
+      "ep": "EP8",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-23",
+      "name": "エステティックサロンAILE 盛岡店",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-23.jpg",
+      "ep": "EP8",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-24",
+      "name": "毘沙門橋",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-24.jpg",
+      "ep": "EP8",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-25",
+      "name": "草のゆかり",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-25.jpg",
+      "ep": "EP8",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-26",
+      "name": "ローソン 盛岡門店",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-26.jpg",
+      "ep": "EP8",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-27",
+      "name": "やよい軒 要町店",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-27.jpg",
+      "ep": "EP8",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-28",
+      "name": "豊島区立池袋西口公園",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-28.jpg",
+      "ep": "EP8",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-29",
+      "name": "シアターウエスト",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-29.jpg",
+      "ep": "EP8",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-30",
+      "name": "スワローチェーン 中野店",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-30.jpg",
+      "ep": "EP8",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-31",
+      "name": "3rrrd",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-31.jpg",
+      "ep": "EP10",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-32",
+      "name": "3rrrd",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-32.jpg",
+      "ep": "EP10",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-33",
+      "name": "立教学院内郵便局",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-33.jpg",
+      "ep": "EP10",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-34",
+      "name": "立教大学",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-34.jpg",
+      "ep": "EP10",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-35",
+      "name": "立教学院諸聖徒礼拝堂",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-35.jpg",
+      "ep": "EP10",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-36",
+      "name": "鐘山苑 別墅然然（べっしょ ささ）",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-36.jpg",
+      "ep": "EP10",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-37",
+      "name": "谷端川南緑道",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-37.jpg",
+      "ep": "EP11",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-38",
+      "name": "ユアテックスタジアム仙台",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-38.jpg",
+      "ep": "EP11",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-39",
+      "name": "仙台市泉図書館",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-39.jpg",
+      "ep": "EP11",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-40",
+      "name": "かむり大橋",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-40.jpg",
+      "ep": "EP12",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-41",
+      "name": "市名坂さくら公園",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-41.jpg",
+      "ep": "EP12",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-42",
+      "name": "七北田公園庭球場",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-42.jpg",
+      "ep": "EP12",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-43",
+      "name": "仙台市博物館",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-43.jpg",
+      "ep": "EP12",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-44",
+      "name": "ステーキ宮 仙台八乙女店",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-44.jpg",
+      "ep": "EP12",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-45",
+      "name": "ズーズーカンパニー八乙女店",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-45.jpg",
+      "ep": "EP12",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-46",
+      "name": "ＳＡＫＡＥ泉中央ビル",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-46.jpg",
+      "ep": "EP12",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-47",
+      "name": "仙台市泉図書館",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-47.jpg",
+      "ep": "EP12",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-48",
+      "name": "泉中央駅ビルSWING",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-48.jpg",
+      "ep": "EP12",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-49",
+      "name": "セルバ",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-49.jpg",
+      "ep": "EP12",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-50",
+      "name": "タイムズ泉中央駐車場",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-50.jpg",
+      "ep": "EP12",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-51",
+      "name": "泉中央駅ビルSWING",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-51.jpg",
+      "ep": "EP12",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-52",
+      "name": "まるたま 泉中央店",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-52.jpg",
+      "ep": "EP12",
+      "geo": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "6186-53",
+      "name": "ダイヤと花の大観覧車",
+      "image": "https://image.xinu.ink/pic/data/6186/images/6186-53.jpg",
+      "ep": "EP12",
+      "geo": [
+        0,
+        0
+      ]
+    }
+  ]
+}
