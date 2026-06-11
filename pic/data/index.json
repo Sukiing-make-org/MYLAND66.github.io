@@ -457744,5 +457744,94 @@
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/6196/points.json"
+  },
+  "6197": {
+    "name": "氷の城壁",
+    "name_cn": "氷の城壁",
+    "cover": "https://image.xinu.ink/pic/data/6197/images/1.jpg",
+    "theme_color": "#835641",
+    "points": [
+      {
+        "id": "0p4eca03",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "https://image.xinu.ink/pic/data/6197/images/6197-1.jpg",
+        "ep": "EP10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "ki00a6pq",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "https://image.xinu.ink/pic/data/6197/images/6197-2.jpg",
+        "ep": "EP10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "ucela4i4",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "https://image.xinu.ink/pic/data/6197/images/6197-3.jpg",
+        "ep": "EP10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "712js3fb",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "https://image.xinu.ink/pic/data/6197/images/6197-4.jpg",
+        "ep": "EP10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "9pzni6bn",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "https://image.xinu.ink/pic/data/6197/images/6197-5.jpg",
+        "ep": "EP10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "ybrjdh48",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "https://image.xinu.ink/pic/data/6197/images/6197-6.jpg",
+        "ep": "EP10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "616ajaws",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "https://image.xinu.ink/pic/data/6197/images/6197-7.jpg",
+        "ep": "EP10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "comjb750",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "https://image.xinu.ink/pic/data/6197/images/6197-8.jpg",
+        "ep": "EP10",
+        "geo": [
+          0,
+          0
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6197/points.json"
   }
 }
