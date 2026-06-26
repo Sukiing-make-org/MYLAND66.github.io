@@ -42,7 +42,7 @@ jobs:
 
       - name: Run Anime Pilgrimage V2 scraper
         run: |
-          python anime_pilgrimage_v2_scraper.py --auto --max-anime 100 --fix-coords --base-dir pic/data
+          python anime_pilgrimage_v2_scraper.py --auto --max-anime 99999 --fix-coords --base-dir pic/data
 
       - name: Configure Git
         run: |
