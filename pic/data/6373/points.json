@@ -1,0 +1,514 @@
+{
+  "points": [
+    {
+      "id": "6373-1",
+      "name": "新宿駅",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-1.jpg",
+      "ep": "OP",
+      "geo": [
+        35.68928,
+        139.70083
+      ]
+    },
+    {
+      "id": "6373-2",
+      "name": "雷門",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-2.jpg",
+      "ep": "OP",
+      "geo": [
+        35.711,
+        139.79633
+      ]
+    },
+    {
+      "id": "6373-3",
+      "name": "コナン大橋",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-3.jpg",
+      "ep": "OP",
+      "geo": [
+        35.49229,
+        133.75925
+      ]
+    },
+    {
+      "id": "6373-4",
+      "name": "鳥取砂丘",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-4.jpg",
+      "ep": "OP",
+      "geo": [
+        35.54358,
+        134.23487
+      ]
+    },
+    {
+      "id": "6373-5",
+      "name": "隅田川大橋",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-5.jpg",
+      "ep": "ED",
+      "geo": [
+        35.67867,
+        139.78986
+      ]
+    },
+    {
+      "id": "6373-6",
+      "name": "墨田区立隅田公園 魚つり場",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-6.jpg",
+      "ep": "ED",
+      "geo": [
+        35.71347,
+        139.80474
+      ]
+    },
+    {
+      "id": "6373-7",
+      "name": "台東区立隅田公園",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-7.jpg",
+      "ep": "ED",
+      "geo": [
+        35.71507,
+        139.80324
+      ]
+    },
+    {
+      "id": "6373-8",
+      "name": "東洋ランドリー 向島店",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-8.jpg",
+      "ep": "ED",
+      "geo": [
+        35.71403,
+        139.81223
+      ]
+    },
+    {
+      "id": "6373-9",
+      "name": "珈琲家",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-9.jpg",
+      "ep": "ED",
+      "geo": [
+        35.71703,
+        139.81643
+      ]
+    },
+    {
+      "id": "6373-10",
+      "name": "浅草警察署 聖天町交番",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-10.jpg",
+      "ep": "ED",
+      "geo": [
+        35.71543,
+        139.80194
+      ]
+    },
+    {
+      "id": "6373-11",
+      "name": "言問橋",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-11.jpg",
+      "ep": "ED",
+      "geo": [
+        35.71458,
+        139.8028
+      ]
+    },
+    {
+      "id": "6373-12",
+      "name": "喜久屋",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-12.jpg",
+      "ep": "2",
+      "geo": [
+        35.71164,
+        139.79646
+      ]
+    },
+    {
+      "id": "6373-13",
+      "name": "木村家人形焼 本店",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-13.jpg",
+      "ep": "2",
+      "geo": [
+        35.71353,
+        139.79663
+      ]
+    },
+    {
+      "id": "6373-14",
+      "name": "カラオケ館 浅草国際通り店",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-14.jpg",
+      "ep": "2",
+      "geo": [
+        35.71378,
+        139.79256
+      ]
+    },
+    {
+      "id": "6373-15",
+      "name": "浅草文庫 本店",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-15.jpg",
+      "ep": "2",
+      "geo": [
+        35.71146,
+        139.7921
+      ]
+    },
+    {
+      "id": "6373-16",
+      "name": "ファミリーマート 浅草雷門前店",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-16.jpg",
+      "ep": "2",
+      "geo": [
+        35.71084,
+        139.79704
+      ]
+    },
+    {
+      "id": "6373-17",
+      "name": "下呂市総合観光案内所",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-17.jpg",
+      "ep": "5",
+      "geo": [
+        35.8051,
+        137.23965
+      ]
+    },
+    {
+      "id": "6373-18",
+      "name": "囲炉裡",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-18.jpg",
+      "ep": "5",
+      "geo": [
+        35.80908,
+        137.24449
+      ]
+    },
+    {
+      "id": "6373-19",
+      "name": "湯之島館",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-19.jpg",
+      "ep": "5",
+      "geo": [
+        35.81218,
+        137.2415
+      ]
+    },
+    {
+      "id": "6373-20",
+      "name": "鳥ぶら 名駅4丁目店",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-20.jpg",
+      "ep": "6",
+      "geo": [
+        35.17059,
+        136.88723
+      ]
+    },
+    {
+      "id": "6373-21",
+      "name": "五條橋",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-21.jpg",
+      "ep": "6",
+      "geo": [
+        35.17607,
+        136.89338
+      ]
+    },
+    {
+      "id": "6373-22",
+      "name": "KKRホテル名古屋",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-22.jpg",
+      "ep": "6",
+      "geo": [
+        35.1808,
+        136.89614
+      ]
+    },
+    {
+      "id": "6373-23",
+      "name": "名古屋城",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-23.jpg",
+      "ep": "6",
+      "geo": [
+        35.18532,
+        136.89996
+      ]
+    },
+    {
+      "id": "6373-24",
+      "name": "金シャチ横丁 正門エリア 義直ゾーン",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-24.jpg",
+      "ep": "6",
+      "geo": [
+        35.18296,
+        136.89869
+      ]
+    },
+    {
+      "id": "6373-25",
+      "name": "宮本武蔵·佐々木小次郎像",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-25.jpg",
+      "ep": "7",
+      "geo": [
+        33.93378,
+        130.93153
+      ]
+    },
+    {
+      "id": "6373-26",
+      "name": "門司港駅",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-26.jpg",
+      "ep": "8",
+      "geo": [
+        33.94535,
+        130.96166
+      ]
+    },
+    {
+      "id": "6373-27",
+      "name": "国会議事堂",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-27.jpg",
+      "ep": "9",
+      "geo": [
+        35.67639,
+        139.74755
+      ]
+    },
+    {
+      "id": "6373-28",
+      "name": "道頓堀",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-28.jpg",
+      "ep": "13",
+      "geo": [
+        34.66872,
+        135.50135
+      ]
+    },
+    {
+      "id": "6373-29",
+      "name": "嚴島神社",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-29.jpg",
+      "ep": "13",
+      "geo": [
+        34.29699,
+        132.31844
+      ]
+    },
+    {
+      "id": "6373-30",
+      "name": "レールマウンテンバイクGattan Go!!渓谷コース",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-30.jpg",
+      "ep": "13",
+      "geo": [
+        36.38221,
+        137.2771
+      ]
+    },
+    {
+      "id": "6373-31",
+      "name": "東大寺",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-31.jpg",
+      "ep": "13",
+      "geo": [
+        34.68543,
+        135.83987
+      ]
+    },
+    {
+      "id": "6373-32",
+      "name": "大通公園３丁目",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-32.jpg",
+      "ep": "13",
+      "geo": [
+        43.06059,
+        141.35268
+      ]
+    },
+    {
+      "id": "6373-33",
+      "name": "太閤井戸跡",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-33.jpg",
+      "ep": "13",
+      "geo": [
+        35.37741,
+        136.25956
+      ]
+    },
+    {
+      "id": "6373-34",
+      "name": "鳴尾浜臨海公園海づり広場",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-34.jpg",
+      "ep": "14",
+      "geo": [
+        34.69174,
+        135.35961
+      ]
+    },
+    {
+      "id": "6373-35",
+      "name": "鳴門駅前",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-35.jpg",
+      "ep": "14",
+      "geo": [
+        34.17934,
+        134.60896
+      ]
+    },
+    {
+      "id": "6373-36",
+      "name": "剣山",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-36.jpg",
+      "ep": "14",
+      "geo": [
+        33.85475,
+        134.09525
+      ]
+    },
+    {
+      "id": "6373-37",
+      "name": "大早津海水浴場",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-37.jpg",
+      "ep": "14",
+      "geo": [
+        33.31217,
+        132.44304
+      ]
+    },
+    {
+      "id": "6373-38",
+      "name": "別府スパビーチ",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-38.jpg",
+      "ep": "15",
+      "geo": [
+        33.28365,
+        131.50609
+      ]
+    },
+    {
+      "id": "6373-39",
+      "name": "サンマルクカフェ 奈良三条店",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-39.jpg",
+      "ep": "16",
+      "geo": [
+        34.68192,
+        135.82098
+      ]
+    },
+    {
+      "id": "6373-40",
+      "name": "厳島神社",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-40.jpg",
+      "ep": "16",
+      "geo": [
+        34.68769,
+        135.84009
+      ]
+    },
+    {
+      "id": "6373-41",
+      "name": "東大寺",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-41.jpg",
+      "ep": "16",
+      "geo": [
+        34.68877,
+        135.83984
+      ]
+    },
+    {
+      "id": "6373-42",
+      "name": "大阪城",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-42.jpg",
+      "ep": "16",
+      "geo": [
+        34.68725,
+        135.52585
+      ]
+    },
+    {
+      "id": "6373-43",
+      "name": "大阪駅",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-43.jpg",
+      "ep": "16",
+      "geo": [
+        34.70255,
+        135.4955
+      ]
+    },
+    {
+      "id": "6373-44",
+      "name": "高山駅",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-44.jpg",
+      "ep": "17",
+      "geo": [
+        36.14127,
+        137.25188
+      ]
+    },
+    {
+      "id": "6373-45",
+      "name": "舩坂酒造店",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-45.jpg",
+      "ep": "17",
+      "geo": [
+        36.14072,
+        137.2596
+      ]
+    },
+    {
+      "id": "6373-46",
+      "name": "川中島古戦場史跡公園",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-46.jpg",
+      "ep": "18",
+      "geo": [
+        36.58944,
+        138.18739
+      ]
+    },
+    {
+      "id": "6373-47",
+      "name": "川中島古戦場史跡公園",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-47.jpg",
+      "ep": "18",
+      "geo": [
+        36.58977,
+        138.18797
+      ]
+    },
+    {
+      "id": "6373-48",
+      "name": "善光寺",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-48.jpg",
+      "ep": "18",
+      "geo": [
+        36.66199,
+        138.18771
+      ]
+    },
+    {
+      "id": "6373-49",
+      "name": "創成橋",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-49.jpg",
+      "ep": "19",
+      "geo": [
+        43.05973,
+        141.35752
+      ]
+    },
+    {
+      "id": "6373-50",
+      "name": "リーベン古奈家",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-50.jpg",
+      "ep": "21",
+      "geo": [
+        35.48299,
+        138.80354
+      ]
+    },
+    {
+      "id": "6373-51",
+      "name": "街のホテル",
+      "image": "https://image.xinu.ink/pic/data/6373/images/6373-51.jpg",
+      "ep": "21",
+      "geo": [
+        35.49122,
+        138.80045
+      ]
+    }
+  ]
+}

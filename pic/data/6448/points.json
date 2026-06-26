@@ -1,0 +1,564 @@
+{
+  "points": [
+    {
+      "id": "6448-1",
+      "name": "藤沢駅",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-1.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3395249,
+        139.4877117
+      ]
+    },
+    {
+      "id": "6448-2",
+      "name": "鵠沼海岸駅",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-2.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3206579,
+        139.4710386
+      ]
+    },
+    {
+      "id": "6448-3",
+      "name": "みずほ銀行 藤沢支店",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-3.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.340068,
+        139.4889306
+      ]
+    },
+    {
+      "id": "6448-4",
+      "name": "御所ヶ谷公園",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-4.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3432747,
+        139.4933041
+      ]
+    },
+    {
+      "id": "6448-5",
+      "name": "オッターショップ付近",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-5.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3098036,
+        139.4794477
+      ]
+    },
+    {
+      "id": "6448-6",
+      "name": "弁財天童子石像",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-6.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3004637,
+        139.480107
+      ]
+    },
+    {
+      "id": "6448-7",
+      "name": "新江ノ島水族館",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-7.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3096341,
+        139.4798589
+      ]
+    },
+    {
+      "id": "6448-8",
+      "name": "ビックカメラ 藤沢店",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-8.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3395714,
+        139.4879196
+      ]
+    },
+    {
+      "id": "6448-9",
+      "name": "本鵠沼駅",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-9.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3306637,
+        139.4746109
+      ]
+    },
+    {
+      "id": "6448-10",
+      "name": "One Story Craftsman House付近",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-10.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3066554,
+        139.4964931
+      ]
+    },
+    {
+      "id": "6448-11",
+      "name": "片瀬西浜・鵠沼海水浴場",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-11.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3091007,
+        139.4796149
+      ]
+    },
+    {
+      "id": "6448-12",
+      "name": "コンフォール藤沢C-2",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-12.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3445419,
+        139.4927832
+      ]
+    },
+    {
+      "id": "6448-13",
+      "name": "鶴屋",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-13.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3008794,
+        139.4804319
+      ]
+    },
+    {
+      "id": "6448-14",
+      "name": "JR藤沢駅 改札外コインロッカー",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-14.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3387668,
+        139.4876978
+      ]
+    },
+    {
+      "id": "6448-15",
+      "name": "駅前にしき",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-15.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3657534,
+        136.6175385
+      ]
+    },
+    {
+      "id": "6448-16",
+      "name": "藤が岡１号（バス）",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-16.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3444219,
+        139.4940395
+      ]
+    },
+    {
+      "id": "6448-17",
+      "name": "金沢駅",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-17.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        36.5780503,
+        136.648509
+      ]
+    },
+    {
+      "id": "6448-18",
+      "name": "片瀬江ノ島駅",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-18.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3086765,
+        139.4836789
+      ]
+    },
+    {
+      "id": "6448-19",
+      "name": "ローソン 藤沢柳通り店",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-19.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3401122,
+        139.4882652
+      ]
+    },
+    {
+      "id": "6448-20",
+      "name": "セブンイレブン 藤沢朝日町店",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-20.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3403997,
+        139.4926694
+      ]
+    },
+    {
+      "id": "6448-21",
+      "name": "七里ヶ浜駅",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-21.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.306247,
+        139.509997
+      ]
+    },
+    {
+      "id": "6448-22",
+      "name": "藤沢駅北口 芝生広場",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-22.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3396812,
+        139.4878611
+      ]
+    },
+    {
+      "id": "6448-23",
+      "name": "鎌倉高校前駅",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-23.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3065879,
+        139.5004683
+      ]
+    },
+    {
+      "id": "6448-24",
+      "name": "恩賜上野動物園",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-24.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.7158087,
+        139.7730344
+      ]
+    },
+    {
+      "id": "6448-25",
+      "name": "カラオケベスト10 藤沢店",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-25.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3402479,
+        139.4879274
+      ]
+    },
+    {
+      "id": "6448-26",
+      "name": "江島神社 辺津宮",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-26.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3004042,
+        139.4798027
+      ]
+    },
+    {
+      "id": "6448-27",
+      "name": "むすびの樹",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-27.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3001735,
+        139.479992
+      ]
+    },
+    {
+      "id": "6448-28",
+      "name": "七里ガ浜ポンプ場",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-28.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3062019,
+        139.5107834
+      ]
+    },
+    {
+      "id": "6448-29",
+      "name": "藤沢ゲートパーク",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-29.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3401913,
+        139.4906199
+      ]
+    },
+    {
+      "id": "6448-30",
+      "name": "ファミリーマート アスティ大垣店",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-30.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3665404,
+        136.6180381
+      ]
+    },
+    {
+      "id": "6448-31",
+      "name": "金蝶園総本家 大垣駅前本店",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-31.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3659513,
+        136.6177015
+      ]
+    },
+    {
+      "id": "6448-32",
+      "name": "ユニオンマンスリー藤沢２付近",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-32.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3421763,
+        139.4930129
+      ]
+    },
+    {
+      "id": "6448-33",
+      "name": "ハイブリット",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-33.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3062088,
+        139.5106853
+      ]
+    },
+    {
+      "id": "6448-34",
+      "name": "しらす問屋とびっちょ 江の島弁財天仲見世通り店",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-34.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3020134,
+        139.4810134
+      ]
+    },
+    {
+      "id": "6448-35",
+      "name": "藤沢市総合市民図書館",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-35.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3955183,
+        139.473481
+      ]
+    },
+    {
+      "id": "6448-36",
+      "name": "江の島ガラスHOOK 弁財天仲見世通り店",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-36.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3016111,
+        139.4807745
+      ]
+    },
+    {
+      "id": "6448-37",
+      "name": "デニーズ 藤沢北口店",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-37.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3413897,
+        139.4836983
+      ]
+    },
+    {
+      "id": "6448-38",
+      "name": "ＫＣ藤が岡",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-38.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3450886,
+        139.4953897
+      ]
+    },
+    {
+      "id": "6448-39",
+      "name": "片瀬東浜海水浴場",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-39.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3066852,
+        139.4846396
+      ]
+    },
+    {
+      "id": "6448-40",
+      "name": "御幣公園",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-40.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3455096,
+        139.4924087
+      ]
+    },
+    {
+      "id": "6448-41",
+      "name": "卯辰山公園",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-41.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        36.570968,
+        136.6779826
+      ]
+    },
+    {
+      "id": "6448-42",
+      "name": "行合橋",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-42.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3052572,
+        139.5106912
+      ]
+    },
+    {
+      "id": "6448-43",
+      "name": "セブン-イレブン 藤沢駅北口店",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-43.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3398559,
+        139.4863254
+      ]
+    },
+    {
+      "id": "6448-44",
+      "name": "アットパーク藤沢朝日町",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-44.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3409709,
+        139.4925711
+      ]
+    },
+    {
+      "id": "6448-45",
+      "name": "大正橋",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-45.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3434435,
+        139.4881869
+      ]
+    },
+    {
+      "id": "6448-46",
+      "name": "蔵まえ３４付近",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-46.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3429394,
+        139.4874293
+      ]
+    },
+    {
+      "id": "6448-47",
+      "name": "江の島弁天橋",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-47.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3049706,
+        139.4824315
+      ]
+    },
+    {
+      "id": "6448-48",
+      "name": "江の島シーキャンドル",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-48.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.2997441,
+        139.4786595
+      ]
+    },
+    {
+      "id": "6448-49",
+      "name": "七里ヶ浜",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-49.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3065797,
+        139.5010201
+      ]
+    },
+    {
+      "id": "6448-50",
+      "name": "御所ヶ谷橋",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-50.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3417038,
+        139.4929074
+      ]
+    },
+    {
+      "id": "6448-51",
+      "name": "藤沢警察署 藤沢駅北口交番",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-51.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3393008,
+        139.4877796
+      ]
+    },
+    {
+      "id": "6448-52",
+      "name": "展望台広場ウッドデッキ",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-52.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.2995162,
+        139.4806893
+      ]
+    },
+    {
+      "id": "6448-53",
+      "name": "江ノ島電鉄線藤沢駅",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-53.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3375411,
+        139.4874236
+      ]
+    },
+    {
+      "id": "6448-54",
+      "name": "大垣駅",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-54.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3668807,
+        136.6175517
+      ]
+    },
+    {
+      "id": "6448-55",
+      "name": "ハッピージーフジサワ",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-55.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.3401164,
+        139.4882141
+      ]
+    },
+    {
+      "id": "6448-56",
+      "name": "アニヴェルセルカフェ みなとみらい横浜",
+      "image": "https://image.xinu.ink/pic/data/6448/images/6448-56.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.4542535,
+        139.6361217
+      ]
+    }
+  ]
+}

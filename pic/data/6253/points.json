@@ -1,0 +1,34 @@
+{
+  "points": [
+    {
+      "id": "6253-1",
+      "name": "セブン-イレブン 春日桜ヶ丘４丁目店",
+      "image": "https://image.xinu.ink/pic/data/6253/images/6253-1.jpg",
+      "ep": "2",
+      "geo": [
+        33.54399,
+        130.44798
+      ]
+    },
+    {
+      "id": "6253-2",
+      "name": "桜ヶ丘広場公園",
+      "image": "https://image.xinu.ink/pic/data/6253/images/6253-2.jpg",
+      "ep": "2",
+      "geo": [
+        33.54652,
+        130.45077
+      ]
+    },
+    {
+      "id": "6253-3",
+      "name": "｀｀ラーメン (てんてん)",
+      "image": "https://image.xinu.ink/pic/data/6253/images/6253-3.jpg",
+      "ep": "6",
+      "geo": [
+        33.55231,
+        130.44645
+      ]
+    }
+  ]
+}

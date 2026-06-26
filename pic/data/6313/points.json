@@ -1,0 +1,364 @@
+{
+  "points": [
+    {
+      "id": "6313-1",
+      "name": "定林寺",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-1.jpg",
+      "ep": "OP1",
+      "geo": [
+        36.0056,
+        139.08418
+      ]
+    },
+    {
+      "id": "6313-2",
+      "name": "羊山公園",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-2.jpg",
+      "ep": "OP1",
+      "geo": [
+        35.99011,
+        139.0901
+      ]
+    },
+    {
+      "id": "6313-3",
+      "name": "旧秩父橋",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-3.jpg",
+      "ep": "OP1",
+      "geo": [
+        36.01856,
+        139.08644
+      ]
+    },
+    {
+      "id": "6313-4",
+      "name": "大嶋造園",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-4.jpg",
+      "ep": "1",
+      "geo": [
+        36.00386,
+        139.08489
+      ]
+    },
+    {
+      "id": "6313-5",
+      "name": "ドラッグストアセキ 秩父店",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-5.jpg",
+      "ep": "1",
+      "geo": [
+        36.0001,
+        139.08438
+      ]
+    },
+    {
+      "id": "6313-6",
+      "name": "秩父まつり会館",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-6.jpg",
+      "ep": "1",
+      "geo": [
+        35.9972,
+        139.08541
+      ]
+    },
+    {
+      "id": "6313-7",
+      "name": "ベニヤ 桜木店",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-7.jpg",
+      "ep": "1",
+      "geo": [
+        36.00081,
+        139.08479
+      ]
+    },
+    {
+      "id": "6313-8",
+      "name": "四方田ガラス店",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-8.jpg",
+      "ep": "1",
+      "geo": [
+        36.0003,
+        139.08539
+      ]
+    },
+    {
+      "id": "6313-9",
+      "name": "浅賀ちょうちん店",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-9.jpg",
+      "ep": "1",
+      "geo": [
+        35.99952,
+        139.08407
+      ]
+    },
+    {
+      "id": "6313-10",
+      "name": "芝桜の丘",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-10.jpg",
+      "ep": "2",
+      "geo": [
+        35.98107,
+        139.08875
+      ]
+    },
+    {
+      "id": "6313-11",
+      "name": "コインランドリーデポ秩父日野田店",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-11.jpg",
+      "ep": "2",
+      "geo": [
+        35.98537,
+        139.08216
+      ]
+    },
+    {
+      "id": "6313-12",
+      "name": "小さな夢のおもちゃ箱 たつみや",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-12.jpg",
+      "ep": "2",
+      "geo": [
+        35.99925,
+        139.08383
+      ]
+    },
+    {
+      "id": "6313-13",
+      "name": "ほっとすぽっと秩父館",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-13.jpg",
+      "ep": "2",
+      "geo": [
+        35.99877,
+        139.08348
+      ]
+    },
+    {
+      "id": "6313-14",
+      "name": "スナックMIYUKI",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-14.jpg",
+      "ep": "2",
+      "geo": [
+        35.9954,
+        139.08465
+      ]
+    },
+    {
+      "id": "6313-15",
+      "name": "プランタン",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-15.jpg",
+      "ep": "3",
+      "geo": [
+        36.00471,
+        139.08389
+      ]
+    },
+    {
+      "id": "6313-16",
+      "name": "秩父市第一弓道場付近",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-16.jpg",
+      "ep": "3",
+      "geo": [
+        36.01279,
+        139.08856
+      ]
+    },
+    {
+      "id": "6313-17",
+      "name": "ウニクス秩父",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-17.jpg",
+      "ep": "3",
+      "geo": [
+        35.99587,
+        139.08859
+      ]
+    },
+    {
+      "id": "6313-18",
+      "name": "近亀時計店",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-18.jpg",
+      "ep": "3",
+      "geo": [
+        35.99472,
+        139.08115
+      ]
+    },
+    {
+      "id": "6313-19",
+      "name": "矢尾百貨店",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-19.jpg",
+      "ep": "3",
+      "geo": [
+        35.99293,
+        139.07998
+      ]
+    },
+    {
+      "id": "6313-20",
+      "name": "八幡屋本店",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-20.jpg",
+      "ep": "4",
+      "geo": [
+        35.99636,
+        139.08409
+      ]
+    },
+    {
+      "id": "6313-21",
+      "name": "秩父神社",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-21.jpg",
+      "ep": "4",
+      "geo": [
+        35.99658,
+        139.08416
+      ]
+    },
+    {
+      "id": "6313-22",
+      "name": "モンマートいのうえ",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-22.jpg",
+      "ep": "5",
+      "geo": [
+        35.99452,
+        139.08848
+      ]
+    },
+    {
+      "id": "6313-23",
+      "name": "飯能駅",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-23.jpg",
+      "ep": "5",
+      "geo": [
+        35.85103,
+        139.31929
+      ]
+    },
+    {
+      "id": "6313-24",
+      "name": "コスタリゾート飯能",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-24.jpg",
+      "ep": "5",
+      "geo": [
+        35.85367,
+        139.32148
+      ]
+    },
+    {
+      "id": "6313-25",
+      "name": "西武秩父駅",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-25.jpg",
+      "ep": "7",
+      "geo": [
+        35.98969,
+        139.08349
+      ]
+    },
+    {
+      "id": "6313-26",
+      "name": "秩父市相生町郵政宿舎",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-26.jpg",
+      "ep": "7",
+      "geo": [
+        36.00457,
+        139.08527
+      ]
+    },
+    {
+      "id": "6313-27",
+      "name": "ベルク 東町店",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-27.jpg",
+      "ep": "7",
+      "geo": [
+        35.99348,
+        139.08344
+      ]
+    },
+    {
+      "id": "6313-28",
+      "name": "パティスリー ルリアン付近",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-28.jpg",
+      "ep": "7",
+      "geo": [
+        36.00482,
+        139.08324
+      ]
+    },
+    {
+      "id": "6313-29",
+      "name": "大宮児童公園",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-29.jpg",
+      "ep": "8",
+      "geo": [
+        36.0003,
+        139.08557
+      ]
+    },
+    {
+      "id": "6313-30",
+      "name": "けやき公園",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-30.jpg",
+      "ep": "9",
+      "geo": [
+        36.00621,
+        139.08517
+      ]
+    },
+    {
+      "id": "6313-31",
+      "name": "ＣＰコスメティクス取扱店ＣＰウィズ桜木サロン",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-31.jpg",
+      "ep": "9",
+      "geo": [
+        36.00477,
+        139.08413
+      ]
+    },
+    {
+      "id": "6313-32",
+      "name": "秩父橋",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-32.jpg",
+      "ep": "10",
+      "geo": [
+        36.01822,
+        139.08598
+      ]
+    },
+    {
+      "id": "6313-33",
+      "name": "秩父第一病院",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-33.jpg",
+      "ep": "10",
+      "geo": [
+        35.9951,
+        139.07605
+      ]
+    },
+    {
+      "id": "6313-34",
+      "name": "龍勢櫓",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-34.jpg",
+      "ep": "10",
+      "geo": [
+        36.04698,
+        139.03106
+      ]
+    },
+    {
+      "id": "6313-35",
+      "name": "椋神社",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-35.jpg",
+      "ep": "11",
+      "geo": [
+        36.04551,
+        139.03276
+      ]
+    },
+    {
+      "id": "6313-36",
+      "name": "あらいや酒店付近",
+      "image": "https://image.xinu.ink/pic/data/6313/images/6313-36.jpg",
+      "ep": "11",
+      "geo": [
+        36.01744,
+        139.09019
+      ]
+    }
+  ]
+}

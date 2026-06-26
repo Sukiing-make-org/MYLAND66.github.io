@@ -1,0 +1,284 @@
+{
+  "points": [
+    {
+      "id": "6381-1",
+      "name": "恵比寿ガーデンプレイス",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-1.jpg",
+      "ep": "OP",
+      "geo": [
+        35.643,
+        139.71318
+      ]
+    },
+    {
+      "id": "6381-2",
+      "name": "神田駅第2駐輪場",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-2.jpg",
+      "ep": "OP",
+      "geo": [
+        35.69326,
+        139.77156
+      ]
+    },
+    {
+      "id": "6381-3",
+      "name": "豆富食堂",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-3.jpg",
+      "ep": "OP",
+      "geo": [
+        35.64926,
+        139.70853
+      ]
+    },
+    {
+      "id": "6381-4",
+      "name": "月山",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-4.jpg",
+      "ep": "1",
+      "geo": [
+        35.87974,
+        139.45791
+      ]
+    },
+    {
+      "id": "6381-5",
+      "name": "丸子橋",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.58568,
+        139.66963
+      ]
+    },
+    {
+      "id": "6381-6",
+      "name": "パシフィコ横浜 バス・大型車駐車場",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-6.jpg",
+      "ep": "3",
+      "geo": [
+        35.46286,
+        139.63529
+      ]
+    },
+    {
+      "id": "6381-7",
+      "name": "臨港パーク南口トイレ",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-7.jpg",
+      "ep": "3",
+      "geo": [
+        35.46028,
+        139.63727
+      ]
+    },
+    {
+      "id": "6381-8",
+      "name": "江東区立 竪川河川敷公園",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-8.jpg",
+      "ep": "4",
+      "geo": [
+        35.69423,
+        139.83638
+      ]
+    },
+    {
+      "id": "6381-9",
+      "name": "渋谷橋",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-9.jpg",
+      "ep": "4",
+      "geo": [
+        35.64903,
+        139.71133
+      ]
+    },
+    {
+      "id": "6381-10",
+      "name": "デニーズ渋谷公園通り店",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-10.jpg",
+      "ep": "4",
+      "geo": [
+        35.66304,
+        139.69949
+      ]
+    },
+    {
+      "id": "6381-11",
+      "name": "珈琲専門館 伯爵 池袋東口店",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-11.jpg",
+      "ep": "5",
+      "geo": [
+        35.72732,
+        139.71176
+      ]
+    },
+    {
+      "id": "6381-12",
+      "name": "山下公園",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-12.jpg",
+      "ep": "5",
+      "geo": [
+        35.4463,
+        139.6497
+      ]
+    },
+    {
+      "id": "6381-13",
+      "name": "国際連合大学",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-13.jpg",
+      "ep": "9",
+      "geo": [
+        35.66184,
+        139.70846
+      ]
+    },
+    {
+      "id": "6381-14",
+      "name": "乃木神社",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-14.jpg",
+      "ep": "10",
+      "geo": [
+        35.66875,
+        139.72797
+      ]
+    },
+    {
+      "id": "6381-15",
+      "name": "乃木公園",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-15.jpg",
+      "ep": "10",
+      "geo": [
+        35.66807,
+        139.72766
+      ]
+    },
+    {
+      "id": "6381-16",
+      "name": "ジーユー 渋谷店",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-16.jpg",
+      "ep": "10",
+      "geo": [
+        35.66083,
+        139.69753
+      ]
+    },
+    {
+      "id": "6381-17",
+      "name": "吉野家 原宿竹下口店",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-17.jpg",
+      "ep": "10",
+      "geo": [
+        35.67158,
+        139.70309
+      ]
+    },
+    {
+      "id": "6381-18",
+      "name": "渋谷センター街",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-18.jpg",
+      "ep": "10",
+      "geo": [
+        35.6602,
+        139.69915
+      ]
+    },
+    {
+      "id": "6381-19",
+      "name": "檜町公園",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-19.jpg",
+      "ep": "10",
+      "geo": [
+        35.66736,
+        139.73265
+      ]
+    },
+    {
+      "id": "6381-20",
+      "name": "Jungumae Court",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-20.jpg",
+      "ep": "10",
+      "geo": [
+        35.66957,
+        139.70876
+      ]
+    },
+    {
+      "id": "6381-21",
+      "name": "おかき処 寺子屋本舗 川崎大師店",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-21.jpg",
+      "ep": "10",
+      "geo": [
+        35.53457,
+        139.73074
+      ]
+    },
+    {
+      "id": "6381-22",
+      "name": "大山門",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-22.jpg",
+      "ep": "10",
+      "geo": [
+        35.5346,
+        139.73014
+      ]
+    },
+    {
+      "id": "6381-23",
+      "name": "川崎大師 平間寺",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-23.jpg",
+      "ep": "10",
+      "geo": [
+        35.53472,
+        139.72984
+      ]
+    },
+    {
+      "id": "6381-24",
+      "name": "海ほたるPA",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-24.jpg",
+      "ep": "10",
+      "geo": [
+        35.46395,
+        139.87473
+      ]
+    },
+    {
+      "id": "6381-25",
+      "name": "見次公園",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-25.jpg",
+      "ep": "12",
+      "geo": [
+        35.7721,
+        139.69343
+      ]
+    },
+    {
+      "id": "6381-26",
+      "name": "ファミリーマート 渋谷道玄坂店",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-26.jpg",
+      "ep": "13",
+      "geo": [
+        35.65691,
+        139.69585
+      ]
+    },
+    {
+      "id": "6381-27",
+      "name": "FabCafe Tokyo",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-27.jpg",
+      "ep": "13",
+      "geo": [
+        35.65604,
+        139.69562
+      ]
+    },
+    {
+      "id": "6381-28",
+      "name": "SHIBUYA REX",
+      "image": "https://image.xinu.ink/pic/data/6381/images/6381-28.jpg",
+      "ep": "13",
+      "geo": [
+        35.65733,
+        139.69695
+      ]
+    }
+  ]
+}

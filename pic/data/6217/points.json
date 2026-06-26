@@ -1,0 +1,474 @@
+{
+  "points": [
+    {
+      "id": "6217-1",
+      "name": "笠松競馬場第二駐車場",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-1.jpg",
+      "ep": "OP",
+      "geo": [
+        35.36827,
+        136.76633
+      ]
+    },
+    {
+      "id": "6217-2",
+      "name": "福證寺",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-2.jpg",
+      "ep": "OP",
+      "geo": [
+        35.36723,
+        136.76449
+      ]
+    },
+    {
+      "id": "6217-3",
+      "name": "金華山展望台",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-3.jpg",
+      "ep": "OP",
+      "geo": [
+        35.43244,
+        136.78064
+      ]
+    },
+    {
+      "id": "6217-4",
+      "name": "笠松町サイクリングロード",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-4.jpg",
+      "ep": "1",
+      "geo": [
+        35.36972,
+        136.76714
+      ]
+    },
+    {
+      "id": "6217-5",
+      "name": "笠松駅",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.37393,
+        136.7637
+      ]
+    },
+    {
+      "id": "6217-6",
+      "name": "笠松みなと公園",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-6.jpg",
+      "ep": "1",
+      "geo": [
+        35.36607,
+        136.7647
+      ]
+    },
+    {
+      "id": "6217-7",
+      "name": "岐阜工業高校前",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-7.jpg",
+      "ep": "2",
+      "geo": [
+        35.37489,
+        136.76151
+      ]
+    },
+    {
+      "id": "6217-8",
+      "name": "カラフルタウン 岐阜",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-8.jpg",
+      "ep": "3",
+      "geo": [
+        35.36214,
+        136.72865
+      ]
+    },
+    {
+      "id": "6217-9",
+      "name": "福泰厨房 カラフルタウン岐阜店",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-9.jpg",
+      "ep": "3",
+      "geo": [
+        35.36266,
+        136.72875
+      ]
+    },
+    {
+      "id": "6217-10",
+      "name": "スポーツデポ カラフルタウン岐阜店",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-10.jpg",
+      "ep": "3",
+      "geo": [
+        35.36214,
+        136.72889
+      ]
+    },
+    {
+      "id": "6217-11",
+      "name": "カフェ・イル・ファンティーノ",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-11.jpg",
+      "ep": "3",
+      "geo": [
+        35.37262,
+        136.76571
+      ]
+    },
+    {
+      "id": "6217-12",
+      "name": "大手道(七曲り登山道)",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-12.jpg",
+      "ep": "3",
+      "geo": [
+        35.43125,
+        136.77934
+      ]
+    },
+    {
+      "id": "6217-13",
+      "name": "金華山展望レストラン ル・ポン・ドゥ・シェル",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-13.jpg",
+      "ep": "3",
+      "geo": [
+        35.43242,
+        136.78078
+      ]
+    },
+    {
+      "id": "6217-14",
+      "name": "丸金食堂",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-14.jpg",
+      "ep": "3",
+      "geo": [
+        35.37274,
+        136.76593
+      ]
+    },
+    {
+      "id": "6217-15",
+      "name": "Hair Salon Smart",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-15.jpg",
+      "ep": "4",
+      "geo": [
+        35.37421,
+        136.76404
+      ]
+    },
+    {
+      "id": "6217-16",
+      "name": "ニューヤマザキデイリーストア 岐阜本荘店",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-16.jpg",
+      "ep": "4",
+      "geo": [
+        35.41314,
+        136.73885
+      ]
+    },
+    {
+      "id": "6217-17",
+      "name": "中京競馬場西入場門",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-17.jpg",
+      "ep": "5",
+      "geo": [
+        35.06523,
+        136.98687
+      ]
+    },
+    {
+      "id": "6217-18",
+      "name": "京都競馬場",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-18.jpg",
+      "ep": "5",
+      "geo": [
+        34.90841,
+        135.7256
+      ]
+    },
+    {
+      "id": "6217-19",
+      "name": "中京競馬場",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-19.jpg",
+      "ep": "5",
+      "geo": [
+        35.06614,
+        136.98934
+      ]
+    },
+    {
+      "id": "6217-20",
+      "name": "阪神競馬場",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-20.jpg",
+      "ep": "5",
+      "geo": [
+        34.77972,
+        135.36038
+      ]
+    },
+    {
+      "id": "6217-21",
+      "name": "笠松競馬場",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-21.jpg",
+      "ep": "6",
+      "geo": [
+        35.37288,
+        136.76658
+      ]
+    },
+    {
+      "id": "6217-22",
+      "name": "府中駅",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-22.jpg",
+      "ep": "7",
+      "geo": [
+        35.67184,
+        139.4804
+      ]
+    },
+    {
+      "id": "6217-23",
+      "name": "阪神競馬場 パドック",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-23.jpg",
+      "ep": "7",
+      "geo": [
+        34.77842,
+        135.36084
+      ]
+    },
+    {
+      "id": "6217-24",
+      "name": "ジョイフル岐阜柳津店",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-24.jpg",
+      "ep": "7",
+      "geo": [
+        35.36802,
+        136.74503
+      ]
+    },
+    {
+      "id": "6217-25",
+      "name": "正門（東京競馬場）",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-25.jpg",
+      "ep": "8",
+      "geo": [
+        35.66627,
+        139.48456
+      ]
+    },
+    {
+      "id": "6217-26",
+      "name": "理容ナガツカ",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-26.jpg",
+      "ep": "9",
+      "geo": [
+        35.66998,
+        139.48019
+      ]
+    },
+    {
+      "id": "6217-27",
+      "name": "大鳥居（大國魂神社）",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-27.jpg",
+      "ep": "9",
+      "geo": [
+        35.66999,
+        139.47912
+      ]
+    },
+    {
+      "id": "6217-28",
+      "name": "東京競馬場",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-28.jpg",
+      "ep": "9",
+      "geo": [
+        35.66448,
+        139.48304
+      ]
+    },
+    {
+      "id": "6217-29",
+      "name": "サンライトウォーク",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-29.jpg",
+      "ep": "10",
+      "geo": [
+        34.77739,
+        135.35808
+      ]
+    },
+    {
+      "id": "6217-30",
+      "name": "竹下通り 入口アーチ（原宿駅側）",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-30.jpg",
+      "ep": "10",
+      "geo": [
+        35.67156,
+        139.70316
+      ]
+    },
+    {
+      "id": "6217-31",
+      "name": "クロッカンシューザクザク",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-31.jpg",
+      "ep": "10",
+      "geo": [
+        35.67092,
+        139.70537
+      ]
+    },
+    {
+      "id": "6217-32",
+      "name": "サンタモニカクレープ",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-32.jpg",
+      "ep": "10",
+      "geo": [
+        35.67105,
+        139.7051
+      ]
+    },
+    {
+      "id": "6217-33",
+      "name": "LONG! LONGER!! LONGEST!!!",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-33.jpg",
+      "ep": "10",
+      "geo": [
+        35.67084,
+        139.70526
+      ]
+    },
+    {
+      "id": "6217-34",
+      "name": "ゼッテリア 原宿竹下通りイースト",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-34.jpg",
+      "ep": "10",
+      "geo": [
+        35.67034,
+        139.70639
+      ]
+    },
+    {
+      "id": "6217-35",
+      "name": "カマロカンジョン 原宿2号店",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-35.jpg",
+      "ep": "10",
+      "geo": [
+        35.67138,
+        139.70417
+      ]
+    },
+    {
+      "id": "6217-36",
+      "name": "原宿チュロス",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-36.jpg",
+      "ep": "10",
+      "geo": [
+        35.67151,
+        139.70338
+      ]
+    },
+    {
+      "id": "6217-37",
+      "name": "CAFÉ 杜のテラス",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-37.jpg",
+      "ep": "10",
+      "geo": [
+        35.66982,
+        139.70177
+      ]
+    },
+    {
+      "id": "6217-38",
+      "name": "神宮橋",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-38.jpg",
+      "ep": "10",
+      "geo": [
+        35.66973,
+        139.70251
+      ]
+    },
+    {
+      "id": "6217-39",
+      "name": "東京競馬場パドック",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-39.jpg",
+      "ep": "11",
+      "geo": [
+        35.66584,
+        139.48321
+      ]
+    },
+    {
+      "id": "6217-40",
+      "name": "函館競馬場",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-40.jpg",
+      "ep": "11",
+      "geo": [
+        41.78239,
+        140.77577
+      ]
+    },
+    {
+      "id": "6217-41",
+      "name": "武蔵府中ル・シーニュ",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-41.jpg",
+      "ep": "11",
+      "geo": [
+        35.67148,
+        139.47928
+      ]
+    },
+    {
+      "id": "6217-42",
+      "name": "オークラ東京",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-42.jpg",
+      "ep": "11",
+      "geo": [
+        35.66715,
+        139.7438
+      ]
+    },
+    {
+      "id": "6217-43",
+      "name": "笠松競馬場",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-43.jpg",
+      "ep": "12",
+      "geo": [
+        35.37236,
+        136.76474
+      ]
+    },
+    {
+      "id": "6217-44",
+      "name": "笠松駅",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-44.jpg",
+      "ep": "12",
+      "geo": [
+        35.37332,
+        136.76457
+      ]
+    },
+    {
+      "id": "6217-45",
+      "name": "東京競馬場",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-45.jpg",
+      "ep": "12",
+      "geo": [
+        35.66496,
+        139.4854
+      ]
+    },
+    {
+      "id": "6217-46",
+      "name": "東京競馬場",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-46.jpg",
+      "ep": "13",
+      "geo": [
+        35.66443,
+        139.48307
+      ]
+    },
+    {
+      "id": "6217-47",
+      "name": "東京競馬場",
+      "image": "https://image.xinu.ink/pic/data/6217/images/6217-47.jpg",
+      "ep": "13",
+      "geo": [
+        35.66489,
+        139.48354
+      ]
+    }
+  ]
+}

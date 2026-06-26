@@ -1,0 +1,404 @@
+{
+  "points": [
+    {
+      "id": "6235-1",
+      "name": "モンスーンカフェ 自由が丘",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-1.jpg",
+      "ep": "OP",
+      "geo": [
+        35.60895,
+        139.66921
+      ]
+    },
+    {
+      "id": "6235-2",
+      "name": "日本赤十字社医療センター",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-2.jpg",
+      "ep": "OP",
+      "geo": [
+        35.654,
+        139.71725
+      ]
+    },
+    {
+      "id": "6235-3",
+      "name": "広尾湯 コインランドリー",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-3.jpg",
+      "ep": "1",
+      "geo": [
+        35.65062,
+        139.7218
+      ]
+    },
+    {
+      "id": "6235-4",
+      "name": "広尾駅",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-4.jpg",
+      "ep": "1",
+      "geo": [
+        35.65088,
+        139.72218
+      ]
+    },
+    {
+      "id": "6235-5",
+      "name": "マルシェドブルーエプリュス",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.60932,
+        139.66865
+      ]
+    },
+    {
+      "id": "6235-6",
+      "name": "タイムズ自由が丘第１１",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-6.jpg",
+      "ep": "1",
+      "geo": [
+        35.60898,
+        139.66884
+      ]
+    },
+    {
+      "id": "6235-7",
+      "name": "モンスーンカフェ 自由が丘",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-7.jpg",
+      "ep": "1",
+      "geo": [
+        35.60891,
+        139.66935
+      ]
+    },
+    {
+      "id": "6235-8",
+      "name": "自由が丘駅",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-8.jpg",
+      "ep": "1",
+      "geo": [
+        35.6078,
+        139.66896
+      ]
+    },
+    {
+      "id": "6235-9",
+      "name": "自由が丘デパート",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-9.jpg",
+      "ep": "1",
+      "geo": [
+        35.60811,
+        139.66884
+      ]
+    },
+    {
+      "id": "6235-10",
+      "name": "自由が丘駅",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-10.jpg",
+      "ep": "1",
+      "geo": [
+        35.60735,
+        139.66862
+      ]
+    },
+    {
+      "id": "6235-11",
+      "name": "町田石材店",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-11.jpg",
+      "ep": "2",
+      "geo": [
+        35.65025,
+        139.72085
+      ]
+    },
+    {
+      "id": "6235-12",
+      "name": "茅ヶ崎市立図書館",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-12.jpg",
+      "ep": "3",
+      "geo": [
+        35.3265,
+        139.40563
+      ]
+    },
+    {
+      "id": "6235-13",
+      "name": "Breakfast \\u0026 Brunch Jade5",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-13.jpg",
+      "ep": "4",
+      "geo": [
+        35.64943,
+        139.72053
+      ]
+    },
+    {
+      "id": "6235-14",
+      "name": "LOLO Cafe",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-14.jpg",
+      "ep": "4",
+      "geo": [
+        34.71271,
+        137.73627
+      ]
+    },
+    {
+      "id": "6235-15",
+      "name": "GSハイム広尾",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-15.jpg",
+      "ep": "5",
+      "geo": [
+        35.6503,
+        139.71879
+      ]
+    },
+    {
+      "id": "6235-16",
+      "name": "自由が丘駅",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-16.jpg",
+      "ep": "5",
+      "geo": [
+        35.60757,
+        139.66871
+      ]
+    },
+    {
+      "id": "6235-17",
+      "name": "広尾北公園",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-17.jpg",
+      "ep": "5",
+      "geo": [
+        35.65625,
+        139.72004
+      ]
+    },
+    {
+      "id": "6235-18",
+      "name": "広尾北公園",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-18.jpg",
+      "ep": "6",
+      "geo": [
+        35.6561,
+        139.72081
+      ]
+    },
+    {
+      "id": "6235-19",
+      "name": "笄公園",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-19.jpg",
+      "ep": "6",
+      "geo": [
+        35.65651,
+        139.72442
+      ]
+    },
+    {
+      "id": "6235-20",
+      "name": "ジョナサン 日本橋浜町店",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-20.jpg",
+      "ep": "7",
+      "geo": [
+        35.68884,
+        139.78548
+      ]
+    },
+    {
+      "id": "6235-21",
+      "name": "花小金井駅",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-21.jpg",
+      "ep": "7",
+      "geo": [
+        35.72615,
+        139.51327
+      ]
+    },
+    {
+      "id": "6235-22",
+      "name": "タロー軒",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-22.jpg",
+      "ep": "8",
+      "geo": [
+        35.69871,
+        139.6493
+      ]
+    },
+    {
+      "id": "6235-23",
+      "name": "DEGUSTATION",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-23.jpg",
+      "ep": "8",
+      "geo": [
+        35.64085,
+        139.60194
+      ]
+    },
+    {
+      "id": "6235-24",
+      "name": "品川駅",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-24.jpg",
+      "ep": "8",
+      "geo": [
+        35.62848,
+        139.73862
+      ]
+    },
+    {
+      "id": "6235-25",
+      "name": "マクセル アクアパーク 品川",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-25.jpg",
+      "ep": "8",
+      "geo": [
+        35.62794,
+        139.73509
+      ]
+    },
+    {
+      "id": "6235-26",
+      "name": "マクセル アクアパーク 品川",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-26.jpg",
+      "ep": "8",
+      "geo": [
+        35.62804,
+        139.73529
+      ]
+    },
+    {
+      "id": "6235-27",
+      "name": "マクセル アクアパーク 品川",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-27.jpg",
+      "ep": "8",
+      "geo": [
+        35.62789,
+        139.73494
+      ]
+    },
+    {
+      "id": "6235-28",
+      "name": "マクセル アクアパーク 品川",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-28.jpg",
+      "ep": "8",
+      "geo": [
+        35.62785,
+        139.73496
+      ]
+    },
+    {
+      "id": "6235-29",
+      "name": "HERBE自由が丘店",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-29.jpg",
+      "ep": "9",
+      "geo": [
+        35.60899,
+        139.66941
+      ]
+    },
+    {
+      "id": "6235-30",
+      "name": "86番 ルカズキッチン",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-30.jpg",
+      "ep": "10",
+      "geo": [
+        35.65951,
+        139.72302
+      ]
+    },
+    {
+      "id": "6235-31",
+      "name": "ホブソンズ 西麻布店",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-31.jpg",
+      "ep": "10",
+      "geo": [
+        35.65949,
+        139.7234
+      ]
+    },
+    {
+      "id": "6235-32",
+      "name": "板橋区立向屋敷公園",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-32.jpg",
+      "ep": "11",
+      "geo": [
+        35.75814,
+        139.69048
+      ]
+    },
+    {
+      "id": "6235-33",
+      "name": "ときわ台駅",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-33.jpg",
+      "ep": "11",
+      "geo": [
+        35.75885,
+        139.6894
+      ]
+    },
+    {
+      "id": "6235-34",
+      "name": "七里ヶ浜駅",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-34.jpg",
+      "ep": "12",
+      "geo": [
+        35.30626,
+        139.51036
+      ]
+    },
+    {
+      "id": "6235-35",
+      "name": "サンドイッチ専門店 Sand House",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-35.jpg",
+      "ep": "12",
+      "geo": [
+        33.5578,
+        133.53214
+      ]
+    },
+    {
+      "id": "6235-36",
+      "name": "はらドーナッツ 天三店",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-36.jpg",
+      "ep": "12",
+      "geo": [
+        34.70268,
+        135.51172
+      ]
+    },
+    {
+      "id": "6235-37",
+      "name": "七里ヶ浜駅",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-37.jpg",
+      "ep": "12",
+      "geo": [
+        35.30615,
+        139.50999
+      ]
+    },
+    {
+      "id": "6235-38",
+      "name": "七里ヶ浜",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-38.jpg",
+      "ep": "12",
+      "geo": [
+        35.30517,
+        139.51011
+      ]
+    },
+    {
+      "id": "6235-39",
+      "name": "自由が丘デパート",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-39.jpg",
+      "ep": "12",
+      "geo": [
+        35.60833,
+        139.669
+      ]
+    },
+    {
+      "id": "6235-40",
+      "name": "サンリキ",
+      "image": "https://image.xinu.ink/pic/data/6235/images/6235-40.jpg",
+      "ep": "13",
+      "geo": [
+        35.60858,
+        139.66932
+      ]
+    }
+  ]
+}

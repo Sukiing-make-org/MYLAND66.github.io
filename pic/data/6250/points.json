@@ -1,0 +1,544 @@
+{
+  "points": [
+    {
+      "id": "6250-1",
+      "name": "朝潮橋",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-1.jpg",
+      "ep": "OP1",
+      "geo": [
+        35.660313,
+        139.784822
+      ]
+    },
+    {
+      "id": "6250-2",
+      "name": "住吉小橋",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-2.jpg",
+      "ep": "OP1",
+      "geo": [
+        35.668504,
+        139.782589
+      ]
+    },
+    {
+      "id": "6250-3",
+      "name": "そば処 のぶ庵",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-3.jpg",
+      "ep": "OP1",
+      "geo": [
+        35.664422,
+        139.781563
+      ]
+    },
+    {
+      "id": "6250-4",
+      "name": "ファミリーマート 月島三丁目店",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-4.jpg",
+      "ep": "OP1",
+      "geo": [
+        35.660949,
+        139.777973
+      ]
+    },
+    {
+      "id": "6250-5",
+      "name": "第２鹿島酒店",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-5.jpg",
+      "ep": "OP1",
+      "geo": [
+        35.665647,
+        139.786128
+      ]
+    },
+    {
+      "id": "6250-6",
+      "name": "朝潮橋",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-6.jpg",
+      "ep": "OP1",
+      "geo": [
+        35.660849,
+        139.784302
+      ]
+    },
+    {
+      "id": "6250-7",
+      "name": "越前堀薬局本店",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-7.jpg",
+      "ep": "1",
+      "geo": [
+        35.675064,
+        139.781447
+      ]
+    },
+    {
+      "id": "6250-8",
+      "name": "中央大橋",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-8.jpg",
+      "ep": "1",
+      "geo": [
+        35.67057,
+        139.783905
+      ]
+    },
+    {
+      "id": "6250-9",
+      "name": "佃小橋",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-9.jpg",
+      "ep": "1",
+      "geo": [
+        35.667265,
+        139.783483
+      ]
+    },
+    {
+      "id": "6250-10",
+      "name": "箱根湯本駅",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-10.jpg",
+      "ep": "2",
+      "geo": [
+        35.233728,
+        139.104656
+      ]
+    },
+    {
+      "id": "6250-11",
+      "name": "湯本富士屋ホテル",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-11.jpg",
+      "ep": "2",
+      "geo": [
+        35.232343,
+        139.104697
+      ]
+    },
+    {
+      "id": "6250-12",
+      "name": "佃小橋",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-12.jpg",
+      "ep": "3",
+      "geo": [
+        35.667064,
+        139.783388
+      ]
+    },
+    {
+      "id": "6250-13",
+      "name": "佃公園",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-13.jpg",
+      "ep": "3",
+      "geo": [
+        35.666799,
+        139.782719
+      ]
+    },
+    {
+      "id": "6250-14",
+      "name": "日本将棋連盟本部 将棋会館",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-14.jpg",
+      "ep": "3",
+      "geo": [
+        35.677489,
+        139.709423
+      ]
+    },
+    {
+      "id": "6250-15",
+      "name": "中央大橋",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-15.jpg",
+      "ep": "3",
+      "geo": [
+        35.671912,
+        139.784283
+      ]
+    },
+    {
+      "id": "6250-16",
+      "name": "佃屋酒店",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-16.jpg",
+      "ep": "4",
+      "geo": [
+        35.667623,
+        139.782575
+      ]
+    },
+    {
+      "id": "6250-17",
+      "name": "佃まちかど展示館",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-17.jpg",
+      "ep": "4",
+      "geo": [
+        35.667883,
+        139.782347
+      ]
+    },
+    {
+      "id": "6250-18",
+      "name": "美食腸食ブリオン",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-18.jpg",
+      "ep": "4",
+      "geo": [
+        35.668339,
+        139.782459
+      ]
+    },
+    {
+      "id": "6250-19",
+      "name": "佃まちかど展示館",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-19.jpg",
+      "ep": "4",
+      "geo": [
+        35.667667,
+        139.782007
+      ]
+    },
+    {
+      "id": "6250-20",
+      "name": "佃大橋",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-20.jpg",
+      "ep": "4",
+      "geo": [
+        35.666726,
+        139.781676
+      ]
+    },
+    {
+      "id": "6250-21",
+      "name": "練馬区立光が丘図書館",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-21.jpg",
+      "ep": "4",
+      "geo": [
+        35.763309,
+        139.629737
+      ]
+    },
+    {
+      "id": "6250-22",
+      "name": "石川島記念病院",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-22.jpg",
+      "ep": "5",
+      "geo": [
+        35.668026,
+        139.785281
+      ]
+    },
+    {
+      "id": "6250-23",
+      "name": "浅草花やしき",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-23.jpg",
+      "ep": "5",
+      "geo": [
+        35.715536,
+        139.794518
+      ]
+    },
+    {
+      "id": "6250-24",
+      "name": "中央大橋",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-24.jpg",
+      "ep": "7",
+      "geo": [
+        35.672566,
+        139.7837
+      ]
+    },
+    {
+      "id": "6250-25",
+      "name": "月島駅",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-25.jpg",
+      "ep": "7",
+      "geo": [
+        35.663627,
+        139.783704
+      ]
+    },
+    {
+      "id": "6250-26",
+      "name": "千駄ヶ谷厨房",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-26.jpg",
+      "ep": "8",
+      "geo": [
+        35.678638,
+        139.710151
+      ]
+    },
+    {
+      "id": "6250-27",
+      "name": "関西将棋会館",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-27.jpg",
+      "ep": "9",
+      "geo": [
+        34.698894,
+        135.487258
+      ]
+    },
+    {
+      "id": "6250-28",
+      "name": "ジャンカラ JR福島店",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-28.jpg",
+      "ep": "9",
+      "geo": [
+        34.698571,
+        135.487088
+      ]
+    },
+    {
+      "id": "6250-29",
+      "name": "関西将棋会館",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-29.jpg",
+      "ep": "9",
+      "geo": [
+        34.698945,
+        135.48698
+      ]
+    },
+    {
+      "id": "6250-30",
+      "name": "Mの焼肉 福島本店",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-30.jpg",
+      "ep": "9",
+      "geo": [
+        34.698424,
+        135.487213
+      ]
+    },
+    {
+      "id": "6250-31",
+      "name": "京都駅烏丸口 一般タクシーのりば",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-31.jpg",
+      "ep": "9",
+      "geo": [
+        34.98644,
+        135.759827
+      ]
+    },
+    {
+      "id": "6250-32",
+      "name": "染殿院",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-32.jpg",
+      "ep": "9",
+      "geo": [
+        35.003941,
+        135.767191
+      ]
+    },
+    {
+      "id": "6250-33",
+      "name": "カードプロ 京都店",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-33.jpg",
+      "ep": "9",
+      "geo": [
+        35.005763,
+        135.767167
+      ]
+    },
+    {
+      "id": "6250-34",
+      "name": "杢目金屋 京都店",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-34.jpg",
+      "ep": "9",
+      "geo": [
+        35.003872,
+        135.769852
+      ]
+    },
+    {
+      "id": "6250-35",
+      "name": "しじょうはし",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-35.jpg",
+      "ep": "9",
+      "geo": [
+        35.00387,
+        135.771513
+      ]
+    },
+    {
+      "id": "6250-36",
+      "name": "とらふぐ茶屋 山福",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-36.jpg",
+      "ep": "9",
+      "geo": [
+        35.005578,
+        135.772004
+      ]
+    },
+    {
+      "id": "6250-37",
+      "name": "於咲稲荷神社、浪除稲荷神社",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-37.jpg",
+      "ep": "10",
+      "geo": [
+        35.66675,
+        139.783198
+      ]
+    },
+    {
+      "id": "6250-38",
+      "name": "美食腸食ブリオン",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-38.jpg",
+      "ep": "12",
+      "geo": [
+        35.668146,
+        139.782361
+      ]
+    },
+    {
+      "id": "6250-39",
+      "name": "佃公園",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-39.jpg",
+      "ep": "12",
+      "geo": [
+        35.666937,
+        139.782422
+      ]
+    },
+    {
+      "id": "6250-40",
+      "name": "上野駅",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-40.jpg",
+      "ep": "14",
+      "geo": [
+        35.714005,
+        139.7779
+      ]
+    },
+    {
+      "id": "6250-41",
+      "name": "盛岡駅",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-41.jpg",
+      "ep": "14",
+      "geo": [
+        39.701748,
+        141.136948
+      ]
+    },
+    {
+      "id": "6250-42",
+      "name": "湯守 ホテル大観",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-42.jpg",
+      "ep": "14",
+      "geo": [
+        39.676033,
+        141.021445
+      ]
+    },
+    {
+      "id": "6250-43",
+      "name": "盛岡駅",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-43.jpg",
+      "ep": "15",
+      "geo": [
+        39.701018,
+        141.137311
+      ]
+    },
+    {
+      "id": "6250-44",
+      "name": "仙台駅",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-44.jpg",
+      "ep": "15",
+      "geo": [
+        38.259935,
+        140.881898
+      ]
+    },
+    {
+      "id": "6250-45",
+      "name": "仙台駅",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-45.jpg",
+      "ep": "15",
+      "geo": [
+        38.259673,
+        140.88174
+      ]
+    },
+    {
+      "id": "6250-46",
+      "name": "タイムズ仙台駅屋上",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-46.jpg",
+      "ep": "15",
+      "geo": [
+        38.258298,
+        140.881028
+      ]
+    },
+    {
+      "id": "6250-47",
+      "name": "たんや善治郎 五橋横丁別館",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-47.jpg",
+      "ep": "15",
+      "geo": [
+        38.257029,
+        140.881791
+      ]
+    },
+    {
+      "id": "6250-48",
+      "name": "タイムズＪＲ仙台駅西口",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-48.jpg",
+      "ep": "15",
+      "geo": [
+        38.257681,
+        140.881403
+      ]
+    },
+    {
+      "id": "6250-49",
+      "name": "東横INN仙台駅西口中央",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-49.jpg",
+      "ep": "16",
+      "geo": [
+        38.255998,
+        140.88205
+      ]
+    },
+    {
+      "id": "6250-50",
+      "name": "モスプレミアム 千駄ヶ谷店",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-50.jpg",
+      "ep": "16",
+      "geo": [
+        35.67896,
+        139.710716
+      ]
+    },
+    {
+      "id": "6250-51",
+      "name": "天成園",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-51.jpg",
+      "ep": "17",
+      "geo": [
+        35.229149,
+        139.094931
+      ]
+    },
+    {
+      "id": "6250-52",
+      "name": "東京体育館",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-52.jpg",
+      "ep": "21",
+      "geo": [
+        35.679437,
+        139.710924
+      ]
+    },
+    {
+      "id": "6250-53",
+      "name": "もんじゃ太郎",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-53.jpg",
+      "ep": "22",
+      "geo": [
+        35.66422,
+        139.782443
+      ]
+    },
+    {
+      "id": "6250-54",
+      "name": "佃まちかど展示館",
+      "image": "https://image.xinu.ink/pic/data/6250/images/6250-54.jpg",
+      "ep": "22",
+      "geo": [
+        35.667969,
+        139.782388
+      ]
+    }
+  ]
+}

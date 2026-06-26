@@ -1,0 +1,54 @@
+{
+  "points": [
+    {
+      "id": "6323-1",
+      "name": "宮下公園前",
+      "image": "https://image.xinu.ink/pic/data/6323/images/6323-1.jpg",
+      "ep": "ED2",
+      "geo": [
+        35.66145,
+        139.70225
+      ]
+    },
+    {
+      "id": "6323-2",
+      "name": "渋谷駅前",
+      "image": "https://image.xinu.ink/pic/data/6323/images/6323-2.jpg",
+      "ep": "ED2",
+      "geo": [
+        35.65884,
+        139.70212
+      ]
+    },
+    {
+      "id": "6323-3",
+      "name": "神泉駅",
+      "image": "https://image.xinu.ink/pic/data/6323/images/6323-3.jpg",
+      "ep": "ED2",
+      "geo": [
+        35.6573,
+        139.69387
+      ]
+    },
+    {
+      "id": "6323-4",
+      "name": "中渋谷ガード駐輪場",
+      "image": "https://image.xinu.ink/pic/data/6323/images/6323-4.jpg",
+      "ep": "ED2",
+      "geo": [
+        35.6603507,
+        139.7014408
+      ]
+    },
+    {
+      "id": "6323-5",
+      "name": "宮益坂中央",
+      "image": "https://image.xinu.ink/pic/data/6323/images/6323-5.jpg",
+      "ep": "ED2",
+      "geo": [
+        35.6594571,
+        139.7024243
+      ]
+    }
+  ]
+}

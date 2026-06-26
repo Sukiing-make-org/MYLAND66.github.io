@@ -1,0 +1,844 @@
+{
+  "points": [
+    {
+      "id": "6220-1",
+      "name": "秋葉原ラジオ会館",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-1.jpg",
+      "ep": "1",
+      "geo": [
+        35.69818,
+        139.77202
+      ]
+    },
+    {
+      "id": "6220-2",
+      "name": "アトレ秋葉原1",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-2.jpg",
+      "ep": "1",
+      "geo": [
+        35.69836,
+        139.77251
+      ]
+    },
+    {
+      "id": "6220-3",
+      "name": "秋葉原駅 電気街口西側広場",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-3.jpg",
+      "ep": "1",
+      "geo": [
+        35.69879,
+        139.77261
+      ]
+    },
+    {
+      "id": "6220-4",
+      "name": "秋葉原UDX",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-4.jpg",
+      "ep": "1",
+      "geo": [
+        35.69963,
+        139.77249
+      ]
+    },
+    {
+      "id": "6220-5",
+      "name": "安田屋旅館",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.02053,
+        138.8974
+      ]
+    },
+    {
+      "id": "6220-6",
+      "name": "富士見広場",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-6.jpg",
+      "ep": "1",
+      "geo": [
+        35.01724,
+        138.89223
+      ]
+    },
+    {
+      "id": "6220-7",
+      "name": "あわしまマリンパーク",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-7.jpg",
+      "ep": "1",
+      "geo": [
+        35.03385,
+        138.89001
+      ]
+    },
+    {
+      "id": "6220-8",
+      "name": "カエル館",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-8.jpg",
+      "ep": "1",
+      "geo": [
+        35.0328,
+        138.8903
+      ]
+    },
+    {
+      "id": "6220-9",
+      "name": "松濤館",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-9.jpg",
+      "ep": "1",
+      "geo": [
+        35.02046,
+        138.89714
+      ]
+    },
+    {
+      "id": "6220-10",
+      "name": "三津港遊覧船のりば",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-10.jpg",
+      "ep": "1",
+      "geo": [
+        35.02107,
+        138.89747
+      ]
+    },
+    {
+      "id": "6220-11",
+      "name": "長井崎",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-11.jpg",
+      "ep": "1",
+      "geo": [
+        35.02462,
+        138.88506
+      ]
+    },
+    {
+      "id": "6220-12",
+      "name": "てんてん",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-12.jpg",
+      "ep": "2",
+      "geo": [
+        35.01788,
+        138.89346
+      ]
+    },
+    {
+      "id": "6220-13",
+      "name": "高梨屋",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-13.jpg",
+      "ep": "2",
+      "geo": [
+        35.01826,
+        138.8942
+      ]
+    },
+    {
+      "id": "6220-14",
+      "name": "重須ヨットハウス",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-14.jpg",
+      "ep": "3",
+      "geo": [
+        35.01804,
+        138.88615
+      ]
+    },
+    {
+      "id": "6220-15",
+      "name": "沼津駅北口タクシー乗り場",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-15.jpg",
+      "ep": "3",
+      "geo": [
+        35.10372,
+        138.85959
+      ]
+    },
+    {
+      "id": "6220-16",
+      "name": "くれたけイン プレミアム 沼津北口駅前",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-16.jpg",
+      "ep": "3",
+      "geo": [
+        35.10392,
+        138.85932
+      ]
+    },
+    {
+      "id": "6220-17",
+      "name": "沼津警察署 沼津駅北交番",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-17.jpg",
+      "ep": "3",
+      "geo": [
+        35.10364,
+        138.85991
+      ]
+    },
+    {
+      "id": "6220-18",
+      "name": "ローソン BiVi沼津店",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-18.jpg",
+      "ep": "3",
+      "geo": [
+        35.10412,
+        138.86068
+      ]
+    },
+    {
+      "id": "6220-19",
+      "name": "島郷海岸",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-19.jpg",
+      "ep": "3",
+      "geo": [
+        35.06748,
+        138.87527
+      ]
+    },
+    {
+      "id": "6220-20",
+      "name": "三津公会堂",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-20.jpg",
+      "ep": "3",
+      "geo": [
+        35.02385,
+        138.89871
+      ]
+    },
+    {
+      "id": "6220-21",
+      "name": "手作りパン ｢アンヘル｣",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-21.jpg",
+      "ep": "3",
+      "geo": [
+        35.0559,
+        138.88362
+      ]
+    },
+    {
+      "id": "6220-22",
+      "name": "いきもの広場",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-22.jpg",
+      "ep": "4",
+      "geo": [
+        35.03236,
+        138.8898
+      ]
+    },
+    {
+      "id": "6220-23",
+      "name": "淡島神社(厳島神社)",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-23.jpg",
+      "ep": "4",
+      "geo": [
+        35.03304,
+        138.88775
+      ]
+    },
+    {
+      "id": "6220-24",
+      "name": "ロックテラス",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-24.jpg",
+      "ep": "4",
+      "geo": [
+        35.03179,
+        138.88925
+      ]
+    },
+    {
+      "id": "6220-25",
+      "name": "とさわや旅館",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-25.jpg",
+      "ep": "5",
+      "geo": [
+        35.02296,
+        138.89821
+      ]
+    },
+    {
+      "id": "6220-26",
+      "name": "杉山ボートサービス",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-26.jpg",
+      "ep": "5",
+      "geo": [
+        35.02473,
+        138.88556
+      ]
+    },
+    {
+      "id": "6220-27",
+      "name": "上土朝日稲荷神社",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-27.jpg",
+      "ep": "5",
+      "geo": [
+        35.09661,
+        138.85853
+      ]
+    },
+    {
+      "id": "6220-28",
+      "name": "沼津リバーサイドホテル",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-28.jpg",
+      "ep": "5",
+      "geo": [
+        35.09715,
+        138.85828
+      ]
+    },
+    {
+      "id": "6220-29",
+      "name": "正秀刃物店",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-29.jpg",
+      "ep": "5",
+      "geo": [
+        35.09839,
+        138.8572
+      ]
+    },
+    {
+      "id": "6220-30",
+      "name": "屋台風中国茶房 香香飯店 沼津仲見世店",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-30.jpg",
+      "ep": "5",
+      "geo": [
+        35.10059,
+        138.85822
+      ]
+    },
+    {
+      "id": "6220-31",
+      "name": "楽園 沼津店",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-31.jpg",
+      "ep": "5",
+      "geo": [
+        35.10166,
+        138.85952
+      ]
+    },
+    {
+      "id": "6220-32",
+      "name": "沼津駅",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-32.jpg",
+      "ep": "5",
+      "geo": [
+        35.10251,
+        138.85963
+      ]
+    },
+    {
+      "id": "6220-33",
+      "name": "沼津バーガー",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-33.jpg",
+      "ep": "5",
+      "geo": [
+        35.08385,
+        138.85834
+      ]
+    },
+    {
+      "id": "6220-34",
+      "name": "海幸市場",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-34.jpg",
+      "ep": "5",
+      "geo": [
+        35.08325,
+        138.8583
+      ]
+    },
+    {
+      "id": "6220-35",
+      "name": "沼津港大型展望水門 びゅうお",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-35.jpg",
+      "ep": "5",
+      "geo": [
+        35.08175,
+        138.85533
+      ]
+    },
+    {
+      "id": "6220-36",
+      "name": "長浜城跡",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-36.jpg",
+      "ep": "6",
+      "geo": [
+        35.01827,
+        138.88799
+      ]
+    },
+    {
+      "id": "6220-37",
+      "name": "三の浦総合案内所",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-37.jpg",
+      "ep": "6",
+      "geo": [
+        35.01768,
+        138.89332
+      ]
+    },
+    {
+      "id": "6220-38",
+      "name": "横浜家系ラーメン 沼津 魂心家",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-38.jpg",
+      "ep": "6",
+      "geo": [
+        35.10176,
+        138.85837
+      ]
+    },
+    {
+      "id": "6220-39",
+      "name": "いろり坊",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-39.jpg",
+      "ep": "6",
+      "geo": [
+        35.02519,
+        138.90462
+      ]
+    },
+    {
+      "id": "6220-40",
+      "name": "伊豆長岡駅",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-40.jpg",
+      "ep": "6",
+      "geo": [
+        35.03978,
+        138.94729
+      ]
+    },
+    {
+      "id": "6220-41",
+      "name": "大衆酒場イマさん",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-41.jpg",
+      "ep": "6",
+      "geo": [
+        35.10461,
+        138.85821
+      ]
+    },
+    {
+      "id": "6220-42",
+      "name": "沼津機関区略史の碑",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-42.jpg",
+      "ep": "7",
+      "geo": [
+        35.10238,
+        138.85964
+      ]
+    },
+    {
+      "id": "6220-43",
+      "name": "熱海駅",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-43.jpg",
+      "ep": "7",
+      "geo": [
+        35.10364,
+        139.07759
+      ]
+    },
+    {
+      "id": "6220-44",
+      "name": "ＪＲ東日本ホテルメッツ プレミア 秋葉原",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-44.jpg",
+      "ep": "7",
+      "geo": [
+        35.69822,
+        139.77248
+      ]
+    },
+    {
+      "id": "6220-45",
+      "name": "アキバ系アイドルショップ",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-45.jpg",
+      "ep": "7",
+      "geo": [
+        35.70175,
+        139.77134
+      ]
+    },
+    {
+      "id": "6220-46",
+      "name": "ベルサール秋葉原",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-46.jpg",
+      "ep": "7",
+      "geo": [
+        35.6998,
+        139.77109
+      ]
+    },
+    {
+      "id": "6220-47",
+      "name": "神田明神下 みやび",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-47.jpg",
+      "ep": "7",
+      "geo": [
+        35.70135,
+        139.7687
+      ]
+    },
+    {
+      "id": "6220-48",
+      "name": "明神男坂",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-48.jpg",
+      "ep": "7",
+      "geo": [
+        35.70141,
+        139.76834
+      ]
+    },
+    {
+      "id": "6220-49",
+      "name": "神田神社（神田明神）",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-49.jpg",
+      "ep": "7",
+      "geo": [
+        35.70182,
+        139.76777
+      ]
+    },
+    {
+      "id": "6220-50",
+      "name": "鳳明館 本館",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-50.jpg",
+      "ep": "7",
+      "geo": [
+        35.71111,
+        139.75637
+      ]
+    },
+    {
+      "id": "6220-51",
+      "name": "鳳明館 台町別館",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-51.jpg",
+      "ep": "7",
+      "geo": [
+        35.71093,
+        139.75643
+      ]
+    },
+    {
+      "id": "6220-52",
+      "name": "有限会社祥山堂",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-52.jpg",
+      "ep": "7",
+      "geo": [
+        35.70953,
+        139.75694
+      ]
+    },
+    {
+      "id": "6220-53",
+      "name": "ノダジ",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-53.jpg",
+      "ep": "7",
+      "geo": [
+        35.70405,
+        139.76235
+      ]
+    },
+    {
+      "id": "6220-54",
+      "name": "天野屋",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-54.jpg",
+      "ep": "7",
+      "geo": [
+        35.70101,
+        139.76706
+      ]
+    },
+    {
+      "id": "6220-55",
+      "name": "万世橋",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-55.jpg",
+      "ep": "7",
+      "geo": [
+        35.69725,
+        139.77084
+      ]
+    },
+    {
+      "id": "6220-56",
+      "name": "東京タワー",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-56.jpg",
+      "ep": "8",
+      "geo": [
+        35.65858,
+        139.74543
+      ]
+    },
+    {
+      "id": "6220-57",
+      "name": "海軍淡島桟橋",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-57.jpg",
+      "ep": "8",
+      "geo": [
+        35.03486,
+        138.88567
+      ]
+    },
+    {
+      "id": "6220-58",
+      "name": "かのがわ風のテラス",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-58.jpg",
+      "ep": "8",
+      "geo": [
+        35.09783,
+        138.85973
+      ]
+    },
+    {
+      "id": "6220-59",
+      "name": "中央公園",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-59.jpg",
+      "ep": "8",
+      "geo": [
+        35.09914,
+        138.85944
+      ]
+    },
+    {
+      "id": "6220-60",
+      "name": "淡島 駐車場",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-60.jpg",
+      "ep": "9",
+      "geo": [
+        35.03237,
+        138.89358
+      ]
+    },
+    {
+      "id": "6220-61",
+      "name": "駄菓子屋\\u0026BAR とらちゃん",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-61.jpg",
+      "ep": "9",
+      "geo": [
+        35.03133,
+        138.89286
+      ]
+    },
+    {
+      "id": "6220-62",
+      "name": "ミニストップ 沼津内浦店",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-62.jpg",
+      "ep": "9",
+      "geo": [
+        35.02977,
+        138.89339
+      ]
+    },
+    {
+      "id": "6220-63",
+      "name": "おさかな食堂 やまや",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-63.jpg",
+      "ep": "9",
+      "geo": [
+        35.02404,
+        138.89876
+      ]
+    },
+    {
+      "id": "6220-64",
+      "name": "伊豆・三津シーパラダイス 駐車場",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-64.jpg",
+      "ep": "9",
+      "geo": [
+        35.01997,
+        138.89681
+      ]
+    },
+    {
+      "id": "6220-65",
+      "name": "幸",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-65.jpg",
+      "ep": "9",
+      "geo": [
+        35.01844,
+        138.89514
+      ]
+    },
+    {
+      "id": "6220-66",
+      "name": "長井崎弁天島神社",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-66.jpg",
+      "ep": "9",
+      "geo": [
+        35.01971,
+        138.88561
+      ]
+    },
+    {
+      "id": "6220-67",
+      "name": "大川家長屋門",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-67.jpg",
+      "ep": "9",
+      "geo": [
+        35.01731,
+        138.89348
+      ]
+    },
+    {
+      "id": "6220-68",
+      "name": "唯念名号碑",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-68.jpg",
+      "ep": "9",
+      "geo": [
+        35.01684,
+        138.89175
+      ]
+    },
+    {
+      "id": "6220-69",
+      "name": "淡島ホテル",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-69.jpg",
+      "ep": "9",
+      "geo": [
+        35.03585,
+        138.88711
+      ]
+    },
+    {
+      "id": "6220-70",
+      "name": "ぬまクルステーション 三の浦総合案内所",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-70.jpg",
+      "ep": "10",
+      "geo": [
+        35.01781,
+        138.89324
+      ]
+    },
+    {
+      "id": "6220-71",
+      "name": "セブン-イレブン 伊豆三津シーパラダイス前店",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-71.jpg",
+      "ep": "11",
+      "geo": [
+        35.02194,
+        138.89716
+      ]
+    },
+    {
+      "id": "6220-72",
+      "name": "長井崎古墳跡",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-72.jpg",
+      "ep": "11",
+      "geo": [
+        35.02343,
+        138.88377
+      ]
+    },
+    {
+      "id": "6220-73",
+      "name": "欧蘭陀館 下河原店",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-73.jpg",
+      "ep": "11",
+      "geo": [
+        35.09072,
+        138.85812
+      ]
+    },
+    {
+      "id": "6220-74",
+      "name": "松月",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-74.jpg",
+      "ep": "12",
+      "geo": [
+        35.02227,
+        138.89795
+      ]
+    },
+    {
+      "id": "6220-75",
+      "name": "沼津市民文化センター",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-75.jpg",
+      "ep": "12",
+      "geo": [
+        35.09483,
+        138.86564
+      ]
+    },
+    {
+      "id": "6220-76",
+      "name": "東京駅",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-76.jpg",
+      "ep": "12",
+      "geo": [
+        35.6822,
+        139.76644
+      ]
+    },
+    {
+      "id": "6220-77",
+      "name": "東京ステーションギャラリー",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-77.jpg",
+      "ep": "12",
+      "geo": [
+        35.6823,
+        139.76663
+      ]
+    },
+    {
+      "id": "6220-78",
+      "name": "国府津海岸",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-78.jpg",
+      "ep": "12",
+      "geo": [
+        35.27991,
+        139.21465
+      ]
+    },
+    {
+      "id": "6220-79",
+      "name": "根府川駅",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-79.jpg",
+      "ep": "12",
+      "geo": [
+        35.20289,
+        139.13885
+      ]
+    },
+    {
+      "id": "6220-80",
+      "name": "大名古屋ビルヂング",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-80.jpg",
+      "ep": "13",
+      "geo": [
+        35.17154,
+        136.88485
+      ]
+    },
+    {
+      "id": "6220-81",
+      "name": "ナナちゃん人形",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-81.jpg",
+      "ep": "13",
+      "geo": [
+        35.16834,
+        136.88477
+      ]
+    },
+    {
+      "id": "6220-82",
+      "name": "名古屋駅",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-82.jpg",
+      "ep": "13",
+      "geo": [
+        35.17085,
+        136.88293
+      ]
+    },
+    {
+      "id": "6220-83",
+      "name": "中村警察署 名古屋駅西交番",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-83.jpg",
+      "ep": "13",
+      "geo": [
+        35.17043,
+        136.88041
+      ]
+    },
+    {
+      "id": "6220-84",
+      "name": "日本ガイシホール",
+      "image": "https://image.xinu.ink/pic/data/6220/images/6220-84.jpg",
+      "ep": "13",
+      "geo": [
+        35.09529,
+        136.92355
+      ]
+    }
+  ]
+}

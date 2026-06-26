@@ -1,0 +1,414 @@
+{
+  "points": [
+    {
+      "id": "6456-1",
+      "name": "サントル野川",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-1.jpg",
+      "ep": "OP",
+      "geo": [
+        35.65197,
+        139.56197
+      ]
+    },
+    {
+      "id": "6456-2",
+      "name": "赤坂駅",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-2.jpg",
+      "ep": "1",
+      "geo": [
+        35.67234,
+        139.73651
+      ]
+    },
+    {
+      "id": "6456-3",
+      "name": "ローソン 東京テレポート駅前店",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-3.jpg",
+      "ep": "2",
+      "geo": [
+        35.62639,
+        139.77679
+      ]
+    },
+    {
+      "id": "6456-4",
+      "name": "ダイバーシティ東京プラザ",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-4.jpg",
+      "ep": "2",
+      "geo": [
+        35.6262,
+        139.77642
+      ]
+    },
+    {
+      "id": "6456-5",
+      "name": "ダイバーシティ東京プラザ",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-5.jpg",
+      "ep": "2",
+      "geo": [
+        35.62595,
+        139.77613
+      ]
+    },
+    {
+      "id": "6456-6",
+      "name": "ゴクゴク ダイバーシティ東京 プラザ店",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-6.jpg",
+      "ep": "2",
+      "geo": [
+        35.62562,
+        139.77617
+      ]
+    },
+    {
+      "id": "6456-7",
+      "name": "ダイバーシティ東京プラザ",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-7.jpg",
+      "ep": "2",
+      "geo": [
+        35.62468,
+        139.77534
+      ]
+    },
+    {
+      "id": "6456-8",
+      "name": "グランドニッコー東京 台場",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-8.jpg",
+      "ep": "2",
+      "geo": [
+        35.62527,
+        139.77158
+      ]
+    },
+    {
+      "id": "6456-9",
+      "name": "伊勢丹 新宿店",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-9.jpg",
+      "ep": "3",
+      "geo": [
+        35.69097,
+        139.70482
+      ]
+    },
+    {
+      "id": "6456-10",
+      "name": "happylemon 京王新宿店",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-10.jpg",
+      "ep": "3",
+      "geo": [
+        35.69077,
+        139.69936
+      ]
+    },
+    {
+      "id": "6456-11",
+      "name": "調布駅",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-11.jpg",
+      "ep": "5",
+      "geo": [
+        35.65188,
+        139.54434
+      ]
+    },
+    {
+      "id": "6456-12",
+      "name": "パラドールつつじヶ丘Ⅱ",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-12.jpg",
+      "ep": "5",
+      "geo": [
+        35.65704,
+        139.5729
+      ]
+    },
+    {
+      "id": "6456-13",
+      "name": "つつじヶ丘駅",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-13.jpg",
+      "ep": "5",
+      "geo": [
+        35.65807,
+        139.57522
+      ]
+    },
+    {
+      "id": "6456-14",
+      "name": "北前そば高田屋 烏山店",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-14.jpg",
+      "ep": "6",
+      "geo": [
+        35.66788,
+        139.60165
+      ]
+    },
+    {
+      "id": "6456-15",
+      "name": "武蔵野台駅",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-15.jpg",
+      "ep": "9",
+      "geo": [
+        35.66434,
+        139.51021
+      ]
+    },
+    {
+      "id": "6456-16",
+      "name": "つつじヶ丘駅",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-16.jpg",
+      "ep": "9",
+      "geo": [
+        35.65825,
+        139.57504
+      ]
+    },
+    {
+      "id": "6456-17",
+      "name": "武蔵野台駅",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-17.jpg",
+      "ep": "9",
+      "geo": [
+        35.66396,
+        139.51105
+      ]
+    },
+    {
+      "id": "6456-18",
+      "name": "新宿駅",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-18.jpg",
+      "ep": "9",
+      "geo": [
+        35.69037,
+        139.69957
+      ]
+    },
+    {
+      "id": "6456-19",
+      "name": "網代駅",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-19.jpg",
+      "ep": "9",
+      "geo": [
+        35.04357,
+        139.08161
+      ]
+    },
+    {
+      "id": "6456-20",
+      "name": "新宿三井ビルディング",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-20.jpg",
+      "ep": "9",
+      "geo": [
+        35.69132,
+        139.69341
+      ]
+    },
+    {
+      "id": "6456-21",
+      "name": "源泉湯宿 大成館",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-21.jpg",
+      "ep": "9",
+      "geo": [
+        35.04513,
+        139.08247
+      ]
+    },
+    {
+      "id": "6456-22",
+      "name": "源泉湯宿 大成館",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-22.jpg",
+      "ep": "9",
+      "geo": [
+        35.04543,
+        139.08259
+      ]
+    },
+    {
+      "id": "6456-23",
+      "name": "源泉湯宿 大成館",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-23.jpg",
+      "ep": "11",
+      "geo": [
+        35.04526,
+        139.08336
+      ]
+    },
+    {
+      "id": "6456-24",
+      "name": "伊豆多賀駅",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-24.jpg",
+      "ep": "11",
+      "geo": [
+        35.0581,
+        139.06676
+      ]
+    },
+    {
+      "id": "6456-25",
+      "name": "網代観光ホテル",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-25.jpg",
+      "ep": "11",
+      "geo": [
+        35.04446,
+        139.08393
+      ]
+    },
+    {
+      "id": "6456-26",
+      "name": "美原屋",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-26.jpg",
+      "ep": "11",
+      "geo": [
+        35.0443,
+        139.08407
+      ]
+    },
+    {
+      "id": "6456-27",
+      "name": "伊豆多賀駅",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-27.jpg",
+      "ep": "11",
+      "geo": [
+        35.05904,
+        139.06711
+      ]
+    },
+    {
+      "id": "6456-28",
+      "name": "タイムパーキング 白糸台第2",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-28.jpg",
+      "ep": "11",
+      "geo": [
+        35.66302,
+        139.51399
+      ]
+    },
+    {
+      "id": "6456-29",
+      "name": "ビックカメラ 京王調布店",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-29.jpg",
+      "ep": "12",
+      "geo": [
+        35.65209,
+        139.54303
+      ]
+    },
+    {
+      "id": "6456-30",
+      "name": "調布駅",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-30.jpg",
+      "ep": "12",
+      "geo": [
+        35.65196,
+        139.54374
+      ]
+    },
+    {
+      "id": "6456-31",
+      "name": "サイゼリヤ 仙川店",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-31.jpg",
+      "ep": "12",
+      "geo": [
+        35.66122,
+        139.58571
+      ]
+    },
+    {
+      "id": "6456-32",
+      "name": "フレッシュネスバーガー仙川店",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-32.jpg",
+      "ep": "12",
+      "geo": [
+        35.66118,
+        139.58558
+      ]
+    },
+    {
+      "id": "6456-33",
+      "name": "マクセル アクアパーク 品川",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-33.jpg",
+      "ep": "12",
+      "geo": [
+        35.62803,
+        139.73525
+      ]
+    },
+    {
+      "id": "6456-34",
+      "name": "多摩川児童公園",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-34.jpg",
+      "ep": "13",
+      "geo": [
+        35.64109,
+        139.53628
+      ]
+    },
+    {
+      "id": "6456-35",
+      "name": "パークジャパン つつじヶ丘第１",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-35.jpg",
+      "ep": "14",
+      "geo": [
+        35.65771,
+        139.57334
+      ]
+    },
+    {
+      "id": "6456-36",
+      "name": "大沢歯科医院",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-36.jpg",
+      "ep": "14",
+      "geo": [
+        35.65659,
+        139.57185
+      ]
+    },
+    {
+      "id": "6456-37",
+      "name": "つつじヶ丘駅",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-37.jpg",
+      "ep": "14",
+      "geo": [
+        35.65789,
+        139.57453
+      ]
+    },
+    {
+      "id": "6456-38",
+      "name": "よみうりランド",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-38.jpg",
+      "ep": "15",
+      "geo": [
+        35.62434,
+        139.51696
+      ]
+    },
+    {
+      "id": "6456-39",
+      "name": "ロブソンフライズ",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-39.jpg",
+      "ep": "15",
+      "geo": [
+        35.62535,
+        139.51734
+      ]
+    },
+    {
+      "id": "6456-40",
+      "name": "クレージーヒュー",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-40.jpg",
+      "ep": "15",
+      "geo": [
+        35.6247,
+        139.52147
+      ]
+    },
+    {
+      "id": "6456-41",
+      "name": "幕張メッセ",
+      "image": "https://image.xinu.ink/pic/data/6456/images/6456-41.jpg",
+      "ep": "16",
+      "geo": [
+        35.64744,
+        140.03614
+      ]
+    }
+  ]
+}

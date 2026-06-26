@@ -1,0 +1,394 @@
+{
+  "points": [
+    {
+      "id": "6204-1",
+      "name": "サーティワンアイスクリーム イオンモール千葉ニュータウン店",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-1.jpg",
+      "ep": "OP",
+      "geo": [
+        35.8019236,
+        140.1136084
+      ]
+    },
+    {
+      "id": "6204-2",
+      "name": "千葉ニュータウンルミナス高花付近",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-2.jpg",
+      "ep": "OP",
+      "geo": [
+        35.7973893,
+        140.1374138
+      ]
+    },
+    {
+      "id": "6204-3",
+      "name": "結縁寺付近",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-3.jpg",
+      "ep": "OP",
+      "geo": [
+        35.789737,
+        140.1347455
+      ]
+    },
+    {
+      "id": "6204-4",
+      "name": "イルミライ★INZAI 都市と自然の調和ゾーン",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-4.jpg",
+      "ep": "OP",
+      "geo": [
+        35.8011589,
+        140.1155974
+      ]
+    },
+    {
+      "id": "6204-5",
+      "name": "古墳型展望山",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-5.jpg",
+      "ep": "OP",
+      "geo": [
+        35.8093154,
+        140.1708584
+      ]
+    },
+    {
+      "id": "6204-6",
+      "name": "Honda Cars 市川 千葉ニュータウン中央店",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-6.jpg",
+      "ep": "OP",
+      "geo": [
+        35.7984678,
+        140.1372925
+      ]
+    },
+    {
+      "id": "6204-7",
+      "name": "有限会社 東日本観光バス付近",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-7.jpg",
+      "ep": "ED",
+      "geo": [
+        35.7973819,
+        140.1672402
+      ]
+    },
+    {
+      "id": "6204-8",
+      "name": "東京電力パワーグリッド(株) 千葉NT変電所付近",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-8.jpg",
+      "ep": "ED",
+      "geo": [
+        35.8045725,
+        140.1317555
+      ]
+    },
+    {
+      "id": "6204-9",
+      "name": "ニュータウン大橋",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-9.jpg",
+      "ep": "ED",
+      "geo": [
+        35.7985665,
+        140.1211987
+      ]
+    },
+    {
+      "id": "6204-10",
+      "name": "大塚前公園",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-10.jpg",
+      "ep": "ED",
+      "geo": [
+        35.8043542,
+        140.1118645
+      ]
+    },
+    {
+      "id": "6204-11",
+      "name": "千葉ニュータウン中央駅",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-11.jpg",
+      "ep": "ED",
+      "geo": [
+        35.8000992,
+        140.1168254
+      ]
+    },
+    {
+      "id": "6204-12",
+      "name": "都市の景ゾーン有料駐車場付近",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-12.jpg",
+      "ep": "ED",
+      "geo": [
+        35.7986883,
+        140.1258721
+      ]
+    },
+    {
+      "id": "6204-13",
+      "name": "原山北街区公園",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-13.jpg",
+      "ep": "ED",
+      "geo": [
+        35.8009727,
+        140.1290526
+      ]
+    },
+    {
+      "id": "6204-14",
+      "name": "小倉台図書館",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-14.jpg",
+      "ep": "1",
+      "geo": [
+        35.8056099,
+        140.1126099
+      ]
+    },
+    {
+      "id": "6204-15",
+      "name": "リーフ薬局付近",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-15.jpg",
+      "ep": "1",
+      "geo": [
+        35.7942373,
+        140.1192418
+      ]
+    },
+    {
+      "id": "6204-16",
+      "name": "鳴神山遺跡",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-16.jpg",
+      "ep": "1",
+      "geo": [
+        35.7929157,
+        140.1190961
+      ]
+    },
+    {
+      "id": "6204-17",
+      "name": "高花6丁目",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-17.jpg",
+      "ep": "1",
+      "geo": [
+        35.7926503,
+        140.1374587
+      ]
+    },
+    {
+      "id": "6204-18",
+      "name": "有限会社 八千代技研 千葉付近",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-18.jpg",
+      "ep": "1",
+      "geo": [
+        35.7934964,
+        140.1385737
+      ]
+    },
+    {
+      "id": "6204-19",
+      "name": "ビッグウッド 印西店",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-19.jpg",
+      "ep": "1",
+      "geo": [
+        35.8030662,
+        140.1637061
+      ]
+    },
+    {
+      "id": "6204-20",
+      "name": "千葉県立 北総花の丘公園 Ｂゾーン",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-20.jpg",
+      "ep": "2",
+      "geo": [
+        35.7997709,
+        140.1237857
+      ]
+    },
+    {
+      "id": "6204-21",
+      "name": "印西市 高花学校給食センター付近",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-21.jpg",
+      "ep": "2",
+      "geo": [
+        35.7966102,
+        140.1315682
+      ]
+    },
+    {
+      "id": "6204-22",
+      "name": "修景池",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-22.jpg",
+      "ep": "2",
+      "geo": [
+        35.800271,
+        140.1243177
+      ]
+    },
+    {
+      "id": "6204-23",
+      "name": "北総花の丘バーベキューガーデン",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-23.jpg",
+      "ep": "2",
+      "geo": [
+        35.8000774,
+        140.1232046
+      ]
+    },
+    {
+      "id": "6204-24",
+      "name": "千葉ろうさい病院",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-24.jpg",
+      "ep": "4",
+      "geo": [
+        35.520853,
+        140.1581009
+      ]
+    },
+    {
+      "id": "6204-25",
+      "name": "セブン-イレブン 印西中央南１丁目店",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-25.jpg",
+      "ep": "5",
+      "geo": [
+        35.798586,
+        140.1151373
+      ]
+    },
+    {
+      "id": "6204-26",
+      "name": "千葉ニュータウン 原山第二管理サービス事務所付近",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-26.jpg",
+      "ep": "5",
+      "geo": [
+        35.8007308,
+        140.1291095
+      ]
+    },
+    {
+      "id": "6204-27",
+      "name": "印西市立内野小学校付近",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-27.jpg",
+      "ep": "5",
+      "geo": [
+        35.7985729,
+        140.1259052
+      ]
+    },
+    {
+      "id": "6204-28",
+      "name": "Rockyボルダリングジム 印西店付近",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-28.jpg",
+      "ep": "6",
+      "geo": [
+        35.803136,
+        140.1633925
+      ]
+    },
+    {
+      "id": "6204-29",
+      "name": "こすもす大橋",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-29.jpg",
+      "ep": "6",
+      "geo": [
+        35.8008132,
+        140.1185209
+      ]
+    },
+    {
+      "id": "6204-30",
+      "name": "炭火焙煎珈琲.凛 銀座4丁目本店",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-30.jpg",
+      "ep": "10",
+      "geo": [
+        35.6719466,
+        139.7650527
+      ]
+    },
+    {
+      "id": "6204-31",
+      "name": "ユニクロ Echika fit 東京店付近",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-31.jpg",
+      "ep": "10",
+      "geo": [
+        35.6819553,
+        139.7646949
+      ]
+    },
+    {
+      "id": "6204-32",
+      "name": "海浜幕張駅南口広場",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-32.jpg",
+      "ep": "10",
+      "geo": [
+        35.6482253,
+        140.0412858
+      ]
+    },
+    {
+      "id": "6204-33",
+      "name": "千葉県立幕張海浜公園Aブロック",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-33.jpg",
+      "ep": "10",
+      "geo": [
+        35.6494834,
+        140.046581
+      ]
+    },
+    {
+      "id": "6204-34",
+      "name": "フランセス教会",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-34.jpg",
+      "ep": "11",
+      "geo": [
+        35.6524936,
+        139.313782
+      ]
+    },
+    {
+      "id": "6204-35",
+      "name": "印西小倉台郵便局付近",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-35.jpg",
+      "ep": "SP0",
+      "geo": [
+        35.8073462,
+        140.1115327
+      ]
+    },
+    {
+      "id": "6204-36",
+      "name": "栄橋",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-36.jpg",
+      "ep": "SP0",
+      "geo": [
+        35.8545056,
+        140.1368969
+      ]
+    },
+    {
+      "id": "6204-37",
+      "name": "高橋クリーニング店本店",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-37.jpg",
+      "ep": "SP0",
+      "geo": [
+        35.7972899,
+        140.0715863
+      ]
+    },
+    {
+      "id": "6204-38",
+      "name": "櫻井商店",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-38.jpg",
+      "ep": "SP0",
+      "geo": [
+        35.7944313,
+        140.1331913
+      ]
+    },
+    {
+      "id": "6204-39",
+      "name": "WEST VILLE",
+      "image": "https://image.xinu.ink/pic/data/6204/images/6204-39.jpg",
+      "ep": "SP0",
+      "geo": [
+        35.8586608,
+        140.0236717
+      ]
+    }
+  ]
+}

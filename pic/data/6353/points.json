@@ -1,0 +1,444 @@
+{
+  "points": [
+    {
+      "id": "6353-1",
+      "name": "美しが丘西一丁目（バス）",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-1.jpg",
+      "ep": "1",
+      "geo": [
+        35.59046,
+        139.53866
+      ]
+    },
+    {
+      "id": "6353-2",
+      "name": "赤田東公園",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-2.jpg",
+      "ep": "1",
+      "geo": [
+        35.56121,
+        139.55295
+      ]
+    },
+    {
+      "id": "6353-3",
+      "name": "赤田東公園",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-3.jpg",
+      "ep": "1",
+      "geo": [
+        35.56223,
+        139.55313
+      ]
+    },
+    {
+      "id": "6353-4",
+      "name": "そよら成田ニュータウン",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-4.jpg",
+      "ep": "2",
+      "geo": [
+        35.77781,
+        140.29129
+      ]
+    },
+    {
+      "id": "6353-5",
+      "name": "三鷹駅",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-5.jpg",
+      "ep": "4",
+      "geo": [
+        35.70317,
+        139.56068
+      ]
+    },
+    {
+      "id": "6353-6",
+      "name": "横浜市弘明寺公園展望台",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-6.jpg",
+      "ep": "4",
+      "geo": [
+        35.42461,
+        139.59551
+      ]
+    },
+    {
+      "id": "6353-7",
+      "name": "メルセデス・ベンツ あざみ野",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-7.jpg",
+      "ep": "5",
+      "geo": [
+        35.56541,
+        139.55358
+      ]
+    },
+    {
+      "id": "6353-8",
+      "name": "横浜市山内図書館",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-8.jpg",
+      "ep": "5",
+      "geo": [
+        35.56687,
+        139.55369
+      ]
+    },
+    {
+      "id": "6353-9",
+      "name": "横浜市山内地区センター",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-9.jpg",
+      "ep": "5",
+      "geo": [
+        35.56709,
+        139.55385
+      ]
+    },
+    {
+      "id": "6353-10",
+      "name": "カフェラミルダイヤ街店",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-10.jpg",
+      "ep": "6",
+      "geo": [
+        35.70423,
+        139.57851
+      ]
+    },
+    {
+      "id": "6353-11",
+      "name": "ドトールコーヒーショップ そよら成田ニュータウン店",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-11.jpg",
+      "ep": "8",
+      "geo": [
+        35.77798,
+        140.29131
+      ]
+    },
+    {
+      "id": "6353-12",
+      "name": "京都北白川ラーメン魁力屋 三鷹大沢店",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-12.jpg",
+      "ep": "8",
+      "geo": [
+        35.67052,
+        139.53799
+      ]
+    },
+    {
+      "id": "6353-13",
+      "name": "国立科学博物館",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-13.jpg",
+      "ep": "9",
+      "geo": [
+        35.71638,
+        139.77595
+      ]
+    },
+    {
+      "id": "6353-14",
+      "name": "国立科学博物館",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-14.jpg",
+      "ep": "9",
+      "geo": [
+        35.71605,
+        139.77625
+      ]
+    },
+    {
+      "id": "6353-15",
+      "name": "国立西洋美術館",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-15.jpg",
+      "ep": "9",
+      "geo": [
+        35.71562,
+        139.77551
+      ]
+    },
+    {
+      "id": "6353-16",
+      "name": "上野恩賜公園",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-16.jpg",
+      "ep": "9",
+      "geo": [
+        35.71198,
+        139.77378
+      ]
+    },
+    {
+      "id": "6353-17",
+      "name": "上野恩賜公園",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-17.jpg",
+      "ep": "9",
+      "geo": [
+        35.71242,
+        139.77438
+      ]
+    },
+    {
+      "id": "6353-18",
+      "name": "名取屋ライフイン",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-18.jpg",
+      "ep": "10",
+      "geo": [
+        35.6989,
+        139.56116
+      ]
+    },
+    {
+      "id": "6353-19",
+      "name": "ファミリーマート 三鷹中央通り南店",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-19.jpg",
+      "ep": "10",
+      "geo": [
+        35.69824,
+        139.56118
+      ]
+    },
+    {
+      "id": "6353-20",
+      "name": "京都駅",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-20.jpg",
+      "ep": "10",
+      "geo": [
+        34.98454,
+        135.75837
+      ]
+    },
+    {
+      "id": "6353-21",
+      "name": "京都駅",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-21.jpg",
+      "ep": "10",
+      "geo": [
+        34.9844,
+        135.75898
+      ]
+    },
+    {
+      "id": "6353-22",
+      "name": "恋占いの石",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-22.jpg",
+      "ep": "11",
+      "geo": [
+        34.99512,
+        135.78499
+      ]
+    },
+    {
+      "id": "6353-23",
+      "name": "清水寺",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-23.jpg",
+      "ep": "11",
+      "geo": [
+        34.99462,
+        135.78547
+      ]
+    },
+    {
+      "id": "6353-24",
+      "name": "東大寺南大門",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-24.jpg",
+      "ep": "11",
+      "geo": [
+        34.6855,
+        135.83986
+      ]
+    },
+    {
+      "id": "6353-25",
+      "name": "東大寺",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-25.jpg",
+      "ep": "11",
+      "geo": [
+        34.68926,
+        135.84017
+      ]
+    },
+    {
+      "id": "6353-26",
+      "name": "春日大社",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-26.jpg",
+      "ep": "11",
+      "geo": [
+        34.68079,
+        135.84734
+      ]
+    },
+    {
+      "id": "6353-27",
+      "name": "ユニバーサル・スタジオ・ジャパン",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-27.jpg",
+      "ep": "11",
+      "geo": [
+        34.66667,
+        135.43191
+      ]
+    },
+    {
+      "id": "6353-28",
+      "name": "ユニバーサル・グローブ",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-28.jpg",
+      "ep": "11",
+      "geo": [
+        34.66784,
+        135.43527
+      ]
+    },
+    {
+      "id": "6353-29",
+      "name": "元町・中華街 (山下公園)駅",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-29.jpg",
+      "ep": "12",
+      "geo": [
+        35.44271,
+        139.65001
+      ]
+    },
+    {
+      "id": "6353-30",
+      "name": "中華街東門 (朝陽門)",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-30.jpg",
+      "ep": "12",
+      "geo": [
+        35.44414,
+        139.64816
+      ]
+    },
+    {
+      "id": "6353-31",
+      "name": "栄興號",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-31.jpg",
+      "ep": "12",
+      "geo": [
+        35.44347,
+        139.64608
+      ]
+    },
+    {
+      "id": "6353-32",
+      "name": "會芳亭",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-32.jpg",
+      "ep": "12",
+      "geo": [
+        35.44232,
+        139.64717
+      ]
+    },
+    {
+      "id": "6353-33",
+      "name": "王府井(ワンフーチン)レストラン",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-33.jpg",
+      "ep": "12",
+      "geo": [
+        35.44366,
+        139.64736
+      ]
+    },
+    {
+      "id": "6353-34",
+      "name": "老維新",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-34.jpg",
+      "ep": "12",
+      "geo": [
+        35.44323,
+        139.64508
+      ]
+    },
+    {
+      "id": "6353-35",
+      "name": "山下公園",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-35.jpg",
+      "ep": "12",
+      "geo": [
+        35.44554,
+        139.6495
+      ]
+    },
+    {
+      "id": "6353-36",
+      "name": "山下公園",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-36.jpg",
+      "ep": "12",
+      "geo": [
+        35.44607,
+        139.65018
+      ]
+    },
+    {
+      "id": "6353-37",
+      "name": "象の鼻パーク",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-37.jpg",
+      "ep": "12",
+      "geo": [
+        35.44889,
+        139.64362
+      ]
+    },
+    {
+      "id": "6353-38",
+      "name": "象の鼻パーク",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-38.jpg",
+      "ep": "12",
+      "geo": [
+        35.44898,
+        139.64502
+      ]
+    },
+    {
+      "id": "6353-39",
+      "name": "くじらのせなか",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-39.jpg",
+      "ep": "12",
+      "geo": [
+        35.45281,
+        139.64829
+      ]
+    },
+    {
+      "id": "6353-40",
+      "name": "港の見える丘公園",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-40.jpg",
+      "ep": "12",
+      "geo": [
+        35.4406,
+        139.65471
+      ]
+    },
+    {
+      "id": "6353-41",
+      "name": "四五六菜館 飲茶館",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-41.jpg",
+      "ep": "12",
+      "geo": [
+        35.44277,
+        139.64627
+      ]
+    },
+    {
+      "id": "6353-42",
+      "name": "福臨閣",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-42.jpg",
+      "ep": "12",
+      "geo": [
+        35.44332,
+        139.64531
+      ]
+    },
+    {
+      "id": "6353-43",
+      "name": "龍門新館 横浜中華街店",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-43.jpg",
+      "ep": "12",
+      "geo": [
+        35.44335,
+        139.64539
+      ]
+    },
+    {
+      "id": "6353-44",
+      "name": "コスモクロック21",
+      "image": "https://image.xinu.ink/pic/data/6353/images/6353-44.jpg",
+      "ep": "12",
+      "geo": [
+        35.45527,
+        139.63671
+      ]
+    }
+  ]
+}

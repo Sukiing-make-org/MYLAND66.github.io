@@ -1,0 +1,404 @@
+{
+  "points": [
+    {
+      "id": "6270-1",
+      "name": "賀茂大橋",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-1.jpg",
+      "ep": "OP",
+      "geo": [
+        35.02908,
+        135.77166
+      ]
+    },
+    {
+      "id": "6270-2",
+      "name": "京都駅",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-2.jpg",
+      "ep": "1",
+      "geo": [
+        34.9863,
+        135.75896
+      ]
+    },
+    {
+      "id": "6270-3",
+      "name": "ホテル佐野家",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-3.jpg",
+      "ep": "1",
+      "geo": [
+        34.98764,
+        135.76102
+      ]
+    },
+    {
+      "id": "6270-4",
+      "name": "出町柳駅前 (バス)",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-4.jpg",
+      "ep": "1",
+      "geo": [
+        35.02893,
+        135.77306
+      ]
+    },
+    {
+      "id": "6270-5",
+      "name": "今出川駅",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.02919,
+        135.75955
+      ]
+    },
+    {
+      "id": "6270-6",
+      "name": "京都御苑",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-6.jpg",
+      "ep": "1",
+      "geo": [
+        35.02756,
+        135.76174
+      ]
+    },
+    {
+      "id": "6270-7",
+      "name": "下鴨警察署 加茂大橋交番",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-7.jpg",
+      "ep": "2",
+      "geo": [
+        35.02898,
+        135.77268
+      ]
+    },
+    {
+      "id": "6270-8",
+      "name": "出町柳駅前 (バス)",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-8.jpg",
+      "ep": "3",
+      "geo": [
+        35.02932,
+        135.77239
+      ]
+    },
+    {
+      "id": "6270-9",
+      "name": "大原 (バス)",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-9.jpg",
+      "ep": "3",
+      "geo": [
+        35.11974,
+        135.82884
+      ]
+    },
+    {
+      "id": "6270-10",
+      "name": "ひな里",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-10.jpg",
+      "ep": "3",
+      "geo": [
+        35.11911,
+        135.83381
+      ]
+    },
+    {
+      "id": "6270-11",
+      "name": "そば処 芹生茶屋",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-11.jpg",
+      "ep": "3",
+      "geo": [
+        35.11945,
+        135.83393
+      ]
+    },
+    {
+      "id": "6270-12",
+      "name": "大原三千院 駐車場",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-12.jpg",
+      "ep": "3",
+      "geo": [
+        35.11967,
+        135.82957
+      ]
+    },
+    {
+      "id": "6270-13",
+      "name": "la bûche",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-13.jpg",
+      "ep": "3",
+      "geo": [
+        35.1202,
+        135.83008
+      ]
+    },
+    {
+      "id": "6270-14",
+      "name": "ぜん",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-14.jpg",
+      "ep": "3",
+      "geo": [
+        35.02879,
+        135.77281
+      ]
+    },
+    {
+      "id": "6270-15",
+      "name": "博多長浜らーめん みよし",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-15.jpg",
+      "ep": "4",
+      "geo": [
+        35.00854,
+        135.77048
+      ]
+    },
+    {
+      "id": "6270-16",
+      "name": "材木橋",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-16.jpg",
+      "ep": "4",
+      "geo": [
+        35.00804,
+        135.7704
+      ]
+    },
+    {
+      "id": "6270-17",
+      "name": "京都市左京図書館",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-17.jpg",
+      "ep": "5",
+      "geo": [
+        35.03793,
+        135.77804
+      ]
+    },
+    {
+      "id": "6270-18",
+      "name": "田中神社",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-18.jpg",
+      "ep": "5",
+      "geo": [
+        35.03342,
+        135.78182
+      ]
+    },
+    {
+      "id": "6270-19",
+      "name": "菓祖神社",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-19.jpg",
+      "ep": "5",
+      "geo": [
+        35.02457,
+        135.7849
+      ]
+    },
+    {
+      "id": "6270-20",
+      "name": "吉田神社",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-20.jpg",
+      "ep": "5",
+      "geo": [
+        35.02514,
+        135.7845
+      ]
+    },
+    {
+      "id": "6270-21",
+      "name": "京大正門前 (バス)",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-21.jpg",
+      "ep": "5",
+      "geo": [
+        35.02539,
+        135.77849
+      ]
+    },
+    {
+      "id": "6270-22",
+      "name": "銀閣寺参道",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-22.jpg",
+      "ep": "5",
+      "geo": [
+        35.02717,
+        135.79673
+      ]
+    },
+    {
+      "id": "6270-23",
+      "name": "二条公園",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-23.jpg",
+      "ep": "8",
+      "geo": [
+        35.01661,
+        135.74585
+      ]
+    },
+    {
+      "id": "6270-24",
+      "name": "焼鳥居酒屋 鶏闘士 新館",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-24.jpg",
+      "ep": "8",
+      "geo": [
+        35.69506,
+        139.70085
+      ]
+    },
+    {
+      "id": "6270-25",
+      "name": "新宿駅",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-25.jpg",
+      "ep": "8",
+      "geo": [
+        35.69151,
+        139.70124
+      ]
+    },
+    {
+      "id": "6270-26",
+      "name": "京都水族館",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-26.jpg",
+      "ep": "9",
+      "geo": [
+        34.98763,
+        135.74858
+      ]
+    },
+    {
+      "id": "6270-27",
+      "name": "ヨドバシカメラ マルチメディア京都",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-27.jpg",
+      "ep": "9",
+      "geo": [
+        34.98782,
+        135.75855
+      ]
+    },
+    {
+      "id": "6270-28",
+      "name": "名倉公園",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-28.jpg",
+      "ep": "9",
+      "geo": [
+        34.99385,
+        135.72933
+      ]
+    },
+    {
+      "id": "6270-29",
+      "name": "名倉公園",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-29.jpg",
+      "ep": "9",
+      "geo": [
+        34.99344,
+        135.72943
+      ]
+    },
+    {
+      "id": "6270-30",
+      "name": "高原児童公園",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-30.jpg",
+      "ep": "10",
+      "geo": [
+        35.03637,
+        135.78435
+      ]
+    },
+    {
+      "id": "6270-31",
+      "name": "高原児童公園",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-31.jpg",
+      "ep": "10",
+      "geo": [
+        35.03649,
+        135.78441
+      ]
+    },
+    {
+      "id": "6270-32",
+      "name": "北野天満宮",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-32.jpg",
+      "ep": "10",
+      "geo": [
+        35.03083,
+        135.73507
+      ]
+    },
+    {
+      "id": "6270-33",
+      "name": "クリエイション・コア京都御車",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-33.jpg",
+      "ep": "10",
+      "geo": [
+        35.02754,
+        135.77117
+      ]
+    },
+    {
+      "id": "6270-34",
+      "name": "京都駅",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-34.jpg",
+      "ep": "11",
+      "geo": [
+        34.98607,
+        135.75893
+      ]
+    },
+    {
+      "id": "6270-35",
+      "name": "出町輸入食品 本店",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-35.jpg",
+      "ep": "11",
+      "geo": [
+        35.02745,
+        135.76931
+      ]
+    },
+    {
+      "id": "6270-36",
+      "name": "河原町今出川 (バス)",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-36.jpg",
+      "ep": "11",
+      "geo": [
+        35.02785,
+        135.76935
+      ]
+    },
+    {
+      "id": "6270-37",
+      "name": "鼓月 出町店",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-37.jpg",
+      "ep": "11",
+      "geo": [
+        35.02902,
+        135.76936
+      ]
+    },
+    {
+      "id": "6270-38",
+      "name": "ひらかたパーク",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-38.jpg",
+      "ep": "12",
+      "geo": [
+        34.80835,
+        135.63967
+      ]
+    },
+    {
+      "id": "6270-39",
+      "name": "ひらかたパーク",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-39.jpg",
+      "ep": "12",
+      "geo": [
+        34.80784,
+        135.63936
+      ]
+    },
+    {
+      "id": "6270-40",
+      "name": "レッドファルコン",
+      "image": "https://image.xinu.ink/pic/data/6270/images/6270-40.jpg",
+      "ep": "12",
+      "geo": [
+        34.80574,
+        135.63884
+      ]
+    }
+  ]
+}

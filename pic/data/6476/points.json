@@ -1,0 +1,464 @@
+{
+  "points": [
+    {
+      "id": "6476-1",
+      "name": "ミシガン観光船",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-1.jpg",
+      "ep": "OP",
+      "geo": [
+        35.01309,
+        135.86686
+      ]
+    },
+    {
+      "id": "6476-2",
+      "name": "大津港シンボル緑地公園",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-2.jpg",
+      "ep": "OP",
+      "geo": [
+        35.0133,
+        135.86587
+      ]
+    },
+    {
+      "id": "6476-3",
+      "name": "唐橋公園",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-3.jpg",
+      "ep": "OP",
+      "geo": [
+        34.97607,
+        135.90848
+      ]
+    },
+    {
+      "id": "6476-4",
+      "name": "唐橋公園",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-4.jpg",
+      "ep": "OP",
+      "geo": [
+        34.98006,
+        135.90746
+      ]
+    },
+    {
+      "id": "6476-5",
+      "name": "びわこの千松",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-5.jpg",
+      "ep": "OP",
+      "geo": [
+        34.99552,
+        135.91
+      ]
+    },
+    {
+      "id": "6476-6",
+      "name": "京阪石山駅",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-6.jpg",
+      "ep": "OP",
+      "geo": [
+        34.97954,
+        135.89999
+      ]
+    },
+    {
+      "id": "6476-7",
+      "name": "穴太駅",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-7.jpg",
+      "ep": "OP",
+      "geo": [
+        35.05576,
+        135.86487
+      ]
+    },
+    {
+      "id": "6476-8",
+      "name": "瀬田漁港",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-8.jpg",
+      "ep": "OP",
+      "geo": [
+        34.97418,
+        135.90769
+      ]
+    },
+    {
+      "id": "6476-9",
+      "name": "屋形船 四季",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-9.jpg",
+      "ep": "1",
+      "geo": [
+        34.97802,
+        135.90681
+      ]
+    },
+    {
+      "id": "6476-10",
+      "name": "京阪石山駅",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-10.jpg",
+      "ep": "1",
+      "geo": [
+        34.97968,
+        135.89915
+      ]
+    },
+    {
+      "id": "6476-11",
+      "name": "しゃくなげ学校(旧鎌掛小学校)",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-11.jpg",
+      "ep": "1",
+      "geo": [
+        34.98836,
+        136.25981
+      ]
+    },
+    {
+      "id": "6476-12",
+      "name": "しゃくなげ学校(旧鎌掛小学校)",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-12.jpg",
+      "ep": "1",
+      "geo": [
+        34.98911,
+        136.26006
+      ]
+    },
+    {
+      "id": "6476-13",
+      "name": "しゃくなげ学校(旧鎌掛小学校)",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-13.jpg",
+      "ep": "1",
+      "geo": [
+        34.98903,
+        136.26021
+      ]
+    },
+    {
+      "id": "6476-14",
+      "name": "穴太駅",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-14.jpg",
+      "ep": "1",
+      "geo": [
+        35.05558,
+        135.86476
+      ]
+    },
+    {
+      "id": "6476-15",
+      "name": "唐橋公園",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-15.jpg",
+      "ep": "2",
+      "geo": [
+        34.97636,
+        135.90832
+      ]
+    },
+    {
+      "id": "6476-16",
+      "name": "しゃくなげ学校(旧鎌掛小学校)",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-16.jpg",
+      "ep": "2",
+      "geo": [
+        34.98961,
+        136.2598
+      ]
+    },
+    {
+      "id": "6476-17",
+      "name": "唐橋公園",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-17.jpg",
+      "ep": "2",
+      "geo": [
+        34.97746,
+        135.90841
+      ]
+    },
+    {
+      "id": "6476-18",
+      "name": "穴太駅",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-18.jpg",
+      "ep": "3",
+      "geo": [
+        35.05599,
+        135.86521
+      ]
+    },
+    {
+      "id": "6476-19",
+      "name": "しゃくなげ学校(旧鎌掛小学校)",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-19.jpg",
+      "ep": "3",
+      "geo": [
+        34.98851,
+        136.26005
+      ]
+    },
+    {
+      "id": "6476-20",
+      "name": "大津市 市民部富士見市民センター",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-20.jpg",
+      "ep": "4",
+      "geo": [
+        34.97945,
+        135.88664
+      ]
+    },
+    {
+      "id": "6476-21",
+      "name": "唐橋公園",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-21.jpg",
+      "ep": "4",
+      "geo": [
+        34.97668,
+        135.90823
+      ]
+    },
+    {
+      "id": "6476-22",
+      "name": "びわこの千松",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-22.jpg",
+      "ep": "4",
+      "geo": [
+        34.99671,
+        135.90977
+      ]
+    },
+    {
+      "id": "6476-23",
+      "name": "びわこの千松",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-23.jpg",
+      "ep": "4",
+      "geo": [
+        34.99693,
+        135.91002
+      ]
+    },
+    {
+      "id": "6476-24",
+      "name": "檜山神社",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-24.jpg",
+      "ep": "5",
+      "geo": [
+        34.9749,
+        135.91347
+      ]
+    },
+    {
+      "id": "6476-25",
+      "name": "穴太駅",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-25.jpg",
+      "ep": "6",
+      "geo": [
+        35.05624,
+        135.86516
+      ]
+    },
+    {
+      "id": "6476-26",
+      "name": "東美浜駅",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-26.jpg",
+      "ep": "7",
+      "geo": [
+        35.61413,
+        135.98593
+      ]
+    },
+    {
+      "id": "6476-27",
+      "name": "旧伊庭家住宅",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-27.jpg",
+      "ep": "7",
+      "geo": [
+        35.13863,
+        136.13616
+      ]
+    },
+    {
+      "id": "6476-28",
+      "name": "北田(バス)",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-28.jpg",
+      "ep": "7",
+      "geo": [
+        35.64067,
+        135.98623
+      ]
+    },
+    {
+      "id": "6476-29",
+      "name": "北田(バス)",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-29.jpg",
+      "ep": "7",
+      "geo": [
+        35.6408,
+        135.98649
+      ]
+    },
+    {
+      "id": "6476-30",
+      "name": "岩出山砦跡",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-30.jpg",
+      "ep": "7",
+      "geo": [
+        35.62427,
+        135.97352
+      ]
+    },
+    {
+      "id": "6476-31",
+      "name": "久々子東(バス)",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-31.jpg",
+      "ep": "7",
+      "geo": [
+        35.60789,
+        135.9205
+      ]
+    },
+    {
+      "id": "6476-32",
+      "name": "久々子東(バス)",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-32.jpg",
+      "ep": "7",
+      "geo": [
+        35.60799,
+        135.91958
+      ]
+    },
+    {
+      "id": "6476-33",
+      "name": "ファミリーマート 玉野浦店",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-33.jpg",
+      "ep": "8",
+      "geo": [
+        34.98265,
+        135.90845
+      ]
+    },
+    {
+      "id": "6476-34",
+      "name": "ファミリーマート 美浜佐田店",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-34.jpg",
+      "ep": "8",
+      "geo": [
+        35.63293,
+        135.99196
+      ]
+    },
+    {
+      "id": "6476-35",
+      "name": "やまびこ遊園地",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-35.jpg",
+      "ep": "9",
+      "geo": [
+        34.98811,
+        136.25971
+      ]
+    },
+    {
+      "id": "6476-36",
+      "name": "マクドナルド 石山駅前店",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-36.jpg",
+      "ep": "10",
+      "geo": [
+        34.97925,
+        135.90037
+      ]
+    },
+    {
+      "id": "6476-37",
+      "name": "屋形船 四季",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-37.jpg",
+      "ep": "10",
+      "geo": [
+        34.97804,
+        135.90605
+      ]
+    },
+    {
+      "id": "6476-38",
+      "name": "唐橋公園",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-38.jpg",
+      "ep": "10",
+      "geo": [
+        34.97807,
+        135.90794
+      ]
+    },
+    {
+      "id": "6476-39",
+      "name": "ココス 瀬田唐橋店",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-39.jpg",
+      "ep": "10",
+      "geo": [
+        34.97507,
+        135.90514
+      ]
+    },
+    {
+      "id": "6476-40",
+      "name": "UR 桃山南",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-40.jpg",
+      "ep": "11",
+      "geo": [
+        34.92399,
+        135.78698
+      ]
+    },
+    {
+      "id": "6476-41",
+      "name": "コメダ珈琲店 瀬田川唐橋店",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-41.jpg",
+      "ep": "11",
+      "geo": [
+        34.97785,
+        135.90873
+      ]
+    },
+    {
+      "id": "6476-42",
+      "name": "屋形船 四季",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-42.jpg",
+      "ep": "11",
+      "geo": [
+        34.97802,
+        135.90573
+      ]
+    },
+    {
+      "id": "6476-43",
+      "name": "アミング 大津瀬田店",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-43.jpg",
+      "ep": "12",
+      "geo": [
+        34.9765,
+        135.90873
+      ]
+    },
+    {
+      "id": "6476-44",
+      "name": "天王橋（てんのうはし）",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-44.jpg",
+      "ep": "12",
+      "geo": [
+        35.60879,
+        135.94
+      ]
+    },
+    {
+      "id": "6476-45",
+      "name": "浜大津スカイクロス",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-45.jpg",
+      "ep": "SP",
+      "geo": [
+        35.01171,
+        135.864
+      ]
+    },
+    {
+      "id": "6476-46",
+      "name": "ミシガンクルーズ（大津港／琵琶湖汽船）",
+      "image": "https://image.xinu.ink/pic/data/6476/images/6476-46.jpg",
+      "ep": "SP",
+      "geo": [
+        35.01281,
+        135.86657
+      ]
+    }
+  ]
+}

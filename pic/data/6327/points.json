@@ -1,0 +1,584 @@
+{
+  "points": [
+    {
+      "id": "6327-1",
+      "name": "佃大橋",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-1.jpg",
+      "ep": "1",
+      "geo": [
+        35.6682274,
+        139.7807537
+      ]
+    },
+    {
+      "id": "6327-2",
+      "name": "ミツボシ祖師谷店",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-2.jpg",
+      "ep": "1",
+      "geo": [
+        35.6436,
+        139.60881
+      ]
+    },
+    {
+      "id": "6327-3",
+      "name": "中央区立佃公園",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-3.jpg",
+      "ep": "1",
+      "geo": [
+        35.6688602,
+        139.7826201
+      ]
+    },
+    {
+      "id": "6327-4",
+      "name": "中央大橋",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-4.jpg",
+      "ep": "1",
+      "geo": [
+        35.6710556,
+        139.7845795
+      ]
+    },
+    {
+      "id": "6327-5",
+      "name": "住吉水門",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.6685085,
+        139.7825986
+      ]
+    },
+    {
+      "id": "6327-6",
+      "name": "佃住吉講",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-6.jpg",
+      "ep": "1",
+      "geo": [
+        35.6675992,
+        139.7837266
+      ]
+    },
+    {
+      "id": "6327-7",
+      "name": "佃 麗江",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-7.jpg",
+      "ep": "1",
+      "geo": [
+        35.6673024,
+        139.7832534
+      ]
+    },
+    {
+      "id": "6327-8",
+      "name": "辰巳の森歩道橋",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-8.jpg",
+      "ep": "1",
+      "geo": [
+        35.6445539,
+        139.8127429
+      ]
+    },
+    {
+      "id": "6327-9",
+      "name": "牧酒店",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-9.jpg",
+      "ep": "2",
+      "geo": [
+        35.70129,
+        139.79659
+      ]
+    },
+    {
+      "id": "6327-10",
+      "name": "ヒロマルチェーン 三鷹井口店",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-10.jpg",
+      "ep": "2",
+      "geo": [
+        35.6989105,
+        139.5347491
+      ]
+    },
+    {
+      "id": "6327-11",
+      "name": "豊島園",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-11.jpg",
+      "ep": "2",
+      "geo": [
+        35.7431015,
+        139.6474051
+      ]
+    },
+    {
+      "id": "6327-12",
+      "name": "としまえんフィッシングエリア",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-12.jpg",
+      "ep": "2",
+      "geo": [
+        35.7443718,
+        139.6438506
+      ]
+    },
+    {
+      "id": "6327-13",
+      "name": "第一駐車場",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-13.jpg",
+      "ep": "2",
+      "geo": [
+        35.7451282,
+        139.6477937
+      ]
+    },
+    {
+      "id": "6327-14",
+      "name": "笑天やきとり 一輝",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-14.jpg",
+      "ep": "2",
+      "geo": [
+        35.7426468,
+        139.648419
+      ]
+    },
+    {
+      "id": "6327-15",
+      "name": "豊島園駅",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-15.jpg",
+      "ep": "3",
+      "geo": [
+        35.7425818,
+        139.6491092
+      ]
+    },
+    {
+      "id": "6327-16",
+      "name": "水の広場公園（西側地区）",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-16.jpg",
+      "ep": "3",
+      "geo": [
+        35.6245242,
+        139.7820562
+      ]
+    },
+    {
+      "id": "6327-17",
+      "name": "青海駅",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-17.jpg",
+      "ep": "3",
+      "geo": [
+        35.6249489,
+        139.7816515
+      ]
+    },
+    {
+      "id": "6327-18",
+      "name": "イマーシブ・フォート東京",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-18.jpg",
+      "ep": "3",
+      "geo": [
+        35.6256573,
+        139.7811862
+      ]
+    },
+    {
+      "id": "6327-19",
+      "name": "お台場おもてなしガーデン",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-19.jpg",
+      "ep": "3",
+      "geo": [
+        35.62634,
+        139.7805502
+      ]
+    },
+    {
+      "id": "6327-20",
+      "name": "25のポルティコ―色彩と反映",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-20.jpg",
+      "ep": "3",
+      "geo": [
+        35.6299706,
+        139.77771
+      ]
+    },
+    {
+      "id": "6327-21",
+      "name": "トミンハイム台場五番街４号棟",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-21.jpg",
+      "ep": "3",
+      "geo": [
+        35.6305672,
+        139.7775887
+      ]
+    },
+    {
+      "id": "6327-22",
+      "name": "お台場海浜公園",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-22.jpg",
+      "ep": "3",
+      "geo": [
+        35.6301524,
+        139.7753413
+      ]
+    },
+    {
+      "id": "6327-23",
+      "name": "レインボープロムナード",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-23.jpg",
+      "ep": "3",
+      "geo": [
+        35.6352682,
+        139.7754234
+      ]
+    },
+    {
+      "id": "6327-24",
+      "name": "レインボーブリッジ",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-24.jpg",
+      "ep": "3",
+      "geo": [
+        35.6350965,
+        139.7700642
+      ]
+    },
+    {
+      "id": "6327-25",
+      "name": "佃まちかど展示館付近",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-25.jpg",
+      "ep": "4",
+      "geo": [
+        35.6676256,
+        139.781852
+      ]
+    },
+    {
+      "id": "6327-26",
+      "name": "豊洲橋",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-26.jpg",
+      "ep": "4",
+      "geo": [
+        35.6620311,
+        139.795386
+      ]
+    },
+    {
+      "id": "6327-27",
+      "name": "豊洲ぐるり公園",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-27.jpg",
+      "ep": "4",
+      "geo": [
+        35.6419414,
+        139.7763183
+      ]
+    },
+    {
+      "id": "6327-28",
+      "name": "中央区立豊海運動公園",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-28.jpg",
+      "ep": "4",
+      "geo": [
+        35.6531182,
+        139.7726734
+      ]
+    },
+    {
+      "id": "6327-29",
+      "name": "中央区立石川島公園",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-29.jpg",
+      "ep": "4",
+      "geo": [
+        35.6715207,
+        139.7859499
+      ]
+    },
+    {
+      "id": "6327-30",
+      "name": "中央区立勝どき見晴らし公園",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-30.jpg",
+      "ep": "4",
+      "geo": [
+        35.6571336,
+        139.7697807
+      ]
+    },
+    {
+      "id": "6327-31",
+      "name": "浜前橋",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-31.jpg",
+      "ep": "4",
+      "geo": [
+        35.6586371,
+        139.7723384
+      ]
+    },
+    {
+      "id": "6327-32",
+      "name": "釣具のキャスティング 東久留米店",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-32.jpg",
+      "ep": "5",
+      "geo": [
+        35.73718,
+        139.51834
+      ]
+    },
+    {
+      "id": "6327-33",
+      "name": "若洲海浜公園 海釣り施設",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-33.jpg",
+      "ep": "5",
+      "geo": [
+        35.6161078,
+        139.8324274
+      ]
+    },
+    {
+      "id": "6327-34",
+      "name": "三井のカーシェアーズ THE TOYOSU TOWER",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-34.jpg",
+      "ep": "5",
+      "geo": [
+        35.65924,
+        139.79808
+      ]
+    },
+    {
+      "id": "6327-35",
+      "name": "新川東樋門付近",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-35.jpg",
+      "ep": "6",
+      "geo": [
+        35.6735184,
+        139.8848453
+      ]
+    },
+    {
+      "id": "6327-36",
+      "name": "中央区立両国橋際児童遊園",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-36.jpg",
+      "ep": "7",
+      "geo": [
+        35.69415,
+        139.78803
+      ]
+    },
+    {
+      "id": "6327-37",
+      "name": "横浜大黒防波堤西灯台",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-37.jpg",
+      "ep": "7",
+      "geo": [
+        35.448174,
+        139.69383
+      ]
+    },
+    {
+      "id": "6327-38",
+      "name": "大黒海釣り公園",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-38.jpg",
+      "ep": "7",
+      "geo": [
+        35.449489,
+        139.695183
+      ]
+    },
+    {
+      "id": "6327-39",
+      "name": "月島駅",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-39.jpg",
+      "ep": "8",
+      "geo": [
+        35.66433,
+        139.78481
+      ]
+    },
+    {
+      "id": "6327-40",
+      "name": "あざみ",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-40.jpg",
+      "ep": "8",
+      "geo": [
+        35.66117,
+        139.78151
+      ]
+    },
+    {
+      "id": "6327-41",
+      "name": "佃公園 佃堀広場",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-41.jpg",
+      "ep": "8",
+      "geo": [
+        35.66658,
+        139.78295
+      ]
+    },
+    {
+      "id": "6327-42",
+      "name": "ドン・キホーテ 荻窪駅前店",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-42.jpg",
+      "ep": "10",
+      "geo": [
+        35.70525,
+        139.62083
+      ]
+    },
+    {
+      "id": "6327-43",
+      "name": "杏林大学医学部付属杉並病院",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-43.jpg",
+      "ep": "10",
+      "geo": [
+        35.68905,
+        139.65619
+      ]
+    },
+    {
+      "id": "6327-44",
+      "name": "大豊建設㈱",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-44.jpg",
+      "ep": "10",
+      "geo": [
+        35.67659,
+        139.78573
+      ]
+    },
+    {
+      "id": "6327-45",
+      "name": "永代公園",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-45.jpg",
+      "ep": "10",
+      "geo": [
+        35.67596,
+        139.78838
+      ]
+    },
+    {
+      "id": "6327-46",
+      "name": "永代橋",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-46.jpg",
+      "ep": "10",
+      "geo": [
+        35.67623,
+        139.78778
+      ]
+    },
+    {
+      "id": "6327-47",
+      "name": "暁ふ頭公園",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-47.jpg",
+      "ep": "11",
+      "geo": [
+        35.60846,
+        139.79161
+      ]
+    },
+    {
+      "id": "6327-48",
+      "name": "みなと広場",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-48.jpg",
+      "ep": "11",
+      "geo": [
+        35.58205,
+        139.7845
+      ]
+    },
+    {
+      "id": "6327-49",
+      "name": "多摩川大橋緑地",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-49.jpg",
+      "ep": "11",
+      "geo": [
+        35.55758,
+        139.69423
+      ]
+    },
+    {
+      "id": "6327-50",
+      "name": "朝凪橋",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-50.jpg",
+      "ep": "11",
+      "geo": [
+        35.65736,
+        139.79996
+      ]
+    },
+    {
+      "id": "6327-51",
+      "name": "平井運動公園",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-51.jpg",
+      "ep": "11",
+      "geo": [
+        35.71267,
+        139.84661
+      ]
+    },
+    {
+      "id": "6327-52",
+      "name": "なぎさ健康サポートセンター",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-52.jpg",
+      "ep": "11",
+      "geo": [
+        35.64457,
+        139.88043
+      ]
+    },
+    {
+      "id": "6327-53",
+      "name": "有明北緑道公園",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-53.jpg",
+      "ep": "11",
+      "geo": [
+        35.63711,
+        139.77877
+      ]
+    },
+    {
+      "id": "6327-54",
+      "name": "勝鬨橋",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-54.jpg",
+      "ep": "11",
+      "geo": [
+        35.66351,
+        139.7749
+      ]
+    },
+    {
+      "id": "6327-55",
+      "name": "見晴らしばし公園",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-55.jpg",
+      "ep": "11",
+      "geo": [
+        35.56954,
+        139.7461
+      ]
+    },
+    {
+      "id": "6327-56",
+      "name": "ヘアーサロン マナミ",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-56.jpg",
+      "ep": "11",
+      "geo": [
+        35.67224,
+        139.83948
+      ]
+    },
+    {
+      "id": "6327-57",
+      "name": "葛西橋",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-57.jpg",
+      "ep": "11",
+      "geo": [
+        35.67114,
+        139.84949
+      ]
+    },
+    {
+      "id": "6327-58",
+      "name": "荒川中洲南端",
+      "image": "https://image.xinu.ink/pic/data/6327/images/6327-58.jpg",
+      "ep": "12",
+      "geo": [
+        35.66057,
+        139.8492
+      ]
+    }
+  ]
+}

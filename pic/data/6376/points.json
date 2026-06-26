@@ -1,0 +1,584 @@
+{
+  "points": [
+    {
+      "id": "6376-1",
+      "name": "THE ALLEY ルミネ大宮店",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-1.jpg",
+      "ep": "OP1",
+      "geo": [
+        35.90632,
+        139.62262
+      ]
+    },
+    {
+      "id": "6376-2",
+      "name": "花積第一駐車場",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-2.jpg",
+      "ep": "1",
+      "geo": [
+        35.96866,
+        139.71354
+      ]
+    },
+    {
+      "id": "6376-3",
+      "name": "オートショップQuick",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-3.jpg",
+      "ep": "1",
+      "geo": [
+        35.96742,
+        139.71304
+      ]
+    },
+    {
+      "id": "6376-4",
+      "name": "ドラッグストアセキ 東岩槻店",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-4.jpg",
+      "ep": "1",
+      "geo": [
+        35.96594,
+        139.71096
+      ]
+    },
+    {
+      "id": "6376-5",
+      "name": "サンドラッグ 大宮東口駅前店",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.90761,
+        139.62498
+      ]
+    },
+    {
+      "id": "6376-6",
+      "name": "ミニストップ 大宮東口店",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-6.jpg",
+      "ep": "1",
+      "geo": [
+        35.90778,
+        139.62505
+      ]
+    },
+    {
+      "id": "6376-7",
+      "name": "武蔵浦和駅西口（バス）",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-7.jpg",
+      "ep": "1",
+      "geo": [
+        35.84541,
+        139.64625
+      ]
+    },
+    {
+      "id": "6376-8",
+      "name": "大宮駅西口 (バス)",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-8.jpg",
+      "ep": "2",
+      "geo": [
+        35.90556,
+        139.62273
+      ]
+    },
+    {
+      "id": "6376-9",
+      "name": "花積田中駐車場",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-9.jpg",
+      "ep": "2",
+      "geo": [
+        35.97,
+        139.71274
+      ]
+    },
+    {
+      "id": "6376-10",
+      "name": "アルーサ北与野ポルテ29",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-10.jpg",
+      "ep": "2",
+      "geo": [
+        35.88957,
+        139.62807
+      ]
+    },
+    {
+      "id": "6376-11",
+      "name": "上落合整形外科・内科",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-11.jpg",
+      "ep": "2",
+      "geo": [
+        35.88919,
+        139.62803
+      ]
+    },
+    {
+      "id": "6376-12",
+      "name": "びゅうサイトタワー",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-12.jpg",
+      "ep": "2",
+      "geo": [
+        35.88845,
+        139.62829
+      ]
+    },
+    {
+      "id": "6376-13",
+      "name": "東京電力パワーグリッド（株）与野変電所",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-13.jpg",
+      "ep": "2",
+      "geo": [
+        35.88784,
+        139.62865
+      ]
+    },
+    {
+      "id": "6376-14",
+      "name": "パームコテージⅤ",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-14.jpg",
+      "ep": "2",
+      "geo": [
+        35.88728,
+        139.62882
+      ]
+    },
+    {
+      "id": "6376-15",
+      "name": "氷川神社",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-15.jpg",
+      "ep": "2",
+      "geo": [
+        35.88438,
+        139.62884
+      ]
+    },
+    {
+      "id": "6376-16",
+      "name": "ケヤキ薬局",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-16.jpg",
+      "ep": "2",
+      "geo": [
+        35.88242,
+        139.6291
+      ]
+    },
+    {
+      "id": "6376-17",
+      "name": "大宮駅",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-17.jpg",
+      "ep": "3",
+      "geo": [
+        35.90644,
+        139.62415
+      ]
+    },
+    {
+      "id": "6376-18",
+      "name": "ビームス 大宮",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-18.jpg",
+      "ep": "3",
+      "geo": [
+        35.90614,
+        139.62401
+      ]
+    },
+    {
+      "id": "6376-19",
+      "name": "東岩槻駅",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-19.jpg",
+      "ep": "3",
+      "geo": [
+        35.96312,
+        139.71169
+      ]
+    },
+    {
+      "id": "6376-20",
+      "name": "オートショップQuick",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-20.jpg",
+      "ep": "4",
+      "geo": [
+        35.96709,
+        139.71265
+      ]
+    },
+    {
+      "id": "6376-21",
+      "name": "fino",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-21.jpg",
+      "ep": "4",
+      "geo": [
+        35.88952,
+        139.62964
+      ]
+    },
+    {
+      "id": "6376-22",
+      "name": "埼玉りそな銀行 大宮支店 西口出張所",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-22.jpg",
+      "ep": "5",
+      "geo": [
+        35.90555,
+        139.62322
+      ]
+    },
+    {
+      "id": "6376-23",
+      "name": "ルミネ大宮屋上庭園 グリーンピースガーデン",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-23.jpg",
+      "ep": "5",
+      "geo": [
+        35.90624,
+        139.62463
+      ]
+    },
+    {
+      "id": "6376-24",
+      "name": "大宮アルシェ",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-24.jpg",
+      "ep": "5",
+      "geo": [
+        35.90609,
+        139.62215
+      ]
+    },
+    {
+      "id": "6376-25",
+      "name": "ビックカメラ 大宮西口そごう店",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-25.jpg",
+      "ep": "5",
+      "geo": [
+        35.9045,
+        139.62132
+      ]
+    },
+    {
+      "id": "6376-26",
+      "name": "大宮駅",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-26.jpg",
+      "ep": "5",
+      "geo": [
+        35.90661,
+        139.6232
+      ]
+    },
+    {
+      "id": "6376-27",
+      "name": "西谷公園",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-27.jpg",
+      "ep": "6",
+      "geo": [
+        35.8833,
+        139.62677
+      ]
+    },
+    {
+      "id": "6376-28",
+      "name": "ローソン 東岩槻駅北口店",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-28.jpg",
+      "ep": "7",
+      "geo": [
+        35.96383,
+        139.71223
+      ]
+    },
+    {
+      "id": "6376-29",
+      "name": "まいばすけっと 与野本町駅東店",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-29.jpg",
+      "ep": "8",
+      "geo": [
+        35.88186,
+        139.62967
+      ]
+    },
+    {
+      "id": "6376-30",
+      "name": "まいばすけっと 与野本町駅東店",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-30.jpg",
+      "ep": "8",
+      "geo": [
+        35.88194,
+        139.63009
+      ]
+    },
+    {
+      "id": "6376-31",
+      "name": "エスポワール岩槻",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-31.jpg",
+      "ep": "8",
+      "geo": [
+        35.96674,
+        139.71224
+      ]
+    },
+    {
+      "id": "6376-32",
+      "name": "東岩槻駅",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-32.jpg",
+      "ep": "8",
+      "geo": [
+        35.9631,
+        139.7118
+      ]
+    },
+    {
+      "id": "6376-33",
+      "name": "表慈恩寺団地 前の公園",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-33.jpg",
+      "ep": "8",
+      "geo": [
+        35.96892,
+        139.71271
+      ]
+    },
+    {
+      "id": "6376-34",
+      "name": "ガスト 東岩槻店",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-34.jpg",
+      "ep": "8",
+      "geo": [
+        35.96578,
+        139.71087
+      ]
+    },
+    {
+      "id": "6376-35",
+      "name": "ゴンチャ アルシェ大宮店",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-35.jpg",
+      "ep": "9",
+      "geo": [
+        35.90624,
+        139.62216
+      ]
+    },
+    {
+      "id": "6376-36",
+      "name": "ハンドメイドと雑貨のお店mini*",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-36.jpg",
+      "ep": "9",
+      "geo": [
+        35.90946,
+        139.62955
+      ]
+    },
+    {
+      "id": "6376-37",
+      "name": "スターバックス コーヒー ルミネ大宮 LUMINE2店",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-37.jpg",
+      "ep": "9",
+      "geo": [
+        35.90654,
+        139.62453
+      ]
+    },
+    {
+      "id": "6376-38",
+      "name": "北与野駅",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-38.jpg",
+      "ep": "9",
+      "geo": [
+        35.89033,
+        139.62878
+      ]
+    },
+    {
+      "id": "6376-39",
+      "name": "THE ALLEY ルミネ大宮店",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-39.jpg",
+      "ep": "9",
+      "geo": [
+        35.90633,
+        139.62246
+      ]
+    },
+    {
+      "id": "6376-40",
+      "name": "忠犬ハチ公像",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-40.jpg",
+      "ep": "9",
+      "geo": [
+        35.65905,
+        139.70064
+      ]
+    },
+    {
+      "id": "6376-41",
+      "name": "スペイン坂",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-41.jpg",
+      "ep": "9",
+      "geo": [
+        35.66097,
+        139.69876
+      ]
+    },
+    {
+      "id": "6376-42",
+      "name": "WWW",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-42.jpg",
+      "ep": "9",
+      "geo": [
+        35.66163,
+        139.69875
+      ]
+    },
+    {
+      "id": "6376-43",
+      "name": "LIPPS hair 渋谷",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-43.jpg",
+      "ep": "9",
+      "geo": [
+        35.66203,
+        139.69672
+      ]
+    },
+    {
+      "id": "6376-44",
+      "name": "池袋駅",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-44.jpg",
+      "ep": "10",
+      "geo": [
+        35.72902,
+        139.7113
+      ]
+    },
+    {
+      "id": "6376-45",
+      "name": "飯能駅",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-45.jpg",
+      "ep": "10",
+      "geo": [
+        35.85119,
+        139.32007
+      ]
+    },
+    {
+      "id": "6376-46",
+      "name": "ケニーズ・ファミリー・ビレッジ/オートキャンプ場",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-46.jpg",
+      "ep": "10",
+      "geo": [
+        35.88046,
+        139.18339
+      ]
+    },
+    {
+      "id": "6376-47",
+      "name": "さわらびの湯",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-47.jpg",
+      "ep": "10",
+      "geo": [
+        35.87138,
+        139.18115
+      ]
+    },
+    {
+      "id": "6376-48",
+      "name": "ケニーズ・ファミリー・ビレッジ/オートキャンプ場",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-48.jpg",
+      "ep": "10",
+      "geo": [
+        35.88046,
+        139.18244
+      ]
+    },
+    {
+      "id": "6376-49",
+      "name": "ケニーズ・ファミリー・ビレッジ/オートキャンプ場",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-49.jpg",
+      "ep": "11",
+      "geo": [
+        35.8798,
+        139.18306
+      ]
+    },
+    {
+      "id": "6376-50",
+      "name": "荒川運動公園",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-50.jpg",
+      "ep": "11",
+      "geo": [
+        35.80067,
+        139.6808
+      ]
+    },
+    {
+      "id": "6376-51",
+      "name": "戸田公園駅",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-51.jpg",
+      "ep": "11",
+      "geo": [
+        35.80766,
+        139.67812
+      ]
+    },
+    {
+      "id": "6376-52",
+      "name": "戸田公園駅東口緑地",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-52.jpg",
+      "ep": "11",
+      "geo": [
+        35.80587,
+        139.68017
+      ]
+    },
+    {
+      "id": "6376-53",
+      "name": "大宮駅",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-53.jpg",
+      "ep": "12",
+      "geo": [
+        35.90597,
+        139.62304
+      ]
+    },
+    {
+      "id": "6376-54",
+      "name": "「飛翔ふれあいと参加平和」",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-54.jpg",
+      "ep": "12",
+      "geo": [
+        35.9059,
+        139.62246
+      ]
+    },
+    {
+      "id": "6376-55",
+      "name": "大宮駅西口 (バス)",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-55.jpg",
+      "ep": "12",
+      "geo": [
+        35.90531,
+        139.62274
+      ]
+    },
+    {
+      "id": "6376-56",
+      "name": "カフェ\\u0026デリ 伯爵邸",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-56.jpg",
+      "ep": "12",
+      "geo": [
+        35.90847,
+        139.62547
+      ]
+    },
+    {
+      "id": "6376-57",
+      "name": "大戸屋ごはん処 大宮すずらん通り店",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-57.jpg",
+      "ep": "12",
+      "geo": [
+        35.90707,
+        139.62641
+      ]
+    },
+    {
+      "id": "6376-58",
+      "name": "カラオケ ビッグエコー大宮南銀通り店",
+      "image": "https://image.xinu.ink/pic/data/6376/images/6376-58.jpg",
+      "ep": "12",
+      "geo": [
+        35.90576,
+        139.62557
+      ]
+    }
+  ]
+}

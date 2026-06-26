@@ -1,0 +1,554 @@
+{
+  "points": [
+    {
+      "id": "6216-1",
+      "name": "幸手薬局",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-1.jpg",
+      "ep": "OP",
+      "geo": [
+        36.07792,
+        139.71961
+      ]
+    },
+    {
+      "id": "6216-2",
+      "name": "大酉茶屋 田々",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-2.jpg",
+      "ep": "OP",
+      "geo": [
+        36.10021,
+        139.6568
+      ]
+    },
+    {
+      "id": "6216-3",
+      "name": "サーティワンアイスクリーム 春日部駅西口店",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-3.jpg",
+      "ep": "OP",
+      "geo": [
+        35.97973,
+        139.75215
+      ]
+    },
+    {
+      "id": "6216-4",
+      "name": "ことこと",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-4.jpg",
+      "ep": "OP",
+      "geo": [
+        36.08756,
+        139.72511
+      ]
+    },
+    {
+      "id": "6216-5",
+      "name": "みずほ銀行 春日部支店",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.97961,
+        139.75201
+      ]
+    },
+    {
+      "id": "6216-6",
+      "name": "春日部駅西口（バス）",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-6.jpg",
+      "ep": "2",
+      "geo": [
+        35.97943,
+        139.75196
+      ]
+    },
+    {
+      "id": "6216-7",
+      "name": "春日部駅",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-7.jpg",
+      "ep": "3",
+      "geo": [
+        35.98027,
+        139.75198
+      ]
+    },
+    {
+      "id": "6216-8",
+      "name": "魚萬",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-8.jpg",
+      "ep": "6",
+      "geo": [
+        35.1816,
+        139.65409
+      ]
+    },
+    {
+      "id": "6216-9",
+      "name": "NewDays 大宮西改札口",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-9.jpg",
+      "ep": "7",
+      "geo": [
+        35.90594,
+        139.62281
+      ]
+    },
+    {
+      "id": "6216-10",
+      "name": "ビューティハウス エンジェル",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-10.jpg",
+      "ep": "7",
+      "geo": [
+        35.9792,
+        139.75102
+      ]
+    },
+    {
+      "id": "6216-11",
+      "name": "宮前橋",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-11.jpg",
+      "ep": "9",
+      "geo": [
+        36.09935,
+        139.65651
+      ]
+    },
+    {
+      "id": "6216-12",
+      "name": "ファミリーマート 大宮駅西口店",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-12.jpg",
+      "ep": "10",
+      "geo": [
+        35.90445,
+        139.62284
+      ]
+    },
+    {
+      "id": "6216-13",
+      "name": "杉戸高野台駅",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-13.jpg",
+      "ep": "11",
+      "geo": [
+        36.05129,
+        139.71456
+      ]
+    },
+    {
+      "id": "6216-14",
+      "name": "浅草寺",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-14.jpg",
+      "ep": "11",
+      "geo": [
+        35.71454,
+        139.79671
+      ]
+    },
+    {
+      "id": "6216-15",
+      "name": "川崎市民広場",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-15.jpg",
+      "ep": "11",
+      "geo": [
+        35.52639,
+        139.71019
+      ]
+    },
+    {
+      "id": "6216-16",
+      "name": "東京ビッグサイト 東展示棟",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-16.jpg",
+      "ep": "12",
+      "geo": [
+        35.63108,
+        139.79667
+      ]
+    },
+    {
+      "id": "6216-17",
+      "name": "東京ビッグサイト屋上展示場",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-17.jpg",
+      "ep": "12",
+      "geo": [
+        35.62852,
+        139.79423
+      ]
+    },
+    {
+      "id": "6216-18",
+      "name": "ローソン 東京ビッグサイトエントランス店",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-18.jpg",
+      "ep": "12",
+      "geo": [
+        35.63031,
+        139.79514
+      ]
+    },
+    {
+      "id": "6216-19",
+      "name": "鷲宮神社",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-19.jpg",
+      "ep": "12",
+      "geo": [
+        36.09981,
+        139.65507
+      ]
+    },
+    {
+      "id": "6216-20",
+      "name": "秋葉神社の夫婦松",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-20.jpg",
+      "ep": "13",
+      "geo": [
+        35.97948,
+        139.75248
+      ]
+    },
+    {
+      "id": "6216-21",
+      "name": "春日部共栄前（バス）",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-21.jpg",
+      "ep": "14",
+      "geo": [
+        35.96034,
+        139.74263
+      ]
+    },
+    {
+      "id": "6216-22",
+      "name": "THE ALLEY ルミネ大宮店",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-22.jpg",
+      "ep": "14",
+      "geo": [
+        35.90643,
+        139.62252
+      ]
+    },
+    {
+      "id": "6216-23",
+      "name": "大宮桜木２丁目パーキング",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-23.jpg",
+      "ep": "14",
+      "geo": [
+        35.90651,
+        139.61875
+      ]
+    },
+    {
+      "id": "6216-24",
+      "name": "そごう大宮店",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-24.jpg",
+      "ep": "15",
+      "geo": [
+        35.90518,
+        139.62225
+      ]
+    },
+    {
+      "id": "6216-25",
+      "name": "セイムス 大宮西口薬局",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-25.jpg",
+      "ep": "15",
+      "geo": [
+        35.9044,
+        139.62283
+      ]
+    },
+    {
+      "id": "6216-26",
+      "name": "ソニックシティ",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-26.jpg",
+      "ep": "15",
+      "geo": [
+        35.90529,
+        139.62156
+      ]
+    },
+    {
+      "id": "6216-27",
+      "name": "来来軒 大宮西口店",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-27.jpg",
+      "ep": "15",
+      "geo": [
+        35.90583,
+        139.62085
+      ]
+    },
+    {
+      "id": "6216-28",
+      "name": "権現堂堤",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-28.jpg",
+      "ep": "15",
+      "geo": [
+        36.0924,
+        139.72288
+      ]
+    },
+    {
+      "id": "6216-29",
+      "name": "日高屋 大宮西口店",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-29.jpg",
+      "ep": "15",
+      "geo": [
+        35.90446,
+        139.62324
+      ]
+    },
+    {
+      "id": "6216-30",
+      "name": "秋葉原駅",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-30.jpg",
+      "ep": "16",
+      "geo": [
+        35.69825,
+        139.7725
+      ]
+    },
+    {
+      "id": "6216-31",
+      "name": "AKIHABARAゲーマーズ本店",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-31.jpg",
+      "ep": "16",
+      "geo": [
+        35.69825,
+        139.77166
+      ]
+    },
+    {
+      "id": "6216-32",
+      "name": "アニメイト秋葉原",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-32.jpg",
+      "ep": "16",
+      "geo": [
+        35.70052,
+        139.77164
+      ]
+    },
+    {
+      "id": "6216-33",
+      "name": "アニメイト大宮2号館",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-33.jpg",
+      "ep": "16",
+      "geo": [
+        35.9045,
+        139.6234
+      ]
+    },
+    {
+      "id": "6216-34",
+      "name": "春日部居酒屋|まぐろやモンキー春日部店",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-34.jpg",
+      "ep": "17",
+      "geo": [
+        35.97958,
+        139.7501
+      ]
+    },
+    {
+      "id": "6216-35",
+      "name": "幸手駅",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-35.jpg",
+      "ep": "20",
+      "geo": [
+        36.07479,
+        139.71529
+      ]
+    },
+    {
+      "id": "6216-36",
+      "name": "東武動物公園駅",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-36.jpg",
+      "ep": "20",
+      "geo": [
+        36.02454,
+        139.72738
+      ]
+    },
+    {
+      "id": "6216-37",
+      "name": "京都駅",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-37.jpg",
+      "ep": "21",
+      "geo": [
+        34.98592,
+        135.759
+      ]
+    },
+    {
+      "id": "6216-38",
+      "name": "東大寺",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-38.jpg",
+      "ep": "21",
+      "geo": [
+        34.68883,
+        135.83972
+      ]
+    },
+    {
+      "id": "6216-39",
+      "name": "興福寺",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-39.jpg",
+      "ep": "21",
+      "geo": [
+        34.68254,
+        135.83166
+      ]
+    },
+    {
+      "id": "6216-40",
+      "name": "興福寺 南円堂",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-40.jpg",
+      "ep": "21",
+      "geo": [
+        34.68253,
+        135.8308
+      ]
+    },
+    {
+      "id": "6216-41",
+      "name": "清水寺",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-41.jpg",
+      "ep": "21",
+      "geo": [
+        34.99481,
+        135.78476
+      ]
+    },
+    {
+      "id": "6216-42",
+      "name": "恋占いの石",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-42.jpg",
+      "ep": "21",
+      "geo": [
+        34.99514,
+        135.78503
+      ]
+    },
+    {
+      "id": "6216-43",
+      "name": "産寧坂（三年坂）",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-43.jpg",
+      "ep": "21",
+      "geo": [
+        34.99659,
+        135.78098
+      ]
+    },
+    {
+      "id": "6216-44",
+      "name": "円山公園",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-44.jpg",
+      "ep": "21",
+      "geo": [
+        35.0034,
+        135.78051
+      ]
+    },
+    {
+      "id": "6216-45",
+      "name": "八坂神社",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-45.jpg",
+      "ep": "21",
+      "geo": [
+        35.00343,
+        135.77824
+      ]
+    },
+    {
+      "id": "6216-46",
+      "name": "ホテル本能寺",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-46.jpg",
+      "ep": "21",
+      "geo": [
+        35.01076,
+        135.76846
+      ]
+    },
+    {
+      "id": "6216-47",
+      "name": "東山慈照寺",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-47.jpg",
+      "ep": "21",
+      "geo": [
+        35.02663,
+        135.79813
+      ]
+    },
+    {
+      "id": "6216-48",
+      "name": "京都市役所前",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-48.jpg",
+      "ep": "21",
+      "geo": [
+        35.01074,
+        135.76799
+      ]
+    },
+    {
+      "id": "6216-49",
+      "name": "三条大橋",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-49.jpg",
+      "ep": "21",
+      "geo": [
+        35.00906,
+        135.77129
+      ]
+    },
+    {
+      "id": "6216-50",
+      "name": "木幡駅（京阪）",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-50.jpg",
+      "ep": "21",
+      "geo": [
+        34.92567,
+        135.79613
+      ]
+    },
+    {
+      "id": "6216-51",
+      "name": "エブリデイ薬局",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-51.jpg",
+      "ep": "21",
+      "geo": [
+        34.92566,
+        135.79555
+      ]
+    },
+    {
+      "id": "6216-52",
+      "name": "株式会社京都アニメーション 本社",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-52.jpg",
+      "ep": "21",
+      "geo": [
+        34.92479,
+        135.79869
+      ]
+    },
+    {
+      "id": "6216-53",
+      "name": "アニメイト京都",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-53.jpg",
+      "ep": "21",
+      "geo": [
+        35.00535,
+        135.76717
+      ]
+    },
+    {
+      "id": "6216-54",
+      "name": "プリクラショップ 京都オリンピア",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-54.jpg",
+      "ep": "21",
+      "geo": [
+        35.00593,
+        135.76715
+      ]
+    },
+    {
+      "id": "6216-55",
+      "name": "兼六園",
+      "image": "https://image.xinu.ink/pic/data/6216/images/6216-55.jpg",
+      "ep": "22",
+      "geo": [
+        36.56336,
+        136.66285
+      ]
+    }
+  ]
+}

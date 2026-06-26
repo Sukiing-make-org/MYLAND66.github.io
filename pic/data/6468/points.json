@@ -1,0 +1,44 @@
+{
+  "points": [
+    {
+      "id": "6468-1",
+      "name": "浅草花やしき",
+      "image": "https://image.xinu.ink/pic/data/6468/images/6468-1.jpg",
+      "ep": "ED",
+      "geo": [
+        35.71536,
+        139.79489
+      ]
+    },
+    {
+      "id": "6468-2",
+      "name": "市ヶ谷フィッシュセンター",
+      "image": "https://image.xinu.ink/pic/data/6468/images/6468-2.jpg",
+      "ep": "ED",
+      "geo": [
+        35.69192,
+        139.73595
+      ]
+    },
+    {
+      "id": "6468-3",
+      "name": "井の頭恩賜公園",
+      "image": "https://image.xinu.ink/pic/data/6468/images/6468-3.jpg",
+      "ep": "ED",
+      "geo": [
+        35.70058,
+        139.57297
+      ]
+    },
+    {
+      "id": "6468-4",
+      "name": "東京タワー",
+      "image": "https://image.xinu.ink/pic/data/6468/images/6468-4.jpg",
+      "ep": "ED",
+      "geo": [
+        35.65848,
+        139.74631
+      ]
+    }
+  ]
+}

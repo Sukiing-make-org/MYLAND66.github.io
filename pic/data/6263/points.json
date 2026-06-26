@@ -1,0 +1,524 @@
+{
+  "points": [
+    {
+      "id": "6263-1",
+      "name": "飛騨山王宮 日枝神社",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-1.jpg",
+      "ep": "OP",
+      "geo": [
+        36.13369,
+        137.25913
+      ]
+    },
+    {
+      "id": "6263-2",
+      "name": "飛騨高山宮川朝市",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-2.jpg",
+      "ep": "OP",
+      "geo": [
+        36.14392,
+        137.25805
+      ]
+    },
+    {
+      "id": "6263-3",
+      "name": "秋葉神社(行神台組)",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-3.jpg",
+      "ep": "OP",
+      "geo": [
+        36.14494,
+        137.25788
+      ]
+    },
+    {
+      "id": "6263-4",
+      "name": "糀屋柴田春次商店 朝市店",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-4.jpg",
+      "ep": "OP",
+      "geo": [
+        36.14543,
+        137.25784
+      ]
+    },
+    {
+      "id": "6263-5",
+      "name": "宮川朝市コーヒー屋",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-5.jpg",
+      "ep": "OP",
+      "geo": [
+        36.14434,
+        137.25802
+      ]
+    },
+    {
+      "id": "6263-6",
+      "name": "弥生橋",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-6.jpg",
+      "ep": "OP",
+      "geo": [
+        36.14637,
+        137.25762
+      ]
+    },
+    {
+      "id": "6263-7",
+      "name": "やよいそば 角店",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-7.jpg",
+      "ep": "1",
+      "geo": [
+        36.1462,
+        137.2567
+      ]
+    },
+    {
+      "id": "6263-8",
+      "name": "二四三屋 鍛冶橋店",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-8.jpg",
+      "ep": "1",
+      "geo": [
+        36.14312,
+        137.25759
+      ]
+    },
+    {
+      "id": "6263-9",
+      "name": "スギ薬局 高山本町店",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-9.jpg",
+      "ep": "1",
+      "geo": [
+        36.14291,
+        137.25765
+      ]
+    },
+    {
+      "id": "6263-10",
+      "name": "一本杉白山神社",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-10.jpg",
+      "ep": "2",
+      "geo": [
+        36.138,
+        137.25617
+      ]
+    },
+    {
+      "id": "6263-11",
+      "name": "バグ・パイプ",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-11.jpg",
+      "ep": "2",
+      "geo": [
+        36.14113,
+        137.25906
+      ]
+    },
+    {
+      "id": "6263-12",
+      "name": "スギ薬局 高山本町店",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-12.jpg",
+      "ep": "4",
+      "geo": [
+        36.14297,
+        137.25767
+      ]
+    },
+    {
+      "id": "6263-13",
+      "name": "川原春慶工房",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-13.jpg",
+      "ep": "4",
+      "geo": [
+        36.13788,
+        137.26825
+      ]
+    },
+    {
+      "id": "6263-14",
+      "name": "塩谷酒店",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-14.jpg",
+      "ep": "4",
+      "geo": [
+        36.1397,
+        137.26608
+      ]
+    },
+    {
+      "id": "6263-15",
+      "name": "川沿いの貸切一軒宿 SORAMACHI",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-15.jpg",
+      "ep": "4",
+      "geo": [
+        36.14088,
+        137.26536
+      ]
+    },
+    {
+      "id": "6263-16",
+      "name": "鷹の湯第3駐車場",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-16.jpg",
+      "ep": "4",
+      "geo": [
+        36.1412,
+        137.26541
+      ]
+    },
+    {
+      "id": "6263-17",
+      "name": "高山厚生病院前(バス)",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-17.jpg",
+      "ep": "4",
+      "geo": [
+        36.13423,
+        137.28752
+      ]
+    },
+    {
+      "id": "6263-18",
+      "name": "櫻ケ岡八幡神社",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-18.jpg",
+      "ep": "4",
+      "geo": [
+        36.13346,
+        137.29831
+      ]
+    },
+    {
+      "id": "6263-19",
+      "name": "加茂荘花鳥園",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-19.jpg",
+      "ep": "4",
+      "geo": [
+        34.82652,
+        137.96486
+      ]
+    },
+    {
+      "id": "6263-20",
+      "name": "諏訪神社",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-20.jpg",
+      "ep": "5",
+      "geo": [
+        36.13337,
+        137.27675
+      ]
+    },
+    {
+      "id": "6263-21",
+      "name": "斐太高校前(バス)",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-21.jpg",
+      "ep": "5",
+      "geo": [
+        36.1566,
+        137.2569
+      ]
+    },
+    {
+      "id": "6263-22",
+      "name": "Bar Thumbs Up!",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-22.jpg",
+      "ep": "5",
+      "geo": [
+        36.14595,
+        137.25672
+      ]
+    },
+    {
+      "id": "6263-23",
+      "name": "アルプス街道平湯",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-23.jpg",
+      "ep": "7",
+      "geo": [
+        36.19095,
+        137.55154
+      ]
+    },
+    {
+      "id": "6263-24",
+      "name": "山荘 湯乃里",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-24.jpg",
+      "ep": "7",
+      "geo": [
+        36.19241,
+        137.55423
+      ]
+    },
+    {
+      "id": "6263-25",
+      "name": "平湯神社",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-25.jpg",
+      "ep": "7",
+      "geo": [
+        36.19201,
+        137.55394
+      ]
+    },
+    {
+      "id": "6263-26",
+      "name": "平湯の湯",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-26.jpg",
+      "ep": "7",
+      "geo": [
+        36.19174,
+        137.55452
+      ]
+    },
+    {
+      "id": "6263-27",
+      "name": "下嶋青果店",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-27.jpg",
+      "ep": "9",
+      "geo": [
+        36.1458,
+        137.25678
+      ]
+    },
+    {
+      "id": "6263-28",
+      "name": "喫茶去かつて",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-28.jpg",
+      "ep": "10",
+      "geo": [
+        36.14159,
+        137.25956
+      ]
+    },
+    {
+      "id": "6263-29",
+      "name": "COREO",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-29.jpg",
+      "ep": "10",
+      "geo": [
+        36.14133,
+        137.25824
+      ]
+    },
+    {
+      "id": "6263-30",
+      "name": "あららて",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-30.jpg",
+      "ep": "10",
+      "geo": [
+        36.14227,
+        137.2579
+      ]
+    },
+    {
+      "id": "6263-31",
+      "name": "ｙａｋｉｎｉｋｕ楓",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-31.jpg",
+      "ep": "10",
+      "geo": [
+        36.14221,
+        137.25782
+      ]
+    },
+    {
+      "id": "6263-32",
+      "name": "秋葉神社 本町4丁目",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-32.jpg",
+      "ep": "11",
+      "geo": [
+        36.14542,
+        137.25741
+      ]
+    },
+    {
+      "id": "6263-33",
+      "name": "市営 かじ橋駐車場",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-33.jpg",
+      "ep": "11",
+      "geo": [
+        36.14361,
+        137.25745
+      ]
+    },
+    {
+      "id": "6263-34",
+      "name": "鮨匠",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-34.jpg",
+      "ep": "11",
+      "geo": [
+        36.13856,
+        137.25599
+      ]
+    },
+    {
+      "id": "6263-35",
+      "name": "飛驒一宮水無神社",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-35.jpg",
+      "ep": "12",
+      "geo": [
+        36.08601,
+        137.25075
+      ]
+    },
+    {
+      "id": "6263-36",
+      "name": "飛驒一宮水無神社",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-36.jpg",
+      "ep": "12",
+      "geo": [
+        36.08541,
+        137.25175
+      ]
+    },
+    {
+      "id": "6263-37",
+      "name": "寿々や",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-37.jpg",
+      "ep": "15",
+      "geo": [
+        36.14239,
+        137.25563
+      ]
+    },
+    {
+      "id": "6263-38",
+      "name": "千鳥橋",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-38.jpg",
+      "ep": "18",
+      "geo": [
+        36.14627,
+        137.25779
+      ]
+    },
+    {
+      "id": "6263-39",
+      "name": "千鳥橋",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-39.jpg",
+      "ep": "18",
+      "geo": [
+        36.14614,
+        137.25776
+      ]
+    },
+    {
+      "id": "6263-40",
+      "name": "高山市図書館 煥章館(本館)",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-40.jpg",
+      "ep": "18",
+      "geo": [
+        36.14337,
+        137.26248
+      ]
+    },
+    {
+      "id": "6263-41",
+      "name": "手長足長像",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-41.jpg",
+      "ep": "18",
+      "geo": [
+        36.14308,
+        137.25795
+      ]
+    },
+    {
+      "id": "6263-42",
+      "name": "二四三屋 鍛冶橋店",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-42.jpg",
+      "ep": "18",
+      "geo": [
+        36.14308,
+        137.25765
+      ]
+    },
+    {
+      "id": "6263-43",
+      "name": "飛騨山王宮 日枝神社",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-43.jpg",
+      "ep": "20",
+      "geo": [
+        36.13391,
+        137.25892
+      ]
+    },
+    {
+      "id": "6263-44",
+      "name": "飛騨山王宮 日枝神社",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-44.jpg",
+      "ep": "20",
+      "geo": [
+        36.13282,
+        137.26111
+      ]
+    },
+    {
+      "id": "6263-45",
+      "name": "トロンチ",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-45.jpg",
+      "ep": "21",
+      "geo": [
+        35.44404,
+        136.77471
+      ]
+    },
+    {
+      "id": "6263-46",
+      "name": "不動橋",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-46.jpg",
+      "ep": "21",
+      "geo": [
+        36.14884,
+        137.25677
+      ]
+    },
+    {
+      "id": "6263-47",
+      "name": "花里跨線橋",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-47.jpg",
+      "ep": "21",
+      "geo": [
+        36.13841,
+        137.25157
+      ]
+    },
+    {
+      "id": "6263-48",
+      "name": "飛騨総社",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-48.jpg",
+      "ep": "21",
+      "geo": [
+        36.14833,
+        137.25517
+      ]
+    },
+    {
+      "id": "6263-49",
+      "name": "飛驒一宮水無神社",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-49.jpg",
+      "ep": "22",
+      "geo": [
+        36.08621,
+        137.25179
+      ]
+    },
+    {
+      "id": "6263-50",
+      "name": "飛驒一宮水無神社",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-50.jpg",
+      "ep": "22",
+      "geo": [
+        36.0861,
+        137.25126
+      ]
+    },
+    {
+      "id": "6263-51",
+      "name": "臥龍桜",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-51.jpg",
+      "ep": "22",
+      "geo": [
+        36.08895,
+        137.24786
+      ]
+    },
+    {
+      "id": "6263-52",
+      "name": "高山市民プール",
+      "image": "https://image.xinu.ink/pic/data/6263/images/6263-52.jpg",
+      "ep": "OVA",
+      "geo": [
+        36.15827,
+        137.23207
+      ]
+    }
+  ]
+}

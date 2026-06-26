@@ -1,0 +1,654 @@
+{
+  "points": [
+    {
+      "id": "6385-1",
+      "name": "朝陽橋",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-1.jpg",
+      "ep": "OP",
+      "geo": [
+        36.74934,
+        137.02203
+      ]
+    },
+    {
+      "id": "6385-2",
+      "name": "三の丸茶屋·公園案内所",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-2.jpg",
+      "ep": "OP",
+      "geo": [
+        36.74914,
+        137.0232
+      ]
+    },
+    {
+      "id": "6385-3",
+      "name": "千保川遊歩道",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-3.jpg",
+      "ep": "OP",
+      "geo": [
+        36.74102,
+        137.00058
+      ]
+    },
+    {
+      "id": "6385-4",
+      "name": "大木白山社",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-4.jpg",
+      "ep": "OP",
+      "geo": [
+        36.74118,
+        137.01043
+      ]
+    },
+    {
+      "id": "6385-5",
+      "name": "高岡市水道局住吉ポンプ場",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-5.jpg",
+      "ep": "1",
+      "geo": [
+        36.74556,
+        137.00121
+      ]
+    },
+    {
+      "id": "6385-6",
+      "name": "木田事務所",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-6.jpg",
+      "ep": "1",
+      "geo": [
+        36.73693,
+        137.00529
+      ]
+    },
+    {
+      "id": "6385-7",
+      "name": "長田印刷",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-7.jpg",
+      "ep": "2",
+      "geo": [
+        36.74104,
+        136.99882
+      ]
+    },
+    {
+      "id": "6385-8",
+      "name": "長田印刷",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-8.jpg",
+      "ep": "2",
+      "geo": [
+        36.74119,
+        136.99906
+      ]
+    },
+    {
+      "id": "6385-9",
+      "name": "上野通商",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-9.jpg",
+      "ep": "2",
+      "geo": [
+        36.74079,
+        136.99443
+      ]
+    },
+    {
+      "id": "6385-10",
+      "name": "富山大橋",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-10.jpg",
+      "ep": "2",
+      "geo": [
+        36.69386,
+        137.19947
+      ]
+    },
+    {
+      "id": "6385-11",
+      "name": "セブン-イレブン ハートインＪＲ富山駅店",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-11.jpg",
+      "ep": "2",
+      "geo": [
+        36.70146,
+        137.21273
+      ]
+    },
+    {
+      "id": "6385-12",
+      "name": "セブン-イレブン ハートインあいの風鉄道富山駅店",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-12.jpg",
+      "ep": "2",
+      "geo": [
+        36.70157,
+        137.21336
+      ]
+    },
+    {
+      "id": "6385-13",
+      "name": "富山駅",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-13.jpg",
+      "ep": "2",
+      "geo": [
+        36.70163,
+        137.2134
+      ]
+    },
+    {
+      "id": "6385-14",
+      "name": "高岡駅北口タクシー乗り場",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-14.jpg",
+      "ep": "2",
+      "geo": [
+        36.74169,
+        137.01522
+      ]
+    },
+    {
+      "id": "6385-15",
+      "name": "セブン-イレブン クルン高岡店",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-15.jpg",
+      "ep": "5",
+      "geo": [
+        36.74172,
+        137.01553
+      ]
+    },
+    {
+      "id": "6385-16",
+      "name": "SEKAI HOTEL Takaoka",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-16.jpg",
+      "ep": "5",
+      "geo": [
+        36.74352,
+        137.01441
+      ]
+    },
+    {
+      "id": "6385-17",
+      "name": "焼肉かむる",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-17.jpg",
+      "ep": "5",
+      "geo": [
+        36.74476,
+        137.0134
+      ]
+    },
+    {
+      "id": "6385-18",
+      "name": "ココス 高岡駅南店",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-18.jpg",
+      "ep": "5",
+      "geo": [
+        36.73857,
+        137.01814
+      ]
+    },
+    {
+      "id": "6385-19",
+      "name": "上野通商",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-19.jpg",
+      "ep": "6",
+      "geo": [
+        36.74086,
+        136.99452
+      ]
+    },
+    {
+      "id": "6385-20",
+      "name": "ベストパートナーズ税理士法人 村上事務所",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-20.jpg",
+      "ep": "7",
+      "geo": [
+        36.74264,
+        136.99967
+      ]
+    },
+    {
+      "id": "6385-21",
+      "name": "駅前広場緑地",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-21.jpg",
+      "ep": "7",
+      "geo": [
+        36.74195,
+        137.01514
+      ]
+    },
+    {
+      "id": "6385-22",
+      "name": "高岡駅北口タクシー乗り場",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-22.jpg",
+      "ep": "7",
+      "geo": [
+        36.7417,
+        137.01515
+      ]
+    },
+    {
+      "id": "6385-23",
+      "name": "駅前広場緑地",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-23.jpg",
+      "ep": "7",
+      "geo": [
+        36.74203,
+        137.01559
+      ]
+    },
+    {
+      "id": "6385-24",
+      "name": "トランクルーム高岡市駅南二丁目",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-24.jpg",
+      "ep": "7",
+      "geo": [
+        36.73865,
+        137.02001
+      ]
+    },
+    {
+      "id": "6385-25",
+      "name": "アミング 高岡店",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-25.jpg",
+      "ep": "7",
+      "geo": [
+        36.73081,
+        137.01655
+      ]
+    },
+    {
+      "id": "6385-26",
+      "name": "赤祖父公民館",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-26.jpg",
+      "ep": "7",
+      "geo": [
+        36.73108,
+        137.02075
+      ]
+    },
+    {
+      "id": "6385-27",
+      "name": "赤祖父神社",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-27.jpg",
+      "ep": "7",
+      "geo": [
+        36.73104,
+        137.02088
+      ]
+    },
+    {
+      "id": "6385-28",
+      "name": "やまや 高岡店",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-28.jpg",
+      "ep": "7",
+      "geo": [
+        36.73169,
+        137.0202
+      ]
+    },
+    {
+      "id": "6385-29",
+      "name": "イオンモール高岡",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-29.jpg",
+      "ep": "7",
+      "geo": [
+        36.72391,
+        137.01628
+      ]
+    },
+    {
+      "id": "6385-30",
+      "name": "観音寺（曹洞宗）",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-30.jpg",
+      "ep": "7",
+      "geo": [
+        36.74094,
+        137.01089
+      ]
+    },
+    {
+      "id": "6385-31",
+      "name": "観音寺（曹洞宗）",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-31.jpg",
+      "ep": "7",
+      "geo": [
+        36.74083,
+        137.01093
+      ]
+    },
+    {
+      "id": "6385-32",
+      "name": "指物畳店",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-32.jpg",
+      "ep": "7",
+      "geo": [
+        36.74078,
+        137.01036
+      ]
+    },
+    {
+      "id": "6385-33",
+      "name": "指物畳店",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-33.jpg",
+      "ep": "7",
+      "geo": [
+        36.74094,
+        137.0103
+      ]
+    },
+    {
+      "id": "6385-34",
+      "name": "大木白山社",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-34.jpg",
+      "ep": "7",
+      "geo": [
+        36.74118,
+        137.01016
+      ]
+    },
+    {
+      "id": "6385-35",
+      "name": "スポーツクラブ アクトスWill高岡",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-35.jpg",
+      "ep": "7",
+      "geo": [
+        36.74044,
+        137.00086
+      ]
+    },
+    {
+      "id": "6385-36",
+      "name": "スポーツクラブ アクトスWill高岡",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-36.jpg",
+      "ep": "7",
+      "geo": [
+        36.74043,
+        137.00096
+      ]
+    },
+    {
+      "id": "6385-37",
+      "name": "スポーツクラブ アクトスWill高岡",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-37.jpg",
+      "ep": "7",
+      "geo": [
+        36.74035,
+        137.00088
+      ]
+    },
+    {
+      "id": "6385-38",
+      "name": "スーパーマーケットバロー高岡木津店",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-38.jpg",
+      "ep": "8",
+      "geo": [
+        36.73902,
+        137.00111
+      ]
+    },
+    {
+      "id": "6385-39",
+      "name": "Ｖ・drug 高岡木津店",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-39.jpg",
+      "ep": "8",
+      "geo": [
+        36.7391,
+        137.00097
+      ]
+    },
+    {
+      "id": "6385-40",
+      "name": "らーめん 紅蘭",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-40.jpg",
+      "ep": "8",
+      "geo": [
+        36.73911,
+        137.00266
+      ]
+    },
+    {
+      "id": "6385-41",
+      "name": "座敷料理 宮一",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-41.jpg",
+      "ep": "8",
+      "geo": [
+        36.73918,
+        137.00273
+      ]
+    },
+    {
+      "id": "6385-42",
+      "name": "ゲームスポット２０７",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-42.jpg",
+      "ep": "8",
+      "geo": [
+        36.73235,
+        137.00245
+      ]
+    },
+    {
+      "id": "6385-43",
+      "name": "レオパレスBigハート",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-43.jpg",
+      "ep": "9",
+      "geo": [
+        36.73852,
+        136.99657
+      ]
+    },
+    {
+      "id": "6385-44",
+      "name": "二月と八月",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-44.jpg",
+      "ep": "9",
+      "geo": [
+        36.73884,
+        136.9962
+      ]
+    },
+    {
+      "id": "6385-45",
+      "name": "高岡市立木津小学校",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-45.jpg",
+      "ep": "9",
+      "geo": [
+        36.73947,
+        136.9954
+      ]
+    },
+    {
+      "id": "6385-46",
+      "name": "高岡市立木津小学校",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-46.jpg",
+      "ep": "9",
+      "geo": [
+        36.73931,
+        136.99546
+      ]
+    },
+    {
+      "id": "6385-47",
+      "name": "木津コンパクトハウス",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-47.jpg",
+      "ep": "9",
+      "geo": [
+        36.74038,
+        136.99589
+      ]
+    },
+    {
+      "id": "6385-48",
+      "name": "株式会社名免良",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-48.jpg",
+      "ep": "9",
+      "geo": [
+        36.74087,
+        136.99616
+      ]
+    },
+    {
+      "id": "6385-49",
+      "name": "駅南緑の丘公園",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-49.jpg",
+      "ep": "9",
+      "geo": [
+        36.73177,
+        137.01901
+      ]
+    },
+    {
+      "id": "6385-50",
+      "name": "林プレーナー",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-50.jpg",
+      "ep": "9",
+      "geo": [
+        36.74213,
+        136.99664
+      ]
+    },
+    {
+      "id": "6385-51",
+      "name": "林プレーナー",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-51.jpg",
+      "ep": "9",
+      "geo": [
+        36.74186,
+        136.9965
+      ]
+    },
+    {
+      "id": "6385-52",
+      "name": "フレッシュフルーツ 上野商店",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-52.jpg",
+      "ep": "9",
+      "geo": [
+        36.74281,
+        136.99667
+      ]
+    },
+    {
+      "id": "6385-53",
+      "name": "問屋町緑地",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-53.jpg",
+      "ep": "9",
+      "geo": [
+        36.73047,
+        137.0268
+      ]
+    },
+    {
+      "id": "6385-54",
+      "name": "カフェギャラリー 銀の車輪",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-54.jpg",
+      "ep": "9",
+      "geo": [
+        36.73821,
+        136.99782
+      ]
+    },
+    {
+      "id": "6385-55",
+      "name": "木津公園",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-55.jpg",
+      "ep": "9",
+      "geo": [
+        36.73786,
+        136.99736
+      ]
+    },
+    {
+      "id": "6385-56",
+      "name": "高岡市立木津公民館",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-56.jpg",
+      "ep": "9",
+      "geo": [
+        36.73826,
+        136.99684
+      ]
+    },
+    {
+      "id": "6385-57",
+      "name": "大福院",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-57.jpg",
+      "ep": "10",
+      "geo": [
+        36.74144,
+        136.99523
+      ]
+    },
+    {
+      "id": "6385-58",
+      "name": "三光鍍金工業",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-58.jpg",
+      "ep": "10",
+      "geo": [
+        36.74264,
+        136.99991
+      ]
+    },
+    {
+      "id": "6385-59",
+      "name": "高岡整志会病院 駐車場",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-59.jpg",
+      "ep": "11",
+      "geo": [
+        36.74601,
+        137.01997
+      ]
+    },
+    {
+      "id": "6385-60",
+      "name": "高岡城 大手口跡",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-60.jpg",
+      "ep": "11",
+      "geo": [
+        36.74612,
+        137.02009
+      ]
+    },
+    {
+      "id": "6385-61",
+      "name": "小竹藪広場",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-61.jpg",
+      "ep": "11",
+      "geo": [
+        36.75013,
+        137.0234
+      ]
+    },
+    {
+      "id": "6385-62",
+      "name": "小竹藪広場",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-62.jpg",
+      "ep": "11",
+      "geo": [
+        36.75075,
+        137.02272
+      ]
+    },
+    {
+      "id": "6385-63",
+      "name": "前田利長騎馬像",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-63.jpg",
+      "ep": "11",
+      "geo": [
+        36.75005,
+        137.02075
+      ]
+    },
+    {
+      "id": "6385-64",
+      "name": "中の島",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-64.jpg",
+      "ep": "12",
+      "geo": [
+        36.75018,
+        137.02211
+      ]
+    },
+    {
+      "id": "6385-65",
+      "name": "朝陽橋",
+      "image": "https://image.xinu.ink/pic/data/6385/images/6385-65.jpg",
+      "ep": "12",
+      "geo": [
+        36.74938,
+        137.02222
+      ]
+    }
+  ]
+}

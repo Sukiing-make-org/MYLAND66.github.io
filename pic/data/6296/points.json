@@ -1,0 +1,44 @@
+{
+  "points": [
+    {
+      "id": "6296-1",
+      "name": "大和駅ビル プロス",
+      "image": "https://image.xinu.ink/pic/data/6296/images/6296-1.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.4699592,
+        139.4624788
+      ]
+    },
+    {
+      "id": "6296-2",
+      "name": "読売ランド前駅",
+      "image": "https://image.xinu.ink/pic/data/6296/images/6296-2.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.6144395,
+        139.5280423
+      ]
+    },
+    {
+      "id": "6296-3",
+      "name": "よみうりランド",
+      "image": "https://image.xinu.ink/pic/data/6296/images/6296-3.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.6235374,
+        139.5207931
+      ]
+    },
+    {
+      "id": "6296-4",
+      "name": "中央１号公園",
+      "image": "https://image.xinu.ink/pic/data/6296/images/6296-4.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.4678155,
+        139.4595265
+      ]
+    }
+  ]
+}

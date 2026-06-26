@@ -1,0 +1,74 @@
+{
+  "points": [
+    {
+      "id": "6435-1",
+      "name": "渋谷スクランブル交差点",
+      "image": "https://image.xinu.ink/pic/data/6435/images/6435-1.jpg",
+      "ep": "2",
+      "geo": [
+        35.65933,
+        139.70046
+      ]
+    },
+    {
+      "id": "6435-2",
+      "name": "三井のリパーク 松原１丁目第２ 駐車場",
+      "image": "https://image.xinu.ink/pic/data/6435/images/6435-2.jpg",
+      "ep": "4",
+      "geo": [
+        35.67027,
+        139.65172
+      ]
+    },
+    {
+      "id": "6435-3",
+      "name": "肉汁餃子のダンダダン 明大前店",
+      "image": "https://image.xinu.ink/pic/data/6435/images/6435-3.jpg",
+      "ep": "5",
+      "geo": [
+        35.66877,
+        139.65101
+      ]
+    },
+    {
+      "id": "6435-4",
+      "name": "Glicina Meidaimae",
+      "image": "https://image.xinu.ink/pic/data/6435/images/6435-4.jpg",
+      "ep": "6",
+      "geo": [
+        35.67061,
+        139.65498
+      ]
+    },
+    {
+      "id": "6435-5",
+      "name": "プラネアール明大前スタジオ",
+      "image": "https://image.xinu.ink/pic/data/6435/images/6435-5.jpg",
+      "ep": "6",
+      "geo": [
+        35.66964,
+        139.65491
+      ]
+    },
+    {
+      "id": "6435-6",
+      "name": "松原一丁目会館",
+      "image": "https://image.xinu.ink/pic/data/6435/images/6435-6.jpg",
+      "ep": "6",
+      "geo": [
+        35.67004,
+        139.65388
+      ]
+    },
+    {
+      "id": "6435-7",
+      "name": "井の頭街道碑",
+      "image": "https://image.xinu.ink/pic/data/6435/images/6435-7.jpg",
+      "ep": "11",
+      "geo": [
+        35.67093,
+        139.65269
+      ]
+    }
+  ]
+}

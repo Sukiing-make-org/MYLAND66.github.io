@@ -1,0 +1,654 @@
+{
+  "points": [
+    {
+      "id": "6288-1",
+      "name": "川原町の古いまちなみ",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-1.jpg",
+      "ep": "ED",
+      "geo": [
+        35.43687,
+        136.77133
+      ]
+    },
+    {
+      "id": "6288-2",
+      "name": "大縄場テニスコート",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-2.jpg",
+      "ep": "ED",
+      "geo": [
+        35.42797,
+        136.74586
+      ]
+    },
+    {
+      "id": "6288-3",
+      "name": "青柳町7丁目駐車場",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-3.jpg",
+      "ep": "ED",
+      "geo": [
+        35.42698,
+        136.74647
+      ]
+    },
+    {
+      "id": "6288-4",
+      "name": "有限会社サンスイ工房",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-4.jpg",
+      "ep": "ED",
+      "geo": [
+        35.40495,
+        136.78471
+      ]
+    },
+    {
+      "id": "6288-5",
+      "name": "梅林公園",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-5.jpg",
+      "ep": "ED",
+      "geo": [
+        35.41797,
+        136.77044
+      ]
+    },
+    {
+      "id": "6288-6",
+      "name": "忠節橋",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-6.jpg",
+      "ep": "1",
+      "geo": [
+        35.43043,
+        136.7502
+      ]
+    },
+    {
+      "id": "6288-7",
+      "name": "サロンドマルイチ",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-7.jpg",
+      "ep": "1",
+      "geo": [
+        35.41877,
+        136.75835
+      ]
+    },
+    {
+      "id": "6288-8",
+      "name": "ゴトーヤドルチェラコント",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-8.jpg",
+      "ep": "1",
+      "geo": [
+        35.42007,
+        136.76276
+      ]
+    },
+    {
+      "id": "6288-9",
+      "name": "聖天堂",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-9.jpg",
+      "ep": "1",
+      "geo": [
+        35.42807,
+        136.76822
+      ]
+    },
+    {
+      "id": "6288-10",
+      "name": "中佐波",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-10.jpg",
+      "ep": "1",
+      "geo": [
+        35.36825,
+        136.71833
+      ]
+    },
+    {
+      "id": "6288-11",
+      "name": "Ｖ・drug 東鶉店",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-11.jpg",
+      "ep": "1",
+      "geo": [
+        35.38307,
+        136.74097
+      ]
+    },
+    {
+      "id": "6288-12",
+      "name": "レンガ通り商店街",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-12.jpg",
+      "ep": "1",
+      "geo": [
+        35.41819,
+        136.75916
+      ]
+    },
+    {
+      "id": "6288-13",
+      "name": "アクアージュ 柳ヶ瀬",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-13.jpg",
+      "ep": "1",
+      "geo": [
+        35.41829,
+        136.75983
+      ]
+    },
+    {
+      "id": "6288-14",
+      "name": "忠節天神神社",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-14.jpg",
+      "ep": "1",
+      "geo": [
+        35.42888,
+        136.75072
+      ]
+    },
+    {
+      "id": "6288-15",
+      "name": "（株）吉田旗店",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-15.jpg",
+      "ep": "1",
+      "geo": [
+        35.42723,
+        136.74678
+      ]
+    },
+    {
+      "id": "6288-16",
+      "name": "セブン-イレブン 岐阜明徳町店",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-16.jpg",
+      "ep": "1",
+      "geo": [
+        35.42343,
+        136.7585
+      ]
+    },
+    {
+      "id": "6288-17",
+      "name": "おむすび三昧 鷹見店",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-17.jpg",
+      "ep": "1",
+      "geo": [
+        35.42399,
+        136.75816
+      ]
+    },
+    {
+      "id": "6288-18",
+      "name": "cafe\\u0026gallery川原町屋",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-18.jpg",
+      "ep": "2",
+      "geo": [
+        35.43691,
+        136.77149
+      ]
+    },
+    {
+      "id": "6288-19",
+      "name": "岐阜柳ヶ瀬 CINEX",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-19.jpg",
+      "ep": "2",
+      "geo": [
+        35.41855,
+        136.75827
+      ]
+    },
+    {
+      "id": "6288-20",
+      "name": "タカハシ理容院",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-20.jpg",
+      "ep": "2",
+      "geo": [
+        35.42816,
+        136.75125
+      ]
+    },
+    {
+      "id": "6288-21",
+      "name": "三田洞(バス)",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-21.jpg",
+      "ep": "2",
+      "geo": [
+        35.47857,
+        136.78321
+      ]
+    },
+    {
+      "id": "6288-22",
+      "name": "岐阜市立中央図書館",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-22.jpg",
+      "ep": "3",
+      "geo": [
+        35.42702,
+        136.76004
+      ]
+    },
+    {
+      "id": "6288-23",
+      "name": "山栄食品工業（株） 本社",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-23.jpg",
+      "ep": "4",
+      "geo": [
+        35.40444,
+        136.78261
+      ]
+    },
+    {
+      "id": "6288-24",
+      "name": "うおいち前",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-24.jpg",
+      "ep": "4",
+      "geo": [
+        35.40328,
+        136.78289
+      ]
+    },
+    {
+      "id": "6288-25",
+      "name": "フレスト岐阜",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-25.jpg",
+      "ep": "4",
+      "geo": [
+        35.40427,
+        136.78596
+      ]
+    },
+    {
+      "id": "6288-26",
+      "name": "わかば農園",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-26.jpg",
+      "ep": "4",
+      "geo": [
+        35.4046,
+        136.78821
+      ]
+    },
+    {
+      "id": "6288-27",
+      "name": "野寄ハイツ",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-27.jpg",
+      "ep": "4",
+      "geo": [
+        35.40492,
+        136.78755
+      ]
+    },
+    {
+      "id": "6288-28",
+      "name": "塗装リフォーム ギフトユー",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-28.jpg",
+      "ep": "4",
+      "geo": [
+        35.40679,
+        136.78641
+      ]
+    },
+    {
+      "id": "6288-29",
+      "name": "岐阜スバル自動車株式会社 岐阜細畑店",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-29.jpg",
+      "ep": "4",
+      "geo": [
+        35.40745,
+        136.78643
+      ]
+    },
+    {
+      "id": "6288-30",
+      "name": "れもんせっこつ院",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-30.jpg",
+      "ep": "4",
+      "geo": [
+        35.40755,
+        136.78494
+      ]
+    },
+    {
+      "id": "6288-31",
+      "name": "木ノ下公園",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-31.jpg",
+      "ep": "4",
+      "geo": [
+        35.40787,
+        136.78318
+      ]
+    },
+    {
+      "id": "6288-32",
+      "name": "（有）長縄板金",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-32.jpg",
+      "ep": "4",
+      "geo": [
+        35.40492,
+        136.78254
+      ]
+    },
+    {
+      "id": "6288-33",
+      "name": "こむぎ庵",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-33.jpg",
+      "ep": "4",
+      "geo": [
+        35.40433,
+        136.78451
+      ]
+    },
+    {
+      "id": "6288-34",
+      "name": "城南高等学校",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-34.jpg",
+      "ep": "4",
+      "geo": [
+        35.40561,
+        136.78474
+      ]
+    },
+    {
+      "id": "6288-35",
+      "name": "黄金の織田信長公像",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-35.jpg",
+      "ep": "4",
+      "geo": [
+        35.41033,
+        136.75684
+      ]
+    },
+    {
+      "id": "6288-36",
+      "name": "ホテルリブマックス岐阜駅前",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-36.jpg",
+      "ep": "4",
+      "geo": [
+        35.41323,
+        136.75666
+      ]
+    },
+    {
+      "id": "6288-37",
+      "name": "ファミリーマート 岐阜金町七丁目店",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-37.jpg",
+      "ep": "4",
+      "geo": [
+        35.41347,
+        136.75664
+      ]
+    },
+    {
+      "id": "6288-38",
+      "name": "会処しんめ",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-38.jpg",
+      "ep": "5",
+      "geo": [
+        35.43442,
+        136.77241
+      ]
+    },
+    {
+      "id": "6288-39",
+      "name": "岐阜公園 駐輪場",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-39.jpg",
+      "ep": "5",
+      "geo": [
+        35.43472,
+        136.77388
+      ]
+    },
+    {
+      "id": "6288-40",
+      "name": "井ノ口珈琲 焙煎所",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-40.jpg",
+      "ep": "5",
+      "geo": [
+        35.4349,
+        136.77408
+      ]
+    },
+    {
+      "id": "6288-41",
+      "name": "むらせ",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-41.jpg",
+      "ep": "5",
+      "geo": [
+        35.43456,
+        136.77393
+      ]
+    },
+    {
+      "id": "6288-42",
+      "name": "冠木門",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-42.jpg",
+      "ep": "5",
+      "geo": [
+        35.43415,
+        136.77399
+      ]
+    },
+    {
+      "id": "6288-43",
+      "name": "吉田旗店",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-43.jpg",
+      "ep": "6",
+      "geo": [
+        35.42706,
+        136.74689
+      ]
+    },
+    {
+      "id": "6288-44",
+      "name": "セブン-イレブン 岐阜粟野西４丁目店",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-44.jpg",
+      "ep": "6",
+      "geo": [
+        35.48593,
+        136.7793
+      ]
+    },
+    {
+      "id": "6288-45",
+      "name": "河渡橋",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-45.jpg",
+      "ep": "8",
+      "geo": [
+        35.4073,
+        136.70586
+      ]
+    },
+    {
+      "id": "6288-46",
+      "name": "菖蒲池公園",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-46.jpg",
+      "ep": "8",
+      "geo": [
+        35.41707,
+        136.72786
+      ]
+    },
+    {
+      "id": "6288-47",
+      "name": "岐阜市民病院",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-47.jpg",
+      "ep": "8",
+      "geo": [
+        35.41383,
+        136.7351
+      ]
+    },
+    {
+      "id": "6288-48",
+      "name": "cafe CACHE - CACHE",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-48.jpg",
+      "ep": "9",
+      "geo": [
+        35.42473,
+        136.72541
+      ]
+    },
+    {
+      "id": "6288-49",
+      "name": "河渡橋",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-49.jpg",
+      "ep": "9",
+      "geo": [
+        35.40861,
+        136.70753
+      ]
+    },
+    {
+      "id": "6288-50",
+      "name": "菖蒲池公園",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-50.jpg",
+      "ep": "9",
+      "geo": [
+        35.41782,
+        136.72789
+      ]
+    },
+    {
+      "id": "6288-51",
+      "name": "菖蒲池公園",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-51.jpg",
+      "ep": "9",
+      "geo": [
+        35.41802,
+        136.729
+      ]
+    },
+    {
+      "id": "6288-52",
+      "name": "長良川落ち鮎漁",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-52.jpg",
+      "ep": "9",
+      "geo": [
+        35.41803,
+        136.72576
+      ]
+    },
+    {
+      "id": "6288-53",
+      "name": "西鏡島",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-53.jpg",
+      "ep": "9",
+      "geo": [
+        35.40836,
+        136.70765
+      ]
+    },
+    {
+      "id": "6288-54",
+      "name": "西鏡島",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-54.jpg",
+      "ep": "9",
+      "geo": [
+        35.40822,
+        136.70793
+      ]
+    },
+    {
+      "id": "6288-55",
+      "name": "三省堂書店 岐阜店",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-55.jpg",
+      "ep": "10",
+      "geo": [
+        35.40938,
+        136.75799
+      ]
+    },
+    {
+      "id": "6288-56",
+      "name": "ヘア\\u0026エステ ヒロイン 岐阜柳ヶ瀬店",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-56.jpg",
+      "ep": "10",
+      "geo": [
+        35.41909,
+        136.75945
+      ]
+    },
+    {
+      "id": "6288-57",
+      "name": "中日新聞岐商前専売店 株式会社見田新聞舗",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-57.jpg",
+      "ep": "11",
+      "geo": [
+        35.43994,
+        136.75243
+      ]
+    },
+    {
+      "id": "6288-58",
+      "name": "岐阜メモリアルセンター南駐車場",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-58.jpg",
+      "ep": "11",
+      "geo": [
+        35.44014,
+        136.76656
+      ]
+    },
+    {
+      "id": "6288-59",
+      "name": "都ホテル 岐阜長良川",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-59.jpg",
+      "ep": "11",
+      "geo": [
+        35.44065,
+        136.76769
+      ]
+    },
+    {
+      "id": "6288-60",
+      "name": "都ホテル 岐阜長良川",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-60.jpg",
+      "ep": "11",
+      "geo": [
+        35.4403,
+        136.76806
+      ]
+    },
+    {
+      "id": "6288-61",
+      "name": "日枝神社",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-61.jpg",
+      "ep": "11",
+      "geo": [
+        35.41627,
+        136.71917
+      ]
+    },
+    {
+      "id": "6288-62",
+      "name": "青柳公園",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-62.jpg",
+      "ep": "12",
+      "geo": [
+        35.4288,
+        136.74809
+      ]
+    },
+    {
+      "id": "6288-63",
+      "name": "AND LADY",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-63.jpg",
+      "ep": "12",
+      "geo": [
+        35.42726,
+        136.76484
+      ]
+    },
+    {
+      "id": "6288-64",
+      "name": "ナチュラルカフェ",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-64.jpg",
+      "ep": "12",
+      "geo": [
+        35.43217,
+        136.7672
+      ]
+    },
+    {
+      "id": "6288-65",
+      "name": "忠節橋",
+      "image": "https://image.xinu.ink/pic/data/6288/images/6288-65.jpg",
+      "ep": "12",
+      "geo": [
+        35.43099,
+        136.75241
+      ]
+    }
+  ]
+}

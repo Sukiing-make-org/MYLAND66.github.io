@@ -1,0 +1,34 @@
+{
+  "points": [
+    {
+      "id": "6230-1",
+      "name": "阿佐ヶ谷駅",
+      "image": "https://image.xinu.ink/pic/data/6230/images/6230-1.jpg",
+      "ep": "10",
+      "geo": [
+        35.70473,
+        139.63656
+      ]
+    },
+    {
+      "id": "6230-2",
+      "name": "ととや 阿佐ケ谷北口店",
+      "image": "https://image.xinu.ink/pic/data/6230/images/6230-2.jpg",
+      "ep": "10",
+      "geo": [
+        35.70523,
+        139.63599
+      ]
+    },
+    {
+      "id": "6230-3",
+      "name": "ザ・パーク阿佐谷北１丁目第１",
+      "image": "https://image.xinu.ink/pic/data/6230/images/6230-3.jpg",
+      "ep": "10",
+      "geo": [
+        35.71004,
+        139.63553
+      ]
+    }
+  ]
+}

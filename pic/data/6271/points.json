@@ -1,0 +1,404 @@
+{
+  "points": [
+    {
+      "id": "6271-1",
+      "name": "九段下駅",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-1.jpg",
+      "ep": "1",
+      "geo": [
+        35.69512,
+        139.75006
+      ]
+    },
+    {
+      "id": "6271-2",
+      "name": "日本武道館",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-2.jpg",
+      "ep": "1",
+      "geo": [
+        35.69311,
+        139.74939
+      ]
+    },
+    {
+      "id": "6271-3",
+      "name": "高燈篭（常燈明台）",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-3.jpg",
+      "ep": "1",
+      "geo": [
+        35.69485,
+        139.74895
+      ]
+    },
+    {
+      "id": "6271-4",
+      "name": "法政大学",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-4.jpg",
+      "ep": "1",
+      "geo": [
+        35.69549,
+        139.7404
+      ]
+    },
+    {
+      "id": "6271-5",
+      "name": "麴町警察署 市ケ谷見付交番",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.69125,
+        139.73593
+      ]
+    },
+    {
+      "id": "6271-6",
+      "name": "蓬莱橋",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-6.jpg",
+      "ep": "1",
+      "geo": [
+        34.82542,
+        138.18449
+      ]
+    },
+    {
+      "id": "6271-7",
+      "name": "聖橋",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-7.jpg",
+      "ep": "2",
+      "geo": [
+        35.70014,
+        139.76546
+      ]
+    },
+    {
+      "id": "6271-8",
+      "name": "市ケ谷駅",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-8.jpg",
+      "ep": "2",
+      "geo": [
+        35.69187,
+        139.7364
+      ]
+    },
+    {
+      "id": "6271-9",
+      "name": "外濠公園",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-9.jpg",
+      "ep": "2",
+      "geo": [
+        35.69488,
+        139.74
+      ]
+    },
+    {
+      "id": "6271-10",
+      "name": "㈱三響社 岡田ビル",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-10.jpg",
+      "ep": "5",
+      "geo": [
+        35.69036,
+        139.74202
+      ]
+    },
+    {
+      "id": "6271-11",
+      "name": "スターバックス コーヒー 九段下店",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-11.jpg",
+      "ep": "5",
+      "geo": [
+        35.6958,
+        139.75225
+      ]
+    },
+    {
+      "id": "6271-12",
+      "name": "ホテルグランドヒル市ヶ谷",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-12.jpg",
+      "ep": "6",
+      "geo": [
+        35.69172,
+        139.73364
+      ]
+    },
+    {
+      "id": "6271-13",
+      "name": "新川橋",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-13.jpg",
+      "ep": "6",
+      "geo": [
+        35.69899,
+        139.75258
+      ]
+    },
+    {
+      "id": "6271-14",
+      "name": "聖橋",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-14.jpg",
+      "ep": "6",
+      "geo": [
+        35.69983,
+        139.7656
+      ]
+    },
+    {
+      "id": "6271-15",
+      "name": "NewDays 市ヶ谷",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-15.jpg",
+      "ep": "7",
+      "geo": [
+        35.69112,
+        139.73556
+      ]
+    },
+    {
+      "id": "6271-16",
+      "name": "みなとゴルフ 市ケ谷校",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-16.jpg",
+      "ep": "7",
+      "geo": [
+        35.69185,
+        139.73702
+      ]
+    },
+    {
+      "id": "6271-17",
+      "name": "外濠公園（九段北4丁目側）",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-17.jpg",
+      "ep": "7",
+      "geo": [
+        35.69416,
+        139.73943
+      ]
+    },
+    {
+      "id": "6271-18",
+      "name": "よみうりランド",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-18.jpg",
+      "ep": "8",
+      "geo": [
+        35.62437,
+        139.51695
+      ]
+    },
+    {
+      "id": "6271-19",
+      "name": "シーチキンGO！",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-19.jpg",
+      "ep": "8",
+      "geo": [
+        35.62487,
+        139.51845
+      ]
+    },
+    {
+      "id": "6271-20",
+      "name": "メリーゴーランドドッグ",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-20.jpg",
+      "ep": "8",
+      "geo": [
+        35.62513,
+        139.51732
+      ]
+    },
+    {
+      "id": "6271-21",
+      "name": "花泉歯科医院",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-21.jpg",
+      "ep": "9",
+      "geo": [
+        35.69038,
+        139.74243
+      ]
+    },
+    {
+      "id": "6271-22",
+      "name": "柳瀬川駅",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-22.jpg",
+      "ep": "12",
+      "geo": [
+        35.83096,
+        139.56217
+      ]
+    },
+    {
+      "id": "6271-23",
+      "name": "みずほ銀行 小金井支店",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-23.jpg",
+      "ep": "13",
+      "geo": [
+        35.70216,
+        139.50727
+      ]
+    },
+    {
+      "id": "6271-24",
+      "name": "弦楽器 Tonica",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-24.jpg",
+      "ep": "14",
+      "geo": [
+        35.69166,
+        139.73951
+      ]
+    },
+    {
+      "id": "6271-25",
+      "name": "新橋やきとん市ヶ谷店",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-25.jpg",
+      "ep": "14",
+      "geo": [
+        35.69147,
+        139.73921
+      ]
+    },
+    {
+      "id": "6271-26",
+      "name": "吉祥寺駅",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-26.jpg",
+      "ep": "15",
+      "geo": [
+        35.70332,
+        139.58064
+      ]
+    },
+    {
+      "id": "6271-27",
+      "name": "三菱UFJ信託銀行（株） 新宿支店",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-27.jpg",
+      "ep": "15",
+      "geo": [
+        35.6892,
+        139.69873
+      ]
+    },
+    {
+      "id": "6271-28",
+      "name": "宇佐美海水浴場駐車場",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-28.jpg",
+      "ep": "15",
+      "geo": [
+        35.00766,
+        139.08589
+      ]
+    },
+    {
+      "id": "6271-29",
+      "name": "RAMEN VILLAGE CAFE",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-29.jpg",
+      "ep": "15",
+      "geo": [
+        35.0023,
+        139.08291
+      ]
+    },
+    {
+      "id": "6271-30",
+      "name": "山哲釣具店",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-30.jpg",
+      "ep": "15",
+      "geo": [
+        35.01335,
+        139.09126
+      ]
+    },
+    {
+      "id": "6271-31",
+      "name": "錦糸町駅",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-31.jpg",
+      "ep": "16",
+      "geo": [
+        35.69752,
+        139.81388
+      ]
+    },
+    {
+      "id": "6271-32",
+      "name": "蓬莱橋897.4茶屋",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-32.jpg",
+      "ep": "18",
+      "geo": [
+        34.82568,
+        138.18477
+      ]
+    },
+    {
+      "id": "6271-33",
+      "name": "小金井 宮地楽器ホール",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-33.jpg",
+      "ep": "20",
+      "geo": [
+        35.70043,
+        139.5063
+      ]
+    },
+    {
+      "id": "6271-34",
+      "name": "ファミリーマート 武蔵小金井駅南口店",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-34.jpg",
+      "ep": "20",
+      "geo": [
+        35.70087,
+        139.50741
+      ]
+    },
+    {
+      "id": "6271-35",
+      "name": "Cycle DAICHI No.34 武蔵小金井駅南口 駐輪場",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-35.jpg",
+      "ep": "20",
+      "geo": [
+        35.70099,
+        139.50839
+      ]
+    },
+    {
+      "id": "6271-36",
+      "name": "カラオケ館 西荻窪駅前店",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-36.jpg",
+      "ep": "21",
+      "geo": [
+        35.70418,
+        139.60007
+      ]
+    },
+    {
+      "id": "6271-37",
+      "name": "白金台駅",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-37.jpg",
+      "ep": "21",
+      "geo": [
+        35.63832,
+        139.72681
+      ]
+    },
+    {
+      "id": "6271-38",
+      "name": "寿庵",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-38.jpg",
+      "ep": "22",
+      "geo": [
+        35.70634,
+        139.60121
+      ]
+    },
+    {
+      "id": "6271-39",
+      "name": "ローソンストア100 西荻北店",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-39.jpg",
+      "ep": "22",
+      "geo": [
+        35.70641,
+        139.60136
+      ]
+    },
+    {
+      "id": "6271-40",
+      "name": "サステイン西荻",
+      "image": "https://image.xinu.ink/pic/data/6271/images/6271-40.jpg",
+      "ep": "22",
+      "geo": [
+        35.7077,
+        139.60075
+      ]
+    }
+  ]
+}

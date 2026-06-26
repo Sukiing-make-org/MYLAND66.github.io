@@ -1,0 +1,54 @@
+{
+  "points": [
+    {
+      "id": "6363-1",
+      "name": "谷中銀座",
+      "image": "https://image.xinu.ink/pic/data/6363/images/6363-1.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.7276831,
+        139.7661989
+      ]
+    },
+    {
+      "id": "6363-2",
+      "name": "ドン・キホーテ 新宿歌舞伎町店",
+      "image": "https://image.xinu.ink/pic/data/6363/images/6363-2.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.6935902,
+        139.7014812
+      ]
+    },
+    {
+      "id": "6363-3",
+      "name": "浅草公会堂",
+      "image": "https://image.xinu.ink/pic/data/6363/images/6363-3.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.7122505,
+        139.7948668
+      ]
+    },
+    {
+      "id": "6363-4",
+      "name": "夕やけだんだん",
+      "image": "https://image.xinu.ink/pic/data/6363/images/6363-4.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.72764,
+        139.7672688
+      ]
+    },
+    {
+      "id": "6363-5",
+      "name": "龍飛崎",
+      "image": "https://image.xinu.ink/pic/data/6363/images/6363-5.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        41.2589055,
+        140.3426506
+      ]
+    }
+  ]
+}

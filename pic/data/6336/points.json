@@ -1,0 +1,654 @@
+{
+  "points": [
+    {
+      "id": "6336-1",
+      "name": "秋葉原ラジオ会館",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-1.jpg",
+      "ep": "1",
+      "geo": [
+        35.69812,
+        139.77194
+      ]
+    },
+    {
+      "id": "6336-2",
+      "name": "ビックカメラ AKIBA",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-2.jpg",
+      "ep": "1",
+      "geo": [
+        35.69981,
+        139.77133
+      ]
+    },
+    {
+      "id": "6336-3",
+      "name": "愛三電機",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-3.jpg",
+      "ep": "1",
+      "geo": [
+        35.69956,
+        139.77159
+      ]
+    },
+    {
+      "id": "6336-4",
+      "name": "秋葉原UDX",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-4.jpg",
+      "ep": "1",
+      "geo": [
+        35.69967,
+        139.77221
+      ]
+    },
+    {
+      "id": "6336-5",
+      "name": "秋葉原UDX",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.69969,
+        139.77248
+      ]
+    },
+    {
+      "id": "6336-6",
+      "name": "秋葉原UDX",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-6.jpg",
+      "ep": "2",
+      "geo": [
+        35.70028,
+        139.77237
+      ]
+    },
+    {
+      "id": "6336-7",
+      "name": "柳森神社",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-7.jpg",
+      "ep": "2",
+      "geo": [
+        35.69666,
+        139.77364
+      ]
+    },
+    {
+      "id": "6336-8",
+      "name": "ふれあい会館",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-8.jpg",
+      "ep": "2",
+      "geo": [
+        35.69654,
+        139.77308
+      ]
+    },
+    {
+      "id": "6336-9",
+      "name": "ふれあい会館",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-9.jpg",
+      "ep": "2",
+      "geo": [
+        35.69667,
+        139.77318
+      ]
+    },
+    {
+      "id": "6336-10",
+      "name": "アキバCOギャラリー",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-10.jpg",
+      "ep": "2",
+      "geo": [
+        35.70254,
+        139.77151
+      ]
+    },
+    {
+      "id": "6336-11",
+      "name": "タイガー無線",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-11.jpg",
+      "ep": "2",
+      "geo": [
+        35.69857,
+        139.77141
+      ]
+    },
+    {
+      "id": "6336-12",
+      "name": "ボークス秋葉原ホビー天国2",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-12.jpg",
+      "ep": "2",
+      "geo": [
+        35.70001,
+        139.77158
+      ]
+    },
+    {
+      "id": "6336-13",
+      "name": "カフェ メイリッシュ",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-13.jpg",
+      "ep": "2",
+      "geo": [
+        35.70232,
+        139.76956
+      ]
+    },
+    {
+      "id": "6336-14",
+      "name": "牛丼専門 サンボ",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-14.jpg",
+      "ep": "3",
+      "geo": [
+        35.70126,
+        139.77097
+      ]
+    },
+    {
+      "id": "6336-15",
+      "name": "三井のリパーク 外神田３丁目第２ 駐車場",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-15.jpg",
+      "ep": "4",
+      "geo": [
+        35.70255,
+        139.77009
+      ]
+    },
+    {
+      "id": "6336-16",
+      "name": "Gallery SPACE8510-2",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-16.jpg",
+      "ep": "4",
+      "geo": [
+        35.7025,
+        139.78282
+      ]
+    },
+    {
+      "id": "6336-17",
+      "name": "NPC24H外神田第２パーキング",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-17.jpg",
+      "ep": "4",
+      "geo": [
+        35.70199,
+        139.77082
+      ]
+    },
+    {
+      "id": "6336-18",
+      "name": "千石電商 秋葉原本店",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-18.jpg",
+      "ep": "4",
+      "geo": [
+        35.69937,
+        139.7701
+      ]
+    },
+    {
+      "id": "6336-19",
+      "name": "らしんばん秋葉原店新館",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-19.jpg",
+      "ep": "4",
+      "geo": [
+        35.69939,
+        139.77041
+      ]
+    },
+    {
+      "id": "6336-20",
+      "name": "タイトーステーション 秋葉原店",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-20.jpg",
+      "ep": "4",
+      "geo": [
+        35.7003,
+        139.77169
+      ]
+    },
+    {
+      "id": "6336-21",
+      "name": "千代田区立芳林公園",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-21.jpg",
+      "ep": "4",
+      "geo": [
+        35.70201,
+        139.77001
+      ]
+    },
+    {
+      "id": "6336-22",
+      "name": "万世橋",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-22.jpg",
+      "ep": "4",
+      "geo": [
+        35.69707,
+        139.77111
+      ]
+    },
+    {
+      "id": "6336-23",
+      "name": "Park Gallery",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-23.jpg",
+      "ep": "5",
+      "geo": [
+        35.70148,
+        139.76959
+      ]
+    },
+    {
+      "id": "6336-24",
+      "name": "橙幻郷",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-24.jpg",
+      "ep": "6",
+      "geo": [
+        35.7006,
+        139.77
+      ]
+    },
+    {
+      "id": "6336-25",
+      "name": "福島屋 TASTING MARKET イートインコーナー",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-25.jpg",
+      "ep": "6",
+      "geo": [
+        35.70028,
+        139.77222
+      ]
+    },
+    {
+      "id": "6336-26",
+      "name": "パソコン工房 秋葉原本店",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-26.jpg",
+      "ep": "8",
+      "geo": [
+        35.70097,
+        139.77091
+      ]
+    },
+    {
+      "id": "6336-27",
+      "name": "AKIHABARAゲーマーズ本店",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-27.jpg",
+      "ep": "9",
+      "geo": [
+        35.69826,
+        139.77159
+      ]
+    },
+    {
+      "id": "6336-28",
+      "name": "スターバックス コーヒー JR東日本ホテルメッツ プレミア 秋葉原店",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-28.jpg",
+      "ep": "9",
+      "geo": [
+        35.69764,
+        139.77257
+      ]
+    },
+    {
+      "id": "6336-29",
+      "name": "ミライザカ 秋葉原駅前店",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-29.jpg",
+      "ep": "9",
+      "geo": [
+        35.69735,
+        139.77339
+      ]
+    },
+    {
+      "id": "6336-30",
+      "name": "東京タイムズタワー",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-30.jpg",
+      "ep": "9",
+      "geo": [
+        35.70123,
+        139.77252
+      ]
+    },
+    {
+      "id": "6336-31",
+      "name": "アキバ系アイドルショップ",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-31.jpg",
+      "ep": "10",
+      "geo": [
+        35.70174,
+        139.77142
+      ]
+    },
+    {
+      "id": "6336-32",
+      "name": "ゲームパニック秋葉原",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-32.jpg",
+      "ep": "10",
+      "geo": [
+        35.69873,
+        139.7714
+      ]
+    },
+    {
+      "id": "6336-33",
+      "name": "秋葉原駅 電気街口西側広場",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-33.jpg",
+      "ep": "10",
+      "geo": [
+        35.69892,
+        139.77263
+      ]
+    },
+    {
+      "id": "6336-34",
+      "name": "通運会館",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-34.jpg",
+      "ep": "10",
+      "geo": [
+        35.70188,
+        139.77101
+      ]
+    },
+    {
+      "id": "6336-35",
+      "name": "ファミリーマート 豊島南池袋三丁目店",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-35.jpg",
+      "ep": "10",
+      "geo": [
+        35.72189,
+        139.71606
+      ]
+    },
+    {
+      "id": "6336-36",
+      "name": "万世橋警察署 末広町地域安全センター",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-36.jpg",
+      "ep": "11",
+      "geo": [
+        35.70287,
+        139.77127
+      ]
+    },
+    {
+      "id": "6336-37",
+      "name": "コイズミ無線",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-37.jpg",
+      "ep": "13",
+      "geo": [
+        35.70176,
+        139.77223
+      ]
+    },
+    {
+      "id": "6336-38",
+      "name": "一般社団法人ジャパンケネルクラブ",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-38.jpg",
+      "ep": "13",
+      "geo": [
+        35.69598,
+        139.77066
+      ]
+    },
+    {
+      "id": "6336-39",
+      "name": "東京復活大聖堂",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-39.jpg",
+      "ep": "13",
+      "geo": [
+        35.69804,
+        139.76584
+      ]
+    },
+    {
+      "id": "6336-40",
+      "name": "新御茶ノ水駅",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-40.jpg",
+      "ep": "13",
+      "geo": [
+        35.69909,
+        139.76538
+      ]
+    },
+    {
+      "id": "6336-41",
+      "name": "新御茶ノ水駅",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-41.jpg",
+      "ep": "13",
+      "geo": [
+        35.69801,
+        139.76599
+      ]
+    },
+    {
+      "id": "6336-42",
+      "name": "エクセルシオール カフェ 秋葉原中央通り店",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-42.jpg",
+      "ep": "14",
+      "geo": [
+        35.70146,
+        139.77141
+      ]
+    },
+    {
+      "id": "6336-43",
+      "name": "秋葉原駅 電気街口西側広場",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-43.jpg",
+      "ep": "14",
+      "geo": [
+        35.69928,
+        139.77259
+      ]
+    },
+    {
+      "id": "6336-44",
+      "name": "秋葉原ラジオ会館",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-44.jpg",
+      "ep": "14",
+      "geo": [
+        35.69806,
+        139.7721
+      ]
+    },
+    {
+      "id": "6336-45",
+      "name": "三原真珠",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-45.jpg",
+      "ep": "15",
+      "geo": [
+        35.7043,
+        139.77427
+      ]
+    },
+    {
+      "id": "6336-46",
+      "name": "ミマツたばこ",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-46.jpg",
+      "ep": "15",
+      "geo": [
+        35.6975,
+        139.77295
+      ]
+    },
+    {
+      "id": "6336-47",
+      "name": "昌平橋架道橋",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-47.jpg",
+      "ep": "15",
+      "geo": [
+        35.69824,
+        139.76866
+      ]
+    },
+    {
+      "id": "6336-48",
+      "name": "エクセルシオール カフェ 秋葉原ダイビル店",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-48.jpg",
+      "ep": "15",
+      "geo": [
+        35.69948,
+        139.77239
+      ]
+    },
+    {
+      "id": "6336-49",
+      "name": "千代田区立秋葉原公園",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-49.jpg",
+      "ep": "15",
+      "geo": [
+        35.69802,
+        139.77493
+      ]
+    },
+    {
+      "id": "6336-50",
+      "name": "モーゼスさんのケバブ 秋葉原駅前店",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-50.jpg",
+      "ep": "15",
+      "geo": [
+        35.6988,
+        139.77174
+      ]
+    },
+    {
+      "id": "6336-51",
+      "name": "千代田区立芳林公園",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-51.jpg",
+      "ep": "15",
+      "geo": [
+        35.70183,
+        139.7699
+      ]
+    },
+    {
+      "id": "6336-52",
+      "name": "NewDays メッツ秋葉原",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-52.jpg",
+      "ep": "17",
+      "geo": [
+        35.6982,
+        139.77256
+      ]
+    },
+    {
+      "id": "6336-53",
+      "name": "やなか珈琲店 CHABARA店",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-53.jpg",
+      "ep": "17",
+      "geo": [
+        35.69957,
+        139.77308
+      ]
+    },
+    {
+      "id": "6336-54",
+      "name": "ミライザカ 秋葉原駅前店",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-54.jpg",
+      "ep": "18",
+      "geo": [
+        35.69699,
+        139.77329
+      ]
+    },
+    {
+      "id": "6336-55",
+      "name": "レム秋葉原",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-55.jpg",
+      "ep": "18",
+      "geo": [
+        35.69765,
+        139.77377
+      ]
+    },
+    {
+      "id": "6336-56",
+      "name": "千代田区立秋葉原公園",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-56.jpg",
+      "ep": "18",
+      "geo": [
+        35.6976,
+        139.77486
+      ]
+    },
+    {
+      "id": "6336-57",
+      "name": "セブン-イレブン 秋葉原駅北店",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-57.jpg",
+      "ep": "18",
+      "geo": [
+        35.6995,
+        139.77422
+      ]
+    },
+    {
+      "id": "6336-58",
+      "name": "ヨドバシカメラ マルチメディアAkiba",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-58.jpg",
+      "ep": "18",
+      "geo": [
+        35.69917,
+        139.77446
+      ]
+    },
+    {
+      "id": "6336-59",
+      "name": "富士ソフトアキバプラザ",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-59.jpg",
+      "ep": "18",
+      "geo": [
+        35.69955,
+        139.77375
+      ]
+    },
+    {
+      "id": "6336-60",
+      "name": "AOKI 秋葉原店",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-60.jpg",
+      "ep": "20",
+      "geo": [
+        35.69917,
+        139.7718
+      ]
+    },
+    {
+      "id": "6336-61",
+      "name": "千代田区立芳林公園",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-61.jpg",
+      "ep": "20",
+      "geo": [
+        35.70223,
+        139.77008
+      ]
+    },
+    {
+      "id": "6336-62",
+      "name": "秋葉原駅",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-62.jpg",
+      "ep": "20",
+      "geo": [
+        35.69849,
+        139.77251
+      ]
+    },
+    {
+      "id": "6336-63",
+      "name": "東京ビッグサイト屋上展示場",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-63.jpg",
+      "ep": "21",
+      "geo": [
+        35.62853,
+        139.79397
+      ]
+    },
+    {
+      "id": "6336-64",
+      "name": "秋葉原駅 電気街口西側広場",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-64.jpg",
+      "ep": "21",
+      "geo": [
+        35.69861,
+        139.77259
+      ]
+    },
+    {
+      "id": "6336-65",
+      "name": "秋葉原駅",
+      "image": "https://image.xinu.ink/pic/data/6336/images/6336-65.jpg",
+      "ep": "22",
+      "geo": [
+        35.69911,
+        139.77323
+      ]
+    }
+  ]
+}

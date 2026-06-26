@@ -1,0 +1,534 @@
+{
+  "points": [
+    {
+      "id": "6258-1",
+      "name": "亀の井ホテル 奈良",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-1.jpg",
+      "ep": "OP1",
+      "geo": [
+        34.68896,
+        135.78713
+      ]
+    },
+    {
+      "id": "6258-2",
+      "name": "セレパーク平城第2",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-2.jpg",
+      "ep": "OP1",
+      "geo": [
+        34.72021,
+        135.78961
+      ]
+    },
+    {
+      "id": "6258-3",
+      "name": "奈良三条郵便局",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-3.jpg",
+      "ep": "1",
+      "geo": [
+        34.68194,
+        135.82161
+      ]
+    },
+    {
+      "id": "6258-4",
+      "name": "大和西大寺駅",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-4.jpg",
+      "ep": "1",
+      "geo": [
+        34.69361,
+        135.78282
+      ]
+    },
+    {
+      "id": "6258-5",
+      "name": "ピザーラ 高の原店",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-5.jpg",
+      "ep": "1",
+      "geo": [
+        34.72083,
+        135.78969
+      ]
+    },
+    {
+      "id": "6258-6",
+      "name": "タイムズＵＲ平城第２",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-6.jpg",
+      "ep": "1",
+      "geo": [
+        34.72061,
+        135.7892
+      ]
+    },
+    {
+      "id": "6258-7",
+      "name": "右京一丁目（バス）",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-7.jpg",
+      "ep": "2",
+      "geo": [
+        34.72046,
+        135.78964
+      ]
+    },
+    {
+      "id": "6258-8",
+      "name": "後藤医院",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-8.jpg",
+      "ep": "2",
+      "geo": [
+        34.71991,
+        135.78884
+      ]
+    },
+    {
+      "id": "6258-9",
+      "name": "焼肉工房じゅじゅ",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-9.jpg",
+      "ep": "2",
+      "geo": [
+        34.721,
+        135.78907
+      ]
+    },
+    {
+      "id": "6258-10",
+      "name": "世田谷邪宗門",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-10.jpg",
+      "ep": "2",
+      "geo": [
+        35.6531,
+        139.66515
+      ]
+    },
+    {
+      "id": "6258-11",
+      "name": "竹田wasoya",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-11.jpg",
+      "ep": "2",
+      "geo": [
+        34.48476,
+        135.79167
+      ]
+    },
+    {
+      "id": "6258-12",
+      "name": "スミレ写真館",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-12.jpg",
+      "ep": "2",
+      "geo": [
+        34.48487,
+        135.79134
+      ]
+    },
+    {
+      "id": "6258-13",
+      "name": "幸せの黄色いポスト",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-13.jpg",
+      "ep": "2",
+      "geo": [
+        34.48408,
+        135.79351
+      ]
+    },
+    {
+      "id": "6258-14",
+      "name": "よねやメガネ",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-14.jpg",
+      "ep": "2",
+      "geo": [
+        34.68267,
+        135.82871
+      ]
+    },
+    {
+      "id": "6258-15",
+      "name": "ならまち第二モータープール",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-15.jpg",
+      "ep": "3",
+      "geo": [
+        34.68093,
+        135.83238
+      ]
+    },
+    {
+      "id": "6258-16",
+      "name": "奈良右京郵便局",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-16.jpg",
+      "ep": "3",
+      "geo": [
+        34.72046,
+        135.789
+      ]
+    },
+    {
+      "id": "6258-17",
+      "name": "天下一品 東向店",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-17.jpg",
+      "ep": "4",
+      "geo": [
+        34.68224,
+        135.82878
+      ]
+    },
+    {
+      "id": "6258-18",
+      "name": "奈良ホテル",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-18.jpg",
+      "ep": "5",
+      "geo": [
+        34.67969,
+        135.83375
+      ]
+    },
+    {
+      "id": "6258-19",
+      "name": "AUTHENTIC TABLE TAVERN",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-19.jpg",
+      "ep": "5",
+      "geo": [
+        34.68194,
+        135.82362
+      ]
+    },
+    {
+      "id": "6258-20",
+      "name": "浮見堂",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-20.jpg",
+      "ep": "5",
+      "geo": [
+        34.67947,
+        135.83861
+      ]
+    },
+    {
+      "id": "6258-21",
+      "name": "江戸三",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-21.jpg",
+      "ep": "5",
+      "geo": [
+        34.68176,
+        135.83545
+      ]
+    },
+    {
+      "id": "6258-22",
+      "name": "聖心幼稚園",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-22.jpg",
+      "ep": "6",
+      "geo": [
+        34.48303,
+        135.78698
+      ]
+    },
+    {
+      "id": "6258-23",
+      "name": "奈良芸術短期大学",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-23.jpg",
+      "ep": "6",
+      "geo": [
+        34.48391,
+        135.78556
+      ]
+    },
+    {
+      "id": "6258-24",
+      "name": "祈祷殿",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-24.jpg",
+      "ep": "6",
+      "geo": [
+        34.48684,
+        135.78712
+      ]
+    },
+    {
+      "id": "6258-25",
+      "name": "津田食堂",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-25.jpg",
+      "ep": "7",
+      "geo": [
+        34.48536,
+        135.79228
+      ]
+    },
+    {
+      "id": "6258-26",
+      "name": "ONE PARK橿原神宮前第2",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-26.jpg",
+      "ep": "7",
+      "geo": [
+        34.48495,
+        135.79266
+      ]
+    },
+    {
+      "id": "6258-27",
+      "name": "おそうじ本舗 奈良きたまち店",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-27.jpg",
+      "ep": "7",
+      "geo": [
+        34.71987,
+        135.79228
+      ]
+    },
+    {
+      "id": "6258-28",
+      "name": "やぐら歯科",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-28.jpg",
+      "ep": "7",
+      "geo": [
+        34.72121,
+        135.79221
+      ]
+    },
+    {
+      "id": "6258-29",
+      "name": "椿井市場",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-29.jpg",
+      "ep": "7",
+      "geo": [
+        34.68051,
+        135.82754
+      ]
+    },
+    {
+      "id": "6258-30",
+      "name": "スターバックス コーヒー 奈良猿沢池店",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-30.jpg",
+      "ep": "7",
+      "geo": [
+        34.68151,
+        135.83023
+      ]
+    },
+    {
+      "id": "6258-31",
+      "name": "猿沢池",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-31.jpg",
+      "ep": "7",
+      "geo": [
+        34.68169,
+        135.8303
+      ]
+    },
+    {
+      "id": "6258-32",
+      "name": "橿原神宮前駅（バス）",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-32.jpg",
+      "ep": "8",
+      "geo": [
+        34.48369,
+        135.79374
+      ]
+    },
+    {
+      "id": "6258-33",
+      "name": "奈良市消防局 南消防署 西大寺分署",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-33.jpg",
+      "ep": "8",
+      "geo": [
+        34.69392,
+        135.78616
+      ]
+    },
+    {
+      "id": "6258-34",
+      "name": "ローソン 高の原中央病院店",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-34.jpg",
+      "ep": "8",
+      "geo": [
+        34.72156,
+        135.78981
+      ]
+    },
+    {
+      "id": "6258-35",
+      "name": "総合病院 高の原中央病院",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-35.jpg",
+      "ep": "8",
+      "geo": [
+        34.7212,
+        135.78992
+      ]
+    },
+    {
+      "id": "6258-36",
+      "name": "橿原神宮前駅",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-36.jpg",
+      "ep": "8",
+      "geo": [
+        34.4834,
+        135.79379
+      ]
+    },
+    {
+      "id": "6258-37",
+      "name": "狩野酒店",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-37.jpg",
+      "ep": "9",
+      "geo": [
+        34.4845,
+        135.79217
+      ]
+    },
+    {
+      "id": "6258-38",
+      "name": "大歩危駅",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-38.jpg",
+      "ep": "10",
+      "geo": [
+        33.87642,
+        133.76738
+      ]
+    },
+    {
+      "id": "6258-39",
+      "name": "橿原オークホテル",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-39.jpg",
+      "ep": "10",
+      "geo": [
+        34.4847,
+        135.79288
+      ]
+    },
+    {
+      "id": "6258-40",
+      "name": "ベジフルマーケット 近鉄西大寺店",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-40.jpg",
+      "ep": "10",
+      "geo": [
+        34.6938,
+        135.78239
+      ]
+    },
+    {
+      "id": "6258-41",
+      "name": "農家酒場どはってん",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-41.jpg",
+      "ep": "10",
+      "geo": [
+        34.4847,
+        135.79298
+      ]
+    },
+    {
+      "id": "6258-42",
+      "name": "美容室 Londbell",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-42.jpg",
+      "ep": "11",
+      "geo": [
+        34.48188,
+        135.78947
+      ]
+    },
+    {
+      "id": "6258-43",
+      "name": "せいじ歯科医院",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-43.jpg",
+      "ep": "11",
+      "geo": [
+        34.48555,
+        135.78285
+      ]
+    },
+    {
+      "id": "6258-44",
+      "name": "久米町子供広場",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-44.jpg",
+      "ep": "11",
+      "geo": [
+        34.4835,
+        135.78974
+      ]
+    },
+    {
+      "id": "6258-45",
+      "name": "一条 奈良三条通店",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-45.jpg",
+      "ep": "11",
+      "geo": [
+        34.68204,
+        135.82854
+      ]
+    },
+    {
+      "id": "6258-46",
+      "name": "深田池",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-46.jpg",
+      "ep": "11",
+      "geo": [
+        34.48631,
+        135.78589
+      ]
+    },
+    {
+      "id": "6258-47",
+      "name": "コンセプトピーチ西尾コインパーキング",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-47.jpg",
+      "ep": "11",
+      "geo": [
+        34.93469,
+        135.79154
+      ]
+    },
+    {
+      "id": "6258-48",
+      "name": "橿原神宮前パーキング",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-48.jpg",
+      "ep": "11",
+      "geo": [
+        34.4856,
+        135.79212
+      ]
+    },
+    {
+      "id": "6258-49",
+      "name": "ローレルコート橿原神宮ザ・レジデンス",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-49.jpg",
+      "ep": "11",
+      "geo": [
+        34.48568,
+        135.79239
+      ]
+    },
+    {
+      "id": "6258-50",
+      "name": "タイムズ橿原神宮前第３",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-50.jpg",
+      "ep": "11",
+      "geo": [
+        34.48242,
+        135.79201
+      ]
+    },
+    {
+      "id": "6258-51",
+      "name": "近鉄スポーツセンター",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-51.jpg",
+      "ep": "11",
+      "geo": [
+        34.68682,
+        135.78724
+      ]
+    },
+    {
+      "id": "6258-52",
+      "name": "地蔵尊",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-52.jpg",
+      "ep": "11",
+      "geo": [
+        34.48302,
+        135.78745
+      ]
+    },
+    {
+      "id": "6258-53",
+      "name": "ヒロタの蔵 米田学院前蔵",
+      "image": "https://image.xinu.ink/pic/data/6258/images/6258-53.jpg",
+      "ep": "11",
+      "geo": [
+        34.4837,
+        135.78571
+      ]
+    }
+  ]
+}

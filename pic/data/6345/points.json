@@ -1,0 +1,44 @@
+{
+  "points": [
+    {
+      "id": "6345-1",
+      "name": "ピタットハウス 練馬駅前店",
+      "image": "https://image.xinu.ink/pic/data/6345/images/6345-1.jpg",
+      "ep": "2",
+      "geo": [
+        35.73759,
+        139.65498
+      ]
+    },
+    {
+      "id": "6345-2",
+      "name": "練馬駅",
+      "image": "https://image.xinu.ink/pic/data/6345/images/6345-2.jpg",
+      "ep": "3",
+      "geo": [
+        35.73767,
+        139.65458
+      ]
+    },
+    {
+      "id": "6345-3",
+      "name": "大和国一宮 大神神社（三輪明神）",
+      "image": "https://image.xinu.ink/pic/data/6345/images/6345-3.jpg",
+      "ep": "9",
+      "geo": [
+        34.52879,
+        135.85323
+      ]
+    },
+    {
+      "id": "6345-4",
+      "name": "向山町 (バス)",
+      "image": "https://image.xinu.ink/pic/data/6345/images/6345-4.jpg",
+      "ep": "12",
+      "geo": [
+        35.73863,
+        139.6422
+      ]
+    }
+  ]
+}

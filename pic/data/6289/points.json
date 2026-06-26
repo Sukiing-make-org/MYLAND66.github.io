@@ -1,0 +1,424 @@
+{
+  "points": [
+    {
+      "id": "6289-1",
+      "name": "ユザワヤ WACCA池袋店",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-1.jpg",
+      "ep": "1",
+      "geo": [
+        35.73159,
+        139.71459
+      ]
+    },
+    {
+      "id": "6289-2",
+      "name": "新宿御苑前駅",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-2.jpg",
+      "ep": "1",
+      "geo": [
+        35.68846,
+        139.7117
+      ]
+    },
+    {
+      "id": "6289-3",
+      "name": "Studio Macaron night",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-3.jpg",
+      "ep": "1",
+      "geo": [
+        35.68848,
+        139.71221
+      ]
+    },
+    {
+      "id": "6289-4",
+      "name": "(株)黒澤楽器店 G-CLUB Shibuya",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-4.jpg",
+      "ep": "1",
+      "geo": [
+        35.6601,
+        139.69768
+      ]
+    },
+    {
+      "id": "6289-5",
+      "name": "サンシャイン水族館",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-5.jpg",
+      "ep": "2",
+      "geo": [
+        35.7286,
+        139.71973
+      ]
+    },
+    {
+      "id": "6289-6",
+      "name": "池袋PACKS",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-6.jpg",
+      "ep": "3",
+      "geo": [
+        35.73011,
+        139.71774
+      ]
+    },
+    {
+      "id": "6289-7",
+      "name": "豊島区立東池袋中央公園",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-7.jpg",
+      "ep": "3",
+      "geo": [
+        35.73023,
+        139.71811
+      ]
+    },
+    {
+      "id": "6289-8",
+      "name": "豊島区立東池袋中央公園",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-8.jpg",
+      "ep": "3",
+      "geo": [
+        35.73009,
+        139.7186
+      ]
+    },
+    {
+      "id": "6289-9",
+      "name": "サンシャインシティ",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-9.jpg",
+      "ep": "3",
+      "geo": [
+        35.72998,
+        139.71834
+      ]
+    },
+    {
+      "id": "6289-10",
+      "name": "いけふくろう",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-10.jpg",
+      "ep": "3",
+      "geo": [
+        35.73079,
+        139.71213
+      ]
+    },
+    {
+      "id": "6289-11",
+      "name": "和田倉噴水公園",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-11.jpg",
+      "ep": "3",
+      "geo": [
+        35.68365,
+        139.76086
+      ]
+    },
+    {
+      "id": "6289-12",
+      "name": "和田倉門跡",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-12.jpg",
+      "ep": "3",
+      "geo": [
+        35.68349,
+        139.76223
+      ]
+    },
+    {
+      "id": "6289-13",
+      "name": "CERISIER 7",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-13.jpg",
+      "ep": "7",
+      "geo": [
+        35.64701,
+        139.69904
+      ]
+    },
+    {
+      "id": "6289-14",
+      "name": "ポンメガネ大宮",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-14.jpg",
+      "ep": "7",
+      "geo": [
+        35.90906,
+        139.62861
+      ]
+    },
+    {
+      "id": "6289-15",
+      "name": "(株)公司人形",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-15.jpg",
+      "ep": "7",
+      "geo": [
+        35.95492,
+        139.69587
+      ]
+    },
+    {
+      "id": "6289-16",
+      "name": "プランドール愛宕",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-16.jpg",
+      "ep": "7",
+      "geo": [
+        35.95421,
+        139.69643
+      ]
+    },
+    {
+      "id": "6289-17",
+      "name": "大宮公園",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-17.jpg",
+      "ep": "7",
+      "geo": [
+        35.9183,
+        139.63168
+      ]
+    },
+    {
+      "id": "6289-18",
+      "name": "大宮公園",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-18.jpg",
+      "ep": "7",
+      "geo": [
+        35.91863,
+        139.63144
+      ]
+    },
+    {
+      "id": "6289-19",
+      "name": "大宮公園",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-19.jpg",
+      "ep": "7",
+      "geo": [
+        35.91897,
+        139.63062
+      ]
+    },
+    {
+      "id": "6289-20",
+      "name": "大宮公園",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-20.jpg",
+      "ep": "7",
+      "geo": [
+        35.91891,
+        139.6302
+      ]
+    },
+    {
+      "id": "6289-21",
+      "name": "大宮公園",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-21.jpg",
+      "ep": "7",
+      "geo": [
+        35.91835,
+        139.63103
+      ]
+    },
+    {
+      "id": "6289-22",
+      "name": "豊島区立東池袋中央公園",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-22.jpg",
+      "ep": "8",
+      "geo": [
+        35.73019,
+        139.71798
+      ]
+    },
+    {
+      "id": "6289-23",
+      "name": "サンシャインシティ",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-23.jpg",
+      "ep": "8",
+      "geo": [
+        35.72959,
+        139.71859
+      ]
+    },
+    {
+      "id": "6289-24",
+      "name": "ファミリーマート サンシャイン西店",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-24.jpg",
+      "ep": "8",
+      "geo": [
+        35.72947,
+        139.71692
+      ]
+    },
+    {
+      "id": "6289-25",
+      "name": "サンシャインシティプリンスホテル",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-25.jpg",
+      "ep": "8",
+      "geo": [
+        35.72966,
+        139.7198
+      ]
+    },
+    {
+      "id": "6289-26",
+      "name": "SOLSO HOME",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-26.jpg",
+      "ep": "8",
+      "geo": [
+        35.61141,
+        139.62973
+      ]
+    },
+    {
+      "id": "6289-27",
+      "name": "カラオケ館 池袋東口本店",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-27.jpg",
+      "ep": "9",
+      "geo": [
+        35.7298,
+        139.71388
+      ]
+    },
+    {
+      "id": "6289-28",
+      "name": "ドン・キホーテ 大宮東口店",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-28.jpg",
+      "ep": "9",
+      "geo": [
+        35.90772,
+        139.6253
+      ]
+    },
+    {
+      "id": "6289-29",
+      "name": "美容室ピノキオ",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-29.jpg",
+      "ep": "10",
+      "geo": [
+        35.95118,
+        139.69413
+      ]
+    },
+    {
+      "id": "6289-30",
+      "name": "岩槻駅",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-30.jpg",
+      "ep": "10",
+      "geo": [
+        35.95003,
+        139.69282
+      ]
+    },
+    {
+      "id": "6289-31",
+      "name": "大宮門街",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-31.jpg",
+      "ep": "10",
+      "geo": [
+        35.90702,
+        139.62751
+      ]
+    },
+    {
+      "id": "6289-32",
+      "name": "青山フラワーマーケット 池袋東口店",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-32.jpg",
+      "ep": "11",
+      "geo": [
+        35.73022,
+        139.71186
+      ]
+    },
+    {
+      "id": "6289-33",
+      "name": "ゲストハウスモシモ",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-33.jpg",
+      "ep": "11",
+      "geo": [
+        35.77906,
+        139.73467
+      ]
+    },
+    {
+      "id": "6289-34",
+      "name": "A STUDIO",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-34.jpg",
+      "ep": "12",
+      "geo": [
+        35.55074,
+        139.61129
+      ]
+    },
+    {
+      "id": "6289-35",
+      "name": "（有）西電機製作所",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-35.jpg",
+      "ep": "12",
+      "geo": [
+        35.55124,
+        139.61186
+      ]
+    },
+    {
+      "id": "6289-36",
+      "name": "全友興業（株）",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-36.jpg",
+      "ep": "12",
+      "geo": [
+        35.551,
+        139.61284
+      ]
+    },
+    {
+      "id": "6289-37",
+      "name": "（株）津田製作所",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-37.jpg",
+      "ep": "12",
+      "geo": [
+        35.55056,
+        139.61433
+      ]
+    },
+    {
+      "id": "6289-38",
+      "name": "東武ツーリストインフォメーションセンター池袋",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-38.jpg",
+      "ep": "12",
+      "geo": [
+        35.73046,
+        139.71052
+      ]
+    },
+    {
+      "id": "6289-39",
+      "name": "池袋駅 中央みどりの窓口",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-39.jpg",
+      "ep": "12",
+      "geo": [
+        35.73015,
+        139.71127
+      ]
+    },
+    {
+      "id": "6289-40",
+      "name": "池袋駅",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-40.jpg",
+      "ep": "12",
+      "geo": [
+        35.72991,
+        139.71071
+      ]
+    },
+    {
+      "id": "6289-41",
+      "name": "大宮駅22番ホーム",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-41.jpg",
+      "ep": "12",
+      "geo": [
+        35.90514,
+        139.62345
+      ]
+    },
+    {
+      "id": "6289-42",
+      "name": "大宮門街",
+      "image": "https://image.xinu.ink/pic/data/6289/images/6289-42.jpg",
+      "ep": "12",
+      "geo": [
+        35.90729,
+        139.628
+      ]
+    }
+  ]
+}

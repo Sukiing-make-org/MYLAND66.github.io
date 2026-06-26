@@ -1,0 +1,484 @@
+{
+  "points": [
+    {
+      "id": "6233-1",
+      "name": "湯涌郵便局",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-1.jpg",
+      "ep": "OP",
+      "geo": [
+        36.48752,
+        136.7562
+      ]
+    },
+    {
+      "id": "6233-2",
+      "name": "表参道イルミネーション",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-2.jpg",
+      "ep": "OP",
+      "geo": [
+        35.66727,
+        139.70809
+      ]
+    },
+    {
+      "id": "6233-3",
+      "name": "福神橋",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-3.jpg",
+      "ep": "OP",
+      "geo": [
+        36.48854,
+        136.75555
+      ]
+    },
+    {
+      "id": "6233-4",
+      "name": "玉泉湖（湯涌温泉）",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-4.jpg",
+      "ep": "ED",
+      "geo": [
+        36.48268,
+        136.75823
+      ]
+    },
+    {
+      "id": "6233-5",
+      "name": "玉泉工房",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-5.jpg",
+      "ep": "ED",
+      "geo": [
+        36.4882,
+        136.75572
+      ]
+    },
+    {
+      "id": "6233-6",
+      "name": "ココカラファイン くすりセイジョー一橋学園駅前店",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-6.jpg",
+      "ep": "1",
+      "geo": [
+        35.72345,
+        139.48009
+      ]
+    },
+    {
+      "id": "6233-7",
+      "name": "西岸駅",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-7.jpg",
+      "ep": "1",
+      "geo": [
+        37.14798,
+        136.87467
+      ]
+    },
+    {
+      "id": "6233-8",
+      "name": "本吉食料品店",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-8.jpg",
+      "ep": "1",
+      "geo": [
+        36.48614,
+        136.75706
+      ]
+    },
+    {
+      "id": "6233-9",
+      "name": "古香里庵",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-9.jpg",
+      "ep": "1",
+      "geo": [
+        36.48655,
+        136.75681
+      ]
+    },
+    {
+      "id": "6233-10",
+      "name": "ラ・フェルマータ",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-10.jpg",
+      "ep": "2",
+      "geo": [
+        36.48833,
+        136.75573
+      ]
+    },
+    {
+      "id": "6233-11",
+      "name": "Siii(シー)",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-11.jpg",
+      "ep": "2",
+      "geo": [
+        36.51128,
+        136.71273
+      ]
+    },
+    {
+      "id": "6233-12",
+      "name": "愛育学園",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-12.jpg",
+      "ep": "3",
+      "geo": [
+        36.50225,
+        136.73305
+      ]
+    },
+    {
+      "id": "6233-13",
+      "name": "百楽荘 彩心",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-13.jpg",
+      "ep": "4",
+      "geo": [
+        36.48998,
+        136.75614
+      ]
+    },
+    {
+      "id": "6233-14",
+      "name": "湯涌稲荷神社",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-14.jpg",
+      "ep": "4",
+      "geo": [
+        36.4859,
+        136.75822
+      ]
+    },
+    {
+      "id": "6233-15",
+      "name": "西岸郵便局",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-15.jpg",
+      "ep": "6",
+      "geo": [
+        37.1475,
+        136.8747
+      ]
+    },
+    {
+      "id": "6233-16",
+      "name": "犀川大橋",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-16.jpg",
+      "ep": "7",
+      "geo": [
+        36.55861,
+        136.65063
+      ]
+    },
+    {
+      "id": "6233-17",
+      "name": "金沢市 湯涌公民館",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-17.jpg",
+      "ep": "7",
+      "geo": [
+        36.49192,
+        136.75001
+      ]
+    },
+    {
+      "id": "6233-18",
+      "name": "やました",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-18.jpg",
+      "ep": "7",
+      "geo": [
+        36.48533,
+        136.75764
+      ]
+    },
+    {
+      "id": "6233-19",
+      "name": "金沢中警察署 犀川大橋交番",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-19.jpg",
+      "ep": "8",
+      "geo": [
+        36.5583,
+        136.65014
+      ]
+    },
+    {
+      "id": "6233-20",
+      "name": "石川県政記念しいのき迎賓館",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-20.jpg",
+      "ep": "8",
+      "geo": [
+        36.56225,
+        136.6584
+      ]
+    },
+    {
+      "id": "6233-21",
+      "name": "金沢駅",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-21.jpg",
+      "ep": "8",
+      "geo": [
+        36.5789,
+        136.64713
+      ]
+    },
+    {
+      "id": "6233-22",
+      "name": "ルキーナ金沢",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-22.jpg",
+      "ep": "8",
+      "geo": [
+        36.57658,
+        136.65147
+      ]
+    },
+    {
+      "id": "6233-23",
+      "name": "プレーゴ",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-23.jpg",
+      "ep": "8",
+      "geo": [
+        36.56132,
+        136.65344
+      ]
+    },
+    {
+      "id": "6233-24",
+      "name": "ファーストホテル金沢",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-24.jpg",
+      "ep": "8",
+      "geo": [
+        36.56206,
+        136.6578
+      ]
+    },
+    {
+      "id": "6233-25",
+      "name": "六本木ヒルズ",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-25.jpg",
+      "ep": "11",
+      "geo": [
+        35.66107,
+        139.72954
+      ]
+    },
+    {
+      "id": "6233-26",
+      "name": "マクドナルド 下丸子店",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-26.jpg",
+      "ep": "11",
+      "geo": [
+        35.57103,
+        139.68593
+      ]
+    },
+    {
+      "id": "6233-27",
+      "name": "ジュンク堂書店 池袋本店",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-27.jpg",
+      "ep": "11",
+      "geo": [
+        35.72684,
+        139.7122
+      ]
+    },
+    {
+      "id": "6233-28",
+      "name": "ITALIAN RESORT PERTICA",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-28.jpg",
+      "ep": "11",
+      "geo": [
+        35.73063,
+        139.47791
+      ]
+    },
+    {
+      "id": "6233-29",
+      "name": "ウエルシアO-GUARD新宿店",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-29.jpg",
+      "ep": "12",
+      "geo": [
+        35.69369,
+        139.69897
+      ]
+    },
+    {
+      "id": "6233-30",
+      "name": "東京ビジネスホテル",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-30.jpg",
+      "ep": "12",
+      "geo": [
+        35.69342,
+        139.71046
+      ]
+    },
+    {
+      "id": "6233-31",
+      "name": "西荻窪駅",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-31.jpg",
+      "ep": "12",
+      "geo": [
+        35.70372,
+        139.59855
+      ]
+    },
+    {
+      "id": "6233-32",
+      "name": "中野駅",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-32.jpg",
+      "ep": "12",
+      "geo": [
+        35.70604,
+        139.66603
+      ]
+    },
+    {
+      "id": "6233-33",
+      "name": "松屋 国分寺北口店",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-33.jpg",
+      "ep": "12",
+      "geo": [
+        35.70084,
+        139.4815
+      ]
+    },
+    {
+      "id": "6233-34",
+      "name": "有磯海 サービスエリア (上り)",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-34.jpg",
+      "ep": "12",
+      "geo": [
+        36.77026,
+        137.40009
+      ]
+    },
+    {
+      "id": "6233-35",
+      "name": "ANA ホリデイ・イン リゾート 宮崎",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-35.jpg",
+      "ep": "14",
+      "geo": [
+        31.80661,
+        131.46252
+      ]
+    },
+    {
+      "id": "6233-36",
+      "name": "弥生橋",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-36.jpg",
+      "ep": "14",
+      "geo": [
+        31.80313,
+        131.47148
+      ]
+    },
+    {
+      "id": "6233-37",
+      "name": "StudioFragaria",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-37.jpg",
+      "ep": "15",
+      "geo": [
+        31.91023,
+        131.42212
+      ]
+    },
+    {
+      "id": "6233-38",
+      "name": "東京タワー",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-38.jpg",
+      "ep": "17",
+      "geo": [
+        35.65861,
+        139.74545
+      ]
+    },
+    {
+      "id": "6233-39",
+      "name": "シーシャカフェ バー チムニー",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-39.jpg",
+      "ep": "18",
+      "geo": [
+        36.56122,
+        136.65398
+      ]
+    },
+    {
+      "id": "6233-40",
+      "name": "チャンカレダイナー",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-40.jpg",
+      "ep": "18",
+      "geo": [
+        36.56032,
+        136.65382
+      ]
+    },
+    {
+      "id": "6233-41",
+      "name": "能登中島駅",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-41.jpg",
+      "ep": "19",
+      "geo": [
+        37.10916,
+        136.85325
+      ]
+    },
+    {
+      "id": "6233-42",
+      "name": "近江町市場",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-42.jpg",
+      "ep": "21",
+      "geo": [
+        36.57119,
+        136.65617
+      ]
+    },
+    {
+      "id": "6233-43",
+      "name": "東京駅",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-43.jpg",
+      "ep": "23",
+      "geo": [
+        35.6805,
+        139.7657
+      ]
+    },
+    {
+      "id": "6233-44",
+      "name": "サンシャインシティ",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-44.jpg",
+      "ep": "23",
+      "geo": [
+        35.72931,
+        139.7193
+      ]
+    },
+    {
+      "id": "6233-45",
+      "name": "ビブリオ. クラシック",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-45.jpg",
+      "ep": "23",
+      "geo": [
+        35.72084,
+        139.71286
+      ]
+    },
+    {
+      "id": "6233-46",
+      "name": "NTTドコモ代々木ビル",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-46.jpg",
+      "ep": "24",
+      "geo": [
+        35.68443,
+        139.70266
+      ]
+    },
+    {
+      "id": "6233-47",
+      "name": "金沢湯涌夢二館",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-47.jpg",
+      "ep": "26",
+      "geo": [
+        36.48574,
+        136.75757
+      ]
+    },
+    {
+      "id": "6233-48",
+      "name": "グラスマティネ金沢",
+      "image": "https://image.xinu.ink/pic/data/6233/images/6233-48.jpg",
+      "ep": "26",
+      "geo": [
+        36.5769,
+        136.65375
+      ]
+    }
+  ]
+}

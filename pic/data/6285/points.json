@@ -1,0 +1,24 @@
+{
+  "points": [
+    {
+      "id": "6285-1",
+      "name": "上本郷駅",
+      "image": "https://image.xinu.ink/pic/data/6285/images/6285-1.jpg",
+      "ep": "1",
+      "geo": [
+        35.78942,
+        139.91587
+      ]
+    },
+    {
+      "id": "6285-2",
+      "name": "新八柱駅",
+      "image": "https://image.xinu.ink/pic/data/6285/images/6285-2.jpg",
+      "ep": "5",
+      "geo": [
+        35.79183,
+        139.93837
+      ]
+    }
+  ]
+}

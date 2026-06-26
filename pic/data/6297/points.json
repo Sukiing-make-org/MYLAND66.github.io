@@ -1,0 +1,414 @@
+{
+  "points": [
+    {
+      "id": "6297-1",
+      "name": "藤森駅",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-1.jpg",
+      "ep": "1",
+      "geo": [
+        34.95683,
+        135.77054
+      ]
+    },
+    {
+      "id": "6297-2",
+      "name": "お好み焼き与作",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-2.jpg",
+      "ep": "1",
+      "geo": [
+        34.95761,
+        135.77045
+      ]
+    },
+    {
+      "id": "6297-3",
+      "name": "ジャンボたこ焼き",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-3.jpg",
+      "ep": "1",
+      "geo": [
+        34.95845,
+        135.77042
+      ]
+    },
+    {
+      "id": "6297-4",
+      "name": "寿司ふじ井",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-4.jpg",
+      "ep": "1",
+      "geo": [
+        35.03027,
+        135.76793
+      ]
+    },
+    {
+      "id": "6297-5",
+      "name": "焼肉さが喜",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.03027,
+        135.76807
+      ]
+    },
+    {
+      "id": "6297-6",
+      "name": "いづもや",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-6.jpg",
+      "ep": "1",
+      "geo": [
+        35.03027,
+        135.76823
+      ]
+    },
+    {
+      "id": "6297-7",
+      "name": "マツヤ食料品店",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-7.jpg",
+      "ep": "1",
+      "geo": [
+        35.0303,
+        135.76857
+      ]
+    },
+    {
+      "id": "6297-8",
+      "name": "井上呉服店",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-8.jpg",
+      "ep": "1",
+      "geo": [
+        35.03027,
+        135.7687
+      ]
+    },
+    {
+      "id": "6297-9",
+      "name": "上海ラヂオ",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-9.jpg",
+      "ep": "1",
+      "geo": [
+        35.0303,
+        135.76863
+      ]
+    },
+    {
+      "id": "6297-10",
+      "name": "DELTA / KYOTOGRAPHIE Permanent Space",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-10.jpg",
+      "ep": "1",
+      "geo": [
+        35.0305,
+        135.76851
+      ]
+    },
+    {
+      "id": "6297-11",
+      "name": "和菓子\\u0026ワイン 養老軒",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-11.jpg",
+      "ep": "1",
+      "geo": [
+        35.00349,
+        135.73333
+      ]
+    },
+    {
+      "id": "6297-12",
+      "name": "千丸屋本店 京湯葉鍋と京湯葉土産",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-12.jpg",
+      "ep": "1",
+      "geo": [
+        35.00479,
+        135.76329
+      ]
+    },
+    {
+      "id": "6297-13",
+      "name": "野呂本店",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-13.jpg",
+      "ep": "1",
+      "geo": [
+        35.03081,
+        135.76785
+      ]
+    },
+    {
+      "id": "6297-14",
+      "name": "S.O.U./Violet\\u0026Claire",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-14.jpg",
+      "ep": "1",
+      "geo": [
+        35.03025,
+        135.76839
+      ]
+    },
+    {
+      "id": "6297-15",
+      "name": "出町ふたば",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-15.jpg",
+      "ep": "1",
+      "geo": [
+        35.03009,
+        135.76961
+      ]
+    },
+    {
+      "id": "6297-16",
+      "name": "暮靄書房",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-16.jpg",
+      "ep": "2",
+      "geo": [
+        35.03027,
+        135.76833
+      ]
+    },
+    {
+      "id": "6297-17",
+      "name": "クレヨン伏見店",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-17.jpg",
+      "ep": "2",
+      "geo": [
+        34.95715,
+        135.77045
+      ]
+    },
+    {
+      "id": "6297-18",
+      "name": "堀口歯科医院",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-18.jpg",
+      "ep": "2",
+      "geo": [
+        34.95742,
+        135.77123
+      ]
+    },
+    {
+      "id": "6297-19",
+      "name": "ほうめい薬局 ふじのもり店",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-19.jpg",
+      "ep": "3",
+      "geo": [
+        34.95785,
+        135.77122
+      ]
+    },
+    {
+      "id": "6297-20",
+      "name": "ローソン 深草藤森店",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-20.jpg",
+      "ep": "3",
+      "geo": [
+        34.95707,
+        135.77124
+      ]
+    },
+    {
+      "id": "6297-21",
+      "name": "伏見警察署 深草交番",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-21.jpg",
+      "ep": "3",
+      "geo": [
+        34.95606,
+        135.77126
+      ]
+    },
+    {
+      "id": "6297-22",
+      "name": "のまこころクリニック",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-22.jpg",
+      "ep": "3",
+      "geo": [
+        34.95831,
+        135.77122
+      ]
+    },
+    {
+      "id": "6297-23",
+      "name": "KIWIDog \\u0026 CatHotel",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-23.jpg",
+      "ep": "3",
+      "geo": [
+        34.9591,
+        135.77043
+      ]
+    },
+    {
+      "id": "6297-24",
+      "name": "里空木",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-24.jpg",
+      "ep": "4",
+      "geo": [
+        35.03051,
+        135.7679
+      ]
+    },
+    {
+      "id": "6297-25",
+      "name": "京阪中書島・伏見港公園",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-25.jpg",
+      "ep": "5",
+      "geo": [
+        34.9261,
+        135.75908
+      ]
+    },
+    {
+      "id": "6297-26",
+      "name": "伏見港公園",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-26.jpg",
+      "ep": "5",
+      "geo": [
+        34.92496,
+        135.75781
+      ]
+    },
+    {
+      "id": "6297-27",
+      "name": "丹後由良海水浴場",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-27.jpg",
+      "ep": "5",
+      "geo": [
+        35.52103,
+        135.27899
+      ]
+    },
+    {
+      "id": "6297-28",
+      "name": "ブーブーパーク 出町商店街北コインパーキング",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-28.jpg",
+      "ep": "6",
+      "geo": [
+        35.03074,
+        135.76852
+      ]
+    },
+    {
+      "id": "6297-29",
+      "name": "出町ろろろ",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-29.jpg",
+      "ep": "6",
+      "geo": [
+        35.03009,
+        135.76853
+      ]
+    },
+    {
+      "id": "6297-30",
+      "name": "花フジ",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-30.jpg",
+      "ep": "6",
+      "geo": [
+        35.02912,
+        135.76779
+      ]
+    },
+    {
+      "id": "6297-31",
+      "name": "出町橋",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-31.jpg",
+      "ep": "7",
+      "geo": [
+        35.03014,
+        135.77093
+      ]
+    },
+    {
+      "id": "6297-32",
+      "name": "賀茂大橋",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-32.jpg",
+      "ep": "8",
+      "geo": [
+        35.02886,
+        135.77215
+      ]
+    },
+    {
+      "id": "6297-33",
+      "name": "鴨川デルタ",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-33.jpg",
+      "ep": "8",
+      "geo": [
+        35.02961,
+        135.77171
+      ]
+    },
+    {
+      "id": "6297-34",
+      "name": "ゑびす屋",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-34.jpg",
+      "ep": "8",
+      "geo": [
+        35.03027,
+        135.7694
+      ]
+    },
+    {
+      "id": "6297-35",
+      "name": "コヤマ",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-35.jpg",
+      "ep": "9",
+      "geo": [
+        34.95917,
+        135.77064
+      ]
+    },
+    {
+      "id": "6297-36",
+      "name": "GRACE",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-36.jpg",
+      "ep": "9",
+      "geo": [
+        34.95915,
+        135.76917
+      ]
+    },
+    {
+      "id": "6297-37",
+      "name": "平山時宝堂",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-37.jpg",
+      "ep": "9",
+      "geo": [
+        34.9613,
+        135.77169
+      ]
+    },
+    {
+      "id": "6297-38",
+      "name": "Haikara-tei",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-38.jpg",
+      "ep": "9",
+      "geo": [
+        34.96118,
+        135.77117
+      ]
+    },
+    {
+      "id": "6297-39",
+      "name": "マコ美容室",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-39.jpg",
+      "ep": "11",
+      "geo": [
+        34.95921,
+        135.77018
+      ]
+    },
+    {
+      "id": "6297-40",
+      "name": "中川酒店 出町店",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-40.jpg",
+      "ep": "12",
+      "geo": [
+        35.03171,
+        135.76952
+      ]
+    },
+    {
+      "id": "6297-41",
+      "name": "ブーブーパーク 寺町今出川北コインパーキング",
+      "image": "https://image.xinu.ink/pic/data/6297/images/6297-41.jpg",
+      "ep": "12",
+      "geo": [
+        35.03103,
+        135.7679
+      ]
+    }
+  ]
+}

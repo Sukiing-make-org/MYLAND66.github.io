@@ -1,0 +1,54 @@
+{
+  "points": [
+    {
+      "id": "6469-1",
+      "name": "三鷹駅",
+      "image": "https://image.xinu.ink/pic/data/6469/images/6469-1.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.7021581,
+        139.5607749
+      ]
+    },
+    {
+      "id": "6469-2",
+      "name": "吉祥寺駅",
+      "image": "https://image.xinu.ink/pic/data/6469/images/6469-2.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.7035204,
+        139.5797462
+      ]
+    },
+    {
+      "id": "6469-3",
+      "name": "ファミリーマート世田谷松原一丁目店",
+      "image": "https://image.xinu.ink/pic/data/6469/images/6469-3.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.6687916,
+        139.651351
+      ]
+    },
+    {
+      "id": "6469-4",
+      "name": "三井のリパーク 松原１丁目第２駐車場",
+      "image": "https://image.xinu.ink/pic/data/6469/images/6469-4.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.6703072,
+        139.6515365
+      ]
+    },
+    {
+      "id": "6469-5",
+      "name": "エルブレス吉祥寺",
+      "image": "https://image.xinu.ink/pic/data/6469/images/6469-5.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.7033979,
+        139.5783521
+      ]
+    }
+  ]
+}

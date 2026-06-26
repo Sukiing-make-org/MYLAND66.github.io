@@ -1,0 +1,424 @@
+{
+  "points": [
+    {
+      "id": "6319-1",
+      "name": "ハチ公前広場",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-1.jpg",
+      "ep": "OP",
+      "geo": [
+        35.65903,
+        139.70073
+      ]
+    },
+    {
+      "id": "6319-2",
+      "name": "トモズ 洗足駅前店",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-2.jpg",
+      "ep": "OP",
+      "geo": [
+        35.61071,
+        139.6946
+      ]
+    },
+    {
+      "id": "6319-3",
+      "name": "エーブル目黒洗足",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-3.jpg",
+      "ep": "1",
+      "geo": [
+        35.61479,
+        139.69331
+      ]
+    },
+    {
+      "id": "6319-4",
+      "name": "ハセパン",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-4.jpg",
+      "ep": "1",
+      "geo": [
+        35.61397,
+        139.69146
+      ]
+    },
+    {
+      "id": "6319-5",
+      "name": "目黒不動尊",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.62839,
+        139.70826
+      ]
+    },
+    {
+      "id": "6319-6",
+      "name": "いちょう通り歯科医院",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-6.jpg",
+      "ep": "1",
+      "geo": [
+        35.60968,
+        139.69681
+      ]
+    },
+    {
+      "id": "6319-7",
+      "name": "いちょう通り歯科医院",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-7.jpg",
+      "ep": "1",
+      "geo": [
+        35.60965,
+        139.69591
+      ]
+    },
+    {
+      "id": "6319-8",
+      "name": "目黒信用金庫 洗足支店",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-8.jpg",
+      "ep": "2",
+      "geo": [
+        35.60973,
+        139.69578
+      ]
+    },
+    {
+      "id": "6319-9",
+      "name": "三井のリパーク 洗足２丁目 駐車場",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-9.jpg",
+      "ep": "3",
+      "geo": [
+        35.60955,
+        139.69509
+      ]
+    },
+    {
+      "id": "6319-10",
+      "name": "ファミリーマート 原町二丁目店",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-10.jpg",
+      "ep": "4",
+      "geo": [
+        35.61388,
+        139.69163
+      ]
+    },
+    {
+      "id": "6319-11",
+      "name": "荏原警察署 洗足駐在所",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-11.jpg",
+      "ep": "4",
+      "geo": [
+        35.60978,
+        139.69913
+      ]
+    },
+    {
+      "id": "6319-12",
+      "name": "グレースエステート",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-12.jpg",
+      "ep": "4",
+      "geo": [
+        35.61125,
+        139.69527
+      ]
+    },
+    {
+      "id": "6319-13",
+      "name": "洗足駅",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-13.jpg",
+      "ep": "5",
+      "geo": [
+        35.61046,
+        139.69447
+      ]
+    },
+    {
+      "id": "6319-14",
+      "name": "吉野家 武蔵小山店",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-14.jpg",
+      "ep": "5",
+      "geo": [
+        35.61912,
+        139.70493
+      ]
+    },
+    {
+      "id": "6319-15",
+      "name": "TOHOシネマズ 渋谷",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-15.jpg",
+      "ep": "5",
+      "geo": [
+        35.65925,
+        139.69884
+      ]
+    },
+    {
+      "id": "6319-16",
+      "name": "恵比寿駅",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-16.jpg",
+      "ep": "5",
+      "geo": [
+        35.64613,
+        139.71063
+      ]
+    },
+    {
+      "id": "6319-17",
+      "name": "恵比寿駅",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-17.jpg",
+      "ep": "5",
+      "geo": [
+        35.64571,
+        139.71071
+      ]
+    },
+    {
+      "id": "6319-18",
+      "name": "セブン-イレブン 恵比寿アメリカ橋店",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-18.jpg",
+      "ep": "5",
+      "geo": [
+        35.64292,
+        139.71183
+      ]
+    },
+    {
+      "id": "6319-19",
+      "name": "ガストロノミー “ジョエル・ロブション”",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-19.jpg",
+      "ep": "5",
+      "geo": [
+        35.64154,
+        139.71431
+      ]
+    },
+    {
+      "id": "6319-20",
+      "name": "「永遠なる休息の精」オーギュスト・ロダン",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-20.jpg",
+      "ep": "5",
+      "geo": [
+        35.64209,
+        139.71413
+      ]
+    },
+    {
+      "id": "6319-21",
+      "name": "ガストロノミー “ジョエル・ロブション”",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-21.jpg",
+      "ep": "5",
+      "geo": [
+        35.64195,
+        139.71443
+      ]
+    },
+    {
+      "id": "6319-22",
+      "name": "プラタナス自転車駐輪場付近",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-22.jpg",
+      "ep": "5",
+      "geo": [
+        35.64129,
+        139.71394
+      ]
+    },
+    {
+      "id": "6319-23",
+      "name": "ガストロノミー “ジョエル・ロブション”",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-23.jpg",
+      "ep": "5",
+      "geo": [
+        35.64199,
+        139.71447
+      ]
+    },
+    {
+      "id": "6319-24",
+      "name": "やまきや寝具店",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-24.jpg",
+      "ep": "6",
+      "geo": [
+        35.60952,
+        139.6959
+      ]
+    },
+    {
+      "id": "6319-25",
+      "name": "目黒信用金庫 洗足支店",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-25.jpg",
+      "ep": "6",
+      "geo": [
+        35.60982,
+        139.69557
+      ]
+    },
+    {
+      "id": "6319-26",
+      "name": "竹下通り 入口アーチ (原宿駅)",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-26.jpg",
+      "ep": "7",
+      "geo": [
+        35.67152,
+        139.70342
+      ]
+    },
+    {
+      "id": "6319-27",
+      "name": "アイドルオンステージ",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-27.jpg",
+      "ep": "7",
+      "geo": [
+        35.67136,
+        139.70426
+      ]
+    },
+    {
+      "id": "6319-28",
+      "name": "スイーツパラダイス 原宿店",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-28.jpg",
+      "ep": "7",
+      "geo": [
+        35.67034,
+        139.70607
+      ]
+    },
+    {
+      "id": "6319-29",
+      "name": "ソラド 竹下通り",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-29.jpg",
+      "ep": "7",
+      "geo": [
+        35.67053,
+        139.70617
+      ]
+    },
+    {
+      "id": "6319-30",
+      "name": "クローゼットチャイルド原宿１号店",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-30.jpg",
+      "ep": "7",
+      "geo": [
+        35.67096,
+        139.70534
+      ]
+    },
+    {
+      "id": "6319-31",
+      "name": "マリオンクレープ 原宿竹下通り店",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-31.jpg",
+      "ep": "7",
+      "geo": [
+        35.67123,
+        139.70488
+      ]
+    },
+    {
+      "id": "6319-32",
+      "name": "尾道 共楽園",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-32.jpg",
+      "ep": "9",
+      "geo": [
+        34.40973,
+        133.19924
+      ]
+    },
+    {
+      "id": "6319-33",
+      "name": "カンデオホテルズ広島八丁堀",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-33.jpg",
+      "ep": "9",
+      "geo": [
+        34.39497,
+        132.46373
+      ]
+    },
+    {
+      "id": "6319-34",
+      "name": "ネコノテ観光業船着場",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-34.jpg",
+      "ep": "9",
+      "geo": [
+        34.40745,
+        133.20201
+      ]
+    },
+    {
+      "id": "6319-35",
+      "name": "ラーメン二郎 三田本店",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-35.jpg",
+      "ep": "9",
+      "geo": [
+        35.64804,
+        139.74164
+      ]
+    },
+    {
+      "id": "6319-36",
+      "name": "奈良みやげ百貨商店",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-36.jpg",
+      "ep": "12",
+      "geo": [
+        34.68378,
+        135.83986
+      ]
+    },
+    {
+      "id": "6319-37",
+      "name": "浮雲園地",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-37.jpg",
+      "ep": "12",
+      "geo": [
+        34.68444,
+        135.84073
+      ]
+    },
+    {
+      "id": "6319-38",
+      "name": "千本鳥居",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-38.jpg",
+      "ep": "13",
+      "geo": [
+        34.96692,
+        135.77479
+      ]
+    },
+    {
+      "id": "6319-39",
+      "name": "稲荷駅",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-39.jpg",
+      "ep": "13",
+      "geo": [
+        34.96691,
+        135.77091
+      ]
+    },
+    {
+      "id": "6319-40",
+      "name": "伏見稲荷大社",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-40.jpg",
+      "ep": "13",
+      "geo": [
+        34.96651,
+        135.77544
+      ]
+    },
+    {
+      "id": "6319-41",
+      "name": "清水寺",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-41.jpg",
+      "ep": "13",
+      "geo": [
+        34.99474,
+        135.7852
+      ]
+    },
+    {
+      "id": "6319-42",
+      "name": "品川駅",
+      "image": "https://image.xinu.ink/pic/data/6319/images/6319-42.jpg",
+      "ep": "13",
+      "geo": [
+        35.62895,
+        139.73937
+      ]
+    }
+  ]
+}

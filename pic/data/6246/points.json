@@ -1,0 +1,34 @@
+{
+  "points": [
+    {
+      "id": "6246-1",
+      "name": "天竜浜名湖鉄道 車両基地",
+      "image": "https://image.xinu.ink/pic/data/6246/images/6246-1.jpg",
+      "ep": "MOVIE",
+      "geo": [
+        34.8584621,
+        137.8225928
+      ]
+    },
+    {
+      "id": "6246-2",
+      "name": "宇部新川駅",
+      "image": "https://image.xinu.ink/pic/data/6246/images/6246-2.jpg",
+      "ep": "MOVIE",
+      "geo": [
+        33.9586144,
+        131.2427481
+      ]
+    },
+    {
+      "id": "6246-3",
+      "name": "アットパーク 鎌倉小町 小町踏切前付近",
+      "image": "https://image.xinu.ink/pic/data/6246/images/6246-3.jpg",
+      "ep": "MOVIE",
+      "geo": [
+        35.320644,
+        139.5505504
+      ]
+    }
+  ]
+}

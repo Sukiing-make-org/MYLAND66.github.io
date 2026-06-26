@@ -1,0 +1,44 @@
+{
+  "points": [
+    {
+      "id": "6444-1",
+      "name": "太田川駅西広場（大屋根広場）",
+      "image": "https://image.xinu.ink/pic/data/6444/images/6444-1.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.0207429,
+        136.8914186
+      ]
+    },
+    {
+      "id": "6444-2",
+      "name": "太田川駅",
+      "image": "https://image.xinu.ink/pic/data/6444/images/6444-2.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.0202402,
+        136.8921908
+      ]
+    },
+    {
+      "id": "6444-3",
+      "name": "ソラト 太田川",
+      "image": "https://image.xinu.ink/pic/data/6444/images/6444-3.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.0197487,
+        136.8935242
+      ]
+    },
+    {
+      "id": "6444-4",
+      "name": "日本福祉大学 東海キャンパス",
+      "image": "https://image.xinu.ink/pic/data/6444/images/6444-4.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.0216815,
+        136.8894201
+      ]
+    }
+  ]
+}

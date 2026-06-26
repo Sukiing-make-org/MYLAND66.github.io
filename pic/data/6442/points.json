@@ -1,0 +1,234 @@
+{
+  "points": [
+    {
+      "id": "6442-1",
+      "name": "通天閣",
+      "image": "https://image.xinu.ink/pic/data/6442/images/6442-1.jpg",
+      "ep": "OP",
+      "geo": [
+        34.65263,
+        135.50614
+      ]
+    },
+    {
+      "id": "6442-2",
+      "name": "大阪駅",
+      "image": "https://image.xinu.ink/pic/data/6442/images/6442-2.jpg",
+      "ep": "OP",
+      "geo": [
+        34.70286,
+        135.49761
+      ]
+    },
+    {
+      "id": "6442-3",
+      "name": "関西将棋会館",
+      "image": "https://image.xinu.ink/pic/data/6442/images/6442-3.jpg",
+      "ep": "OP",
+      "geo": [
+        34.69893,
+        135.48729
+      ]
+    },
+    {
+      "id": "6442-4",
+      "name": "倉田印刷株式会社",
+      "image": "https://image.xinu.ink/pic/data/6442/images/6442-4.jpg",
+      "ep": "1",
+      "geo": [
+        34.69844,
+        135.4877
+      ]
+    },
+    {
+      "id": "6442-5",
+      "name": "かみふく薬局",
+      "image": "https://image.xinu.ink/pic/data/6442/images/6442-5.jpg",
+      "ep": "1",
+      "geo": [
+        34.69735,
+        135.48661
+      ]
+    },
+    {
+      "id": "6442-6",
+      "name": "関西将棋会館",
+      "image": "https://image.xinu.ink/pic/data/6442/images/6442-6.jpg",
+      "ep": "1",
+      "geo": [
+        34.69888,
+        135.48725
+      ]
+    },
+    {
+      "id": "6442-7",
+      "name": "せんべろゆうじ",
+      "image": "https://image.xinu.ink/pic/data/6442/images/6442-7.jpg",
+      "ep": "2",
+      "geo": [
+        34.69858,
+        135.48722
+      ]
+    },
+    {
+      "id": "6442-8",
+      "name": "ジャンジャン横丁（南陽通商店街)",
+      "image": "https://image.xinu.ink/pic/data/6442/images/6442-8.jpg",
+      "ep": "4",
+      "geo": [
+        34.64977,
+        135.5061
+      ]
+    },
+    {
+      "id": "6442-9",
+      "name": "浪速警察署 新世界交番",
+      "image": "https://image.xinu.ink/pic/data/6442/images/6442-9.jpg",
+      "ep": "4",
+      "geo": [
+        34.64917,
+        135.50587
+      ]
+    },
+    {
+      "id": "6442-10",
+      "name": "梅田囲碁センター",
+      "image": "https://image.xinu.ink/pic/data/6442/images/6442-10.jpg",
+      "ep": "4",
+      "geo": [
+        34.70197,
+        135.50263
+      ]
+    },
+    {
+      "id": "6442-11",
+      "name": "延命湯",
+      "image": "https://image.xinu.ink/pic/data/6442/images/6442-11.jpg",
+      "ep": "6",
+      "geo": [
+        34.69613,
+        135.48641
+      ]
+    },
+    {
+      "id": "6442-12",
+      "name": "串かつ 丸藤",
+      "image": "https://image.xinu.ink/pic/data/6442/images/6442-12.jpg",
+      "ep": "6",
+      "geo": [
+        34.69757,
+        135.53384
+      ]
+    },
+    {
+      "id": "6442-13",
+      "name": "セブン-イレブン エル京橋店",
+      "image": "https://image.xinu.ink/pic/data/6442/images/6442-13.jpg",
+      "ep": "6",
+      "geo": [
+        34.69775,
+        135.53432
+      ]
+    },
+    {
+      "id": "6442-14",
+      "name": "京橋酒場 情熱ホルモン",
+      "image": "https://image.xinu.ink/pic/data/6442/images/6442-14.jpg",
+      "ep": "6",
+      "geo": [
+        34.69787,
+        135.53469
+      ]
+    },
+    {
+      "id": "6442-15",
+      "name": "上福島東公園",
+      "image": "https://image.xinu.ink/pic/data/6442/images/6442-15.jpg",
+      "ep": "7",
+      "geo": [
+        34.69946,
+        135.48867
+      ]
+    },
+    {
+      "id": "6442-16",
+      "name": "パレスサイドビル",
+      "image": "https://image.xinu.ink/pic/data/6442/images/6442-16.jpg",
+      "ep": "8",
+      "geo": [
+        35.69028,
+        139.75871
+      ]
+    },
+    {
+      "id": "6442-17",
+      "name": "鳩森八幡神社",
+      "image": "https://image.xinu.ink/pic/data/6442/images/6442-17.jpg",
+      "ep": "8",
+      "geo": [
+        35.67768,
+        139.70962
+      ]
+    },
+    {
+      "id": "6442-18",
+      "name": "日本将棋連盟本部 将棋会館",
+      "image": "https://image.xinu.ink/pic/data/6442/images/6442-18.jpg",
+      "ep": "8",
+      "geo": [
+        35.67748,
+        139.70941
+      ]
+    },
+    {
+      "id": "6442-19",
+      "name": "CHACO あめみや",
+      "image": "https://image.xinu.ink/pic/data/6442/images/6442-19.jpg",
+      "ep": "8",
+      "geo": [
+        35.6786,
+        139.71009
+      ]
+    },
+    {
+      "id": "6442-20",
+      "name": "ブラームスの小径",
+      "image": "https://image.xinu.ink/pic/data/6442/images/6442-20.jpg",
+      "ep": "8",
+      "geo": [
+        35.67112,
+        139.704
+      ]
+    },
+    {
+      "id": "6442-21",
+      "name": "新宿御苑",
+      "image": "https://image.xinu.ink/pic/data/6442/images/6442-21.jpg",
+      "ep": "9",
+      "geo": [
+        35.68389,
+        139.71066
+      ]
+    },
+    {
+      "id": "6442-22",
+      "name": "和倉温泉 加賀屋",
+      "image": "https://image.xinu.ink/pic/data/6442/images/6442-22.jpg",
+      "ep": "11",
+      "geo": [
+        37.09007,
+        136.9152
+      ]
+    },
+    {
+      "id": "6442-23",
+      "name": "大阪城",
+      "image": "https://image.xinu.ink/pic/data/6442/images/6442-23.jpg",
+      "ep": "12",
+      "geo": [
+        34.68865,
+        135.52439
+      ]
+    }
+  ]
+}

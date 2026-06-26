@@ -1,0 +1,64 @@
+{
+  "points": [
+    {
+      "id": "6314-1",
+      "name": "元町通り",
+      "image": "https://image.xinu.ink/pic/data/6314/images/6314-1.jpg",
+      "ep": "ED1",
+      "geo": [
+        35.440925,
+        139.649558
+      ]
+    },
+    {
+      "id": "6314-2",
+      "name": "代官坂通り",
+      "image": "https://image.xinu.ink/pic/data/6314/images/6314-2.jpg",
+      "ep": "ED1",
+      "geo": [
+        35.44021,
+        139.649967
+      ]
+    },
+    {
+      "id": "6314-3",
+      "name": "横浜みなと博物館周辺",
+      "image": "https://image.xinu.ink/pic/data/6314/images/6314-3.jpg",
+      "ep": "1",
+      "geo": [
+        35.453271,
+        139.633113
+      ]
+    },
+    {
+      "id": "6314-4",
+      "name": "汽車道周辺",
+      "image": "https://image.xinu.ink/pic/data/6314/images/6314-4.jpg",
+      "ep": "1",
+      "geo": [
+        35.453369,
+        139.63649
+      ]
+    },
+    {
+      "id": "6314-5",
+      "name": "汽車道",
+      "image": "https://image.xinu.ink/pic/data/6314/images/6314-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.453109,
+        139.635671
+      ]
+    },
+    {
+      "id": "6314-6",
+      "name": "元町河岸通り",
+      "image": "https://image.xinu.ink/pic/data/6314/images/6314-6.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        35.439866,
+        139.646505
+      ]
+    }
+  ]
+}

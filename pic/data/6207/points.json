@@ -1,0 +1,534 @@
+{
+  "points": [
+    {
+      "id": "6207-1",
+      "name": "加納岩総合病院",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-1.jpg",
+      "ep": "OP2",
+      "geo": [
+        35.68931,
+        138.6827
+      ]
+    },
+    {
+      "id": "6207-2",
+      "name": "フルーツアドベンチャー",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-2.jpg",
+      "ep": "OP2",
+      "geo": [
+        35.70008,
+        138.66605
+      ]
+    },
+    {
+      "id": "6207-3",
+      "name": "食事処 みはらし",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-3.jpg",
+      "ep": "OP2",
+      "geo": [
+        35.68642,
+        138.67905
+      ]
+    },
+    {
+      "id": "6207-4",
+      "name": "汽車道",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-4.jpg",
+      "ep": "OP2",
+      "geo": [
+        35.45339,
+        139.63657
+      ]
+    },
+    {
+      "id": "6207-5",
+      "name": "食事処 みはらし",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.68742,
+        138.67823
+      ]
+    },
+    {
+      "id": "6207-6",
+      "name": "万力公園(万葉の森)",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-6.jpg",
+      "ep": "1",
+      "geo": [
+        35.68958,
+        138.68107
+      ]
+    },
+    {
+      "id": "6207-7",
+      "name": "マアメード",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-7.jpg",
+      "ep": "1",
+      "geo": [
+        35.68876,
+        138.67747
+      ]
+    },
+    {
+      "id": "6207-8",
+      "name": "クリーニング403 山梨万力店",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-8.jpg",
+      "ep": "1",
+      "geo": [
+        35.68911,
+        138.67786
+      ]
+    },
+    {
+      "id": "6207-9",
+      "name": "万力公園(万葉の森)",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-9.jpg",
+      "ep": "1",
+      "geo": [
+        35.69093,
+        138.6801
+      ]
+    },
+    {
+      "id": "6207-10",
+      "name": "Auto Tech 1",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-10.jpg",
+      "ep": "1",
+      "geo": [
+        35.69204,
+        138.68058
+      ]
+    },
+    {
+      "id": "6207-11",
+      "name": "山梨市立図書館",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-11.jpg",
+      "ep": "1",
+      "geo": [
+        35.69346,
+        138.68195
+      ]
+    },
+    {
+      "id": "6207-12",
+      "name": "万力公園",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-12.jpg",
+      "ep": "1",
+      "geo": [
+        35.69182,
+        138.68167
+      ]
+    },
+    {
+      "id": "6207-13",
+      "name": "万力公園",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-13.jpg",
+      "ep": "1",
+      "geo": [
+        35.68894,
+        138.67923
+      ]
+    },
+    {
+      "id": "6207-14",
+      "name": "千鳥",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-14.jpg",
+      "ep": "1",
+      "geo": [
+        35.69291,
+        138.68081
+      ]
+    },
+    {
+      "id": "6207-15",
+      "name": "万力公園",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-15.jpg",
+      "ep": "1",
+      "geo": [
+        35.68701,
+        138.67907
+      ]
+    },
+    {
+      "id": "6207-16",
+      "name": "（有）キョートー",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-16.jpg",
+      "ep": "2",
+      "geo": [
+        35.68594,
+        138.67803
+      ]
+    },
+    {
+      "id": "6207-17",
+      "name": "万力公園",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-17.jpg",
+      "ep": "2",
+      "geo": [
+        35.69007,
+        138.68133
+      ]
+    },
+    {
+      "id": "6207-18",
+      "name": "万力3区公民館",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-18.jpg",
+      "ep": "2",
+      "geo": [
+        35.68519,
+        138.67502
+      ]
+    },
+    {
+      "id": "6207-19",
+      "name": "喜多八",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-19.jpg",
+      "ep": "2",
+      "geo": [
+        35.68608,
+        138.67988
+      ]
+    },
+    {
+      "id": "6207-20",
+      "name": "万力3区公民館",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-20.jpg",
+      "ep": "2",
+      "geo": [
+        35.68514,
+        138.67696
+      ]
+    },
+    {
+      "id": "6207-21",
+      "name": "万力3区公民館",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-21.jpg",
+      "ep": "2",
+      "geo": [
+        35.68535,
+        138.67716
+      ]
+    },
+    {
+      "id": "6207-22",
+      "name": "長源寺",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-22.jpg",
+      "ep": "2",
+      "geo": [
+        35.69236,
+        138.66859
+      ]
+    },
+    {
+      "id": "6207-23",
+      "name": "スターバックス コーヒー 横浜元町店",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-23.jpg",
+      "ep": "3",
+      "geo": [
+        35.4413,
+        139.65056
+      ]
+    },
+    {
+      "id": "6207-24",
+      "name": "ジェラールの瓦工場と水屋敷跡",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-24.jpg",
+      "ep": "3",
+      "geo": [
+        35.43916,
+        139.65092
+      ]
+    },
+    {
+      "id": "6207-25",
+      "name": "ジェラール水屋敷地下貯水槽",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-25.jpg",
+      "ep": "3",
+      "geo": [
+        35.44,
+        139.65069
+      ]
+    },
+    {
+      "id": "6207-26",
+      "name": "山梨県警察本部",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-26.jpg",
+      "ep": "4",
+      "geo": [
+        35.66365,
+        138.56813
+      ]
+    },
+    {
+      "id": "6207-27",
+      "name": "万力3区公民館",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-27.jpg",
+      "ep": "5",
+      "geo": [
+        35.68527,
+        138.674
+      ]
+    },
+    {
+      "id": "6207-28",
+      "name": "山梨市駅",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-28.jpg",
+      "ep": "5",
+      "geo": [
+        35.68497,
+        138.6837
+      ]
+    },
+    {
+      "id": "6207-29",
+      "name": "じゃじゃまる 甲府中央店",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-29.jpg",
+      "ep": "5",
+      "geo": [
+        35.661,
+        138.57007
+      ]
+    },
+    {
+      "id": "6207-30",
+      "name": "甲府銀座通り商店街",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-30.jpg",
+      "ep": "5",
+      "geo": [
+        35.65984,
+        138.5714
+      ]
+    },
+    {
+      "id": "6207-31",
+      "name": "甲府銀座通り商店街",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-31.jpg",
+      "ep": "5",
+      "geo": [
+        35.65981,
+        138.57185
+      ]
+    },
+    {
+      "id": "6207-32",
+      "name": "万力公園",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-32.jpg",
+      "ep": "5",
+      "geo": [
+        35.68799,
+        138.67898
+      ]
+    },
+    {
+      "id": "6207-33",
+      "name": "万力3区公民館",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-33.jpg",
+      "ep": "5",
+      "geo": [
+        35.68537,
+        138.67388
+      ]
+    },
+    {
+      "id": "6207-34",
+      "name": "差出磯大嶽山神社",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-34.jpg",
+      "ep": "6",
+      "geo": [
+        35.6981,
+        138.6841
+      ]
+    },
+    {
+      "id": "6207-35",
+      "name": "差出磯大嶽山神社",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-35.jpg",
+      "ep": "6",
+      "geo": [
+        35.69688,
+        138.68426
+      ]
+    },
+    {
+      "id": "6207-36",
+      "name": "山梨県笛吹川フルーツ公園",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-36.jpg",
+      "ep": "7",
+      "geo": [
+        35.70159,
+        138.66608
+      ]
+    },
+    {
+      "id": "6207-37",
+      "name": "山梨県笛吹川フルーツ公園",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-37.jpg",
+      "ep": "7",
+      "geo": [
+        35.70161,
+        138.66518
+      ]
+    },
+    {
+      "id": "6207-38",
+      "name": "山梨県笛吹川フルーツ公園",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-38.jpg",
+      "ep": "7",
+      "geo": [
+        35.70119,
+        138.66698
+      ]
+    },
+    {
+      "id": "6207-39",
+      "name": "フルーツパーク富士屋ホテル",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-39.jpg",
+      "ep": "7",
+      "geo": [
+        35.70328,
+        138.6621
+      ]
+    },
+    {
+      "id": "6207-40",
+      "name": "フルーツパーク富士屋ホテル",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-40.jpg",
+      "ep": "7",
+      "geo": [
+        35.70312,
+        138.66194
+      ]
+    },
+    {
+      "id": "6207-41",
+      "name": "山梨県笛吹川フルーツ公園",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-41.jpg",
+      "ep": "7",
+      "geo": [
+        35.70193,
+        138.66589
+      ]
+    },
+    {
+      "id": "6207-42",
+      "name": "山梨県笛吹川フルーツ公園",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-42.jpg",
+      "ep": "9",
+      "geo": [
+        35.7017,
+        138.66477
+      ]
+    },
+    {
+      "id": "6207-43",
+      "name": "山梨県笛吹川フルーツ公園",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-43.jpg",
+      "ep": "9",
+      "geo": [
+        35.70335,
+        138.66324
+      ]
+    },
+    {
+      "id": "6207-44",
+      "name": "スポーツショップオダギリ",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-44.jpg",
+      "ep": "10",
+      "geo": [
+        35.68315,
+        138.6859
+      ]
+    },
+    {
+      "id": "6207-45",
+      "name": "大地のシンフォニー \\",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-45.jpg",
+      "ep": "10",
+      "geo": [
+        35.68534,
+        138.68345
+      ]
+    },
+    {
+      "id": "6207-46",
+      "name": "甲府駅",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-46.jpg",
+      "ep": "10",
+      "geo": [
+        35.66684,
+        138.56843
+      ]
+    },
+    {
+      "id": "6207-47",
+      "name": "ビオレ",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-47.jpg",
+      "ep": "10",
+      "geo": [
+        35.66062,
+        138.56989
+      ]
+    },
+    {
+      "id": "6207-48",
+      "name": "パークジャパン 丸の内第13",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-48.jpg",
+      "ep": "10",
+      "geo": [
+        35.6632,
+        138.56904
+      ]
+    },
+    {
+      "id": "6207-49",
+      "name": "万力3区公民館",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-49.jpg",
+      "ep": "10",
+      "geo": [
+        35.68591,
+        138.67503
+      ]
+    },
+    {
+      "id": "6207-50",
+      "name": "大地のシンフォニー \\",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-50.jpg",
+      "ep": "10",
+      "geo": [
+        35.68545,
+        138.6836
+      ]
+    },
+    {
+      "id": "6207-51",
+      "name": "山梨県笛吹川フルーツ公園",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-51.jpg",
+      "ep": "12",
+      "geo": [
+        35.70138,
+        138.66658
+      ]
+    },
+    {
+      "id": "6207-52",
+      "name": "新日本三大夜景 展望広場",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-52.jpg",
+      "ep": "12",
+      "geo": [
+        35.70454,
+        138.66279
+      ]
+    },
+    {
+      "id": "6207-53",
+      "name": "山梨県笛吹川フルーツ公園",
+      "image": "https://image.xinu.ink/pic/data/6207/images/6207-53.jpg",
+      "ep": "12",
+      "geo": [
+        35.70224,
+        138.6656
+      ]
+    }
+  ]
+}

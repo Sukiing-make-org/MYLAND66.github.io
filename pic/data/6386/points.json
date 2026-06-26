@@ -1,0 +1,224 @@
+{
+  "points": [
+    {
+      "id": "6386-1",
+      "name": "早稲田駅（都電）",
+      "image": "https://image.xinu.ink/pic/data/6386/images/6386-1.jpg",
+      "ep": "2",
+      "geo": [
+        35.71181,
+        139.71914
+      ]
+    },
+    {
+      "id": "6386-2",
+      "name": "LIQUIDROOM",
+      "image": "https://image.xinu.ink/pic/data/6386/images/6386-2.jpg",
+      "ep": "3",
+      "geo": [
+        35.64922,
+        139.71076
+      ]
+    },
+    {
+      "id": "6386-3",
+      "name": "豊島区立南大塚公園",
+      "image": "https://image.xinu.ink/pic/data/6386/images/6386-3.jpg",
+      "ep": "3",
+      "geo": [
+        35.72773,
+        139.7311
+      ]
+    },
+    {
+      "id": "6386-4",
+      "name": "日高屋 江戸川橋店",
+      "image": "https://image.xinu.ink/pic/data/6386/images/6386-4.jpg",
+      "ep": "3",
+      "geo": [
+        35.70919,
+        139.73164
+      ]
+    },
+    {
+      "id": "6386-5",
+      "name": "文京区立江戸川公園",
+      "image": "https://image.xinu.ink/pic/data/6386/images/6386-5.jpg",
+      "ep": "3",
+      "geo": [
+        35.71033,
+        139.72818
+      ]
+    },
+    {
+      "id": "6386-6",
+      "name": "セブン-イレブン 文京関口１丁目店",
+      "image": "https://image.xinu.ink/pic/data/6386/images/6386-6.jpg",
+      "ep": "3",
+      "geo": [
+        35.71041,
+        139.72435
+      ]
+    },
+    {
+      "id": "6386-7",
+      "name": "シティテラス目白",
+      "image": "https://image.xinu.ink/pic/data/6386/images/6386-7.jpg",
+      "ep": "3",
+      "geo": [
+        35.71776,
+        139.71289
+      ]
+    },
+    {
+      "id": "6386-8",
+      "name": "駒塚橋",
+      "image": "https://image.xinu.ink/pic/data/6386/images/6386-8.jpg",
+      "ep": "5",
+      "geo": [
+        35.71209,
+        139.72329
+      ]
+    },
+    {
+      "id": "6386-9",
+      "name": "文京区立江戸川公園",
+      "image": "https://image.xinu.ink/pic/data/6386/images/6386-9.jpg",
+      "ep": "5",
+      "geo": [
+        35.71054,
+        139.7264
+      ]
+    },
+    {
+      "id": "6386-10",
+      "name": "子育地蔵尊",
+      "image": "https://image.xinu.ink/pic/data/6386/images/6386-10.jpg",
+      "ep": "8",
+      "geo": [
+        35.70836,
+        139.73154
+      ]
+    },
+    {
+      "id": "6386-11",
+      "name": "駒塚橋",
+      "image": "https://image.xinu.ink/pic/data/6386/images/6386-11.jpg",
+      "ep": "9",
+      "geo": [
+        35.71183,
+        139.72331
+      ]
+    },
+    {
+      "id": "6386-12",
+      "name": "Nii",
+      "image": "https://image.xinu.ink/pic/data/6386/images/6386-12.jpg",
+      "ep": "10",
+      "geo": [
+        35.72968,
+        139.72773
+      ]
+    },
+    {
+      "id": "6386-13",
+      "name": "立呑み晩杯屋 大塚南口",
+      "image": "https://image.xinu.ink/pic/data/6386/images/6386-13.jpg",
+      "ep": "10",
+      "geo": [
+        35.73014,
+        139.72849
+      ]
+    },
+    {
+      "id": "6386-14",
+      "name": "日本武道館",
+      "image": "https://image.xinu.ink/pic/data/6386/images/6386-14.jpg",
+      "ep": "10",
+      "geo": [
+        35.69319,
+        139.74907
+      ]
+    },
+    {
+      "id": "6386-15",
+      "name": "東京ゲートブリッジ",
+      "image": "https://image.xinu.ink/pic/data/6386/images/6386-15.jpg",
+      "ep": "10",
+      "geo": [
+        35.61421,
+        139.83116
+      ]
+    },
+    {
+      "id": "6386-16",
+      "name": "サンライズコースト鴨川",
+      "image": "https://image.xinu.ink/pic/data/6386/images/6386-16.jpg",
+      "ep": "11",
+      "geo": [
+        35.10415,
+        140.10606
+      ]
+    },
+    {
+      "id": "6386-17",
+      "name": "安房鴨川駅",
+      "image": "https://image.xinu.ink/pic/data/6386/images/6386-17.jpg",
+      "ep": "11",
+      "geo": [
+        35.10762,
+        140.10394
+      ]
+    },
+    {
+      "id": "6386-18",
+      "name": "菜な畑ロード",
+      "image": "https://image.xinu.ink/pic/data/6386/images/6386-18.jpg",
+      "ep": "11",
+      "geo": [
+        35.11675,
+        140.10086
+      ]
+    },
+    {
+      "id": "6386-19",
+      "name": "かもがわマリーンブリッジ",
+      "image": "https://image.xinu.ink/pic/data/6386/images/6386-19.jpg",
+      "ep": "11",
+      "geo": [
+        35.09705,
+        140.10527
+      ]
+    },
+    {
+      "id": "6386-20",
+      "name": "鴨川漁港 前原港区",
+      "image": "https://image.xinu.ink/pic/data/6386/images/6386-20.jpg",
+      "ep": "11",
+      "geo": [
+        35.098715,
+        140.108905
+      ]
+    },
+    {
+      "id": "6386-21",
+      "name": "ゆーとぴあ",
+      "image": "https://image.xinu.ink/pic/data/6386/images/6386-21.jpg",
+      "ep": "11",
+      "geo": [
+        35.15108,
+        140.30588
+      ]
+    },
+    {
+      "id": "6386-22",
+      "name": "日本武道館",
+      "image": "https://image.xinu.ink/pic/data/6386/images/6386-22.jpg",
+      "ep": "12",
+      "geo": [
+        35.69333,
+        139.7497
+      ]
+    }
+  ]
+}

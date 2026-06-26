@@ -1,0 +1,2326 @@
+2026-06-26 17:48:36,324 - V2Scraper - INFO - ============================================================
+2026-06-26 17:48:36,324 - V2Scraper - INFO - Anime Pilgrimage V2 Scraper - Starting
+2026-06-26 17:48:36,324 - V2Scraper - INFO - ============================================================
+2026-06-26 17:48:36,324 - V2Scraper - INFO - Fetching anime list from sitemap.xml...
+2026-06-26 17:48:36,570 - V2Scraper - INFO - Sitemap: 282 anime
+2026-06-26 17:48:36,570 - V2Scraper - INFO - Found 282 anime
+2026-06-26 17:48:36,570 - V2Scraper - INFO -   1. Days With My Stepsister (04krYkLnGxdyZnphVjQD)
+2026-06-26 17:48:36,570 - V2Scraper - INFO -   2. Tonikawa (0AvGlAgPpCxpeHIuaJPN)
+2026-06-26 17:48:36,570 - V2Scraper - INFO -   3. Girls Band Cry (0MKV87agZS5NoAaTX6B0)
+2026-06-26 17:48:36,570 - V2Scraper - INFO -   4. Tokyo Revengers (0eav7fRw7FpJyEOwfQKl)
+2026-06-26 17:48:36,570 - V2Scraper - INFO -   5. Jujutsu Kaisen 1 (0krqHxVPwJzgjw4B5AJN)
+2026-06-26 17:48:36,570 - V2Scraper - INFO -   ... and 277 more
+2026-06-26 17:48:36,570 - V2Scraper - INFO - Will scrape 282 anime
+2026-06-26 17:48:36,611 - V2Scraper - INFO - 
+[1/282] Days With My Stepsister (04krYkLnGxdyZnphVjQD)
+2026-06-26 17:48:36,612 - V2Scraper - INFO - Scraping: Days With My Stepsister -> https://www.animepilgrimage.com/ja/maps/anime/04krYkLnGxdyZnphVjQD/days-with-my-stepsister
+2026-06-26 17:48:37,323 - V2Scraper - INFO -   RSC: 21 places (21 total unique)
+2026-06-26 17:48:37,323 - V2Scraper - INFO - Total extracted: 21 places
+2026-06-26 17:48:45,413 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/04krYkLnGxdyZnphVjQD.webp
+2026-06-26 17:48:45,413 - V2Scraper - INFO - Scraped 21 points for 義妹生活
+2026-06-26 17:48:46,583 - V2Scraper - INFO -   Saved 21 points
+2026-06-26 17:48:48,585 - V2Scraper - INFO - 
+[2/282] Tonikawa (0AvGlAgPpCxpeHIuaJPN)
+2026-06-26 17:48:48,585 - V2Scraper - INFO - Scraping: Tonikawa -> https://www.animepilgrimage.com/ja/maps/anime/0AvGlAgPpCxpeHIuaJPN/tonikawa
+2026-06-26 17:48:48,691 - V2Scraper - INFO -   RSC: 7 places (7 total unique)
+2026-06-26 17:48:48,691 - V2Scraper - INFO - Total extracted: 7 places
+2026-06-26 17:48:52,352 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/0AvGlAgPpCxpeHIuaJPN.webp
+2026-06-26 17:48:52,352 - V2Scraper - INFO - Scraped 7 points for トニカクカワイイ
+2026-06-26 17:48:53,527 - V2Scraper - INFO -   Saved 7 points
+2026-06-26 17:48:55,529 - V2Scraper - INFO - 
+[3/282] Girls Band Cry (0MKV87agZS5NoAaTX6B0)
+2026-06-26 17:48:55,529 - V2Scraper - INFO - Scraping: Girls Band Cry -> https://www.animepilgrimage.com/ja/maps/anime/0MKV87agZS5NoAaTX6B0/girls-band-cry
+2026-06-26 17:48:55,736 - V2Scraper - INFO -   RSC: 91 places (91 total unique)
+2026-06-26 17:48:55,737 - V2Scraper - INFO - Total extracted: 91 places
+2026-06-26 17:49:30,374 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/0MKV87agZS5NoAaTX6B0.webp
+2026-06-26 17:49:30,374 - V2Scraper - INFO - Scraped 91 points for ガールズバンドクライ
+2026-06-26 17:49:31,553 - V2Scraper - INFO -   Saved 91 points
+2026-06-26 17:49:33,556 - V2Scraper - INFO - 
+[4/282] Tokyo Revengers (0eav7fRw7FpJyEOwfQKl)
+2026-06-26 17:49:33,556 - V2Scraper - INFO - Scraping: Tokyo Revengers -> https://www.animepilgrimage.com/ja/maps/anime/0eav7fRw7FpJyEOwfQKl/tokyo-revengers
+2026-06-26 17:49:34,222 - V2Scraper - INFO -   RSC: 26 places (26 total unique)
+2026-06-26 17:49:34,222 - V2Scraper - INFO - Total extracted: 26 places
+2026-06-26 17:49:46,924 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/0eav7fRw7FpJyEOwfQKl.webp
+2026-06-26 17:49:46,924 - V2Scraper - INFO - Scraped 26 points for 東京リベンジャーズ
+2026-06-26 17:49:48,101 - V2Scraper - INFO -   Saved 26 points
+2026-06-26 17:49:50,103 - V2Scraper - INFO - 
+[5/282] Jujutsu Kaisen 1 (0krqHxVPwJzgjw4B5AJN)
+2026-06-26 17:49:50,103 - V2Scraper - INFO - Scraping: Jujutsu Kaisen 1 -> https://www.animepilgrimage.com/ja/maps/anime/0krqHxVPwJzgjw4B5AJN/jujutsu-kaisen-1
+2026-06-26 17:49:50,302 - V2Scraper - INFO -   RSC: 36 places (36 total unique)
+2026-06-26 17:49:50,302 - V2Scraper - INFO - Total extracted: 36 places
+2026-06-26 17:49:59,959 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/0krqHxVPwJzgjw4B5AJN.webp
+2026-06-26 17:49:59,959 - V2Scraper - INFO - Scraped 36 points for 呪術廻戦
+2026-06-26 17:50:01,143 - V2Scraper - INFO -   Saved 36 points
+2026-06-26 17:50:03,146 - V2Scraper - INFO - 
+[6/282] Kaguya Sama S1 (0xrJOK7da7qvAXCrTTJ6)
+2026-06-26 17:50:03,146 - V2Scraper - INFO - Scraping: Kaguya Sama S1 -> https://www.animepilgrimage.com/ja/maps/anime/0xrJOK7da7qvAXCrTTJ6/kaguya-sama-s1
+2026-06-26 17:50:03,283 - V2Scraper - INFO -   RSC: 15 places (15 total unique)
+2026-06-26 17:50:03,283 - V2Scraper - INFO - Total extracted: 15 places
+2026-06-26 17:50:06,546 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/0xrJOK7da7qvAXCrTTJ6.webp
+2026-06-26 17:50:06,547 - V2Scraper - INFO - Scraped 15 points for かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜
+2026-06-26 17:50:07,730 - V2Scraper - INFO -   Saved 15 points
+2026-06-26 17:50:09,732 - V2Scraper - INFO - 
+[7/282] Wonder Egg Priority (1IcHGFHi8jBaDrG3fSQo)
+2026-06-26 17:50:09,732 - V2Scraper - INFO - Scraping: Wonder Egg Priority -> https://www.animepilgrimage.com/ja/maps/anime/1IcHGFHi8jBaDrG3fSQo/wonder-egg-priority
+2026-06-26 17:50:10,157 - V2Scraper - INFO -   RSC: 39 places (39 total unique)
+2026-06-26 17:50:10,157 - V2Scraper - INFO - Total extracted: 39 places
+2026-06-26 17:50:25,630 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/1IcHGFHi8jBaDrG3fSQo.webp
+2026-06-26 17:50:25,630 - V2Scraper - INFO - Scraped 39 points for ワンダーエッグ・プライオリティ
+2026-06-26 17:50:26,794 - V2Scraper - INFO -   Saved 39 points
+2026-06-26 17:50:28,797 - V2Scraper - INFO - 
+[8/282] Mashle 2 (1M3MAFU6v1pvBnx8HHEq)
+2026-06-26 17:50:28,797 - V2Scraper - INFO - Scraping: Mashle 2 -> https://www.animepilgrimage.com/ja/maps/anime/1M3MAFU6v1pvBnx8HHEq/mashle-2
+2026-06-26 17:50:28,939 - V2Scraper - INFO -   RSC: 8 places (8 total unique)
+2026-06-26 17:50:28,939 - V2Scraper - INFO - Total extracted: 8 places
+2026-06-26 17:50:33,070 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/1M3MAFU6v1pvBnx8HHEq.webp
+2026-06-26 17:50:33,070 - V2Scraper - INFO - Scraped 8 points for マッシュル-MASHLE- 第2期
+2026-06-26 17:50:34,229 - V2Scraper - INFO -   Saved 8 points
+2026-06-26 17:50:36,232 - V2Scraper - INFO - 
+[9/282] Sound Euphonium Ensemble Contest Arc (1Y4ZSYLqASYfeZRC4q26)
+2026-06-26 17:50:36,232 - V2Scraper - INFO - Scraping: Sound Euphonium Ensemble Contest Arc -> https://www.animepilgrimage.com/ja/maps/anime/1Y4ZSYLqASYfeZRC4q26/sound-euphonium-ensemble-contest-arc
+2026-06-26 17:50:36,343 - V2Scraper - INFO -   RSC: 4 places (4 total unique)
+2026-06-26 17:50:36,344 - V2Scraper - INFO - Total extracted: 4 places
+2026-06-26 17:50:37,572 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/1Y4ZSYLqASYfeZRC4q26.webp
+2026-06-26 17:50:37,573 - V2Scraper - INFO - Scraped 4 points for 響け！ユーフォニアム～アンサンブルコンテスト～
+2026-06-26 17:50:38,736 - V2Scraper - INFO -   Saved 4 points
+2026-06-26 17:50:40,738 - V2Scraper - INFO - 
+[10/282] The Day I Became A God (2Qn88kmQZgyF4hkwvH9V)
+2026-06-26 17:50:40,738 - V2Scraper - INFO - Scraping: The Day I Became A God -> https://www.animepilgrimage.com/ja/maps/anime/2Qn88kmQZgyF4hkwvH9V/the-day-i-became-a-god
+2026-06-26 17:50:41,125 - V2Scraper - INFO -   RSC: 53 places (53 total unique)
+2026-06-26 17:50:41,125 - V2Scraper - INFO - Total extracted: 53 places
+2026-06-26 17:51:08,819 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/2Qn88kmQZgyF4hkwvH9V.webp
+2026-06-26 17:51:08,820 - V2Scraper - INFO - Scraped 53 points for 神様になった日
+2026-06-26 17:51:09,989 - V2Scraper - INFO -   Saved 53 points
+2026-06-26 17:51:11,991 - V2Scraper - INFO - 
+[11/282] Blue Orchestra (2fnFUFrnX38hq4LyHjQ9)
+2026-06-26 17:51:11,991 - V2Scraper - INFO - Scraping: Blue Orchestra -> https://www.animepilgrimage.com/ja/maps/anime/2fnFUFrnX38hq4LyHjQ9/blue-orchestra
+2026-06-26 17:51:12,248 - V2Scraper - INFO -   RSC: 39 places (39 total unique)
+2026-06-26 17:51:12,249 - V2Scraper - INFO - Total extracted: 39 places
+2026-06-26 17:51:32,082 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/2fnFUFrnX38hq4LyHjQ9.webp
+2026-06-26 17:51:32,082 - V2Scraper - INFO - Scraped 39 points for 青のオーケストラ
+2026-06-26 17:51:33,259 - V2Scraper - INFO -   Saved 39 points
+2026-06-26 17:51:35,261 - V2Scraper - INFO - 
+[12/282] Ssss Dynazenon (2jBMuj47DmkLyXspvbb3)
+2026-06-26 17:51:35,261 - V2Scraper - INFO - Scraping: Ssss Dynazenon -> https://www.animepilgrimage.com/ja/maps/anime/2jBMuj47DmkLyXspvbb3/ssss-dynazenon
+2026-06-26 17:51:35,449 - V2Scraper - INFO -   RSC: 18 places (18 total unique)
+2026-06-26 17:51:35,449 - V2Scraper - INFO - Total extracted: 18 places
+2026-06-26 17:51:43,947 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/2jBMuj47DmkLyXspvbb3.webp
+2026-06-26 17:51:43,947 - V2Scraper - INFO - Scraped 18 points for SSSS.DYNAZENON
+2026-06-26 17:51:45,141 - V2Scraper - INFO -   Saved 18 points
+2026-06-26 17:51:47,143 - V2Scraper - INFO - 
+[13/282] New Game (3aCI73vQcF1oy3bw17Fl)
+2026-06-26 17:51:47,143 - V2Scraper - INFO - Scraping: New Game -> https://www.animepilgrimage.com/ja/maps/anime/3aCI73vQcF1oy3bw17Fl/new-game
+2026-06-26 17:51:47,753 - V2Scraper - INFO -   RSC: 26 places (26 total unique)
+2026-06-26 17:51:47,754 - V2Scraper - INFO - Total extracted: 26 places
+2026-06-26 17:52:00,927 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/3aCI73vQcF1oy3bw17Fl.webp
+2026-06-26 17:52:00,927 - V2Scraper - INFO - Scraped 26 points for NEW GAME!
+2026-06-26 17:52:02,119 - V2Scraper - INFO -   Saved 26 points
+2026-06-26 17:52:04,121 - V2Scraper - INFO - 
+[14/282] Amagami Sister (41qdCtiQIC4yNwpe8kWk)
+2026-06-26 17:52:04,121 - V2Scraper - INFO - Scraping: Amagami Sister -> https://www.animepilgrimage.com/ja/maps/anime/41qdCtiQIC4yNwpe8kWk/amagami-sister
+2026-06-26 17:52:04,252 - V2Scraper - INFO -   RSC: 49 places (49 total unique)
+2026-06-26 17:52:04,252 - V2Scraper - INFO - Total extracted: 49 places
+2026-06-26 17:52:26,503 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/41qdCtiQIC4yNwpe8kWk.webp
+2026-06-26 17:52:26,503 - V2Scraper - INFO - Scraped 49 points for 甘神さんちの縁結び
+2026-06-26 17:52:27,687 - V2Scraper - INFO -   Saved 49 points
+2026-06-26 17:52:29,689 - V2Scraper - INFO - 
+[15/282] Blue Period (4Dfm522fI1VWDj56dqkN)
+2026-06-26 17:52:29,689 - V2Scraper - INFO - Scraping: Blue Period -> https://www.animepilgrimage.com/ja/maps/anime/4Dfm522fI1VWDj56dqkN/blue-period
+2026-06-26 17:52:30,098 - V2Scraper - INFO -   RSC: 18 places (18 total unique)
+2026-06-26 17:52:30,098 - V2Scraper - INFO - Total extracted: 18 places
+2026-06-26 17:52:38,145 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/4Dfm522fI1VWDj56dqkN.webp
+2026-06-26 17:52:38,145 - V2Scraper - INFO - Scraped 18 points for ブルーピリオド
+2026-06-26 17:52:39,328 - V2Scraper - INFO -   Saved 18 points
+2026-06-26 17:52:41,330 - V2Scraper - INFO - 
+[16/282] Onimai (4aS0VtqJxde7q4nVBDYT)
+2026-06-26 17:52:41,330 - V2Scraper - INFO - Scraping: Onimai -> https://www.animepilgrimage.com/ja/maps/anime/4aS0VtqJxde7q4nVBDYT/onimai
+2026-06-26 17:52:41,459 - V2Scraper - INFO -   RSC: 8 places (8 total unique)
+2026-06-26 17:52:41,459 - V2Scraper - INFO - Total extracted: 8 places
+2026-06-26 17:52:45,935 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/4aS0VtqJxde7q4nVBDYT.webp
+2026-06-26 17:52:45,936 - V2Scraper - INFO - Scraped 8 points for お兄ちゃんはおしまい！
+2026-06-26 17:52:47,128 - V2Scraper - INFO -   Saved 8 points
+2026-06-26 17:52:49,130 - V2Scraper - INFO - 
+[17/282] Dagashi Kashi 2 (4h4wxGAFDIAIb7Aip05j)
+2026-06-26 17:52:49,130 - V2Scraper - INFO - Scraping: Dagashi Kashi 2 -> https://www.animepilgrimage.com/ja/maps/anime/4h4wxGAFDIAIb7Aip05j/dagashi-kashi-2
+2026-06-26 17:52:49,776 - V2Scraper - INFO -   RSC: 5 places (5 total unique)
+2026-06-26 17:52:49,777 - V2Scraper - INFO - Total extracted: 5 places
+2026-06-26 17:52:52,591 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/4h4wxGAFDIAIb7Aip05j.webp
+2026-06-26 17:52:52,592 - V2Scraper - INFO - Scraped 5 points for だがしかし2
+2026-06-26 17:52:53,781 - V2Scraper - INFO -   Saved 5 points
+2026-06-26 17:52:55,783 - V2Scraper - INFO - 
+[18/282] Rent A Girlfriend (4qj55JHEmZFWloUisn7T)
+2026-06-26 17:52:55,783 - V2Scraper - INFO - Scraping: Rent A Girlfriend -> https://www.animepilgrimage.com/ja/maps/anime/4qj55JHEmZFWloUisn7T/rent-a-girlfriend
+2026-06-26 17:52:55,925 - V2Scraper - INFO -   RSC: 15 places (15 total unique)
+2026-06-26 17:52:55,925 - V2Scraper - INFO - Total extracted: 15 places
+2026-06-26 17:53:02,634 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/4qj55JHEmZFWloUisn7T.webp
+2026-06-26 17:53:02,635 - V2Scraper - INFO - Scraped 15 points for 彼女、お借りします
+2026-06-26 17:53:03,813 - V2Scraper - INFO -   Saved 15 points
+2026-06-26 17:53:05,815 - V2Scraper - INFO - 
+[19/282] Lucky Star (4xqBX6umqSEPcn2i8zGp)
+2026-06-26 17:53:05,815 - V2Scraper - INFO - Scraping: Lucky Star -> https://www.animepilgrimage.com/ja/maps/anime/4xqBX6umqSEPcn2i8zGp/lucky-star
+2026-06-26 17:53:05,974 - V2Scraper - INFO -   RSC: 55 places (55 total unique)
+2026-06-26 17:53:05,974 - V2Scraper - INFO - Total extracted: 55 places
+2026-06-26 17:53:29,927 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/4xqBX6umqSEPcn2i8zGp.webp
+2026-06-26 17:53:29,927 - V2Scraper - INFO - Scraped 55 points for らき☆すた
+2026-06-26 17:53:31,083 - V2Scraper - INFO -   Saved 55 points
+2026-06-26 17:53:33,086 - V2Scraper - INFO - 
+[20/282] Uma Musume Cinderella Gray (5Um0pl2wIvUA1sxLucet)
+2026-06-26 17:53:33,086 - V2Scraper - INFO - Scraping: Uma Musume Cinderella Gray -> https://www.animepilgrimage.com/ja/maps/anime/5Um0pl2wIvUA1sxLucet/uma-musume-cinderella-gray
+2026-06-26 17:53:33,236 - V2Scraper - INFO -   RSC: 47 places (47 total unique)
+2026-06-26 17:53:33,236 - V2Scraper - INFO - Total extracted: 47 places
+2026-06-26 17:53:55,157 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/5Um0pl2wIvUA1sxLucet.webp
+2026-06-26 17:53:55,157 - V2Scraper - INFO - Scraped 47 points for ウマ娘 シンデレラグレイ
+2026-06-26 17:53:56,317 - V2Scraper - INFO -   Saved 47 points
+2026-06-26 17:53:58,319 - V2Scraper - INFO - 
+[21/282] Insomniacs After School (5WCOHcONptTxTxp5aVEN)
+2026-06-26 17:53:58,319 - V2Scraper - INFO - Scraping: Insomniacs After School -> https://www.animepilgrimage.com/ja/maps/anime/5WCOHcONptTxTxp5aVEN/insomniacs-after-school
+2026-06-26 17:53:58,505 - V2Scraper - INFO -   RSC: 26 places (26 total unique)
+2026-06-26 17:53:58,506 - V2Scraper - INFO - Total extracted: 26 places
+2026-06-26 17:54:09,914 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/5WCOHcONptTxTxp5aVEN.webp
+2026-06-26 17:54:09,915 - V2Scraper - INFO - Scraped 26 points for 君は放課後インソムニア
+2026-06-26 17:54:11,085 - V2Scraper - INFO -   Saved 26 points
+2026-06-26 17:54:13,087 - V2Scraper - INFO - 
+[22/282] Oregairu Snafu 3 (5vE1eznAXty26eatfkUr)
+2026-06-26 17:54:13,087 - V2Scraper - INFO - Scraping: Oregairu Snafu 3 -> https://www.animepilgrimage.com/ja/maps/anime/5vE1eznAXty26eatfkUr/oregairu-snafu-3
+2026-06-26 17:54:13,383 - V2Scraper - INFO -   RSC: 30 places (30 total unique)
+2026-06-26 17:54:13,383 - V2Scraper - INFO - Total extracted: 30 places
+2026-06-26 17:54:27,744 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/5vE1eznAXty26eatfkUr.webp
+2026-06-26 17:54:27,744 - V2Scraper - INFO - Scraped 30 points for やはり俺の青春ラブコメはまちがっている。完
+2026-06-26 17:54:28,913 - V2Scraper - INFO -   Saved 30 points
+2026-06-26 17:54:30,915 - V2Scraper - INFO - 
+[23/282] Love Live Sunshine (6N67DR42EcjHOgapUH3I)
+2026-06-26 17:54:30,916 - V2Scraper - INFO - Scraping: Love Live Sunshine -> https://www.animepilgrimage.com/ja/maps/anime/6N67DR42EcjHOgapUH3I/love-live-sunshine
+2026-06-26 17:54:31,692 - V2Scraper - INFO -   RSC: 84 places (84 total unique)
+2026-06-26 17:54:31,692 - V2Scraper - INFO - Total extracted: 84 places
+2026-06-26 17:55:06,786 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/6N67DR42EcjHOgapUH3I.webp
+2026-06-26 17:55:06,786 - V2Scraper - INFO - Scraped 84 points for ラブライブ! サンシャイン!!
+2026-06-26 17:55:07,956 - V2Scraper - INFO -   Saved 84 points
+2026-06-26 17:55:09,958 - V2Scraper - INFO - 
+[24/282] Yuri On Ice (6cTFY0N0Tckm3bOHJzxT)
+2026-06-26 17:55:09,959 - V2Scraper - INFO - Scraping: Yuri On Ice -> https://www.animepilgrimage.com/ja/maps/anime/6cTFY0N0Tckm3bOHJzxT/yuri-on-ice
+2026-06-26 17:55:10,083 - V2Scraper - INFO -   RSC: 21 places (21 total unique)
+2026-06-26 17:55:10,084 - V2Scraper - INFO - Total extracted: 21 places
+2026-06-26 17:55:19,966 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/6cTFY0N0Tckm3bOHJzxT.webp
+2026-06-26 17:55:19,966 - V2Scraper - INFO - Scraped 21 points for ユーリ!!! on ICE
+2026-06-26 17:55:21,153 - V2Scraper - INFO -   Saved 21 points
+2026-06-26 17:55:23,156 - V2Scraper - INFO - 
+[25/282] Whisper Of The Heart (6l6BPuRhgYMBB6cZQmYY)
+2026-06-26 17:55:23,156 - V2Scraper - INFO - Scraping: Whisper Of The Heart -> https://www.animepilgrimage.com/ja/maps/anime/6l6BPuRhgYMBB6cZQmYY/whisper-of-the-heart
+2026-06-26 17:55:23,469 - V2Scraper - INFO -   RSC: 8 places (8 total unique)
+2026-06-26 17:55:23,469 - V2Scraper - INFO - Total extracted: 8 places
+2026-06-26 17:55:26,598 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/6l6BPuRhgYMBB6cZQmYY.webp
+2026-06-26 17:55:26,599 - V2Scraper - INFO - Scraped 8 points for 耳をすませば
+2026-06-26 17:55:27,773 - V2Scraper - INFO -   Saved 8 points
+2026-06-26 17:55:29,775 - V2Scraper - INFO - 
+[26/282] Death Note (6tJB3K9VJZUzMkqcnP70)
+2026-06-26 17:55:29,775 - V2Scraper - INFO - Scraping: Death Note -> https://www.animepilgrimage.com/ja/maps/anime/6tJB3K9VJZUzMkqcnP70/death-note
+2026-06-26 17:55:29,895 - V2Scraper - INFO -   RSC: 24 places (24 total unique)
+2026-06-26 17:55:29,895 - V2Scraper - INFO - Total extracted: 24 places
+2026-06-26 17:55:41,315 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/6tJB3K9VJZUzMkqcnP70.webp
+2026-06-26 17:55:41,316 - V2Scraper - INFO - Scraped 24 points for DEATH NOTE
+2026-06-26 17:55:42,495 - V2Scraper - INFO -   Saved 24 points
+2026-06-26 17:55:44,497 - V2Scraper - INFO - 
+[27/282] Grand Blue Dreaming 2 (71R457ymVP7fNC5zV87p)
+2026-06-26 17:55:44,498 - V2Scraper - INFO - Scraping: Grand Blue Dreaming 2 -> https://www.animepilgrimage.com/ja/maps/anime/71R457ymVP7fNC5zV87p/grand-blue-dreaming-2
+2026-06-26 17:55:45,142 - V2Scraper - INFO -   RSC: 4 places (4 total unique)
+2026-06-26 17:55:45,142 - V2Scraper - INFO - Total extracted: 4 places
+2026-06-26 17:55:47,572 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/71R457ymVP7fNC5zV87p.webp
+2026-06-26 17:55:47,572 - V2Scraper - INFO - Scraped 4 points for ぐらんぶる Season 2
+2026-06-26 17:55:48,762 - V2Scraper - INFO -   Saved 4 points
+2026-06-26 17:55:50,764 - V2Scraper - INFO - 
+[28/282] Natsumes Book Of Friends (78Sd6GOolITNMHjhXe7G)
+2026-06-26 17:55:50,764 - V2Scraper - INFO - Scraping: Natsumes Book Of Friends -> https://www.animepilgrimage.com/ja/maps/anime/78Sd6GOolITNMHjhXe7G/natsumes-book-of-friends
+2026-06-26 17:55:50,884 - V2Scraper - INFO -   RSC: 13 places (13 total unique)
+2026-06-26 17:55:50,884 - V2Scraper - INFO - Total extracted: 13 places
+2026-06-26 17:55:58,592 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/78Sd6GOolITNMHjhXe7G.webp
+2026-06-26 17:55:58,593 - V2Scraper - INFO - Scraped 13 points for 夏目友人帳
+2026-06-26 17:55:59,766 - V2Scraper - INFO -   Saved 13 points
+2026-06-26 17:56:01,769 - V2Scraper - INFO - 
+[29/282] Fate Stay Night Unlimited Blade Works (7Mb8EsEXGlzHao3g6w6M)
+2026-06-26 17:56:01,769 - V2Scraper - INFO - Scraping: Fate Stay Night Unlimited Blade Works -> https://www.animepilgrimage.com/ja/maps/anime/7Mb8EsEXGlzHao3g6w6M/fate-stay-night-unlimited-blade-works
+2026-06-26 17:56:02,221 - V2Scraper - INFO -   RSC: 14 places (14 total unique)
+2026-06-26 17:56:02,221 - V2Scraper - INFO - Total extracted: 14 places
+2026-06-26 17:56:04,531 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/7Mb8EsEXGlzHao3g6w6M.webp
+2026-06-26 17:56:04,532 - V2Scraper - INFO - Scraped 14 points for Fate/stay night: Unlimited Blade Works
+2026-06-26 17:56:05,707 - V2Scraper - INFO -   Saved 14 points
+2026-06-26 17:56:07,708 - V2Scraper - INFO - 
+[30/282] Dropout Idol Fruit Tart (7X8GwlsO7iyhgQXDGEcI)
+2026-06-26 17:56:07,708 - V2Scraper - INFO - Scraping: Dropout Idol Fruit Tart -> https://www.animepilgrimage.com/ja/maps/anime/7X8GwlsO7iyhgQXDGEcI/dropout-idol-fruit-tart
+2026-06-26 17:56:08,387 - V2Scraper - INFO -   RSC: 9 places (9 total unique)
+2026-06-26 17:56:08,387 - V2Scraper - INFO - Total extracted: 9 places
+2026-06-26 17:56:12,562 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/7X8GwlsO7iyhgQXDGEcI.webp
+2026-06-26 17:56:12,562 - V2Scraper - INFO - Scraped 9 points for おちこぼれフルーツタルト
+2026-06-26 17:56:13,739 - V2Scraper - INFO -   Saved 9 points
+2026-06-26 17:56:15,741 - V2Scraper - INFO - 
+[31/282] Hokkaido Gals Are Super Adorable (7hci6sBMlfGq4sAIW9hp)
+2026-06-26 17:56:15,741 - V2Scraper - INFO - Scraping: Hokkaido Gals Are Super Adorable -> https://www.animepilgrimage.com/ja/maps/anime/7hci6sBMlfGq4sAIW9hp/hokkaido-gals-are-super-adorable
+2026-06-26 17:56:15,853 - V2Scraper - INFO -   RSC: 20 places (20 total unique)
+2026-06-26 17:56:15,853 - V2Scraper - INFO - Total extracted: 20 places
+2026-06-26 17:56:25,488 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/7hci6sBMlfGq4sAIW9hp.webp
+2026-06-26 17:56:25,488 - V2Scraper - INFO - Scraped 20 points for 道産子ギャルはなまらめんこい
+2026-06-26 17:56:26,676 - V2Scraper - INFO -   Saved 20 points
+2026-06-26 17:56:28,678 - V2Scraper - INFO - 
+[32/282] Fireworks 2017 (7i2GVSJGLkEIJoAzrntM)
+2026-06-26 17:56:28,678 - V2Scraper - INFO - Scraping: Fireworks 2017 -> https://www.animepilgrimage.com/ja/maps/anime/7i2GVSJGLkEIJoAzrntM/fireworks-2017
+2026-06-26 17:56:29,020 - V2Scraper - INFO -   RSC: 7 places (7 total unique)
+2026-06-26 17:56:29,020 - V2Scraper - INFO - Total extracted: 7 places
+2026-06-26 17:56:31,154 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/7i2GVSJGLkEIJoAzrntM.webp
+2026-06-26 17:56:31,155 - V2Scraper - INFO - Scraped 7 points for 打ち上げ花火、下から見るか? 横から見るか?
+2026-06-26 17:56:32,336 - V2Scraper - INFO -   Saved 7 points
+2026-06-26 17:56:34,338 - V2Scraper - INFO - 
+[33/282] Tis Time For Torture Princess (7nPtaNBDbDFBWRVv9dvm)
+2026-06-26 17:56:34,338 - V2Scraper - INFO - Scraping: Tis Time For Torture Princess -> https://www.animepilgrimage.com/ja/maps/anime/7nPtaNBDbDFBWRVv9dvm/tis-time-for-torture-princess
+2026-06-26 17:56:34,449 - V2Scraper - INFO -   RSC: 3 places (3 total unique)
+2026-06-26 17:56:34,449 - V2Scraper - INFO - Total extracted: 3 places
+2026-06-26 17:56:36,169 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/7nPtaNBDbDFBWRVv9dvm.webp
+2026-06-26 17:56:36,169 - V2Scraper - INFO - Scraped 3 points for 姫様“拷問”の時間です
+2026-06-26 17:56:37,352 - V2Scraper - INFO -   Saved 3 points
+2026-06-26 17:56:39,355 - V2Scraper - INFO - 
+[34/282] Tari Tari (7uy92cNLDMaXLxP9kiLy)
+2026-06-26 17:56:39,355 - V2Scraper - INFO - Scraping: Tari Tari -> https://www.animepilgrimage.com/ja/maps/anime/7uy92cNLDMaXLxP9kiLy/tari-tari
+2026-06-26 17:56:39,501 - V2Scraper - INFO -   RSC: 50 places (50 total unique)
+2026-06-26 17:56:39,501 - V2Scraper - INFO - Total extracted: 50 places
+2026-06-26 17:57:02,404 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/7uy92cNLDMaXLxP9kiLy.webp
+2026-06-26 17:57:02,404 - V2Scraper - INFO - Scraped 50 points for TARI TARI
+2026-06-26 17:57:03,568 - V2Scraper - INFO -   Saved 50 points
+2026-06-26 17:57:05,570 - V2Scraper - INFO - 
+[35/282] Steel Ball Run Jojo S Bizarre Adventure 1St Stage (81Yt30qQuWyUxR3evZkx)
+2026-06-26 17:57:05,570 - V2Scraper - INFO - Scraping: Steel Ball Run Jojo S Bizarre Adventure 1St Stage -> https://www.animepilgrimage.com/ja/maps/anime/81Yt30qQuWyUxR3evZkx/steel-ball-run-jojo-s-bizarre-adventure-1st-stage
+2026-06-26 17:57:05,709 - V2Scraper - INFO -   RSC: 1 places (1 total unique)
+2026-06-26 17:57:05,709 - V2Scraper - INFO - Total extracted: 1 places
+2026-06-26 17:57:05,765 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/81Yt30qQuWyUxR3evZkx.webp
+2026-06-26 17:57:05,766 - V2Scraper - INFO - Scraped 1 points for ジョジョの奇妙な冒険 スティール・ボール・ラン 1st STAGE
+2026-06-26 17:57:06,932 - V2Scraper - INFO -   Saved 1 points
+2026-06-26 17:57:08,934 - V2Scraper - INFO - 
+[36/282] Hanasaku Iroha (85RF5tAgykz6goUkarZI)
+2026-06-26 17:57:08,934 - V2Scraper - INFO - Scraping: Hanasaku Iroha -> https://www.animepilgrimage.com/ja/maps/anime/85RF5tAgykz6goUkarZI/hanasaku-iroha
+2026-06-26 17:57:09,065 - V2Scraper - INFO -   RSC: 48 places (48 total unique)
+2026-06-26 17:57:09,065 - V2Scraper - INFO - Total extracted: 48 places
+2026-06-26 17:57:33,200 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/85RF5tAgykz6goUkarZI.webp
+2026-06-26 17:57:33,201 - V2Scraper - INFO - Scraped 48 points for 花咲くいろは
+2026-06-26 17:57:34,373 - V2Scraper - INFO -   Saved 48 points
+2026-06-26 17:57:36,375 - V2Scraper - INFO - 
+[37/282] Apocalypse Hotel (85SdTr9RvljF5f8N0BZ6)
+2026-06-26 17:57:36,375 - V2Scraper - INFO - Scraping: Apocalypse Hotel -> https://www.animepilgrimage.com/ja/maps/anime/85SdTr9RvljF5f8N0BZ6/apocalypse-hotel
+2026-06-26 17:57:36,547 - V2Scraper - INFO -   RSC: 47 places (47 total unique)
+2026-06-26 17:57:36,547 - V2Scraper - INFO - Total extracted: 47 places
+2026-06-26 17:57:58,953 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/85SdTr9RvljF5f8N0BZ6.webp
+2026-06-26 17:57:58,953 - V2Scraper - INFO - Scraped 47 points for アポカリプスホテル
+2026-06-26 17:58:00,131 - V2Scraper - INFO -   Saved 47 points
+2026-06-26 17:58:02,134 - V2Scraper - INFO - 
+[38/282] The Fragrant Flower Blooms With Dignity (8qH4apWLfIBDT1mUOPKG)
+2026-06-26 17:58:02,134 - V2Scraper - INFO - Scraping: The Fragrant Flower Blooms With Dignity -> https://www.animepilgrimage.com/ja/maps/anime/8qH4apWLfIBDT1mUOPKG/the-fragrant-flower-blooms-with-dignity
+2026-06-26 17:58:02,805 - V2Scraper - INFO -   RSC: 40 places (40 total unique)
+2026-06-26 17:58:02,805 - V2Scraper - INFO - Total extracted: 40 places
+2026-06-26 17:58:14,778 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/8qH4apWLfIBDT1mUOPKG.webp
+2026-06-26 17:58:14,778 - V2Scraper - INFO - Scraped 40 points for 薫る花は凛と咲く
+2026-06-26 17:58:15,955 - V2Scraper - INFO -   Saved 40 points
+2026-06-26 17:58:17,957 - V2Scraper - INFO - 
+[39/282] Zatsutabi That S Journey (8zT7IvWSfgzbUGZLUFkL)
+2026-06-26 17:58:17,958 - V2Scraper - INFO - Scraping: Zatsutabi That S Journey -> https://www.animepilgrimage.com/ja/maps/anime/8zT7IvWSfgzbUGZLUFkL/zatsutabi-that-s-journey
+2026-06-26 17:58:18,074 - V2Scraper - INFO -   RSC: 24 places (24 total unique)
+2026-06-26 17:58:18,074 - V2Scraper - INFO - Total extracted: 24 places
+2026-06-26 17:58:24,522 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/8zT7IvWSfgzbUGZLUFkL.webp
+2026-06-26 17:58:24,523 - V2Scraper - INFO - Scraped 24 points for ざつ旅-That&#x27;s Journey-
+2026-06-26 17:58:25,711 - V2Scraper - INFO -   Saved 24 points
+2026-06-26 17:58:27,713 - V2Scraper - INFO - 
+[40/282] Sound Euphonium Our Promise A Brand New Day (97Fqg7Hq6Y4AIjA1WvNb)
+2026-06-26 17:58:27,713 - V2Scraper - INFO - Scraping: Sound Euphonium Our Promise A Brand New Day -> https://www.animepilgrimage.com/ja/maps/anime/97Fqg7Hq6Y4AIjA1WvNb/sound-euphonium-our-promise-a-brand-new-day
+2026-06-26 17:58:28,074 - V2Scraper - INFO -   RSC: 26 places (26 total unique)
+2026-06-26 17:58:28,074 - V2Scraper - INFO - Total extracted: 26 places
+2026-06-26 17:58:38,727 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/97Fqg7Hq6Y4AIjA1WvNb.webp
+2026-06-26 17:58:38,727 - V2Scraper - INFO - Scraped 26 points for 響け！ユーフォニアム〜誓いのフィナーレ〜
+2026-06-26 17:58:39,910 - V2Scraper - INFO -   Saved 26 points
+2026-06-26 17:58:41,912 - V2Scraper - INFO - 
+[41/282] Love Chunibyo Other Delusions Take On Me (9CrfdTfoKGhoPGvKXh4M)
+2026-06-26 17:58:41,913 - V2Scraper - INFO - Scraping: Love Chunibyo Other Delusions Take On Me -> https://www.animepilgrimage.com/ja/maps/anime/9CrfdTfoKGhoPGvKXh4M/love-chunibyo-other-delusions-take-on-me
+2026-06-26 17:58:42,300 - V2Scraper - INFO -   RSC: 67 places (67 total unique)
+2026-06-26 17:58:42,300 - V2Scraper - INFO - Total extracted: 67 places
+2026-06-26 17:59:13,676 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/9CrfdTfoKGhoPGvKXh4M.webp
+2026-06-26 17:59:13,676 - V2Scraper - INFO - Scraped 67 points for 映画 中二病でも恋がしたい！ -Take On Me-
+2026-06-26 17:59:14,882 - V2Scraper - INFO -   Saved 67 points
+2026-06-26 17:59:16,884 - V2Scraper - INFO - 
+[42/282] Blue Box (9ZIN8PmoDf4FEvUSDUQB)
+2026-06-26 17:59:16,884 - V2Scraper - INFO - Scraping: Blue Box -> https://www.animepilgrimage.com/ja/maps/anime/9ZIN8PmoDf4FEvUSDUQB/blue-box
+2026-06-26 17:59:17,020 - V2Scraper - INFO -   RSC: 30 places (30 total unique)
+2026-06-26 17:59:17,021 - V2Scraper - INFO - Total extracted: 30 places
+2026-06-26 17:59:30,012 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/9ZIN8PmoDf4FEvUSDUQB.webp
+2026-06-26 17:59:30,012 - V2Scraper - INFO - Scraped 30 points for アオのハコ
+2026-06-26 17:59:31,197 - V2Scraper - INFO -   Saved 30 points
+2026-06-26 17:59:33,199 - V2Scraper - INFO - 
+[43/282] The Angel Next Door Spoils Me Rotten 2 (9gKVtw8iZrRzIo45GXAF)
+2026-06-26 17:59:33,199 - V2Scraper - INFO - Scraping: The Angel Next Door Spoils Me Rotten 2 -> https://www.animepilgrimage.com/ja/maps/anime/9gKVtw8iZrRzIo45GXAF/the-angel-next-door-spoils-me-rotten-2
+2026-06-26 17:59:33,826 - V2Scraper - INFO -   RSC: 11 places (11 total unique)
+2026-06-26 17:59:33,826 - V2Scraper - INFO - Total extracted: 11 places
+2026-06-26 17:59:37,211 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/9gKVtw8iZrRzIo45GXAF.webp
+2026-06-26 17:59:37,211 - V2Scraper - INFO - Scraped 11 points for お隣の天使様にいつの間にか駄目人間にされていた件 第2期
+2026-06-26 17:59:38,403 - V2Scraper - INFO -   Saved 11 points
+2026-06-26 17:59:40,404 - V2Scraper - INFO - 
+[44/282] Bang Dream (A3z4LwVo0l6qQmaYFKdg)
+2026-06-26 17:59:40,404 - V2Scraper - INFO - Scraping: Bang Dream -> https://www.animepilgrimage.com/ja/maps/anime/A3z4LwVo0l6qQmaYFKdg/bang-dream
+2026-06-26 17:59:40,515 - V2Scraper - INFO -   RSC: 18 places (18 total unique)
+2026-06-26 17:59:40,516 - V2Scraper - INFO - Total extracted: 18 places
+2026-06-26 17:59:48,666 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/A3z4LwVo0l6qQmaYFKdg.webp
+2026-06-26 17:59:48,666 - V2Scraper - INFO - Scraped 18 points for BanG Dream!
+2026-06-26 17:59:49,861 - V2Scraper - INFO -   Saved 18 points
+2026-06-26 17:59:51,864 - V2Scraper - INFO - 
+[45/282] Dead Dead Demons Dededede Destruction (ABylpzTMQoHclWbCQHSw)
+2026-06-26 17:59:51,864 - V2Scraper - INFO - Scraping: Dead Dead Demons Dededede Destruction -> https://www.animepilgrimage.com/ja/maps/anime/ABylpzTMQoHclWbCQHSw/dead-dead-demons-dededede-destruction
+2026-06-26 17:59:52,003 - V2Scraper - INFO -   RSC: 40 places (40 total unique)
+2026-06-26 17:59:52,003 - V2Scraper - INFO - Total extracted: 40 places
+2026-06-26 18:00:06,880 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/ABylpzTMQoHclWbCQHSw.webp
+2026-06-26 18:00:06,881 - V2Scraper - INFO - Scraped 40 points for デッド デッド デーモンズ デデデデ デストラクション
+2026-06-26 18:00:08,076 - V2Scraper - INFO -   Saved 40 points
+2026-06-26 18:00:10,078 - V2Scraper - INFO - 
+[46/282] Dandadan 2 (AE4iiD5ynf1anVhFRnw0)
+2026-06-26 18:00:10,078 - V2Scraper - INFO - Scraping: Dandadan 2 -> https://www.animepilgrimage.com/ja/maps/anime/AE4iiD5ynf1anVhFRnw0/dandadan-2
+2026-06-26 18:00:10,234 - V2Scraper - INFO -   RSC: 5 places (5 total unique)
+2026-06-26 18:00:10,234 - V2Scraper - INFO - Total extracted: 5 places
+2026-06-26 18:00:13,363 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/AE4iiD5ynf1anVhFRnw0.webp
+2026-06-26 18:00:13,364 - V2Scraper - INFO - Scraped 5 points for ダンダダン 2期
+2026-06-26 18:00:14,567 - V2Scraper - INFO -   Saved 5 points
+2026-06-26 18:00:16,569 - V2Scraper - INFO - 
+[47/282] Lycoris Recoil (AHmlbLlbnRJDHFAJLTAQ)
+2026-06-26 18:00:16,569 - V2Scraper - INFO - Scraping: Lycoris Recoil -> https://www.animepilgrimage.com/ja/maps/anime/AHmlbLlbnRJDHFAJLTAQ/lycoris-recoil
+2026-06-26 18:00:17,308 - V2Scraper - INFO -   RSC: 52 places (52 total unique)
+2026-06-26 18:00:17,308 - V2Scraper - INFO - Total extracted: 52 places
+2026-06-26 18:00:43,947 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/AHmlbLlbnRJDHFAJLTAQ.webp
+2026-06-26 18:00:43,947 - V2Scraper - INFO - Scraped 52 points for リコリス・リコイル
+2026-06-26 18:00:45,146 - V2Scraper - INFO -   Saved 52 points
+2026-06-26 18:00:47,148 - V2Scraper - INFO - 
+[48/282] Gridman Universe (AZXMWk8QzkQdJm86FJUl)
+2026-06-26 18:00:47,148 - V2Scraper - INFO - Scraping: Gridman Universe -> https://www.animepilgrimage.com/ja/maps/anime/AZXMWk8QzkQdJm86FJUl/gridman-universe
+2026-06-26 18:00:47,598 - V2Scraper - INFO -   RSC: 8 places (8 total unique)
+2026-06-26 18:00:47,598 - V2Scraper - INFO - Total extracted: 8 places
+2026-06-26 18:00:52,190 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/AZXMWk8QzkQdJm86FJUl.webp
+2026-06-26 18:00:52,190 - V2Scraper - INFO - Scraped 8 points for グリッドマン ユニバース
+2026-06-26 18:00:53,384 - V2Scraper - INFO -   Saved 8 points
+2026-06-26 18:00:55,386 - V2Scraper - INFO - 
+[49/282] Evangelion 3 1 Thrice Upon A Time (Abq0KH3lFo26R6IyQUh1)
+2026-06-26 18:00:55,386 - V2Scraper - INFO - Scraping: Evangelion 3 1 Thrice Upon A Time -> https://www.animepilgrimage.com/ja/maps/anime/Abq0KH3lFo26R6IyQUh1/evangelion-3-1-thrice-upon-a-time
+2026-06-26 18:00:55,783 - V2Scraper - INFO -   RSC: 3 places (3 total unique)
+2026-06-26 18:00:55,783 - V2Scraper - INFO - Total extracted: 3 places
+2026-06-26 18:00:57,602 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/Abq0KH3lFo26R6IyQUh1.webp
+2026-06-26 18:00:57,602 - V2Scraper - INFO - Scraped 3 points for シン・エヴァンゲリオン劇場版:||
+2026-06-26 18:00:58,800 - V2Scraper - INFO -   Saved 3 points
+2026-06-26 18:01:00,803 - V2Scraper - INFO - 
+[50/282] The Garden Of Words (ApvypIptXMAXCVFBuk9C)
+2026-06-26 18:01:00,803 - V2Scraper - INFO - Scraping: The Garden Of Words -> https://www.animepilgrimage.com/ja/maps/anime/ApvypIptXMAXCVFBuk9C/the-garden-of-words
+2026-06-26 18:01:01,527 - V2Scraper - INFO -   RSC: 14 places (14 total unique)
+2026-06-26 18:01:01,527 - V2Scraper - INFO - Total extracted: 14 places
+2026-06-26 18:01:05,754 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/ApvypIptXMAXCVFBuk9C.webp
+2026-06-26 18:01:05,755 - V2Scraper - INFO - Scraped 14 points for 言の葉の庭
+2026-06-26 18:01:06,937 - V2Scraper - INFO -   Saved 14 points
+2026-06-26 18:01:08,939 - V2Scraper - INFO - 
+[51/282] Turkey (AxyoCcQwwFmQNp75ST6m)
+2026-06-26 18:01:08,939 - V2Scraper - INFO - Scraping: Turkey -> https://www.animepilgrimage.com/ja/maps/anime/AxyoCcQwwFmQNp75ST6m/turkey
+2026-06-26 18:01:09,202 - V2Scraper - INFO -   RSC: 25 places (25 total unique)
+2026-06-26 18:01:09,203 - V2Scraper - INFO - Total extracted: 25 places
+2026-06-26 18:01:21,722 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/AxyoCcQwwFmQNp75ST6m.webp
+2026-06-26 18:01:21,722 - V2Scraper - INFO - Scraped 25 points for Turkey!
+2026-06-26 18:01:22,910 - V2Scraper - INFO -   Saved 25 points
+2026-06-26 18:01:24,912 - V2Scraper - INFO - 
+[52/282] Golden Kamuy (BAaQbAhyA2wlhHJvqvGi)
+2026-06-26 18:01:24,912 - V2Scraper - INFO - Scraping: Golden Kamuy -> https://www.animepilgrimage.com/ja/maps/anime/BAaQbAhyA2wlhHJvqvGi/golden-kamuy
+2026-06-26 18:01:25,034 - V2Scraper - INFO -   RSC: 8 places (8 total unique)
+2026-06-26 18:01:25,034 - V2Scraper - INFO - Total extracted: 8 places
+2026-06-26 18:01:28,359 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/BAaQbAhyA2wlhHJvqvGi.webp
+2026-06-26 18:01:28,359 - V2Scraper - INFO - Scraped 8 points for ゴールデンカムイ
+2026-06-26 18:01:29,547 - V2Scraper - INFO -   Saved 8 points
+2026-06-26 18:01:31,549 - V2Scraper - INFO - 
+[53/282] March Comes In Like A Lion 2 (BSEWzX7gx8CG93Q9jxkg)
+2026-06-26 18:01:31,549 - V2Scraper - INFO - Scraping: March Comes In Like A Lion 2 -> https://www.animepilgrimage.com/ja/maps/anime/BSEWzX7gx8CG93Q9jxkg/march-comes-in-like-a-lion-2
+2026-06-26 18:01:31,736 - V2Scraper - INFO -   RSC: 54 places (54 total unique)
+2026-06-26 18:01:31,736 - V2Scraper - INFO - Total extracted: 54 places
+2026-06-26 18:01:54,659 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/BSEWzX7gx8CG93Q9jxkg.webp
+2026-06-26 18:01:54,659 - V2Scraper - INFO - Scraped 54 points for ３月のライオン 第2シリーズ
+2026-06-26 18:01:55,845 - V2Scraper - INFO -   Saved 54 points
+2026-06-26 18:01:57,848 - V2Scraper - INFO - 
+[54/282] The Summer Hikaru Died (BbOGxPV5ltaIJGgljwj5)
+2026-06-26 18:01:57,848 - V2Scraper - INFO - Scraping: The Summer Hikaru Died -> https://www.animepilgrimage.com/ja/maps/anime/BbOGxPV5ltaIJGgljwj5/the-summer-hikaru-died
+2026-06-26 18:01:58,047 - V2Scraper - INFO -   RSC: 28 places (28 total unique)
+2026-06-26 18:01:58,047 - V2Scraper - INFO - Total extracted: 28 places
+2026-06-26 18:02:08,880 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/BbOGxPV5ltaIJGgljwj5.webp
+2026-06-26 18:02:08,881 - V2Scraper - INFO - Scraped 28 points for 光が死んだ夏
+2026-06-26 18:02:10,074 - V2Scraper - INFO -   Saved 28 points
+2026-06-26 18:02:12,077 - V2Scraper - INFO - 
+[55/282] Bungo Stray Dogs 2 (BrwQNQDWky56Fnmdpz09)
+2026-06-26 18:02:12,077 - V2Scraper - INFO - Scraping: Bungo Stray Dogs 2 -> https://www.animepilgrimage.com/ja/maps/anime/BrwQNQDWky56Fnmdpz09/bungo-stray-dogs-2
+2026-06-26 18:02:12,934 - V2Scraper - INFO -   RSC: 25 places (25 total unique)
+2026-06-26 18:02:12,934 - V2Scraper - INFO - Total extracted: 25 places
+2026-06-26 18:02:26,376 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/BrwQNQDWky56Fnmdpz09.webp
+2026-06-26 18:02:26,377 - V2Scraper - INFO - Scraped 25 points for 文豪ストレイドッグス2
+2026-06-26 18:02:27,574 - V2Scraper - INFO -   Saved 25 points
+2026-06-26 18:02:29,576 - V2Scraper - INFO - 
+[56/282] Uncle From Another World (ChNY4S1HnwsoVA8BIxa0)
+2026-06-26 18:02:29,576 - V2Scraper - INFO - Scraping: Uncle From Another World -> https://www.animepilgrimage.com/ja/maps/anime/ChNY4S1HnwsoVA8BIxa0/uncle-from-another-world
+2026-06-26 18:02:30,005 - V2Scraper - INFO -   RSC: 3 places (3 total unique)
+2026-06-26 18:02:30,005 - V2Scraper - INFO - Total extracted: 3 places
+2026-06-26 18:02:31,893 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/ChNY4S1HnwsoVA8BIxa0.webp
+2026-06-26 18:02:31,893 - V2Scraper - INFO - Scraped 3 points for 異世界おじさん
+2026-06-26 18:02:33,080 - V2Scraper - INFO -   Saved 3 points
+2026-06-26 18:02:35,083 - V2Scraper - INFO - 
+[57/282] Oreimo (D2Udeh1YIJW348yYv9Tl)
+2026-06-26 18:02:35,083 - V2Scraper - INFO - Scraping: Oreimo -> https://www.animepilgrimage.com/ja/maps/anime/D2Udeh1YIJW348yYv9Tl/oreimo
+2026-06-26 18:02:35,320 - V2Scraper - INFO -   RSC: 39 places (39 total unique)
+2026-06-26 18:02:35,320 - V2Scraper - INFO - Total extracted: 39 places
+2026-06-26 18:02:53,561 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/D2Udeh1YIJW348yYv9Tl.webp
+2026-06-26 18:02:53,562 - V2Scraper - INFO - Scraped 39 points for 俺の妹がこんなに可愛いわけがない
+2026-06-26 18:02:54,758 - V2Scraper - INFO -   Saved 39 points
+2026-06-26 18:02:56,760 - V2Scraper - INFO - 
+[58/282] Oregairu Snafu (DBdW9GogqQh4X5Jz5YJ1)
+2026-06-26 18:02:56,760 - V2Scraper - INFO - Scraping: Oregairu Snafu -> https://www.animepilgrimage.com/ja/maps/anime/DBdW9GogqQh4X5Jz5YJ1/oregairu-snafu
+2026-06-26 18:02:57,141 - V2Scraper - INFO -   RSC: 16 places (16 total unique)
+2026-06-26 18:02:57,141 - V2Scraper - INFO - Total extracted: 16 places
+2026-06-26 18:03:05,128 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/DBdW9GogqQh4X5Jz5YJ1.webp
+2026-06-26 18:03:05,128 - V2Scraper - INFO - Scraped 16 points for やはり俺の青春ラブコメはまちがっている。
+2026-06-26 18:03:06,321 - V2Scraper - INFO -   Saved 16 points
+2026-06-26 18:03:08,323 - V2Scraper - INFO - 
+[59/282] Flying Witch (DJqlB9ZQhbhKlMlUyBOb)
+2026-06-26 18:03:08,323 - V2Scraper - INFO - Scraping: Flying Witch -> https://www.animepilgrimage.com/ja/maps/anime/DJqlB9ZQhbhKlMlUyBOb/flying-witch
+2026-06-26 18:03:08,971 - V2Scraper - INFO -   RSC: 36 places (36 total unique)
+2026-06-26 18:03:08,971 - V2Scraper - INFO - Total extracted: 36 places
+2026-06-26 18:03:26,479 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/DJqlB9ZQhbhKlMlUyBOb.webp
+2026-06-26 18:03:26,479 - V2Scraper - INFO - Scraped 36 points for ふらいんぐうぃっち
+2026-06-26 18:03:27,675 - V2Scraper - INFO -   Saved 36 points
+2026-06-26 18:03:29,678 - V2Scraper - INFO - 
+[60/282] Yofukashi No Uta 2 (DOBudmYUGamzQcwLtadk)
+2026-06-26 18:03:29,678 - V2Scraper - INFO - Scraping: Yofukashi No Uta 2 -> https://www.animepilgrimage.com/ja/maps/anime/DOBudmYUGamzQcwLtadk/yofukashi-no-uta-2
+2026-06-26 18:03:30,325 - V2Scraper - INFO -   RSC: 47 places (47 total unique)
+2026-06-26 18:03:30,325 - V2Scraper - INFO - Total extracted: 47 places
+2026-06-26 18:03:53,034 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/DOBudmYUGamzQcwLtadk.webp
+2026-06-26 18:03:53,034 - V2Scraper - INFO - Scraped 47 points for よふかしのうた Season 2
+2026-06-26 18:03:54,237 - V2Scraper - INFO -   Saved 47 points
+2026-06-26 18:03:56,239 - V2Scraper - INFO - 
+[61/282] Beyond The Boundary (DYG61cbESPhK3vp1Zs1D)
+2026-06-26 18:03:56,239 - V2Scraper - INFO - Scraping: Beyond The Boundary -> https://www.animepilgrimage.com/ja/maps/anime/DYG61cbESPhK3vp1Zs1D/beyond-the-boundary
+2026-06-26 18:03:56,609 - V2Scraper - INFO -   RSC: 53 places (53 total unique)
+2026-06-26 18:03:56,609 - V2Scraper - INFO - Total extracted: 53 places
+2026-06-26 18:04:20,759 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/DYG61cbESPhK3vp1Zs1D.webp
+2026-06-26 18:04:20,759 - V2Scraper - INFO - Scraped 53 points for 境界の彼方
+2026-06-26 18:04:21,980 - V2Scraper - INFO -   Saved 53 points
+2026-06-26 18:04:23,981 - V2Scraper - INFO - 
+[62/282] March Comes In Like A Lion (Db9UkC3dvNtEle8hAoB9)
+2026-06-26 18:04:23,981 - V2Scraper - INFO - Scraping: March Comes In Like A Lion -> https://www.animepilgrimage.com/ja/maps/anime/Db9UkC3dvNtEle8hAoB9/march-comes-in-like-a-lion
+2026-06-26 18:04:24,393 - V2Scraper - INFO -   RSC: 63 places (63 total unique)
+2026-06-26 18:04:24,394 - V2Scraper - INFO - Total extracted: 63 places
+2026-06-26 18:04:55,437 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/Db9UkC3dvNtEle8hAoB9.webp
+2026-06-26 18:04:55,437 - V2Scraper - INFO - Scraped 63 points for 3月のライオン
+2026-06-26 18:04:56,655 - V2Scraper - INFO -   Saved 63 points
+2026-06-26 18:04:58,657 - V2Scraper - INFO - 
+[63/282] Blue Archive (Dmm38vQWI8Dn0oNd1P5v)
+2026-06-26 18:04:58,658 - V2Scraper - INFO - Scraping: Blue Archive -> https://www.animepilgrimage.com/ja/maps/anime/Dmm38vQWI8Dn0oNd1P5v/blue-archive
+2026-06-26 18:04:58,814 - V2Scraper - INFO -   RSC: 12 places (12 total unique)
+2026-06-26 18:04:58,814 - V2Scraper - INFO - Total extracted: 12 places
+2026-06-26 18:05:04,274 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/Dmm38vQWI8Dn0oNd1P5v.webp
+2026-06-26 18:05:04,274 - V2Scraper - INFO - Scraped 12 points for ブルーアーカイブ The Animation
+2026-06-26 18:05:05,487 - V2Scraper - INFO -   Saved 12 points
+2026-06-26 18:05:07,490 - V2Scraper - INFO - 
+[64/282] Honey Lemon Soda (EBgnvTrAN9hUEHZPOFpi)
+2026-06-26 18:05:07,490 - V2Scraper - INFO - Scraping: Honey Lemon Soda -> https://www.animepilgrimage.com/ja/maps/anime/EBgnvTrAN9hUEHZPOFpi/honey-lemon-soda
+2026-06-26 18:05:08,191 - V2Scraper - INFO -   RSC: 24 places (24 total unique)
+2026-06-26 18:05:08,191 - V2Scraper - INFO - Total extracted: 24 places
+2026-06-26 18:05:20,463 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/EBgnvTrAN9hUEHZPOFpi.webp
+2026-06-26 18:05:20,463 - V2Scraper - INFO - Scraped 24 points for ハニーレモンソーダ
+2026-06-26 18:05:21,688 - V2Scraper - INFO -   Saved 24 points
+2026-06-26 18:05:23,691 - V2Scraper - INFO - 
+[65/282] Love Live Superstar (EGvIebIxQ4ZkuYcNWpoQ)
+2026-06-26 18:05:23,691 - V2Scraper - INFO - Scraping: Love Live Superstar -> https://www.animepilgrimage.com/ja/maps/anime/EGvIebIxQ4ZkuYcNWpoQ/love-live-superstar
+2026-06-26 18:05:24,078 - V2Scraper - INFO -   RSC: 69 places (69 total unique)
+2026-06-26 18:05:24,078 - V2Scraper - INFO - Total extracted: 69 places
+2026-06-26 18:05:53,149 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/EGvIebIxQ4ZkuYcNWpoQ.webp
+2026-06-26 18:05:53,150 - V2Scraper - INFO - Scraped 69 points for ラブライブ! スーパースター!!
+2026-06-26 18:05:54,368 - V2Scraper - INFO -   Saved 69 points
+2026-06-26 18:05:56,371 - V2Scraper - INFO - 
+[66/282] Hyouka (EOXrs8aYwsclgT0TcA91)
+2026-06-26 18:05:56,371 - V2Scraper - INFO - Scraping: Hyouka -> https://www.animepilgrimage.com/ja/maps/anime/EOXrs8aYwsclgT0TcA91/hyouka
+2026-06-26 18:05:56,568 - V2Scraper - INFO -   RSC: 52 places (52 total unique)
+2026-06-26 18:05:56,568 - V2Scraper - INFO - Total extracted: 52 places
+2026-06-26 18:06:14,683 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/EOXrs8aYwsclgT0TcA91.webp
+2026-06-26 18:06:14,683 - V2Scraper - INFO - Scraped 52 points for 氷菓
+2026-06-26 18:06:15,907 - V2Scraper - INFO -   Saved 52 points
+2026-06-26 18:06:17,910 - V2Scraper - INFO - 
+[67/282] Yofukashi No Uta (Elw6prO9MD1CCudCkxzj)
+2026-06-26 18:06:17,910 - V2Scraper - INFO - Scraping: Yofukashi No Uta -> https://www.animepilgrimage.com/ja/maps/anime/Elw6prO9MD1CCudCkxzj/yofukashi-no-uta
+2026-06-26 18:06:18,109 - V2Scraper - INFO -   RSC: 52 places (52 total unique)
+2026-06-26 18:06:18,109 - V2Scraper - INFO - Total extracted: 52 places
+2026-06-26 18:06:40,313 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/Elw6prO9MD1CCudCkxzj.webp
+2026-06-26 18:06:40,314 - V2Scraper - INFO - Scraped 52 points for よふかしのうた
+2026-06-26 18:06:41,544 - V2Scraper - INFO -   Saved 52 points
+2026-06-26 18:06:43,546 - V2Scraper - INFO - 
+[68/282] Akane Banashi (F5gBooqJ1oVepAqEaLBS)
+2026-06-26 18:06:43,546 - V2Scraper - INFO - Scraping: Akane Banashi -> https://www.animepilgrimage.com/ja/maps/anime/F5gBooqJ1oVepAqEaLBS/akane-banashi
+2026-06-26 18:06:43,978 - V2Scraper - INFO -   RSC: 20 places (20 total unique)
+2026-06-26 18:06:43,979 - V2Scraper - INFO - Total extracted: 20 places
+2026-06-26 18:06:53,586 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/F5gBooqJ1oVepAqEaLBS.webp
+2026-06-26 18:06:53,586 - V2Scraper - INFO - Scraped 20 points for あかね噺
+2026-06-26 18:06:54,798 - V2Scraper - INFO -   Saved 20 points
+2026-06-26 18:06:56,800 - V2Scraper - INFO - 
+[69/282] Horimiya The Missing Pieces (FFkjtVIIFwWbSPpJJgjp)
+2026-06-26 18:06:56,800 - V2Scraper - INFO - Scraping: Horimiya The Missing Pieces -> https://www.animepilgrimage.com/ja/maps/anime/FFkjtVIIFwWbSPpJJgjp/horimiya-the-missing-pieces
+2026-06-26 18:06:57,214 - V2Scraper - INFO -   RSC: 16 places (16 total unique)
+2026-06-26 18:06:57,214 - V2Scraper - INFO - Total extracted: 16 places
+2026-06-26 18:07:04,594 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/FFkjtVIIFwWbSPpJJgjp.webp
+2026-06-26 18:07:04,594 - V2Scraper - INFO - Scraped 16 points for ホリミヤ -piece-
+2026-06-26 18:07:05,789 - V2Scraper - INFO -   Saved 16 points
+2026-06-26 18:07:07,791 - V2Scraper - INFO - 
+[70/282] Belle 2021 (FO7hxjRqpUKQEKF7wpux)
+2026-06-26 18:07:07,791 - V2Scraper - INFO - Scraping: Belle 2021 -> https://www.animepilgrimage.com/ja/maps/anime/FO7hxjRqpUKQEKF7wpux/belle-2021
+2026-06-26 18:07:08,463 - V2Scraper - INFO -   RSC: 13 places (13 total unique)
+2026-06-26 18:07:08,463 - V2Scraper - INFO - Total extracted: 13 places
+2026-06-26 18:07:13,897 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/FO7hxjRqpUKQEKF7wpux.webp
+2026-06-26 18:07:13,897 - V2Scraper - INFO - Scraped 13 points for 竜とそばかすの姫
+2026-06-26 18:07:15,106 - V2Scraper - INFO -   Saved 13 points
+2026-06-26 18:07:17,108 - V2Scraper - INFO - 
+[71/282] Fate Stay Night Heavens Feel (Frbo1DB6JLFhe7MROo4i)
+2026-06-26 18:07:17,109 - V2Scraper - INFO - Scraping: Fate Stay Night Heavens Feel -> https://www.animepilgrimage.com/ja/maps/anime/Frbo1DB6JLFhe7MROo4i/fate-stay-night-heavens-feel
+2026-06-26 18:07:17,262 - V2Scraper - INFO -   RSC: 19 places (19 total unique)
+2026-06-26 18:07:17,262 - V2Scraper - INFO - Total extracted: 19 places
+2026-06-26 18:07:23,585 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/Frbo1DB6JLFhe7MROo4i.webp
+2026-06-26 18:07:23,585 - V2Scraper - INFO - Scraped 19 points for Fate/stay night: Heaven&#x27;s Feel
+2026-06-26 18:07:24,785 - V2Scraper - INFO -   Saved 19 points
+2026-06-26 18:07:26,787 - V2Scraper - INFO - 
+[72/282] Durarara (GAQtt96ISTksBTjpxgCk)
+2026-06-26 18:07:26,787 - V2Scraper - INFO - Scraping: Durarara -> https://www.animepilgrimage.com/ja/maps/anime/GAQtt96ISTksBTjpxgCk/durarara
+2026-06-26 18:07:26,932 - V2Scraper - INFO -   RSC: 52 places (52 total unique)
+2026-06-26 18:07:26,932 - V2Scraper - INFO - Total extracted: 52 places
+2026-06-26 18:07:49,426 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/GAQtt96ISTksBTjpxgCk.webp
+2026-06-26 18:07:49,426 - V2Scraper - INFO - Scraped 52 points for デュラララ!!
+2026-06-26 18:07:50,626 - V2Scraper - INFO -   Saved 52 points
+2026-06-26 18:07:52,629 - V2Scraper - INFO - 
+[73/282] Deaimon (GGK68mRHW4OPU8cFrqZJ)
+2026-06-26 18:07:52,629 - V2Scraper - INFO - Scraping: Deaimon -> https://www.animepilgrimage.com/ja/maps/anime/GGK68mRHW4OPU8cFrqZJ/deaimon
+2026-06-26 18:07:53,259 - V2Scraper - INFO -   RSC: 40 places (40 total unique)
+2026-06-26 18:07:53,259 - V2Scraper - INFO - Total extracted: 40 places
+2026-06-26 18:08:10,934 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/GGK68mRHW4OPU8cFrqZJ.webp
+2026-06-26 18:08:10,935 - V2Scraper - INFO - Scraped 40 points for であいもん
+2026-06-26 18:08:12,134 - V2Scraper - INFO -   Saved 40 points
+2026-06-26 18:08:14,137 - V2Scraper - INFO - 
+[74/282] Golden Time (GSbk5qoSrQuK0ngo3dZ5)
+2026-06-26 18:08:14,137 - V2Scraper - INFO - Scraping: Golden Time -> https://www.animepilgrimage.com/ja/maps/anime/GSbk5qoSrQuK0ngo3dZ5/golden-time
+2026-06-26 18:08:14,310 - V2Scraper - INFO -   RSC: 40 places (40 total unique)
+2026-06-26 18:08:14,310 - V2Scraper - INFO - Total extracted: 40 places
+2026-06-26 18:08:33,864 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/GSbk5qoSrQuK0ngo3dZ5.webp
+2026-06-26 18:08:33,865 - V2Scraper - INFO - Scraped 40 points for ゴールデンタイム
+2026-06-26 18:08:35,076 - V2Scraper - INFO -   Saved 40 points
+2026-06-26 18:08:37,079 - V2Scraper - INFO - 
+[75/282] Summer Wars (GZaJ97LjywZ1fdsyQbmn)
+2026-06-26 18:08:37,079 - V2Scraper - INFO - Scraping: Summer Wars -> https://www.animepilgrimage.com/ja/maps/anime/GZaJ97LjywZ1fdsyQbmn/summer-wars
+2026-06-26 18:08:37,217 - V2Scraper - INFO -   RSC: 5 places (5 total unique)
+2026-06-26 18:08:37,217 - V2Scraper - INFO - Total extracted: 5 places
+2026-06-26 18:08:38,634 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/GZaJ97LjywZ1fdsyQbmn.webp
+2026-06-26 18:08:38,634 - V2Scraper - INFO - Scraped 5 points for サマーウォーズ
+2026-06-26 18:08:39,839 - V2Scraper - INFO -   Saved 5 points
+2026-06-26 18:08:41,841 - V2Scraper - INFO - 
+[76/282] K On 2 (Gpu7jpmS4b1ZQAtwyAkO)
+2026-06-26 18:08:41,841 - V2Scraper - INFO - Scraping: K On 2 -> https://www.animepilgrimage.com/ja/maps/anime/Gpu7jpmS4b1ZQAtwyAkO/k-on-2
+2026-06-26 18:08:42,041 - V2Scraper - INFO -   RSC: 52 places (52 total unique)
+2026-06-26 18:08:42,041 - V2Scraper - INFO - Total extracted: 52 places
+2026-06-26 18:09:01,069 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/Gpu7jpmS4b1ZQAtwyAkO.webp
+2026-06-26 18:09:01,069 - V2Scraper - INFO - Scraped 52 points for けいおん!!
+2026-06-26 18:09:02,290 - V2Scraper - INFO -   Saved 52 points
+2026-06-26 18:09:04,292 - V2Scraper - INFO - 
+[77/282] Another (GvZRe6RQu5McETXnr5eT)
+2026-06-26 18:09:04,292 - V2Scraper - INFO - Scraping: Another -> https://www.animepilgrimage.com/ja/maps/anime/GvZRe6RQu5McETXnr5eT/another
+2026-06-26 18:09:04,443 - V2Scraper - INFO -   RSC: 10 places (10 total unique)
+2026-06-26 18:09:04,443 - V2Scraper - INFO - Total extracted: 10 places
+2026-06-26 18:09:09,313 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/GvZRe6RQu5McETXnr5eT.webp
+2026-06-26 18:09:09,313 - V2Scraper - INFO - Scraped 10 points for Another
+2026-06-26 18:09:10,525 - V2Scraper - INFO -   Saved 10 points
+2026-06-26 18:09:12,527 - V2Scraper - INFO - 
+[78/282] Kaiju No8 2 (H0Kp9SKcNRbV2Z7CoAE5)
+2026-06-26 18:09:12,527 - V2Scraper - INFO - Scraping: Kaiju No8 2 -> https://www.animepilgrimage.com/ja/maps/anime/H0Kp9SKcNRbV2Z7CoAE5/kaiju-no8-2
+2026-06-26 18:09:12,903 - V2Scraper - INFO -   RSC: 28 places (28 total unique)
+2026-06-26 18:09:12,903 - V2Scraper - INFO - Total extracted: 28 places
+2026-06-26 18:09:23,577 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/H0Kp9SKcNRbV2Z7CoAE5.webp
+2026-06-26 18:09:23,577 - V2Scraper - INFO - Scraped 28 points for 怪獣8号 第2期
+2026-06-26 18:09:24,789 - V2Scraper - INFO -   Saved 28 points
+2026-06-26 18:09:26,792 - V2Scraper - INFO - 
+[79/282] Sound Euphonium (HImqnRta69y0Y3Fapb8E)
+2026-06-26 18:09:26,792 - V2Scraper - INFO - Scraping: Sound Euphonium -> https://www.animepilgrimage.com/ja/maps/anime/HImqnRta69y0Y3Fapb8E/sound-euphonium
+2026-06-26 18:09:26,945 - V2Scraper - INFO -   RSC: 29 places (29 total unique)
+2026-06-26 18:09:26,945 - V2Scraper - INFO - Total extracted: 29 places
+2026-06-26 18:09:39,456 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/HImqnRta69y0Y3Fapb8E.webp
+2026-06-26 18:09:39,456 - V2Scraper - INFO - Scraped 29 points for 響け！ユーフォニアム
+2026-06-26 18:09:40,666 - V2Scraper - INFO -   Saved 29 points
+2026-06-26 18:09:42,669 - V2Scraper - INFO - 
+[80/282] Persona 5 The Animation (HiZmwfyeRVKgeXXv2605)
+2026-06-26 18:09:42,669 - V2Scraper - INFO - Scraping: Persona 5 The Animation -> https://www.animepilgrimage.com/ja/maps/anime/HiZmwfyeRVKgeXXv2605/persona-5-the-animation
+2026-06-26 18:09:43,348 - V2Scraper - INFO -   RSC: 11 places (11 total unique)
+2026-06-26 18:09:43,348 - V2Scraper - INFO - Total extracted: 11 places
+2026-06-26 18:09:48,458 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/HiZmwfyeRVKgeXXv2605.webp
+2026-06-26 18:09:48,458 - V2Scraper - INFO - Scraped 11 points for PERSONA 5 the Animation
+2026-06-26 18:09:49,678 - V2Scraper - INFO -   Saved 11 points
+2026-06-26 18:09:51,681 - V2Scraper - INFO - 
+[81/282] Botan Kamiina Fully Blossoms When Drunk (HzSYskmZll63CrQoqUsU)
+2026-06-26 18:09:51,681 - V2Scraper - INFO - Scraping: Botan Kamiina Fully Blossoms When Drunk -> https://www.animepilgrimage.com/ja/maps/anime/HzSYskmZll63CrQoqUsU/botan-kamiina-fully-blossoms-when-drunk
+2026-06-26 18:09:52,391 - V2Scraper - INFO -   RSC: 126 places (126 total unique)
+2026-06-26 18:09:52,391 - V2Scraper - INFO - Total extracted: 126 places
+2026-06-26 18:10:37,494 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/HzSYskmZll63CrQoqUsU.webp
+2026-06-26 18:10:37,495 - V2Scraper - INFO - Scraped 126 points for 上伊那ぼたん、酔へる姿は百合の花
+2026-06-26 18:10:38,721 - V2Scraper - INFO -   Saved 126 points
+2026-06-26 18:10:40,723 - V2Scraper - INFO - 
+[82/282] Narenare (Ififqm0dAhXtiSEM5BN0)
+2026-06-26 18:10:40,723 - V2Scraper - INFO - Scraping: Narenare -> https://www.animepilgrimage.com/ja/maps/anime/Ififqm0dAhXtiSEM5BN0/narenare
+2026-06-26 18:10:41,111 - V2Scraper - INFO -   RSC: 32 places (32 total unique)
+2026-06-26 18:10:41,111 - V2Scraper - INFO - Total extracted: 32 places
+2026-06-26 18:10:53,653 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/Ififqm0dAhXtiSEM5BN0.webp
+2026-06-26 18:10:53,653 - V2Scraper - INFO - Scraped 32 points for 菜なれ花なれ
+2026-06-26 18:10:54,895 - V2Scraper - INFO -   Saved 32 points
+2026-06-26 18:10:56,897 - V2Scraper - INFO - 
+[83/282] Teasing Master Takagi San 3 (IrgbISlZnKp368pmKXQD)
+2026-06-26 18:10:56,897 - V2Scraper - INFO - Scraping: Teasing Master Takagi San 3 -> https://www.animepilgrimage.com/ja/maps/anime/IrgbISlZnKp368pmKXQD/teasing-master-takagi-san-3
+2026-06-26 18:10:57,093 - V2Scraper - INFO -   RSC: 24 places (24 total unique)
+2026-06-26 18:10:57,094 - V2Scraper - INFO - Total extracted: 24 places
+2026-06-26 18:11:06,650 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/IrgbISlZnKp368pmKXQD.webp
+2026-06-26 18:11:06,650 - V2Scraper - INFO - Scraped 24 points for からかい上手の高木さん3
+2026-06-26 18:11:07,869 - V2Scraper - INFO -   Saved 24 points
+2026-06-26 18:11:09,872 - V2Scraper - INFO - 
+[84/282] Steins Gate 0 (JUq18FMhazRy8b5gPpNo)
+2026-06-26 18:11:09,872 - V2Scraper - INFO - Scraping: Steins Gate 0 -> https://www.animepilgrimage.com/ja/maps/anime/JUq18FMhazRy8b5gPpNo/steins-gate-0
+2026-06-26 18:11:10,281 - V2Scraper - INFO -   RSC: 50 places (50 total unique)
+2026-06-26 18:11:10,281 - V2Scraper - INFO - Total extracted: 50 places
+2026-06-26 18:11:28,572 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/JUq18FMhazRy8b5gPpNo.webp
+2026-06-26 18:11:28,572 - V2Scraper - INFO - Scraped 50 points for Steins;Gate 0
+2026-06-26 18:11:29,802 - V2Scraper - INFO -   Saved 50 points
+2026-06-26 18:11:31,804 - V2Scraper - INFO - 
+[85/282] The Disappearance Of Haruhi Suzumiya (JxWl9bqFjbsqZDpaa3Gx)
+2026-06-26 18:11:31,804 - V2Scraper - INFO - Scraping: The Disappearance Of Haruhi Suzumiya -> https://www.animepilgrimage.com/ja/maps/anime/JxWl9bqFjbsqZDpaa3Gx/the-disappearance-of-haruhi-suzumiya
+2026-06-26 18:11:32,164 - V2Scraper - INFO -   RSC: 30 places (30 total unique)
+2026-06-26 18:11:32,165 - V2Scraper - INFO - Total extracted: 30 places
+2026-06-26 18:11:43,607 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/JxWl9bqFjbsqZDpaa3Gx.webp
+2026-06-26 18:11:43,607 - V2Scraper - INFO - Scraped 30 points for 涼宮ハルヒの消失
+2026-06-26 18:11:44,837 - V2Scraper - INFO -   Saved 30 points
+2026-06-26 18:11:46,839 - V2Scraper - INFO - 
+[86/282] Medalist (K4PtV2A6cX0Rol3DDh04)
+2026-06-26 18:11:46,840 - V2Scraper - INFO - Scraping: Medalist -> https://www.animepilgrimage.com/ja/maps/anime/K4PtV2A6cX0Rol3DDh04/medalist
+2026-06-26 18:11:47,261 - V2Scraper - INFO -   RSC: 16 places (16 total unique)
+2026-06-26 18:11:47,261 - V2Scraper - INFO - Total extracted: 16 places
+2026-06-26 18:11:55,023 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/K4PtV2A6cX0Rol3DDh04.webp
+2026-06-26 18:11:55,023 - V2Scraper - INFO - Scraped 16 points for メダリスト
+2026-06-26 18:11:56,247 - V2Scraper - INFO -   Saved 16 points
+2026-06-26 18:11:58,250 - V2Scraper - INFO - 
+[87/282] Yuruyuri Summer Vacation (KHL2EcBmiHS2xQGNpVB4)
+2026-06-26 18:11:58,250 - V2Scraper - INFO - Scraping: Yuruyuri Summer Vacation -> https://www.animepilgrimage.com/ja/maps/anime/KHL2EcBmiHS2xQGNpVB4/yuruyuri-summer-vacation
+2026-06-26 18:11:58,389 - V2Scraper - INFO -   RSC: 25 places (25 total unique)
+2026-06-26 18:11:58,389 - V2Scraper - INFO - Total extracted: 25 places
+2026-06-26 18:12:11,141 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/KHL2EcBmiHS2xQGNpVB4.webp
+2026-06-26 18:12:11,142 - V2Scraper - INFO - Scraped 25 points for ゆるゆり なちゅやちゅみ！
+2026-06-26 18:12:12,368 - V2Scraper - INFO -   Saved 25 points
+2026-06-26 18:12:14,371 - V2Scraper - INFO - 
+[88/282] Lil Miss Vampire Cant Suck Right (KMJWdpqzaXrslclIT0kX)
+2026-06-26 18:12:14,371 - V2Scraper - INFO - Scraping: Lil Miss Vampire Cant Suck Right -> https://www.animepilgrimage.com/ja/maps/anime/KMJWdpqzaXrslclIT0kX/lil-miss-vampire-cant-suck-right
+2026-06-26 18:12:14,619 - V2Scraper - INFO -   RSC: 2 places (2 total unique)
+2026-06-26 18:12:14,620 - V2Scraper - INFO - Total extracted: 2 places
+2026-06-26 18:12:15,670 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/KMJWdpqzaXrslclIT0kX.webp
+2026-06-26 18:12:15,670 - V2Scraper - INFO - Scraped 2 points for ちゃんと吸えない吸血鬼ちゃん
+2026-06-26 18:12:16,898 - V2Scraper - INFO -   Saved 2 points
+2026-06-26 18:12:18,901 - V2Scraper - INFO - 
+[89/282] Tsurune (KMZrhSusXhCwzvMuRW3M)
+2026-06-26 18:12:18,901 - V2Scraper - INFO - Scraping: Tsurune -> https://www.animepilgrimage.com/ja/maps/anime/KMZrhSusXhCwzvMuRW3M/tsurune
+2026-06-26 18:12:19,593 - V2Scraper - INFO -   RSC: 23 places (23 total unique)
+2026-06-26 18:12:19,593 - V2Scraper - INFO - Total extracted: 23 places
+2026-06-26 18:12:30,664 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/KMZrhSusXhCwzvMuRW3M.webp
+2026-06-26 18:12:30,665 - V2Scraper - INFO - Scraped 23 points for ツルネ -風舞高校弓道部-
+2026-06-26 18:12:31,887 - V2Scraper - INFO -   Saved 23 points
+2026-06-26 18:12:33,889 - V2Scraper - INFO - 
+[90/282] Kaguya Sama Love Is War Stairway To Adulthood (KxnQIESyd0vWQKYMCCJp)
+2026-06-26 18:12:33,889 - V2Scraper - INFO - Scraping: Kaguya Sama Love Is War Stairway To Adulthood -> https://www.animepilgrimage.com/ja/maps/anime/KxnQIESyd0vWQKYMCCJp/kaguya-sama-love-is-war-stairway-to-adulthood
+2026-06-26 18:12:34,252 - V2Scraper - INFO -   RSC: 4 places (4 total unique)
+2026-06-26 18:12:34,252 - V2Scraper - INFO - Total extracted: 4 places
+2026-06-26 18:12:36,228 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/KxnQIESyd0vWQKYMCCJp.webp
+2026-06-26 18:12:36,229 - V2Scraper - INFO - Scraped 4 points for かぐや様は告らせたい 大人への階段
+2026-06-26 18:12:37,452 - V2Scraper - INFO -   Saved 4 points
+2026-06-26 18:12:39,454 - V2Scraper - INFO - 
+[91/282] Shoshimin 2 (L82oXIYdIOrCncmowQ2V)
+2026-06-26 18:12:39,454 - V2Scraper - INFO - Scraping: Shoshimin 2 -> https://www.animepilgrimage.com/ja/maps/anime/L82oXIYdIOrCncmowQ2V/shoshimin-2
+2026-06-26 18:12:39,597 - V2Scraper - INFO -   RSC: 65 places (65 total unique)
+2026-06-26 18:12:39,598 - V2Scraper - INFO - Total extracted: 65 places
+2026-06-26 18:13:11,377 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/L82oXIYdIOrCncmowQ2V.webp
+2026-06-26 18:13:11,378 - V2Scraper - INFO - Scraped 65 points for 小市民シリーズ 2期
+2026-06-26 18:13:12,625 - V2Scraper - INFO -   Saved 65 points
+2026-06-26 18:13:14,627 - V2Scraper - INFO - 
+[92/282] My Dress Up Darling 2 (L8UKLK889intHfnNZ9oE)
+2026-06-26 18:13:14,627 - V2Scraper - INFO - Scraping: My Dress Up Darling 2 -> https://www.animepilgrimage.com/ja/maps/anime/L8UKLK889intHfnNZ9oE/my-dress-up-darling-2
+2026-06-26 18:13:14,856 - V2Scraper - INFO -   RSC: 42 places (42 total unique)
+2026-06-26 18:13:14,857 - V2Scraper - INFO - Total extracted: 42 places
+2026-06-26 18:13:35,295 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/L8UKLK889intHfnNZ9oE.webp
+2026-06-26 18:13:35,295 - V2Scraper - INFO - Scraped 42 points for その着せ替え人形は恋をする Season 2
+2026-06-26 18:13:36,540 - V2Scraper - INFO -   Saved 42 points
+2026-06-26 18:13:38,542 - V2Scraper - INFO - 
+[93/282] Dusk Beyond The End Of The World (LRAmMCCVn4JZPWGhvTdP)
+2026-06-26 18:13:38,542 - V2Scraper - INFO - Scraping: Dusk Beyond The End Of The World -> https://www.animepilgrimage.com/ja/maps/anime/LRAmMCCVn4JZPWGhvTdP/dusk-beyond-the-end-of-the-world
+2026-06-26 18:13:38,728 - V2Scraper - INFO -   RSC: 28 places (28 total unique)
+2026-06-26 18:13:38,728 - V2Scraper - INFO - Total extracted: 28 places
+2026-06-26 18:13:52,700 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/LRAmMCCVn4JZPWGhvTdP.webp
+2026-06-26 18:13:52,700 - V2Scraper - INFO - Scraped 28 points for 永久のユウグレ
+2026-06-26 18:13:53,962 - V2Scraper - INFO -   Saved 28 points
+2026-06-26 18:13:55,964 - V2Scraper - INFO - 
+[94/282] Yuru Camp 2 (LlBHLckVd9QI0vUhjMJZ)
+2026-06-26 18:13:55,964 - V2Scraper - INFO - Scraping: Yuru Camp 2 -> https://www.animepilgrimage.com/ja/maps/anime/LlBHLckVd9QI0vUhjMJZ/yuru-camp-2
+2026-06-26 18:13:56,839 - V2Scraper - INFO -   RSC: 144 places (144 total unique)
+2026-06-26 18:13:56,839 - V2Scraper - INFO - Total extracted: 144 places
+2026-06-26 18:14:59,029 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/LlBHLckVd9QI0vUhjMJZ.webp
+2026-06-26 18:14:59,029 - V2Scraper - INFO - Scraped 144 points for ゆるキャン△ Season 2
+2026-06-26 18:15:00,273 - V2Scraper - INFO -   Saved 144 points
+2026-06-26 18:15:02,275 - V2Scraper - INFO - 
+[95/282] Chitose Ramune (NQAcuOMJmD4wesKzWtdK)
+2026-06-26 18:15:02,275 - V2Scraper - INFO - Scraping: Chitose Ramune -> https://www.animepilgrimage.com/ja/maps/anime/NQAcuOMJmD4wesKzWtdK/chitose-ramune
+2026-06-26 18:15:02,436 - V2Scraper - INFO -   RSC: 41 places (41 total unique)
+2026-06-26 18:15:02,436 - V2Scraper - INFO - Total extracted: 41 places
+2026-06-26 18:15:22,821 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/NQAcuOMJmD4wesKzWtdK.webp
+2026-06-26 18:15:22,821 - V2Scraper - INFO - Scraped 41 points for 千歳くんはラムネ瓶のなか
+2026-06-26 18:15:24,071 - V2Scraper - INFO -   Saved 41 points
+2026-06-26 18:15:26,074 - V2Scraper - INFO - 
+[96/282] Ssss Gridman (NShwiqg4RQ8jwlAKDWds)
+2026-06-26 18:15:26,074 - V2Scraper - INFO - Scraping: Ssss Gridman -> https://www.animepilgrimage.com/ja/maps/anime/NShwiqg4RQ8jwlAKDWds/ssss-gridman
+2026-06-26 18:15:26,242 - V2Scraper - INFO -   RSC: 15 places (15 total unique)
+2026-06-26 18:15:26,242 - V2Scraper - INFO - Total extracted: 15 places
+2026-06-26 18:15:33,330 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/NShwiqg4RQ8jwlAKDWds.webp
+2026-06-26 18:15:33,331 - V2Scraper - INFO - Scraped 15 points for SSSS.GRIDMAN
+2026-06-26 18:15:34,566 - V2Scraper - INFO -   Saved 15 points
+2026-06-26 18:15:36,568 - V2Scraper - INFO - 
+[97/282] Weathering With You (NpEZnChVAaNhV5wOpnTr)
+2026-06-26 18:15:36,568 - V2Scraper - INFO - Scraping: Weathering With You -> https://www.animepilgrimage.com/ja/maps/anime/NpEZnChVAaNhV5wOpnTr/weathering-with-you
+2026-06-26 18:15:36,727 - V2Scraper - INFO -   RSC: 50 places (50 total unique)
+2026-06-26 18:15:36,727 - V2Scraper - INFO - Total extracted: 50 places
+2026-06-26 18:15:44,784 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/NpEZnChVAaNhV5wOpnTr.webp
+2026-06-26 18:15:44,785 - V2Scraper - INFO - Scraped 50 points for 天気の子
+2026-06-26 18:15:46,031 - V2Scraper - INFO -   Saved 50 points
+2026-06-26 18:15:48,033 - V2Scraper - INFO - 
+[98/282] One Punch Man 2 (Npz9VOt5R5Nshl8YcBar)
+2026-06-26 18:15:48,033 - V2Scraper - INFO - Scraping: One Punch Man 2 -> https://www.animepilgrimage.com/ja/maps/anime/Npz9VOt5R5Nshl8YcBar/one-punch-man-2
+2026-06-26 18:15:48,423 - V2Scraper - INFO -   RSC: 12 places (12 total unique)
+2026-06-26 18:15:48,423 - V2Scraper - INFO - Total extracted: 12 places
+2026-06-26 18:15:54,381 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/Npz9VOt5R5Nshl8YcBar.webp
+2026-06-26 18:15:54,381 - V2Scraper - INFO - Scraped 12 points for ワンパンマン 2期
+2026-06-26 18:15:55,622 - V2Scraper - INFO -   Saved 12 points
+2026-06-26 18:15:57,624 - V2Scraper - INFO - 
+[99/282] Komi Cant Communicate (NudLgt4nu08ywcI9EayS)
+2026-06-26 18:15:57,624 - V2Scraper - INFO - Scraping: Komi Cant Communicate -> https://www.animepilgrimage.com/ja/maps/anime/NudLgt4nu08ywcI9EayS/komi-cant-communicate
+2026-06-26 18:15:57,785 - V2Scraper - INFO -   RSC: 4 places (4 total unique)
+2026-06-26 18:15:57,786 - V2Scraper - INFO - Total extracted: 4 places
+2026-06-26 18:15:59,590 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/NudLgt4nu08ywcI9EayS.webp
+2026-06-26 18:15:59,590 - V2Scraper - INFO - Scraped 4 points for 古見さんは、コミュ症です。
+2026-06-26 18:16:00,833 - V2Scraper - INFO -   Saved 4 points
+2026-06-26 18:16:02,835 - V2Scraper - INFO - 
+[100/282] Tamako Market (O787XPKQvn9bJ0uEM197)
+2026-06-26 18:16:02,836 - V2Scraper - INFO - Scraping: Tamako Market -> https://www.animepilgrimage.com/ja/maps/anime/O787XPKQvn9bJ0uEM197/tamako-market
+2026-06-26 18:16:02,974 - V2Scraper - INFO -   RSC: 41 places (41 total unique)
+2026-06-26 18:16:02,974 - V2Scraper - INFO - Total extracted: 41 places
+2026-06-26 18:16:23,386 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/O787XPKQvn9bJ0uEM197.webp
+2026-06-26 18:16:23,387 - V2Scraper - INFO - Scraped 41 points for たまこまーけっと
+2026-06-26 18:16:24,637 - V2Scraper - INFO -   Saved 41 points
+2026-06-26 18:16:26,639 - V2Scraper - INFO - 
+[101/282] 365 Days To The Wedding (OAHs4S1CXAlmcCbu520H)
+2026-06-26 18:16:26,639 - V2Scraper - INFO - Scraping: 365 Days To The Wedding -> https://www.animepilgrimage.com/ja/maps/anime/OAHs4S1CXAlmcCbu520H/365-days-to-the-wedding
+2026-06-26 18:16:26,786 - V2Scraper - INFO -   RSC: 48 places (48 total unique)
+2026-06-26 18:16:26,786 - V2Scraper - INFO - Total extracted: 48 places
+2026-06-26 18:16:51,172 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/OAHs4S1CXAlmcCbu520H.webp
+2026-06-26 18:16:51,172 - V2Scraper - INFO - Scraped 48 points for 結婚するって、本当ですか
+2026-06-26 18:16:52,432 - V2Scraper - INFO -   Saved 48 points
+2026-06-26 18:16:54,434 - V2Scraper - INFO - 
+[102/282] Summer Pockets (OZ6C0hvndlfhdIAf7sIa)
+2026-06-26 18:16:54,434 - V2Scraper - INFO - Scraping: Summer Pockets -> https://www.animepilgrimage.com/ja/maps/anime/OZ6C0hvndlfhdIAf7sIa/summer-pockets
+2026-06-26 18:16:55,188 - V2Scraper - INFO -   RSC: 65 places (65 total unique)
+2026-06-26 18:16:55,189 - V2Scraper - INFO - Total extracted: 65 places
+2026-06-26 18:17:29,838 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/OZ6C0hvndlfhdIAf7sIa.webp
+2026-06-26 18:17:29,838 - V2Scraper - INFO - Scraped 65 points for Summer Pockets
+2026-06-26 18:17:31,064 - V2Scraper - INFO -   Saved 65 points
+2026-06-26 18:17:33,067 - V2Scraper - INFO - 
+[103/282] I Made Friends With The Second Prettiest Girl In My Class (OaKLJatdGQqtkk4SZWdB)
+2026-06-26 18:17:33,067 - V2Scraper - INFO - Scraping: I Made Friends With The Second Prettiest Girl In My Class -> https://www.animepilgrimage.com/ja/maps/anime/OaKLJatdGQqtkk4SZWdB/i-made-friends-with-the-second-prettiest-girl-in-my-class
+2026-06-26 18:17:33,202 - V2Scraper - INFO -   RSC: 23 places (23 total unique)
+2026-06-26 18:17:33,203 - V2Scraper - INFO - Total extracted: 23 places
+2026-06-26 18:17:40,526 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/OaKLJatdGQqtkk4SZWdB.webp
+2026-06-26 18:17:40,527 - V2Scraper - INFO - Scraped 23 points for クラスで２番目に可愛い女の子と友だちになった
+2026-06-26 18:17:41,749 - V2Scraper - INFO -   Saved 23 points
+2026-06-26 18:17:43,751 - V2Scraper - INFO - 
+[104/282] Bleach Memories Of Nobody (PKagB1hxt8p8a39k8MVY)
+2026-06-26 18:17:43,751 - V2Scraper - INFO - Scraping: Bleach Memories Of Nobody -> https://www.animepilgrimage.com/ja/maps/anime/PKagB1hxt8p8a39k8MVY/bleach-memories-of-nobody
+2026-06-26 18:17:43,889 - V2Scraper - INFO -   RSC: 10 places (10 total unique)
+2026-06-26 18:17:43,889 - V2Scraper - INFO - Total extracted: 10 places
+2026-06-26 18:17:49,344 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/PKagB1hxt8p8a39k8MVY.webp
+2026-06-26 18:17:49,344 - V2Scraper - INFO - Scraped 10 points for Bleach: Memories of Nobody
+2026-06-26 18:17:50,573 - V2Scraper - INFO -   Saved 10 points
+2026-06-26 18:17:52,575 - V2Scraper - INFO - 
+[105/282] Tamako Love Story (PMFHkoPU1pObVfazDppZ)
+2026-06-26 18:17:52,576 - V2Scraper - INFO - Scraping: Tamako Love Story -> https://www.animepilgrimage.com/ja/maps/anime/PMFHkoPU1pObVfazDppZ/tamako-love-story
+2026-06-26 18:17:52,931 - V2Scraper - INFO -   RSC: 29 places (29 total unique)
+2026-06-26 18:17:52,931 - V2Scraper - INFO - Total extracted: 29 places
+2026-06-26 18:18:07,133 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/PMFHkoPU1pObVfazDppZ.webp
+2026-06-26 18:18:07,133 - V2Scraper - INFO - Scraped 29 points for たまこラブストーリー
+2026-06-26 18:18:08,357 - V2Scraper - INFO -   Saved 29 points
+2026-06-26 18:18:10,359 - V2Scraper - INFO - 
+[106/282] Re Zero 2 (PY8lyzbzxH7yFNe0z1kg)
+2026-06-26 18:18:10,359 - V2Scraper - INFO - Scraping: Re Zero 2 -> https://www.animepilgrimage.com/ja/maps/anime/PY8lyzbzxH7yFNe0z1kg/re-zero-2
+2026-06-26 18:18:10,487 - V2Scraper - INFO -   RSC: 7 places (7 total unique)
+2026-06-26 18:18:10,487 - V2Scraper - INFO - Total extracted: 7 places
+2026-06-26 18:18:13,315 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/PY8lyzbzxH7yFNe0z1kg.webp
+2026-06-26 18:18:13,315 - V2Scraper - INFO - Scraped 7 points for Re:ゼロから始める異世界生活 2nd season
+2026-06-26 18:18:14,545 - V2Scraper - INFO -   Saved 7 points
+2026-06-26 18:18:16,547 - V2Scraper - INFO - 
+[107/282] Shoshimin (QG989BWllZZQ1ZeuErVx)
+2026-06-26 18:18:16,547 - V2Scraper - INFO - Scraping: Shoshimin -> https://www.animepilgrimage.com/ja/maps/anime/QG989BWllZZQ1ZeuErVx/shoshimin
+2026-06-26 18:18:16,903 - V2Scraper - INFO -   RSC: 58 places (58 total unique)
+2026-06-26 18:18:16,903 - V2Scraper - INFO - Total extracted: 58 places
+2026-06-26 18:18:39,284 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/QG989BWllZZQ1ZeuErVx.webp
+2026-06-26 18:18:39,285 - V2Scraper - INFO - Scraped 58 points for 小市民シリーズ
+2026-06-26 18:18:40,515 - V2Scraper - INFO -   Saved 58 points
+2026-06-26 18:18:42,516 - V2Scraper - INFO - 
+[108/282] Slow Loop (QZEqu5MPWKCjeIQD0ChT)
+2026-06-26 18:18:42,516 - V2Scraper - INFO - Scraping: Slow Loop -> https://www.animepilgrimage.com/ja/maps/anime/QZEqu5MPWKCjeIQD0ChT/slow-loop
+2026-06-26 18:18:43,207 - V2Scraper - INFO -   RSC: 32 places (32 total unique)
+2026-06-26 18:18:43,207 - V2Scraper - INFO - Total extracted: 32 places
+2026-06-26 18:19:02,332 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/QZEqu5MPWKCjeIQD0ChT.webp
+2026-06-26 18:19:02,332 - V2Scraper - INFO - Scraped 32 points for スローループ
+2026-06-26 18:19:03,569 - V2Scraper - INFO -   Saved 32 points
+2026-06-26 18:19:05,571 - V2Scraper - INFO - 
+[109/282] Oregairu Snafu 2 (QdSz4uvUO8xtPQ2YnNCH)
+2026-06-26 18:19:05,571 - V2Scraper - INFO - Scraping: Oregairu Snafu 2 -> https://www.animepilgrimage.com/ja/maps/anime/QdSz4uvUO8xtPQ2YnNCH/oregairu-snafu-2
+2026-06-26 18:19:05,951 - V2Scraper - INFO -   RSC: 62 places (62 total unique)
+2026-06-26 18:19:05,951 - V2Scraper - INFO - Total extracted: 62 places
+2026-06-26 18:19:33,214 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/QdSz4uvUO8xtPQ2YnNCH.webp
+2026-06-26 18:19:33,214 - V2Scraper - INFO - Scraped 62 points for やはり俺の青春ラブコメはまちがっている。続
+2026-06-26 18:19:34,450 - V2Scraper - INFO -   Saved 62 points
+2026-06-26 18:19:36,452 - V2Scraper - INFO - 
+[110/282] Wash It All Away (QqXeEHTDBJy8XPLbqrrn)
+2026-06-26 18:19:36,452 - V2Scraper - INFO - Scraping: Wash It All Away -> https://www.animepilgrimage.com/ja/maps/anime/QqXeEHTDBJy8XPLbqrrn/wash-it-all-away
+2026-06-26 18:19:36,666 - V2Scraper - INFO -   RSC: 71 places (71 total unique)
+2026-06-26 18:19:36,666 - V2Scraper - INFO - Total extracted: 71 places
+2026-06-26 18:20:15,686 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/QqXeEHTDBJy8XPLbqrrn.webp
+2026-06-26 18:20:15,686 - V2Scraper - INFO - Scraped 71 points for 綺麗にしてもらえますか。
+2026-06-26 18:20:16,918 - V2Scraper - INFO -   Saved 71 points
+2026-06-26 18:20:18,920 - V2Scraper - INFO - 
+[111/282] Yuruyuri Summer Vacation Plus (R5O9FmDqJMUVD5L3zIo8)
+2026-06-26 18:20:18,920 - V2Scraper - INFO - Scraping: Yuruyuri Summer Vacation Plus -> https://www.animepilgrimage.com/ja/maps/anime/R5O9FmDqJMUVD5L3zIo8/yuruyuri-summer-vacation-plus
+2026-06-26 18:20:19,561 - V2Scraper - INFO -   RSC: 8 places (8 total unique)
+2026-06-26 18:20:19,561 - V2Scraper - INFO - Total extracted: 8 places
+2026-06-26 18:20:24,201 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/R5O9FmDqJMUVD5L3zIo8.webp
+2026-06-26 18:20:24,201 - V2Scraper - INFO - Scraped 8 points for ゆるゆり なちゅやちゅみ！＋
+2026-06-26 18:20:25,436 - V2Scraper - INFO -   Saved 8 points
+2026-06-26 18:20:27,439 - V2Scraper - INFO - 
+[112/282] Initial D Legend 2 (RLpqKpn3ABpw8arWkpWc)
+2026-06-26 18:20:27,439 - V2Scraper - INFO - Scraping: Initial D Legend 2 -> https://www.animepilgrimage.com/ja/maps/anime/RLpqKpn3ABpw8arWkpWc/initial-d-legend-2
+2026-06-26 18:20:27,534 - V2Scraper - INFO -   RSC: 22 places (22 total unique)
+2026-06-26 18:20:27,534 - V2Scraper - INFO - Total extracted: 22 places
+2026-06-26 18:20:39,202 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/RLpqKpn3ABpw8arWkpWc.webp
+2026-06-26 18:20:39,202 - V2Scraper - INFO - Scraped 22 points for 新劇場版「頭文字D」Legend2 闘走
+2026-06-26 18:20:40,438 - V2Scraper - INFO -   Saved 22 points
+2026-06-26 18:20:42,440 - V2Scraper - INFO - 
+[113/282] The Angel Next Door Spoils Me Rotten (RPnFHigPkhOePBI3ZpP7)
+2026-06-26 18:20:42,440 - V2Scraper - INFO - Scraping: The Angel Next Door Spoils Me Rotten -> https://www.animepilgrimage.com/ja/maps/anime/RPnFHigPkhOePBI3ZpP7/the-angel-next-door-spoils-me-rotten
+2026-06-26 18:20:43,119 - V2Scraper - INFO -   RSC: 8 places (8 total unique)
+2026-06-26 18:20:43,120 - V2Scraper - INFO - Total extracted: 8 places
+2026-06-26 18:20:47,793 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/RPnFHigPkhOePBI3ZpP7.webp
+2026-06-26 18:20:47,794 - V2Scraper - INFO - Scraped 8 points for お隣の天使様にいつの間にか駄目人間にされていた件
+2026-06-26 18:20:49,035 - V2Scraper - INFO -   Saved 8 points
+2026-06-26 18:20:51,038 - V2Scraper - INFO - 
+[114/282] Iroduku (RawAH4VbfP7uT0pSXQv9)
+2026-06-26 18:20:51,038 - V2Scraper - INFO - Scraping: Iroduku -> https://www.animepilgrimage.com/ja/maps/anime/RawAH4VbfP7uT0pSXQv9/iroduku
+2026-06-26 18:20:51,488 - V2Scraper - INFO -   RSC: 76 places (76 total unique)
+2026-06-26 18:20:51,488 - V2Scraper - INFO - Total extracted: 76 places
+2026-06-26 18:21:32,892 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/RawAH4VbfP7uT0pSXQv9.webp
+2026-06-26 18:21:32,892 - V2Scraper - INFO - Scraped 76 points for 色づく世界の明日から
+2026-06-26 18:21:34,135 - V2Scraper - INFO -   Saved 76 points
+2026-06-26 18:21:36,138 - V2Scraper - INFO - 
+[115/282] Ride Your Wave (RdB9u0ObLQdFxMYl4nUx)
+2026-06-26 18:21:36,138 - V2Scraper - INFO - Scraping: Ride Your Wave -> https://www.animepilgrimage.com/ja/maps/anime/RdB9u0ObLQdFxMYl4nUx/ride-your-wave
+2026-06-26 18:21:36,285 - V2Scraper - INFO -   RSC: 15 places (15 total unique)
+2026-06-26 18:21:36,285 - V2Scraper - INFO - Total extracted: 15 places
+2026-06-26 18:21:43,430 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/RdB9u0ObLQdFxMYl4nUx.webp
+2026-06-26 18:21:43,431 - V2Scraper - INFO - Scraped 15 points for きみと、波にのれたら
+2026-06-26 18:21:44,697 - V2Scraper - INFO -   Saved 15 points
+2026-06-26 18:21:46,700 - V2Scraper - INFO - 
+[116/282] Anohana (S2Ck9BmF9DceONFuYdu2)
+2026-06-26 18:21:46,700 - V2Scraper - INFO - Scraping: Anohana -> https://www.animepilgrimage.com/ja/maps/anime/S2Ck9BmF9DceONFuYdu2/anohana
+2026-06-26 18:21:46,886 - V2Scraper - INFO -   RSC: 36 places (36 total unique)
+2026-06-26 18:21:46,886 - V2Scraper - INFO - Total extracted: 36 places
+2026-06-26 18:22:03,930 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/S2Ck9BmF9DceONFuYdu2.webp
+2026-06-26 18:22:03,931 - V2Scraper - INFO - Scraped 36 points for あの日見た花の名前を僕達はまだ知らない。
+2026-06-26 18:22:05,180 - V2Scraper - INFO -   Saved 36 points
+2026-06-26 18:22:07,182 - V2Scraper - INFO - 
+[117/282] Star Detective Precure (SLJtXMvLjJFxkt3cKtRL)
+2026-06-26 18:22:07,183 - V2Scraper - INFO - Scraping: Star Detective Precure -> https://www.animepilgrimage.com/ja/maps/anime/SLJtXMvLjJFxkt3cKtRL/star-detective-precure
+2026-06-26 18:22:07,328 - V2Scraper - INFO -   RSC: 6 places (6 total unique)
+2026-06-26 18:22:07,328 - V2Scraper - INFO - Total extracted: 6 places
+2026-06-26 18:22:09,433 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/SLJtXMvLjJFxkt3cKtRL.webp
+2026-06-26 18:22:09,433 - V2Scraper - INFO - Scraped 6 points for 名探偵プリキュア！
+2026-06-26 18:22:10,690 - V2Scraper - INFO -   Saved 6 points
+2026-06-26 18:22:12,692 - V2Scraper - INFO - 
+[118/282] Erased (SZ4J7oV1NGtk9EIFlZCO)
+2026-06-26 18:22:12,692 - V2Scraper - INFO - Scraping: Erased -> https://www.animepilgrimage.com/ja/maps/anime/SZ4J7oV1NGtk9EIFlZCO/erased
+2026-06-26 18:22:12,828 - V2Scraper - INFO -   RSC: 22 places (22 total unique)
+2026-06-26 18:22:12,828 - V2Scraper - INFO - Total extracted: 22 places
+2026-06-26 18:22:24,837 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/SZ4J7oV1NGtk9EIFlZCO.webp
+2026-06-26 18:22:24,837 - V2Scraper - INFO - Scraped 22 points for 僕だけがいない街
+2026-06-26 18:22:26,089 - V2Scraper - INFO -   Saved 22 points
+2026-06-26 18:22:28,091 - V2Scraper - INFO - 
+[119/282] The Place Promised In Our Early Days (SvV7FwjDoS2tJiVqx4NA)
+2026-06-26 18:22:28,091 - V2Scraper - INFO - Scraping: The Place Promised In Our Early Days -> https://www.animepilgrimage.com/ja/maps/anime/SvV7FwjDoS2tJiVqx4NA/the-place-promised-in-our-early-days
+2026-06-26 18:22:28,759 - V2Scraper - INFO -   RSC: 13 places (13 total unique)
+2026-06-26 18:22:28,759 - V2Scraper - INFO - Total extracted: 13 places
+2026-06-26 18:22:34,512 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/SvV7FwjDoS2tJiVqx4NA.webp
+2026-06-26 18:22:34,512 - V2Scraper - INFO - Scraped 13 points for 雲のむこう、約束の場所
+2026-06-26 18:22:35,754 - V2Scraper - INFO -   Saved 13 points
+2026-06-26 18:22:37,756 - V2Scraper - INFO - 
+[120/282] Your Lie In April (SxVDZdqsWoda64YFSB5I)
+2026-06-26 18:22:37,756 - V2Scraper - INFO - Scraping: Your Lie In April -> https://www.animepilgrimage.com/ja/maps/anime/SxVDZdqsWoda64YFSB5I/your-lie-in-april
+2026-06-26 18:22:38,464 - V2Scraper - INFO -   RSC: 36 places (36 total unique)
+2026-06-26 18:22:38,464 - V2Scraper - INFO - Total extracted: 36 places
+2026-06-26 18:22:54,178 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/SxVDZdqsWoda64YFSB5I.webp
+2026-06-26 18:22:54,178 - V2Scraper - INFO - Scraped 36 points for 四月は君の噓
+2026-06-26 18:22:55,429 - V2Scraper - INFO -   Saved 36 points
+2026-06-26 18:22:57,432 - V2Scraper - INFO - 
+[121/282] Kaguya Sama S2 (TAaEPRwIJMNDic8UNpyJ)
+2026-06-26 18:22:57,432 - V2Scraper - INFO - Scraping: Kaguya Sama S2 -> https://www.animepilgrimage.com/ja/maps/anime/TAaEPRwIJMNDic8UNpyJ/kaguya-sama-s2
+2026-06-26 18:22:57,814 - V2Scraper - INFO -   RSC: 6 places (6 total unique)
+2026-06-26 18:22:57,814 - V2Scraper - INFO - Total extracted: 6 places
+2026-06-26 18:23:00,601 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/TAaEPRwIJMNDic8UNpyJ.webp
+2026-06-26 18:23:00,601 - V2Scraper - INFO - Scraped 6 points for かぐや様は告らせたい？～天才たちの恋愛頭脳戦～
+2026-06-26 18:23:01,848 - V2Scraper - INFO -   Saved 6 points
+2026-06-26 18:23:03,850 - V2Scraper - INFO - 
+[122/282] The Dangers In My Heart 2 (TCBZtniKN2tuT2Mr6sFW)
+2026-06-26 18:23:03,850 - V2Scraper - INFO - Scraping: The Dangers In My Heart 2 -> https://www.animepilgrimage.com/ja/maps/anime/TCBZtniKN2tuT2Mr6sFW/the-dangers-in-my-heart-2
+2026-06-26 18:23:03,987 - V2Scraper - INFO -   RSC: 42 places (42 total unique)
+2026-06-26 18:23:03,988 - V2Scraper - INFO - Total extracted: 42 places
+2026-06-26 18:23:21,945 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/TCBZtniKN2tuT2Mr6sFW.webp
+2026-06-26 18:23:21,945 - V2Scraper - INFO - Scraped 42 points for 僕の心のヤバイやつ ２期
+2026-06-26 18:23:23,200 - V2Scraper - INFO -   Saved 42 points
+2026-06-26 18:23:25,202 - V2Scraper - INFO - 
+[123/282] Gate (TSkvs59be6uQgnRQeRe9)
+2026-06-26 18:23:25,202 - V2Scraper - INFO - Scraping: Gate -> https://www.animepilgrimage.com/ja/maps/anime/TSkvs59be6uQgnRQeRe9/gate
+2026-06-26 18:23:25,890 - V2Scraper - INFO -   RSC: 28 places (28 total unique)
+2026-06-26 18:23:25,890 - V2Scraper - INFO - Total extracted: 28 places
+2026-06-26 18:23:40,691 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/TSkvs59be6uQgnRQeRe9.webp
+2026-06-26 18:23:40,692 - V2Scraper - INFO - Scraped 28 points for ゲート 自衛隊 彼の地にて、斯く戦えり
+2026-06-26 18:23:41,938 - V2Scraper - INFO -   Saved 28 points
+2026-06-26 18:23:43,940 - V2Scraper - INFO - 
+[124/282] Style Of Hiroshi Nohara Lunch (TjkYh2MXRiFE4rlWLMtb)
+2026-06-26 18:23:43,940 - V2Scraper - INFO - Scraping: Style Of Hiroshi Nohara Lunch -> https://www.animepilgrimage.com/ja/maps/anime/TjkYh2MXRiFE4rlWLMtb/style-of-hiroshi-nohara-lunch
+2026-06-26 18:23:44,085 - V2Scraper - INFO -   RSC: 8 places (8 total unique)
+2026-06-26 18:23:44,085 - V2Scraper - INFO - Total extracted: 8 places
+2026-06-26 18:23:48,994 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/TjkYh2MXRiFE4rlWLMtb.webp
+2026-06-26 18:23:48,994 - V2Scraper - INFO - Scraped 8 points for 野原ひろし 昼メシの流儀
+2026-06-26 18:23:50,252 - V2Scraper - INFO -   Saved 8 points
+2026-06-26 18:23:52,255 - V2Scraper - INFO - 
+[125/282] Oomuro Ke Dear Friends (TokTljW8Xuc2zv5zjpL7)
+2026-06-26 18:23:52,255 - V2Scraper - INFO - Scraping: Oomuro Ke Dear Friends -> https://www.animepilgrimage.com/ja/maps/anime/TokTljW8Xuc2zv5zjpL7/oomuro-ke-dear-friends
+2026-06-26 18:23:52,577 - V2Scraper - INFO -   RSC: 29 places (29 total unique)
+2026-06-26 18:23:52,577 - V2Scraper - INFO - Total extracted: 29 places
+2026-06-26 18:24:07,097 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/TokTljW8Xuc2zv5zjpL7.webp
+2026-06-26 18:24:07,098 - V2Scraper - INFO - Scraped 29 points for 大室家 dear friends
+2026-06-26 18:24:08,340 - V2Scraper - INFO -   Saved 29 points
+2026-06-26 18:24:10,342 - V2Scraper - INFO - 
+[126/282] Darling In The Franxx (U4M4jkiANLzkJ3fvBass)
+2026-06-26 18:24:10,343 - V2Scraper - INFO - Scraping: Darling In The Franxx -> https://www.animepilgrimage.com/ja/maps/anime/U4M4jkiANLzkJ3fvBass/darling-in-the-franxx
+2026-06-26 18:24:10,824 - V2Scraper - INFO -   RSC: 5 places (5 total unique)
+2026-06-26 18:24:10,824 - V2Scraper - INFO - Total extracted: 5 places
+2026-06-26 18:24:13,050 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/U4M4jkiANLzkJ3fvBass.webp
+2026-06-26 18:24:13,051 - V2Scraper - INFO - Scraped 5 points for ダーリン・イン・ザ・フランキス
+2026-06-26 18:24:14,300 - V2Scraper - INFO -   Saved 5 points
+2026-06-26 18:24:16,302 - V2Scraper - INFO - 
+[127/282] Rascal Does Not Dream Of Santa Claus (UAxl5OxUl27L0betSu5L)
+2026-06-26 18:24:16,302 - V2Scraper - INFO - Scraping: Rascal Does Not Dream Of Santa Claus -> https://www.animepilgrimage.com/ja/maps/anime/UAxl5OxUl27L0betSu5L/rascal-does-not-dream-of-santa-claus
+2026-06-26 18:24:17,156 - V2Scraper - INFO -   RSC: 133 places (133 total unique)
+2026-06-26 18:24:17,156 - V2Scraper - INFO - Total extracted: 133 places
+2026-06-26 18:25:14,209 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/UAxl5OxUl27L0betSu5L.webp
+2026-06-26 18:25:14,210 - V2Scraper - INFO - Scraped 133 points for 青春ブタ野郎はサンタクロースの夢を見ない
+2026-06-26 18:25:15,458 - V2Scraper - INFO -   Saved 133 points
+2026-06-26 18:25:17,460 - V2Scraper - INFO - 
+[128/282] Digimon Adventure Last Evolution Kizuna (UFsJyag2lYH3H0hc2FOR)
+2026-06-26 18:25:17,460 - V2Scraper - INFO - Scraping: Digimon Adventure Last Evolution Kizuna -> https://www.animepilgrimage.com/ja/maps/anime/UFsJyag2lYH3H0hc2FOR/digimon-adventure-last-evolution-kizuna
+2026-06-26 18:25:17,597 - V2Scraper - INFO -   RSC: 23 places (23 total unique)
+2026-06-26 18:25:17,597 - V2Scraper - INFO - Total extracted: 23 places
+2026-06-26 18:25:27,944 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/UFsJyag2lYH3H0hc2FOR.webp
+2026-06-26 18:25:27,944 - V2Scraper - INFO - Scraped 23 points for デジモンアドベンチャー LAST EVOLUTION 絆
+2026-06-26 18:25:29,195 - V2Scraper - INFO -   Saved 23 points
+2026-06-26 18:25:31,197 - V2Scraper - INFO - 
+[129/282] Mirai (UVPVcuDouxDp80lD6iDf)
+2026-06-26 18:25:31,197 - V2Scraper - INFO - Scraping: Mirai -> https://www.animepilgrimage.com/ja/maps/anime/UVPVcuDouxDp80lD6iDf/mirai
+2026-06-26 18:25:32,095 - V2Scraper - INFO -   RSC: 9 places (9 total unique)
+2026-06-26 18:25:32,095 - V2Scraper - INFO - Total extracted: 9 places
+2026-06-26 18:25:37,051 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/UVPVcuDouxDp80lD6iDf.webp
+2026-06-26 18:25:37,051 - V2Scraper - INFO - Scraped 9 points for 未来のミライ
+2026-06-26 18:25:38,299 - V2Scraper - INFO -   Saved 9 points
+2026-06-26 18:25:40,301 - V2Scraper - INFO - 
+[130/282] Negative Positive Angler (UXyZMhIozhcciP5RVeEq)
+2026-06-26 18:25:40,301 - V2Scraper - INFO - Scraping: Negative Positive Angler -> https://www.animepilgrimage.com/ja/maps/anime/UXyZMhIozhcciP5RVeEq/negative-positive-angler
+2026-06-26 18:25:40,691 - V2Scraper - INFO -   RSC: 58 places (58 total unique)
+2026-06-26 18:25:40,692 - V2Scraper - INFO - Total extracted: 58 places
+2026-06-26 18:26:05,743 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/UXyZMhIozhcciP5RVeEq.webp
+2026-06-26 18:26:05,743 - V2Scraper - INFO - Scraped 58 points for ネガポジアングラー
+2026-06-26 18:26:06,994 - V2Scraper - INFO -   Saved 58 points
+2026-06-26 18:26:08,996 - V2Scraper - INFO - 
+[131/282] Barakamon (UcdcmZWDPCZiUdYZ6j7t)
+2026-06-26 18:26:08,997 - V2Scraper - INFO - Scraping: Barakamon -> https://www.animepilgrimage.com/ja/maps/anime/UcdcmZWDPCZiUdYZ6j7t/barakamon
+2026-06-26 18:26:09,424 - V2Scraper - INFO -   RSC: 20 places (20 total unique)
+2026-06-26 18:26:09,424 - V2Scraper - INFO - Total extracted: 20 places
+2026-06-26 18:26:19,289 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/UcdcmZWDPCZiUdYZ6j7t.webp
+2026-06-26 18:26:19,289 - V2Scraper - INFO - Scraped 20 points for ばらかもん
+2026-06-26 18:26:20,550 - V2Scraper - INFO -   Saved 20 points
+2026-06-26 18:26:22,552 - V2Scraper - INFO - 
+[132/282] Rascal Does Not Dream Of A Dreaming Girl (UnHZjOgLD7JW5aUXBdwc)
+2026-06-26 18:26:22,552 - V2Scraper - INFO - Scraping: Rascal Does Not Dream Of A Dreaming Girl -> https://www.animepilgrimage.com/ja/maps/anime/UnHZjOgLD7JW5aUXBdwc/rascal-does-not-dream-of-a-dreaming-girl
+2026-06-26 18:26:23,270 - V2Scraper - INFO -   RSC: 35 places (35 total unique)
+2026-06-26 18:26:23,270 - V2Scraper - INFO - Total extracted: 35 places
+2026-06-26 18:26:31,650 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/UnHZjOgLD7JW5aUXBdwc.webp
+2026-06-26 18:26:31,650 - V2Scraper - INFO - Scraped 35 points for 青春ブタ野郎はゆめみる少女の夢を見ない
+2026-06-26 18:26:32,910 - V2Scraper - INFO -   Saved 35 points
+2026-06-26 18:26:34,912 - V2Scraper - INFO - 
+[133/282] Sao Ordinal Scale (Ur5mrwrBPVePfw7X3LNc)
+2026-06-26 18:26:34,912 - V2Scraper - INFO - Scraping: Sao Ordinal Scale -> https://www.animepilgrimage.com/ja/maps/anime/Ur5mrwrBPVePfw7X3LNc/sao-ordinal-scale
+2026-06-26 18:26:35,279 - V2Scraper - INFO -   RSC: 10 places (10 total unique)
+2026-06-26 18:26:35,279 - V2Scraper - INFO - Total extracted: 10 places
+2026-06-26 18:26:39,644 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/Ur5mrwrBPVePfw7X3LNc.webp
+2026-06-26 18:26:39,644 - V2Scraper - INFO - Scraped 10 points for 劇場版 ソードアート・オンライン オーディナル・スケール
+2026-06-26 18:26:40,904 - V2Scraper - INFO -   Saved 10 points
+2026-06-26 18:26:42,907 - V2Scraper - INFO - 
+[134/282] Jujutsu Kaisen 2 (UrP8DF1mot4eA2YfzSJk)
+2026-06-26 18:26:42,907 - V2Scraper - INFO - Scraping: Jujutsu Kaisen 2 -> https://www.animepilgrimage.com/ja/maps/anime/UrP8DF1mot4eA2YfzSJk/jujutsu-kaisen-2
+2026-06-26 18:26:43,120 - V2Scraper - INFO -   RSC: 77 places (77 total unique)
+2026-06-26 18:26:43,120 - V2Scraper - INFO - Total extracted: 77 places
+2026-06-26 18:27:05,006 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/UrP8DF1mot4eA2YfzSJk.webp
+2026-06-26 18:27:05,006 - V2Scraper - INFO - Scraped 77 points for 呪術廻戦 2期
+2026-06-26 18:27:06,265 - V2Scraper - INFO -   Saved 77 points
+2026-06-26 18:27:08,267 - V2Scraper - INFO - 
+[135/282] A Place Further Than The Universe (V8ZUeVmlHtP2Wh4scQ77)
+2026-06-26 18:27:08,267 - V2Scraper - INFO - Scraping: A Place Further Than The Universe -> https://www.animepilgrimage.com/ja/maps/anime/V8ZUeVmlHtP2Wh4scQ77/a-place-further-than-the-universe
+2026-06-26 18:27:08,454 - V2Scraper - INFO -   RSC: 37 places (37 total unique)
+2026-06-26 18:27:08,454 - V2Scraper - INFO - Total extracted: 37 places
+2026-06-26 18:27:22,863 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/V8ZUeVmlHtP2Wh4scQ77.webp
+2026-06-26 18:27:22,864 - V2Scraper - INFO - Scraped 37 points for 宇宙よりも遠い場所
+2026-06-26 18:27:24,132 - V2Scraper - INFO -   Saved 37 points
+2026-06-26 18:27:26,134 - V2Scraper - INFO - 
+[136/282] Girls Panzer (VD31WwqZ3Ok7A1Fcr892)
+2026-06-26 18:27:26,134 - V2Scraper - INFO - Scraping: Girls Panzer -> https://www.animepilgrimage.com/ja/maps/anime/VD31WwqZ3Ok7A1Fcr892/girls-panzer
+2026-06-26 18:27:26,510 - V2Scraper - INFO -   RSC: 22 places (22 total unique)
+2026-06-26 18:27:26,510 - V2Scraper - INFO - Total extracted: 22 places
+2026-06-26 18:27:36,156 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/VD31WwqZ3Ok7A1Fcr892.webp
+2026-06-26 18:27:36,156 - V2Scraper - INFO - Scraped 22 points for ガールズ&amp;パンツァー
+2026-06-26 18:27:37,420 - V2Scraper - INFO -   Saved 22 points
+2026-06-26 18:27:39,422 - V2Scraper - INFO - 
+[137/282] My Dress Up Darling (VIQzdK6tzpH3rImWUzQ6)
+2026-06-26 18:27:39,422 - V2Scraper - INFO - Scraping: My Dress Up Darling -> https://www.animepilgrimage.com/ja/maps/anime/VIQzdK6tzpH3rImWUzQ6/my-dress-up-darling
+2026-06-26 18:27:39,564 - V2Scraper - INFO -   RSC: 35 places (35 total unique)
+2026-06-26 18:27:39,564 - V2Scraper - INFO - Total extracted: 35 places
+2026-06-26 18:27:45,462 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/VIQzdK6tzpH3rImWUzQ6.webp
+2026-06-26 18:27:45,462 - V2Scraper - INFO - Scraped 35 points for その着せ替え人形は恋をする
+2026-06-26 18:27:46,738 - V2Scraper - INFO -   Saved 35 points
+2026-06-26 18:27:48,740 - V2Scraper - INFO - 
+[138/282] Blend S (VVAuTlfMEMbesT8lj0Me)
+2026-06-26 18:27:48,740 - V2Scraper - INFO - Scraping: Blend S -> https://www.animepilgrimage.com/ja/maps/anime/VVAuTlfMEMbesT8lj0Me/blend-s
+2026-06-26 18:27:49,329 - V2Scraper - INFO -   RSC: 9 places (9 total unique)
+2026-06-26 18:27:49,329 - V2Scraper - INFO - Total extracted: 9 places
+2026-06-26 18:27:53,357 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/VVAuTlfMEMbesT8lj0Me.webp
+2026-06-26 18:27:53,357 - V2Scraper - INFO - Scraped 9 points for ブレンド・S
+2026-06-26 18:27:54,621 - V2Scraper - INFO -   Saved 9 points
+2026-06-26 18:27:56,623 - V2Scraper - INFO - 
+[139/282] Steins Gate (VYoUbJBIkUiLX3HPYQGl)
+2026-06-26 18:27:56,623 - V2Scraper - INFO - Scraping: Steins Gate -> https://www.animepilgrimage.com/ja/maps/anime/VYoUbJBIkUiLX3HPYQGl/steins-gate
+2026-06-26 18:27:56,791 - V2Scraper - INFO -   RSC: 65 places (65 total unique)
+2026-06-26 18:27:56,791 - V2Scraper - INFO - Total extracted: 65 places
+2026-06-26 18:28:14,205 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/VYoUbJBIkUiLX3HPYQGl.webp
+2026-06-26 18:28:14,205 - V2Scraper - INFO - Scraped 65 points for Steins;Gate
+2026-06-26 18:28:15,462 - V2Scraper - INFO -   Saved 65 points
+2026-06-26 18:28:17,465 - V2Scraper - INFO - 
+[140/282] Teasing Master Takagi San 2 (VhH877Oq00jh2nXka21n)
+2026-06-26 18:28:17,465 - V2Scraper - INFO - Scraping: Teasing Master Takagi San 2 -> https://www.animepilgrimage.com/ja/maps/anime/VhH877Oq00jh2nXka21n/teasing-master-takagi-san-2
+2026-06-26 18:28:17,678 - V2Scraper - INFO -   RSC: 13 places (13 total unique)
+2026-06-26 18:28:17,678 - V2Scraper - INFO - Total extracted: 13 places
+2026-06-26 18:28:23,768 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/VhH877Oq00jh2nXka21n.webp
+2026-06-26 18:28:23,768 - V2Scraper - INFO - Scraped 13 points for からかい上手の高木さん2
+2026-06-26 18:28:25,027 - V2Scraper - INFO -   Saved 13 points
+2026-06-26 18:28:27,029 - V2Scraper - INFO - 
+[141/282] Bang Dream Its Mygo (VkynuahKEcbI6q0ygptX)
+2026-06-26 18:28:27,029 - V2Scraper - INFO - Scraping: Bang Dream Its Mygo -> https://www.animepilgrimage.com/ja/maps/anime/VkynuahKEcbI6q0ygptX/bang-dream-its-mygo
+2026-06-26 18:28:27,738 - V2Scraper - INFO -   RSC: 35 places (35 total unique)
+2026-06-26 18:28:27,738 - V2Scraper - INFO - Total extracted: 35 places
+2026-06-26 18:28:41,473 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/VkynuahKEcbI6q0ygptX.webp
+2026-06-26 18:28:41,474 - V2Scraper - INFO - Scraped 35 points for BanG Dream! It&#x27;s MyGO!!!!!
+2026-06-26 18:28:42,740 - V2Scraper - INFO -   Saved 35 points
+2026-06-26 18:28:44,743 - V2Scraper - INFO - 
+[142/282] Touring After The Apocalypse (VwCzosaRb9Xdvs1m8bls)
+2026-06-26 18:28:44,743 - V2Scraper - INFO - Scraping: Touring After The Apocalypse -> https://www.animepilgrimage.com/ja/maps/anime/VwCzosaRb9Xdvs1m8bls/touring-after-the-apocalypse
+2026-06-26 18:28:44,924 - V2Scraper - INFO -   RSC: 109 places (109 total unique)
+2026-06-26 18:28:44,924 - V2Scraper - INFO - Total extracted: 109 places
+2026-06-26 18:29:38,968 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/VwCzosaRb9Xdvs1m8bls.webp
+2026-06-26 18:29:38,968 - V2Scraper - INFO - Scraped 109 points for 終末ツーリング
+2026-06-26 18:29:40,239 - V2Scraper - INFO -   Saved 109 points
+2026-06-26 18:29:42,241 - V2Scraper - INFO - 
+[143/282] The Tunnel To Summer The Exit Of Goodbyes (VwGMVFBArqmvYx8g1JQe)
+2026-06-26 18:29:42,242 - V2Scraper - INFO - Scraping: The Tunnel To Summer The Exit Of Goodbyes -> https://www.animepilgrimage.com/ja/maps/anime/VwGMVFBArqmvYx8g1JQe/the-tunnel-to-summer-the-exit-of-goodbyes
+2026-06-26 18:29:42,596 - V2Scraper - INFO -   RSC: 11 places (11 total unique)
+2026-06-26 18:29:42,596 - V2Scraper - INFO - Total extracted: 11 places
+2026-06-26 18:29:48,348 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/VwGMVFBArqmvYx8g1JQe.webp
+2026-06-26 18:29:48,348 - V2Scraper - INFO - Scraped 11 points for 夏へのトンネル、さよならの出口
+2026-06-26 18:29:49,611 - V2Scraper - INFO -   Saved 11 points
+2026-06-26 18:29:51,613 - V2Scraper - INFO - 
+[144/282] Pseudo Harem (W6Ty1y47SrpzJsnFIiRq)
+2026-06-26 18:29:51,613 - V2Scraper - INFO - Scraping: Pseudo Harem -> https://www.animepilgrimage.com/ja/maps/anime/W6Ty1y47SrpzJsnFIiRq/pseudo-harem
+2026-06-26 18:29:52,314 - V2Scraper - INFO -   RSC: 19 places (19 total unique)
+2026-06-26 18:29:52,314 - V2Scraper - INFO - Total extracted: 19 places
+2026-06-26 18:30:01,363 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/W6Ty1y47SrpzJsnFIiRq.webp
+2026-06-26 18:30:01,363 - V2Scraper - INFO - Scraped 19 points for 疑似ハーレム
+2026-06-26 18:30:02,632 - V2Scraper - INFO -   Saved 19 points
+2026-06-26 18:30:04,634 - V2Scraper - INFO - 
+[145/282] Tokyo Revengers 3 (WoY91eDNSvhHts6QSPg1)
+2026-06-26 18:30:04,634 - V2Scraper - INFO - Scraping: Tokyo Revengers 3 -> https://www.animepilgrimage.com/ja/maps/anime/WoY91eDNSvhHts6QSPg1/tokyo-revengers-3
+2026-06-26 18:30:04,988 - V2Scraper - INFO -   RSC: 23 places (23 total unique)
+2026-06-26 18:30:04,988 - V2Scraper - INFO - Total extracted: 23 places
+2026-06-26 18:30:16,658 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/WoY91eDNSvhHts6QSPg1.webp
+2026-06-26 18:30:16,658 - V2Scraper - INFO - Scraped 23 points for 東京リベンジャーズ 天竺編
+2026-06-26 18:30:17,921 - V2Scraper - INFO -   Saved 23 points
+2026-06-26 18:30:19,923 - V2Scraper - INFO - 
+[146/282] Jellyfish Cant Swim In The Night (X2oUXyn7fGvGuS50lQCn)
+2026-06-26 18:30:19,923 - V2Scraper - INFO - Scraping: Jellyfish Cant Swim In The Night -> https://www.animepilgrimage.com/ja/maps/anime/X2oUXyn7fGvGuS50lQCn/jellyfish-cant-swim-in-the-night
+2026-06-26 18:30:20,113 - V2Scraper - INFO -   RSC: 28 places (28 total unique)
+2026-06-26 18:30:20,113 - V2Scraper - INFO - Total extracted: 28 places
+2026-06-26 18:30:32,964 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/X2oUXyn7fGvGuS50lQCn.webp
+2026-06-26 18:30:32,964 - V2Scraper - INFO - Scraped 28 points for 夜のクラゲは泳げない
+2026-06-26 18:30:34,222 - V2Scraper - INFO -   Saved 28 points
+2026-06-26 18:30:36,224 - V2Scraper - INFO - 
+[147/282] Amagi Brilliant Park (X7iF240giFDBUnldbUVY)
+2026-06-26 18:30:36,224 - V2Scraper - INFO - Scraping: Amagi Brilliant Park -> https://www.animepilgrimage.com/ja/maps/anime/X7iF240giFDBUnldbUVY/amagi-brilliant-park
+2026-06-26 18:30:36,930 - V2Scraper - INFO -   RSC: 10 places (10 total unique)
+2026-06-26 18:30:36,930 - V2Scraper - INFO - Total extracted: 10 places
+2026-06-26 18:30:41,906 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/X7iF240giFDBUnldbUVY.webp
+2026-06-26 18:30:41,906 - V2Scraper - INFO - Scraped 10 points for 甘城ブリリアントパーク
+2026-06-26 18:30:43,161 - V2Scraper - INFO -   Saved 10 points
+2026-06-26 18:30:45,163 - V2Scraper - INFO - 
+[148/282] Chainsaw Man (XVRPGfPRg2w1rhg6LbJq)
+2026-06-26 18:30:45,164 - V2Scraper - INFO - Scraping: Chainsaw Man -> https://www.animepilgrimage.com/ja/maps/anime/XVRPGfPRg2w1rhg6LbJq/chainsaw-man
+2026-06-26 18:30:45,778 - V2Scraper - INFO -   RSC: 4 places (4 total unique)
+2026-06-26 18:30:45,778 - V2Scraper - INFO - Total extracted: 4 places
+2026-06-26 18:30:47,471 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/XVRPGfPRg2w1rhg6LbJq.webp
+2026-06-26 18:30:47,471 - V2Scraper - INFO - Scraped 4 points for チェンソーマン
+2026-06-26 18:30:48,743 - V2Scraper - INFO -   Saved 4 points
+2026-06-26 18:30:50,745 - V2Scraper - INFO - 
+[149/282] Maebashi Witches (XWNFKfeivPqVqZv9aN0M)
+2026-06-26 18:30:50,745 - V2Scraper - INFO - Scraping: Maebashi Witches -> https://www.animepilgrimage.com/ja/maps/anime/XWNFKfeivPqVqZv9aN0M/maebashi-witches
+2026-06-26 18:30:50,951 - V2Scraper - INFO -   RSC: 61 places (61 total unique)
+2026-06-26 18:30:50,951 - V2Scraper - INFO - Total extracted: 61 places
+2026-06-26 18:31:21,343 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/XWNFKfeivPqVqZv9aN0M.webp
+2026-06-26 18:31:21,344 - V2Scraper - INFO - Scraped 61 points for 前橋ウィッチーズ
+2026-06-26 18:31:22,605 - V2Scraper - INFO -   Saved 61 points
+2026-06-26 18:31:24,607 - V2Scraper - INFO - 
+[150/282] Kaguya Sama The First Kiss That Never Ends (XdDmRhPxTsVDwlmnjOqZ)
+2026-06-26 18:31:24,608 - V2Scraper - INFO - Scraping: Kaguya Sama The First Kiss That Never Ends -> https://www.animepilgrimage.com/ja/maps/anime/XdDmRhPxTsVDwlmnjOqZ/kaguya-sama-the-first-kiss-that-never-ends
+2026-06-26 18:31:24,764 - V2Scraper - INFO -   RSC: 7 places (7 total unique)
+2026-06-26 18:31:24,764 - V2Scraper - INFO - Total extracted: 7 places
+2026-06-26 18:31:28,282 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/XdDmRhPxTsVDwlmnjOqZ.webp
+2026-06-26 18:31:28,282 - V2Scraper - INFO - Scraped 7 points for かぐや様は告らせたい ファーストキッスは終わらない
+2026-06-26 18:31:29,545 - V2Scraper - INFO -   Saved 7 points
+2026-06-26 18:31:31,547 - V2Scraper - INFO - 
+[151/282] Chihayafuru (XdJHcqKxg3G3TekN1V8K)
+2026-06-26 18:31:31,547 - V2Scraper - INFO - Scraping: Chihayafuru -> https://www.animepilgrimage.com/ja/maps/anime/XdJHcqKxg3G3TekN1V8K/chihayafuru
+2026-06-26 18:31:31,951 - V2Scraper - INFO -   RSC: 25 places (25 total unique)
+2026-06-26 18:31:31,951 - V2Scraper - INFO - Total extracted: 25 places
+2026-06-26 18:31:44,734 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/XdJHcqKxg3G3TekN1V8K.webp
+2026-06-26 18:31:44,734 - V2Scraper - INFO - Scraped 25 points for ちはやふる
+2026-06-26 18:31:45,997 - V2Scraper - INFO -   Saved 25 points
+2026-06-26 18:31:47,999 - V2Scraper - INFO - 
+[152/282] Rent A Girlfriend 2 (YBki2zmwelxlOa6u2Y2w)
+2026-06-26 18:31:48,000 - V2Scraper - INFO - Scraping: Rent A Girlfriend 2 -> https://www.animepilgrimage.com/ja/maps/anime/YBki2zmwelxlOa6u2Y2w/rent-a-girlfriend-2
+2026-06-26 18:31:48,655 - V2Scraper - INFO -   RSC: 30 places (30 total unique)
+2026-06-26 18:31:48,655 - V2Scraper - INFO - Total extracted: 30 places
+2026-06-26 18:32:00,426 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/YBki2zmwelxlOa6u2Y2w.webp
+2026-06-26 18:32:00,426 - V2Scraper - INFO - Scraped 30 points for 彼女、お借りします 2期
+2026-06-26 18:32:01,728 - V2Scraper - INFO -   Saved 30 points
+2026-06-26 18:32:03,730 - V2Scraper - INFO - 
+[153/282] Bungo Stray Dogs (YCv9qvKperWlZqGCGO9G)
+2026-06-26 18:32:03,731 - V2Scraper - INFO - Scraping: Bungo Stray Dogs -> https://www.animepilgrimage.com/ja/maps/anime/YCv9qvKperWlZqGCGO9G/bungo-stray-dogs
+2026-06-26 18:32:03,914 - V2Scraper - INFO -   RSC: 26 places (26 total unique)
+2026-06-26 18:32:03,914 - V2Scraper - INFO - Total extracted: 26 places
+2026-06-26 18:32:14,556 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/YCv9qvKperWlZqGCGO9G.webp
+2026-06-26 18:32:14,557 - V2Scraper - INFO - Scraped 26 points for 文豪ストレイドッグス
+2026-06-26 18:32:15,871 - V2Scraper - INFO -   Saved 26 points
+2026-06-26 18:32:17,873 - V2Scraper - INFO - 
+[154/282] Oshi No Ko (YKzUE2kxQL1P1ur9nflL)
+2026-06-26 18:32:17,873 - V2Scraper - INFO - Scraping: Oshi No Ko -> https://www.animepilgrimage.com/ja/maps/anime/YKzUE2kxQL1P1ur9nflL/oshi-no-ko
+2026-06-26 18:32:18,527 - V2Scraper - INFO -   RSC: 28 places (28 total unique)
+2026-06-26 18:32:18,527 - V2Scraper - INFO - Total extracted: 28 places
+2026-06-26 18:32:24,717 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/YKzUE2kxQL1P1ur9nflL.webp
+2026-06-26 18:32:24,718 - V2Scraper - INFO - Scraped 28 points for 【推しの子】
+2026-06-26 18:32:26,083 - V2Scraper - INFO -   Saved 28 points
+2026-06-26 18:32:28,084 - V2Scraper - INFO - 
+[155/282] Ruri Rocks (YLZiKMcAArdDWFoFtsY4)
+2026-06-26 18:32:28,084 - V2Scraper - INFO - Scraping: Ruri Rocks -> https://www.animepilgrimage.com/ja/maps/anime/YLZiKMcAArdDWFoFtsY4/ruri-rocks
+2026-06-26 18:32:28,728 - V2Scraper - INFO -   RSC: 9 places (9 total unique)
+2026-06-26 18:32:28,728 - V2Scraper - INFO - Total extracted: 9 places
+2026-06-26 18:32:33,590 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/YLZiKMcAArdDWFoFtsY4.webp
+2026-06-26 18:32:33,591 - V2Scraper - INFO - Scraped 9 points for 瑠璃の宝石
+2026-06-26 18:32:34,893 - V2Scraper - INFO -   Saved 9 points
+2026-06-26 18:32:36,895 - V2Scraper - INFO - 
+[156/282] You And I Are Polar Opposites (YXVReUNqOt4ymGmp6Ymh)
+2026-06-26 18:32:36,895 - V2Scraper - INFO - Scraping: You And I Are Polar Opposites -> https://www.animepilgrimage.com/ja/maps/anime/YXVReUNqOt4ymGmp6Ymh/you-and-i-are-polar-opposites
+2026-06-26 18:32:37,019 - V2Scraper - INFO -   RSC: 44 places (44 total unique)
+2026-06-26 18:32:37,019 - V2Scraper - INFO - Total extracted: 44 places
+2026-06-26 18:32:56,471 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/YXVReUNqOt4ymGmp6Ymh.webp
+2026-06-26 18:32:56,471 - V2Scraper - INFO - Scraped 44 points for 「正反対な君と僕」
+2026-06-26 18:32:57,764 - V2Scraper - INFO -   Saved 44 points
+2026-06-26 18:32:59,767 - V2Scraper - INFO - 
+[157/282] Free (YfZUuOQaiVpbuWXQXNt3)
+2026-06-26 18:32:59,767 - V2Scraper - INFO - Scraping: Free -> https://www.animepilgrimage.com/ja/maps/anime/YfZUuOQaiVpbuWXQXNt3/free
+2026-06-26 18:32:59,902 - V2Scraper - INFO -   RSC: 29 places (29 total unique)
+2026-06-26 18:32:59,903 - V2Scraper - INFO - Total extracted: 29 places
+2026-06-26 18:33:15,235 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/YfZUuOQaiVpbuWXQXNt3.webp
+2026-06-26 18:33:15,235 - V2Scraper - INFO - Scraped 29 points for Free!
+2026-06-26 18:33:16,537 - V2Scraper - INFO -   Saved 29 points
+2026-06-26 18:33:18,539 - V2Scraper - INFO - 
+[158/282] The Ramparts Of Ice (YxP1yJDVqlWieMLbNmlQ)
+2026-06-26 18:33:18,539 - V2Scraper - INFO - Scraping: The Ramparts Of Ice -> https://www.animepilgrimage.com/ja/maps/anime/YxP1yJDVqlWieMLbNmlQ/the-ramparts-of-ice
+2026-06-26 18:33:18,704 - V2Scraper - INFO - Total extracted: 0 places
+2026-06-26 18:33:18,705 - V2Scraper - WARNING - No places found for The Ramparts Of Ice
+2026-06-26 18:33:18,705 - V2Scraper - WARNING -   No data for The Ramparts Of Ice
+2026-06-26 18:33:20,707 - V2Scraper - INFO - 
+[159/282] Steins Gate Movie (ZH0zqKiaPk9CiGpashc9)
+2026-06-26 18:33:20,707 - V2Scraper - INFO - Scraping: Steins Gate Movie -> https://www.animepilgrimage.com/ja/maps/anime/ZH0zqKiaPk9CiGpashc9/steins-gate-movie
+2026-06-26 18:33:21,459 - V2Scraper - INFO -   RSC: 25 places (25 total unique)
+2026-06-26 18:33:21,459 - V2Scraper - INFO - Total extracted: 25 places
+2026-06-26 18:33:30,720 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/ZH0zqKiaPk9CiGpashc9.webp
+2026-06-26 18:33:30,721 - V2Scraper - INFO - Scraped 25 points for Steins;Gate 負荷領域のデジャヴ
+2026-06-26 18:33:32,025 - V2Scraper - INFO -   Saved 25 points
+2026-06-26 18:33:34,028 - V2Scraper - INFO - 
+[160/282] Digimon Adventure (ZUDKPLIyHJa5yQs8fBcs)
+2026-06-26 18:33:34,028 - V2Scraper - INFO - Scraping: Digimon Adventure -> https://www.animepilgrimage.com/ja/maps/anime/ZUDKPLIyHJa5yQs8fBcs/digimon-adventure
+2026-06-26 18:33:34,161 - V2Scraper - INFO -   RSC: 28 places (28 total unique)
+2026-06-26 18:33:34,162 - V2Scraper - INFO - Total extracted: 28 places
+2026-06-26 18:33:43,245 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/ZUDKPLIyHJa5yQs8fBcs.webp
+2026-06-26 18:33:43,245 - V2Scraper - INFO - Scraped 28 points for デジモンアドベンチャー
+2026-06-26 18:33:44,554 - V2Scraper - INFO -   Saved 28 points
+2026-06-26 18:33:46,556 - V2Scraper - INFO - 
+[161/282] Zom 100 (ZqtTUmgvqV5KPwgxSndw)
+2026-06-26 18:33:46,556 - V2Scraper - INFO - Scraping: Zom 100 -> https://www.animepilgrimage.com/ja/maps/anime/ZqtTUmgvqV5KPwgxSndw/zom-100
+2026-06-26 18:33:47,213 - V2Scraper - INFO -   RSC: 20 places (20 total unique)
+2026-06-26 18:33:47,213 - V2Scraper - INFO - Total extracted: 20 places
+2026-06-26 18:33:54,716 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/ZqtTUmgvqV5KPwgxSndw.webp
+2026-06-26 18:33:54,717 - V2Scraper - INFO - Scraped 20 points for ゾン100 ～ゾンビになるまでにしたい100のこと～
+2026-06-26 18:33:56,024 - V2Scraper - INFO -   Saved 20 points
+2026-06-26 18:33:58,026 - V2Scraper - INFO - 
+[162/282] Josee The Tiger And The Fish (aDbXS20p1mWrKQDEVsGp)
+2026-06-26 18:33:58,026 - V2Scraper - INFO - Scraping: Josee The Tiger And The Fish -> https://www.animepilgrimage.com/ja/maps/anime/aDbXS20p1mWrKQDEVsGp/josee-the-tiger-and-the-fish
+2026-06-26 18:33:58,188 - V2Scraper - INFO -   RSC: 50 places (50 total unique)
+2026-06-26 18:33:58,188 - V2Scraper - INFO - Total extracted: 50 places
+2026-06-26 18:34:15,594 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/aDbXS20p1mWrKQDEVsGp.webp
+2026-06-26 18:34:15,595 - V2Scraper - INFO - Scraped 50 points for ジョゼと虎と魚たち
+2026-06-26 18:34:16,901 - V2Scraper - INFO -   Saved 50 points
+2026-06-26 18:34:18,903 - V2Scraper - INFO - 
+[163/282] Yuki Yuna Is A Hero (aP1aVTrFoL1IrIBr5mPu)
+2026-06-26 18:34:18,903 - V2Scraper - INFO - Scraping: Yuki Yuna Is A Hero -> https://www.animepilgrimage.com/ja/maps/anime/aP1aVTrFoL1IrIBr5mPu/yuki-yuna-is-a-hero
+2026-06-26 18:34:19,317 - V2Scraper - INFO -   RSC: 30 places (30 total unique)
+2026-06-26 18:34:19,317 - V2Scraper - INFO - Total extracted: 30 places
+2026-06-26 18:34:35,168 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/aP1aVTrFoL1IrIBr5mPu.webp
+2026-06-26 18:34:35,168 - V2Scraper - INFO - Scraped 30 points for 結城友奈は勇者である
+2026-06-26 18:34:36,466 - V2Scraper - INFO -   Saved 30 points
+2026-06-26 18:34:38,468 - V2Scraper - INFO - 
+[164/282] Fruits Basket 1 (an4vmYqXjc70Pt2uzo7B)
+2026-06-26 18:34:38,468 - V2Scraper - INFO - Scraping: Fruits Basket 1 -> https://www.animepilgrimage.com/ja/maps/anime/an4vmYqXjc70Pt2uzo7B/fruits-basket-1
+2026-06-26 18:34:39,166 - V2Scraper - INFO -   RSC: 35 places (35 total unique)
+2026-06-26 18:34:39,166 - V2Scraper - INFO - Total extracted: 35 places
+2026-06-26 18:34:58,807 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/an4vmYqXjc70Pt2uzo7B.webp
+2026-06-26 18:34:58,807 - V2Scraper - INFO - Scraped 35 points for フルーツバスケット 1st season
+2026-06-26 18:35:00,104 - V2Scraper - INFO -   Saved 35 points
+2026-06-26 18:35:02,106 - V2Scraper - INFO - 
+[165/282] Tougen Anki (asOr7rG7F3lvkRfna2Ll)
+2026-06-26 18:35:02,106 - V2Scraper - INFO - Scraping: Tougen Anki -> https://www.animepilgrimage.com/ja/maps/anime/asOr7rG7F3lvkRfna2Ll/tougen-anki
+2026-06-26 18:35:02,409 - V2Scraper - INFO -   RSC: 18 places (18 total unique)
+2026-06-26 18:35:02,409 - V2Scraper - INFO - Total extracted: 18 places
+2026-06-26 18:35:11,647 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/asOr7rG7F3lvkRfna2Ll.webp
+2026-06-26 18:35:11,647 - V2Scraper - INFO - Scraped 18 points for 桃源暗鬼
+2026-06-26 18:35:12,940 - V2Scraper - INFO -   Saved 18 points
+2026-06-26 18:35:14,943 - V2Scraper - INFO - 
+[166/282] Sound Euphonium 2 (az2BetKCI9giur5x30E0)
+2026-06-26 18:35:14,943 - V2Scraper - INFO - Scraping: Sound Euphonium 2 -> https://www.animepilgrimage.com/ja/maps/anime/az2BetKCI9giur5x30E0/sound-euphonium-2
+2026-06-26 18:35:15,724 - V2Scraper - INFO -   RSC: 33 places (33 total unique)
+2026-06-26 18:35:15,724 - V2Scraper - INFO - Total extracted: 33 places
+2026-06-26 18:35:32,991 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/az2BetKCI9giur5x30E0.webp
+2026-06-26 18:35:32,991 - V2Scraper - INFO - Scraped 33 points for 響け！ユーフォニアム 2
+2026-06-26 18:35:34,286 - V2Scraper - INFO -   Saved 33 points
+2026-06-26 18:35:36,288 - V2Scraper - INFO - 
+[167/282] Those Snow White Notes (bF9RdGQEUVWNJs47GnWL)
+2026-06-26 18:35:36,288 - V2Scraper - INFO - Scraping: Those Snow White Notes -> https://www.animepilgrimage.com/ja/maps/anime/bF9RdGQEUVWNJs47GnWL/those-snow-white-notes
+2026-06-26 18:35:36,967 - V2Scraper - INFO -   RSC: 5 places (5 total unique)
+2026-06-26 18:35:36,967 - V2Scraper - INFO - Total extracted: 5 places
+2026-06-26 18:35:39,791 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/bF9RdGQEUVWNJs47GnWL.webp
+2026-06-26 18:35:39,791 - V2Scraper - INFO - Scraped 5 points for ましろのおと
+2026-06-26 18:35:41,098 - V2Scraper - INFO -   Saved 5 points
+2026-06-26 18:35:43,100 - V2Scraper - INFO - 
+[168/282] Uzaki Chan Wants To Hang Out (bFRLibDIg7vZl0RKsplj)
+2026-06-26 18:35:43,101 - V2Scraper - INFO - Scraping: Uzaki Chan Wants To Hang Out -> https://www.animepilgrimage.com/ja/maps/anime/bFRLibDIg7vZl0RKsplj/uzaki-chan-wants-to-hang-out
+2026-06-26 18:35:43,747 - V2Scraper - INFO -   RSC: 8 places (8 total unique)
+2026-06-26 18:35:43,747 - V2Scraper - INFO - Total extracted: 8 places
+2026-06-26 18:35:47,164 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/bFRLibDIg7vZl0RKsplj.webp
+2026-06-26 18:35:47,164 - V2Scraper - INFO - Scraped 8 points for 宇崎ちゃんは遊びたい！
+2026-06-26 18:35:48,467 - V2Scraper - INFO -   Saved 8 points
+2026-06-26 18:35:50,468 - V2Scraper - INFO - 
+[169/282] Love Chunibyo Other Delusions 2 (bYiMGbhWsrGctQyqWXdr)
+2026-06-26 18:35:50,468 - V2Scraper - INFO - Scraping: Love Chunibyo Other Delusions 2 -> https://www.animepilgrimage.com/ja/maps/anime/bYiMGbhWsrGctQyqWXdr/love-chunibyo-other-delusions-2
+2026-06-26 18:35:50,623 - V2Scraper - INFO -   RSC: 66 places (66 total unique)
+2026-06-26 18:35:50,624 - V2Scraper - INFO - Total extracted: 66 places
+2026-06-26 18:36:17,406 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/bYiMGbhWsrGctQyqWXdr.webp
+2026-06-26 18:36:17,406 - V2Scraper - INFO - Scraped 66 points for 中二病でも恋がしたい！戀
+2026-06-26 18:36:18,708 - V2Scraper - INFO -   Saved 66 points
+2026-06-26 18:36:20,710 - V2Scraper - INFO - 
+[170/282] Initial D Legend 3 (bfmIPuWLk9usCZzBUOgC)
+2026-06-26 18:36:20,710 - V2Scraper - INFO - Scraping: Initial D Legend 3 -> https://www.animepilgrimage.com/ja/maps/anime/bfmIPuWLk9usCZzBUOgC/initial-d-legend-3
+2026-06-26 18:36:21,419 - V2Scraper - INFO -   RSC: 32 places (32 total unique)
+2026-06-26 18:36:21,419 - V2Scraper - INFO - Total extracted: 32 places
+2026-06-26 18:36:38,217 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/bfmIPuWLk9usCZzBUOgC.webp
+2026-06-26 18:36:38,218 - V2Scraper - INFO - Scraped 32 points for 新劇場版「頭文字D」Legend3 夢現
+2026-06-26 18:36:39,532 - V2Scraper - INFO -   Saved 32 points
+2026-06-26 18:36:41,534 - V2Scraper - INFO - 
+[171/282] Love Live 2 (bqcf5pBXd5nYTZrUrMN8)
+2026-06-26 18:36:41,534 - V2Scraper - INFO - Scraping: Love Live 2 -> https://www.animepilgrimage.com/ja/maps/anime/bqcf5pBXd5nYTZrUrMN8/love-live-2
+2026-06-26 18:36:41,675 - V2Scraper - INFO -   RSC: 32 places (32 total unique)
+2026-06-26 18:36:41,675 - V2Scraper - INFO - Total extracted: 32 places
+2026-06-26 18:36:56,690 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/bqcf5pBXd5nYTZrUrMN8.webp
+2026-06-26 18:36:56,690 - V2Scraper - INFO - Scraped 32 points for ラブライブ! 2期
+2026-06-26 18:36:57,991 - V2Scraper - INFO -   Saved 32 points
+2026-06-26 18:36:59,993 - V2Scraper - INFO - 
+[172/282] Oomuro Ke Dear Sisters (cOpLn7qXUh2P78M0fIhs)
+2026-06-26 18:36:59,993 - V2Scraper - INFO - Scraping: Oomuro Ke Dear Sisters -> https://www.animepilgrimage.com/ja/maps/anime/cOpLn7qXUh2P78M0fIhs/oomuro-ke-dear-sisters
+2026-06-26 18:37:00,609 - V2Scraper - INFO -   RSC: 30 places (30 total unique)
+2026-06-26 18:37:00,609 - V2Scraper - INFO - Total extracted: 30 places
+2026-06-26 18:37:19,082 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/cOpLn7qXUh2P78M0fIhs.webp
+2026-06-26 18:37:19,082 - V2Scraper - INFO - Scraped 30 points for 大室家 dear sisters
+2026-06-26 18:37:20,390 - V2Scraper - INFO -   Saved 30 points
+2026-06-26 18:37:22,392 - V2Scraper - INFO - 
+[173/282] Rascal Does Not Dream Of A Sister Venturing Out (dJ4Fiyk6ExLMmNqCnuIL)
+2026-06-26 18:37:22,393 - V2Scraper - INFO - Scraping: Rascal Does Not Dream Of A Sister Venturing Out -> https://www.animepilgrimage.com/ja/maps/anime/dJ4Fiyk6ExLMmNqCnuIL/rascal-does-not-dream-of-a-sister-venturing-out
+2026-06-26 18:37:22,547 - V2Scraper - INFO -   RSC: 18 places (18 total unique)
+2026-06-26 18:37:22,548 - V2Scraper - INFO - Total extracted: 18 places
+2026-06-26 18:37:30,397 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/dJ4Fiyk6ExLMmNqCnuIL.webp
+2026-06-26 18:37:30,398 - V2Scraper - INFO - Scraped 18 points for 青春ブタ野郎はおでかけシスターの夢を見ない
+2026-06-26 18:37:31,703 - V2Scraper - INFO -   Saved 18 points
+2026-06-26 18:37:33,705 - V2Scraper - INFO - 
+[174/282] Elfen Lied (dVXVd9lm3POCaTrhbN8e)
+2026-06-26 18:37:33,705 - V2Scraper - INFO - Scraping: Elfen Lied -> https://www.animepilgrimage.com/ja/maps/anime/dVXVd9lm3POCaTrhbN8e/elfen-lied
+2026-06-26 18:37:33,872 - V2Scraper - INFO -   RSC: 24 places (24 total unique)
+2026-06-26 18:37:33,872 - V2Scraper - INFO - Total extracted: 24 places
+2026-06-26 18:37:45,596 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/dVXVd9lm3POCaTrhbN8e.webp
+2026-06-26 18:37:45,596 - V2Scraper - INFO - Scraped 24 points for エルフェンリート
+2026-06-26 18:37:46,895 - V2Scraper - INFO -   Saved 24 points
+2026-06-26 18:37:48,897 - V2Scraper - INFO - 
+[175/282] Her Blue Sky (dfteHvtxljaQQWkj7Kdy)
+2026-06-26 18:37:48,897 - V2Scraper - INFO - Scraping: Her Blue Sky -> https://www.animepilgrimage.com/ja/maps/anime/dfteHvtxljaQQWkj7Kdy/her-blue-sky
+2026-06-26 18:37:49,263 - V2Scraper - INFO -   RSC: 18 places (18 total unique)
+2026-06-26 18:37:49,263 - V2Scraper - INFO - Total extracted: 18 places
+2026-06-26 18:37:56,341 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/dfteHvtxljaQQWkj7Kdy.webp
+2026-06-26 18:37:56,341 - V2Scraper - INFO - Scraped 18 points for 空の青さを知る人
+2026-06-26 18:37:57,641 - V2Scraper - INFO -   Saved 18 points
+2026-06-26 18:37:59,644 - V2Scraper - INFO - 
+[176/282] Your Name (dmrJFiEnWhEOYhhISwFi)
+2026-06-26 18:37:59,644 - V2Scraper - INFO - Scraping: Your Name -> https://www.animepilgrimage.com/ja/maps/anime/dmrJFiEnWhEOYhhISwFi/your-name
+2026-06-26 18:37:59,758 - V2Scraper - INFO -   RSC: 43 places (43 total unique)
+2026-06-26 18:37:59,758 - V2Scraper - INFO - Total extracted: 43 places
+2026-06-26 18:38:06,730 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/dmrJFiEnWhEOYhhISwFi.webp
+2026-06-26 18:38:06,730 - V2Scraper - INFO - Scraped 43 points for 君の名は。
+2026-06-26 18:38:08,027 - V2Scraper - INFO -   Saved 43 points
+2026-06-26 18:38:10,029 - V2Scraper - INFO - 
+[177/282] Yaiba (e2eUeiRSW5QyEbEOq8k6)
+2026-06-26 18:38:10,029 - V2Scraper - INFO - Scraping: Yaiba -> https://www.animepilgrimage.com/ja/maps/anime/e2eUeiRSW5QyEbEOq8k6/yaiba
+2026-06-26 18:38:10,209 - V2Scraper - INFO -   RSC: 51 places (51 total unique)
+2026-06-26 18:38:10,209 - V2Scraper - INFO - Total extracted: 51 places
+2026-06-26 18:38:30,515 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/e2eUeiRSW5QyEbEOq8k6.webp
+2026-06-26 18:38:30,515 - V2Scraper - INFO - Scraped 51 points for 真･侍伝 YAIBA
+2026-06-26 18:38:31,809 - V2Scraper - INFO -   Saved 51 points
+2026-06-26 18:38:33,811 - V2Scraper - INFO - 
+[178/282] Needy Girl Overdose (e6Jvn7LM2stwCIRdcYoo)
+2026-06-26 18:38:33,811 - V2Scraper - INFO - Scraping: Needy Girl Overdose -> https://www.animepilgrimage.com/ja/maps/anime/e6Jvn7LM2stwCIRdcYoo/needy-girl-overdose
+2026-06-26 18:38:34,483 - V2Scraper - INFO -   RSC: 6 places (6 total unique)
+2026-06-26 18:38:34,483 - V2Scraper - INFO - Total extracted: 6 places
+2026-06-26 18:38:38,193 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/e6Jvn7LM2stwCIRdcYoo.webp
+2026-06-26 18:38:38,194 - V2Scraper - INFO - Scraped 6 points for NEEDY GIRL OVERDOSE
+2026-06-26 18:38:39,491 - V2Scraper - INFO -   Saved 6 points
+2026-06-26 18:38:41,493 - V2Scraper - INFO - 
+[179/282] A Whisker Away (eATSGEuD8XRUlDLY55lV)
+2026-06-26 18:38:41,494 - V2Scraper - INFO - Scraping: A Whisker Away -> https://www.animepilgrimage.com/ja/maps/anime/eATSGEuD8XRUlDLY55lV/a-whisker-away
+2026-06-26 18:38:42,213 - V2Scraper - INFO -   RSC: 33 places (33 total unique)
+2026-06-26 18:38:42,213 - V2Scraper - INFO - Total extracted: 33 places
+2026-06-26 18:38:59,385 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/eATSGEuD8XRUlDLY55lV.webp
+2026-06-26 18:38:59,386 - V2Scraper - INFO - Scraped 33 points for 泣きたい私は猫をかぶる
+2026-06-26 18:39:00,687 - V2Scraper - INFO -   Saved 33 points
+2026-06-26 18:39:02,689 - V2Scraper - INFO - 
+[180/282] Bottom Tier Character Tomozaki (eHyev9i9uF8t1YZFk8B7)
+2026-06-26 18:39:02,689 - V2Scraper - INFO - Scraping: Bottom Tier Character Tomozaki -> https://www.animepilgrimage.com/ja/maps/anime/eHyev9i9uF8t1YZFk8B7/bottom-tier-character-tomozaki
+2026-06-26 18:39:02,835 - V2Scraper - INFO -   RSC: 58 places (58 total unique)
+2026-06-26 18:39:02,835 - V2Scraper - INFO - Total extracted: 58 places
+2026-06-26 18:39:37,308 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/eHyev9i9uF8t1YZFk8B7.webp
+2026-06-26 18:39:37,308 - V2Scraper - INFO - Scraped 58 points for 弱キャラ友崎くん
+2026-06-26 18:39:38,612 - V2Scraper - INFO -   Saved 58 points
+2026-06-26 18:39:40,614 - V2Scraper - INFO - 
+[181/282] Persona 3 (eOFDk1EdVZaxVlVPQHWZ)
+2026-06-26 18:39:40,615 - V2Scraper - INFO - Scraping: Persona 3 -> https://www.animepilgrimage.com/ja/maps/anime/eOFDk1EdVZaxVlVPQHWZ/persona-3
+2026-06-26 18:39:40,766 - V2Scraper - INFO -   RSC: 9 places (9 total unique)
+2026-06-26 18:39:40,767 - V2Scraper - INFO - Total extracted: 9 places
+2026-06-26 18:39:45,519 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/eOFDk1EdVZaxVlVPQHWZ.webp
+2026-06-26 18:39:45,519 - V2Scraper - INFO - Scraped 9 points for 劇場版ペルソナ3
+2026-06-26 18:39:46,814 - V2Scraper - INFO -   Saved 9 points
+2026-06-26 18:39:48,817 - V2Scraper - INFO - 
+[182/282] Witch Watch (eTYFt3lapy3A9mc0TLED)
+2026-06-26 18:39:48,817 - V2Scraper - INFO - Scraping: Witch Watch -> https://www.animepilgrimage.com/ja/maps/anime/eTYFt3lapy3A9mc0TLED/witch-watch
+2026-06-26 18:39:48,955 - V2Scraper - INFO -   RSC: 24 places (24 total unique)
+2026-06-26 18:39:48,955 - V2Scraper - INFO - Total extracted: 24 places
+2026-06-26 18:39:57,399 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/eTYFt3lapy3A9mc0TLED.webp
+2026-06-26 18:39:57,399 - V2Scraper - INFO - Scraped 24 points for ウィッチウォッチ
+2026-06-26 18:39:58,706 - V2Scraper - INFO -   Saved 24 points
+2026-06-26 18:40:00,708 - V2Scraper - INFO - 
+[183/282] Wolf Children (eYYabtope1MjwWUbzTSm)
+2026-06-26 18:40:00,709 - V2Scraper - INFO - Scraping: Wolf Children -> https://www.animepilgrimage.com/ja/maps/anime/eYYabtope1MjwWUbzTSm/wolf-children
+2026-06-26 18:40:01,459 - V2Scraper - INFO -   RSC: 19 places (19 total unique)
+2026-06-26 18:40:01,459 - V2Scraper - INFO - Total extracted: 19 places
+2026-06-26 18:40:10,335 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/eYYabtope1MjwWUbzTSm.webp
+2026-06-26 18:40:10,335 - V2Scraper - INFO - Scraped 19 points for おおかみこどもの雨と雪
+2026-06-26 18:40:11,636 - V2Scraper - INFO -   Saved 19 points
+2026-06-26 18:40:13,639 - V2Scraper - INFO - 
+[184/282] Ocean Waves (elMjTgqvqmXjY2mYsP97)
+2026-06-26 18:40:13,639 - V2Scraper - INFO - Scraping: Ocean Waves -> https://www.animepilgrimage.com/ja/maps/anime/elMjTgqvqmXjY2mYsP97/ocean-waves
+2026-06-26 18:40:14,296 - V2Scraper - INFO -   RSC: 19 places (19 total unique)
+2026-06-26 18:40:14,296 - V2Scraper - INFO - Total extracted: 19 places
+2026-06-26 18:40:27,317 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/elMjTgqvqmXjY2mYsP97.webp
+2026-06-26 18:40:27,317 - V2Scraper - INFO - Scraped 19 points for 海がきこえる
+2026-06-26 18:40:28,615 - V2Scraper - INFO -   Saved 19 points
+2026-06-26 18:40:30,618 - V2Scraper - INFO - 
+[185/282] Tokyo Revengers 2 (f8AAZWCp5tY6ZpCmYqht)
+2026-06-26 18:40:30,618 - V2Scraper - INFO - Scraping: Tokyo Revengers 2 -> https://www.animepilgrimage.com/ja/maps/anime/f8AAZWCp5tY6ZpCmYqht/tokyo-revengers-2
+2026-06-26 18:40:31,028 - V2Scraper - INFO -   RSC: 28 places (28 total unique)
+2026-06-26 18:40:31,028 - V2Scraper - INFO - Total extracted: 28 places
+2026-06-26 18:40:47,960 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/f8AAZWCp5tY6ZpCmYqht.webp
+2026-06-26 18:40:47,960 - V2Scraper - INFO - Scraped 28 points for 東京リベンジャーズ 聖夜決戦編
+2026-06-26 18:40:49,258 - V2Scraper - INFO -   Saved 28 points
+2026-06-26 18:40:51,260 - V2Scraper - INFO - 
+[186/282] Oblivion Battery (fLKThLDZdxneAY7q3XXq)
+2026-06-26 18:40:51,260 - V2Scraper - INFO - Scraping: Oblivion Battery -> https://www.animepilgrimage.com/ja/maps/anime/fLKThLDZdxneAY7q3XXq/oblivion-battery
+2026-06-26 18:40:51,717 - V2Scraper - INFO -   RSC: 22 places (22 total unique)
+2026-06-26 18:40:51,717 - V2Scraper - INFO - Total extracted: 22 places
+2026-06-26 18:41:02,209 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/fLKThLDZdxneAY7q3XXq.webp
+2026-06-26 18:41:02,210 - V2Scraper - INFO - Scraped 22 points for 忘却バッテリー
+2026-06-26 18:41:03,505 - V2Scraper - INFO -   Saved 22 points
+2026-06-26 18:41:05,507 - V2Scraper - INFO - 
+[187/282] Bocchi The Rock (g2gEzS0je4xmz8DFES7D)
+2026-06-26 18:41:05,507 - V2Scraper - INFO - Scraping: Bocchi The Rock -> https://www.animepilgrimage.com/ja/maps/anime/g2gEzS0je4xmz8DFES7D/bocchi-the-rock
+2026-06-26 18:41:05,660 - V2Scraper - INFO -   RSC: 50 places (50 total unique)
+2026-06-26 18:41:05,660 - V2Scraper - INFO - Total extracted: 50 places
+2026-06-26 18:41:22,458 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/g2gEzS0je4xmz8DFES7D.webp
+2026-06-26 18:41:22,459 - V2Scraper - INFO - Scraped 50 points for ぼっち・ざ・ろっく！
+2026-06-26 18:41:23,753 - V2Scraper - INFO -   Saved 50 points
+2026-06-26 18:41:25,755 - V2Scraper - INFO - 
+[188/282] Summer Time Rendering (g9pK7gNqpx18yyjFSqoO)
+2026-06-26 18:41:25,755 - V2Scraper - INFO - Scraping: Summer Time Rendering -> https://www.animepilgrimage.com/ja/maps/anime/g9pK7gNqpx18yyjFSqoO/summer-time-rendering
+2026-06-26 18:41:25,877 - V2Scraper - INFO -   RSC: 9 places (9 total unique)
+2026-06-26 18:41:25,877 - V2Scraper - INFO - Total extracted: 9 places
+2026-06-26 18:41:29,653 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/g9pK7gNqpx18yyjFSqoO.webp
+2026-06-26 18:41:29,654 - V2Scraper - INFO - Scraped 9 points for サマータイムレンダ
+2026-06-26 18:41:30,959 - V2Scraper - INFO -   Saved 9 points
+2026-06-26 18:41:32,961 - V2Scraper - INFO - 
+[189/282] Yuruyuri 3 (gHpRNAYSCHIMongJ2V81)
+2026-06-26 18:41:32,961 - V2Scraper - INFO - Scraping: Yuruyuri 3 -> https://www.animepilgrimage.com/ja/maps/anime/gHpRNAYSCHIMongJ2V81/yuruyuri-3
+2026-06-26 18:41:33,150 - V2Scraper - INFO -   RSC: 65 places (65 total unique)
+2026-06-26 18:41:33,150 - V2Scraper - INFO - Total extracted: 65 places
+2026-06-26 18:42:13,987 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/gHpRNAYSCHIMongJ2V81.webp
+2026-06-26 18:42:13,987 - V2Scraper - INFO - Scraped 65 points for ゆるゆり さん☆ハイ！
+2026-06-26 18:42:15,328 - V2Scraper - INFO -   Saved 65 points
+2026-06-26 18:42:17,330 - V2Scraper - INFO - 
+[190/282] Bang Dream 3 (gVF2NS4J6Yu9j3raEFQ8)
+2026-06-26 18:42:17,330 - V2Scraper - INFO - Scraping: Bang Dream 3 -> https://www.animepilgrimage.com/ja/maps/anime/gVF2NS4J6Yu9j3raEFQ8/bang-dream-3
+2026-06-26 18:42:17,512 - V2Scraper - INFO -   RSC: 22 places (22 total unique)
+2026-06-26 18:42:17,512 - V2Scraper - INFO - Total extracted: 22 places
+2026-06-26 18:42:28,000 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/gVF2NS4J6Yu9j3raEFQ8.webp
+2026-06-26 18:42:28,000 - V2Scraper - INFO - Scraped 22 points for BanG Dream! 3rd Season
+2026-06-26 18:42:29,324 - V2Scraper - INFO -   Saved 22 points
+2026-06-26 18:42:31,327 - V2Scraper - INFO - 
+[191/282] Spirited Away (gfatdW6fL22KIsoTUgDj)
+2026-06-26 18:42:31,327 - V2Scraper - INFO - Scraping: Spirited Away -> https://www.animepilgrimage.com/ja/maps/anime/gfatdW6fL22KIsoTUgDj/spirited-away
+2026-06-26 18:42:31,950 - V2Scraper - INFO -   RSC: 6 places (6 total unique)
+2026-06-26 18:42:31,951 - V2Scraper - INFO - Total extracted: 6 places
+2026-06-26 18:42:34,831 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/gfatdW6fL22KIsoTUgDj.webp
+2026-06-26 18:42:34,831 - V2Scraper - INFO - Scraped 6 points for 千と千尋の神隠し
+2026-06-26 18:42:36,159 - V2Scraper - INFO -   Saved 6 points
+2026-06-26 18:42:38,161 - V2Scraper - INFO - 
+[192/282] The Colors Within (gnhSJEY51xYcpeeuQw0W)
+2026-06-26 18:42:38,161 - V2Scraper - INFO - Scraping: The Colors Within -> https://www.animepilgrimage.com/ja/maps/anime/gnhSJEY51xYcpeeuQw0W/the-colors-within
+2026-06-26 18:42:38,430 - V2Scraper - INFO -   RSC: 19 places (19 total unique)
+2026-06-26 18:42:38,430 - V2Scraper - INFO - Total extracted: 19 places
+2026-06-26 18:42:48,386 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/gnhSJEY51xYcpeeuQw0W.webp
+2026-06-26 18:42:48,386 - V2Scraper - INFO - Scraped 19 points for きみの色
+2026-06-26 18:42:49,704 - V2Scraper - INFO -   Saved 19 points
+2026-06-26 18:42:51,707 - V2Scraper - INFO - 
+[193/282] Oshi No Ko 3 (hXT39kYUcusxwt3QStKh)
+2026-06-26 18:42:51,707 - V2Scraper - INFO - Scraping: Oshi No Ko 3 -> https://www.animepilgrimage.com/ja/maps/anime/hXT39kYUcusxwt3QStKh/oshi-no-ko-3
+2026-06-26 18:42:51,885 - V2Scraper - INFO -   RSC: 36 places (36 total unique)
+2026-06-26 18:42:51,885 - V2Scraper - INFO - Total extracted: 36 places
+2026-06-26 18:43:05,829 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/hXT39kYUcusxwt3QStKh.webp
+2026-06-26 18:43:05,830 - V2Scraper - INFO - Scraped 36 points for 【推しの子】第3期
+2026-06-26 18:43:07,157 - V2Scraper - INFO -   Saved 36 points
+2026-06-26 18:43:09,159 - V2Scraper - INFO - 
+[194/282] Miss Kobayashis Dragon Maid S (hauIqGQ1sDCVeCPDckoq)
+2026-06-26 18:43:09,159 - V2Scraper - INFO - Scraping: Miss Kobayashis Dragon Maid S -> https://www.animepilgrimage.com/ja/maps/anime/hauIqGQ1sDCVeCPDckoq/miss-kobayashis-dragon-maid-s
+2026-06-26 18:43:09,335 - V2Scraper - INFO -   RSC: 42 places (42 total unique)
+2026-06-26 18:43:09,336 - V2Scraper - INFO - Total extracted: 42 places
+2026-06-26 18:43:28,548 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/hauIqGQ1sDCVeCPDckoq.webp
+2026-06-26 18:43:28,548 - V2Scraper - INFO - Scraped 42 points for 小林さんちのメイドラゴン S
+2026-06-26 18:43:29,871 - V2Scraper - INFO -   Saved 42 points
+2026-06-26 18:43:31,873 - V2Scraper - INFO - 
+[195/282] Miss Kobayashis Dragon Maid (hmNbdtY6sluh6dGbGpm3)
+2026-06-26 18:43:31,873 - V2Scraper - INFO - Scraping: Miss Kobayashis Dragon Maid -> https://www.animepilgrimage.com/ja/maps/anime/hmNbdtY6sluh6dGbGpm3/miss-kobayashis-dragon-maid
+2026-06-26 18:43:31,995 - V2Scraper - INFO -   RSC: 38 places (38 total unique)
+2026-06-26 18:43:31,995 - V2Scraper - INFO - Total extracted: 38 places
+2026-06-26 18:43:46,471 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/hmNbdtY6sluh6dGbGpm3.webp
+2026-06-26 18:43:46,471 - V2Scraper - INFO - Scraped 38 points for 小林さんちのメイドラゴン
+2026-06-26 18:43:47,794 - V2Scraper - INFO -   Saved 38 points
+2026-06-26 18:43:49,797 - V2Scraper - INFO - 
+[196/282] The Boy And The Beast (hqPCsA4gKBp9C7fvz7hY)
+2026-06-26 18:43:49,797 - V2Scraper - INFO - Scraping: The Boy And The Beast -> https://www.animepilgrimage.com/ja/maps/anime/hqPCsA4gKBp9C7fvz7hY/the-boy-and-the-beast
+2026-06-26 18:43:50,488 - V2Scraper - INFO -   RSC: 27 places (27 total unique)
+2026-06-26 18:43:50,488 - V2Scraper - INFO - Total extracted: 27 places
+2026-06-26 18:44:01,170 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/hqPCsA4gKBp9C7fvz7hY.webp
+2026-06-26 18:44:01,171 - V2Scraper - INFO - Scraped 27 points for バケモノの子
+2026-06-26 18:44:02,489 - V2Scraper - INFO -   Saved 27 points
+2026-06-26 18:44:04,492 - V2Scraper - INFO - 
+[197/282] Uma Musume Pretty Derby 2 (hsFZfXhfP8gdRz84gTye)
+2026-06-26 18:44:04,492 - V2Scraper - INFO - Scraping: Uma Musume Pretty Derby 2 -> https://www.animepilgrimage.com/ja/maps/anime/hsFZfXhfP8gdRz84gTye/uma-musume-pretty-derby-2
+2026-06-26 18:44:05,193 - V2Scraper - INFO -   RSC: 21 places (21 total unique)
+2026-06-26 18:44:05,193 - V2Scraper - INFO - Total extracted: 21 places
+2026-06-26 18:44:16,034 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/hsFZfXhfP8gdRz84gTye.webp
+2026-06-26 18:44:16,034 - V2Scraper - INFO - Scraped 21 points for ウマ娘 プリティーダービー Season 2
+2026-06-26 18:44:17,376 - V2Scraper - INFO -   Saved 21 points
+2026-06-26 18:44:19,378 - V2Scraper - INFO - 
+[198/282] The Future Diary (hwW14Gkf0CN9vhzRPbYc)
+2026-06-26 18:44:19,378 - V2Scraper - INFO - Scraping: The Future Diary -> https://www.animepilgrimage.com/ja/maps/anime/hwW14Gkf0CN9vhzRPbYc/the-future-diary
+2026-06-26 18:44:20,009 - V2Scraper - INFO -   RSC: 29 places (29 total unique)
+2026-06-26 18:44:20,009 - V2Scraper - INFO - Total extracted: 29 places
+2026-06-26 18:44:32,225 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/hwW14Gkf0CN9vhzRPbYc.webp
+2026-06-26 18:44:32,226 - V2Scraper - INFO - Scraped 29 points for 未来日記
+2026-06-26 18:44:33,544 - V2Scraper - INFO -   Saved 29 points
+2026-06-26 18:44:35,546 - V2Scraper - INFO - 
+[199/282] Yuruyuri 2 (iLiYixvGMH8yz6t05Pq4)
+2026-06-26 18:44:35,546 - V2Scraper - INFO - Scraping: Yuruyuri 2 -> https://www.animepilgrimage.com/ja/maps/anime/iLiYixvGMH8yz6t05Pq4/yuruyuri-2
+2026-06-26 18:44:35,712 - V2Scraper - INFO -   RSC: 18 places (18 total unique)
+2026-06-26 18:44:35,712 - V2Scraper - INFO - Total extracted: 18 places
+2026-06-26 18:44:44,800 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/iLiYixvGMH8yz6t05Pq4.webp
+2026-06-26 18:44:44,800 - V2Scraper - INFO - Scraped 18 points for ゆるゆり♪♪
+2026-06-26 18:44:46,126 - V2Scraper - INFO -   Saved 18 points
+2026-06-26 18:44:48,128 - V2Scraper - INFO - 
+[200/282] Dagashi Kashi (iQWqPKVd1tNdZsl8aRyC)
+2026-06-26 18:44:48,128 - V2Scraper - INFO - Scraping: Dagashi Kashi -> https://www.animepilgrimage.com/ja/maps/anime/iQWqPKVd1tNdZsl8aRyC/dagashi-kashi
+2026-06-26 18:44:48,292 - V2Scraper - INFO -   RSC: 17 places (17 total unique)
+2026-06-26 18:44:48,292 - V2Scraper - INFO - Total extracted: 17 places
+2026-06-26 18:44:56,230 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/iQWqPKVd1tNdZsl8aRyC.webp
+2026-06-26 18:44:56,230 - V2Scraper - INFO - Scraped 17 points for だがしかし
+2026-06-26 18:44:57,552 - V2Scraper - INFO -   Saved 17 points
+2026-06-26 18:44:59,554 - V2Scraper - INFO - 
+[201/282] Digimon Adventure Tri 1 (idAF9GEfrCSbo8Sbhe0Q)
+2026-06-26 18:44:59,554 - V2Scraper - INFO - Scraping: Digimon Adventure Tri 1 -> https://www.animepilgrimage.com/ja/maps/anime/idAF9GEfrCSbo8Sbhe0Q/digimon-adventure-tri-1
+2026-06-26 18:44:59,923 - V2Scraper - INFO -   RSC: 23 places (23 total unique)
+2026-06-26 18:44:59,923 - V2Scraper - INFO - Total extracted: 23 places
+2026-06-26 18:45:09,174 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/idAF9GEfrCSbo8Sbhe0Q.webp
+2026-06-26 18:45:09,174 - V2Scraper - INFO - Scraped 23 points for デジモンアドベンチャー tri. 第1章「再会」
+2026-06-26 18:45:10,495 - V2Scraper - INFO -   Saved 23 points
+2026-06-26 18:45:12,498 - V2Scraper - INFO - 
+[202/282] Kaguya Sama Ultra Romantic (idEzZDys0LEn47JFbEbU)
+2026-06-26 18:45:12,498 - V2Scraper - INFO - Scraping: Kaguya Sama Ultra Romantic -> https://www.animepilgrimage.com/ja/maps/anime/idEzZDys0LEn47JFbEbU/kaguya-sama-ultra-romantic
+2026-06-26 18:45:13,155 - V2Scraper - INFO -   RSC: 7 places (7 total unique)
+2026-06-26 18:45:13,155 - V2Scraper - INFO - Total extracted: 7 places
+2026-06-26 18:45:15,647 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/idEzZDys0LEn47JFbEbU.webp
+2026-06-26 18:45:15,647 - V2Scraper - INFO - Scraped 7 points for かぐや様は告らせたい ウルトラロマンティック
+2026-06-26 18:45:16,962 - V2Scraper - INFO -   Saved 7 points
+2026-06-26 18:45:18,964 - V2Scraper - INFO - 
+[203/282] Grand Blue Dreaming (ioOXlHX29aVhPwnrSHCM)
+2026-06-26 18:45:18,964 - V2Scraper - INFO - Scraping: Grand Blue Dreaming -> https://www.animepilgrimage.com/ja/maps/anime/ioOXlHX29aVhPwnrSHCM/grand-blue-dreaming
+2026-06-26 18:45:19,589 - V2Scraper - INFO -   RSC: 12 places (12 total unique)
+2026-06-26 18:45:19,589 - V2Scraper - INFO - Total extracted: 12 places
+2026-06-26 18:45:23,495 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/ioOXlHX29aVhPwnrSHCM.webp
+2026-06-26 18:45:23,495 - V2Scraper - INFO - Scraped 12 points for ぐらんぶる
+2026-06-26 18:45:24,812 - V2Scraper - INFO -   Saved 12 points
+2026-06-26 18:45:26,814 - V2Scraper - INFO - 
+[204/282] Mono (ioWpeqYHXVrxmoYR2Q4S)
+2026-06-26 18:45:26,814 - V2Scraper - INFO - Scraping: Mono -> https://www.animepilgrimage.com/ja/maps/anime/ioWpeqYHXVrxmoYR2Q4S/mono
+2026-06-26 18:45:27,348 - V2Scraper - INFO -   RSC: 181 places (181 total unique)
+2026-06-26 18:45:27,348 - V2Scraper - INFO - Total extracted: 181 places
+2026-06-26 18:46:56,957 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/ioWpeqYHXVrxmoYR2Q4S.webp
+2026-06-26 18:46:56,957 - V2Scraper - INFO - Scraped 181 points for mono
+2026-06-26 18:46:58,281 - V2Scraper - INFO -   Saved 181 points
+2026-06-26 18:47:00,283 - V2Scraper - INFO - 
+[205/282] The Dangers In My Heart (ixBmE5zoDtYosQdmGw6J)
+2026-06-26 18:47:00,284 - V2Scraper - INFO - Scraping: The Dangers In My Heart -> https://www.animepilgrimage.com/ja/maps/anime/ixBmE5zoDtYosQdmGw6J/the-dangers-in-my-heart
+2026-06-26 18:47:00,438 - V2Scraper - INFO -   RSC: 25 places (25 total unique)
+2026-06-26 18:47:00,439 - V2Scraper - INFO - Total extracted: 25 places
+2026-06-26 18:47:12,062 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/ixBmE5zoDtYosQdmGw6J.webp
+2026-06-26 18:47:12,062 - V2Scraper - INFO - Scraped 25 points for 僕の心のヤバイやつ
+2026-06-26 18:47:13,393 - V2Scraper - INFO -   Saved 25 points
+2026-06-26 18:47:15,395 - V2Scraper - INFO - 
+[206/282] The Girl I Like Forgot Her Glasses (jGaml1L9OKXYk9VQrvPz)
+2026-06-26 18:47:15,395 - V2Scraper - INFO - Scraping: The Girl I Like Forgot Her Glasses -> https://www.animepilgrimage.com/ja/maps/anime/jGaml1L9OKXYk9VQrvPz/the-girl-i-like-forgot-her-glasses
+2026-06-26 18:47:15,597 - V2Scraper - INFO -   RSC: 35 places (35 total unique)
+2026-06-26 18:47:15,597 - V2Scraper - INFO - Total extracted: 35 places
+2026-06-26 18:47:32,725 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/jGaml1L9OKXYk9VQrvPz.webp
+2026-06-26 18:47:32,725 - V2Scraper - INFO - Scraped 35 points for 好きな子がめがねを忘れた
+2026-06-26 18:47:34,049 - V2Scraper - INFO -   Saved 35 points
+2026-06-26 18:47:36,051 - V2Scraper - INFO - 
+[207/282] Tatsuki Fujimoto 17 26 (jI8hvq8XTfmHUScW0hkW)
+2026-06-26 18:47:36,052 - V2Scraper - INFO - Scraping: Tatsuki Fujimoto 17 26 -> https://www.animepilgrimage.com/ja/maps/anime/jI8hvq8XTfmHUScW0hkW/tatsuki-fujimoto-17-26
+2026-06-26 18:47:36,189 - V2Scraper - INFO -   RSC: 3 places (3 total unique)
+2026-06-26 18:47:36,189 - V2Scraper - INFO - Total extracted: 3 places
+2026-06-26 18:47:37,184 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/jI8hvq8XTfmHUScW0hkW.webp
+2026-06-26 18:47:37,184 - V2Scraper - INFO - Scraped 3 points for 藤本タツキ 17-26
+2026-06-26 18:47:38,508 - V2Scraper - INFO -   Saved 3 points
+2026-06-26 18:47:40,510 - V2Scraper - INFO - 
+[208/282] Initial D Legend 1 (jpNvOdNs79m85HRpQLAz)
+2026-06-26 18:47:40,511 - V2Scraper - INFO - Scraping: Initial D Legend 1 -> https://www.animepilgrimage.com/ja/maps/anime/jpNvOdNs79m85HRpQLAz/initial-d-legend-1
+2026-06-26 18:47:40,623 - V2Scraper - INFO -   RSC: 24 places (24 total unique)
+2026-06-26 18:47:40,623 - V2Scraper - INFO - Total extracted: 24 places
+2026-06-26 18:47:51,765 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/jpNvOdNs79m85HRpQLAz.webp
+2026-06-26 18:47:51,765 - V2Scraper - INFO - Scraped 24 points for 新劇場版「頭文字D」Legend1 覚醒
+2026-06-26 18:47:53,110 - V2Scraper - INFO -   Saved 24 points
+2026-06-26 18:47:55,112 - V2Scraper - INFO - 
+[209/282] 25 Dimensional Seduction (jzjmlOooBQ0qHhjdFaAv)
+2026-06-26 18:47:55,112 - V2Scraper - INFO - Scraping: 25 Dimensional Seduction -> https://www.animepilgrimage.com/ja/maps/anime/jzjmlOooBQ0qHhjdFaAv/25-dimensional-seduction
+2026-06-26 18:47:55,241 - V2Scraper - INFO -   RSC: 7 places (7 total unique)
+2026-06-26 18:47:55,241 - V2Scraper - INFO - Total extracted: 7 places
+2026-06-26 18:47:57,432 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/jzjmlOooBQ0qHhjdFaAv.webp
+2026-06-26 18:47:57,433 - V2Scraper - INFO - Scraped 7 points for 2.5次元の誘惑
+2026-06-26 18:47:58,756 - V2Scraper - INFO -   Saved 7 points
+2026-06-26 18:48:00,758 - V2Scraper - INFO - 
+[210/282] Yuruyuri (k91zDE7m93R6TF1I18ZJ)
+2026-06-26 18:48:00,758 - V2Scraper - INFO - Scraping: Yuruyuri -> https://www.animepilgrimage.com/ja/maps/anime/k91zDE7m93R6TF1I18ZJ/yuruyuri
+2026-06-26 18:48:00,897 - V2Scraper - INFO -   RSC: 26 places (26 total unique)
+2026-06-26 18:48:00,897 - V2Scraper - INFO - Total extracted: 26 places
+2026-06-26 18:48:11,984 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/k91zDE7m93R6TF1I18ZJ.webp
+2026-06-26 18:48:11,984 - V2Scraper - INFO - Scraped 26 points for ゆるゆり
+2026-06-26 18:48:13,353 - V2Scraper - INFO -   Saved 26 points
+2026-06-26 18:48:15,355 - V2Scraper - INFO - 
+[211/282] Cosmic Princess Kaguya (kCYfe1hDUEETnFuCzdPR)
+2026-06-26 18:48:15,355 - V2Scraper - INFO - Scraping: Cosmic Princess Kaguya -> https://www.animepilgrimage.com/ja/maps/anime/kCYfe1hDUEETnFuCzdPR/cosmic-princess-kaguya
+2026-06-26 18:48:15,503 - V2Scraper - INFO -   RSC: 27 places (27 total unique)
+2026-06-26 18:48:15,503 - V2Scraper - INFO - Total extracted: 27 places
+2026-06-26 18:48:23,888 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/kCYfe1hDUEETnFuCzdPR.webp
+2026-06-26 18:48:23,888 - V2Scraper - INFO - Scraped 27 points for 超かぐや姫！
+2026-06-26 18:48:25,233 - V2Scraper - INFO -   Saved 27 points
+2026-06-26 18:48:27,236 - V2Scraper - INFO - 
+[212/282] 5 Centimeters Per Second (lC2rLRj6H1qdA3lAth1U)
+2026-06-26 18:48:27,236 - V2Scraper - INFO - Scraping: 5 Centimeters Per Second -> https://www.animepilgrimage.com/ja/maps/anime/lC2rLRj6H1qdA3lAth1U/5-centimeters-per-second
+2026-06-26 18:48:27,625 - V2Scraper - INFO -   RSC: 39 places (39 total unique)
+2026-06-26 18:48:27,625 - V2Scraper - INFO - Total extracted: 39 places
+2026-06-26 18:48:38,287 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/lC2rLRj6H1qdA3lAth1U.webp
+2026-06-26 18:48:38,287 - V2Scraper - INFO - Scraped 39 points for 秒速5センチメートル
+2026-06-26 18:48:39,649 - V2Scraper - INFO -   Saved 39 points
+2026-06-26 18:48:41,652 - V2Scraper - INFO - 
+[213/282] Love Live (lCHlfVBBuWKfP9fIp0LK)
+2026-06-26 18:48:41,652 - V2Scraper - INFO - Scraping: Love Live -> https://www.animepilgrimage.com/ja/maps/anime/lCHlfVBBuWKfP9fIp0LK/love-live
+2026-06-26 18:48:42,025 - V2Scraper - INFO -   RSC: 25 places (25 total unique)
+2026-06-26 18:48:42,025 - V2Scraper - INFO - Total extracted: 25 places
+2026-06-26 18:48:54,807 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/lCHlfVBBuWKfP9fIp0LK.webp
+2026-06-26 18:48:54,807 - V2Scraper - INFO - Scraped 25 points for ラブライブ!
+2026-06-26 18:48:56,162 - V2Scraper - INFO -   Saved 25 points
+2026-06-26 18:48:58,164 - V2Scraper - INFO - 
+[214/282] Food For The Soul (lLRNlBv5PhX1VA137llY)
+2026-06-26 18:48:58,164 - V2Scraper - INFO - Scraping: Food For The Soul -> https://www.animepilgrimage.com/ja/maps/anime/lLRNlBv5PhX1VA137llY/food-for-the-soul
+2026-06-26 18:48:58,326 - V2Scraper - INFO -   RSC: 84 places (84 total unique)
+2026-06-26 18:48:58,326 - V2Scraper - INFO - Total extracted: 84 places
+2026-06-26 18:49:46,268 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/lLRNlBv5PhX1VA137llY.webp
+2026-06-26 18:49:46,268 - V2Scraper - INFO - Scraped 84 points for 日々は過ぎれど飯うまし
+2026-06-26 18:49:47,617 - V2Scraper - INFO -   Saved 84 points
+2026-06-26 18:49:49,619 - V2Scraper - INFO - 
+[215/282] Look Back (lQ3KSrgoTH8ecdJpYrjU)
+2026-06-26 18:49:49,619 - V2Scraper - INFO - Scraping: Look Back -> https://www.animepilgrimage.com/ja/maps/anime/lQ3KSrgoTH8ecdJpYrjU/look-back
+2026-06-26 18:49:49,801 - V2Scraper - INFO -   RSC: 10 places (10 total unique)
+2026-06-26 18:49:49,801 - V2Scraper - INFO - Total extracted: 10 places
+2026-06-26 18:49:54,428 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/lQ3KSrgoTH8ecdJpYrjU.webp
+2026-06-26 18:49:54,428 - V2Scraper - INFO - Scraped 10 points for ルックバック
+2026-06-26 18:49:55,777 - V2Scraper - INFO -   Saved 10 points
+2026-06-26 18:49:57,779 - V2Scraper - INFO - 
+[216/282] The Cat Returns (m6CFZQrjKW65ycCZE0zC)
+2026-06-26 18:49:57,779 - V2Scraper - INFO - Scraping: The Cat Returns -> https://www.animepilgrimage.com/ja/maps/anime/m6CFZQrjKW65ycCZE0zC/the-cat-returns
+2026-06-26 18:49:57,941 - V2Scraper - INFO -   RSC: 4 places (4 total unique)
+2026-06-26 18:49:57,941 - V2Scraper - INFO - Total extracted: 4 places
+2026-06-26 18:50:00,344 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/m6CFZQrjKW65ycCZE0zC.webp
+2026-06-26 18:50:00,344 - V2Scraper - INFO - Scraped 4 points for 猫の恩返し
+2026-06-26 18:50:01,704 - V2Scraper - INFO -   Saved 4 points
+2026-06-26 18:50:03,706 - V2Scraper - INFO - 
+[217/282] Hello World (m9AMAEy8Bg0amLLk0fCq)
+2026-06-26 18:50:03,707 - V2Scraper - INFO - Scraping: Hello World -> https://www.animepilgrimage.com/ja/maps/anime/m9AMAEy8Bg0amLLk0fCq/hello-world
+2026-06-26 18:50:03,854 - V2Scraper - INFO -   RSC: 9 places (9 total unique)
+2026-06-26 18:50:03,854 - V2Scraper - INFO - Total extracted: 9 places
+2026-06-26 18:50:08,009 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/m9AMAEy8Bg0amLLk0fCq.webp
+2026-06-26 18:50:08,010 - V2Scraper - INFO - Scraped 9 points for HELLO WORLD
+2026-06-26 18:50:09,364 - V2Scraper - INFO -   Saved 9 points
+2026-06-26 18:50:11,366 - V2Scraper - INFO - 
+[218/282] Bang Dream 2 (mE5p3IdFgsmfqTwMvwbp)
+2026-06-26 18:50:11,366 - V2Scraper - INFO - Scraping: Bang Dream 2 -> https://www.animepilgrimage.com/ja/maps/anime/mE5p3IdFgsmfqTwMvwbp/bang-dream-2
+2026-06-26 18:50:11,524 - V2Scraper - INFO -   RSC: 31 places (31 total unique)
+2026-06-26 18:50:11,524 - V2Scraper - INFO - Total extracted: 31 places
+2026-06-26 18:50:28,322 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/mE5p3IdFgsmfqTwMvwbp.webp
+2026-06-26 18:50:28,323 - V2Scraper - INFO - Scraped 31 points for BanG Dream! 2nd Season
+2026-06-26 18:50:29,673 - V2Scraper - INFO -   Saved 31 points
+2026-06-26 18:50:31,675 - V2Scraper - INFO - 
+[219/282] Oshi No Ko 2 (mHMf87KlQmLu2SFtbgaw)
+2026-06-26 18:50:31,675 - V2Scraper - INFO - Scraping: Oshi No Ko 2 -> https://www.animepilgrimage.com/ja/maps/anime/mHMf87KlQmLu2SFtbgaw/oshi-no-ko-2
+2026-06-26 18:50:32,004 - V2Scraper - INFO -   RSC: 41 places (41 total unique)
+2026-06-26 18:50:32,004 - V2Scraper - INFO - Total extracted: 41 places
+2026-06-26 18:50:51,361 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/mHMf87KlQmLu2SFtbgaw.webp
+2026-06-26 18:50:51,361 - V2Scraper - INFO - Scraped 41 points for 【推しの子】第2期
+2026-06-26 18:50:52,715 - V2Scraper - INFO -   Saved 41 points
+2026-06-26 18:50:54,717 - V2Scraper - INFO - 
+[220/282] Occultic Nine (mtW7xBzlawzjCvgR7pCQ)
+2026-06-26 18:50:54,718 - V2Scraper - INFO - Scraping: Occultic Nine -> https://www.animepilgrimage.com/ja/maps/anime/mtW7xBzlawzjCvgR7pCQ/occultic-nine
+2026-06-26 18:50:54,872 - V2Scraper - INFO -   RSC: 68 places (68 total unique)
+2026-06-26 18:50:54,873 - V2Scraper - INFO - Total extracted: 68 places
+2026-06-26 18:51:31,746 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/mtW7xBzlawzjCvgR7pCQ.webp
+2026-06-26 18:51:31,746 - V2Scraper - INFO - Scraped 68 points for Occultic;Nine
+2026-06-26 18:51:33,082 - V2Scraper - INFO -   Saved 68 points
+2026-06-26 18:51:35,084 - V2Scraper - INFO - 
+[221/282] Komi Cant Communicate 2 (n3hNkoBAE9Wr2XL65zWD)
+2026-06-26 18:51:35,084 - V2Scraper - INFO - Scraping: Komi Cant Communicate 2 -> https://www.animepilgrimage.com/ja/maps/anime/n3hNkoBAE9Wr2XL65zWD/komi-cant-communicate-2
+2026-06-26 18:51:35,222 - V2Scraper - INFO -   RSC: 8 places (8 total unique)
+2026-06-26 18:51:35,222 - V2Scraper - INFO - Total extracted: 8 places
+2026-06-26 18:51:38,665 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/n3hNkoBAE9Wr2XL65zWD.webp
+2026-06-26 18:51:38,665 - V2Scraper - INFO - Scraped 8 points for 古見さんは、コミュ症です。2
+2026-06-26 18:51:40,003 - V2Scraper - INFO -   Saved 8 points
+2026-06-26 18:51:42,005 - V2Scraper - INFO - 
+[222/282] K On (nDcjBFyJt97tX0kT9a3i)
+2026-06-26 18:51:42,005 - V2Scraper - INFO - Scraping: K On -> https://www.animepilgrimage.com/ja/maps/anime/nDcjBFyJt97tX0kT9a3i/k-on
+2026-06-26 18:51:42,133 - V2Scraper - INFO -   RSC: 21 places (21 total unique)
+2026-06-26 18:51:42,133 - V2Scraper - INFO - Total extracted: 21 places
+2026-06-26 18:51:52,006 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/nDcjBFyJt97tX0kT9a3i.webp
+2026-06-26 18:51:52,007 - V2Scraper - INFO - Scraped 21 points for けいおん!
+2026-06-26 18:51:53,367 - V2Scraper - INFO -   Saved 21 points
+2026-06-26 18:51:55,369 - V2Scraper - INFO - 
+[223/282] This Monster Wants To Eat Me (nIzGnqp4XULg32euiQJb)
+2026-06-26 18:51:55,369 - V2Scraper - INFO - Scraping: This Monster Wants To Eat Me -> https://www.animepilgrimage.com/ja/maps/anime/nIzGnqp4XULg32euiQJb/this-monster-wants-to-eat-me
+2026-06-26 18:51:55,535 - V2Scraper - INFO -   RSC: 20 places (20 total unique)
+2026-06-26 18:51:55,535 - V2Scraper - INFO - Total extracted: 20 places
+2026-06-26 18:52:04,757 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/nIzGnqp4XULg32euiQJb.webp
+2026-06-26 18:52:04,758 - V2Scraper - INFO - Scraped 20 points for 私を喰べたい、ひとでなし
+2026-06-26 18:52:06,091 - V2Scraper - INFO -   Saved 20 points
+2026-06-26 18:52:08,093 - V2Scraper - INFO - 
+[224/282] Odd Taxi In The Woods (nZ0gBZUiXs5uFdPh0WWP)
+2026-06-26 18:52:08,094 - V2Scraper - INFO - Scraping: Odd Taxi In The Woods -> https://www.animepilgrimage.com/ja/maps/anime/nZ0gBZUiXs5uFdPh0WWP/odd-taxi-in-the-woods
+2026-06-26 18:52:08,249 - V2Scraper - INFO -   RSC: 14 places (14 total unique)
+2026-06-26 18:52:08,249 - V2Scraper - INFO - Total extracted: 14 places
+2026-06-26 18:52:15,155 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/nZ0gBZUiXs5uFdPh0WWP.webp
+2026-06-26 18:52:15,155 - V2Scraper - INFO - Scraped 14 points for Odd Taxi: In the Woods
+2026-06-26 18:52:16,484 - V2Scraper - INFO -   Saved 14 points
+2026-06-26 18:52:18,487 - V2Scraper - INFO - 
+[225/282] Fate Strange Fake (nlFMm5beeDxjMv1c7pI0)
+2026-06-26 18:52:18,487 - V2Scraper - INFO - Scraping: Fate Strange Fake -> https://www.animepilgrimage.com/ja/maps/anime/nlFMm5beeDxjMv1c7pI0/fate-strange-fake
+2026-06-26 18:52:18,656 - V2Scraper - INFO -   RSC: 13 places (13 total unique)
+2026-06-26 18:52:18,656 - V2Scraper - INFO - Total extracted: 13 places
+2026-06-26 18:52:23,182 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/nlFMm5beeDxjMv1c7pI0.webp
+2026-06-26 18:52:23,182 - V2Scraper - INFO - Scraped 13 points for Fate/strange Fake
+2026-06-26 18:52:24,515 - V2Scraper - INFO -   Saved 13 points
+2026-06-26 18:52:26,517 - V2Scraper - INFO - 
+[226/282] Teasing Master Takagi San (nuuX3MVLDUkL5Gu82Nn7)
+2026-06-26 18:52:26,517 - V2Scraper - INFO - Scraping: Teasing Master Takagi San -> https://www.animepilgrimage.com/ja/maps/anime/nuuX3MVLDUkL5Gu82Nn7/teasing-master-takagi-san
+2026-06-26 18:52:26,772 - V2Scraper - INFO -   RSC: 9 places (9 total unique)
+2026-06-26 18:52:26,772 - V2Scraper - INFO - Total extracted: 9 places
+2026-06-26 18:52:31,959 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/nuuX3MVLDUkL5Gu82Nn7.webp
+2026-06-26 18:52:31,959 - V2Scraper - INFO - Scraped 9 points for からかい上手の高木さん
+2026-06-26 18:52:33,289 - V2Scraper - INFO -   Saved 9 points
+2026-06-26 18:52:35,291 - V2Scraper - INFO - 
+[227/282] A Silent Voice (o1iBehlCuEJvjTymVXZc)
+2026-06-26 18:52:35,291 - V2Scraper - INFO - Scraping: A Silent Voice -> https://www.animepilgrimage.com/ja/maps/anime/o1iBehlCuEJvjTymVXZc/a-silent-voice
+2026-06-26 18:52:36,393 - V2Scraper - INFO -   RSC: 33 places (33 total unique)
+2026-06-26 18:52:36,393 - V2Scraper - INFO - Total extracted: 33 places
+2026-06-26 18:52:49,291 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/o1iBehlCuEJvjTymVXZc.webp
+2026-06-26 18:52:49,291 - V2Scraper - INFO - Scraped 33 points for 聲の形
+2026-06-26 18:52:50,658 - V2Scraper - INFO -   Saved 33 points
+2026-06-26 18:52:52,660 - V2Scraper - INFO - 
+[228/282] Tamons B Side (o4I6GJfs1wuWmUMwZdjZ)
+2026-06-26 18:52:52,660 - V2Scraper - INFO - Scraping: Tamons B Side -> https://www.animepilgrimage.com/ja/maps/anime/o4I6GJfs1wuWmUMwZdjZ/tamons-b-side
+2026-06-26 18:52:52,817 - V2Scraper - INFO -   RSC: 36 places (36 total unique)
+2026-06-26 18:52:52,817 - V2Scraper - INFO - Total extracted: 36 places
+2026-06-26 18:53:11,612 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/o4I6GJfs1wuWmUMwZdjZ.webp
+2026-06-26 18:53:11,613 - V2Scraper - INFO - Scraped 36 points for 多聞くん今どっち!?
+2026-06-26 18:53:12,966 - V2Scraper - INFO -   Saved 36 points
+2026-06-26 18:53:14,968 - V2Scraper - INFO - 
+[229/282] Jujutsu Kaisen 3 (oZ1ZO0bAf6FpPP7poEve)
+2026-06-26 18:53:14,969 - V2Scraper - INFO - Scraping: Jujutsu Kaisen 3 -> https://www.animepilgrimage.com/ja/maps/anime/oZ1ZO0bAf6FpPP7poEve/jujutsu-kaisen-3
+2026-06-26 18:53:15,105 - V2Scraper - INFO -   RSC: 59 places (59 total unique)
+2026-06-26 18:53:15,105 - V2Scraper - INFO - Total extracted: 59 places
+2026-06-26 18:53:37,316 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/oZ1ZO0bAf6FpPP7poEve.webp
+2026-06-26 18:53:37,316 - V2Scraper - INFO - Scraped 59 points for 呪術廻戦 死滅回遊
+2026-06-26 18:53:38,672 - V2Scraper - INFO -   Saved 59 points
+2026-06-26 18:53:40,674 - V2Scraper - INFO - 
+[230/282] Suzume (owwojmBeyqQxduqOgajN)
+2026-06-26 18:53:40,674 - V2Scraper - INFO - Scraping: Suzume -> https://www.animepilgrimage.com/ja/maps/anime/owwojmBeyqQxduqOgajN/suzume
+2026-06-26 18:53:40,841 - V2Scraper - INFO -   RSC: 35 places (35 total unique)
+2026-06-26 18:53:40,841 - V2Scraper - INFO - Total extracted: 35 places
+2026-06-26 18:53:51,017 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/owwojmBeyqQxduqOgajN.webp
+2026-06-26 18:53:51,017 - V2Scraper - INFO - Scraped 35 points for すずめの戸締まり
+2026-06-26 18:53:52,365 - V2Scraper - INFO -   Saved 35 points
+2026-06-26 18:53:54,367 - V2Scraper - INFO - 
+[231/282] Ya Boy Kongming (p0GIxz7n8zoq1SbFbrQo)
+2026-06-26 18:53:54,367 - V2Scraper - INFO - Scraping: Ya Boy Kongming -> https://www.animepilgrimage.com/ja/maps/anime/p0GIxz7n8zoq1SbFbrQo/ya-boy-kongming
+2026-06-26 18:53:54,968 - V2Scraper - INFO -   RSC: 12 places (12 total unique)
+2026-06-26 18:53:54,968 - V2Scraper - INFO - Total extracted: 12 places
+2026-06-26 18:53:59,288 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/p0GIxz7n8zoq1SbFbrQo.webp
+2026-06-26 18:53:59,288 - V2Scraper - INFO - Scraped 12 points for パリピ孔明
+2026-06-26 18:54:00,645 - V2Scraper - INFO -   Saved 12 points
+2026-06-26 18:54:02,647 - V2Scraper - INFO - 
+[232/282] Bungo Stray Dogs 3 (p8toSNuaJZiLprsI9c16)
+2026-06-26 18:54:02,647 - V2Scraper - INFO - Scraping: Bungo Stray Dogs 3 -> https://www.animepilgrimage.com/ja/maps/anime/p8toSNuaJZiLprsI9c16/bungo-stray-dogs-3
+2026-06-26 18:54:03,301 - V2Scraper - INFO -   RSC: 26 places (26 total unique)
+2026-06-26 18:54:03,301 - V2Scraper - INFO - Total extracted: 26 places
+2026-06-26 18:54:18,234 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/p8toSNuaJZiLprsI9c16.webp
+2026-06-26 18:54:18,234 - V2Scraper - INFO - Scraped 26 points for 文豪ストレイドッグス3
+2026-06-26 18:54:19,593 - V2Scraper - INFO -   Saved 26 points
+2026-06-26 18:54:21,595 - V2Scraper - INFO - 
+[233/282] Fate Zero (pUYxGiC62sTphT2JvNO7)
+2026-06-26 18:54:21,595 - V2Scraper - INFO - Scraping: Fate Zero -> https://www.animepilgrimage.com/ja/maps/anime/pUYxGiC62sTphT2JvNO7/fate-zero
+2026-06-26 18:54:21,732 - V2Scraper - INFO -   RSC: 14 places (14 total unique)
+2026-06-26 18:54:21,732 - V2Scraper - INFO - Total extracted: 14 places
+2026-06-26 18:54:26,466 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/pUYxGiC62sTphT2JvNO7.webp
+2026-06-26 18:54:26,466 - V2Scraper - INFO - Scraped 14 points for Fate/Zero
+2026-06-26 18:54:27,807 - V2Scraper - INFO -   Saved 14 points
+2026-06-26 18:54:29,809 - V2Scraper - INFO - 
+[234/282] My Deer Friend Nokotan (pvWIpj2to4PlwxwvGIDt)
+2026-06-26 18:54:29,809 - V2Scraper - INFO - Scraping: My Deer Friend Nokotan -> https://www.animepilgrimage.com/ja/maps/anime/pvWIpj2to4PlwxwvGIDt/my-deer-friend-nokotan
+2026-06-26 18:54:29,928 - V2Scraper - INFO -   RSC: 29 places (29 total unique)
+2026-06-26 18:54:29,928 - V2Scraper - INFO - Total extracted: 29 places
+2026-06-26 18:54:42,284 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/pvWIpj2to4PlwxwvGIDt.webp
+2026-06-26 18:54:42,284 - V2Scraper - INFO - Scraped 29 points for しかのこのこのここしたんたん
+2026-06-26 18:54:43,642 - V2Scraper - INFO -   Saved 29 points
+2026-06-26 18:54:45,644 - V2Scraper - INFO - 
+[235/282] Shikimoris Not Just A Cutie (pwIwjuNHiexM3H66AQM9)
+2026-06-26 18:54:45,644 - V2Scraper - INFO - Scraping: Shikimoris Not Just A Cutie -> https://www.animepilgrimage.com/ja/maps/anime/pwIwjuNHiexM3H66AQM9/shikimoris-not-just-a-cutie
+2026-06-26 18:54:45,782 - V2Scraper - INFO -   RSC: 14 places (14 total unique)
+2026-06-26 18:54:45,782 - V2Scraper - INFO - Total extracted: 14 places
+2026-06-26 18:54:52,168 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/pwIwjuNHiexM3H66AQM9.webp
+2026-06-26 18:54:52,168 - V2Scraper - INFO - Scraped 14 points for 可愛いだけじゃない式守さん
+2026-06-26 18:54:53,517 - V2Scraper - INFO -   Saved 14 points
+2026-06-26 18:54:55,519 - V2Scraper - INFO - 
+[236/282] Medalist 2 (q1iKwxit2IQ79ehAO6yX)
+2026-06-26 18:54:55,519 - V2Scraper - INFO - Scraping: Medalist 2 -> https://www.animepilgrimage.com/ja/maps/anime/q1iKwxit2IQ79ehAO6yX/medalist-2
+2026-06-26 18:54:55,637 - V2Scraper - INFO -   RSC: 10 places (10 total unique)
+2026-06-26 18:54:55,637 - V2Scraper - INFO - Total extracted: 10 places
+2026-06-26 18:54:59,627 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/q1iKwxit2IQ79ehAO6yX.webp
+2026-06-26 18:54:59,627 - V2Scraper - INFO - Scraped 10 points for メダリスト 2期
+2026-06-26 18:55:00,979 - V2Scraper - INFO -   Saved 10 points
+2026-06-26 18:55:02,980 - V2Scraper - INFO - 
+[237/282] Journal With Witch (qlWdNgADWPSHvlOJbvED)
+2026-06-26 18:55:02,980 - V2Scraper - INFO - Scraping: Journal With Witch -> https://www.animepilgrimage.com/ja/maps/anime/qlWdNgADWPSHvlOJbvED/journal-with-witch
+2026-06-26 18:55:03,635 - V2Scraper - INFO -   RSC: 27 places (27 total unique)
+2026-06-26 18:55:03,635 - V2Scraper - INFO - Total extracted: 27 places
+2026-06-26 18:55:13,955 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/qlWdNgADWPSHvlOJbvED.webp
+2026-06-26 18:55:13,956 - V2Scraper - INFO - Scraped 27 points for 違国日記
+2026-06-26 18:55:15,310 - V2Scraper - INFO -   Saved 27 points
+2026-06-26 18:55:17,312 - V2Scraper - INFO - 
+[238/282] The Anthem Of The Heart (qyzxJ6190Ra8ypsZS2j8)
+2026-06-26 18:55:17,312 - V2Scraper - INFO - Scraping: The Anthem Of The Heart -> https://www.animepilgrimage.com/ja/maps/anime/qyzxJ6190Ra8ypsZS2j8/the-anthem-of-the-heart
+2026-06-26 18:55:17,969 - V2Scraper - INFO -   RSC: 22 places (22 total unique)
+2026-06-26 18:55:17,969 - V2Scraper - INFO - Total extracted: 22 places
+2026-06-26 18:55:27,866 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/qyzxJ6190Ra8ypsZS2j8.webp
+2026-06-26 18:55:27,866 - V2Scraper - INFO - Scraped 22 points for 心が叫びたがってるんだ。
+2026-06-26 18:55:29,216 - V2Scraper - INFO -   Saved 22 points
+2026-06-26 18:55:31,218 - V2Scraper - INFO - 
+[239/282] One Punch Man 3 (rC0dQzDQaWadoKRSENAl)
+2026-06-26 18:55:31,218 - V2Scraper - INFO - Scraping: One Punch Man 3 -> https://www.animepilgrimage.com/ja/maps/anime/rC0dQzDQaWadoKRSENAl/one-punch-man-3
+2026-06-26 18:55:31,567 - V2Scraper - INFO -   RSC: 7 places (7 total unique)
+2026-06-26 18:55:31,567 - V2Scraper - INFO - Total extracted: 7 places
+2026-06-26 18:55:35,950 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/rC0dQzDQaWadoKRSENAl.webp
+2026-06-26 18:55:35,950 - V2Scraper - INFO - Scraped 7 points for ワンパンマン 3期
+2026-06-26 18:55:37,293 - V2Scraper - INFO -   Saved 7 points
+2026-06-26 18:55:39,295 - V2Scraper - INFO - 
+[240/282] Todays Menu For The Emiya Family (rgtPM7QxaNfCUZQHchHW)
+2026-06-26 18:55:39,295 - V2Scraper - INFO - Scraping: Todays Menu For The Emiya Family -> https://www.animepilgrimage.com/ja/maps/anime/rgtPM7QxaNfCUZQHchHW/todays-menu-for-the-emiya-family
+2026-06-26 18:55:39,966 - V2Scraper - INFO -   RSC: 25 places (25 total unique)
+2026-06-26 18:55:39,966 - V2Scraper - INFO - Total extracted: 25 places
+2026-06-26 18:55:53,887 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/rgtPM7QxaNfCUZQHchHW.webp
+2026-06-26 18:55:53,888 - V2Scraper - INFO - Scraped 25 points for 衛宮さんちの今日のごはん
+2026-06-26 18:55:55,237 - V2Scraper - INFO -   Saved 25 points
+2026-06-26 18:55:57,239 - V2Scraper - INFO - 
+[241/282] Re Creators (rv19SKFM4rWzGlXZszn4)
+2026-06-26 18:55:57,239 - V2Scraper - INFO - Scraping: Re Creators -> https://www.animepilgrimage.com/ja/maps/anime/rv19SKFM4rWzGlXZszn4/re-creators
+2026-06-26 18:55:57,649 - V2Scraper - INFO -   RSC: 61 places (61 total unique)
+2026-06-26 18:55:57,649 - V2Scraper - INFO - Total extracted: 61 places
+2026-06-26 18:56:20,507 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/rv19SKFM4rWzGlXZszn4.webp
+2026-06-26 18:56:20,507 - V2Scraper - INFO - Scraped 61 points for Re:CREATORS
+2026-06-26 18:56:21,849 - V2Scraper - INFO -   Saved 61 points
+2026-06-26 18:56:23,852 - V2Scraper - INFO - 
+[242/282] Uma Musume Pretty Derby (sUISPT4kapvVtcddq6yf)
+2026-06-26 18:56:23,852 - V2Scraper - INFO - Scraping: Uma Musume Pretty Derby -> https://www.animepilgrimage.com/ja/maps/anime/sUISPT4kapvVtcddq6yf/uma-musume-pretty-derby
+2026-06-26 18:56:24,456 - V2Scraper - INFO -   RSC: 24 places (24 total unique)
+2026-06-26 18:56:24,456 - V2Scraper - INFO - Total extracted: 24 places
+2026-06-26 18:56:36,564 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/sUISPT4kapvVtcddq6yf.webp
+2026-06-26 18:56:36,565 - V2Scraper - INFO - Scraped 24 points for ウマ娘 プリティーダービー
+2026-06-26 18:56:37,928 - V2Scraper - INFO -   Saved 24 points
+2026-06-26 18:56:39,931 - V2Scraper - INFO - 
+[243/282] Haikyu (sXgYeKOTfssj8ROxSbwR)
+2026-06-26 18:56:39,931 - V2Scraper - INFO - Scraping: Haikyu -> https://www.animepilgrimage.com/ja/maps/anime/sXgYeKOTfssj8ROxSbwR/haikyu
+2026-06-26 18:56:40,085 - V2Scraper - INFO -   RSC: 8 places (8 total unique)
+2026-06-26 18:56:40,085 - V2Scraper - INFO - Total extracted: 8 places
+2026-06-26 18:56:43,442 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/sXgYeKOTfssj8ROxSbwR.webp
+2026-06-26 18:56:43,442 - V2Scraper - INFO - Scraped 8 points for ハイキュー!!
+2026-06-26 18:56:44,809 - V2Scraper - INFO -   Saved 8 points
+2026-06-26 18:56:46,811 - V2Scraper - INFO - 
+[244/282] The Girl Who Leapt Through Time (seGnO0BqP0oOGxXN0gUK)
+2026-06-26 18:56:46,811 - V2Scraper - INFO - Scraping: The Girl Who Leapt Through Time -> https://www.animepilgrimage.com/ja/maps/anime/seGnO0BqP0oOGxXN0gUK/the-girl-who-leapt-through-time
+2026-06-26 18:56:47,501 - V2Scraper - INFO -   RSC: 10 places (10 total unique)
+2026-06-26 18:56:47,501 - V2Scraper - INFO - Total extracted: 10 places
+2026-06-26 18:56:52,063 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/seGnO0BqP0oOGxXN0gUK.webp
+2026-06-26 18:56:52,063 - V2Scraper - INFO - Scraped 10 points for 時をかける少女
+2026-06-26 18:56:53,426 - V2Scraper - INFO -   Saved 10 points
+2026-06-26 18:56:55,428 - V2Scraper - INFO - 
+[245/282] Haruhi 2006 (sqOvtyTGW57hQNbzoXIc)
+2026-06-26 18:56:55,429 - V2Scraper - INFO - Scraping: Haruhi 2006 -> https://www.animepilgrimage.com/ja/maps/anime/sqOvtyTGW57hQNbzoXIc/haruhi-2006
+2026-06-26 18:56:55,577 - V2Scraper - INFO -   RSC: 38 places (38 total unique)
+2026-06-26 18:56:55,577 - V2Scraper - INFO - Total extracted: 38 places
+2026-06-26 18:57:12,584 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/sqOvtyTGW57hQNbzoXIc.webp
+2026-06-26 18:57:12,584 - V2Scraper - INFO - Scraped 38 points for 涼宮ハルヒの憂鬱 2006
+2026-06-26 18:57:13,942 - V2Scraper - INFO -   Saved 38 points
+2026-06-26 18:57:15,944 - V2Scraper - INFO - 
+[246/282] The Ryuos Work Is Never Done (ssdRxaytUOXCnKw1pcuJ)
+2026-06-26 18:57:15,944 - V2Scraper - INFO - Scraping: The Ryuos Work Is Never Done -> https://www.animepilgrimage.com/ja/maps/anime/ssdRxaytUOXCnKw1pcuJ/the-ryuos-work-is-never-done
+2026-06-26 18:57:16,250 - V2Scraper - INFO -   RSC: 23 places (23 total unique)
+2026-06-26 18:57:16,250 - V2Scraper - INFO - Total extracted: 23 places
+2026-06-26 18:57:25,444 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/ssdRxaytUOXCnKw1pcuJ.webp
+2026-06-26 18:57:25,444 - V2Scraper - INFO - Scraped 23 points for りゅうおうのおしごと!
+2026-06-26 18:57:26,797 - V2Scraper - INFO -   Saved 23 points
+2026-06-26 18:57:28,799 - V2Scraper - INFO - 
+[247/282] Makeine (tCBIn1QbnKWmGX9Qzqhb)
+2026-06-26 18:57:28,800 - V2Scraper - INFO - Scraping: Makeine -> https://www.animepilgrimage.com/ja/maps/anime/tCBIn1QbnKWmGX9Qzqhb/makeine
+2026-06-26 18:57:29,090 - V2Scraper - INFO -   RSC: 49 places (49 total unique)
+2026-06-26 18:57:29,090 - V2Scraper - INFO - Total extracted: 49 places
+2026-06-26 18:57:45,117 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/tCBIn1QbnKWmGX9Qzqhb.webp
+2026-06-26 18:57:45,117 - V2Scraper - INFO - Scraped 49 points for 負けヒロインが多すぎる！
+2026-06-26 18:57:46,477 - V2Scraper - INFO -   Saved 49 points
+2026-06-26 18:57:48,480 - V2Scraper - INFO - 
+[248/282] The Quintessential Quintuplets (tiMx5VfV5a62NIXHXaoK)
+2026-06-26 18:57:48,480 - V2Scraper - INFO - Scraping: The Quintessential Quintuplets -> https://www.animepilgrimage.com/ja/maps/anime/tiMx5VfV5a62NIXHXaoK/the-quintessential-quintuplets
+2026-06-26 18:57:48,611 - V2Scraper - INFO -   RSC: 4 places (4 total unique)
+2026-06-26 18:57:48,611 - V2Scraper - INFO - Total extracted: 4 places
+2026-06-26 18:57:48,731 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/tiMx5VfV5a62NIXHXaoK.webp
+2026-06-26 18:57:48,732 - V2Scraper - INFO - Scraped 4 points for 五等分の花嫁
+2026-06-26 18:57:50,101 - V2Scraper - INFO -   Saved 4 points
+2026-06-26 18:57:52,103 - V2Scraper - INFO - 
+[249/282] Otaku Elf (tidwKFuBkmHvw52kmMPD)
+2026-06-26 18:57:52,103 - V2Scraper - INFO - Scraping: Otaku Elf -> https://www.animepilgrimage.com/ja/maps/anime/tidwKFuBkmHvw52kmMPD/otaku-elf
+2026-06-26 18:57:52,302 - V2Scraper - INFO -   RSC: 15 places (15 total unique)
+2026-06-26 18:57:52,302 - V2Scraper - INFO - Total extracted: 15 places
+2026-06-26 18:57:59,494 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/tidwKFuBkmHvw52kmMPD.webp
+2026-06-26 18:57:59,495 - V2Scraper - INFO - Scraped 15 points for 江戸前エルフ
+2026-06-26 18:58:00,851 - V2Scraper - INFO -   Saved 15 points
+2026-06-26 18:58:02,853 - V2Scraper - INFO - 
+[250/282] Rent A Girlfriend 4 (tqahwveOEhWxs1eBy14Q)
+2026-06-26 18:58:02,853 - V2Scraper - INFO - Scraping: Rent A Girlfriend 4 -> https://www.animepilgrimage.com/ja/maps/anime/tqahwveOEhWxs1eBy14Q/rent-a-girlfriend-4
+2026-06-26 18:58:03,015 - V2Scraper - INFO -   RSC: 22 places (22 total unique)
+2026-06-26 18:58:03,015 - V2Scraper - INFO - Total extracted: 22 places
+2026-06-26 18:58:12,882 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/tqahwveOEhWxs1eBy14Q.webp
+2026-06-26 18:58:12,882 - V2Scraper - INFO - Scraped 22 points for 彼女、お借りします 4期
+2026-06-26 18:58:14,240 - V2Scraper - INFO -   Saved 22 points
+2026-06-26 18:58:16,242 - V2Scraper - INFO - 
+[251/282] I Want To Eat Your Pancreas (u8g1xEliRDcoyVAiIV4V)
+2026-06-26 18:58:16,243 - V2Scraper - INFO - Scraping: I Want To Eat Your Pancreas -> https://www.animepilgrimage.com/ja/maps/anime/u8g1xEliRDcoyVAiIV4V/i-want-to-eat-your-pancreas
+2026-06-26 18:58:16,379 - V2Scraper - INFO -   RSC: 18 places (18 total unique)
+2026-06-26 18:58:16,379 - V2Scraper - INFO - Total extracted: 18 places
+2026-06-26 18:58:24,239 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/u8g1xEliRDcoyVAiIV4V.webp
+2026-06-26 18:58:24,239 - V2Scraper - INFO - Scraped 18 points for 君の膵臓をたべたい
+2026-06-26 18:58:25,581 - V2Scraper - INFO -   Saved 18 points
+2026-06-26 18:58:27,584 - V2Scraper - INFO - 
+[252/282] Rascal Does Not Dream Of Bunny Girl Senpai (uNXQN8oaA3SNspSVoc2A)
+2026-06-26 18:58:27,584 - V2Scraper - INFO - Scraping: Rascal Does Not Dream Of Bunny Girl Senpai -> https://www.animepilgrimage.com/ja/maps/anime/uNXQN8oaA3SNspSVoc2A/rascal-does-not-dream-of-bunny-girl-senpai
+2026-06-26 18:58:27,733 - V2Scraper - INFO -   RSC: 56 places (56 total unique)
+2026-06-26 18:58:27,734 - V2Scraper - INFO - Total extracted: 56 places
+2026-06-26 18:58:55,245 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/uNXQN8oaA3SNspSVoc2A.webp
+2026-06-26 18:58:55,245 - V2Scraper - INFO - Scraped 56 points for 青春ブタ野郎はバニーガール先輩の夢を見ない
+2026-06-26 18:58:56,619 - V2Scraper - INFO -   Saved 56 points
+2026-06-26 18:58:58,622 - V2Scraper - INFO - 
+[253/282] Saekano (ud97bNQKguOJBycZicFP)
+2026-06-26 18:58:58,622 - V2Scraper - INFO - Scraping: Saekano -> https://www.animepilgrimage.com/ja/maps/anime/ud97bNQKguOJBycZicFP/saekano
+2026-06-26 18:58:58,774 - V2Scraper - INFO -   RSC: 22 places (22 total unique)
+2026-06-26 18:58:58,774 - V2Scraper - INFO - Total extracted: 22 places
+2026-06-26 18:59:07,525 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/ud97bNQKguOJBycZicFP.webp
+2026-06-26 18:59:07,525 - V2Scraper - INFO - Scraped 22 points for 冴えない彼女の育てかた
+2026-06-26 18:59:08,892 - V2Scraper - INFO -   Saved 22 points
+2026-06-26 18:59:10,895 - V2Scraper - INFO - 
+[254/282] Yuru Camp (uhXFJjbIXDatAdC4MNHj)
+2026-06-26 18:59:10,895 - V2Scraper - INFO - Scraping: Yuru Camp -> https://www.animepilgrimage.com/ja/maps/anime/uhXFJjbIXDatAdC4MNHj/yuru-camp
+2026-06-26 18:59:11,623 - V2Scraper - INFO -   RSC: 52 places (52 total unique)
+2026-06-26 18:59:11,624 - V2Scraper - INFO - Total extracted: 52 places
+2026-06-26 18:59:27,850 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/uhXFJjbIXDatAdC4MNHj.webp
+2026-06-26 18:59:27,850 - V2Scraper - INFO - Scraped 52 points for ゆるキャン△
+2026-06-26 18:59:29,216 - V2Scraper - INFO -   Saved 52 points
+2026-06-26 18:59:31,218 - V2Scraper - INFO - 
+[255/282] Liz And The Blue Bird (umnTfj6nmpKaukejtrbT)
+2026-06-26 18:59:31,218 - V2Scraper - INFO - Scraping: Liz And The Blue Bird -> https://www.animepilgrimage.com/ja/maps/anime/umnTfj6nmpKaukejtrbT/liz-and-the-blue-bird
+2026-06-26 18:59:31,373 - V2Scraper - INFO -   RSC: 3 places (3 total unique)
+2026-06-26 18:59:31,374 - V2Scraper - INFO - Total extracted: 3 places
+2026-06-26 18:59:32,831 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/umnTfj6nmpKaukejtrbT.webp
+2026-06-26 18:59:32,832 - V2Scraper - INFO - Scraped 3 points for リズと青い鳥
+2026-06-26 18:59:34,236 - V2Scraper - INFO -   Saved 3 points
+2026-06-26 18:59:36,239 - V2Scraper - INFO - 
+[256/282] Roshidere (unGiOzgI5kK54nQCTxtm)
+2026-06-26 18:59:36,239 - V2Scraper - INFO - Scraping: Roshidere -> https://www.animepilgrimage.com/ja/maps/anime/unGiOzgI5kK54nQCTxtm/roshidere
+2026-06-26 18:59:36,366 - V2Scraper - INFO -   RSC: 12 places (12 total unique)
+2026-06-26 18:59:36,366 - V2Scraper - INFO - Total extracted: 12 places
+2026-06-26 18:59:36,647 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/unGiOzgI5kK54nQCTxtm.webp
+2026-06-26 18:59:36,648 - V2Scraper - INFO - Scraped 12 points for 時々ボソッとロシア語でデレる隣のアーリャさん
+2026-06-26 18:59:38,042 - V2Scraper - INFO -   Saved 12 points
+2026-06-26 18:59:40,044 - V2Scraper - INFO - 
+[257/282] You Are Ms Servant (uxyUCyjBZrFMfOdbXCMN)
+2026-06-26 18:59:40,044 - V2Scraper - INFO - Scraping: You Are Ms Servant -> https://www.animepilgrimage.com/ja/maps/anime/uxyUCyjBZrFMfOdbXCMN/you-are-ms-servant
+2026-06-26 18:59:40,172 - V2Scraper - INFO -   RSC: 15 places (15 total unique)
+2026-06-26 18:59:40,172 - V2Scraper - INFO - Total extracted: 15 places
+2026-06-26 18:59:46,121 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/uxyUCyjBZrFMfOdbXCMN.webp
+2026-06-26 18:59:46,121 - V2Scraper - INFO - Scraped 15 points for 君は冥土様。
+2026-06-26 18:59:47,508 - V2Scraper - INFO -   Saved 15 points
+2026-06-26 18:59:49,510 - V2Scraper - INFO - 
+[258/282] Saekano 2 (v79L8UZL37LfYiJ5fKEK)
+2026-06-26 18:59:49,510 - V2Scraper - INFO - Scraping: Saekano 2 -> https://www.animepilgrimage.com/ja/maps/anime/v79L8UZL37LfYiJ5fKEK/saekano-2
+2026-06-26 18:59:49,664 - V2Scraper - INFO -   RSC: 26 places (26 total unique)
+2026-06-26 18:59:49,664 - V2Scraper - INFO - Total extracted: 26 places
+2026-06-26 18:59:59,813 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/v79L8UZL37LfYiJ5fKEK.webp
+2026-06-26 18:59:59,813 - V2Scraper - INFO - Scraped 26 points for 冴えない彼女の育てかた♭
+2026-06-26 19:00:01,204 - V2Scraper - INFO -   Saved 26 points
+2026-06-26 19:00:03,206 - V2Scraper - INFO - 
+[259/282] Uma Musume Cinderella Gray 2 (vS5GOKe1V9av8Cxwd5bQ)
+2026-06-26 19:00:03,206 - V2Scraper - INFO - Scraping: Uma Musume Cinderella Gray 2 -> https://www.animepilgrimage.com/ja/maps/anime/vS5GOKe1V9av8Cxwd5bQ/uma-musume-cinderella-gray-2
+2026-06-26 19:00:03,597 - V2Scraper - INFO -   RSC: 22 places (22 total unique)
+2026-06-26 19:00:03,597 - V2Scraper - INFO - Total extracted: 22 places
+2026-06-26 19:00:15,680 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/vS5GOKe1V9av8Cxwd5bQ.webp
+2026-06-26 19:00:15,680 - V2Scraper - INFO - Scraped 22 points for ウマ娘 シンデレラグレイ 第2クール
+2026-06-26 19:00:17,078 - V2Scraper - INFO -   Saved 22 points
+2026-06-26 19:00:19,080 - V2Scraper - INFO - 
+[260/282] Watanare (w0UfKIA3nbV6f8vS4LYc)
+2026-06-26 19:00:19,080 - V2Scraper - INFO - Scraping: Watanare -> https://www.animepilgrimage.com/ja/maps/anime/w0UfKIA3nbV6f8vS4LYc/watanare
+2026-06-26 19:00:19,271 - V2Scraper - INFO -   RSC: 41 places (41 total unique)
+2026-06-26 19:00:19,271 - V2Scraper - INFO - Total extracted: 41 places
+2026-06-26 19:00:38,646 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/w0UfKIA3nbV6f8vS4LYc.webp
+2026-06-26 19:00:38,647 - V2Scraper - INFO - Scraped 41 points for わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）
+2026-06-26 19:00:40,030 - V2Scraper - INFO -   Saved 41 points
+2026-06-26 19:00:42,033 - V2Scraper - INFO - 
+[261/282] Nippon Sangoku (w5KAbfUc7AIQc5Qv4hEM)
+2026-06-26 19:00:42,033 - V2Scraper - INFO - Scraping: Nippon Sangoku -> https://www.animepilgrimage.com/ja/maps/anime/w5KAbfUc7AIQc5Qv4hEM/nippon-sangoku
+2026-06-26 19:00:42,750 - V2Scraper - INFO -   RSC: 42 places (42 total unique)
+2026-06-26 19:00:42,750 - V2Scraper - INFO - Total extracted: 42 places
+2026-06-26 19:00:57,920 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/w5KAbfUc7AIQc5Qv4hEM.webp
+2026-06-26 19:00:57,920 - V2Scraper - INFO - Scraped 42 points for 日本三國
+2026-06-26 19:00:59,300 - V2Scraper - INFO -   Saved 42 points
+2026-06-26 19:01:01,302 - V2Scraper - INFO - 
+[262/282] Dandadan (wGsUljsg7c7MbgdtzDJD)
+2026-06-26 19:01:01,303 - V2Scraper - INFO - Scraping: Dandadan -> https://www.animepilgrimage.com/ja/maps/anime/wGsUljsg7c7MbgdtzDJD/dandadan
+2026-06-26 19:01:01,470 - V2Scraper - INFO -   RSC: 6 places (6 total unique)
+2026-06-26 19:01:01,471 - V2Scraper - INFO - Total extracted: 6 places
+2026-06-26 19:01:04,532 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/wGsUljsg7c7MbgdtzDJD.webp
+2026-06-26 19:01:04,533 - V2Scraper - INFO - Scraped 6 points for ダンダダン
+2026-06-26 19:01:05,920 - V2Scraper - INFO -   Saved 6 points
+2026-06-26 19:01:07,923 - V2Scraper - INFO - 
+[263/282] Non Non Biyori Vacation (wJXvwG078NOgmusJqTU9)
+2026-06-26 19:01:07,923 - V2Scraper - INFO - Scraping: Non Non Biyori Vacation -> https://www.animepilgrimage.com/ja/maps/anime/wJXvwG078NOgmusJqTU9/non-non-biyori-vacation
+2026-06-26 19:01:08,748 - V2Scraper - INFO -   RSC: 18 places (18 total unique)
+2026-06-26 19:01:08,748 - V2Scraper - INFO - Total extracted: 18 places
+2026-06-26 19:01:18,112 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/wJXvwG078NOgmusJqTU9.webp
+2026-06-26 19:01:18,113 - V2Scraper - INFO - Scraped 18 points for 劇場版 のんのんびより ばけーしょん
+2026-06-26 19:01:19,486 - V2Scraper - INFO -   Saved 18 points
+2026-06-26 19:01:21,488 - V2Scraper - INFO - 
+[264/282] Sorairo Utility (wNW5AkQ0ZTo4EW3YGois)
+2026-06-26 19:01:21,488 - V2Scraper - INFO - Scraping: Sorairo Utility -> https://www.animepilgrimage.com/ja/maps/anime/wNW5AkQ0ZTo4EW3YGois/sorairo-utility
+2026-06-26 19:01:21,872 - V2Scraper - INFO -   RSC: 16 places (16 total unique)
+2026-06-26 19:01:21,872 - V2Scraper - INFO - Total extracted: 16 places
+2026-06-26 19:01:26,970 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/wNW5AkQ0ZTo4EW3YGois.webp
+2026-06-26 19:01:26,970 - V2Scraper - INFO - Scraped 16 points for 空色ユーティリティ
+2026-06-26 19:01:28,346 - V2Scraper - INFO -   Saved 16 points
+2026-06-26 19:01:30,348 - V2Scraper - INFO - 
+[265/282] Horimiya (wRJJ3i3avQIUeZ6PL6ej)
+2026-06-26 19:01:30,348 - V2Scraper - INFO - Scraping: Horimiya -> https://www.animepilgrimage.com/ja/maps/anime/wRJJ3i3avQIUeZ6PL6ej/horimiya
+2026-06-26 19:01:30,859 - V2Scraper - INFO -   RSC: 10 places (10 total unique)
+2026-06-26 19:01:30,859 - V2Scraper - INFO - Total extracted: 10 places
+2026-06-26 19:01:35,580 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/wRJJ3i3avQIUeZ6PL6ej.webp
+2026-06-26 19:01:35,580 - V2Scraper - INFO - Scraped 10 points for ホリミヤ
+2026-06-26 19:01:36,953 - V2Scraper - INFO -   Saved 10 points
+2026-06-26 19:01:38,955 - V2Scraper - INFO - 
+[266/282] Yuru Camp Movie (wlQ8Ci60loTyVBZV9Xia)
+2026-06-26 19:01:38,955 - V2Scraper - INFO - Scraping: Yuru Camp Movie -> https://www.animepilgrimage.com/ja/maps/anime/wlQ8Ci60loTyVBZV9Xia/yuru-camp-movie
+2026-06-26 19:01:39,158 - V2Scraper - INFO -   RSC: 34 places (34 total unique)
+2026-06-26 19:01:39,158 - V2Scraper - INFO - Total extracted: 34 places
+2026-06-26 19:01:54,817 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/wlQ8Ci60loTyVBZV9Xia.webp
+2026-06-26 19:01:54,817 - V2Scraper - INFO - Scraped 34 points for 映画 ゆるキャン△
+2026-06-26 19:01:56,191 - V2Scraper - INFO -   Saved 34 points
+2026-06-26 19:01:58,192 - V2Scraper - INFO - 
+[267/282] Jujutsu Kaisen 0 (xYGIxEMWtc0UkKtWbp4R)
+2026-06-26 19:01:58,192 - V2Scraper - INFO - Scraping: Jujutsu Kaisen 0 -> https://www.animepilgrimage.com/ja/maps/anime/xYGIxEMWtc0UkKtWbp4R/jujutsu-kaisen-0
+2026-06-26 19:01:58,321 - V2Scraper - INFO -   RSC: 7 places (7 total unique)
+2026-06-26 19:01:58,321 - V2Scraper - INFO - Total extracted: 7 places
+2026-06-26 19:02:00,975 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/xYGIxEMWtc0UkKtWbp4R.webp
+2026-06-26 19:02:00,975 - V2Scraper - INFO - Scraped 7 points for 劇場版 呪術廻戦 0
+2026-06-26 19:02:02,388 - V2Scraper - INFO -   Saved 7 points
+2026-06-26 19:02:04,390 - V2Scraper - INFO - 
+[268/282] Takopis Original Sin (xfD3SAgNnScPXtkyEpGo)
+2026-06-26 19:02:04,390 - V2Scraper - INFO - Scraping: Takopis Original Sin -> https://www.animepilgrimage.com/ja/maps/anime/xfD3SAgNnScPXtkyEpGo/takopis-original-sin
+2026-06-26 19:02:04,543 - V2Scraper - INFO -   RSC: 12 places (12 total unique)
+2026-06-26 19:02:04,543 - V2Scraper - INFO - Total extracted: 12 places
+2026-06-26 19:02:10,522 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/xfD3SAgNnScPXtkyEpGo.webp
+2026-06-26 19:02:10,522 - V2Scraper - INFO - Scraped 12 points for タコピーの原罪
+2026-06-26 19:02:11,914 - V2Scraper - INFO -   Saved 12 points
+2026-06-26 19:02:13,916 - V2Scraper - INFO - 
+[269/282] Hajime No Ippo Rising (xixXlFp2hrN1lZJu7sSv)
+2026-06-26 19:02:13,916 - V2Scraper - INFO - Scraping: Hajime No Ippo Rising -> https://www.animepilgrimage.com/ja/maps/anime/xixXlFp2hrN1lZJu7sSv/hajime-no-ippo-rising
+2026-06-26 19:02:14,212 - V2Scraper - INFO -   RSC: 9 places (9 total unique)
+2026-06-26 19:02:14,212 - V2Scraper - INFO - Total extracted: 9 places
+2026-06-26 19:02:19,488 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/xixXlFp2hrN1lZJu7sSv.webp
+2026-06-26 19:02:19,488 - V2Scraper - INFO - Scraped 9 points for はじめの一歩 Rising
+2026-06-26 19:02:20,890 - V2Scraper - INFO -   Saved 9 points
+2026-06-26 19:02:22,892 - V2Scraper - INFO - 
+[270/282] A Sign Of Affection (xn1kUG4nAyilfSbaVrmj)
+2026-06-26 19:02:22,892 - V2Scraper - INFO - Scraping: A Sign Of Affection -> https://www.animepilgrimage.com/ja/maps/anime/xn1kUG4nAyilfSbaVrmj/a-sign-of-affection
+2026-06-26 19:02:23,046 - V2Scraper - INFO -   RSC: 40 places (40 total unique)
+2026-06-26 19:02:23,046 - V2Scraper - INFO - Total extracted: 40 places
+2026-06-26 19:02:43,104 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/xn1kUG4nAyilfSbaVrmj.webp
+2026-06-26 19:02:43,104 - V2Scraper - INFO - Scraped 40 points for ゆびさきと恋々
+2026-06-26 19:02:44,497 - V2Scraper - INFO -   Saved 40 points
+2026-06-26 19:02:46,499 - V2Scraper - INFO - 
+[271/282] Nagatoro (xsfrhZD0r2q5twlEitmR)
+2026-06-26 19:02:46,499 - V2Scraper - INFO - Scraping: Nagatoro -> https://www.animepilgrimage.com/ja/maps/anime/xsfrhZD0r2q5twlEitmR/nagatoro
+2026-06-26 19:02:46,678 - V2Scraper - INFO -   RSC: 16 places (16 total unique)
+2026-06-26 19:02:46,678 - V2Scraper - INFO - Total extracted: 16 places
+2026-06-26 19:02:53,519 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/xsfrhZD0r2q5twlEitmR.webp
+2026-06-26 19:02:53,519 - V2Scraper - INFO - Scraped 16 points for イジらないで、長瀞さん
+2026-06-26 19:02:54,913 - V2Scraper - INFO -   Saved 16 points
+2026-06-26 19:02:56,916 - V2Scraper - INFO - 
+[272/282] Sanda (xxMcxs235e04PF89ZQGN)
+2026-06-26 19:02:56,916 - V2Scraper - INFO - Scraping: Sanda -> https://www.animepilgrimage.com/ja/maps/anime/xxMcxs235e04PF89ZQGN/sanda
+2026-06-26 19:02:57,561 - V2Scraper - INFO -   RSC: 4 places (4 total unique)
+2026-06-26 19:02:57,561 - V2Scraper - INFO - Total extracted: 4 places
+2026-06-26 19:02:59,208 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/xxMcxs235e04PF89ZQGN.webp
+2026-06-26 19:02:59,208 - V2Scraper - INFO - Scraped 4 points for SANDA
+2026-06-26 19:03:00,603 - V2Scraper - INFO -   Saved 4 points
+2026-06-26 19:03:02,606 - V2Scraper - INFO - 
+[273/282] One Punch Man (y0TAWlKFt6ENfgTZhPMB)
+2026-06-26 19:03:02,606 - V2Scraper - INFO - Scraping: One Punch Man -> https://www.animepilgrimage.com/ja/maps/anime/y0TAWlKFt6ENfgTZhPMB/one-punch-man
+2026-06-26 19:03:02,719 - V2Scraper - INFO -   RSC: 5 places (5 total unique)
+2026-06-26 19:03:02,719 - V2Scraper - INFO - Total extracted: 5 places
+2026-06-26 19:03:04,567 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/y0TAWlKFt6ENfgTZhPMB.webp
+2026-06-26 19:03:04,567 - V2Scraper - INFO - Scraped 5 points for ワンパンマン
+2026-06-26 19:03:05,963 - V2Scraper - INFO -   Saved 5 points
+2026-06-26 19:03:07,965 - V2Scraper - INFO - 
+[274/282] Okitsura (y5w1zYuadN3Ej0cGsH8F)
+2026-06-26 19:03:07,965 - V2Scraper - INFO - Scraping: Okitsura -> https://www.animepilgrimage.com/ja/maps/anime/y5w1zYuadN3Ej0cGsH8F/okitsura
+2026-06-26 19:03:08,174 - V2Scraper - INFO -   RSC: 46 places (46 total unique)
+2026-06-26 19:03:08,174 - V2Scraper - INFO - Total extracted: 46 places
+2026-06-26 19:03:32,935 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/y5w1zYuadN3Ej0cGsH8F.webp
+2026-06-26 19:03:32,935 - V2Scraper - INFO - Scraped 46 points for 沖縄で好きになった子が方言すぎてツラすぎる
+2026-06-26 19:03:34,315 - V2Scraper - INFO -   Saved 46 points
+2026-06-26 19:03:36,318 - V2Scraper - INFO - 
+[275/282] The Quintessential Quintuplets 2 (yB4LTU7fYemGl2JgldzA)
+2026-06-26 19:03:36,318 - V2Scraper - INFO - Scraping: The Quintessential Quintuplets 2 -> https://www.animepilgrimage.com/ja/maps/anime/yB4LTU7fYemGl2JgldzA/the-quintessential-quintuplets-2
+2026-06-26 19:03:36,461 - V2Scraper - INFO -   RSC: 15 places (15 total unique)
+2026-06-26 19:03:36,461 - V2Scraper - INFO - Total extracted: 15 places
+2026-06-26 19:03:42,325 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/yB4LTU7fYemGl2JgldzA.webp
+2026-06-26 19:03:42,325 - V2Scraper - INFO - Scraped 15 points for 五等分の花嫁∬
+2026-06-26 19:03:43,704 - V2Scraper - INFO -   Saved 15 points
+2026-06-26 19:03:45,707 - V2Scraper - INFO - 
+[276/282] Teasing Master Takagi San The Movie (yqdSgvWKtN6FDr3vxm3H)
+2026-06-26 19:03:45,707 - V2Scraper - INFO - Scraping: Teasing Master Takagi San The Movie -> https://www.animepilgrimage.com/ja/maps/anime/yqdSgvWKtN6FDr3vxm3H/teasing-master-takagi-san-the-movie
+2026-06-26 19:03:45,847 - V2Scraper - INFO -   RSC: 20 places (20 total unique)
+2026-06-26 19:03:45,847 - V2Scraper - INFO - Total extracted: 20 places
+2026-06-26 19:03:54,256 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/yqdSgvWKtN6FDr3vxm3H.webp
+2026-06-26 19:03:54,256 - V2Scraper - INFO - Scraped 20 points for 劇場版 からかい上手の高木さん
+2026-06-26 19:03:55,635 - V2Scraper - INFO -   Saved 20 points
+2026-06-26 19:03:57,638 - V2Scraper - INFO - 
+[277/282] Heavenly Delusion (ywqTqT1hNKINvMHq5TZN)
+2026-06-26 19:03:57,638 - V2Scraper - INFO - Scraping: Heavenly Delusion -> https://www.animepilgrimage.com/ja/maps/anime/ywqTqT1hNKINvMHq5TZN/heavenly-delusion
+2026-06-26 19:03:57,819 - V2Scraper - INFO -   RSC: 30 places (30 total unique)
+2026-06-26 19:03:57,819 - V2Scraper - INFO - Total extracted: 30 places
+2026-06-26 19:04:14,700 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/ywqTqT1hNKINvMHq5TZN.webp
+2026-06-26 19:04:14,701 - V2Scraper - INFO - Scraped 30 points for 天国大魔境
+2026-06-26 19:04:16,079 - V2Scraper - INFO -   Saved 30 points
+2026-06-26 19:04:18,081 - V2Scraper - INFO - 
+[278/282] Rascal Does Not Dream Of A Knapsack Kid (yxxkllavYoNKtdXw1Lez)
+2026-06-26 19:04:18,082 - V2Scraper - INFO - Scraping: Rascal Does Not Dream Of A Knapsack Kid -> https://www.animepilgrimage.com/ja/maps/anime/yxxkllavYoNKtdXw1Lez/rascal-does-not-dream-of-a-knapsack-kid
+2026-06-26 19:04:18,535 - V2Scraper - INFO -   RSC: 23 places (23 total unique)
+2026-06-26 19:04:18,535 - V2Scraper - INFO - Total extracted: 23 places
+2026-06-26 19:04:28,294 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/yxxkllavYoNKtdXw1Lez.webp
+2026-06-26 19:04:28,294 - V2Scraper - INFO - Scraped 23 points for 青春ブタ野郎はランドセルガールの夢を見ない
+2026-06-26 19:04:29,703 - V2Scraper - INFO -   Saved 23 points
+2026-06-26 19:04:31,705 - V2Scraper - INFO - 
+[279/282] Ameku Md Doctor Detective (z30sfzlqpJpiCAeoUi8h)
+2026-06-26 19:04:31,705 - V2Scraper - INFO - Scraping: Ameku Md Doctor Detective -> https://www.animepilgrimage.com/ja/maps/anime/z30sfzlqpJpiCAeoUi8h/ameku-md-doctor-detective
+2026-06-26 19:04:31,882 - V2Scraper - INFO -   RSC: 8 places (8 total unique)
+2026-06-26 19:04:31,882 - V2Scraper - INFO - Total extracted: 8 places
+2026-06-26 19:04:35,638 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/z30sfzlqpJpiCAeoUi8h.webp
+2026-06-26 19:04:35,638 - V2Scraper - INFO - Scraped 8 points for 天久鷹央の推理カルテ
+2026-06-26 19:04:37,037 - V2Scraper - INFO -   Saved 8 points
+2026-06-26 19:04:39,040 - V2Scraper - INFO - 
+[280/282] Love Chunibyo Other Delusions (z7BgNrMdTaMbmYysRMBz)
+2026-06-26 19:04:39,040 - V2Scraper - INFO - Scraping: Love Chunibyo Other Delusions -> https://www.animepilgrimage.com/ja/maps/anime/z7BgNrMdTaMbmYysRMBz/love-chunibyo-other-delusions
+2026-06-26 19:04:39,463 - V2Scraper - INFO -   RSC: 46 places (46 total unique)
+2026-06-26 19:04:39,463 - V2Scraper - INFO - Total extracted: 46 places
+2026-06-26 19:05:00,945 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/z7BgNrMdTaMbmYysRMBz.webp
+2026-06-26 19:05:00,946 - V2Scraper - INFO - Scraped 46 points for 中二病でも恋がしたい!
+2026-06-26 19:05:02,352 - V2Scraper - INFO -   Saved 46 points
+2026-06-26 19:05:04,354 - V2Scraper - INFO - 
+[281/282] Tokyo Ghoul (zWadHN3vlTLoK9u1PXoS)
+2026-06-26 19:05:04,354 - V2Scraper - INFO - Scraping: Tokyo Ghoul -> https://www.animepilgrimage.com/ja/maps/anime/zWadHN3vlTLoK9u1PXoS/tokyo-ghoul
+2026-06-26 19:05:04,513 - V2Scraper - INFO -   RSC: 10 places (10 total unique)
+2026-06-26 19:05:04,513 - V2Scraper - INFO - Total extracted: 10 places
+2026-06-26 19:05:08,629 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/zWadHN3vlTLoK9u1PXoS.webp
+2026-06-26 19:05:08,630 - V2Scraper - INFO - Scraped 10 points for 東京喰種
+2026-06-26 19:05:10,036 - V2Scraper - INFO -   Saved 10 points
+2026-06-26 19:05:12,038 - V2Scraper - INFO - 
+[282/282] Zombie Land Saga (zpeuh4ic4dDDneypMAZp)
+2026-06-26 19:05:12,038 - V2Scraper - INFO - Scraping: Zombie Land Saga -> https://www.animepilgrimage.com/ja/maps/anime/zpeuh4ic4dDDneypMAZp/zombie-land-saga
+2026-06-26 19:05:12,186 - V2Scraper - INFO -   RSC: 21 places (21 total unique)
+2026-06-26 19:05:12,186 - V2Scraper - INFO - Total extracted: 21 places
+2026-06-26 19:05:21,127 - V2Scraper - INFO -   Cover: https://cdn.animepilgrimage.com/anime/zpeuh4ic4dDDneypMAZp.webp
+2026-06-26 19:05:21,127 - V2Scraper - INFO - Scraped 21 points for ゾンビランドサガ
+2026-06-26 19:05:22,530 - V2Scraper - INFO -   Saved 21 points
+2026-06-26 19:05:24,532 - V2Scraper - INFO - 
+--- Fixing zero-coordinate points ---
+2026-06-26 19:05:24,532 - V2Scraper - INFO - Scanning for zero-coordinate points...
+2026-06-26 19:05:24,740 - V2Scraper - INFO - Found 18 anime with zero-coordinate points
+2026-06-26 19:05:24,740 - V2Scraper - INFO - Fetching anime list for URL mapping...
+2026-06-26 19:05:24,740 - V2Scraper - INFO - Fetching anime list from sitemap.xml...
+2026-06-26 19:05:24,807 - V2Scraper - INFO - Sitemap: 282 anime
+2026-06-26 19:05:24,807 - V2Scraper - INFO - Found 282 anime
+2026-06-26 19:05:24,807 - V2Scraper - INFO -   1. Days With My Stepsister (04krYkLnGxdyZnphVjQD)
+2026-06-26 19:05:24,807 - V2Scraper - INFO -   2. Tonikawa (0AvGlAgPpCxpeHIuaJPN)
+2026-06-26 19:05:24,807 - V2Scraper - INFO -   3. Girls Band Cry (0MKV87agZS5NoAaTX6B0)
+2026-06-26 19:05:24,808 - V2Scraper - INFO -   4. Tokyo Revengers (0eav7fRw7FpJyEOwfQKl)
+2026-06-26 19:05:24,808 - V2Scraper - INFO -   5. Jujutsu Kaisen 1 (0krqHxVPwJzgjw4B5AJN)
+2026-06-26 19:05:24,808 - V2Scraper - INFO -   ... and 277 more
+2026-06-26 19:05:24,809 - V2Scraper - INFO - Fixing: 无法访问此网站 (ID 5967)
+2026-06-26 19:05:24,809 - V2Scraper - WARNING -   Could not find '无法访问此网站' on the new site
+2026-06-26 19:05:24,809 - V2Scraper - INFO - Fixing: 違国日記 (ID 6133)
+2026-06-26 19:05:24,809 - V2Scraper - WARNING -   Could not find '違国日記' on the new site
+2026-06-26 19:05:24,809 - V2Scraper - INFO - Fixing: 日本三國 (ID 6182)
+2026-06-26 19:05:24,809 - V2Scraper - WARNING -   Could not find '日本三國' on the new site
+2026-06-26 19:05:24,809 - V2Scraper - INFO - Fixing: クラスで２番目に可愛い女の子と友だちになった (ID 6183)
+2026-06-26 19:05:24,809 - V2Scraper - WARNING -   Could not find 'クラスで２番目に可愛い女の子と友だちになった' on the new site
+2026-06-26 19:05:24,809 - V2Scraper - INFO - Fixing: ３月のライオン 第2シリーズ (ID 6184)
+2026-06-26 19:05:24,809 - V2Scraper - WARNING -   Could not find '３月のライオン 第2シリーズ' on the new site
+2026-06-26 19:05:24,809 - V2Scraper - INFO - Fixing: NEEDY GIRL OVERDOSE (ID 6185)
+2026-06-26 19:05:24,809 - V2Scraper - INFO -   Fetching https://www.animepilgrimage.com/ja/maps/anime/e6Jvn7LM2stwCIRdcYoo/needy-girl-overdose
+2026-06-26 19:05:24,955 - V2Scraper - INFO -   RSC: 6 places (6 total unique)
+2026-06-26 19:05:24,955 - V2Scraper - INFO - Total extracted: 6 places
+2026-06-26 19:05:24,955 - V2Scraper - INFO -   Fixed '秋葉原駅' -> [35.69873, 139.77252]
+2026-06-26 19:05:24,955 - V2Scraper - INFO -   Fixed 'カラオケ館 新・歌舞伎町店' -> [35.69484, 139.70225]
+2026-06-26 19:05:24,955 - V2Scraper - INFO -   Fixed '新宿うな鐵' -> [35.69467, 139.70249]
+2026-06-26 19:05:24,955 - V2Scraper - INFO -   Fixed '焼肉・ホルモン焼幸永 さくら通り店' -> [35.69461, 139.70276]
+2026-06-26 19:05:24,955 - V2Scraper - INFO -   Fixed 'ファミリーマート 新宿東宝ビル前店' -> [35.69461, 139.70229]
+2026-06-26 19:05:24,955 - V2Scraper - INFO -   Fixed '游玄亭 新宿' -> [35.69514, 139.70305]
+2026-06-26 19:05:28,376 - V2Scraper - INFO - Fixing: 呪術廻戦 死滅回遊 (ID 6186)
+2026-06-26 19:05:28,376 - V2Scraper - WARNING -   Could not find '呪術廻戦 死滅回遊' on the new site
+2026-06-26 19:05:28,376 - V2Scraper - INFO - Fixing: 【推しの子】第3期 (ID 6187)
+2026-06-26 19:05:28,376 - V2Scraper - WARNING -   Could not find '【推しの子】第3期' on the new site
+2026-06-26 19:05:28,376 - V2Scraper - INFO - Fixing: 多聞くん今どっち!? (ID 6188)
+2026-06-26 19:05:28,377 - V2Scraper - WARNING -   Could not find '多聞くん今どっち!?' on the new site
+2026-06-26 19:05:28,377 - V2Scraper - INFO - Fixing: 姫様“拷問”の時間です (ID 6189)
+2026-06-26 19:05:28,377 - V2Scraper - WARNING -   Could not find '姫様“拷問”の時間です' on the new site
+2026-06-26 19:05:28,377 - V2Scraper - INFO - Fixing: 呪術廻戦 2期 (ID 6190)
+2026-06-26 19:05:28,377 - V2Scraper - WARNING -   Could not find '呪術廻戦 2期' on the new site
+2026-06-26 19:05:28,377 - V2Scraper - INFO - Fixing: 彼女、お借りします 2期 (ID 6191)
+2026-06-26 19:05:28,377 - V2Scraper - WARNING -   Could not find '彼女、お借りします 2期' on the new site
+2026-06-26 19:05:28,377 - V2Scraper - INFO - Fixing: かぐや様は告らせたい ウルトラロマンティック (ID 6192)
+2026-06-26 19:05:28,377 - V2Scraper - WARNING -   Could not find 'かぐや様は告らせたい ウルトラロマンティック' on the new site
+2026-06-26 19:05:28,377 - V2Scraper - INFO - Fixing: ゾン100 ～ゾンビになるまでにしたい100のこと～ (ID 6193)
+2026-06-26 19:05:28,377 - V2Scraper - WARNING -   Could not find 'ゾン100 ～ゾンビになるまでにしたい100のこと～' on the new site
+2026-06-26 19:05:28,377 - V2Scraper - INFO - Fixing: 劇場版 呪術廻戦 0 (ID 6194)
+2026-06-26 19:05:28,378 - V2Scraper - WARNING -   Could not find '劇場版 呪術廻戦 0' on the new site
+2026-06-26 19:05:28,378 - V2Scraper - INFO - Fixing: 東京喰種 (ID 6195)
+2026-06-26 19:05:28,378 - V2Scraper - WARNING -   Could not find '東京喰種' on the new site
+2026-06-26 19:05:28,378 - V2Scraper - INFO - Fixing: 劇場版 ソードアート・オンライン オーディナル・スケール (ID 6196)
+2026-06-26 19:05:28,378 - V2Scraper - WARNING -   Could not find '劇場版 ソードアート・オンライン オーディナル・スケール' on the new site
+2026-06-26 19:05:28,378 - V2Scraper - INFO - Fixing: 氷の城壁 (ID 6197)
+2026-06-26 19:05:28,378 - V2Scraper - WARNING -   Could not find '氷の城壁' on the new site
+2026-06-26 19:05:28,378 - V2Scraper - INFO - Fixed 6 zero-coordinate points total

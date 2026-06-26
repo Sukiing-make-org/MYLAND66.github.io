@@ -1,0 +1,44 @@
+{
+  "points": [
+    {
+      "id": "6206-1",
+      "name": "羽戸山緑地",
+      "image": "https://image.xinu.ink/pic/data/6206/images/6206-1.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        34.90715,
+        135.81122
+      ]
+    },
+    {
+      "id": "6206-2",
+      "name": "宇治御蔵山郵便局",
+      "image": "https://image.xinu.ink/pic/data/6206/images/6206-2.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        34.93265,
+        135.80374
+      ]
+    },
+    {
+      "id": "6206-3",
+      "name": "六地蔵駅",
+      "image": "https://image.xinu.ink/pic/data/6206/images/6206-3.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        34.93215,
+        135.79352
+      ]
+    },
+    {
+      "id": "6206-4",
+      "name": "東隼上り児童公園",
+      "image": "https://image.xinu.ink/pic/data/6206/images/6206-4.jpg",
+      "ep": "OTHERS",
+      "geo": [
+        34.90616,
+        135.80987
+      ]
+    }
+  ]
+}

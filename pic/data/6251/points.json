@@ -1,0 +1,284 @@
+{
+  "points": [
+    {
+      "id": "6251-1",
+      "name": "桜井警察署 御杖駐在所",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-1.jpg",
+      "ep": "OP",
+      "geo": [
+        34.49306,
+        136.17173
+      ]
+    },
+    {
+      "id": "6251-2",
+      "name": "三木里駅",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-2.jpg",
+      "ep": "ED",
+      "geo": [
+        34.00144,
+        136.20235
+      ]
+    },
+    {
+      "id": "6251-3",
+      "name": "三木里ビーチ",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-3.jpg",
+      "ep": "ED",
+      "geo": [
+        34.00123,
+        136.21439
+      ]
+    },
+    {
+      "id": "6251-4",
+      "name": "三木里ビーチ",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-4.jpg",
+      "ep": "ED",
+      "geo": [
+        34.00167,
+        136.21357
+      ]
+    },
+    {
+      "id": "6251-5",
+      "name": "三木里ビーチ",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-5.jpg",
+      "ep": "ED",
+      "geo": [
+        34.00115,
+        136.21392
+      ]
+    },
+    {
+      "id": "6251-6",
+      "name": "阪口商店",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-6.jpg",
+      "ep": "1",
+      "geo": [
+        34.50986,
+        136.19983
+      ]
+    },
+    {
+      "id": "6251-7",
+      "name": "辻本商店",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-7.jpg",
+      "ep": "1",
+      "geo": [
+        34.50247,
+        136.19358
+      ]
+    },
+    {
+      "id": "6251-8",
+      "name": "「伊勢本街道」の碑",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-8.jpg",
+      "ep": "1",
+      "geo": [
+        34.50666,
+        136.20023
+      ]
+    },
+    {
+      "id": "6251-9",
+      "name": "万代 名張店",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-9.jpg",
+      "ep": "1",
+      "geo": [
+        34.61208,
+        136.08928
+      ]
+    },
+    {
+      "id": "6251-10",
+      "name": "桜井警察署 御杖駐在所",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-10.jpg",
+      "ep": "1",
+      "geo": [
+        34.4927,
+        136.17188
+      ]
+    },
+    {
+      "id": "6251-11",
+      "name": "イオン久居店",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-11.jpg",
+      "ep": "2",
+      "geo": [
+        34.6828,
+        136.46406
+      ]
+    },
+    {
+      "id": "6251-12",
+      "name": "敷津集会所",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-12.jpg",
+      "ep": "3",
+      "geo": [
+        34.50912,
+        136.20335
+      ]
+    },
+    {
+      "id": "6251-13",
+      "name": "サイゼリヤ 久居インターガーデン店",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-13.jpg",
+      "ep": "3",
+      "geo": [
+        34.68346,
+        136.46551
+      ]
+    },
+    {
+      "id": "6251-14",
+      "name": "セブン-イレブン 津市久居駅前店",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-14.jpg",
+      "ep": "4",
+      "geo": [
+        34.67458,
+        136.47587
+      ]
+    },
+    {
+      "id": "6251-15",
+      "name": "市営久居駅 東口駐車場",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-15.jpg",
+      "ep": "4",
+      "geo": [
+        34.67424,
+        136.47694
+      ]
+    },
+    {
+      "id": "6251-16",
+      "name": "御杖神社",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-16.jpg",
+      "ep": "4",
+      "geo": [
+        34.49413,
+        136.19478
+      ]
+    },
+    {
+      "id": "6251-17",
+      "name": "御杖神社",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-17.jpg",
+      "ep": "4",
+      "geo": [
+        34.49455,
+        136.19488
+      ]
+    },
+    {
+      "id": "6251-18",
+      "name": "御杖村森林組合間伐材加工センター 牛峠工場",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-18.jpg",
+      "ep": "6",
+      "geo": [
+        34.49572,
+        136.18969
+      ]
+    },
+    {
+      "id": "6251-19",
+      "name": "久居駅",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-19.jpg",
+      "ep": "7",
+      "geo": [
+        34.67611,
+        136.4783
+      ]
+    },
+    {
+      "id": "6251-20",
+      "name": "住友電装 津製作所",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-20.jpg",
+      "ep": "7",
+      "geo": [
+        34.64872,
+        136.48052
+      ]
+    },
+    {
+      "id": "6251-21",
+      "name": "杉並区立成田図書館",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-21.jpg",
+      "ep": "8",
+      "geo": [
+        35.6951,
+        139.63729
+      ]
+    },
+    {
+      "id": "6251-22",
+      "name": "丸山公園",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-22.jpg",
+      "ep": "8",
+      "geo": [
+        34.51007,
+        136.2129
+      ]
+    },
+    {
+      "id": "6251-23",
+      "name": "月見岩",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-23.jpg",
+      "ep": "8",
+      "geo": [
+        34.51056,
+        136.20693
+      ]
+    },
+    {
+      "id": "6251-24",
+      "name": "和田堀公園調節池",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-24.jpg",
+      "ep": "9",
+      "geo": [
+        35.68869,
+        139.64492
+      ]
+    },
+    {
+      "id": "6251-25",
+      "name": "松ノ木中央公園",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-25.jpg",
+      "ep": "9",
+      "geo": [
+        35.69101,
+        139.64354
+      ]
+    },
+    {
+      "id": "6251-26",
+      "name": "喜多自然山野草園",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-26.jpg",
+      "ep": "11",
+      "geo": [
+        34.50571,
+        136.19989
+      ]
+    },
+    {
+      "id": "6251-27",
+      "name": "ぶんてん お食事処・弁当配達",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-27.jpg",
+      "ep": "12",
+      "geo": [
+        34.62438,
+        136.3158
+      ]
+    },
+    {
+      "id": "6251-28",
+      "name": "美杉リゾート ホテル アネックス",
+      "image": "https://image.xinu.ink/pic/data/6251/images/6251-28.jpg",
+      "ep": "12",
+      "geo": [
+        34.55941,
+        136.26844
+      ]
+    }
+  ]
+}

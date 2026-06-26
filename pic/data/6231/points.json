@@ -1,0 +1,504 @@
+{
+  "points": [
+    {
+      "id": "6231-1",
+      "name": "浄智寺",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-1.jpg",
+      "ep": "OP",
+      "geo": [
+        35.33339,
+        139.54665
+      ]
+    },
+    {
+      "id": "6231-2",
+      "name": "鎌倉高校前駅",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-2.jpg",
+      "ep": "OP",
+      "geo": [
+        35.30672,
+        139.50036
+      ]
+    },
+    {
+      "id": "6231-3",
+      "name": "ローソン 鎌倉坂ノ下店",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-3.jpg",
+      "ep": "OP",
+      "geo": [
+        35.30872,
+        139.53393
+      ]
+    },
+    {
+      "id": "6231-4",
+      "name": "ラ・バスティード・シュール・ラ・メール",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-4.jpg",
+      "ep": "OP",
+      "geo": [
+        35.30666,
+        139.49965
+      ]
+    },
+    {
+      "id": "6231-5",
+      "name": "島の茶屋あぶらや",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.29905,
+        139.47553
+      ]
+    },
+    {
+      "id": "6231-6",
+      "name": "江之島亭",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-6.jpg",
+      "ep": "1",
+      "geo": [
+        35.29962,
+        139.47718
+      ]
+    },
+    {
+      "id": "6231-7",
+      "name": "展望台広場ウッドデッキ",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-7.jpg",
+      "ep": "1",
+      "geo": [
+        35.29939,
+        139.48076
+      ]
+    },
+    {
+      "id": "6231-8",
+      "name": "江ノ島郵便局",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-8.jpg",
+      "ep": "1",
+      "geo": [
+        35.30158,
+        139.48076
+      ]
+    },
+    {
+      "id": "6231-9",
+      "name": "七里ガ浜二丁目公園",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-9.jpg",
+      "ep": "1",
+      "geo": [
+        35.3072,
+        139.50508
+      ]
+    },
+    {
+      "id": "6231-10",
+      "name": "（有）中島生花店 江の島店",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-10.jpg",
+      "ep": "1",
+      "geo": [
+        35.31251,
+        139.48769
+      ]
+    },
+    {
+      "id": "6231-11",
+      "name": "セブンマイルズクラブ",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-11.jpg",
+      "ep": "1",
+      "geo": [
+        35.30697,
+        139.50425
+      ]
+    },
+    {
+      "id": "6231-12",
+      "name": "しまカフェ 江のまる",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-12.jpg",
+      "ep": "1",
+      "geo": [
+        35.29922,
+        139.47878
+      ]
+    },
+    {
+      "id": "6231-13",
+      "name": "花神楽 パンダ焼き",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-13.jpg",
+      "ep": "1",
+      "geo": [
+        35.31913,
+        139.55007
+      ]
+    },
+    {
+      "id": "6231-14",
+      "name": "鎌倉駅旧駅舎時計台",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-14.jpg",
+      "ep": "1",
+      "geo": [
+        35.31931,
+        139.55
+      ]
+    },
+    {
+      "id": "6231-15",
+      "name": "浄智寺総門",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-15.jpg",
+      "ep": "2",
+      "geo": [
+        35.33395,
+        139.54734
+      ]
+    },
+    {
+      "id": "6231-16",
+      "name": "鐘楼門",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-16.jpg",
+      "ep": "2",
+      "geo": [
+        35.33347,
+        139.54703
+      ]
+    },
+    {
+      "id": "6231-17",
+      "name": "神奈川県立音楽堂",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-17.jpg",
+      "ep": "2",
+      "geo": [
+        35.45257,
+        139.62614
+      ]
+    },
+    {
+      "id": "6231-18",
+      "name": "江の島大橋・江の島弁天橋",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-18.jpg",
+      "ep": "3",
+      "geo": [
+        35.304,
+        139.48197
+      ]
+    },
+    {
+      "id": "6231-19",
+      "name": "腰越ラッコ公園",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-19.jpg",
+      "ep": "3",
+      "geo": [
+        35.3068,
+        139.50254
+      ]
+    },
+    {
+      "id": "6231-20",
+      "name": "鎌倉高校前",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-20.jpg",
+      "ep": "3",
+      "geo": [
+        35.30663,
+        139.50211
+      ]
+    },
+    {
+      "id": "6231-21",
+      "name": "湘南江の島駅",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-21.jpg",
+      "ep": "3",
+      "geo": [
+        35.31191,
+        139.48797
+      ]
+    },
+    {
+      "id": "6231-22",
+      "name": "海の家 笹岡亭",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-22.jpg",
+      "ep": "3",
+      "geo": [
+        35.30815,
+        139.4877
+      ]
+    },
+    {
+      "id": "6231-23",
+      "name": "長田写真工房",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-23.jpg",
+      "ep": "4",
+      "geo": [
+        35.31309,
+        139.48769
+      ]
+    },
+    {
+      "id": "6231-24",
+      "name": "（有）かねはち米店",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-24.jpg",
+      "ep": "4",
+      "geo": [
+        35.31208,
+        139.48756
+      ]
+    },
+    {
+      "id": "6231-25",
+      "name": "潮音",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-25.jpg",
+      "ep": "4",
+      "geo": [
+        35.30576,
+        139.48305
+      ]
+    },
+    {
+      "id": "6231-26",
+      "name": "海の家OLIVE",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-26.jpg",
+      "ep": "4",
+      "geo": [
+        35.30708,
+        139.48574
+      ]
+    },
+    {
+      "id": "6231-27",
+      "name": "所沢市民体育館",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-27.jpg",
+      "ep": "5",
+      "geo": [
+        35.81024,
+        139.46284
+      ]
+    },
+    {
+      "id": "6231-28",
+      "name": "海の家ちょっとヨットビーチハウス湘南江ノ島",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-28.jpg",
+      "ep": "5",
+      "geo": [
+        35.30752,
+        139.48578
+      ]
+    },
+    {
+      "id": "6231-29",
+      "name": "江ノ島サマリーナ",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-29.jpg",
+      "ep": "5",
+      "geo": [
+        35.30739,
+        139.4851
+      ]
+    },
+    {
+      "id": "6231-30",
+      "name": "稚児ヶ淵",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-30.jpg",
+      "ep": "6",
+      "geo": [
+        35.29878,
+        139.47498
+      ]
+    },
+    {
+      "id": "6231-31",
+      "name": "クルージングモーターボート乗り場",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-31.jpg",
+      "ep": "6",
+      "geo": [
+        35.30639,
+        139.48308
+      ]
+    },
+    {
+      "id": "6231-32",
+      "name": "MAHALO 江ノ島店",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-32.jpg",
+      "ep": "6",
+      "geo": [
+        35.30782,
+        139.48658
+      ]
+    },
+    {
+      "id": "6231-33",
+      "name": "湘南海鮮 座々丸",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-33.jpg",
+      "ep": "7",
+      "geo": [
+        35.30092,
+        139.4825
+      ]
+    },
+    {
+      "id": "6231-34",
+      "name": "白旗神社",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-34.jpg",
+      "ep": "7",
+      "geo": [
+        35.32483,
+        139.55672
+      ]
+    },
+    {
+      "id": "6231-35",
+      "name": "目白山（バス）",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-35.jpg",
+      "ep": "8",
+      "geo": [
+        35.31512,
+        139.49335
+      ]
+    },
+    {
+      "id": "6231-36",
+      "name": "長楽寺跡",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-36.jpg",
+      "ep": "8",
+      "geo": [
+        35.31487,
+        139.53936
+      ]
+    },
+    {
+      "id": "6231-37",
+      "name": "鎌倉文学館",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-37.jpg",
+      "ep": "8",
+      "geo": [
+        35.31551,
+        139.53887
+      ]
+    },
+    {
+      "id": "6231-38",
+      "name": "鎌倉市立御成小学校旧講堂",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-38.jpg",
+      "ep": "8",
+      "geo": [
+        35.31799,
+        139.54795
+      ]
+    },
+    {
+      "id": "6231-39",
+      "name": "ニクログ 江の島 Meat Cafe\\u0026Bar NIQLOG",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-39.jpg",
+      "ep": "10",
+      "geo": [
+        35.31131,
+        139.48791
+      ]
+    },
+    {
+      "id": "6231-40",
+      "name": "GALLERY AAA",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-40.jpg",
+      "ep": "10",
+      "geo": [
+        35.3118,
+        139.48742
+      ]
+    },
+    {
+      "id": "6231-41",
+      "name": "麺屋酒場 盛盛",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-41.jpg",
+      "ep": "10",
+      "geo": [
+        35.31228,
+        139.48766
+      ]
+    },
+    {
+      "id": "6231-42",
+      "name": "高橋豆腐店",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-42.jpg",
+      "ep": "10",
+      "geo": [
+        35.3154,
+        139.48494
+      ]
+    },
+    {
+      "id": "6231-43",
+      "name": "Sango Katase Guest Rooms",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-43.jpg",
+      "ep": "10",
+      "geo": [
+        35.31403,
+        139.48441
+      ]
+    },
+    {
+      "id": "6231-44",
+      "name": "Enoshima Apartment Hotel",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-44.jpg",
+      "ep": "10",
+      "geo": [
+        35.31153,
+        139.48822
+      ]
+    },
+    {
+      "id": "6231-45",
+      "name": "高橋内科クリニック",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-45.jpg",
+      "ep": "10",
+      "geo": [
+        35.31094,
+        139.48962
+      ]
+    },
+    {
+      "id": "6231-46",
+      "name": "龍口会館",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-46.jpg",
+      "ep": "10",
+      "geo": [
+        35.31096,
+        139.48998
+      ]
+    },
+    {
+      "id": "6231-47",
+      "name": "石名坂環境事業所",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-47.jpg",
+      "ep": "12",
+      "geo": [
+        35.35022,
+        139.46937
+      ]
+    },
+    {
+      "id": "6231-48",
+      "name": "片瀬東浜海水浴場",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-48.jpg",
+      "ep": "12",
+      "geo": [
+        35.30765,
+        139.48727
+      ]
+    },
+    {
+      "id": "6231-49",
+      "name": "銭洗白龍王",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-49.jpg",
+      "ep": "13",
+      "geo": [
+        35.30032,
+        139.47983
+      ]
+    },
+    {
+      "id": "6231-50",
+      "name": "成田国際空港",
+      "image": "https://image.xinu.ink/pic/data/6231/images/6231-50.jpg",
+      "ep": "13",
+      "geo": [
+        35.76349,
+        140.38574
+      ]
+    }
+  ]
+}

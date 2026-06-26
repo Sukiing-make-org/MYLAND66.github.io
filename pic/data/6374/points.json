@@ -1,0 +1,64 @@
+{
+  "points": [
+    {
+      "id": "6374-1",
+      "name": "秋葉原駅",
+      "image": "https://image.xinu.ink/pic/data/6374/images/6374-1.jpg",
+      "ep": "OP1",
+      "geo": [
+        35.69873,
+        139.77252
+      ]
+    },
+    {
+      "id": "6374-2",
+      "name": "カラオケ館 新・歌舞伎町店",
+      "image": "https://image.xinu.ink/pic/data/6374/images/6374-2.jpg",
+      "ep": "1",
+      "geo": [
+        35.69484,
+        139.70225
+      ]
+    },
+    {
+      "id": "6374-3",
+      "name": "新宿うな鐵",
+      "image": "https://image.xinu.ink/pic/data/6374/images/6374-3.jpg",
+      "ep": "1",
+      "geo": [
+        35.69467,
+        139.70249
+      ]
+    },
+    {
+      "id": "6374-4",
+      "name": "焼肉・ホルモン焼幸永 さくら通り店",
+      "image": "https://image.xinu.ink/pic/data/6374/images/6374-4.jpg",
+      "ep": "1",
+      "geo": [
+        35.69461,
+        139.70276
+      ]
+    },
+    {
+      "id": "6374-5",
+      "name": "ファミリーマート 新宿東宝ビル前店",
+      "image": "https://image.xinu.ink/pic/data/6374/images/6374-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.69461,
+        139.70229
+      ]
+    },
+    {
+      "id": "6374-6",
+      "name": "游玄亭 新宿",
+      "image": "https://image.xinu.ink/pic/data/6374/images/6374-6.jpg",
+      "ep": "1",
+      "geo": [
+        35.69514,
+        139.70305
+      ]
+    }
+  ]
+}

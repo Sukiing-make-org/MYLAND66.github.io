@@ -1,0 +1,404 @@
+{
+  "points": [
+    {
+      "id": "6466-1",
+      "name": "同志社大学",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-1.jpg",
+      "ep": "OP1",
+      "geo": [
+        35.03056,
+        135.75945
+      ]
+    },
+    {
+      "id": "6466-2",
+      "name": "同志社大学",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-2.jpg",
+      "ep": "OP1",
+      "geo": [
+        35.02984,
+        135.75946
+      ]
+    },
+    {
+      "id": "6466-3",
+      "name": "南与野駅",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-3.jpg",
+      "ep": "OP1",
+      "geo": [
+        35.86757,
+        139.63112
+      ]
+    },
+    {
+      "id": "6466-4",
+      "name": "ロッキンロビン 大須店",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-4.jpg",
+      "ep": "OP1",
+      "geo": [
+        35.15789,
+        136.90452
+      ]
+    },
+    {
+      "id": "6466-5",
+      "name": "浦和駅東口（バス）",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.85794,
+        139.65893
+      ]
+    },
+    {
+      "id": "6466-6",
+      "name": "タリーズコーヒー 浦和さくら草通り店",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-6.jpg",
+      "ep": "1",
+      "geo": [
+        35.85781,
+        139.65395
+      ]
+    },
+    {
+      "id": "6466-7",
+      "name": "同志社大学",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-7.jpg",
+      "ep": "1",
+      "geo": [
+        35.03008,
+        135.75989
+      ]
+    },
+    {
+      "id": "6466-8",
+      "name": "明花公園",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-8.jpg",
+      "ep": "1",
+      "geo": [
+        35.85462,
+        139.69314
+      ]
+    },
+    {
+      "id": "6466-9",
+      "name": "薬 マツモトキヨシ matsukiyoLAB 浦和高砂店",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-9.jpg",
+      "ep": "1",
+      "geo": [
+        35.85804,
+        139.6539
+      ]
+    },
+    {
+      "id": "6466-10",
+      "name": "モナミ",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-10.jpg",
+      "ep": "1",
+      "geo": [
+        35.02983,
+        135.75925
+      ]
+    },
+    {
+      "id": "6466-11",
+      "name": "南与野駅",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-11.jpg",
+      "ep": "2",
+      "geo": [
+        35.86816,
+        139.63105
+      ]
+    },
+    {
+      "id": "6466-12",
+      "name": "鈴谷東公園",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-12.jpg",
+      "ep": "2",
+      "geo": [
+        35.86822,
+        139.63124
+      ]
+    },
+    {
+      "id": "6466-13",
+      "name": "エコロパーク 南与野第1駐車場",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-13.jpg",
+      "ep": "2",
+      "geo": [
+        35.86566,
+        139.63193
+      ]
+    },
+    {
+      "id": "6466-14",
+      "name": "レガリス高円寺",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-14.jpg",
+      "ep": "2",
+      "geo": [
+        35.70982,
+        139.65399
+      ]
+    },
+    {
+      "id": "6466-15",
+      "name": "まいばすけっと 高円寺大和陸橋店",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-15.jpg",
+      "ep": "2",
+      "geo": [
+        35.70986,
+        139.65434
+      ]
+    },
+    {
+      "id": "6466-16",
+      "name": "大谷口 氷川神社",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-16.jpg",
+      "ep": "3",
+      "geo": [
+        35.85763,
+        139.69304
+      ]
+    },
+    {
+      "id": "6466-17",
+      "name": "カフェ・ベローチェ 浦和さくら草通り店",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-17.jpg",
+      "ep": "4",
+      "geo": [
+        35.85805,
+        139.65428
+      ]
+    },
+    {
+      "id": "6466-18",
+      "name": "タウンハウジング 浦和店",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-18.jpg",
+      "ep": "4",
+      "geo": [
+        35.85809,
+        139.65452
+      ]
+    },
+    {
+      "id": "6466-19",
+      "name": "On Hair",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-19.jpg",
+      "ep": "4",
+      "geo": [
+        35.14829,
+        136.83355
+      ]
+    },
+    {
+      "id": "6466-20",
+      "name": "江戸前がってん寿司 浦和西口店",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-20.jpg",
+      "ep": "4",
+      "geo": [
+        35.85803,
+        139.65431
+      ]
+    },
+    {
+      "id": "6466-21",
+      "name": "北浦和駅",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-21.jpg",
+      "ep": "4",
+      "geo": [
+        35.87216,
+        139.6462
+      ]
+    },
+    {
+      "id": "6466-22",
+      "name": "コストコホールセール 新三郷倉庫店",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-22.jpg",
+      "ep": "4",
+      "geo": [
+        35.86048,
+        139.86444
+      ]
+    },
+    {
+      "id": "6466-23",
+      "name": "コストコホールセール 新三郷倉庫店",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-23.jpg",
+      "ep": "4",
+      "geo": [
+        35.86165,
+        139.86527
+      ]
+    },
+    {
+      "id": "6466-24",
+      "name": "前地1丁目第二公園",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-24.jpg",
+      "ep": "6",
+      "geo": [
+        35.85474,
+        139.66685
+      ]
+    },
+    {
+      "id": "6466-25",
+      "name": "ケーキ屋 カシュカシュ 埼玉",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-25.jpg",
+      "ep": "6",
+      "geo": [
+        35.86844,
+        139.63218
+      ]
+    },
+    {
+      "id": "6466-26",
+      "name": "同志社大学",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-26.jpg",
+      "ep": "8",
+      "geo": [
+        35.03037,
+        135.76022
+      ]
+    },
+    {
+      "id": "6466-27",
+      "name": "ノジマ 浦和パルコ店",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-27.jpg",
+      "ep": "9",
+      "geo": [
+        35.85868,
+        139.65896
+      ]
+    },
+    {
+      "id": "6466-28",
+      "name": "マルエツ 武蔵浦和店",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-28.jpg",
+      "ep": "9",
+      "geo": [
+        35.8457,
+        139.64696
+      ]
+    },
+    {
+      "id": "6466-29",
+      "name": "イタリアンダイニングDONA 武蔵浦和店",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-29.jpg",
+      "ep": "9",
+      "geo": [
+        35.84545,
+        139.64713
+      ]
+    },
+    {
+      "id": "6466-30",
+      "name": "ロッキンロビン 大須店",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-30.jpg",
+      "ep": "10",
+      "geo": [
+        35.15785,
+        136.90458
+      ]
+    },
+    {
+      "id": "6466-31",
+      "name": "グランブルー",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-31.jpg",
+      "ep": "11",
+      "geo": [
+        35.13545,
+        136.87024
+      ]
+    },
+    {
+      "id": "6466-32",
+      "name": "立ち呑み モルガン",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-32.jpg",
+      "ep": "11",
+      "geo": [
+        35.85818,
+        139.65498
+      ]
+    },
+    {
+      "id": "6466-33",
+      "name": "ベルク さいたま南与野店",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-33.jpg",
+      "ep": "11",
+      "geo": [
+        35.86885,
+        139.62897
+      ]
+    },
+    {
+      "id": "6466-34",
+      "name": "トキワビル",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-34.jpg",
+      "ep": "11",
+      "geo": [
+        35.8683,
+        139.64601
+      ]
+    },
+    {
+      "id": "6466-35",
+      "name": "浦和駅東口（バス）",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-35.jpg",
+      "ep": "11",
+      "geo": [
+        35.85853,
+        139.658
+      ]
+    },
+    {
+      "id": "6466-36",
+      "name": "東浦和駅",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-36.jpg",
+      "ep": "12",
+      "geo": [
+        35.86417,
+        139.70483
+      ]
+    },
+    {
+      "id": "6466-37",
+      "name": "あしかがフラワーパーク",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-37.jpg",
+      "ep": "12",
+      "geo": [
+        36.31343,
+        139.51846
+      ]
+    },
+    {
+      "id": "6466-38",
+      "name": "あしかがフラワーパーク",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-38.jpg",
+      "ep": "12",
+      "geo": [
+        36.31428,
+        139.52046
+      ]
+    },
+    {
+      "id": "6466-39",
+      "name": "あしかがフラワーパーク",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-39.jpg",
+      "ep": "12",
+      "geo": [
+        36.31359,
+        139.51903
+      ]
+    },
+    {
+      "id": "6466-40",
+      "name": "浦和駅東口（バス）",
+      "image": "https://image.xinu.ink/pic/data/6466/images/6466-40.jpg",
+      "ep": "12",
+      "geo": [
+        35.85789,
+        139.65883
+      ]
+    }
+  ]
+}

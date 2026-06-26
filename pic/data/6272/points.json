@@ -1,0 +1,54 @@
+{
+  "points": [
+    {
+      "id": "6272-1",
+      "name": "上田市役所",
+      "image": "https://image.xinu.ink/pic/data/6272/images/6272-1.jpg",
+      "ep": "MOVIE",
+      "geo": [
+        36.4021808,
+        138.2493557
+      ]
+    },
+    {
+      "id": "6272-2",
+      "name": "砥石城跡",
+      "image": "https://image.xinu.ink/pic/data/6272/images/6272-2.jpg",
+      "ep": "MOVIE",
+      "geo": [
+        36.426035,
+        138.2911051
+      ]
+    },
+    {
+      "id": "6272-3",
+      "name": "東京駅",
+      "image": "https://image.xinu.ink/pic/data/6272/images/6272-3.jpg",
+      "ep": "MOVIE",
+      "geo": [
+        35.6813035,
+        139.7673452
+      ]
+    },
+    {
+      "id": "6272-4",
+      "name": "富士アイス 上田店",
+      "image": "https://image.xinu.ink/pic/data/6272/images/6272-4.jpg",
+      "ep": "MOVIE",
+      "geo": [
+        36.4001422,
+        138.2539608
+      ]
+    },
+    {
+      "id": "6272-5",
+      "name": "上田城跡公園",
+      "image": "https://image.xinu.ink/pic/data/6272/images/6272-5.jpg",
+      "ep": "MOVIE",
+      "geo": [
+        36.4031371,
+        138.2451264
+      ]
+    }
+  ]
+}

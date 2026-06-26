@@ -1,0 +1,714 @@
+{
+  "points": [
+    {
+      "id": "6307-1",
+      "name": "東海ひもの",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-1.jpg",
+      "ep": "OP",
+      "geo": [
+        35.10125,
+        139.07551
+      ]
+    },
+    {
+      "id": "6307-2",
+      "name": "熱海サンビーチ",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-2.jpg",
+      "ep": "OP",
+      "geo": [
+        35.09796,
+        139.07688
+      ]
+    },
+    {
+      "id": "6307-3",
+      "name": "海のお食事処 でん助茶屋",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-3.jpg",
+      "ep": "1",
+      "geo": [
+        35.10029,
+        139.07914
+      ]
+    },
+    {
+      "id": "6307-4",
+      "name": "家康の湯（足湯）",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-4.jpg",
+      "ep": "1",
+      "geo": [
+        35.10338,
+        139.07839
+      ]
+    },
+    {
+      "id": "6307-5",
+      "name": "熱海駅前平和通り名店街",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.10274,
+        139.07751
+      ]
+    },
+    {
+      "id": "6307-6",
+      "name": "伊東園ホテル 熱海館",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-6.jpg",
+      "ep": "1",
+      "geo": [
+        35.10197,
+        139.07661
+      ]
+    },
+    {
+      "id": "6307-7",
+      "name": "熱海シェーブアイスMIYASAKA",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-7.jpg",
+      "ep": "1",
+      "geo": [
+        35.09867,
+        139.06953
+      ]
+    },
+    {
+      "id": "6307-8",
+      "name": "山田湯",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-8.jpg",
+      "ep": "1",
+      "geo": [
+        35.0907,
+        139.0696
+      ]
+    },
+    {
+      "id": "6307-9",
+      "name": "熱海銀座商店街",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-9.jpg",
+      "ep": "1",
+      "geo": [
+        35.09639,
+        139.07445
+      ]
+    },
+    {
+      "id": "6307-10",
+      "name": "新かどや",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-10.jpg",
+      "ep": "1",
+      "geo": [
+        35.09307,
+        139.06871
+      ]
+    },
+    {
+      "id": "6307-11",
+      "name": "熱海親水公園",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-11.jpg",
+      "ep": "1",
+      "geo": [
+        35.09617,
+        139.07595
+      ]
+    },
+    {
+      "id": "6307-12",
+      "name": "タイムズカー タイムズ熱海市営第２親水公園",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-12.jpg",
+      "ep": "1",
+      "geo": [
+        35.09458,
+        139.07518
+      ]
+    },
+    {
+      "id": "6307-13",
+      "name": "民宿旅館しげむら",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-13.jpg",
+      "ep": "1",
+      "geo": [
+        35.09626,
+        139.07601
+      ]
+    },
+    {
+      "id": "6307-14",
+      "name": "青木パン店",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-14.jpg",
+      "ep": "1",
+      "geo": [
+        35.09512,
+        139.06895
+      ]
+    },
+    {
+      "id": "6307-15",
+      "name": "熱海ニューフジヤホテル アネックス",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-15.jpg",
+      "ep": "1",
+      "geo": [
+        35.09737,
+        139.07194
+      ]
+    },
+    {
+      "id": "6307-16",
+      "name": "中島水産市民市場",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-16.jpg",
+      "ep": "2",
+      "geo": [
+        35.09454,
+        139.0711
+      ]
+    },
+    {
+      "id": "6307-17",
+      "name": "海鮮丼×創作和食 Ren",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-17.jpg",
+      "ep": "2",
+      "geo": [
+        35.09641,
+        139.07331
+      ]
+    },
+    {
+      "id": "6307-18",
+      "name": "波良橋",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-18.jpg",
+      "ep": "2",
+      "geo": [
+        35.09351,
+        139.07454
+      ]
+    },
+    {
+      "id": "6307-19",
+      "name": "熱海 今宮神社",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-19.jpg",
+      "ep": "2",
+      "geo": [
+        35.08819,
+        139.06761
+      ]
+    },
+    {
+      "id": "6307-20",
+      "name": "宮坂",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-20.jpg",
+      "ep": "2",
+      "geo": [
+        35.09874,
+        139.0693
+      ]
+    },
+    {
+      "id": "6307-21",
+      "name": "Cafe\\u0026Restaurant Nagisa",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-21.jpg",
+      "ep": "3",
+      "geo": [
+        35.09554,
+        139.07531
+      ]
+    },
+    {
+      "id": "6307-22",
+      "name": "Cafe\\u0026Restaurant Nagisa",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-22.jpg",
+      "ep": "3",
+      "geo": [
+        35.09573,
+        139.07506
+      ]
+    },
+    {
+      "id": "6307-23",
+      "name": "しゃぶ葉 熱海店",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-23.jpg",
+      "ep": "3",
+      "geo": [
+        35.09894,
+        139.0685
+      ]
+    },
+    {
+      "id": "6307-24",
+      "name": "起雲閣",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-24.jpg",
+      "ep": "3",
+      "geo": [
+        35.09324,
+        139.07108
+      ]
+    },
+    {
+      "id": "6307-25",
+      "name": "走り湯",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-25.jpg",
+      "ep": "3",
+      "geo": [
+        35.11103,
+        139.08606
+      ]
+    },
+    {
+      "id": "6307-26",
+      "name": "伊豆多賀駅",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-26.jpg",
+      "ep": "4",
+      "geo": [
+        35.05906,
+        139.06711
+      ]
+    },
+    {
+      "id": "6307-27",
+      "name": "来宮駅",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-27.jpg",
+      "ep": "4",
+      "geo": [
+        35.09878,
+        139.06539
+      ]
+    },
+    {
+      "id": "6307-28",
+      "name": "タイムズ熱海市営来の宮",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-28.jpg",
+      "ep": "4",
+      "geo": [
+        35.09812,
+        139.06643
+      ]
+    },
+    {
+      "id": "6307-29",
+      "name": "COCO OUTDOOR",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-29.jpg",
+      "ep": "4",
+      "geo": [
+        35.09084,
+        139.07064
+      ]
+    },
+    {
+      "id": "6307-30",
+      "name": "エスペランサリゾート熱海",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-30.jpg",
+      "ep": "4",
+      "geo": [
+        35.1063,
+        139.0853
+      ]
+    },
+    {
+      "id": "6307-31",
+      "name": "阿由美橋",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-31.jpg",
+      "ep": "4",
+      "geo": [
+        35.09452,
+        139.07197
+      ]
+    },
+    {
+      "id": "6307-32",
+      "name": "理容ワキハラ",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-32.jpg",
+      "ep": "4",
+      "geo": [
+        35.09406,
+        139.07125
+      ]
+    },
+    {
+      "id": "6307-33",
+      "name": "atami onsen guesthouse nagomi",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-33.jpg",
+      "ep": "5",
+      "geo": [
+        35.09755,
+        139.06434
+      ]
+    },
+    {
+      "id": "6307-34",
+      "name": "上宿橋",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-34.jpg",
+      "ep": "5",
+      "geo": [
+        35.09814,
+        139.07018
+      ]
+    },
+    {
+      "id": "6307-35",
+      "name": "山治不動産",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-35.jpg",
+      "ep": "5",
+      "geo": [
+        35.09421,
+        139.07172
+      ]
+    },
+    {
+      "id": "6307-36",
+      "name": "Restaurant \\u0026 Sweets 花の妖精",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-36.jpg",
+      "ep": "5",
+      "geo": [
+        35.08442,
+        139.07979
+      ]
+    },
+    {
+      "id": "6307-37",
+      "name": "Hotel Micuras",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-37.jpg",
+      "ep": "5",
+      "geo": [
+        35.09791,
+        139.07567
+      ]
+    },
+    {
+      "id": "6307-38",
+      "name": "FUTABA DENKI",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-38.jpg",
+      "ep": "6",
+      "geo": [
+        35.09592,
+        139.07193
+      ]
+    },
+    {
+      "id": "6307-39",
+      "name": "うまい鮨勘 熱海支店",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-39.jpg",
+      "ep": "6",
+      "geo": [
+        35.09621,
+        139.07223
+      ]
+    },
+    {
+      "id": "6307-40",
+      "name": "Jacket",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-40.jpg",
+      "ep": "6",
+      "geo": [
+        35.09591,
+        139.07264
+      ]
+    },
+    {
+      "id": "6307-41",
+      "name": "熱海サンビーチ",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-41.jpg",
+      "ep": "6",
+      "geo": [
+        35.09936,
+        139.07783
+      ]
+    },
+    {
+      "id": "6307-42",
+      "name": "アットパーク熱海サンビーチ",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-42.jpg",
+      "ep": "6",
+      "geo": [
+        35.0962,
+        139.07482
+      ]
+    },
+    {
+      "id": "6307-43",
+      "name": "純喫茶パインツリー",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-43.jpg",
+      "ep": "7",
+      "geo": [
+        35.09667,
+        139.07383
+      ]
+    },
+    {
+      "id": "6307-44",
+      "name": "誓欣院",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-44.jpg",
+      "ep": "7",
+      "geo": [
+        35.09744,
+        139.07103
+      ]
+    },
+    {
+      "id": "6307-45",
+      "name": "糸川橋",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-45.jpg",
+      "ep": "7",
+      "geo": [
+        35.09559,
+        139.07393
+      ]
+    },
+    {
+      "id": "6307-46",
+      "name": "熱海駅前郵便局",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-46.jpg",
+      "ep": "7",
+      "geo": [
+        35.1021,
+        139.07676
+      ]
+    },
+    {
+      "id": "6307-47",
+      "name": "すぎもと薬局",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-47.jpg",
+      "ep": "7",
+      "geo": [
+        35.09652,
+        139.07406
+      ]
+    },
+    {
+      "id": "6307-48",
+      "name": "湯前神社",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-48.jpg",
+      "ep": "8",
+      "geo": [
+        35.09824,
+        139.07122
+      ]
+    },
+    {
+      "id": "6307-49",
+      "name": "熱海芸妓見番",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-49.jpg",
+      "ep": "8",
+      "geo": [
+        35.0947,
+        139.0718
+      ]
+    },
+    {
+      "id": "6307-50",
+      "name": "熱海駅前振興会館",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-50.jpg",
+      "ep": "8",
+      "geo": [
+        35.1026,
+        139.07843
+      ]
+    },
+    {
+      "id": "6307-51",
+      "name": "熱海 仲見世通り商店街",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-51.jpg",
+      "ep": "8",
+      "geo": [
+        35.10213,
+        139.07762
+      ]
+    },
+    {
+      "id": "6307-52",
+      "name": "ドラゴン橋",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-52.jpg",
+      "ep": "8",
+      "geo": [
+        35.09608,
+        139.07319
+      ]
+    },
+    {
+      "id": "6307-53",
+      "name": "初島港",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-53.jpg",
+      "ep": "8",
+      "geo": [
+        35.04255,
+        139.16967
+      ]
+    },
+    {
+      "id": "6307-54",
+      "name": "島カフェ",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-54.jpg",
+      "ep": "8",
+      "geo": [
+        35.03949,
+        139.17396
+      ]
+    },
+    {
+      "id": "6307-55",
+      "name": "初島アドベンチャー SARUTOBI",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-55.jpg",
+      "ep": "8",
+      "geo": [
+        35.03921,
+        139.17183
+      ]
+    },
+    {
+      "id": "6307-56",
+      "name": "初島灯台",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-56.jpg",
+      "ep": "8",
+      "geo": [
+        35.03856,
+        139.17276
+      ]
+    },
+    {
+      "id": "6307-57",
+      "name": "海のプール",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-57.jpg",
+      "ep": "8",
+      "geo": [
+        35.03876,
+        139.17488
+      ]
+    },
+    {
+      "id": "6307-58",
+      "name": "島の湯",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-58.jpg",
+      "ep": "8",
+      "geo": [
+        35.03924,
+        139.17532
+      ]
+    },
+    {
+      "id": "6307-59",
+      "name": "初島漁協スーパーマーケット",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-59.jpg",
+      "ep": "8",
+      "geo": [
+        35.04224,
+        139.16927
+      ]
+    },
+    {
+      "id": "6307-60",
+      "name": "市外電話創始の地",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-60.jpg",
+      "ep": "9",
+      "geo": [
+        35.09771,
+        139.07171
+      ]
+    },
+    {
+      "id": "6307-61",
+      "name": "来宮駅",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-61.jpg",
+      "ep": "10",
+      "geo": [
+        35.09856,
+        139.06604
+      ]
+    },
+    {
+      "id": "6307-62",
+      "name": "伊豆山港",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-62.jpg",
+      "ep": "10",
+      "geo": [
+        35.11024,
+        139.08636
+      ]
+    },
+    {
+      "id": "6307-63",
+      "name": "熱海第一交通(株)配車センター",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-63.jpg",
+      "ep": "10",
+      "geo": [
+        35.09525,
+        139.07272
+      ]
+    },
+    {
+      "id": "6307-64",
+      "name": "熱海駅（バス）",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-64.jpg",
+      "ep": "11",
+      "geo": [
+        35.10382,
+        139.07925
+      ]
+    },
+    {
+      "id": "6307-65",
+      "name": "伊豆山神社",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-65.jpg",
+      "ep": "11",
+      "geo": [
+        35.1148,
+        139.08329
+      ]
+    },
+    {
+      "id": "6307-66",
+      "name": "熱海市 仲道公民館",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-66.jpg",
+      "ep": "11",
+      "geo": [
+        35.11419,
+        139.08367
+      ]
+    },
+    {
+      "id": "6307-67",
+      "name": "伊豆山郵便局",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-67.jpg",
+      "ep": "11",
+      "geo": [
+        35.11164,
+        139.08519
+      ]
+    },
+    {
+      "id": "6307-68",
+      "name": "大江戸温泉物語 ホテル水葉亭",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-68.jpg",
+      "ep": "11",
+      "geo": [
+        35.10892,
+        139.08602
+      ]
+    },
+    {
+      "id": "6307-69",
+      "name": "ATAMI Funny house",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-69.jpg",
+      "ep": "11",
+      "geo": [
+        35.10441,
+        139.08336
+      ]
+    },
+    {
+      "id": "6307-70",
+      "name": "ナギサート",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-70.jpg",
+      "ep": "11",
+      "geo": [
+        35.0946,
+        139.07476
+      ]
+    },
+    {
+      "id": "6307-71",
+      "name": "創作和食 ふくろう 熱海店",
+      "image": "https://image.xinu.ink/pic/data/6307/images/6307-71.jpg",
+      "ep": "11",
+      "geo": [
+        35.09991,
+        139.07506
+      ]
+    }
+  ]
+}

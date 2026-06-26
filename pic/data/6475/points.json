@@ -1,0 +1,84 @@
+{
+  "points": [
+    {
+      "id": "6475-1",
+      "name": "ファミリーマート 小金井桜町三丁目店",
+      "image": "https://image.xinu.ink/pic/data/6475/images/6475-1.jpg",
+      "ep": "1",
+      "geo": [
+        35.71282,
+        139.51204
+      ]
+    },
+    {
+      "id": "6475-2",
+      "name": "小金井公園前(バス)",
+      "image": "https://image.xinu.ink/pic/data/6475/images/6475-2.jpg",
+      "ep": "1",
+      "geo": [
+        35.71279,
+        139.51806
+      ]
+    },
+    {
+      "id": "6475-3",
+      "name": "小金井公園",
+      "image": "https://image.xinu.ink/pic/data/6475/images/6475-3.jpg",
+      "ep": "1",
+      "geo": [
+        35.71468,
+        139.51855
+      ]
+    },
+    {
+      "id": "6475-4",
+      "name": "デニーズ 中村橋店",
+      "image": "https://image.xinu.ink/pic/data/6475/images/6475-4.jpg",
+      "ep": "2",
+      "geo": [
+        35.73722,
+        139.64725
+      ]
+    },
+    {
+      "id": "6475-5",
+      "name": "相模川ふれあい科学館 アクアリウムさがみはら",
+      "image": "https://image.xinu.ink/pic/data/6475/images/6475-5.jpg",
+      "ep": "2",
+      "geo": [
+        35.54749,
+        139.32877
+      ]
+    },
+    {
+      "id": "6475-6",
+      "name": "アイン薬局 清瀬店",
+      "image": "https://image.xinu.ink/pic/data/6475/images/6475-6.jpg",
+      "ep": "4",
+      "geo": [
+        35.76907,
+        139.50683
+      ]
+    },
+    {
+      "id": "6475-7",
+      "name": "旧古河邸 大谷美術館",
+      "image": "https://image.xinu.ink/pic/data/6475/images/6475-7.jpg",
+      "ep": "10",
+      "geo": [
+        35.74328,
+        139.74596
+      ]
+    },
+    {
+      "id": "6475-8",
+      "name": "警視庁 田無警察署",
+      "image": "https://image.xinu.ink/pic/data/6475/images/6475-8.jpg",
+      "ep": "11",
+      "geo": [
+        35.72982,
+        139.53895
+      ]
+    }
+  ]
+}

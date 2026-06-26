@@ -1,0 +1,104 @@
+{
+  "points": [
+    {
+      "id": "6344-1",
+      "name": "幸方(こうかた)公園",
+      "image": "https://image.xinu.ink/pic/data/6344/images/6344-1.jpg",
+      "ep": "OP1",
+      "geo": [
+        35.63696,
+        139.50974
+      ]
+    },
+    {
+      "id": "6344-2",
+      "name": "稲城駅",
+      "image": "https://image.xinu.ink/pic/data/6344/images/6344-2.jpg",
+      "ep": "1",
+      "geo": [
+        35.63604,
+        139.50035
+      ]
+    },
+    {
+      "id": "6344-3",
+      "name": "Odakyu OX 経堂店",
+      "image": "https://image.xinu.ink/pic/data/6344/images/6344-3.jpg",
+      "ep": "1",
+      "geo": [
+        35.65167,
+        139.6363
+      ]
+    },
+    {
+      "id": "6344-4",
+      "name": "桜ヶ丘カントリークラブ",
+      "image": "https://image.xinu.ink/pic/data/6344/images/6344-4.jpg",
+      "ep": "1",
+      "geo": [
+        35.64059,
+        139.46495
+      ]
+    },
+    {
+      "id": "6344-5",
+      "name": "はしば寿司",
+      "image": "https://image.xinu.ink/pic/data/6344/images/6344-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.63524,
+        139.51723
+      ]
+    },
+    {
+      "id": "6344-6",
+      "name": "京王よみうりランド駅",
+      "image": "https://image.xinu.ink/pic/data/6344/images/6344-6.jpg",
+      "ep": "2",
+      "geo": [
+        35.63288,
+        139.51732
+      ]
+    },
+    {
+      "id": "6344-7",
+      "name": "桜ヶ丘カントリークラブ（バス）",
+      "image": "https://image.xinu.ink/pic/data/6344/images/6344-7.jpg",
+      "ep": "2",
+      "geo": [
+        35.64132,
+        139.46629
+      ]
+    },
+    {
+      "id": "6344-8",
+      "name": "経堂すずらん商店街",
+      "image": "https://image.xinu.ink/pic/data/6344/images/6344-8.jpg",
+      "ep": "2",
+      "geo": [
+        35.65184,
+        139.63712
+      ]
+    },
+    {
+      "id": "6344-9",
+      "name": "ケンタッキーフライドチキン経堂店",
+      "image": "https://image.xinu.ink/pic/data/6344/images/6344-9.jpg",
+      "ep": "4",
+      "geo": [
+        35.65187,
+        139.63634
+      ]
+    },
+    {
+      "id": "6344-10",
+      "name": "大和橋(バス)",
+      "image": "https://image.xinu.ink/pic/data/6344/images/6344-10.jpg",
+      "ep": "8",
+      "geo": [
+        35.65518,
+        139.63795
+      ]
+    }
+  ]
+}

@@ -1,0 +1,614 @@
+{
+  "points": [
+    {
+      "id": "6346-1",
+      "name": "群馬県庁 昭和庁舎",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-1.jpg",
+      "ep": "OP",
+      "geo": [
+        36.39123,
+        139.06143
+      ]
+    },
+    {
+      "id": "6346-2",
+      "name": "前橋駅",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-2.jpg",
+      "ep": "OP",
+      "geo": [
+        36.38345,
+        139.07308
+      ]
+    },
+    {
+      "id": "6346-3",
+      "name": "日本トーターグリーンドーム前橋",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-3.jpg",
+      "ep": "OP",
+      "geo": [
+        36.39592,
+        139.0587
+      ]
+    },
+    {
+      "id": "6346-4",
+      "name": "マール・コムデギャルソン",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-4.jpg",
+      "ep": "OP",
+      "geo": [
+        36.39251,
+        139.06988
+      ]
+    },
+    {
+      "id": "6346-5",
+      "name": "ダイモン",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-5.jpg",
+      "ep": "OP",
+      "geo": [
+        36.39402,
+        139.06996
+      ]
+    },
+    {
+      "id": "6346-6",
+      "name": "にこにこパーキング 銀座通り",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-6.jpg",
+      "ep": "OP",
+      "geo": [
+        36.39293,
+        139.07121
+      ]
+    },
+    {
+      "id": "6346-7",
+      "name": "前橋東照宮",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-7.jpg",
+      "ep": "OP",
+      "geo": [
+        36.39462,
+        139.06245
+      ]
+    },
+    {
+      "id": "6346-8",
+      "name": "道の駅 ぐりーんふらわー牧場・大胡",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-8.jpg",
+      "ep": "OP",
+      "geo": [
+        36.45953,
+        139.13344
+      ]
+    },
+    {
+      "id": "6346-9",
+      "name": "菊屋",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-9.jpg",
+      "ep": "OP",
+      "geo": [
+        36.39212,
+        139.06923
+      ]
+    },
+    {
+      "id": "6346-10",
+      "name": "比刀根橋",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-10.jpg",
+      "ep": "OP",
+      "geo": [
+        36.39515,
+        139.07048
+      ]
+    },
+    {
+      "id": "6346-11",
+      "name": "前橋市中央児童遊園 るなぱあく",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-11.jpg",
+      "ep": "OP",
+      "geo": [
+        36.39475,
+        139.06411
+      ]
+    },
+    {
+      "id": "6346-12",
+      "name": "山口洋服店",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-12.jpg",
+      "ep": "1",
+      "geo": [
+        36.41349,
+        139.15839
+      ]
+    },
+    {
+      "id": "6346-13",
+      "name": "大胡町自治会のどんど焼き",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-13.jpg",
+      "ep": "1",
+      "geo": [
+        36.41411,
+        139.15859
+      ]
+    },
+    {
+      "id": "6346-14",
+      "name": "オリオン通り商店街",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-14.jpg",
+      "ep": "1",
+      "geo": [
+        36.39318,
+        139.07114
+      ]
+    },
+    {
+      "id": "6346-15",
+      "name": "大胡駅",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-15.jpg",
+      "ep": "1",
+      "geo": [
+        36.41307,
+        139.15667
+      ]
+    },
+    {
+      "id": "6346-16",
+      "name": "生糸文様欄干・絹の橋",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-16.jpg",
+      "ep": "1",
+      "geo": [
+        36.39433,
+        139.07213
+      ]
+    },
+    {
+      "id": "6346-17",
+      "name": "マリアビル",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-17.jpg",
+      "ep": "2",
+      "geo": [
+        36.39264,
+        139.07101
+      ]
+    },
+    {
+      "id": "6346-18",
+      "name": "前橋まちなかPESCA!",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-18.jpg",
+      "ep": "2",
+      "geo": [
+        36.39062,
+        139.06866
+      ]
+    },
+    {
+      "id": "6346-19",
+      "name": "パーラーレストラン モモヤ",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-19.jpg",
+      "ep": "2",
+      "geo": [
+        36.39157,
+        139.06898
+      ]
+    },
+    {
+      "id": "6346-20",
+      "name": "すずはん",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-20.jpg",
+      "ep": "2",
+      "geo": [
+        36.39259,
+        139.0694
+      ]
+    },
+    {
+      "id": "6346-21",
+      "name": "LAUGH COFFEE",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-21.jpg",
+      "ep": "2",
+      "geo": [
+        36.39273,
+        139.06956
+      ]
+    },
+    {
+      "id": "6346-22",
+      "name": "臨江閣",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-22.jpg",
+      "ep": "4",
+      "geo": [
+        36.39533,
+        139.06238
+      ]
+    },
+    {
+      "id": "6346-23",
+      "name": "はしもと洋品店",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-23.jpg",
+      "ep": "5",
+      "geo": [
+        36.39442,
+        139.07027
+      ]
+    },
+    {
+      "id": "6346-24",
+      "name": "永徳寿司",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-24.jpg",
+      "ep": "5",
+      "geo": [
+        36.39538,
+        139.06958
+      ]
+    },
+    {
+      "id": "6346-25",
+      "name": "システムパーク前橋住吉町",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-25.jpg",
+      "ep": "5",
+      "geo": [
+        36.39531,
+        139.07051
+      ]
+    },
+    {
+      "id": "6346-26",
+      "name": "裳美学園 しょうび第一幼稚園",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-26.jpg",
+      "ep": "5",
+      "geo": [
+        36.39427,
+        139.07247
+      ]
+    },
+    {
+      "id": "6346-27",
+      "name": "朔太郎橋",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-27.jpg",
+      "ep": "5",
+      "geo": [
+        36.39392,
+        139.07261
+      ]
+    },
+    {
+      "id": "6346-28",
+      "name": "わがじゃん",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-28.jpg",
+      "ep": "5",
+      "geo": [
+        36.3942,
+        139.07002
+      ]
+    },
+    {
+      "id": "6346-29",
+      "name": "前橋中央イベント広場",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-29.jpg",
+      "ep": "6",
+      "geo": [
+        36.39306,
+        139.06963
+      ]
+    },
+    {
+      "id": "6346-30",
+      "name": "屋台ラーメン 好(はお) おでん屋台",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-30.jpg",
+      "ep": "6",
+      "geo": [
+        36.39314,
+        139.0726
+      ]
+    },
+    {
+      "id": "6346-31",
+      "name": "AQERU前橋",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-31.jpg",
+      "ep": "6",
+      "geo": [
+        36.38392,
+        139.07212
+      ]
+    },
+    {
+      "id": "6346-32",
+      "name": "デイサービスセンター弁天通り",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-32.jpg",
+      "ep": "7",
+      "geo": [
+        36.3945,
+        139.07031
+      ]
+    },
+    {
+      "id": "6346-33",
+      "name": "ブックマンズアカデミー前橋店",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-33.jpg",
+      "ep": "7",
+      "geo": [
+        36.39609,
+        139.04267
+      ]
+    },
+    {
+      "id": "6346-34",
+      "name": "ローソン 高崎駅西口店",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-34.jpg",
+      "ep": "8",
+      "geo": [
+        36.32228,
+        139.01192
+      ]
+    },
+    {
+      "id": "6346-35",
+      "name": "JINS 前橋店",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-35.jpg",
+      "ep": "8",
+      "geo": [
+        36.42488,
+        139.04579
+      ]
+    },
+    {
+      "id": "6346-36",
+      "name": "萩原朔太郎記念 前橋文学館",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-36.jpg",
+      "ep": "8",
+      "geo": [
+        36.39396,
+        139.07235
+      ]
+    },
+    {
+      "id": "6346-37",
+      "name": "Gunma Flower Park",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-37.jpg",
+      "ep": "10",
+      "geo": [
+        36.45619,
+        139.1759
+      ]
+    },
+    {
+      "id": "6346-38",
+      "name": "大胡駅",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-38.jpg",
+      "ep": "10",
+      "geo": [
+        36.41291,
+        139.15635
+      ]
+    },
+    {
+      "id": "6346-39",
+      "name": "楽歩堂前橋公園",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-39.jpg",
+      "ep": "10",
+      "geo": [
+        36.3947,
+        139.06025
+      ]
+    },
+    {
+      "id": "6346-40",
+      "name": "まえばしガレリア",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-40.jpg",
+      "ep": "10",
+      "geo": [
+        36.39129,
+        139.07239
+      ]
+    },
+    {
+      "id": "6346-41",
+      "name": "前橋プラザ元気21",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-41.jpg",
+      "ep": "10",
+      "geo": [
+        36.39023,
+        139.07147
+      ]
+    },
+    {
+      "id": "6346-42",
+      "name": "久留万橋",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-42.jpg",
+      "ep": "10",
+      "geo": [
+        36.39132,
+        139.07425
+      ]
+    },
+    {
+      "id": "6346-43",
+      "name": "安川たばこ店",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-43.jpg",
+      "ep": "10",
+      "geo": [
+        36.39383,
+        139.07107
+      ]
+    },
+    {
+      "id": "6346-44",
+      "name": "喫茶マルカ",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-44.jpg",
+      "ep": "10",
+      "geo": [
+        36.39105,
+        139.06956
+      ]
+    },
+    {
+      "id": "6346-45",
+      "name": "立川町通り西",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-45.jpg",
+      "ep": "10",
+      "geo": [
+        36.39367,
+        139.06928
+      ]
+    },
+    {
+      "id": "6346-46",
+      "name": "スズラン百貨店 前橋店",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-46.jpg",
+      "ep": "10",
+      "geo": [
+        36.39141,
+        139.07045
+      ]
+    },
+    {
+      "id": "6346-47",
+      "name": "ミスターバーボン",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-47.jpg",
+      "ep": "10",
+      "geo": [
+        36.39296,
+        139.07099
+      ]
+    },
+    {
+      "id": "6346-48",
+      "name": "ＧＭ global market",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-48.jpg",
+      "ep": "11",
+      "geo": [
+        36.39167,
+        139.06902
+      ]
+    },
+    {
+      "id": "6346-49",
+      "name": "池袋駅東口",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-49.jpg",
+      "ep": "11",
+      "geo": [
+        35.73059,
+        139.7128
+      ]
+    },
+    {
+      "id": "6346-50",
+      "name": "ユニクロ 池袋サンシャイン６０通り店",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-50.jpg",
+      "ep": "11",
+      "geo": [
+        35.72983,
+        139.71536
+      ]
+    },
+    {
+      "id": "6346-51",
+      "name": "いけふくろう",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-51.jpg",
+      "ep": "11",
+      "geo": [
+        35.7308,
+        139.71212
+      ]
+    },
+    {
+      "id": "6346-52",
+      "name": "harevutai",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-52.jpg",
+      "ep": "11",
+      "geo": [
+        35.73196,
+        139.71543
+      ]
+    },
+    {
+      "id": "6346-53",
+      "name": "ABC-MART 渋谷店",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-53.jpg",
+      "ep": "11",
+      "geo": [
+        35.66029,
+        139.6985
+      ]
+    },
+    {
+      "id": "6346-54",
+      "name": "King God Burger",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-54.jpg",
+      "ep": "11",
+      "geo": [
+        36.43928,
+        139.05311
+      ]
+    },
+    {
+      "id": "6346-55",
+      "name": "前橋駅",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-55.jpg",
+      "ep": "11",
+      "geo": [
+        36.38337,
+        139.07357
+      ]
+    },
+    {
+      "id": "6346-56",
+      "name": "西洋亭 市 前橋店",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-56.jpg",
+      "ep": "12",
+      "geo": [
+        36.39129,
+        139.06922
+      ]
+    },
+    {
+      "id": "6346-57",
+      "name": "レストラン ポンチ",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-57.jpg",
+      "ep": "12",
+      "geo": [
+        36.39488,
+        139.0704
+      ]
+    },
+    {
+      "id": "6346-58",
+      "name": "火ノ鳥",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-58.jpg",
+      "ep": "12",
+      "geo": [
+        36.39371,
+        139.06979
+      ]
+    },
+    {
+      "id": "6346-59",
+      "name": "けやきウォーク前橋",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-59.jpg",
+      "ep": "12",
+      "geo": [
+        36.37993,
+        139.0781
+      ]
+    },
+    {
+      "id": "6346-60",
+      "name": "（株）前橋大気堂",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-60.jpg",
+      "ep": "12",
+      "geo": [
+        36.3902,
+        139.06989
+      ]
+    },
+    {
+      "id": "6346-61",
+      "name": "日本トーターグリーンドーム前橋",
+      "image": "https://image.xinu.ink/pic/data/6346/images/6346-61.jpg",
+      "ep": "12",
+      "geo": [
+        36.39718,
+        139.05782
+      ]
+    }
+  ]
+}

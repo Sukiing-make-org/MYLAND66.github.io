@@ -1,0 +1,254 @@
+{
+  "points": [
+    {
+      "id": "6252-1",
+      "name": "廣東飯店",
+      "image": "https://image.xinu.ink/pic/data/6252/images/6252-1.jpg",
+      "ep": "OP5",
+      "geo": [
+        35.44315,
+        139.64464
+      ]
+    },
+    {
+      "id": "6252-2",
+      "name": "No.1 Dock トップゲート(扉船)",
+      "image": "https://image.xinu.ink/pic/data/6252/images/6252-2.jpg",
+      "ep": "OP5",
+      "geo": [
+        35.45453,
+        139.63288
+      ]
+    },
+    {
+      "id": "6252-3",
+      "name": "港三号橋梁 (旧大岡川橋梁)",
+      "image": "https://image.xinu.ink/pic/data/6252/images/6252-3.jpg",
+      "ep": "ED5",
+      "geo": [
+        35.45311,
+        139.63763
+      ]
+    },
+    {
+      "id": "6252-4",
+      "name": "大桟橋ふ頭",
+      "image": "https://image.xinu.ink/pic/data/6252/images/6252-4.jpg",
+      "ep": "ED5",
+      "geo": [
+        35.45188,
+        139.648
+      ]
+    },
+    {
+      "id": "6252-5",
+      "name": "ルパン",
+      "image": "https://image.xinu.ink/pic/data/6252/images/6252-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.67104,
+        139.76331
+      ]
+    },
+    {
+      "id": "6252-6",
+      "name": "横浜美術館",
+      "image": "https://image.xinu.ink/pic/data/6252/images/6252-6.jpg",
+      "ep": "3",
+      "geo": [
+        35.45718,
+        139.63074
+      ]
+    },
+    {
+      "id": "6252-7",
+      "name": "グランモール公園",
+      "image": "https://image.xinu.ink/pic/data/6252/images/6252-7.jpg",
+      "ep": "3",
+      "geo": [
+        35.4571,
+        139.63106
+      ]
+    },
+    {
+      "id": "6252-8",
+      "name": "湘南海岸公園",
+      "image": "https://image.xinu.ink/pic/data/6252/images/6252-8.jpg",
+      "ep": "3",
+      "geo": [
+        35.31099,
+        139.47803
+      ]
+    },
+    {
+      "id": "6252-9",
+      "name": "鵠沼橋",
+      "image": "https://image.xinu.ink/pic/data/6252/images/6252-9.jpg",
+      "ep": "4",
+      "geo": [
+        35.31708,
+        139.46726
+      ]
+    },
+    {
+      "id": "6252-10",
+      "name": "横浜地方裁判所",
+      "image": "https://image.xinu.ink/pic/data/6252/images/6252-10.jpg",
+      "ep": "5",
+      "geo": [
+        35.44628,
+        139.64192
+      ]
+    },
+    {
+      "id": "6252-11",
+      "name": "山下公園",
+      "image": "https://image.xinu.ink/pic/data/6252/images/6252-11.jpg",
+      "ep": "5",
+      "geo": [
+        35.44563,
+        139.64998
+      ]
+    },
+    {
+      "id": "6252-12",
+      "name": "市場通り",
+      "image": "https://image.xinu.ink/pic/data/6252/images/6252-12.jpg",
+      "ep": "5",
+      "geo": [
+        35.44302,
+        139.6462
+      ]
+    },
+    {
+      "id": "6252-13",
+      "name": "MARK IS みなとみらい",
+      "image": "https://image.xinu.ink/pic/data/6252/images/6252-13.jpg",
+      "ep": "6",
+      "geo": [
+        35.45688,
+        139.63274
+      ]
+    },
+    {
+      "id": "6252-14",
+      "name": "新港橋梁",
+      "image": "https://image.xinu.ink/pic/data/6252/images/6252-14.jpg",
+      "ep": "7",
+      "geo": [
+        35.45087,
+        139.64259
+      ]
+    },
+    {
+      "id": "6252-15",
+      "name": "山下臨港線プロムナード",
+      "image": "https://image.xinu.ink/pic/data/6252/images/6252-15.jpg",
+      "ep": "8",
+      "geo": [
+        35.44866,
+        139.64398
+      ]
+    },
+    {
+      "id": "6252-16",
+      "name": "タイムズステーション横浜山下町",
+      "image": "https://image.xinu.ink/pic/data/6252/images/6252-16.jpg",
+      "ep": "8",
+      "geo": [
+        35.44435,
+        139.64761
+      ]
+    },
+    {
+      "id": "6252-17",
+      "name": "横浜中華街 北京飯店",
+      "image": "https://image.xinu.ink/pic/data/6252/images/6252-17.jpg",
+      "ep": "8",
+      "geo": [
+        35.44415,
+        139.64793
+      ]
+    },
+    {
+      "id": "6252-18",
+      "name": "ローソン 山下町本町通店",
+      "image": "https://image.xinu.ink/pic/data/6252/images/6252-18.jpg",
+      "ep": "8",
+      "geo": [
+        35.44538,
+        139.64523
+      ]
+    },
+    {
+      "id": "6252-19",
+      "name": "アメリカ山公園",
+      "image": "https://image.xinu.ink/pic/data/6252/images/6252-19.jpg",
+      "ep": "9",
+      "geo": [
+        35.44108,
+        139.65149
+      ]
+    },
+    {
+      "id": "6252-20",
+      "name": "フランス山の風車",
+      "image": "https://image.xinu.ink/pic/data/6252/images/6252-20.jpg",
+      "ep": "9",
+      "geo": [
+        35.44131,
+        139.65345
+      ]
+    },
+    {
+      "id": "6252-21",
+      "name": "赤い靴はいていた女の子像",
+      "image": "https://image.xinu.ink/pic/data/6252/images/6252-21.jpg",
+      "ep": "12",
+      "geo": [
+        35.44718,
+        139.64814
+      ]
+    },
+    {
+      "id": "6252-22",
+      "name": "スターバックス コーヒー 横浜元町店",
+      "image": "https://image.xinu.ink/pic/data/6252/images/6252-22.jpg",
+      "ep": "13",
+      "geo": [
+        35.44161,
+        139.65087
+      ]
+    },
+    {
+      "id": "6252-23",
+      "name": "ニューヤマザキデイリーストア 元町中華街駅店",
+      "image": "https://image.xinu.ink/pic/data/6252/images/6252-23.jpg",
+      "ep": "13",
+      "geo": [
+        35.44171,
+        139.65146
+      ]
+    },
+    {
+      "id": "6252-24",
+      "name": "元町・中華街駅",
+      "image": "https://image.xinu.ink/pic/data/6252/images/6252-24.jpg",
+      "ep": "13",
+      "geo": [
+        35.44204,
+        139.65111
+      ]
+    },
+    {
+      "id": "6252-25",
+      "name": "アイプリモ 横浜元町店",
+      "image": "https://image.xinu.ink/pic/data/6252/images/6252-25.jpg",
+      "ep": "13",
+      "geo": [
+        35.44189,
+        139.6514
+      ]
+    }
+  ]
+}

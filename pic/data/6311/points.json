@@ -1,0 +1,764 @@
+{
+  "points": [
+    {
+      "id": "6311-1",
+      "name": "旧三菱第2ドックハウス",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-1.jpg",
+      "ep": "OP",
+      "geo": [
+        32.73256,
+        129.86991
+      ]
+    },
+    {
+      "id": "6311-2",
+      "name": "長崎地方気象台",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-2.jpg",
+      "ep": "OP",
+      "geo": [
+        32.73399,
+        129.86842
+      ]
+    },
+    {
+      "id": "6311-3",
+      "name": "旧スチイル記念学校",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-3.jpg",
+      "ep": "OP",
+      "geo": [
+        32.73203,
+        129.8684
+      ]
+    },
+    {
+      "id": "6311-4",
+      "name": "ジョイア",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-4.jpg",
+      "ep": "OP",
+      "geo": [
+        32.74255,
+        129.87385
+      ]
+    },
+    {
+      "id": "6311-5",
+      "name": "丸尾神社",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-5.jpg",
+      "ep": "OP",
+      "geo": [
+        32.73054,
+        129.87957
+      ]
+    },
+    {
+      "id": "6311-6",
+      "name": "南山手パーキング",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-6.jpg",
+      "ep": "OP",
+      "geo": [
+        32.7326,
+        129.86829
+      ]
+    },
+    {
+      "id": "6311-7",
+      "name": "眼鏡橋",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-7.jpg",
+      "ep": "OP",
+      "geo": [
+        32.74711,
+        129.88016
+      ]
+    },
+    {
+      "id": "6311-8",
+      "name": "東山手十二番館",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-8.jpg",
+      "ep": "OP",
+      "geo": [
+        32.73811,
+        129.87373
+      ]
+    },
+    {
+      "id": "6311-9",
+      "name": "鍋冠山展望台",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-9.jpg",
+      "ep": "OP",
+      "geo": [
+        32.72943,
+        129.86887
+      ]
+    },
+    {
+      "id": "6311-10",
+      "name": "大浦展望公園",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-10.jpg",
+      "ep": "ED",
+      "geo": [
+        32.73349,
+        129.87047
+      ]
+    },
+    {
+      "id": "6311-11",
+      "name": "グラバースカイロード 垂直エレベーター",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-11.jpg",
+      "ep": "ED",
+      "geo": [
+        32.73277,
+        129.87028
+      ]
+    },
+    {
+      "id": "6311-12",
+      "name": "森の魔女カフェ",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-12.jpg",
+      "ep": "1",
+      "geo": [
+        32.86881,
+        129.767
+      ]
+    },
+    {
+      "id": "6311-13",
+      "name": "コーポ堀田",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-13.jpg",
+      "ep": "1",
+      "geo": [
+        32.73337,
+        129.87673
+      ]
+    },
+    {
+      "id": "6311-14",
+      "name": "東山公園",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-14.jpg",
+      "ep": "1",
+      "geo": [
+        32.73438,
+        129.8754
+      ]
+    },
+    {
+      "id": "6311-15",
+      "name": "ファミリーマート 長崎グラバー通り店",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-15.jpg",
+      "ep": "1",
+      "geo": [
+        32.7359,
+        129.86945
+      ]
+    },
+    {
+      "id": "6311-16",
+      "name": "長崎市松が枝町駐車場",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-16.jpg",
+      "ep": "1",
+      "geo": [
+        32.73607,
+        129.86951
+      ]
+    },
+    {
+      "id": "6311-17",
+      "name": "自由亭 喫茶室",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-17.jpg",
+      "ep": "1",
+      "geo": [
+        32.7338,
+        129.86941
+      ]
+    },
+    {
+      "id": "6311-18",
+      "name": "祈念坂",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-18.jpg",
+      "ep": "1",
+      "geo": [
+        32.73386,
+        129.87036
+      ]
+    },
+    {
+      "id": "6311-19",
+      "name": "大浦展望公園",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-19.jpg",
+      "ep": "1",
+      "geo": [
+        32.73344,
+        129.8707
+      ]
+    },
+    {
+      "id": "6311-20",
+      "name": "グラバースカイロード 垂直エレベーター",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-20.jpg",
+      "ep": "1",
+      "geo": [
+        32.73247,
+        129.87062
+      ]
+    },
+    {
+      "id": "6311-21",
+      "name": "日の出町 (バス)",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-21.jpg",
+      "ep": "1",
+      "geo": [
+        32.73057,
+        129.87621
+      ]
+    },
+    {
+      "id": "6311-22",
+      "name": "出雲近隣公園",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-22.jpg",
+      "ep": "1",
+      "geo": [
+        32.72914,
+        129.87414
+      ]
+    },
+    {
+      "id": "6311-23",
+      "name": "長崎水辺の森公園",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-23.jpg",
+      "ep": "4",
+      "geo": [
+        32.74019,
+        129.8683
+      ]
+    },
+    {
+      "id": "6311-24",
+      "name": "グラバー園",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-24.jpg",
+      "ep": "4",
+      "geo": [
+        32.73367,
+        129.86884
+      ]
+    },
+    {
+      "id": "6311-25",
+      "name": "南高前 (バス)",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-25.jpg",
+      "ep": "4",
+      "geo": [
+        32.73133,
+        129.88592
+      ]
+    },
+    {
+      "id": "6311-26",
+      "name": "東山手甲十三番館",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-26.jpg",
+      "ep": "5",
+      "geo": [
+        32.73821,
+        129.87307
+      ]
+    },
+    {
+      "id": "6311-27",
+      "name": "石橋駅",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-27.jpg",
+      "ep": "5",
+      "geo": [
+        32.73433,
+        129.87235
+      ]
+    },
+    {
+      "id": "6311-28",
+      "name": "オランダ坂",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-28.jpg",
+      "ep": "5",
+      "geo": [
+        32.73767,
+        129.87329
+      ]
+    },
+    {
+      "id": "6311-29",
+      "name": "グラバースカイロード 垂直エレベーター",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-29.jpg",
+      "ep": "5",
+      "geo": [
+        32.73182,
+        129.87096
+      ]
+    },
+    {
+      "id": "6311-30",
+      "name": "（有）カネチ本舗",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-30.jpg",
+      "ep": "6",
+      "geo": [
+        32.73152,
+        129.88495
+      ]
+    },
+    {
+      "id": "6311-31",
+      "name": "グラバー園",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-31.jpg",
+      "ep": "6",
+      "geo": [
+        32.73437,
+        129.86926
+      ]
+    },
+    {
+      "id": "6311-32",
+      "name": "グラバー園",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-32.jpg",
+      "ep": "6",
+      "geo": [
+        32.73314,
+        129.86957
+      ]
+    },
+    {
+      "id": "6311-33",
+      "name": "西浜町駅",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-33.jpg",
+      "ep": "6",
+      "geo": [
+        32.74378,
+        129.87614
+      ]
+    },
+    {
+      "id": "6311-34",
+      "name": "長崎の猫雑貨",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-34.jpg",
+      "ep": "6",
+      "geo": [
+        32.74762,
+        129.87942
+      ]
+    },
+    {
+      "id": "6311-35",
+      "name": "めがね橋駅",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-35.jpg",
+      "ep": "6",
+      "geo": [
+        32.74707,
+        129.87858
+      ]
+    },
+    {
+      "id": "6311-36",
+      "name": "長崎水辺の森公園",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-36.jpg",
+      "ep": "7",
+      "geo": [
+        32.73985,
+        129.86872
+      ]
+    },
+    {
+      "id": "6311-37",
+      "name": "長崎税関",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-37.jpg",
+      "ep": "7",
+      "geo": [
+        32.74267,
+        129.87194
+      ]
+    },
+    {
+      "id": "6311-38",
+      "name": "伊王島祈りの岩",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-38.jpg",
+      "ep": "7",
+      "geo": [
+        32.71288,
+        129.76838
+      ]
+    },
+    {
+      "id": "6311-39",
+      "name": "コスタデルソル伊王島海水浴場",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-39.jpg",
+      "ep": "7",
+      "geo": [
+        32.71037,
+        129.76845
+      ]
+    },
+    {
+      "id": "6311-40",
+      "name": "女神大橋",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-40.jpg",
+      "ep": "7",
+      "geo": [
+        32.71888,
+        129.85612
+      ]
+    },
+    {
+      "id": "6311-41",
+      "name": "女神大橋",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-41.jpg",
+      "ep": "7",
+      "geo": [
+        32.72095,
+        129.85088
+      ]
+    },
+    {
+      "id": "6311-42",
+      "name": "グラバースカイロード 斜行エレベーター",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-42.jpg",
+      "ep": "8",
+      "geo": [
+        32.73339,
+        129.87203
+      ]
+    },
+    {
+      "id": "6311-43",
+      "name": "おらんだ橋",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-43.jpg",
+      "ep": "8",
+      "geo": [
+        32.74272,
+        129.87477
+      ]
+    },
+    {
+      "id": "6311-44",
+      "name": "きやす食堂",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-44.jpg",
+      "ep": "8",
+      "geo": [
+        32.7334,
+        129.88512
+      ]
+    },
+    {
+      "id": "6311-45",
+      "name": "山崎美容室",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-45.jpg",
+      "ep": "8",
+      "geo": [
+        32.73858,
+        129.88101
+      ]
+    },
+    {
+      "id": "6311-46",
+      "name": "東山公園",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-46.jpg",
+      "ep": "8",
+      "geo": [
+        32.73367,
+        129.87642
+      ]
+    },
+    {
+      "id": "6311-47",
+      "name": "東山公園",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-47.jpg",
+      "ep": "8",
+      "geo": [
+        32.73427,
+        129.8757
+      ]
+    },
+    {
+      "id": "6311-48",
+      "name": "東山公園",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-48.jpg",
+      "ep": "8",
+      "geo": [
+        32.73434,
+        129.87562
+      ]
+    },
+    {
+      "id": "6311-49",
+      "name": "東山公園",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-49.jpg",
+      "ep": "8",
+      "geo": [
+        32.73454,
+        129.87505
+      ]
+    },
+    {
+      "id": "6311-50",
+      "name": "さつき美容室",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-50.jpg",
+      "ep": "8",
+      "geo": [
+        32.73386,
+        129.87423
+      ]
+    },
+    {
+      "id": "6311-51",
+      "name": "グラバースカイロード 垂直エレベーター",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-51.jpg",
+      "ep": "8",
+      "geo": [
+        32.73281,
+        129.87026
+      ]
+    },
+    {
+      "id": "6311-52",
+      "name": "南山手レストハウス",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-52.jpg",
+      "ep": "8",
+      "geo": [
+        32.73321,
+        129.87056
+      ]
+    },
+    {
+      "id": "6311-53",
+      "name": "祈念坂",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-53.jpg",
+      "ep": "8",
+      "geo": [
+        32.73438,
+        129.87061
+      ]
+    },
+    {
+      "id": "6311-54",
+      "name": "グラバースカイロード 斜行エレベーター",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-54.jpg",
+      "ep": "8",
+      "geo": [
+        32.73321,
+        129.87207
+      ]
+    },
+    {
+      "id": "6311-55",
+      "name": "昭和会病院",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-55.jpg",
+      "ep": "8",
+      "geo": [
+        32.73675,
+        129.87329
+      ]
+    },
+    {
+      "id": "6311-56",
+      "name": "東山手洋風住宅群",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-56.jpg",
+      "ep": "8",
+      "geo": [
+        32.73559,
+        129.87345
+      ]
+    },
+    {
+      "id": "6311-57",
+      "name": "崇福寺駅",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-57.jpg",
+      "ep": "9",
+      "geo": [
+        32.74131,
+        129.88241
+      ]
+    },
+    {
+      "id": "6311-58",
+      "name": "カフェルクス 水辺の森店",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-58.jpg",
+      "ep": "9",
+      "geo": [
+        32.74062,
+        129.87217
+      ]
+    },
+    {
+      "id": "6311-59",
+      "name": "長崎県美術館",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-59.jpg",
+      "ep": "9",
+      "geo": [
+        32.7412,
+        129.87118
+      ]
+    },
+    {
+      "id": "6311-60",
+      "name": "長崎水辺の森公園",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-60.jpg",
+      "ep": "9",
+      "geo": [
+        32.7418,
+        129.8696
+      ]
+    },
+    {
+      "id": "6311-61",
+      "name": "長崎水辺の森公園",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-61.jpg",
+      "ep": "9",
+      "geo": [
+        32.74044,
+        129.86922
+      ]
+    },
+    {
+      "id": "6311-62",
+      "name": "袋町橋",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-62.jpg",
+      "ep": "9",
+      "geo": [
+        32.74697,
+        129.87972
+      ]
+    },
+    {
+      "id": "6311-63",
+      "name": "天主堂の見える丘",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-63.jpg",
+      "ep": "9",
+      "geo": [
+        32.77696,
+        129.86464
+      ]
+    },
+    {
+      "id": "6311-64",
+      "name": "岩杉神社",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-64.jpg",
+      "ep": "9",
+      "geo": [
+        32.76085,
+        129.87668
+      ]
+    },
+    {
+      "id": "6311-65",
+      "name": "六角堂",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-65.jpg",
+      "ep": "9",
+      "geo": [
+        32.75449,
+        129.88075
+      ]
+    },
+    {
+      "id": "6311-66",
+      "name": "若宮稲荷神社",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-66.jpg",
+      "ep": "9",
+      "geo": [
+        32.74907,
+        129.88773
+      ]
+    },
+    {
+      "id": "6311-67",
+      "name": "風頭公園展望台",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-67.jpg",
+      "ep": "9",
+      "geo": [
+        32.74612,
+        129.88601
+      ]
+    },
+    {
+      "id": "6311-68",
+      "name": "高丘ハイツ",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-68.jpg",
+      "ep": "10",
+      "geo": [
+        32.73107,
+        129.88362
+      ]
+    },
+    {
+      "id": "6311-69",
+      "name": "レオパレス テラス上小島",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-69.jpg",
+      "ep": "10",
+      "geo": [
+        32.73825,
+        129.88239
+      ]
+    },
+    {
+      "id": "6311-70",
+      "name": "聖徳院",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-70.jpg",
+      "ep": "10",
+      "geo": [
+        32.72953,
+        129.8697
+      ]
+    },
+    {
+      "id": "6311-71",
+      "name": "旧三菱第2ドックハウス",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-71.jpg",
+      "ep": "10",
+      "geo": [
+        32.73205,
+        129.87006
+      ]
+    },
+    {
+      "id": "6311-72",
+      "name": "栗の浦浜",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-72.jpg",
+      "ep": "11",
+      "geo": [
+        32.69006,
+        129.79303
+      ]
+    },
+    {
+      "id": "6311-73",
+      "name": "平松市場",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-73.jpg",
+      "ep": "12",
+      "geo": [
+        32.73208,
+        129.88463
+      ]
+    },
+    {
+      "id": "6311-74",
+      "name": "上小島清水公園",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-74.jpg",
+      "ep": "12",
+      "geo": [
+        32.73088,
+        129.88682
+      ]
+    },
+    {
+      "id": "6311-75",
+      "name": "丸尾神社下 (バス)",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-75.jpg",
+      "ep": "12",
+      "geo": [
+        32.7315,
+        129.87977
+      ]
+    },
+    {
+      "id": "6311-76",
+      "name": "出雲近隣公園",
+      "image": "https://image.xinu.ink/pic/data/6311/images/6311-76.jpg",
+      "ep": "12",
+      "geo": [
+        32.72899,
+        129.87438
+      ]
+    }
+  ]
+}

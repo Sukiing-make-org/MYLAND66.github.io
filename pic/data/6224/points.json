@@ -1,0 +1,44 @@
+{
+  "points": [
+    {
+      "id": "6224-1",
+      "name": "COVE KAWANA",
+      "image": "https://image.xinu.ink/pic/data/6224/images/6224-1.jpg",
+      "ep": "ED",
+      "geo": [
+        34.95254,
+        139.13622
+      ]
+    },
+    {
+      "id": "6224-2",
+      "name": "タートルベイKAWANA",
+      "image": "https://image.xinu.ink/pic/data/6224/images/6224-2.jpg",
+      "ep": "2",
+      "geo": [
+        34.95233,
+        139.13546
+      ]
+    },
+    {
+      "id": "6224-3",
+      "name": "川奈駅",
+      "image": "https://image.xinu.ink/pic/data/6224/images/6224-3.jpg",
+      "ep": "10",
+      "geo": [
+        34.95112,
+        139.12349
+      ]
+    },
+    {
+      "id": "6224-4",
+      "name": "シネマサンシャイン沼津",
+      "image": "https://image.xinu.ink/pic/data/6224/images/6224-4.jpg",
+      "ep": "10",
+      "geo": [
+        35.10415,
+        138.86071
+      ]
+    }
+  ]
+}

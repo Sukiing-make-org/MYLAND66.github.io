@@ -1,0 +1,584 @@
+{
+  "points": [
+    {
+      "id": "6304-1",
+      "name": "ナチュラルカフェ",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-1.jpg",
+      "ep": "ED",
+      "geo": [
+        35.43222,
+        136.76719
+      ]
+    },
+    {
+      "id": "6304-2",
+      "name": "忠節橋(バス)",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-2.jpg",
+      "ep": "ED",
+      "geo": [
+        35.4316,
+        136.74958
+      ]
+    },
+    {
+      "id": "6304-3",
+      "name": "金華山展望台",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-3.jpg",
+      "ep": "ED",
+      "geo": [
+        35.43246,
+        136.78063
+      ]
+    },
+    {
+      "id": "6304-4",
+      "name": "（株）大垣共立銀行 則武支店",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-4.jpg",
+      "ep": "ED",
+      "geo": [
+        35.44195,
+        136.74642
+      ]
+    },
+    {
+      "id": "6304-5",
+      "name": "岐阜公園",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-5.jpg",
+      "ep": "ED",
+      "geo": [
+        35.43376,
+        136.77337
+      ]
+    },
+    {
+      "id": "6304-6",
+      "name": "忠節橋",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-6.jpg",
+      "ep": "1",
+      "geo": [
+        35.4293,
+        136.75044
+      ]
+    },
+    {
+      "id": "6304-7",
+      "name": "パソコンシェルジュ岐阜店",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-7.jpg",
+      "ep": "1",
+      "geo": [
+        35.43235,
+        136.7497
+      ]
+    },
+    {
+      "id": "6304-8",
+      "name": "国土交通省 木曽川上流河川事務所",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-8.jpg",
+      "ep": "1",
+      "geo": [
+        35.42907,
+        136.74927
+      ]
+    },
+    {
+      "id": "6304-9",
+      "name": "AND LADY",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-9.jpg",
+      "ep": "1",
+      "geo": [
+        35.42726,
+        136.76484
+      ]
+    },
+    {
+      "id": "6304-10",
+      "name": "セブン-イレブン 岐阜明徳町店",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-10.jpg",
+      "ep": "1",
+      "geo": [
+        35.42343,
+        136.75839
+      ]
+    },
+    {
+      "id": "6304-11",
+      "name": "柳ヶ瀬日ノ出町商店街",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-11.jpg",
+      "ep": "2",
+      "geo": [
+        35.41863,
+        136.75913
+      ]
+    },
+    {
+      "id": "6304-12",
+      "name": "モスバーガー柳ヶ瀬中央店",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-12.jpg",
+      "ep": "2",
+      "geo": [
+        35.41871,
+        136.75823
+      ]
+    },
+    {
+      "id": "6304-13",
+      "name": "岐阜市医師会",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-13.jpg",
+      "ep": "2",
+      "geo": [
+        35.42754,
+        136.7478
+      ]
+    },
+    {
+      "id": "6304-14",
+      "name": "後藤邸",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-14.jpg",
+      "ep": "2",
+      "geo": [
+        35.43564,
+        136.7695
+      ]
+    },
+    {
+      "id": "6304-15",
+      "name": "日の丸タクシーのりば（長良橋）",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-15.jpg",
+      "ep": "2",
+      "geo": [
+        35.43629,
+        136.77319
+      ]
+    },
+    {
+      "id": "6304-16",
+      "name": "材木町陸閘",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-16.jpg",
+      "ep": "2",
+      "geo": [
+        35.43552,
+        136.76948
+      ]
+    },
+    {
+      "id": "6304-17",
+      "name": "Princess Branche Pâtisserie KURA",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-17.jpg",
+      "ep": "3",
+      "geo": [
+        35.44125,
+        136.74926
+      ]
+    },
+    {
+      "id": "6304-18",
+      "name": "東海自動車学校",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-18.jpg",
+      "ep": "3",
+      "geo": [
+        35.38638,
+        136.62022
+      ]
+    },
+    {
+      "id": "6304-19",
+      "name": "岐阜ダイハツ販売 長良店",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-19.jpg",
+      "ep": "3",
+      "geo": [
+        35.45194,
+        136.78259
+      ]
+    },
+    {
+      "id": "6304-20",
+      "name": "ITTO個別指導学院 長良校",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-20.jpg",
+      "ep": "3",
+      "geo": [
+        35.45157,
+        136.78455
+      ]
+    },
+    {
+      "id": "6304-21",
+      "name": "大野佛壇大佛堂",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-21.jpg",
+      "ep": "3",
+      "geo": [
+        35.47441,
+        136.78729
+      ]
+    },
+    {
+      "id": "6304-22",
+      "name": "長良竜東町2丁目",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-22.jpg",
+      "ep": "3",
+      "geo": [
+        35.45354,
+        136.78506
+      ]
+    },
+    {
+      "id": "6304-23",
+      "name": "Happy End",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-23.jpg",
+      "ep": "3",
+      "geo": [
+        35.45438,
+        136.78841
+      ]
+    },
+    {
+      "id": "6304-24",
+      "name": "子ども英語Labo Party 長良教室",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-24.jpg",
+      "ep": "3",
+      "geo": [
+        35.45418,
+        136.78831
+      ]
+    },
+    {
+      "id": "6304-25",
+      "name": "弘法前",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-25.jpg",
+      "ep": "3",
+      "geo": [
+        35.47493,
+        136.78696
+      ]
+    },
+    {
+      "id": "6304-26",
+      "name": "琴平神社",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-26.jpg",
+      "ep": "4",
+      "geo": [
+        35.41921,
+        136.76408
+      ]
+    },
+    {
+      "id": "6304-27",
+      "name": "粕森公園",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-27.jpg",
+      "ep": "4",
+      "geo": [
+        35.41904,
+        136.7646
+      ]
+    },
+    {
+      "id": "6304-28",
+      "name": "忠節（南）",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-28.jpg",
+      "ep": "4",
+      "geo": [
+        35.43345,
+        136.74751
+      ]
+    },
+    {
+      "id": "6304-29",
+      "name": "三田洞自動車学校",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-29.jpg",
+      "ep": "4",
+      "geo": [
+        35.47943,
+        136.79662
+      ]
+    },
+    {
+      "id": "6304-30",
+      "name": "伊奈波神社 参道",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-30.jpg",
+      "ep": "5",
+      "geo": [
+        35.42813,
+        136.76795
+      ]
+    },
+    {
+      "id": "6304-31",
+      "name": "伊奈波神社",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-31.jpg",
+      "ep": "5",
+      "geo": [
+        35.42743,
+        136.76948
+      ]
+    },
+    {
+      "id": "6304-32",
+      "name": "安楽寺",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-32.jpg",
+      "ep": "5",
+      "geo": [
+        35.42834,
+        136.76731
+      ]
+    },
+    {
+      "id": "6304-33",
+      "name": "ピッツェリア ダ・バッボ",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-33.jpg",
+      "ep": "6",
+      "geo": [
+        35.41725,
+        136.75712
+      ]
+    },
+    {
+      "id": "6304-34",
+      "name": "信長ゆめ広場",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-34.jpg",
+      "ep": "7",
+      "geo": [
+        35.4101,
+        136.757
+      ]
+    },
+    {
+      "id": "6304-35",
+      "name": "丸万うなぎ食堂",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-35.jpg",
+      "ep": "7",
+      "geo": [
+        35.41935,
+        136.75747
+      ]
+    },
+    {
+      "id": "6304-36",
+      "name": "丸幸水産よしまる",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-36.jpg",
+      "ep": "7",
+      "geo": [
+        35.4174,
+        136.75997
+      ]
+    },
+    {
+      "id": "6304-37",
+      "name": "わらっとこNEO柳ヶ瀬",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-37.jpg",
+      "ep": "7",
+      "geo": [
+        35.41822,
+        136.75911
+      ]
+    },
+    {
+      "id": "6304-38",
+      "name": "若き日の織田信長像",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-38.jpg",
+      "ep": "7",
+      "geo": [
+        35.43559,
+        136.77316
+      ]
+    },
+    {
+      "id": "6304-39",
+      "name": "岐阜城 楽市楽座",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-39.jpg",
+      "ep": "7",
+      "geo": [
+        35.43557,
+        136.77375
+      ]
+    },
+    {
+      "id": "6304-40",
+      "name": "信長の庭",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-40.jpg",
+      "ep": "7",
+      "geo": [
+        35.43465,
+        136.77443
+      ]
+    },
+    {
+      "id": "6304-41",
+      "name": "ナミコシ",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-41.jpg",
+      "ep": "7",
+      "geo": [
+        35.4192,
+        136.75864
+      ]
+    },
+    {
+      "id": "6304-42",
+      "name": "いしぐれ珈琲",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-42.jpg",
+      "ep": "7",
+      "geo": [
+        35.41881,
+        136.75917
+      ]
+    },
+    {
+      "id": "6304-43",
+      "name": "ななや",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-43.jpg",
+      "ep": "7",
+      "geo": [
+        35.41958,
+        136.75965
+      ]
+    },
+    {
+      "id": "6304-44",
+      "name": "岐阜タンメン 長良店",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-44.jpg",
+      "ep": "7",
+      "geo": [
+        35.45431,
+        136.75555
+      ]
+    },
+    {
+      "id": "6304-45",
+      "name": "川原町倶楽部 ラ・ルーナ ピエーナ",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-45.jpg",
+      "ep": "8",
+      "geo": [
+        35.43642,
+        136.7708
+      ]
+    },
+    {
+      "id": "6304-46",
+      "name": "長良橋",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-46.jpg",
+      "ep": "8",
+      "geo": [
+        35.43825,
+        136.77327
+      ]
+    },
+    {
+      "id": "6304-47",
+      "name": "備長いろり庵",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-47.jpg",
+      "ep": "8",
+      "geo": [
+        35.41925,
+        136.75831
+      ]
+    },
+    {
+      "id": "6304-48",
+      "name": "タカハシ理容院",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-48.jpg",
+      "ep": "8",
+      "geo": [
+        35.42811,
+        136.75123
+      ]
+    },
+    {
+      "id": "6304-49",
+      "name": "岐阜市南部スポーツセンター",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-49.jpg",
+      "ep": "8",
+      "geo": [
+        35.37281,
+        136.73108
+      ]
+    },
+    {
+      "id": "6304-50",
+      "name": "グレース・モリ",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-50.jpg",
+      "ep": "9",
+      "geo": [
+        35.41128,
+        136.75612
+      ]
+    },
+    {
+      "id": "6304-51",
+      "name": "松月堂 柳ヶ瀬本店",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-51.jpg",
+      "ep": "9",
+      "geo": [
+        35.41923,
+        136.75843
+      ]
+    },
+    {
+      "id": "6304-52",
+      "name": "株式会社ビゼン",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-52.jpg",
+      "ep": "9",
+      "geo": [
+        35.41184,
+        136.75623
+      ]
+    },
+    {
+      "id": "6304-53",
+      "name": "（株）北川商店",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-53.jpg",
+      "ep": "9",
+      "geo": [
+        35.41192,
+        136.75627
+      ]
+    },
+    {
+      "id": "6304-54",
+      "name": "アパレル・トップ",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-54.jpg",
+      "ep": "9",
+      "geo": [
+        35.41107,
+        136.75617
+      ]
+    },
+    {
+      "id": "6304-55",
+      "name": "岐阜中警察署 駅前交番",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-55.jpg",
+      "ep": "10",
+      "geo": [
+        35.4107,
+        136.75631
+      ]
+    },
+    {
+      "id": "6304-56",
+      "name": "麺や六三六 岐阜店",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-56.jpg",
+      "ep": "10",
+      "geo": [
+        35.4107,
+        136.75885
+      ]
+    },
+    {
+      "id": "6304-57",
+      "name": "想定外",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-57.jpg",
+      "ep": "10",
+      "geo": [
+        35.4115,
+        136.75778
+      ]
+    },
+    {
+      "id": "6304-58",
+      "name": "岐阜柳ヶ瀬 CINEX",
+      "image": "https://image.xinu.ink/pic/data/6304/images/6304-58.jpg",
+      "ep": "10",
+      "geo": [
+        35.41854,
+        136.75834
+      ]
+    }
+  ]
+}

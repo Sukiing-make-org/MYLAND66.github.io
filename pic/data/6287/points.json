@@ -1,0 +1,44 @@
+{
+  "points": [
+    {
+      "id": "6287-1",
+      "name": "法観寺",
+      "image": "https://image.xinu.ink/pic/data/6287/images/6287-1.jpg",
+      "ep": "1",
+      "geo": [
+        34.99857,
+        135.77849
+      ]
+    },
+    {
+      "id": "6287-2",
+      "name": "聖坂",
+      "image": "https://image.xinu.ink/pic/data/6287/images/6287-2.jpg",
+      "ep": "2",
+      "geo": [
+        35.6447,
+        139.74134
+      ]
+    },
+    {
+      "id": "6287-3",
+      "name": "三田警察署 亀塚公園前交番",
+      "image": "https://image.xinu.ink/pic/data/6287/images/6287-3.jpg",
+      "ep": "2",
+      "geo": [
+        35.64375,
+        139.74057
+      ]
+    },
+    {
+      "id": "6287-4",
+      "name": "亀塚公園",
+      "image": "https://image.xinu.ink/pic/data/6287/images/6287-4.jpg",
+      "ep": "2",
+      "geo": [
+        35.64348,
+        139.74027
+      ]
+    }
+  ]
+}

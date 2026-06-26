@@ -1,0 +1,844 @@
+{
+  "points": [
+    {
+      "id": "6410-1",
+      "name": "東京都立大学 南大沢キャンパス",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-1.jpg",
+      "ep": "OP",
+      "geo": [
+        35.62172,
+        139.3868
+      ]
+    },
+    {
+      "id": "6410-2",
+      "name": "片瀬東浜海水浴場",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-2.jpg",
+      "ep": "ED",
+      "geo": [
+        35.30779,
+        139.48799
+      ]
+    },
+    {
+      "id": "6410-3",
+      "name": "東京都立大学 南大沢キャンパス",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-3.jpg",
+      "ep": "1",
+      "geo": [
+        35.61695,
+        139.37746
+      ]
+    },
+    {
+      "id": "6410-4",
+      "name": "東京都立大学 南大沢キャンパス",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-4.jpg",
+      "ep": "1",
+      "geo": [
+        35.61643,
+        139.37788
+      ]
+    },
+    {
+      "id": "6410-5",
+      "name": "川ばた",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.65546,
+        139.31467
+      ]
+    },
+    {
+      "id": "6410-6",
+      "name": "Grillエスエム",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-6.jpg",
+      "ep": "1",
+      "geo": [
+        35.66065,
+        139.33756
+      ]
+    },
+    {
+      "id": "6410-7",
+      "name": "ほっこり中華そば もつけ",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-7.jpg",
+      "ep": "1",
+      "geo": [
+        35.6531,
+        139.33314
+      ]
+    },
+    {
+      "id": "6410-8",
+      "name": "陵南公園",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-8.jpg",
+      "ep": "1",
+      "geo": [
+        35.64781,
+        139.28675
+      ]
+    },
+    {
+      "id": "6410-9",
+      "name": "東京都立大学 南大沢キャンパス",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-9.jpg",
+      "ep": "1",
+      "geo": [
+        35.61806,
+        139.37915
+      ]
+    },
+    {
+      "id": "6410-10",
+      "name": "福本食品",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-10.jpg",
+      "ep": "1",
+      "geo": [
+        35.6466,
+        139.28677
+      ]
+    },
+    {
+      "id": "6410-11",
+      "name": "伊勢屋 (いせや)本店",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-11.jpg",
+      "ep": "1",
+      "geo": [
+        35.66016,
+        139.33311
+      ]
+    },
+    {
+      "id": "6410-12",
+      "name": "ドトールコーヒーショップ 高尾駅前店",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-12.jpg",
+      "ep": "1",
+      "geo": [
+        35.64207,
+        139.28322
+      ]
+    },
+    {
+      "id": "6410-13",
+      "name": "たかお食堂",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-13.jpg",
+      "ep": "1",
+      "geo": [
+        35.64151,
+        139.28241
+      ]
+    },
+    {
+      "id": "6410-14",
+      "name": "東京都立大学 南大沢キャンパス",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-14.jpg",
+      "ep": "2",
+      "geo": [
+        35.62025,
+        139.3834
+      ]
+    },
+    {
+      "id": "6410-15",
+      "name": "八王子南大沢五郵便局",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-15.jpg",
+      "ep": "2",
+      "geo": [
+        35.61235,
+        139.36941
+      ]
+    },
+    {
+      "id": "6410-16",
+      "name": "akippa | 木住野邸_第1駐車場",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-16.jpg",
+      "ep": "3",
+      "geo": [
+        35.64567,
+        139.28241
+      ]
+    },
+    {
+      "id": "6410-17",
+      "name": "高尾駅",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-17.jpg",
+      "ep": "3",
+      "geo": [
+        35.64197,
+        139.28271
+      ]
+    },
+    {
+      "id": "6410-18",
+      "name": "高尾駅",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-18.jpg",
+      "ep": "3",
+      "geo": [
+        35.64175,
+        139.28204
+      ]
+    },
+    {
+      "id": "6410-19",
+      "name": "高尾山口駅",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-19.jpg",
+      "ep": "3",
+      "geo": [
+        35.63251,
+        139.2701
+      ]
+    },
+    {
+      "id": "6410-20",
+      "name": "髙橋家",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-20.jpg",
+      "ep": "3",
+      "geo": [
+        35.63127,
+        139.26798
+      ]
+    },
+    {
+      "id": "6410-21",
+      "name": "高尾すみれ庵",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-21.jpg",
+      "ep": "3",
+      "geo": [
+        35.63122,
+        139.26741
+      ]
+    },
+    {
+      "id": "6410-22",
+      "name": "清滝駅",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-22.jpg",
+      "ep": "3",
+      "geo": [
+        35.63123,
+        139.26713
+      ]
+    },
+    {
+      "id": "6410-23",
+      "name": "リフト山上駅",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-23.jpg",
+      "ep": "3",
+      "geo": [
+        35.63237,
+        139.25765
+      ]
+    },
+    {
+      "id": "6410-24",
+      "name": "リフト山上駅",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-24.jpg",
+      "ep": "3",
+      "geo": [
+        35.6323,
+        139.25769
+      ]
+    },
+    {
+      "id": "6410-25",
+      "name": "不思議童子像",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-25.jpg",
+      "ep": "3",
+      "geo": [
+        35.63186,
+        139.2569
+      ]
+    },
+    {
+      "id": "6410-26",
+      "name": "たこ杉",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-26.jpg",
+      "ep": "3",
+      "geo": [
+        35.63016,
+        139.25443
+      ]
+    },
+    {
+      "id": "6410-27",
+      "name": "権現茶屋",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-27.jpg",
+      "ep": "3",
+      "geo": [
+        35.62756,
+        139.25024
+      ]
+    },
+    {
+      "id": "6410-28",
+      "name": "天狗の腰掛け杉",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-28.jpg",
+      "ep": "3",
+      "geo": [
+        35.62693,
+        139.2501
+      ]
+    },
+    {
+      "id": "6410-29",
+      "name": "仁王門",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-29.jpg",
+      "ep": "3",
+      "geo": [
+        35.62563,
+        139.25032
+      ]
+    },
+    {
+      "id": "6410-30",
+      "name": "高尾山 薬王院 有喜寺",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-30.jpg",
+      "ep": "3",
+      "geo": [
+        35.62579,
+        139.2503
+      ]
+    },
+    {
+      "id": "6410-31",
+      "name": "高尾山 薬王院 有喜寺",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-31.jpg",
+      "ep": "3",
+      "geo": [
+        35.62648,
+        139.24984
+      ]
+    },
+    {
+      "id": "6410-32",
+      "name": "やまびこ茶屋",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-32.jpg",
+      "ep": "3",
+      "geo": [
+        35.62551,
+        139.24378
+      ]
+    },
+    {
+      "id": "6410-33",
+      "name": "高尾山 大見晴台",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-33.jpg",
+      "ep": "3",
+      "geo": [
+        35.62518,
+        139.2438
+      ]
+    },
+    {
+      "id": "6410-34",
+      "name": "東京都立大学 南大沢キャンパス",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-34.jpg",
+      "ep": "4",
+      "geo": [
+        35.61661,
+        139.37766
+      ]
+    },
+    {
+      "id": "6410-35",
+      "name": "府中運転免許試験場 食堂",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-35.jpg",
+      "ep": "5",
+      "geo": [
+        35.68853,
+        139.51501
+      ]
+    },
+    {
+      "id": "6410-36",
+      "name": "セブン-イレブン 八王子東浅川店",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-36.jpg",
+      "ep": "5",
+      "geo": [
+        35.64694,
+        139.2895
+      ]
+    },
+    {
+      "id": "6410-37",
+      "name": "ファミリーマート 八王子高尾町店",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-37.jpg",
+      "ep": "5",
+      "geo": [
+        35.63571,
+        139.27023
+      ]
+    },
+    {
+      "id": "6410-38",
+      "name": "石川パーキングエリア (上り)",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-38.jpg",
+      "ep": "5",
+      "geo": [
+        35.68,
+        139.37433
+      ]
+    },
+    {
+      "id": "6410-39",
+      "name": "築地にっぽん漁港市場",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-39.jpg",
+      "ep": "5",
+      "geo": [
+        35.66522,
+        139.76979
+      ]
+    },
+    {
+      "id": "6410-40",
+      "name": "海鮮宝船",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-40.jpg",
+      "ep": "5",
+      "geo": [
+        35.6651,
+        139.77
+      ]
+    },
+    {
+      "id": "6410-41",
+      "name": "つきぢ松露(しょうろ)本店",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-41.jpg",
+      "ep": "5",
+      "geo": [
+        35.66511,
+        139.77022
+      ]
+    },
+    {
+      "id": "6410-42",
+      "name": "㈱ヤマカ",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-42.jpg",
+      "ep": "5",
+      "geo": [
+        35.66579,
+        139.7703
+      ]
+    },
+    {
+      "id": "6410-43",
+      "name": "ファミリーマート 江東有明店",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-43.jpg",
+      "ep": "5",
+      "geo": [
+        35.64228,
+        139.7962
+      ]
+    },
+    {
+      "id": "6410-44",
+      "name": "葛西渚橋",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-44.jpg",
+      "ep": "5",
+      "geo": [
+        35.63971,
+        139.85753
+      ]
+    },
+    {
+      "id": "6410-45",
+      "name": "かさい海浜公園 なぎさバーベキュー",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-45.jpg",
+      "ep": "5",
+      "geo": [
+        35.63959,
+        139.85282
+      ]
+    },
+    {
+      "id": "6410-46",
+      "name": "葛西臨海公園",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-46.jpg",
+      "ep": "5",
+      "geo": [
+        35.64308,
+        139.85778
+      ]
+    },
+    {
+      "id": "6410-47",
+      "name": "三井アウトレットパーク 多摩南大沢",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-47.jpg",
+      "ep": "6",
+      "geo": [
+        35.61542,
+        139.37882
+      ]
+    },
+    {
+      "id": "6410-48",
+      "name": "三井アウトレットパーク 多摩南大沢",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-48.jpg",
+      "ep": "6",
+      "geo": [
+        35.61495,
+        139.37777
+      ]
+    },
+    {
+      "id": "6410-49",
+      "name": "三井アウトレットパーク 多摩南大沢",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-49.jpg",
+      "ep": "6",
+      "geo": [
+        35.61474,
+        139.37829
+      ]
+    },
+    {
+      "id": "6410-50",
+      "name": "スポーツクラブ メガロス八王子",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-50.jpg",
+      "ep": "6",
+      "geo": [
+        35.65409,
+        139.34275
+      ]
+    },
+    {
+      "id": "6410-51",
+      "name": "スポーツクラブ メガロス八王子",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-51.jpg",
+      "ep": "6",
+      "geo": [
+        35.65391,
+        139.34252
+      ]
+    },
+    {
+      "id": "6410-52",
+      "name": "Soul Grill",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-52.jpg",
+      "ep": "6",
+      "geo": [
+        35.65558,
+        139.33396
+      ]
+    },
+    {
+      "id": "6410-53",
+      "name": "フレンチレストランS’Amuser（サミュゼ）",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-53.jpg",
+      "ep": "7",
+      "geo": [
+        36.21385,
+        136.14893
+      ]
+    },
+    {
+      "id": "6410-54",
+      "name": "ビックカメラ JR八王子駅店",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-54.jpg",
+      "ep": "7",
+      "geo": [
+        35.65441,
+        139.33843
+      ]
+    },
+    {
+      "id": "6410-55",
+      "name": "熱海駅",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-55.jpg",
+      "ep": "7",
+      "geo": [
+        35.10355,
+        139.07816
+      ]
+    },
+    {
+      "id": "6410-56",
+      "name": "熱海駅",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-56.jpg",
+      "ep": "7",
+      "geo": [
+        35.10351,
+        139.07792
+      ]
+    },
+    {
+      "id": "6410-57",
+      "name": "伊豆急下田駅",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-57.jpg",
+      "ep": "7",
+      "geo": [
+        34.67871,
+        138.94434
+      ]
+    },
+    {
+      "id": "6410-58",
+      "name": "門脇つり橋",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-58.jpg",
+      "ep": "7",
+      "geo": [
+        34.89047,
+        139.13872
+      ]
+    },
+    {
+      "id": "6410-59",
+      "name": "まどが浜海遊公園",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-59.jpg",
+      "ep": "7",
+      "geo": [
+        34.67585,
+        138.95537
+      ]
+    },
+    {
+      "id": "6410-60",
+      "name": "柳橋",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-60.jpg",
+      "ep": "7",
+      "geo": [
+        34.67166,
+        138.94322
+      ]
+    },
+    {
+      "id": "6410-61",
+      "name": "黒船",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-61.jpg",
+      "ep": "7",
+      "geo": [
+        34.67509,
+        138.95415
+      ]
+    },
+    {
+      "id": "6410-62",
+      "name": "下田とうきゅう",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-62.jpg",
+      "ep": "7",
+      "geo": [
+        34.67862,
+        138.94564
+      ]
+    },
+    {
+      "id": "6410-63",
+      "name": "サニーサイドコテージ",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-63.jpg",
+      "ep": "7",
+      "geo": [
+        34.65699,
+        138.90615
+      ]
+    },
+    {
+      "id": "6410-64",
+      "name": "エスフォルタアリーナ八王子",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-64.jpg",
+      "ep": "7",
+      "geo": [
+        35.64039,
+        139.29319
+      ]
+    },
+    {
+      "id": "6410-65",
+      "name": "鍋田浜海水浴場",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-65.jpg",
+      "ep": "7",
+      "geo": [
+        34.66691,
+        138.93613
+      ]
+    },
+    {
+      "id": "6410-66",
+      "name": "舟屋のお宿 汐の香",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-66.jpg",
+      "ep": "7",
+      "geo": [
+        35.67596,
+        135.28717
+      ]
+    },
+    {
+      "id": "6410-67",
+      "name": "弓ヶ浜",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-67.jpg",
+      "ep": "7",
+      "geo": [
+        34.63498,
+        138.89347
+      ]
+    },
+    {
+      "id": "6410-68",
+      "name": "道の駅 八王子滝山",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-68.jpg",
+      "ep": "9",
+      "geo": [
+        35.68652,
+        139.34141
+      ]
+    },
+    {
+      "id": "6410-69",
+      "name": "東京都立大学 南大沢キャンパス",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-69.jpg",
+      "ep": "9",
+      "geo": [
+        35.61922,
+        139.38059
+      ]
+    },
+    {
+      "id": "6410-70",
+      "name": "吉野家（農家）",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-70.jpg",
+      "ep": "10",
+      "geo": [
+        35.71635,
+        139.5103
+      ]
+    },
+    {
+      "id": "6410-71",
+      "name": "伊根舟屋ステイ 海凪",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-71.jpg",
+      "ep": "10",
+      "geo": [
+        35.6751,
+        135.28906
+      ]
+    },
+    {
+      "id": "6410-72",
+      "name": "舟屋の里公園",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-72.jpg",
+      "ep": "10",
+      "geo": [
+        35.67473,
+        135.29173
+      ]
+    },
+    {
+      "id": "6410-73",
+      "name": "薬師如来堂",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-73.jpg",
+      "ep": "10",
+      "geo": [
+        34.18532,
+        132.69111
+      ]
+    },
+    {
+      "id": "6410-74",
+      "name": "東京都立大学 南大沢キャンパス",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-74.jpg",
+      "ep": "11",
+      "geo": [
+        35.61611,
+        139.37811
+      ]
+    },
+    {
+      "id": "6410-75",
+      "name": "三井アウトレットパーク 多摩南大沢",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-75.jpg",
+      "ep": "11",
+      "geo": [
+        35.6151,
+        139.37882
+      ]
+    },
+    {
+      "id": "6410-76",
+      "name": "My Home // Coffee, Bakes, Beer",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-76.jpg",
+      "ep": "11",
+      "geo": [
+        35.64599,
+        139.28587
+      ]
+    },
+    {
+      "id": "6410-77",
+      "name": "こじま",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-77.jpg",
+      "ep": "11",
+      "geo": [
+        35.64696,
+        139.28843
+      ]
+    },
+    {
+      "id": "6410-78",
+      "name": "大進亭",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-78.jpg",
+      "ep": "12",
+      "geo": [
+        35.6782,
+        139.28396
+      ]
+    },
+    {
+      "id": "6410-79",
+      "name": "SPT館町駐車場",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-79.jpg",
+      "ep": "12",
+      "geo": [
+        35.63646,
+        139.29494
+      ]
+    },
+    {
+      "id": "6410-80",
+      "name": "手打ちそば麦角",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-80.jpg",
+      "ep": "12",
+      "geo": [
+        35.63594,
+        139.29463
+      ]
+    },
+    {
+      "id": "6410-81",
+      "name": "グリーンアートイノウエ",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-81.jpg",
+      "ep": "12",
+      "geo": [
+        35.63565,
+        139.29467
+      ]
+    },
+    {
+      "id": "6410-82",
+      "name": "御霊神社",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-82.jpg",
+      "ep": "12",
+      "geo": [
+        35.63463,
+        139.29377
+      ]
+    },
+    {
+      "id": "6410-83",
+      "name": "御霊神社",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-83.jpg",
+      "ep": "12",
+      "geo": [
+        35.63471,
+        139.29321
+      ]
+    },
+    {
+      "id": "6410-84",
+      "name": "デンファレ",
+      "image": "https://image.xinu.ink/pic/data/6410/images/6410-84.jpg",
+      "ep": "12",
+      "geo": [
+        35.63507,
+        139.29469
+      ]
+    }
+  ]
+}

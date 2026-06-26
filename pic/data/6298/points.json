@@ -1,0 +1,484 @@
+{
+  "points": [
+    {
+      "id": "6298-1",
+      "name": "曳舟駅",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-1.jpg",
+      "ep": "1",
+      "geo": [
+        35.7179116,
+        139.8163856
+      ]
+    },
+    {
+      "id": "6298-2",
+      "name": "おなかスクエア",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-2.jpg",
+      "ep": "1",
+      "geo": [
+        35.6958226,
+        139.8160253
+      ]
+    },
+    {
+      "id": "6298-3",
+      "name": "本所吾妻橋",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-3.jpg",
+      "ep": "1",
+      "geo": [
+        35.708552,
+        139.8051514
+      ]
+    },
+    {
+      "id": "6298-4",
+      "name": "大横川親水公園の滝",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-4.jpg",
+      "ep": "1",
+      "geo": [
+        35.7016914,
+        139.8083188
+      ]
+    },
+    {
+      "id": "6298-5",
+      "name": "カーニバルストリート",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-5.jpg",
+      "ep": "1",
+      "geo": [
+        35.4562925,
+        139.6355485
+      ]
+    },
+    {
+      "id": "6298-6",
+      "name": "日本丸メモリアルパーク",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-6.jpg",
+      "ep": "1",
+      "geo": [
+        35.4537189,
+        139.6328881
+      ]
+    },
+    {
+      "id": "6298-7",
+      "name": "コスモクロック21",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-7.jpg",
+      "ep": "1",
+      "geo": [
+        35.4555333,
+        139.637395
+      ]
+    },
+    {
+      "id": "6298-8",
+      "name": "近畿日本ツーリスト",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-8.jpg",
+      "ep": "2",
+      "geo": [
+        35.6752454,
+        139.7641718
+      ]
+    },
+    {
+      "id": "6298-9",
+      "name": "カフェ・喫茶 ニット",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-9.jpg",
+      "ep": "2",
+      "geo": [
+        35.695416,
+        139.8166133
+      ]
+    },
+    {
+      "id": "6298-10",
+      "name": "雷門",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-10.jpg",
+      "ep": "3",
+      "geo": [
+        35.7110262,
+        139.7962413
+      ]
+    },
+    {
+      "id": "6298-11",
+      "name": "今戸神社",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-11.jpg",
+      "ep": "3",
+      "geo": [
+        35.7190923,
+        139.803481
+      ]
+    },
+    {
+      "id": "6298-12",
+      "name": "浅草地下商店街",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-12.jpg",
+      "ep": "3",
+      "geo": [
+        35.7113342,
+        139.797699
+      ]
+    },
+    {
+      "id": "6298-13",
+      "name": "浅草バッティングスタジアム",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-13.jpg",
+      "ep": "3",
+      "geo": [
+        35.7128612,
+        139.7937075
+      ]
+    },
+    {
+      "id": "6298-14",
+      "name": "墨田区立隅田公園 魚つり場",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-14.jpg",
+      "ep": "3",
+      "geo": [
+        35.7138653,
+        139.8049408
+      ]
+    },
+    {
+      "id": "6298-15",
+      "name": "羽田空港 第２ターミナル",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-15.jpg",
+      "ep": "4",
+      "geo": [
+        35.5517246,
+        139.7880413
+      ]
+    },
+    {
+      "id": "6298-16",
+      "name": "熊本空港（阿蘇くまもと空港）",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-16.jpg",
+      "ep": "4",
+      "geo": [
+        32.8338873,
+        130.8585464
+      ]
+    },
+    {
+      "id": "6298-17",
+      "name": "阿蘇火山博物館",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-17.jpg",
+      "ep": "5",
+      "geo": [
+        32.88555,
+        131.05214
+      ]
+    },
+    {
+      "id": "6298-18",
+      "name": "錦糸町駅",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-18.jpg",
+      "ep": "6",
+      "geo": [
+        35.6973,
+        139.81374
+      ]
+    },
+    {
+      "id": "6298-19",
+      "name": "すみだトリフォニーホール入口（バス）",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-19.jpg",
+      "ep": "6",
+      "geo": [
+        35.69751,
+        139.80867
+      ]
+    },
+    {
+      "id": "6298-20",
+      "name": "セブン-イレブン ＪＲ錦糸町駅前店",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-20.jpg",
+      "ep": "6",
+      "geo": [
+        35.69616,
+        139.81373
+      ]
+    },
+    {
+      "id": "6298-21",
+      "name": "Super D'station 錦糸町店",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-21.jpg",
+      "ep": "6",
+      "geo": [
+        35.69562,
+        139.81668
+      ]
+    },
+    {
+      "id": "6298-22",
+      "name": "フレッシュネスバーガー錦糸町",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-22.jpg",
+      "ep": "6",
+      "geo": [
+        35.69596,
+        139.81626
+      ]
+    },
+    {
+      "id": "6298-23",
+      "name": "三井住友銀行 深川支店",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-23.jpg",
+      "ep": "6",
+      "geo": [
+        35.69522,
+        139.81524
+      ]
+    },
+    {
+      "id": "6298-24",
+      "name": "錦糸公園",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-24.jpg",
+      "ep": "6",
+      "geo": [
+        35.69927,
+        139.81543
+      ]
+    },
+    {
+      "id": "6298-25",
+      "name": "小梅橋",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-25.jpg",
+      "ep": "7",
+      "geo": [
+        35.70987,
+        139.80694
+      ]
+    },
+    {
+      "id": "6298-26",
+      "name": "ガラス工房ZO(ゾウ)",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-26.jpg",
+      "ep": "7",
+      "geo": [
+        35.7093472,
+        139.8073017
+      ]
+    },
+    {
+      "id": "6298-27",
+      "name": "東京ソラマチ タベテラス",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-27.jpg",
+      "ep": "8",
+      "geo": [
+        35.71015,
+        139.80997
+      ]
+    },
+    {
+      "id": "6298-28",
+      "name": "ソラマチひろば",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-28.jpg",
+      "ep": "8",
+      "geo": [
+        35.70981,
+        139.81128
+      ]
+    },
+    {
+      "id": "6298-29",
+      "name": "ソフトバンク東京ソラマチ",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-29.jpg",
+      "ep": "8",
+      "geo": [
+        35.70967,
+        139.81023
+      ]
+    },
+    {
+      "id": "6298-30",
+      "name": "真鯛らーめん 麺魚 錦糸町本店",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-30.jpg",
+      "ep": "8",
+      "geo": [
+        35.69423,
+        139.81185
+      ]
+    },
+    {
+      "id": "6298-31",
+      "name": "Canal Cafe",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-31.jpg",
+      "ep": "9",
+      "geo": [
+        35.69966,
+        139.74234
+      ]
+    },
+    {
+      "id": "6298-32",
+      "name": "飯田橋駅",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-32.jpg",
+      "ep": "9",
+      "geo": [
+        35.70015,
+        139.74366
+      ]
+    },
+    {
+      "id": "6298-33",
+      "name": "錦糸町駅1・2番線ホーム",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-33.jpg",
+      "ep": "9",
+      "geo": [
+        35.69664,
+        139.81411
+      ]
+    },
+    {
+      "id": "6298-34",
+      "name": "羽村駅",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-34.jpg",
+      "ep": "10",
+      "geo": [
+        35.75849,
+        139.31567
+      ]
+    },
+    {
+      "id": "6298-35",
+      "name": "羽村市観光案内所",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-35.jpg",
+      "ep": "10",
+      "geo": [
+        35.75699,
+        139.31442
+      ]
+    },
+    {
+      "id": "6298-36",
+      "name": "馬の水飲み場跡",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-36.jpg",
+      "ep": "10",
+      "geo": [
+        35.75637,
+        139.31337
+      ]
+    },
+    {
+      "id": "6298-37",
+      "name": "羽村草花丘陵自然公園",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-37.jpg",
+      "ep": "10",
+      "geo": [
+        35.75569,
+        139.30873
+      ]
+    },
+    {
+      "id": "6298-38",
+      "name": "RetroBB",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-38.jpg",
+      "ep": "10",
+      "geo": [
+        35.75114,
+        139.31471
+      ]
+    },
+    {
+      "id": "6298-39",
+      "name": "多摩川緑地福生加美上水公園",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-39.jpg",
+      "ep": "10",
+      "geo": [
+        35.74491,
+        139.31883
+      ]
+    },
+    {
+      "id": "6298-40",
+      "name": "玉川上水駅",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-40.jpg",
+      "ep": "10",
+      "geo": [
+        35.73124,
+        139.41788
+      ]
+    },
+    {
+      "id": "6298-41",
+      "name": "日本大学テニスコート",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-41.jpg",
+      "ep": "10",
+      "geo": [
+        35.73067,
+        139.42159
+      ]
+    },
+    {
+      "id": "6298-42",
+      "name": "上水小橋",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-42.jpg",
+      "ep": "10",
+      "geo": [
+        35.73028,
+        139.42337
+      ]
+    },
+    {
+      "id": "6298-43",
+      "name": "弁慶七戻り",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-43.jpg",
+      "ep": "11",
+      "geo": [
+        36.22415,
+        140.11137
+      ]
+    },
+    {
+      "id": "6298-44",
+      "name": "曙湯",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-44.jpg",
+      "ep": "11",
+      "geo": [
+        35.71814,
+        139.79541
+      ]
+    },
+    {
+      "id": "6298-45",
+      "name": "十八番",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-45.jpg",
+      "ep": "12",
+      "geo": [
+        35.71534,
+        139.81474
+      ]
+    },
+    {
+      "id": "6298-46",
+      "name": "浅草駅",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-46.jpg",
+      "ep": "12",
+      "geo": [
+        35.71138,
+        139.79788
+      ]
+    },
+    {
+      "id": "6298-47",
+      "name": "アサヒグループ本社 スーパードライホール",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-47.jpg",
+      "ep": "12",
+      "geo": [
+        35.71044,
+        139.80057
+      ]
+    },
+    {
+      "id": "6298-48",
+      "name": "墨田区立隅田公園 そよ風ひろば",
+      "image": "https://image.xinu.ink/pic/data/6298/images/6298-48.jpg",
+      "ep": "12",
+      "geo": [
+        35.71154,
+        139.80336
+      ]
+    }
+  ]
+}

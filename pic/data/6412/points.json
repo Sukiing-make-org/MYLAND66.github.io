@@ -1,0 +1,44 @@
+{
+  "points": [
+    {
+      "id": "6412-1",
+      "name": "神宮前歩道橋",
+      "image": "https://image.xinu.ink/pic/data/6412/images/6412-1.jpg",
+      "ep": "MOVIE",
+      "geo": [
+        35.667475,
+        139.7071892
+      ]
+    },
+    {
+      "id": "6412-2",
+      "name": "ケーキブティックミント",
+      "image": "https://image.xinu.ink/pic/data/6412/images/6412-2.jpg",
+      "ep": "MOVIE",
+      "geo": [
+        35.6974782,
+        139.6444534
+      ]
+    },
+    {
+      "id": "6412-3",
+      "name": "横浜元町ショッピングストリート",
+      "image": "https://image.xinu.ink/pic/data/6412/images/6412-3.jpg",
+      "ep": "MOVIE",
+      "geo": [
+        35.4411647,
+        139.6501499
+      ]
+    },
+    {
+      "id": "6412-4",
+      "name": "阿佐ヶ谷南一丁目",
+      "image": "https://image.xinu.ink/pic/data/6412/images/6412-4.jpg",
+      "ep": "MOVIE",
+      "geo": [
+        35.7022398,
+        139.6361687
+      ]
+    }
+  ]
+}

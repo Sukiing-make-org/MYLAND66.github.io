@@ -1,0 +1,424 @@
+{
+  "points": [
+    {
+      "id": "6390-1",
+      "name": "白小鳩橋めいせい",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-1.jpg",
+      "ep": "OP",
+      "geo": [
+        35.88778,
+        139.79841
+      ]
+    },
+    {
+      "id": "6390-2",
+      "name": "埼玉りそな銀行 越谷支店",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-2.jpg",
+      "ep": "1",
+      "geo": [
+        35.88914,
+        139.78843
+      ]
+    },
+    {
+      "id": "6390-3",
+      "name": "橘稲荷神社",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-3.jpg",
+      "ep": "1",
+      "geo": [
+        35.68674,
+        139.78274
+      ]
+    },
+    {
+      "id": "6390-4",
+      "name": "人形町駅",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-4.jpg",
+      "ep": "1",
+      "geo": [
+        35.68632,
+        139.78216
+      ]
+    },
+    {
+      "id": "6390-5",
+      "name": "チキンプレイスロティサリｰズ 東日本橋店",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-5.jpg",
+      "ep": "2",
+      "geo": [
+        35.69026,
+        139.78462
+      ]
+    },
+    {
+      "id": "6390-6",
+      "name": "一（はじめ）",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-6.jpg",
+      "ep": "2",
+      "geo": [
+        35.68509,
+        139.78536
+      ]
+    },
+    {
+      "id": "6390-7",
+      "name": "noodle art gallery Ryota Tezuka",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-7.jpg",
+      "ep": "2",
+      "geo": [
+        35.68531,
+        139.78549
+      ]
+    },
+    {
+      "id": "6390-8",
+      "name": "勧進帳の弁慶像",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-8.jpg",
+      "ep": "2",
+      "geo": [
+        35.68638,
+        139.78592
+      ]
+    },
+    {
+      "id": "6390-9",
+      "name": "浜町公園",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-9.jpg",
+      "ep": "2",
+      "geo": [
+        35.68844,
+        139.78933
+      ]
+    },
+    {
+      "id": "6390-10",
+      "name": "谷古田取水口公園",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-10.jpg",
+      "ep": "4",
+      "geo": [
+        35.88675,
+        139.79659
+      ]
+    },
+    {
+      "id": "6390-11",
+      "name": "（株）山一自動車",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-11.jpg",
+      "ep": "4",
+      "geo": [
+        35.88669,
+        139.79742
+      ]
+    },
+    {
+      "id": "6390-12",
+      "name": "しらこばと学院",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-12.jpg",
+      "ep": "4",
+      "geo": [
+        35.88745,
+        139.79761
+      ]
+    },
+    {
+      "id": "6390-13",
+      "name": "Hair Salon Ishizuka",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-13.jpg",
+      "ep": "4",
+      "geo": [
+        35.88726,
+        139.79843
+      ]
+    },
+    {
+      "id": "6390-14",
+      "name": "カーシェアのMaaS Car 西方1丁目ステーション",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-14.jpg",
+      "ep": "4",
+      "geo": [
+        35.88476,
+        139.79518
+      ]
+    },
+    {
+      "id": "6390-15",
+      "name": "としまえん 思い出コーナー",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-15.jpg",
+      "ep": "4",
+      "geo": [
+        35.7434,
+        139.64713
+      ]
+    },
+    {
+      "id": "6390-16",
+      "name": "サニーハイツA棟",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-16.jpg",
+      "ep": "6",
+      "geo": [
+        35.88915,
+        139.79843
+      ]
+    },
+    {
+      "id": "6390-17",
+      "name": "セブン-イレブン 越谷神明町２丁目店",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-17.jpg",
+      "ep": "6",
+      "geo": [
+        35.89842,
+        139.77221
+      ]
+    },
+    {
+      "id": "6390-18",
+      "name": "ベルドゥムール越谷神明町",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-18.jpg",
+      "ep": "6",
+      "geo": [
+        35.89671,
+        139.77447
+      ]
+    },
+    {
+      "id": "6390-19",
+      "name": "迎攝院",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-19.jpg",
+      "ep": "6",
+      "geo": [
+        35.89508,
+        139.77807
+      ]
+    },
+    {
+      "id": "6390-20",
+      "name": "おかげさま越谷店",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-20.jpg",
+      "ep": "6",
+      "geo": [
+        35.89462,
+        139.79126
+      ]
+    },
+    {
+      "id": "6390-21",
+      "name": "平和橋",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-21.jpg",
+      "ep": "6",
+      "geo": [
+        35.89127,
+        139.79197
+      ]
+    },
+    {
+      "id": "6390-22",
+      "name": "吉川橋",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-22.jpg",
+      "ep": "6",
+      "geo": [
+        35.88647,
+        139.83616
+      ]
+    },
+    {
+      "id": "6390-23",
+      "name": "ヘアーサロンアライ",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-23.jpg",
+      "ep": "6",
+      "geo": [
+        35.88723,
+        139.83469
+      ]
+    },
+    {
+      "id": "6390-24",
+      "name": "クリーニングハーツ越谷駅東口店",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-24.jpg",
+      "ep": "8",
+      "geo": [
+        35.88874,
+        139.78692
+      ]
+    },
+    {
+      "id": "6390-25",
+      "name": "KIMONO 京扇 越谷店",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-25.jpg",
+      "ep": "8",
+      "geo": [
+        35.88963,
+        139.78982
+      ]
+    },
+    {
+      "id": "6390-26",
+      "name": "越谷駅前広場",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-26.jpg",
+      "ep": "8",
+      "geo": [
+        35.88906,
+        139.78632
+      ]
+    },
+    {
+      "id": "6390-27",
+      "name": "北島駐車場",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-27.jpg",
+      "ep": "8",
+      "geo": [
+        35.89273,
+        139.79264
+      ]
+    },
+    {
+      "id": "6390-28",
+      "name": "（有）東武青写真工芸社",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-28.jpg",
+      "ep": "8",
+      "geo": [
+        35.89361,
+        139.79251
+      ]
+    },
+    {
+      "id": "6390-29",
+      "name": "セブン-イレブン 日本橋久松町店",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-29.jpg",
+      "ep": "9",
+      "geo": [
+        35.68964,
+        139.78503
+      ]
+    },
+    {
+      "id": "6390-30",
+      "name": "大西屋洋品店",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-30.jpg",
+      "ep": "10",
+      "geo": [
+        35.8878,
+        139.79525
+      ]
+    },
+    {
+      "id": "6390-31",
+      "name": "メープル薬局 越谷店",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-31.jpg",
+      "ep": "10",
+      "geo": [
+        35.88806,
+        139.79437
+      ]
+    },
+    {
+      "id": "6390-32",
+      "name": "藤だな通り",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-32.jpg",
+      "ep": "10",
+      "geo": [
+        35.89138,
+        139.79128
+      ]
+    },
+    {
+      "id": "6390-33",
+      "name": "越谷市 中央市民会館",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-33.jpg",
+      "ep": "10",
+      "geo": [
+        35.89056,
+        139.79181
+      ]
+    },
+    {
+      "id": "6390-34",
+      "name": "タイムズ越ヶ谷２丁目",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-34.jpg",
+      "ep": "10",
+      "geo": [
+        35.88974,
+        139.79005
+      ]
+    },
+    {
+      "id": "6390-35",
+      "name": "割烹 博多 和食 越谷",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-35.jpg",
+      "ep": "10",
+      "geo": [
+        35.88745,
+        139.79062
+      ]
+    },
+    {
+      "id": "6390-36",
+      "name": "SPS越谷第１・第２駐車場",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-36.jpg",
+      "ep": "10",
+      "geo": [
+        35.88667,
+        139.78962
+      ]
+    },
+    {
+      "id": "6390-37",
+      "name": "清水パーキング",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-37.jpg",
+      "ep": "10",
+      "geo": [
+        35.88933,
+        139.79897
+      ]
+    },
+    {
+      "id": "6390-38",
+      "name": "東越谷七丁目しいの木公園",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-38.jpg",
+      "ep": "10",
+      "geo": [
+        35.89065,
+        139.80056
+      ]
+    },
+    {
+      "id": "6390-39",
+      "name": "越谷駅",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-39.jpg",
+      "ep": "12",
+      "geo": [
+        35.88889,
+        139.78644
+      ]
+    },
+    {
+      "id": "6390-40",
+      "name": "武蔵野銀行 越谷支店",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-40.jpg",
+      "ep": "12",
+      "geo": [
+        35.88861,
+        139.78707
+      ]
+    },
+    {
+      "id": "6390-41",
+      "name": "カミオール",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-41.jpg",
+      "ep": "12",
+      "geo": [
+        35.8964,
+        139.77669
+      ]
+    },
+    {
+      "id": "6390-42",
+      "name": "北越谷桜堤",
+      "image": "https://image.xinu.ink/pic/data/6390/images/6390-42.jpg",
+      "ep": "12",
+      "geo": [
+        35.89844,
+        139.77283
+      ]
+    }
+  ]
+}
