@@ -276,9 +276,24 @@ class AnimePilgrimageV2Scraper:
                 before = u[search_start:geo_m.start()]
                 after = u[geo_m.start():search_end]
 
-                # Name: last "name":"..." before geo
-                name_matches = re.findall(r'"name"\s*:\s*"([^"]*)"', before)
-                name_ja = name_matches[-1] if name_matches else ""
+                # Name: try object format {"ja":"...", "en":"..."} first, then string format
+                name_ja = ""
+                name_en = ""
+                # Object format: "name":{"ja":"...","en":"..."}
+                name_objs = re.findall(r'"name"\s*:\s*\{([^}]+)\}', before)
+                if name_objs:
+                    nb = name_objs[-1]  # Last one before geo is most relevant
+                    jm = re.search(r'"ja"\s*:\s*"([^"]*)"', nb)
+                    em = re.search(r'"en"\s*:\s*"([^"]*)"', nb)
+                    if jm:
+                        name_ja = jm.group(1)
+                    if em:
+                        name_en = em.group(1)
+                # String format fallback: "name":"..."
+                if not name_ja and not name_en:
+                    name_strs = re.findall(r'"name"\s*:\s*"([^"]*)"', before)
+                    if name_strs:
+                        name_ja = name_strs[-1]
 
                 # Episode: first "ep":N after geo
                 ep_m = re.search(r'"ep"\s*:\s*(\d+)', after)
@@ -299,7 +314,7 @@ class AnimePilgrimageV2Scraper:
                 places.append({
                     "place_id": "",
                     "name_ja": name_ja,
-                    "name_en": "",
+                    "name_en": name_en,
                     "lat": lat,
                     "lng": lng,
                     "ep": ep,
@@ -318,7 +333,6 @@ class AnimePilgrimageV2Scraper:
     def _extract_from_raw_geo(self, html):
         """Fallback: extract geo data directly from raw HTML."""
         places = []
-        # Pattern: "geo":{"latitude":X,"longitude":Y}
         for m in re.finditer(
             r'"geo"\s*:\s*\{"latitude"\s*:\s*(-?\d+\.?\d*)\s*,\s*"longitude"\s*:\s*(-?\d+\.?\d*)\}',
             html
@@ -331,20 +345,39 @@ class AnimePilgrimageV2Scraper:
             before = html[max(0, m.start() - 1000):m.start()]
             after = html[m.start():min(len(html), m.end() + 500)]
 
-            name_matches = re.findall(r'"name"\s*:\s*"([^"]*)"', before)
-            name = name_matches[-1] if name_matches else ""
+            # Try object format {"ja":"...", "en":"..."} first
+            name_ja = ""
+            name_en = ""
+            name_objs = re.findall(r'"name"\s*:\s*\{([^}]+)\}', before)
+            if name_objs:
+                nb = name_objs[-1]
+                jm = re.search(r'"ja"\s*:\s*"([^"]*)"', nb)
+                em = re.search(r'"en"\s*:\s*"([^"]*)"', nb)
+                if jm:
+                    name_ja = jm.group(1)
+                if em:
+                    name_en = em.group(1)
+            # String format fallback
+            if not name_ja and not name_en:
+                name_strs = re.findall(r'"name"\s*:\s*"([^"]*)"', before)
+                if name_strs:
+                    name_ja = name_strs[-1]
+
             ep_m = re.search(r'"ep"\s*:\s*(\d+)', after)
             ep = ep_m.group(1) if ep_m else ""
 
+            img_m = re.search(r'"image"\s*:\s*"([^"]*)"', after)
+            image = img_m.group(1) if img_m else ""
+
             places.append({
                 "place_id": "",
-                "name_ja": name,
-                "name_en": "",
+                "name_ja": name_ja,
+                "name_en": name_en,
                 "lat": lat,
                 "lng": lng,
                 "ep": ep,
                 "type": "",
-                "image": "",
+                "image": image,
                 "title_ja": "",
                 "title_en": "",
                 "anime_id": "",
@@ -357,33 +390,72 @@ class AnimePilgrimageV2Scraper:
     # ── Anime list scraping ───────────────────────────────────────
 
     def get_anime_list(self, locale="ja", scroll_to_end=True):
-        """Get anime list from the maps page.
+        """Get complete anime list from the sitemap.xml.
 
-        If scroll_to_end=True, uses Selenium to scroll through the page
-        and load ALL anime (not just the initial batch).
-        Falls back to single-page requests if Selenium is not available.
+        The sitemap contains ALL anime URLs (282+) without needing
+        Selenium scrolling. Falls back to page scraping if sitemap fails.
 
         Returns list of dicts: [{title, anime_id, slug, url}, ...]
         """
+        self.logger.info("Fetching anime list from sitemap.xml...")
+        anime_list = self._get_anime_list_from_sitemap(locale)
+
+        if not anime_list:
+            self.logger.info("Sitemap failed, trying page scraping...")
+            anime_list = self._get_anime_list_from_page(locale, scroll_to_end)
+
+        self.logger.info(f"Found {len(anime_list)} anime")
+        for i, a in enumerate(anime_list[:5], 1):
+            self.logger.info(f"  {i}. {a['title']} ({a['anime_id']})")
+        if len(anime_list) > 5:
+            self.logger.info(f"  ... and {len(anime_list)-5} more")
+
+        return anime_list
+
+    def _get_anime_list_from_sitemap(self, locale="ja"):
+        """Get all anime URLs from sitemap.xml (most reliable method)."""
+        html = self._get("https://www.animepilgrimage.com/sitemap.xml")
+        if not html:
+            return []
+
+        # Extract all anime URLs: /maps/anime/{id}/{slug}
+        matches = re.findall(
+            r'https://www\.animepilgrimage\.com/maps/anime/([a-zA-Z0-9_-]+)/([a-z0-9-]+)',
+            html
+        )
+
+        seen = set()
+        anime_list = []
+        for aid, slug in matches:
+            if aid in seen:
+                continue
+            seen.add(aid)
+            # Convert slug to title (best effort)
+            title = slug.replace("-", " ").title()
+            anime_list.append({
+                "anime_id": aid,
+                "slug": slug,
+                "title": title,
+                "url": f"https://www.animepilgrimage.com/{locale}/maps/anime/{aid}/{slug}",
+            })
+
+        self.logger.info(f"Sitemap: {len(anime_list)} anime")
+        return anime_list
+
+    def _get_anime_list_from_page(self, locale="ja", scroll_to_end=True):
+        """Fallback: get anime list by scraping the maps page."""
         url = f"https://www.animepilgrimage.com/{locale}/maps"
         self.logger.info(f"Fetching anime list from {url}")
 
         html = None
-
-        # Try Selenium scrolling first (gets ALL anime)
         if scroll_to_end:
             html = self._get_anime_list_via_selenium(url)
-
-        # Fallback to simple requests (only gets initial batch)
         if not html:
-            self.logger.info("Falling back to requests (initial batch only)")
             html = self._get(url)
-
         if not html:
-            self.logger.error("Failed to fetch anime list page")
             return []
 
-        # Extract anime links: /maps/anime/{id}/{slug}
+        # Extract anime links
         anime_links = re.findall(
             r'/maps/anime/([a-zA-Z0-9_-]+)/([a-z0-9-]+)',
             html
@@ -414,7 +486,6 @@ class AnimePilgrimageV2Scraper:
                         if tm:
                             title_map[aid] = tm.group(1)
 
-        # Deduplicate
         seen = set()
         anime_list = []
         for aid, slug in anime_links:
@@ -427,12 +498,6 @@ class AnimePilgrimageV2Scraper:
                 "title": title_map.get(aid, slug),
                 "url": f"https://www.animepilgrimage.com/{locale}/maps/anime/{aid}/{slug}",
             })
-
-        self.logger.info(f"Found {len(anime_list)} anime")
-        for i, a in enumerate(anime_list[:5], 1):
-            self.logger.info(f"  {i}. {a['title']} ({a['anime_id']})")
-        if len(anime_list) > 5:
-            self.logger.info(f"  ... and {len(anime_list)-5} more")
 
         return anime_list
 
@@ -526,9 +591,21 @@ class AnimePilgrimageV2Scraper:
             self.logger.warning(f"No places found for {anime_info['title']}")
             return None
 
-        # Determine anime title (prefer Japanese)
+        # Determine anime title (prefer Japanese from page, fallback to sitemap slug)
         anime_title = places[0].get("title_ja", "") or anime_info.get("title", "")
         anime_title_en = places[0].get("title_en", "")
+
+        # If title is still slug-like, try to get from HTML <title> or og:title
+        if not anime_title or anime_title == anime_info.get("slug", ""):
+            title_m = re.search(r'<title>([^<-]+)', html)
+            if title_m:
+                raw_title = title_m.group(1).strip()
+                # Clean: "ぼっち・ざ・ろっく！ - 聖地50スポット - アニメピルグリメイジ"
+                anime_title = raw_title.split(" - ")[0].strip()
+            if not anime_title:
+                og_m = re.search(r'<meta[^>]*og:title[^>]*content="([^"]*)"', html)
+                if og_m:
+                    anime_title = og_m.group(1).split(" - ")[0].strip()
 
         # Build points list in the existing format
         folder_path = self.base_dir / str(local_folder_id)
@@ -578,23 +655,35 @@ class AnimePilgrimageV2Scraper:
         with open(points_path, "w", encoding="utf-8") as f:
             json.dump({"points": points}, f, ensure_ascii=False, indent=2)
 
-        # Create info.json
+        # Get cover image from CDN (anime poster)
+        cover_url = ""
+        anime_id = anime_info.get("anime_id", "")
+        if anime_id:
+            # Primary: CDN anime poster
+            cdn_cover = f"{CDN_BASE}/anime/{anime_id}.webp"
+            cover_path = images_folder / "1.jpg"
+            if self._download_image(cdn_cover, cover_path):
+                cover_url = f"{IMG_BASE}/{local_folder_id}/images/1.jpg"
+                self.logger.info(f"  Cover from CDN: {cdn_cover}")
+
+        # Fallback: try og:image from HTML (skip the default site logo)
+        if not cover_url:
+            og_image = re.search(r'<meta[^>]*property="og:image"[^>]*content="([^"]*)"', html)
+            if og_image:
+                og_url = og_image.group(1)
+                if "og-default" not in og_url:  # Skip the default site logo
+                    cover_path = images_folder / "1.jpg"
+                    if self._download_image(og_url, cover_path):
+                        cover_url = f"{IMG_BASE}/{local_folder_id}/images/1.jpg"
+
         info_data = {
             "id": self._generate_id(),
             "cn": "",  # Will be filled by Chinese name updater
             "title": anime_title,
-            "cover": "",
+            "cover": cover_url,
             "pointsLength": len(points),
             "local_id": local_folder_id,
         }
-
-        # Try to get cover from the HTML
-        og_image = re.search(r'<meta[^>]*property="og:image"[^>]*content="([^"]*)"', html)
-        if og_image:
-            cover_url = og_image.group(1)
-            cover_path = images_folder / "1.jpg"
-            if self._download_image(cover_url, cover_path):
-                info_data["cover"] = f"{IMG_BASE}/{local_folder_id}/images/1.jpg"
 
         info_path = folder_path / "info.json"
         with open(info_path, "w", encoding="utf-8") as f:
@@ -607,6 +696,7 @@ class AnimePilgrimageV2Scraper:
             "cover": info_data["cover"],
             "theme_color": "#7f6a95",
             "points": points,
+            "anime_id": anime_info.get("anime_id", ""),
         }
 
         self.logger.info(f"Scraped {len(points)} points for {anime_title}")
@@ -794,6 +884,11 @@ class AnimePilgrimageV2Scraper:
                 "inform": f"{IMG_BASE}/{local_id}/points.json",
             }
 
+            # Save anime_id to pa_anime_id.txt (not index.json)
+            aid = item["anime_data"].get("anime_id", "")
+            if aid:
+                self._save_anime_id(local_id, aid)
+
         with open(index_path, "w", encoding="utf-8") as f:
             json.dump(index_data, f, ensure_ascii=False, indent=2)
 
@@ -807,23 +902,169 @@ class AnimePilgrimageV2Scraper:
         folders = [int(f.name) for f in self.base_dir.glob("*") if f.is_dir() and f.name.isdigit()]
         return max(folders, default=0) + 1
 
-    def is_anime_in_index(self, anime_id):
-        """Check if anime already exists in index.json by anime_id (new format)."""
-        index_path = self.base_dir / "index.json"
-        if not index_path.exists():
-            return False, None
-        with open(index_path, "r", encoding="utf-8") as f:
-            index_data = json.load(f)
-        for str_id, data in index_data.items():
-            # Check if this entry's anime_id matches
-            # (We store anime_id in the slug or name)
-            if data.get("anime_id") == anime_id:
-                return True, int(str_id)
-        return False, None
+    # ── pa_anime_id.txt management ─────────────────────────────
+
+    def _load_anime_id_map(self):
+        """Load pa_anime_id.txt: {local_id_str: anime_id}"""
+        path = Path("pa_anime_id.txt")
+        if not path.exists():
+            return {}
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+
+    def _save_anime_id(self, local_id, anime_id):
+        """Save one entry to pa_anime_id.txt"""
+        path = Path("pa_anime_id.txt")
+        data = self._load_anime_id_map()
+        data[str(local_id)] = anime_id
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+
+    def find_local_id_by_anime_id(self, anime_id):
+        """Find local_id by anime_id from pa_anime_id.txt"""
+        data = self._load_anime_id_map()
+        for str_id, aid in data.items():
+            if aid == anime_id:
+                return int(str_id)
+        return None
 
     def _generate_id(self):
         now = datetime.now()
         return int(f"{now.strftime('%Y%m%d%H%M%S')}{random.randint(100, 999)}")
+
+    def update_existing_anime(self, anime_info, local_id):
+        """Incremental update: fetch new points from the website and add only new ones.
+
+        Args:
+            anime_info: dict with anime_id, slug, title, url
+            local_id: existing local folder ID
+
+        Returns:
+            dict with update info (new_points_count, anime_data), or None if no updates
+        """
+        anime_id = anime_info.get("anime_id", "")
+        folder_path = self.base_dir / str(local_id)
+        points_path = folder_path / "points.json"
+
+        if not points_path.exists():
+            self.logger.warning(f"  No points.json for ID {local_id}, will scrape fresh")
+            return None
+
+        # Load existing points
+        with open(points_path, "r", encoding="utf-8") as f:
+            pts_data = json.load(f)
+        existing_points = pts_data if isinstance(pts_data, list) else pts_data.get("points", [])
+
+        # Build set of existing coordinates for dedup (rounded to 5 decimals)
+        existing_coords = set()
+        for pt in existing_points:
+            geo = pt.get("geo", [])
+            if len(geo) == 2:
+                existing_coords.add((round(geo[0], 5), round(geo[1], 5)))
+
+        self.logger.info(f"  Existing points: {len(existing_points)}")
+
+        # Fetch current data from the website
+        html = self._get(anime_info["url"])
+        if not html:
+            self.logger.error(f"  Failed to fetch {anime_info['url']}")
+            return None
+
+        places = self._extract_places_from_html(html)
+        if not places:
+            self.logger.info(f"  No places found on website")
+            return None
+
+        # Find new points (not in existing set)
+        new_points = []
+        next_idx = len(existing_points) + 1
+        images_folder = folder_path / "images"
+
+        for place in places:
+            coord_key = (round(place["lat"], 5), round(place["lng"], 5))
+            if coord_key in existing_coords:
+                continue
+
+            # Also check by name (in case coordinates changed slightly)
+            pt_name = place["name_ja"] or place["name_en"]
+            name_exists = any(
+                pt.get("name", "") == pt_name
+                for pt in existing_points
+                if pt_name
+            )
+            if name_exists:
+                continue
+
+            # Download image
+            img_url = ""
+            if place["image"]:
+                cdn_url = f"{CDN_BASE}/{place['image']}"
+                img_filename = f"{local_id}-{next_idx}.jpg"
+                img_path = images_folder / img_filename
+                if self._download_image(cdn_url, img_path):
+                    img_url = f"{IMG_BASE}/{local_id}/images/{img_filename}"
+
+            ep_str = place["ep"] or ""
+            if place["type"] and place["type"] != "EP":
+                ep_str = place["type"] + (ep_str if ep_str else "")
+
+            new_point = {
+                "id": f"{local_id}-{next_idx}",
+                "name": pt_name or f"Point {next_idx}",
+                "image": img_url,
+                "ep": ep_str,
+                "geo": [place["lat"], place["lng"]],
+            }
+            new_points.append(new_point)
+            existing_coords.add(coord_key)
+            next_idx += 1
+
+        if not new_points:
+            self.logger.info(f"  No new points found")
+            return None
+
+        self.logger.info(f"  Found {len(new_points)} new points!")
+
+        # Merge and save
+        all_points = existing_points + new_points
+        with open(points_path, "w", encoding="utf-8") as f:
+            json.dump({"points": all_points}, f, ensure_ascii=False, indent=2)
+
+        # Update info.json
+        info_path = folder_path / "info.json"
+        if info_path.exists():
+            with open(info_path, "r", encoding="utf-8") as f:
+                info_data = json.load(f)
+            info_data["pointsLength"] = len(all_points)
+            with open(info_path, "w", encoding="utf-8") as f:
+                json.dump(info_data, f, ensure_ascii=False, indent=2)
+
+        # Build result for index.json update
+        anime_title = ""
+        if existing_points:
+            info_path = folder_path / "info.json"
+            if info_path.exists():
+                with open(info_path, "r", encoding="utf-8") as f:
+                    info_data = json.load(f)
+                anime_title = info_data.get("title", "")
+
+        anime_data = {
+            "name": anime_title or anime_info.get("title", ""),
+            "name_cn": "",
+            "cover": "",
+            "theme_color": "#7f6a95",
+            "points": all_points,
+            "anime_id": anime_id,
+        }
+
+        # Update index.json
+        self.update_index_json([{"local_id": local_id, "anime_data": anime_data}])
+
+        return {
+            "local_id": local_id,
+            "anime_data": anime_data,
+            "new_points_count": len(new_points),
+        }
 
     def _download_image(self, url, save_path):
         try:
@@ -869,12 +1110,41 @@ class AnimePilgrimageV2Scraper:
             local_id = self.get_next_available_local_id()
             results = []
             new_anime = []
+            updated_anime = []
+
+            # Load anime_id map from pa_anime_id.txt
+            anime_id_map = self._load_anime_id_map()
+            # Build reverse lookup: anime_id -> local_id
+            existing_by_aid = {}
+            for str_id, aid in anime_id_map.items():
+                existing_by_aid[aid] = int(str_id)
 
             for i, anime_info in enumerate(anime_to_scrape, 1):
-                self.logger.info(f"\n[{i}/{len(anime_to_scrape)}] {anime_info['title']}")
+                aid = anime_info.get("anime_id", "")
+                self.logger.info(f"\n[{i}/{len(anime_to_scrape)}] {anime_info['title']} ({aid})")
 
+                # Check if anime already exists via pa_anime_id.txt
+                if aid in existing_by_aid:
+                    existing_local_id = existing_by_aid[aid]
+                    self.logger.info(f"  Already exists (ID {existing_local_id}), checking for updates...")
+                    update_result = self.update_existing_anime(anime_info, existing_local_id)
+                    if update_result:
+                        updated_anime.append({
+                            "name": anime_info["title"],
+                            "id": existing_local_id,
+                            "new_points": update_result["new_points_count"],
+                        })
+                        results.append(update_result)
+                        self.logger.info(f"  ✅ Added {update_result['new_points_count']} new points")
+                    else:
+                        self.logger.info(f"  No updates needed")
+                    time.sleep(1)
+                    continue
+
+                # New anime: scrape from scratch
                 result = self.scrape_anime(anime_info, local_id)
                 if result:
+                    result["anime_data"]["anime_id"] = aid
                     results.append(result)
                     new_anime.append({
                         "name": anime_info["title"],
@@ -883,11 +1153,11 @@ class AnimePilgrimageV2Scraper:
                     })
                     self.update_index_json([result])
                     self.logger.info(f"  Saved {len(result['anime_data']['points'])} points")
+                    local_id += 1
                 else:
                     self.logger.warning(f"  No data for {anime_info['title']}")
 
-                local_id += 1
-                time.sleep(2)  # Rate limiting between anime
+                time.sleep(2)
 
             # Fix zero coordinates if requested
             fixed_count = 0
@@ -898,6 +1168,7 @@ class AnimePilgrimageV2Scraper:
             # Return results
             return {
                 "new_anime": new_anime,
+                "updated_anime": updated_anime,
                 "fixed_coords": fixed_count,
                 "total_scraped": len(results),
             }
