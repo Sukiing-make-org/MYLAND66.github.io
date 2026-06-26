@@ -52,6 +52,9 @@ def setup_logging(name="V2Scraper"):
     logger = logging.getLogger(name)
     logger.setLevel(logging.INFO)
     if not logger.handlers:
+        # Cleanup old log at start of each month
+        _cleanup_log("anime_pilgrimage_v2_scraper.log")
+
         fmt = logging.Formatter("%(asctime)s - %(name)s - %(levelname)s - %(message)s")
         sh = logging.StreamHandler()
         sh.setFormatter(fmt)
@@ -60,6 +63,39 @@ def setup_logging(name="V2Scraper"):
         fh.setFormatter(fmt)
         logger.addHandler(fh)
     return logger
+
+
+def _cleanup_log(log_path, max_bytes=5 * 1024 * 1024):
+    """Keep log file under control.
+
+    - If file > max_bytes (5MB): truncate, keep last 2000 lines
+    - If file was last modified in a different month: clear it
+    """
+    path = Path(log_path)
+    if not path.exists():
+        return
+
+    try:
+        import datetime
+        mtime = datetime.datetime.fromtimestamp(path.stat().st_mtime)
+        now = datetime.datetime.now()
+
+        # Different month → clear
+        if mtime.year != now.year or mtime.month != now.month:
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(f"[Log cleared on {now.strftime('%Y-%m-%d')} - monthly rotation]\n")
+            return
+
+        # Same month but too large → keep last 2000 lines
+        if path.stat().st_size > max_bytes:
+            with open(path, "r", encoding="utf-8") as f:
+                lines = f.readlines()
+            keep = lines[-2000:]
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(f"[Log truncated on {now.strftime('%Y-%m-%d')} - kept last 2000 lines]\n")
+                f.writelines(keep)
+    except Exception:
+        pass
 
 
 class AnimePilgrimageV2Scraper:
@@ -591,21 +627,26 @@ class AnimePilgrimageV2Scraper:
             self.logger.warning(f"No places found for {anime_info['title']}")
             return None
 
-        # Determine anime title (prefer Japanese from page, fallback to sitemap slug)
-        anime_title = places[0].get("title_ja", "") or anime_info.get("title", "")
-        anime_title_en = places[0].get("title_en", "")
-
-        # If title is still slug-like, try to get from HTML <title> or og:title
-        if not anime_title or anime_title == anime_info.get("slug", ""):
+        # Get anime title (prefer Japanese from page HTML)
+        anime_title = ""
+        # Method 1: og:title (most reliable for Japanese title)
+        og_title = re.search(r'<meta[^>]*og:title[^>]*content="([^"]*)"', html)
+        if og_title:
+            anime_title = og_title.group(1).split(" - ")[0].strip()
+        # Method 2: <title> tag
+        if not anime_title:
             title_m = re.search(r'<title>([^<-]+)', html)
             if title_m:
-                raw_title = title_m.group(1).strip()
-                # Clean: "ぼっち・ざ・ろっく！ - 聖地50スポット - アニメピルグリメイジ"
-                anime_title = raw_title.split(" - ")[0].strip()
-            if not anime_title:
-                og_m = re.search(r'<meta[^>]*og:title[^>]*content="([^"]*)"', html)
-                if og_m:
-                    anime_title = og_m.group(1).split(" - ")[0].strip()
+                anime_title = title_m.group(1).strip()
+        # Method 3: RSC data title_ja
+        if not anime_title:
+            for p in places:
+                if p.get("title_ja"):
+                    anime_title = p["title_ja"]
+                    break
+        # Method 4: fallback to slug-derived name
+        if not anime_title:
+            anime_title = anime_info.get("title", "")
 
         # Build points list in the existing format
         folder_path = self.base_dir / str(local_folder_id)
@@ -655,26 +696,34 @@ class AnimePilgrimageV2Scraper:
         with open(points_path, "w", encoding="utf-8") as f:
             json.dump({"points": points}, f, ensure_ascii=False, indent=2)
 
-        # Get cover image from CDN (anime poster)
+        # Get cover image
         cover_url = ""
         anime_id = anime_info.get("anime_id", "")
         if anime_id:
-            # Primary: CDN anime poster
-            cdn_cover = f"{CDN_BASE}/anime/{anime_id}.webp"
             cover_path = images_folder / "1.jpg"
-            if self._download_image(cdn_cover, cover_path):
-                cover_url = f"{IMG_BASE}/{local_folder_id}/images/1.jpg"
-                self.logger.info(f"  Cover from CDN: {cdn_cover}")
+            # Try multiple formats in order
+            for ext in [".webp", ".jpg", ".jpeg", ".png", ".avif", ".gif", ".bmp", ".tiff", ".svg", ""]:
+                cdn_cover = f"{CDN_BASE}/anime/{anime_id}{ext}"
+                if self._download_image(cdn_cover, cover_path):
+                    cover_url = f"{IMG_BASE}/{local_folder_id}/images/1.jpg"
+                    self.logger.info(f"  Cover: {cdn_cover}")
+                    break
 
-        # Fallback: try og:image from HTML (skip the default site logo)
+        # Fallback: og:image ONLY if it's clearly not the default logo
         if not cover_url:
-            og_image = re.search(r'<meta[^>]*property="og:image"[^>]*content="([^"]*)"', html)
+            og_image = re.search(r'<meta[^>]*og:image[^>]*content="([^"]*)"', html)
             if og_image:
                 og_url = og_image.group(1)
-                if "og-default" not in og_url:  # Skip the default site logo
+                # Strict check: skip any default/placeholder images
+                skip_keywords = ["og-default", "favicon", "logo", "icon", "placeholder", "default", "no-image", "noimage"]
+                if not any(kw in og_url.lower() for kw in skip_keywords):
                     cover_path = images_folder / "1.jpg"
                     if self._download_image(og_url, cover_path):
                         cover_url = f"{IMG_BASE}/{local_folder_id}/images/1.jpg"
+                        self.logger.info(f"  Cover from og:image: {og_url}")
+
+        if not cover_url:
+            self.logger.warning(f"  No cover available for {anime_title}")
 
         info_data = {
             "id": self._generate_id(),
@@ -1066,17 +1115,23 @@ class AnimePilgrimageV2Scraper:
             "new_points_count": len(new_points),
         }
 
-    def _download_image(self, url, save_path):
-        try:
-            resp = self.session.get(url, timeout=30)
-            if resp.status_code == 200:
-                save_path = Path(save_path)
-                save_path.parent.mkdir(parents=True, exist_ok=True)
-                with open(save_path, "wb") as f:
-                    f.write(resp.content)
-                return True
-        except Exception as e:
-            self.logger.debug(f"Image download failed: {e}")
+    def _download_image(self, url, save_path, retries=2):
+        for attempt in range(retries):
+            try:
+                resp = self.session.get(url, timeout=15)
+                if resp.status_code == 200 and len(resp.content) > 500:
+                    save_path = Path(save_path)
+                    save_path.parent.mkdir(parents=True, exist_ok=True)
+                    with open(save_path, "wb") as f:
+                        f.write(resp.content)
+                    return True
+                elif resp.status_code == 200:
+                    self.logger.debug(f"Image too small ({len(resp.content)} bytes): {url}")
+            except Exception as e:
+                if attempt < retries - 1:
+                    time.sleep(2)
+                else:
+                    self.logger.debug(f"Image download failed: {e}")
         return False
 
     # ── Main run ──────────────────────────────────────────────────
@@ -1185,7 +1240,7 @@ class AnimePilgrimageV2Scraper:
 def main():
     parser = argparse.ArgumentParser(description="Anime Pilgrimage V2 Scraper")
     parser.add_argument("--auto", action="store_true", default=True)
-    parser.add_argument("--max-anime", type=int, default=5)
+    parser.add_argument("--max-anime", type=int, default=99999)
     parser.add_argument("--base-dir", type=str, default=BASE_DIR)
     parser.add_argument("--fix-coords", action="store_true", default=False)
     parser.add_argument("--only-fix-coords", action="store_true", default=False)
