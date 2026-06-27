@@ -47,6 +47,11 @@ HEADERS = {
 CDN_BASE = "https://cdn.animepilgrimage.com"
 IMG_BASE = "https://image.xinu.ink/pic/data"
 
+# Known logo image hash (MD5) — reject any downloaded cover matching this
+LOGO_HASHES = {
+    "0d50dacaf072761b4f425f2cb6fd89da",  # animepilgrimage default logo (1489 bytes)
+}
+
 
 def setup_logging(name="V2Scraper"):
     logger = logging.getLogger(name)
@@ -107,6 +112,12 @@ class AnimePilgrimageV2Scraper:
         self.session.timeout = 30
         self.use_selenium = use_selenium
         self._driver = None
+        # Separate session for CDN image downloads (minimal headers)
+        self._img_session = requests.Session()
+        self._img_session.headers.update({
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+            "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+        })
 
     def _get_selenium_driver(self):
         """Lazy-init Selenium Chrome driver."""
@@ -756,6 +767,75 @@ class AnimePilgrimageV2Scraper:
 
     # ── Fix zero-coordinate points ────────────────────────────────
 
+    # ── Fix logo covers ─────────────────────────────────────────
+
+    def fix_logo_covers(self):
+        """Scan database for covers that are the site logo and re-download from CDN."""
+        self.logger.info("Scanning for logo covers...")
+
+        anime_id_map = self._load_anime_id_map()
+        fixed = 0
+
+        for folder in sorted(self.base_dir.glob("*")):
+            if not folder.is_dir() or not folder.name.isdigit():
+                continue
+            local_id = folder.name
+            cover_path = folder / "images" / "1.jpg"
+            if not cover_path.exists():
+                continue
+
+            # Check if cover is the logo
+            try:
+                data = cover_path.read_bytes()
+                file_hash = hashlib.md5(data).hexdigest()
+            except Exception:
+                continue
+
+            if file_hash not in LOGO_HASHES:
+                continue
+
+            # Found a logo cover — try to re-download
+            anime_id = anime_id_map.get(local_id, "")
+            if not anime_id:
+                self.logger.warning(f"  ID {local_id}: logo cover, but no anime_id in pa_anime_id.txt")
+                continue
+
+            self.logger.info(f"  ID {local_id}: fixing logo cover (anime_id={anime_id})")
+            new_cover = ""
+            for ext in [".webp", ".jpg", ".jpeg", ".png", ".avif", ".gif", ".bmp", ".tiff", ".svg", ""]:
+                cdn_url = f"{CDN_BASE}/anime/{anime_id}{ext}"
+                if self._download_image(cdn_url, cover_path):
+                    new_cover = f"{IMG_BASE}/{local_id}/images/1.jpg"
+                    self.logger.info(f"    Fixed: {cdn_url}")
+                    break
+
+            if new_cover:
+                # Update info.json
+                info_path = folder / "info.json"
+                if info_path.exists():
+                    with open(info_path, "r", encoding="utf-8") as f:
+                        info_data = json.load(f)
+                    info_data["cover"] = new_cover
+                    with open(info_path, "w", encoding="utf-8") as f:
+                        json.dump(info_data, f, ensure_ascii=False, indent=2)
+
+                # Update index.json
+                for idx_path in [self.base_dir / "index.json", Path("index.json")]:
+                    if idx_path.exists():
+                        with open(idx_path, "r", encoding="utf-8") as f:
+                            idx = json.load(f)
+                        if local_id in idx:
+                            idx[local_id]["cover"] = new_cover
+                            with open(idx_path, "w", encoding="utf-8") as f:
+                                json.dump(idx, f, ensure_ascii=False, indent=2)
+
+                fixed += 1
+            else:
+                self.logger.warning(f"    Could not fix cover for ID {local_id}")
+
+        self.logger.info(f"Fixed {fixed} logo covers")
+        return fixed
+
     def fix_zero_coordinate_points(self, max_fix=0):
         """Scan database for [0,0] points and re-scrape them from the new site."""
         self.logger.info("Scanning for zero-coordinate points...")
@@ -1081,26 +1161,34 @@ class AnimePilgrimageV2Scraper:
 
         # Update info.json
         info_path = folder_path / "info.json"
+        existing_cover = ""
         if info_path.exists():
             with open(info_path, "r", encoding="utf-8") as f:
                 info_data = json.load(f)
             info_data["pointsLength"] = len(all_points)
+            existing_cover = info_data.get("cover", "")
+
+            # If cover is missing or is the default logo, try to re-download
+            if not existing_cover or "og-default" in existing_cover or "logo" in existing_cover.lower():
+                anime_id = anime_info.get("anime_id", "")
+                if anime_id:
+                    images_folder = folder_path / "images"
+                    cover_path = images_folder / "1.jpg"
+                    for ext in [".webp", ".jpg", ".jpeg", ".png", ".avif", ".gif", ".bmp", ".tiff", ".svg", ""]:
+                        cdn_cover = f"{CDN_BASE}/anime/{anime_id}{ext}"
+                        if self._download_image(cdn_cover, cover_path):
+                            existing_cover = f"{IMG_BASE}/{local_id}/images/1.jpg"
+                            info_data["cover"] = existing_cover
+                            self.logger.info(f"  Fixed cover: {cdn_cover}")
+                            break
+
             with open(info_path, "w", encoding="utf-8") as f:
                 json.dump(info_data, f, ensure_ascii=False, indent=2)
 
-        # Build result for index.json update
-        anime_title = ""
-        if existing_points:
-            info_path = folder_path / "info.json"
-            if info_path.exists():
-                with open(info_path, "r", encoding="utf-8") as f:
-                    info_data = json.load(f)
-                anime_title = info_data.get("title", "")
-
         anime_data = {
-            "name": anime_title or anime_info.get("title", ""),
+            "name": info_data.get("title", "") or anime_info.get("title", ""),
             "name_cn": "",
-            "cover": "",
+            "cover": existing_cover,
             "theme_color": "#7f6a95",
             "points": all_points,
             "anime_id": anime_id,
@@ -1115,11 +1203,16 @@ class AnimePilgrimageV2Scraper:
             "new_points_count": len(new_points),
         }
 
-    def _download_image(self, url, save_path, retries=2):
+    def _download_image(self, url, save_path, retries=3):
         for attempt in range(retries):
             try:
-                resp = self.session.get(url, timeout=15)
+                resp = self._img_session.get(url, timeout=20)
                 if resp.status_code == 200 and len(resp.content) > 500:
+                    # Check if this is the logo
+                    file_hash = hashlib.md5(resp.content).hexdigest()
+                    if file_hash in LOGO_HASHES:
+                        self.logger.debug(f"Skipped logo image: {url}")
+                        return False
                     save_path = Path(save_path)
                     save_path.parent.mkdir(parents=True, exist_ok=True)
                     with open(save_path, "wb") as f:
@@ -1127,11 +1220,13 @@ class AnimePilgrimageV2Scraper:
                     return True
                 elif resp.status_code == 200:
                     self.logger.debug(f"Image too small ({len(resp.content)} bytes): {url}")
+                else:
+                    self.logger.debug(f"Image HTTP {resp.status_code}: {url}")
             except Exception as e:
                 if attempt < retries - 1:
-                    time.sleep(2)
+                    time.sleep(3 * (attempt + 1))
                 else:
-                    self.logger.debug(f"Image download failed: {e}")
+                    self.logger.warning(f"Image download failed after {retries} attempts: {url} ({e})")
         return False
 
     # ── Main run ──────────────────────────────────────────────────
@@ -1214,9 +1309,12 @@ class AnimePilgrimageV2Scraper:
 
                 time.sleep(2)
 
-            # Fix zero coordinates if requested
+            # Fix zero coordinates and logo covers if requested
             fixed_count = 0
+            fixed_covers = 0
             if fix_coords:
+                self.logger.info("\n--- Fixing logo covers ---")
+                fixed_covers = self.fix_logo_covers()
                 self.logger.info("\n--- Fixing zero-coordinate points ---")
                 fixed_count = self.fix_zero_coordinate_points()
 
@@ -1225,6 +1323,7 @@ class AnimePilgrimageV2Scraper:
                 "new_anime": new_anime,
                 "updated_anime": updated_anime,
                 "fixed_coords": fixed_count,
+                "fixed_covers": fixed_covers,
                 "total_scraped": len(results),
             }
 
