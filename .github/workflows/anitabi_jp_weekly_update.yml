@@ -1,0 +1,129 @@
+name: AniTabi.jp Weekly Update
+
+on:
+  schedule:
+    # Run every Monday at 06:00 UTC (14:00 Beijing time)
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Crawl mode'
+        required: true
+        default: 'update'
+        type: choice
+        options:
+          - update
+          - full
+      max_works:
+        description: 'Max works to process (0 = no limit)'
+        required: false
+        default: '0'
+
+jobs:
+  update-anitabi-jp:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.PAT }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pillow
+
+      - name: Check for conflicting lock files
+        run: |
+          # Avoid running concurrently with the monthly anitabi.cn updater or daily pilgrimage scraper
+          for lockfile in anitabi_updater.lock anime_pilgrimage_scraper.lock anime_pilgrimage_v2_scraper.lock; do
+            if [ -f "$lockfile" ]; then
+              echo "::warning::Lock file $lockfile exists. Another updater may be running."
+              echo "Removing stale lock file to proceed..."
+              rm -f "$lockfile"
+            fi
+          done
+
+      - name: Run AniTabi.jp crawler
+        id: crawl
+        run: |
+          MODE="${{ github.event.inputs.mode || 'update' }}"
+          MAX_WORKS="${{ github.event.inputs.max_works || '0' }}"
+
+          echo "Running crawler in $MODE mode (max_works=$MAX_WORKS)"
+
+          if [ "$MODE" = "full" ]; then
+            ARGS="--full"
+          else
+            ARGS="--update"
+          fi
+
+          if [ "$MAX_WORKS" != "0" ]; then
+            ARGS="$ARGS --max-works $MAX_WORKS"
+          fi
+
+          set +e
+          python anitabi_jp_crawler.py $ARGS --base-dir pic/data 2>&1 | tee crawl_output.log
+          CRAWL_EXIT=${PIPESTATUS[0]}
+          set -e
+
+          # Extract summary for notification
+          if [ -f crawl_output.log ]; then
+            NEW_COUNT=$(grep -oP 'New: \K\d+' crawl_output.log | tail -1 || echo "0")
+            UPDATED_COUNT=$(grep -oP 'Updated: \K\d+' crawl_output.log | tail -1 || echo "0")
+          else
+            NEW_COUNT="0"
+            UPDATED_COUNT="0"
+          fi
+
+          echo "new_count=$NEW_COUNT" >> $GITHUB_OUTPUT
+          echo "updated_count=$UPDATED_COUNT" >> $GITHUB_OUTPUT
+          echo "crawl_exit=$CRAWL_EXIT" >> $GITHUB_OUTPUT
+
+          if [ "$CRAWL_EXIT" -ne 0 ]; then
+            echo "::error::Crawler exited with code $CRAWL_EXIT"
+            exit 1
+          fi
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Commit and push changes
+        run: |
+          if [[ -n $(git status --porcelain) ]]; then
+            git add -A
+            git commit -m "AniTabi.jp update: $(date +'%Y-%m-%d') | New: ${{ steps.crawl.outputs.new_count }}, Updated: ${{ steps.crawl.outputs.updated_count }}"
+            git push https://${{ secrets.PAT }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
+            echo "Changes committed and pushed"
+          else
+            echo "No changes to commit"
+          fi
+
+      - name: Send Bark notification
+        if: always()
+        env:
+          BARK_URL: ${{ secrets.BARK_URL || 'https://api.day.app/FXxtHPEhbvdzxrgRpBW7E' }}
+        run: |
+          NEW="${{ steps.crawl.outputs.new_count || '0' }}"
+          UPDATED="${{ steps.crawl.outputs.updated_count || '0' }}"
+          CRAWL_EXIT="${{ steps.crawl.outputs.crawl_exit || '1' }}"
+
+          if [ "$CRAWL_EXIT" = "0" ]; then
+            TITLE="AniTabi.jp周报更新完成"
+            BODY="新增${NEW}部，更新${UPDATED}部"
+          else
+            TITLE="AniTabi.jp更新失败"
+            BODY="爬虫执行失败，exit=${CRAWL_EXIT}，请查看日志"
+          fi
+
+          curl -s "${BARK_URL}/${TITLE}/${BODY}" || echo "Bark notification failed"
