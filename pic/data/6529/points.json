@@ -1,0 +1,37 @@
+{
+  "points": [
+    {
+      "id": "3396",
+      "name": "長浜ビーチ",
+      "image": "https://image.xinu.ink/pic/data/6529/images/3396.jpg",
+      "geo": [
+        35.0656,
+        139.0683
+      ],
+      "name_en": "Nagahama Beach",
+      "address": "静岡県熱海市上多賀"
+    },
+    {
+      "id": "3397",
+      "name": "起雲閣",
+      "image": "https://image.xinu.ink/pic/data/6529/images/3397.jpg",
+      "geo": [
+        35.0958,
+        139.0717
+      ],
+      "name_en": "Kiunkaku",
+      "address": "静岡県熱海市昭和町4-2"
+    },
+    {
+      "id": "3398",
+      "name": "JR熱海駅",
+      "image": "https://image.xinu.ink/pic/data/6529/images/3398.jpg",
+      "geo": [
+        35.1051,
+        139.0789
+      ],
+      "name_en": "JR Atami Station",
+      "address": "静岡県熱海市田原本町11-1"
+    }
+  ]
+}

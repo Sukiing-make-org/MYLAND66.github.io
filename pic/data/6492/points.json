@@ -1,0 +1,103 @@
+{
+  "points": [
+    {
+      "id": "2189",
+      "name": "富士山（ドラえもんひろば）",
+      "image": "",
+      "geo": [
+        35.6209,
+        139.5661
+      ],
+      "name_en": "Mount Fuji (Doraemon Plaza)",
+      "address": "神奈川県川崎市多摩区長尾2-8-1"
+    },
+    {
+      "id": "2190",
+      "name": "練馬区（のび太の街）",
+      "image": "",
+      "geo": [
+        35.7355,
+        139.6518
+      ],
+      "name_en": "Nerima Ward (Nobita&#039;s town)",
+      "address": "東京都練馬区"
+    },
+    {
+      "id": "2254",
+      "name": "高岡市（藤子・F・不二雄の故郷）",
+      "image": "https://image.xinu.ink/pic/data/6492/images/2254.jpg",
+      "geo": [
+        36.753,
+        137.025
+      ],
+      "name_en": "Takaoka City (hometown of Fujiko F. Fujio)",
+      "address": "富山県高岡市"
+    },
+    {
+      "id": "2444",
+      "name": "登戸駅（ドラえもんラッピング）",
+      "image": "",
+      "geo": [
+        35.6183,
+        139.5713
+      ],
+      "name_en": "Noborito Station (Doraemon Themed)",
+      "address": "神奈川県川崎市多摩区登戸3519"
+    },
+    {
+      "id": "2445",
+      "name": "生田緑地",
+      "image": "https://image.xinu.ink/pic/data/6492/images/2445.jpg",
+      "geo": [
+        35.61,
+        139.5622
+      ],
+      "name_en": "Ikuta Ryokuchi Park",
+      "address": "神奈川県川崎市多摩区枡形7丁目1-2"
+    },
+    {
+      "id": "2447",
+      "name": "大泉学園駅",
+      "image": "https://image.xinu.ink/pic/data/6492/images/2447.jpg",
+      "geo": [
+        35.758,
+        139.587
+      ],
+      "name_en": "Oizumi-Gakuen Station",
+      "address": "東京都練馬区東大泉1丁目28-1"
+    },
+    {
+      "id": "2448",
+      "name": "高岡おとぎの森公園（ドラえもんの空き地）",
+      "image": "",
+      "geo": [
+        36.7165,
+        137.0308
+      ],
+      "name_en": "Takaoka Otogi no Mori Park (Doraemon Vacant Lot)",
+      "address": "富山県高岡市佐野1342"
+    },
+    {
+      "id": "2449",
+      "name": "高岡市藤子・F・不二雄ふるさとギャラリー",
+      "image": "",
+      "geo": [
+        36.7505,
+        137.0258
+      ],
+      "name_en": "Takaoka Fujiko F. Fujio Hometown Gallery",
+      "address": "富山県高岡市末広町1-8"
+    },
+    {
+      "id": "2450",
+      "name": "テレビ朝日本社（六本木）",
+      "image": "https://image.xinu.ink/pic/data/6492/images/2450.jpg",
+      "geo": [
+        35.6604,
+        139.731
+      ],
+      "name_en": "TV Asahi Headquarters (Roppongi)",
+      "address": "東京都港区六本木6丁目9-1"
+    }
+  ]
+}

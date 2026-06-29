@@ -1,0 +1,37 @@
+{
+  "points": [
+    {
+      "id": "3424",
+      "name": "黄泉比良坂",
+      "image": "https://image.xinu.ink/pic/data/6532/images/3424.jpg",
+      "geo": [
+        35.4406,
+        133.1573
+      ],
+      "name_en": "Yomotsu Hirasaka",
+      "address": "島根県松江市東出雲町揖屋"
+    },
+    {
+      "id": "3425",
+      "name": "出雲大社",
+      "image": "https://image.xinu.ink/pic/data/6532/images/3425.jpg",
+      "geo": [
+        35.4019,
+        132.6855
+      ],
+      "name_en": "Izumo Taisha Grand Shrine",
+      "address": "島根県出雲市大社町杵築東195"
+    },
+    {
+      "id": "3426",
+      "name": "伏見稲荷大社",
+      "image": "https://image.xinu.ink/pic/data/6532/images/3426.jpg",
+      "geo": [
+        34.9671,
+        135.7727
+      ],
+      "name_en": "Fushimi Inari Taisha",
+      "address": "京都府京都市伏見区深草薮之内町68"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "points": [
+    {
+      "id": "2124",
+      "name": "北海道（物語シリーズの風景）",
+      "image": "https://image.xinu.ink/pic/data/6488/images/2124.jpg",
+      "geo": [
+        43.0621,
+        141.3544
+      ],
+      "name_en": "Hokkaido (scenery from the Monogatari series)",
+      "address": "北海道"
+    },
+    {
+      "id": "2230",
+      "name": "シャフト本社周辺（杉並区）",
+      "image": "",
+      "geo": [
+        35.6994,
+        139.6365
+      ],
+      "name_en": "Around Shaft&#039;s headquarters (Suginami Ward)",
+      "address": "東京都杉並区"
+    },
+    {
+      "id": "2576",
+      "name": "新宿駅南口",
+      "image": "https://image.xinu.ink/pic/data/6488/images/2576.jpg",
+      "geo": [
+        35.6886,
+        139.6999
+      ],
+      "name_en": "Shinjuku Station South Exit",
+      "address": "東京都新宿区新宿3"
+    }
+  ]
+}

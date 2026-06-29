@@ -1,0 +1,114 @@
+{
+  "points": [
+    {
+      "id": "2196",
+      "name": "麻布十番商店街",
+      "image": "https://image.xinu.ink/pic/data/6495/images/2196.jpg",
+      "geo": [
+        35.6548,
+        139.737
+      ],
+      "name_en": "Azabu Juban Shopping Street",
+      "address": "東京都港区麻布十番1丁目"
+    },
+    {
+      "id": "2197",
+      "name": "麻布十番公園",
+      "image": "https://image.xinu.ink/pic/data/6495/images/2197.jpg",
+      "geo": [
+        35.6538,
+        139.7365
+      ],
+      "name_en": "Azabu Juban Park",
+      "address": "東京都港区麻布十番1-4"
+    },
+    {
+      "id": "2260",
+      "name": "東京タワー",
+      "image": "https://image.xinu.ink/pic/data/6495/images/2260.jpg",
+      "geo": [
+        35.6586,
+        139.7454
+      ],
+      "name_en": "Tokyo Tower",
+      "address": "東京都港区芝公園4-2-8"
+    },
+    {
+      "id": "2472",
+      "name": "麻布十番温泉跡地",
+      "image": "",
+      "geo": [
+        35.6554,
+        139.7372
+      ],
+      "name_en": "Former Azabu-Juban Onsen Site",
+      "address": "東京都港区麻布十番1丁目5"
+    },
+    {
+      "id": "2473",
+      "name": "十番稲荷神社",
+      "image": "https://image.xinu.ink/pic/data/6495/images/2473.jpg",
+      "geo": [
+        35.6553,
+        139.7363
+      ],
+      "name_en": "Juban Inari Shrine",
+      "address": "東京都港区麻布十番1丁目4-6"
+    },
+    {
+      "id": "2474",
+      "name": "氷川神社（赤坂）",
+      "image": "https://image.xinu.ink/pic/data/6495/images/2474.jpg",
+      "geo": [
+        35.6693,
+        139.7338
+      ],
+      "name_en": "Hikawa Shrine (Akasaka)",
+      "address": "東京都港区赤坂6丁目10-12"
+    },
+    {
+      "id": "2475",
+      "name": "パティオ十番（商店街広場）",
+      "image": "",
+      "geo": [
+        35.6543,
+        139.7365
+      ],
+      "name_en": "Patio Juban (Shopping Street Plaza)",
+      "address": "東京都港区麻布十番2丁目3"
+    },
+    {
+      "id": "2476",
+      "name": "芝公園",
+      "image": "https://image.xinu.ink/pic/data/6495/images/2476.jpg",
+      "geo": [
+        35.6559,
+        139.7489
+      ],
+      "name_en": "Shiba Park",
+      "address": "東京都港区芝公園4丁目"
+    },
+    {
+      "id": "2477",
+      "name": "有栖川宮記念公園",
+      "image": "https://image.xinu.ink/pic/data/6495/images/2477.jpg",
+      "geo": [
+        35.6521,
+        139.7272
+      ],
+      "name_en": "Arisugawa Memorial Park",
+      "address": "東京都港区南麻布5丁目7-29"
+    },
+    {
+      "id": "2478",
+      "name": "麻布十番駅",
+      "image": "https://image.xinu.ink/pic/data/6495/images/2478.jpg",
+      "geo": [
+        35.6535,
+        139.737
+      ],
+      "name_en": "Azabu-Juban Station",
+      "address": "東京都港区麻布十番4丁目4"
+    }
+  ]
+}

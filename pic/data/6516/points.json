@@ -1,0 +1,48 @@
+{
+  "points": [
+    {
+      "id": "3220",
+      "name": "港の見える丘公園",
+      "image": "https://image.xinu.ink/pic/data/6516/images/3220.jpg",
+      "geo": [
+        35.4395,
+        139.6532
+      ],
+      "name_en": "Harbor View Park",
+      "address": "神奈川県横浜市中区山手町114"
+    },
+    {
+      "id": "3221",
+      "name": "谷戸坂",
+      "image": "",
+      "geo": [
+        35.4396,
+        139.6531
+      ],
+      "name_en": "Yato-zaka Slope",
+      "address": "神奈川県横浜市中区山手町"
+    },
+    {
+      "id": "3222",
+      "name": "山下公園",
+      "image": "https://image.xinu.ink/pic/data/6516/images/3222.jpg",
+      "geo": [
+        35.4448,
+        139.6499
+      ],
+      "name_en": "Yamashita Park",
+      "address": "神奈川県横浜市中区山下町279"
+    },
+    {
+      "id": "3223",
+      "name": "根岸なつかし公園・旧柳下邸",
+      "image": "",
+      "geo": [
+        35.4093,
+        139.6431
+      ],
+      "name_en": "Negishi Natsukashi Park (Former Yagishita Residence)",
+      "address": "神奈川県横浜市磯子区下町10"
+    }
+  ]
+}

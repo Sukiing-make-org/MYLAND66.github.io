@@ -1,0 +1,48 @@
+{
+  "points": [
+    {
+      "id": "3278",
+      "name": "ニテコ池",
+      "image": "",
+      "geo": [
+        34.7625,
+        135.332
+      ],
+      "name_en": "Niteko Pond",
+      "address": "兵庫県西宮市満池谷町"
+    },
+    {
+      "id": "3279",
+      "name": "西宮震災記念碑公園",
+      "image": "https://image.xinu.ink/pic/data/6523/images/3279.jpg",
+      "geo": [
+        34.7635,
+        135.3322
+      ],
+      "name_en": "Nishinomiya Earthquake Memorial Park",
+      "address": "兵庫県西宮市満池谷町"
+    },
+    {
+      "id": "3280",
+      "name": "香櫨園浜",
+      "image": "",
+      "geo": [
+        34.7158,
+        135.3357
+      ],
+      "name_en": "Korien Beach",
+      "address": "兵庫県西宮市西波止町"
+    },
+    {
+      "id": "3281",
+      "name": "阪急 苦楽園口駅",
+      "image": "https://image.xinu.ink/pic/data/6523/images/3281.jpg",
+      "geo": [
+        34.7613,
+        135.3263
+      ],
+      "name_en": "Hankyu Kurakuenguchi Station",
+      "address": "兵庫県西宮市相生町"
+    }
+  ]
+}

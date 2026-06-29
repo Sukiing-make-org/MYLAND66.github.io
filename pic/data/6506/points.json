@@ -1,0 +1,26 @@
+{
+  "points": [
+    {
+      "id": "3067",
+      "name": "宝塚大劇場",
+      "image": "https://image.xinu.ink/pic/data/6506/images/3067.jpg",
+      "geo": [
+        34.8071,
+        135.3464
+      ],
+      "name_en": "Takarazuka Grand Theater",
+      "address": "兵庫県宝塚市栄町1-1-57"
+    },
+    {
+      "id": "3068",
+      "name": "花のみち",
+      "image": "",
+      "geo": [
+        34.8088,
+        135.344
+      ],
+      "name_en": "Hana no Michi (Flower Road)",
+      "address": "兵庫県宝塚市栄町1"
+    }
+  ]
+}

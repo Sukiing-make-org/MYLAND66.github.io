@@ -1,0 +1,26 @@
+{
+  "points": [
+    {
+      "id": "2821",
+      "name": "新函館北斗駅（ケンシロウ像）",
+      "image": "https://image.xinu.ink/pic/data/6499/images/2821.jpg",
+      "geo": [
+        41.9044,
+        140.6489
+      ],
+      "name_en": "Shin-Hakodate-Hokuto Station (Kenshiro Statue)",
+      "address": "北海道北斗市市渡1-1-1"
+    },
+    {
+      "id": "2822",
+      "name": "佐久平駅（北斗の拳マンホール）",
+      "image": "https://image.xinu.ink/pic/data/6499/images/2822.jpg",
+      "geo": [
+        36.2492,
+        138.4784
+      ],
+      "name_en": "Sakudaira Station (Fist of the North Star Manholes)",
+      "address": "長野県佐久市佐久平駅東"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "points": [
+    {
+      "id": "3288",
+      "name": "種子島宇宙センター",
+      "image": "https://image.xinu.ink/pic/data/6524/images/3288.jpg",
+      "geo": [
+        30.4001,
+        130.97
+      ],
+      "name_en": "Tanegashima Space Center",
+      "address": "鹿児島県熊毛郡南種子町茎永麻津"
+    },
+    {
+      "id": "3289",
+      "name": "鶴岡八幡宮",
+      "image": "https://image.xinu.ink/pic/data/6524/images/3289.jpg",
+      "geo": [
+        35.3258,
+        139.5567
+      ],
+      "name_en": "Tsurugaoka Hachimangu",
+      "address": "神奈川県鎌倉市雪ノ下2-1-31"
+    },
+    {
+      "id": "3290",
+      "name": "由比ヶ浜",
+      "image": "https://image.xinu.ink/pic/data/6524/images/3290.jpg",
+      "geo": [
+        35.3081,
+        139.5505
+      ],
+      "name_en": "Yuigahama Beach",
+      "address": "神奈川県鎌倉市由比ガ浜"
+    }
+  ]
+}

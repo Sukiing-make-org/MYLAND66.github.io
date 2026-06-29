@@ -1,0 +1,26 @@
+{
+  "points": [
+    {
+      "id": "2087",
+      "name": "国立競技場",
+      "image": "https://image.xinu.ink/pic/data/6486/images/2087.jpg",
+      "geo": [
+        35.6776,
+        139.7144
+      ],
+      "name_en": "National Stadium",
+      "address": "東京都新宿区霞ヶ丘町10-1"
+    },
+    {
+      "id": "2090",
+      "name": "埼玉スタジアム2002",
+      "image": "https://image.xinu.ink/pic/data/6486/images/2090.jpg",
+      "geo": [
+        35.9036,
+        139.7175
+      ],
+      "name_en": "Saitama Stadium 2002",
+      "address": "埼玉県さいたま市緑区美園2-1"
+    }
+  ]
+}

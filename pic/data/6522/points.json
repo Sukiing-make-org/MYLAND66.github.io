@@ -1,0 +1,48 @@
+{
+  "points": [
+    {
+      "id": "3270",
+      "name": "JR石和温泉駅",
+      "image": "https://image.xinu.ink/pic/data/6522/images/3270.jpg",
+      "geo": [
+        35.6519,
+        138.6452
+      ],
+      "name_en": "JR Isawa-Onsen Station",
+      "address": "山梨県笛吹市石和町松本177-2"
+    },
+    {
+      "id": "3271",
+      "name": "富士吉田市 本町2丁目商店街",
+      "image": "",
+      "geo": [
+        35.48,
+        138.79
+      ],
+      "name_en": "Fujiyoshida Honcho 2-chome Shopping Street",
+      "address": "山梨県富士吉田市本町2丁目"
+    },
+    {
+      "id": "3272",
+      "name": "富士学苑高等学校",
+      "image": "",
+      "geo": [
+        35.4736,
+        138.7878
+      ],
+      "name_en": "Fuji Gakuen High School",
+      "address": "山梨県富士吉田市下吉田4-19-50"
+    },
+    {
+      "id": "3273",
+      "name": "石和温泉郷",
+      "image": "https://image.xinu.ink/pic/data/6522/images/3273.jpg",
+      "geo": [
+        35.6519,
+        138.6479
+      ],
+      "name_en": "Isawa Onsen",
+      "address": "山梨県笛吹市石和町"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "points": [
+    {
+      "id": "2165",
+      "name": "鎌倉駅",
+      "image": "https://image.xinu.ink/pic/data/6491/images/2165.jpg",
+      "geo": [
+        35.319,
+        139.5503
+      ],
+      "name_en": "Kamakura Station",
+      "address": "神奈川県鎌倉市小町1-1-1"
+    },
+    {
+      "id": "2166",
+      "name": "由比ヶ浜",
+      "image": "https://image.xinu.ink/pic/data/6491/images/2166.jpg",
+      "geo": [
+        35.307,
+        139.537
+      ],
+      "name_en": "Yuigahama",
+      "address": "神奈川県鎌倉市由比ガ浜4丁目"
+    },
+    {
+      "id": "2234",
+      "name": "長谷寺",
+      "image": "https://image.xinu.ink/pic/data/6491/images/2234.jpg",
+      "geo": [
+        35.3127,
+        139.5318
+      ],
+      "name_en": "Hase-dera Temple",
+      "address": "神奈川県鎌倉市長谷3-11-2"
+    },
+    {
+      "id": "2682",
+      "name": "極楽寺駅",
+      "image": "https://image.xinu.ink/pic/data/6491/images/2682.jpg",
+      "geo": [
+        35.3098,
+        139.5259
+      ],
+      "name_en": "Gokurakuji Station",
+      "address": "神奈川県鎌倉市極楽寺3-7-4"
+    },
+    {
+      "id": "2683",
+      "name": "稲村ヶ崎",
+      "image": "https://image.xinu.ink/pic/data/6491/images/2683.jpg",
+      "geo": [
+        35.3045,
+        139.529
+      ],
+      "name_en": "Inamuragasaki",
+      "address": "神奈川県鎌倉市稲村ガ崎1丁目"
+    },
+    {
+      "id": "2686",
+      "name": "七里ヶ浜",
+      "image": "https://image.xinu.ink/pic/data/6491/images/2686.jpg",
+      "geo": [
+        35.306,
+        139.514
+      ],
+      "name_en": "Shichirigahama Beach",
+      "address": "神奈川県鎌倉市七里ガ浜1丁目"
+    },
+    {
+      "id": "2687",
+      "name": "江ノ島電鉄 長谷駅",
+      "image": "https://image.xinu.ink/pic/data/6491/images/2687.jpg",
+      "geo": [
+        35.3116,
+        139.5369
+      ],
+      "name_en": "Enoden Hase Station",
+      "address": "神奈川県鎌倉市長谷2丁目"
+    }
+  ]
+}

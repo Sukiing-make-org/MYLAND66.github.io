@@ -1,0 +1,26 @@
+{
+  "points": [
+    {
+      "id": "2854",
+      "name": "渋谷スクランブル交差点",
+      "image": "https://image.xinu.ink/pic/data/6500/images/2854.jpg",
+      "geo": [
+        35.6595,
+        139.7004
+      ],
+      "name_en": "Shibuya Scramble Crossing",
+      "address": "東京都渋谷区道玄坂2丁目"
+    },
+    {
+      "id": "2855",
+      "name": "渋谷ヒカリエ",
+      "image": "https://image.xinu.ink/pic/data/6500/images/2855.jpg",
+      "geo": [
+        35.659,
+        139.7036
+      ],
+      "name_en": "Shibuya Hikarie",
+      "address": "東京都渋谷区渋谷2-21-1"
+    }
+  ]
+}

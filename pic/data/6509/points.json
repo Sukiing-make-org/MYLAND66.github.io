@@ -1,0 +1,26 @@
+{
+  "points": [
+    {
+      "id": "3081",
+      "name": "仙川駅",
+      "image": "https://image.xinu.ink/pic/data/6509/images/3081.jpg",
+      "geo": [
+        35.6672,
+        139.5752
+      ],
+      "name_en": "Sengawa Station",
+      "address": "東京都調布市仙川町1-18"
+    },
+    {
+      "id": "3082",
+      "name": "都立神代高等学校",
+      "image": "https://image.xinu.ink/pic/data/6509/images/3082.jpg",
+      "geo": [
+        35.6658,
+        139.57
+      ],
+      "name_en": "Jindai High School",
+      "address": "東京都調布市若葉町1-46-1"
+    }
+  ]
+}

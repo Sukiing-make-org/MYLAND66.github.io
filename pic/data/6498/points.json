@@ -1,0 +1,37 @@
+{
+  "points": [
+    {
+      "id": "2834",
+      "name": "大谷資料館",
+      "image": "https://image.xinu.ink/pic/data/6498/images/2834.jpg",
+      "geo": [
+        36.5842,
+        139.8186
+      ],
+      "name_en": "Oya History Museum",
+      "address": "栃木県宇都宮市大谷町909"
+    },
+    {
+      "id": "2835",
+      "name": "旧前田侯爵邸洋館",
+      "image": "https://image.xinu.ink/pic/data/6498/images/2835.jpg",
+      "geo": [
+        35.6618,
+        139.6825
+      ],
+      "name_en": "Former Marquis Maeda Residence",
+      "address": "東京都目黒区駒場4-3-55"
+    },
+    {
+      "id": "2836",
+      "name": "湘南国際村センター",
+      "image": "https://image.xinu.ink/pic/data/6498/images/2836.jpg",
+      "geo": [
+        35.2706,
+        139.5889
+      ],
+      "name_en": "Shonan Village Center",
+      "address": "神奈川県三浦郡葉山町上山口1560-39"
+    }
+  ]
+}

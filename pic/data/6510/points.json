@@ -1,0 +1,37 @@
+{
+  "points": [
+    {
+      "id": "3084",
+      "name": "千光寺",
+      "image": "https://image.xinu.ink/pic/data/6510/images/3084.jpg",
+      "geo": [
+        34.4085,
+        133.1969
+      ],
+      "name_en": "Senkoji Temple",
+      "address": "広島県尾道市東土堂町15-1"
+    },
+    {
+      "id": "3085",
+      "name": "鞆の浦・常夜灯",
+      "image": "",
+      "geo": [
+        34.3833,
+        133.3831
+      ],
+      "name_en": "Tomonoura Lighthouse",
+      "address": "広島県福山市鞆町鞆"
+    },
+    {
+      "id": "3086",
+      "name": "尾道本通り商店街",
+      "image": "https://image.xinu.ink/pic/data/6510/images/3086.jpg",
+      "geo": [
+        34.4091,
+        133.1942
+      ],
+      "name_en": "Onomichi Hondori Shopping Street",
+      "address": "広島県尾道市土堂1丁目"
+    }
+  ]
+}

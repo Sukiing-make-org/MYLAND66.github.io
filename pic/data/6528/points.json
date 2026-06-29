@@ -1,0 +1,37 @@
+{
+  "points": [
+    {
+      "id": "3347",
+      "name": "多摩市立図書館 本館",
+      "image": "",
+      "geo": [
+        35.6298,
+        139.4256
+      ],
+      "name_en": "Tama City Library Main Branch",
+      "address": "東京都多摩市落合2-35"
+    },
+    {
+      "id": "3348",
+      "name": "多摩センター駅",
+      "image": "https://image.xinu.ink/pic/data/6528/images/3348.jpg",
+      "geo": [
+        35.6244,
+        139.4253
+      ],
+      "name_en": "Tama Center Station",
+      "address": "東京都多摩市落合1-17"
+    },
+    {
+      "id": "3349",
+      "name": "ゆうひの丘（都立桜ヶ丘公園）",
+      "image": "",
+      "geo": [
+        35.6387,
+        139.4533
+      ],
+      "name_en": "Yuhi Hill (Sakuragaoka Park)",
+      "address": "東京都多摩市連光寺5"
+    }
+  ]
+}

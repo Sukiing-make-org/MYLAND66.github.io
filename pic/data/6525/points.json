@@ -1,0 +1,48 @@
+{
+  "points": [
+    {
+      "id": "3303",
+      "name": "JR広島駅",
+      "image": "https://image.xinu.ink/pic/data/6525/images/3303.jpg",
+      "geo": [
+        34.3974,
+        132.4756
+      ],
+      "name_en": "JR Hiroshima Station",
+      "address": "広島県広島市南区松原町2"
+    },
+    {
+      "id": "3304",
+      "name": "尾道駅",
+      "image": "https://image.xinu.ink/pic/data/6525/images/3304.jpg",
+      "geo": [
+        34.4076,
+        133.1968
+      ],
+      "name_en": "Onomichi Station",
+      "address": "広島県尾道市東御所町1-1"
+    },
+    {
+      "id": "3305",
+      "name": "東京駅",
+      "image": "https://image.xinu.ink/pic/data/6525/images/3305.jpg",
+      "geo": [
+        35.6812,
+        139.7671
+      ],
+      "name_en": "Tokyo Station",
+      "address": "東京都千代田区丸の内1-9-1"
+    },
+    {
+      "id": "3306",
+      "name": "世田谷区下北沢",
+      "image": "https://image.xinu.ink/pic/data/6525/images/3306.jpg",
+      "geo": [
+        35.6614,
+        139.668
+      ],
+      "name_en": "Setagaya Shimokitazawa",
+      "address": "東京都世田谷区北沢2"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "points": [
+    {
+      "id": "2262",
+      "name": "ポートアイランド（神戸）",
+      "image": "https://image.xinu.ink/pic/data/6496/images/2262.jpg",
+      "geo": [
+        34.665,
+        135.217
+      ],
+      "name_en": "Port Island (Kobe)",
+      "address": "兵庫県神戸市中央区港島"
+    },
+    {
+      "id": "2481",
+      "name": "神戸ハーバーランド",
+      "image": "https://image.xinu.ink/pic/data/6496/images/2481.jpg",
+      "geo": [
+        34.681,
+        135.1835
+      ],
+      "name_en": "Kobe Harborland",
+      "address": "兵庫県神戸市中央区東川崎町1丁目"
+    },
+    {
+      "id": "2482",
+      "name": "メリケンパーク",
+      "image": "https://image.xinu.ink/pic/data/6496/images/2482.jpg",
+      "geo": [
+        34.6839,
+        135.1881
+      ],
+      "name_en": "Meriken Park",
+      "address": "兵庫県神戸市中央区波止場町2-2"
+    },
+    {
+      "id": "2842",
+      "name": "東京都庁",
+      "image": "https://image.xinu.ink/pic/data/6496/images/2842.jpg",
+      "geo": [
+        35.6896,
+        139.6917
+      ],
+      "name_en": "Tokyo Metropolitan Government Building",
+      "address": "東京都新宿区西新宿2-8-1"
+    },
+    {
+      "id": "2843",
+      "name": "渋谷駅前スクランブル交差点",
+      "image": "https://image.xinu.ink/pic/data/6496/images/2843.jpg",
+      "geo": [
+        35.6595,
+        139.7004
+      ],
+      "name_en": "Shibuya Scramble Crossing",
+      "address": "東京都渋谷区宇田川町"
+    },
+    {
+      "id": "2844",
+      "name": "SPring-8（大型放射光施設）",
+      "image": "https://image.xinu.ink/pic/data/6496/images/2844.jpg",
+      "geo": [
+        34.9604,
+        134.1784
+      ],
+      "name_en": "SPring-8 (Synchrotron Radiation Facility)",
+      "address": "兵庫県佐用郡佐用町光都1-1-1"
+    },
+    {
+      "id": "2845",
+      "name": "北野異人館街",
+      "image": "https://image.xinu.ink/pic/data/6496/images/2845.jpg",
+      "geo": [
+        34.6988,
+        135.1905
+      ],
+      "name_en": "Kitano Ijinkan (Foreign Houses District)",
+      "address": "兵庫県神戸市中央区山本通"
+    },
+    {
+      "id": "2846",
+      "name": "神戸大橋",
+      "image": "https://image.xinu.ink/pic/data/6496/images/2846.jpg",
+      "geo": [
+        34.678,
+        135.209
+      ],
+      "name_en": "Kobe Ohashi Bridge",
+      "address": "兵庫県神戸市中央区港島1丁目"
+    }
+  ]
+}

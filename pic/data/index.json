@@ -541442,5 +541442,2976 @@
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/6478/points.json"
+  },
+  "6479": {
+    "name": "ソードアート・オンライン",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6479/images/cover.jpg",
+    "theme_color": "#24546c",
+    "points": [
+      {
+        "id": "1960",
+        "name": "秋葉原電気街",
+        "image": "https://image.xinu.ink/pic/data/6479/images/1960.jpg",
+        "geo": [
+          35.7023,
+          139.7745
+        ],
+        "name_en": "Akihabara Electric Town",
+        "address": "東京都千代田区外神田1丁目"
+      },
+      {
+        "id": "1961",
+        "name": "代々木公園",
+        "image": "https://image.xinu.ink/pic/data/6479/images/1961.jpg",
+        "geo": [
+          35.6715,
+          139.6949
+        ],
+        "name_en": "Yoyogi Park",
+        "address": "東京都渋谷区代々木神園町2-1"
+      },
+      {
+        "id": "1966",
+        "name": "国立代々木競技場",
+        "image": "https://image.xinu.ink/pic/data/6479/images/1966.jpg",
+        "geo": [
+          35.6672,
+          139.6993
+        ],
+        "name_en": "National Yoyogi Stadium",
+        "address": "東京都渋谷区神南2-1-1"
+      },
+      {
+        "id": "1967",
+        "name": "東京ドーム",
+        "image": "https://image.xinu.ink/pic/data/6479/images/1967.jpg",
+        "geo": [
+          35.7056,
+          139.7519
+        ],
+        "name_en": "Tokyo Dome",
+        "address": "東京都文京区後楽1-3-61"
+      },
+      {
+        "id": "2736",
+        "name": "恵比寿ガーデンプレイス",
+        "image": "https://image.xinu.ink/pic/data/6479/images/2736.jpg",
+        "geo": [
+          35.6422,
+          139.7142
+        ],
+        "name_en": "Yebisu Garden Place",
+        "address": "東京都渋谷区恵比寿4-20"
+      },
+      {
+        "id": "2737",
+        "name": "皇居東御苑",
+        "image": "https://image.xinu.ink/pic/data/6479/images/2737.jpg",
+        "geo": [
+          35.6864,
+          139.7575
+        ],
+        "name_en": "Imperial Palace East Gardens",
+        "address": "東京都千代田区千代田1-1"
+      },
+      {
+        "id": "2738",
+        "name": "竹芝客船ターミナル",
+        "image": "https://image.xinu.ink/pic/data/6479/images/2738.jpg",
+        "geo": [
+          35.6542,
+          139.7633
+        ],
+        "name_en": "Takeshiba Passenger Ship Terminal",
+        "address": "東京都港区海岸1-12-2"
+      },
+      {
+        "id": "2739",
+        "name": "堂平天文台",
+        "image": "https://image.xinu.ink/pic/data/6479/images/2739.jpg",
+        "geo": [
+          36.0058,
+          139.1901
+        ],
+        "name_en": "Dodaira Observatory",
+        "address": "埼玉県比企郡ときがわ町大字大野1853"
+      },
+      {
+        "id": "2740",
+        "name": "新宿駅南口",
+        "image": "https://image.xinu.ink/pic/data/6479/images/2740.jpg",
+        "geo": [
+          35.6908,
+          139.7003
+        ],
+        "name_en": "Shinjuku Station South Exit",
+        "address": "東京都新宿区新宿3-38-1"
+      },
+      {
+        "id": "2741",
+        "name": "所沢駅",
+        "image": "https://image.xinu.ink/pic/data/6479/images/2741.jpg",
+        "geo": [
+          35.7994,
+          139.4688
+        ],
+        "name_en": "Tokorozawa Station",
+        "address": "埼玉県所沢市日吉町1-1"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6479/points.json"
+  },
+  "6480": {
+    "name": "ワンピース",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6480/images/cover.jpg",
+    "theme_color": "#e4b484",
+    "points": [
+      {
+        "id": "1935",
+        "name": "ハウステンボス",
+        "image": "https://image.xinu.ink/pic/data/6480/images/1935.jpg",
+        "geo": [
+          33.086,
+          129.788
+        ],
+        "name_en": "Huis Ten Bosch",
+        "address": "長崎県佐世保市ハウステンボス町1-1"
+      },
+      {
+        "id": "1936",
+        "name": "熊本県庁（ルフィ像）",
+        "image": "https://image.xinu.ink/pic/data/6480/images/1936.jpg",
+        "geo": [
+          32.7898,
+          130.7417
+        ],
+        "name_en": "Kumamoto Prefectural Government Building (Luffy statue)",
+        "address": "熊本県熊本市中央区水前寺6-18-1"
+      },
+      {
+        "id": "1937",
+        "name": "阿蘇駅前（ウソップ像）",
+        "image": "https://image.xinu.ink/pic/data/6480/images/1937.jpg",
+        "geo": [
+          32.949,
+          131.072
+        ],
+        "name_en": "In front of Aso Station (Usopp statue)",
+        "address": "熊本県阿蘇市黒川1444-2"
+      },
+      {
+        "id": "1938",
+        "name": "益城町交流情報センター（サンジ像）",
+        "image": "https://image.xinu.ink/pic/data/6480/images/1938.jpg",
+        "geo": [
+          32.772,
+          130.817
+        ],
+        "name_en": "Mashiki Town Community Information Center (Sanji statue)",
+        "address": "熊本県上益城郡益城町木山236"
+      },
+      {
+        "id": "1939",
+        "name": "高森駅前（フランキー像）",
+        "image": "https://image.xinu.ink/pic/data/6480/images/1939.jpg",
+        "geo": [
+          32.826,
+          131.118
+        ],
+        "name_en": "Takamori Station (Frankie statue)",
+        "address": "熊本県阿蘇郡高森町高森1537-2"
+      },
+      {
+        "id": "1940",
+        "name": "東京ワンピースタワー跡地（東京タワー）",
+        "image": "https://image.xinu.ink/pic/data/6480/images/1940.jpg",
+        "geo": [
+          35.6586,
+          139.7454
+        ],
+        "name_en": "Former site of Tokyo One Piece Tower (Tokyo Tower)",
+        "address": "東京都港区芝公園4-2-8"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6480/points.json"
+  },
+  "6481": {
+    "name": "この世界の片隅に",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6481/images/cover.jpg",
+    "theme_color": "#6cb4e4",
+    "points": [
+      {
+        "id": "1588",
+        "name": "呉市歴史の見える丘",
+        "image": "https://image.xinu.ink/pic/data/6481/images/1588.jpg",
+        "geo": [
+          34.249,
+          132.5649
+        ],
+        "name_en": "Kure Hill with History View",
+        "address": "広島県呉市幸町入船山公園"
+      },
+      {
+        "id": "1884",
+        "name": "旧呉鎮守府司令長官官舎（入船山記念館）",
+        "image": "https://image.xinu.ink/pic/data/6481/images/1884.jpg",
+        "geo": [
+          34.2397,
+          132.5656
+        ],
+        "name_en": "Former Kure Naval District Commander&#039;s Residence (Irifuneyama Memorial Museum)",
+        "address": "広島県呉市幸町4-6"
+      },
+      {
+        "id": "1886",
+        "name": "アレイからすこじま",
+        "image": "https://image.xinu.ink/pic/data/6481/images/1886.jpg",
+        "geo": [
+          34.2325,
+          132.554
+        ],
+        "name_en": "Array Karasukojima",
+        "address": "広島県呉市昭和町"
+      },
+      {
+        "id": "1887",
+        "name": "灰ヶ峰",
+        "image": "https://image.xinu.ink/pic/data/6481/images/1887.jpg",
+        "geo": [
+          34.261,
+          132.568
+        ],
+        "name_en": "Haigamine",
+        "address": "広島県呉市栃原町"
+      },
+      {
+        "id": "1889",
+        "name": "旧呉海軍工廠（IHI呉工場跡）",
+        "image": "https://image.xinu.ink/pic/data/6481/images/1889.jpg",
+        "geo": [
+          34.234,
+          132.551
+        ],
+        "name_en": "Former Kure Naval Arsenal (site of IHI Kure Factory)",
+        "address": "広島県呉市昭和町"
+      },
+      {
+        "id": "1891",
+        "name": "原爆ドーム",
+        "image": "https://image.xinu.ink/pic/data/6481/images/1891.jpg",
+        "geo": [
+          34.3955,
+          132.4536
+        ],
+        "name_en": "Atomic Bomb Dome",
+        "address": "広島県広島市中区大手町1-10"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6481/points.json"
+  },
+  "6482": {
+    "name": "NARUTO -ナルト-",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6482/images/cover.jpg",
+    "theme_color": "#e48454",
+    "points": [
+      {
+        "id": "1597",
+        "name": "奈良公園",
+        "image": "https://image.xinu.ink/pic/data/6482/images/1597.jpg",
+        "geo": [
+          34.6847,
+          135.8328
+        ],
+        "name_en": "Nara Park",
+        "address": "奈良県奈良市登大路町30"
+      },
+      {
+        "id": "1842",
+        "name": "渦の道（大鳴門橋遊歩道）",
+        "image": "https://image.xinu.ink/pic/data/6482/images/1842.jpg",
+        "geo": [
+          34.2378,
+          134.6476
+        ],
+        "name_en": "Uzunomichi (Naruto Bridge Promenade)",
+        "address": "徳島県鳴門市鳴門町土佐泊浦字福池65"
+      },
+      {
+        "id": "1843",
+        "name": "鳴門公園 千畳敷展望台",
+        "image": "https://image.xinu.ink/pic/data/6482/images/1843.jpeg",
+        "geo": [
+          34.2362,
+          134.6488
+        ],
+        "name_en": "Naruto Park Senjojiki Observation Deck",
+        "address": "徳島県鳴門市鳴門町土佐泊浦字福池65-7"
+      },
+      {
+        "id": "1844",
+        "name": "JR鳴門駅",
+        "image": "https://image.xinu.ink/pic/data/6482/images/1844.jpg",
+        "geo": [
+          34.177,
+          134.6096
+        ],
+        "name_en": "JR Naruto Station",
+        "address": "徳島県鳴門市撫養町小桑島前浜"
+      },
+      {
+        "id": "1845",
+        "name": "奈義町現代美術館（Nagi MOCA）",
+        "image": "https://image.xinu.ink/pic/data/6482/images/1845.jpg",
+        "geo": [
+          35.1747,
+          134.18
+        ],
+        "name_en": "Nagi Museum of Contemporary Art (Nagi MOCA)",
+        "address": "岡山県勝田郡奈義町豊沢441"
+      },
+      {
+        "id": "1846",
+        "name": "ニジゲンノモリ NARUTO&BORUTO 忍里",
+        "image": "https://image.xinu.ink/pic/data/6482/images/1846.jpg",
+        "geo": [
+          34.5672,
+          134.9689
+        ],
+        "name_en": "Nijigen no Mori NARUTO &amp; BORUTO Shinobi Village",
+        "address": "兵庫県淡路市楠本2425-2"
+      },
+      {
+        "id": "1847",
+        "name": "NARUTO×BORUTO 富士 木ノ葉隠れの里",
+        "image": "https://image.xinu.ink/pic/data/6482/images/1847.jpg",
+        "geo": [
+          35.4893,
+          138.7819
+        ],
+        "name_en": "NARUTO x BORUTO: Mount Fuji, Hidden Leaf Village",
+        "address": "山梨県富士吉田市新西原5-6-1"
+      },
+      {
+        "id": "1848",
+        "name": "一楽ラーメン 名島本店",
+        "image": "https://image.xinu.ink/pic/data/6482/images/1848.jpg",
+        "geo": [
+          33.6384,
+          130.4263
+        ],
+        "name_en": "Ichiraku Ramen Najima Main Store",
+        "address": "福岡県福岡市東区箱崎7-4-2"
+      },
+      {
+        "id": "1849",
+        "name": "九州産業大学",
+        "image": "https://image.xinu.ink/pic/data/6482/images/1849.jpg",
+        "geo": [
+          33.6602,
+          130.441
+        ],
+        "name_en": "Kyushu Industrial University",
+        "address": "福岡県福岡市東区松香台2-3-1"
+      },
+      {
+        "id": "1851",
+        "name": "伊賀流忍者博物館",
+        "image": "https://image.xinu.ink/pic/data/6482/images/1851.jpg",
+        "geo": [
+          34.7718,
+          136.1291
+        ],
+        "name_en": "Iga-ryu Ninja Museum",
+        "address": "三重県伊賀市上野丸之内117"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6482/points.json"
+  },
+  "6483": {
+    "name": "SAKAMOTO DAYS",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6483/images/cover.png",
+    "theme_color": "#9ce4e4",
+    "points": [
+      {
+        "id": "2831",
+        "name": "横浜中華街",
+        "image": "https://image.xinu.ink/pic/data/6483/images/2831.jpg",
+        "geo": [
+          35.4437,
+          139.6475
+        ],
+        "name_en": "Yokohama Chinatown",
+        "address": "神奈川県横浜市中区山下町"
+      },
+      {
+        "id": "2832",
+        "name": "東京タワー",
+        "image": "https://image.xinu.ink/pic/data/6483/images/2832.jpg",
+        "geo": [
+          35.6586,
+          139.7454
+        ],
+        "name_en": "Tokyo Tower",
+        "address": "東京都港区芝公園4-2-8"
+      },
+      {
+        "id": "2833",
+        "name": "名古屋市科学館",
+        "image": "https://image.xinu.ink/pic/data/6483/images/2833.jpg",
+        "geo": [
+          35.1652,
+          136.9001
+        ],
+        "name_en": "Nagoya City Science Museum",
+        "address": "愛知県名古屋市中区栄2-17-1"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6483/points.json"
+  },
+  "6484": {
+    "name": "僕のヒーローアカデミア",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6484/images/cover.jpg",
+    "theme_color": "#fce454",
+    "points": [
+      {
+        "id": "2058",
+        "name": "USJユニバーサル・スタジオ・ジャパン",
+        "image": "https://image.xinu.ink/pic/data/6484/images/2058.jpg",
+        "geo": [
+          34.6654,
+          135.4323
+        ],
+        "name_en": "Universal Studios Japan (USJ)",
+        "address": "大阪府大阪市此花区桜島2-1-33"
+      },
+      {
+        "id": "2302",
+        "name": "愛知県立芸術大学",
+        "image": "https://image.xinu.ink/pic/data/6484/images/2302.jpg",
+        "geo": [
+          35.1847,
+          137.0574
+        ],
+        "name_en": "Aichi Prefectural University of Fine Arts and Music",
+        "address": "愛知県長久手市岩作三ケ峯1-114"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6484/points.json"
+  },
+  "6485": {
+    "name": "ハウルの動く城",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6485/images/cover.jpg",
+    "theme_color": "#0c9ce4",
+    "points": [
+      {
+        "id": "2079",
+        "name": "ジブリパーク",
+        "image": "https://image.xinu.ink/pic/data/6485/images/2079.jpg",
+        "geo": [
+          35.182,
+          137.084
+        ],
+        "name_en": "Ghibli Park",
+        "address": "愛知県長久手市茨ケ廻間乙1533-1"
+      },
+      {
+        "id": "2336",
+        "name": "湯布院フローラルヴィレッジ",
+        "image": "https://image.xinu.ink/pic/data/6485/images/2336.jpg",
+        "geo": [
+          33.2674,
+          131.3651
+        ],
+        "name_en": "Yufuin Floral Village",
+        "address": "大分県由布市湯布院町川上1503-3"
+      },
+      {
+        "id": "2338",
+        "name": "ハウステンボス",
+        "image": "https://image.xinu.ink/pic/data/6485/images/2338.jpg",
+        "geo": [
+          33.0858,
+          129.7883
+        ],
+        "name_en": "Huis Ten Bosch",
+        "address": "長崎県佐世保市ハウステンボス町1-1"
+      },
+      {
+        "id": "2339",
+        "name": "門司港レトロ",
+        "image": "https://image.xinu.ink/pic/data/6485/images/2339.jpg",
+        "geo": [
+          33.9461,
+          130.9613
+        ],
+        "name_en": "Mojiko Retro",
+        "address": "福岡県北九州市門司区港町"
+      },
+      {
+        "id": "2341",
+        "name": "函館ハリストス正教会",
+        "image": "https://image.xinu.ink/pic/data/6485/images/2341.jpg",
+        "geo": [
+          41.7654,
+          140.709
+        ],
+        "name_en": "Hakodate Orthodox Church",
+        "address": "北海道函館市元町3-13"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6485/points.json"
+  },
+  "6486": {
+    "name": "ブルーロック",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6486/images/cover.png",
+    "theme_color": "#24243c",
+    "points": [
+      {
+        "id": "2087",
+        "name": "国立競技場",
+        "image": "https://image.xinu.ink/pic/data/6486/images/2087.jpg",
+        "geo": [
+          35.6776,
+          139.7144
+        ],
+        "name_en": "National Stadium",
+        "address": "東京都新宿区霞ヶ丘町10-1"
+      },
+      {
+        "id": "2090",
+        "name": "埼玉スタジアム2002",
+        "image": "https://image.xinu.ink/pic/data/6486/images/2090.jpg",
+        "geo": [
+          35.9036,
+          139.7175
+        ],
+        "name_en": "Saitama Stadium 2002",
+        "address": "埼玉県さいたま市緑区美園2-1"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6486/points.json"
+  },
+  "6487": {
+    "name": "怪獣8号",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6487/images/cover.jpg",
+    "theme_color": "#243c3c",
+    "points": [
+      {
+        "id": "2091",
+        "name": "立川市街",
+        "image": "https://image.xinu.ink/pic/data/6487/images/2091.jpg",
+        "geo": [
+          35.698,
+          139.4138
+        ],
+        "name_en": "Tachikawa city",
+        "address": "東京都立川市曙町2丁目"
+      },
+      {
+        "id": "2093",
+        "name": "新宿副都心",
+        "image": "https://image.xinu.ink/pic/data/6487/images/2093.jpg",
+        "geo": [
+          35.6896,
+          139.6917
+        ],
+        "name_en": "Shinjuku Subcenter",
+        "address": "東京都新宿区西新宿2丁目"
+      },
+      {
+        "id": "2355",
+        "name": "東京ゲートブリッジ",
+        "image": "https://image.xinu.ink/pic/data/6487/images/2355.jpg",
+        "geo": [
+          35.608,
+          139.831
+        ],
+        "name_en": "Tokyo Gate Bridge",
+        "address": "東京都江東区若洲"
+      },
+      {
+        "id": "2356",
+        "name": "レインボーブリッジ",
+        "image": "https://image.xinu.ink/pic/data/6487/images/2356.jpg",
+        "geo": [
+          35.6367,
+          139.7636
+        ],
+        "name_en": "Rainbow Bridge",
+        "address": "東京都港区海岸3丁目"
+      },
+      {
+        "id": "2357",
+        "name": "立川防災館",
+        "image": "https://image.xinu.ink/pic/data/6487/images/2357.jpg",
+        "geo": [
+          35.713,
+          139.3998
+        ],
+        "name_en": "Tachikawa Life Safety Learning Center",
+        "address": "東京都立川市泉町1156-1"
+      },
+      {
+        "id": "2360",
+        "name": "陸上自衛隊広報センター（りっくんランド）",
+        "image": "https://image.xinu.ink/pic/data/6487/images/2360.jpg",
+        "geo": [
+          35.7878,
+          139.5918
+        ],
+        "name_en": "JGSDF Public Information Center (Rikkun Land)",
+        "address": "埼玉県朝霞市栄町4-6"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6487/points.json"
+  },
+  "6488": {
+    "name": "物語シリーズ",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6488/images/cover.jpg",
+    "theme_color": "#5484e4",
+    "points": [
+      {
+        "id": "2124",
+        "name": "北海道（物語シリーズの風景）",
+        "image": "https://image.xinu.ink/pic/data/6488/images/2124.jpg",
+        "geo": [
+          43.0621,
+          141.3544
+        ],
+        "name_en": "Hokkaido (scenery from the Monogatari series)",
+        "address": "北海道"
+      },
+      {
+        "id": "2230",
+        "name": "シャフト本社周辺（杉並区）",
+        "image": "",
+        "geo": [
+          35.6994,
+          139.6365
+        ],
+        "name_en": "Around Shaft&#039;s headquarters (Suginami Ward)",
+        "address": "東京都杉並区"
+      },
+      {
+        "id": "2576",
+        "name": "新宿駅南口",
+        "image": "https://image.xinu.ink/pic/data/6488/images/2576.jpg",
+        "geo": [
+          35.6886,
+          139.6999
+        ],
+        "name_en": "Shinjuku Station South Exit",
+        "address": "東京都新宿区新宿3"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6488/points.json"
+  },
+  "6489": {
+    "name": "るろうに剣心",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6489/images/cover.png",
+    "theme_color": "#543c84",
+    "points": [
+      {
+        "id": "2131",
+        "name": "京都・祇園",
+        "image": "https://image.xinu.ink/pic/data/6489/images/2131.jpg",
+        "geo": [
+          35.0036,
+          135.775
+        ],
+        "name_en": "Kyoto, Gion",
+        "address": "京都府京都市東山区祇園町"
+      },
+      {
+        "id": "2270",
+        "name": "清水寺",
+        "image": "https://image.xinu.ink/pic/data/6489/images/2270.jpg",
+        "geo": [
+          34.9949,
+          135.785
+        ],
+        "name_en": "Kiyomizu-dera Temple",
+        "address": "京都府京都市東山区清水1-294"
+      },
+      {
+        "id": "2597",
+        "name": "二条城",
+        "image": "https://image.xinu.ink/pic/data/6489/images/2597.jpg",
+        "geo": [
+          35.0142,
+          135.7481
+        ],
+        "name_en": "Nijo Castle",
+        "address": "京都府京都市中京区二条通堀川西入二条城町541"
+      },
+      {
+        "id": "2598",
+        "name": "霊山歴史館",
+        "image": "https://image.xinu.ink/pic/data/6489/images/2598.jpg",
+        "geo": [
+          34.999,
+          135.784
+        ],
+        "name_en": "Ryozen Museum of History",
+        "address": "京都府京都市東山区清閑寺霊山町1"
+      },
+      {
+        "id": "2599",
+        "name": "伏見稲荷大社",
+        "image": "https://image.xinu.ink/pic/data/6489/images/2599.jpg",
+        "geo": [
+          34.9671,
+          135.7727
+        ],
+        "name_en": "Fushimi Inari Taisha",
+        "address": "京都府京都市伏見区深草藪之内町68"
+      },
+      {
+        "id": "2600",
+        "name": "池田屋跡",
+        "image": "",
+        "geo": [
+          35.0094,
+          135.7706
+        ],
+        "name_en": "Ikedaya Incident Site",
+        "address": "京都府京都市中京区三条通河原町東入ル"
+      },
+      {
+        "id": "2601",
+        "name": "鳥羽伏見の戦い記念碑",
+        "image": "https://image.xinu.ink/pic/data/6489/images/2601.jpg",
+        "geo": [
+          34.946,
+          135.7467
+        ],
+        "name_en": "Battle of Toba-Fushimi Monument",
+        "address": "京都府京都市伏見区中島鳥羽離宮町"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6489/points.json"
+  },
+  "6490": {
+    "name": "刀剣乱舞",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6490/images/cover.jpg",
+    "theme_color": "#9cb4b4",
+    "points": [
+      {
+        "id": "2147",
+        "name": "東京国立博物館",
+        "image": "https://image.xinu.ink/pic/data/6490/images/2147.jpg",
+        "geo": [
+          35.7189,
+          139.7765
+        ],
+        "name_en": "Tokyo National Museum",
+        "address": "東京都台東区上野公園13-9"
+      },
+      {
+        "id": "2148",
+        "name": "熱田神宮（名古屋）",
+        "image": "https://image.xinu.ink/pic/data/6490/images/2148.jpg",
+        "geo": [
+          35.1262,
+          136.9083
+        ],
+        "name_en": "Atsuta Shrine (Nagoya)",
+        "address": "愛知県名古屋市熱田区神宮1-1-1"
+      },
+      {
+        "id": "2149",
+        "name": "鶴丸城跡（鹿児島）",
+        "image": "https://image.xinu.ink/pic/data/6490/images/2149.jpg",
+        "geo": [
+          31.5963,
+          130.5571
+        ],
+        "name_en": "Tsurumaru Castle Ruins (Kagoshima)",
+        "address": "鹿児島県鹿児島市城山町7-2"
+      },
+      {
+        "id": "2277",
+        "name": "建勲神社（京都）",
+        "image": "https://image.xinu.ink/pic/data/6490/images/2277.jpg",
+        "geo": [
+          35.04,
+          135.744
+        ],
+        "name_en": "Kenkun Shrine (Kyoto)",
+        "address": "京都府京都市北区紫野北舟岡町49"
+      },
+      {
+        "id": "2278",
+        "name": "徳川美術館",
+        "image": "https://image.xinu.ink/pic/data/6490/images/2278.jpg",
+        "geo": [
+          35.1878,
+          136.935
+        ],
+        "name_en": "Tokugawa Art Museum",
+        "address": "愛知県名古屋市東区徳川町1017"
+      },
+      {
+        "id": "2634",
+        "name": "石切劔箭神社",
+        "image": "https://image.xinu.ink/pic/data/6490/images/2634.jpg",
+        "geo": [
+          34.6778,
+          135.6517
+        ],
+        "name_en": "Ishikiri Tsurugiya Shrine",
+        "address": "大阪府東大阪市東石切町1-1-1"
+      },
+      {
+        "id": "2635",
+        "name": "刀剣博物館",
+        "image": "https://image.xinu.ink/pic/data/6490/images/2635.jpg",
+        "geo": [
+          35.696,
+          139.7945
+        ],
+        "name_en": "Japanese Sword Museum",
+        "address": "東京都墨田区横網1-12-9"
+      },
+      {
+        "id": "2636",
+        "name": "春日大社",
+        "image": "https://image.xinu.ink/pic/data/6490/images/2636.jpg",
+        "geo": [
+          34.6813,
+          135.8498
+        ],
+        "name_en": "Kasuga Taisha Shrine",
+        "address": "奈良県奈良市春日野町160"
+      },
+      {
+        "id": "2637",
+        "name": "備前長船刀剣博物館",
+        "image": "https://image.xinu.ink/pic/data/6490/images/2637.jpg",
+        "geo": [
+          34.7347,
+          134.1352
+        ],
+        "name_en": "Bizen Osafune Japanese Sword Museum",
+        "address": "岡山県瀬戸内市長船町長船966"
+      },
+      {
+        "id": "2638",
+        "name": "鶴岡八幡宮",
+        "image": "https://image.xinu.ink/pic/data/6490/images/2638.jpg",
+        "geo": [
+          35.3258,
+          139.5564
+        ],
+        "name_en": "Tsurugaoka Hachimangu Shrine",
+        "address": "神奈川県鎌倉市雪ノ下2-1-31"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6490/points.json"
+  },
+  "6491": {
+    "name": "かくしごと",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6491/images/cover.jpg",
+    "theme_color": "#249ce4",
+    "points": [
+      {
+        "id": "2165",
+        "name": "鎌倉駅",
+        "image": "https://image.xinu.ink/pic/data/6491/images/2165.jpg",
+        "geo": [
+          35.319,
+          139.5503
+        ],
+        "name_en": "Kamakura Station",
+        "address": "神奈川県鎌倉市小町1-1-1"
+      },
+      {
+        "id": "2166",
+        "name": "由比ヶ浜",
+        "image": "https://image.xinu.ink/pic/data/6491/images/2166.jpg",
+        "geo": [
+          35.307,
+          139.537
+        ],
+        "name_en": "Yuigahama",
+        "address": "神奈川県鎌倉市由比ガ浜4丁目"
+      },
+      {
+        "id": "2234",
+        "name": "長谷寺",
+        "image": "https://image.xinu.ink/pic/data/6491/images/2234.jpg",
+        "geo": [
+          35.3127,
+          139.5318
+        ],
+        "name_en": "Hase-dera Temple",
+        "address": "神奈川県鎌倉市長谷3-11-2"
+      },
+      {
+        "id": "2682",
+        "name": "極楽寺駅",
+        "image": "https://image.xinu.ink/pic/data/6491/images/2682.jpg",
+        "geo": [
+          35.3098,
+          139.5259
+        ],
+        "name_en": "Gokurakuji Station",
+        "address": "神奈川県鎌倉市極楽寺3-7-4"
+      },
+      {
+        "id": "2683",
+        "name": "稲村ヶ崎",
+        "image": "https://image.xinu.ink/pic/data/6491/images/2683.jpg",
+        "geo": [
+          35.3045,
+          139.529
+        ],
+        "name_en": "Inamuragasaki",
+        "address": "神奈川県鎌倉市稲村ガ崎1丁目"
+      },
+      {
+        "id": "2686",
+        "name": "七里ヶ浜",
+        "image": "https://image.xinu.ink/pic/data/6491/images/2686.jpg",
+        "geo": [
+          35.306,
+          139.514
+        ],
+        "name_en": "Shichirigahama Beach",
+        "address": "神奈川県鎌倉市七里ガ浜1丁目"
+      },
+      {
+        "id": "2687",
+        "name": "江ノ島電鉄 長谷駅",
+        "image": "https://image.xinu.ink/pic/data/6491/images/2687.jpg",
+        "geo": [
+          35.3116,
+          139.5369
+        ],
+        "name_en": "Enoden Hase Station",
+        "address": "神奈川県鎌倉市長谷2丁目"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6491/points.json"
+  },
+  "6492": {
+    "name": "ドラえもん",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6492/images/cover.jpg",
+    "theme_color": "#3c6cfc",
+    "points": [
+      {
+        "id": "2189",
+        "name": "富士山（ドラえもんひろば）",
+        "image": "",
+        "geo": [
+          35.6209,
+          139.5661
+        ],
+        "name_en": "Mount Fuji (Doraemon Plaza)",
+        "address": "神奈川県川崎市多摩区長尾2-8-1"
+      },
+      {
+        "id": "2190",
+        "name": "練馬区（のび太の街）",
+        "image": "",
+        "geo": [
+          35.7355,
+          139.6518
+        ],
+        "name_en": "Nerima Ward (Nobita&#039;s town)",
+        "address": "東京都練馬区"
+      },
+      {
+        "id": "2254",
+        "name": "高岡市（藤子・F・不二雄の故郷）",
+        "image": "https://image.xinu.ink/pic/data/6492/images/2254.jpg",
+        "geo": [
+          36.753,
+          137.025
+        ],
+        "name_en": "Takaoka City (hometown of Fujiko F. Fujio)",
+        "address": "富山県高岡市"
+      },
+      {
+        "id": "2444",
+        "name": "登戸駅（ドラえもんラッピング）",
+        "image": "",
+        "geo": [
+          35.6183,
+          139.5713
+        ],
+        "name_en": "Noborito Station (Doraemon Themed)",
+        "address": "神奈川県川崎市多摩区登戸3519"
+      },
+      {
+        "id": "2445",
+        "name": "生田緑地",
+        "image": "https://image.xinu.ink/pic/data/6492/images/2445.jpg",
+        "geo": [
+          35.61,
+          139.5622
+        ],
+        "name_en": "Ikuta Ryokuchi Park",
+        "address": "神奈川県川崎市多摩区枡形7丁目1-2"
+      },
+      {
+        "id": "2447",
+        "name": "大泉学園駅",
+        "image": "https://image.xinu.ink/pic/data/6492/images/2447.jpg",
+        "geo": [
+          35.758,
+          139.587
+        ],
+        "name_en": "Oizumi-Gakuen Station",
+        "address": "東京都練馬区東大泉1丁目28-1"
+      },
+      {
+        "id": "2448",
+        "name": "高岡おとぎの森公園（ドラえもんの空き地）",
+        "image": "",
+        "geo": [
+          36.7165,
+          137.0308
+        ],
+        "name_en": "Takaoka Otogi no Mori Park (Doraemon Vacant Lot)",
+        "address": "富山県高岡市佐野1342"
+      },
+      {
+        "id": "2449",
+        "name": "高岡市藤子・F・不二雄ふるさとギャラリー",
+        "image": "",
+        "geo": [
+          36.7505,
+          137.0258
+        ],
+        "name_en": "Takaoka Fujiko F. Fujio Hometown Gallery",
+        "address": "富山県高岡市末広町1-8"
+      },
+      {
+        "id": "2450",
+        "name": "テレビ朝日本社（六本木）",
+        "image": "https://image.xinu.ink/pic/data/6492/images/2450.jpg",
+        "geo": [
+          35.6604,
+          139.731
+        ],
+        "name_en": "TV Asahi Headquarters (Roppongi)",
+        "address": "東京都港区六本木6丁目9-1"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6492/points.json"
+  },
+  "6493": {
+    "name": "鉄腕アトム",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6493/images/cover.jpg",
+    "theme_color": "#543c6c",
+    "points": [
+      {
+        "id": "2192",
+        "name": "高田馬場駅",
+        "image": "https://image.xinu.ink/pic/data/6493/images/2192.jpg",
+        "geo": [
+          35.7128,
+          139.7038
+        ],
+        "name_en": "Takadanobaba Station",
+        "address": "東京都新宿区高田馬場1-35-3"
+      },
+      {
+        "id": "2193",
+        "name": "手塚治虫記念館",
+        "image": "https://image.xinu.ink/pic/data/6493/images/2193.jpg",
+        "geo": [
+          34.811,
+          135.349
+        ],
+        "name_en": "Osamu Tezuka Memorial Museum",
+        "address": "兵庫県宝塚市武庫川町7-65"
+      },
+      {
+        "id": "2255",
+        "name": "高田馬場商店街",
+        "image": "https://image.xinu.ink/pic/data/6493/images/2255.jpg",
+        "geo": [
+          35.7128,
+          139.7038
+        ],
+        "name_en": "Takadanobaba Shopping Street",
+        "address": "東京都新宿区高田馬場"
+      },
+      {
+        "id": "2458",
+        "name": "高田馬場駅前アトム壁画",
+        "image": "",
+        "geo": [
+          35.7128,
+          139.7038
+        ],
+        "name_en": "Takadanobaba Station Atom Mural",
+        "address": "東京都新宿区高田馬場1丁目35"
+      },
+      {
+        "id": "2460",
+        "name": "花のみち（宝塚）",
+        "image": "https://image.xinu.ink/pic/data/6493/images/2460.jpg",
+        "geo": [
+          34.807,
+          135.345
+        ],
+        "name_en": "Hana no Michi (Takarazuka)",
+        "address": "兵庫県宝塚市栄町1丁目"
+      },
+      {
+        "id": "2462",
+        "name": "豊島区立トキワ荘マンガミュージアム",
+        "image": "https://image.xinu.ink/pic/data/6493/images/2462.jpg",
+        "geo": [
+          35.724,
+          139.687
+        ],
+        "name_en": "Tokiwa-so Manga Museum",
+        "address": "東京都豊島区南長崎3丁目9-22"
+      },
+      {
+        "id": "2463",
+        "name": "手塚プロダクション",
+        "image": "https://image.xinu.ink/pic/data/6493/images/2463.png",
+        "geo": [
+          35.714,
+          139.701
+        ],
+        "name_en": "Tezuka Productions",
+        "address": "東京都新宿区高田馬場4丁目32-11"
+      },
+      {
+        "id": "2464",
+        "name": "高田馬場ガード下通り",
+        "image": "",
+        "geo": [
+          35.7125,
+          139.705
+        ],
+        "name_en": "Takadanobaba Underpass Street",
+        "address": "東京都新宿区高田馬場2丁目"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6493/points.json"
+  },
+  "6494": {
+    "name": "キャプテン翼",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6494/images/cover.jpg",
+    "theme_color": "#0c9ce4",
+    "points": [
+      {
+        "id": "2194",
+        "name": "四つ木つばさ公園",
+        "image": "",
+        "geo": [
+          35.734,
+          139.828
+        ],
+        "name_en": "Yotsugi Tsubasa Park",
+        "address": "東京都葛飾区四つ木1-22-10"
+      },
+      {
+        "id": "2195",
+        "name": "葛飾区立奥戸総合スポーツセンター",
+        "image": "https://image.xinu.ink/pic/data/6494/images/2195.jpg",
+        "geo": [
+          35.742,
+          139.855
+        ],
+        "name_en": "Katsushika City Okudo General Sports Center",
+        "address": "東京都葛飾区奥戸7-17-1"
+      },
+      {
+        "id": "2257",
+        "name": "四ツ木駅周辺",
+        "image": "",
+        "geo": [
+          35.734,
+          139.828
+        ],
+        "name_en": "Around Yotsugi Station",
+        "address": "東京都葛飾区四つ木1丁目"
+      },
+      {
+        "id": "2258",
+        "name": "葛飾区立石",
+        "image": "https://image.xinu.ink/pic/data/6494/images/2258.jpg",
+        "geo": [
+          35.744,
+          139.849
+        ],
+        "name_en": "Tateishi, Katsushika Ward",
+        "address": "東京都葛飾区立石"
+      },
+      {
+        "id": "2465",
+        "name": "立石様（立石）駅周辺翼像",
+        "image": "",
+        "geo": [
+          35.744,
+          139.849
+        ],
+        "name_en": "Tsubasa Statue near Tateishi Station",
+        "address": "東京都葛飾区立石7丁目"
+      },
+      {
+        "id": "2470",
+        "name": "南葛SCグラウンド（南葛高校モデル）",
+        "image": "",
+        "geo": [
+          35.738,
+          139.865
+        ],
+        "name_en": "Nankatsu SC Ground (Nankatsu High Model)",
+        "address": "東京都葛飾区奥戸7丁目17-1"
+      },
+      {
+        "id": "2471",
+        "name": "青戸平和公園",
+        "image": "https://image.xinu.ink/pic/data/6494/images/2471.jpg",
+        "geo": [
+          35.7544,
+          139.8402
+        ],
+        "name_en": "Aoto Heiwa Park",
+        "address": "東京都葛飾区青戸4丁目23-1"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6494/points.json"
+  },
+  "6495": {
+    "name": "美少女戦士セーラームーン",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6495/images/cover.jpg",
+    "theme_color": "#3c3c54",
+    "points": [
+      {
+        "id": "2196",
+        "name": "麻布十番商店街",
+        "image": "https://image.xinu.ink/pic/data/6495/images/2196.jpg",
+        "geo": [
+          35.6548,
+          139.737
+        ],
+        "name_en": "Azabu Juban Shopping Street",
+        "address": "東京都港区麻布十番1丁目"
+      },
+      {
+        "id": "2197",
+        "name": "麻布十番公園",
+        "image": "https://image.xinu.ink/pic/data/6495/images/2197.jpg",
+        "geo": [
+          35.6538,
+          139.7365
+        ],
+        "name_en": "Azabu Juban Park",
+        "address": "東京都港区麻布十番1-4"
+      },
+      {
+        "id": "2260",
+        "name": "東京タワー",
+        "image": "https://image.xinu.ink/pic/data/6495/images/2260.jpg",
+        "geo": [
+          35.6586,
+          139.7454
+        ],
+        "name_en": "Tokyo Tower",
+        "address": "東京都港区芝公園4-2-8"
+      },
+      {
+        "id": "2472",
+        "name": "麻布十番温泉跡地",
+        "image": "",
+        "geo": [
+          35.6554,
+          139.7372
+        ],
+        "name_en": "Former Azabu-Juban Onsen Site",
+        "address": "東京都港区麻布十番1丁目5"
+      },
+      {
+        "id": "2473",
+        "name": "十番稲荷神社",
+        "image": "https://image.xinu.ink/pic/data/6495/images/2473.jpg",
+        "geo": [
+          35.6553,
+          139.7363
+        ],
+        "name_en": "Juban Inari Shrine",
+        "address": "東京都港区麻布十番1丁目4-6"
+      },
+      {
+        "id": "2474",
+        "name": "氷川神社（赤坂）",
+        "image": "https://image.xinu.ink/pic/data/6495/images/2474.jpg",
+        "geo": [
+          35.6693,
+          139.7338
+        ],
+        "name_en": "Hikawa Shrine (Akasaka)",
+        "address": "東京都港区赤坂6丁目10-12"
+      },
+      {
+        "id": "2475",
+        "name": "パティオ十番（商店街広場）",
+        "image": "",
+        "geo": [
+          35.6543,
+          139.7365
+        ],
+        "name_en": "Patio Juban (Shopping Street Plaza)",
+        "address": "東京都港区麻布十番2丁目3"
+      },
+      {
+        "id": "2476",
+        "name": "芝公園",
+        "image": "https://image.xinu.ink/pic/data/6495/images/2476.jpg",
+        "geo": [
+          35.6559,
+          139.7489
+        ],
+        "name_en": "Shiba Park",
+        "address": "東京都港区芝公園4丁目"
+      },
+      {
+        "id": "2477",
+        "name": "有栖川宮記念公園",
+        "image": "https://image.xinu.ink/pic/data/6495/images/2477.jpg",
+        "geo": [
+          35.6521,
+          139.7272
+        ],
+        "name_en": "Arisugawa Memorial Park",
+        "address": "東京都港区南麻布5丁目7-29"
+      },
+      {
+        "id": "2478",
+        "name": "麻布十番駅",
+        "image": "https://image.xinu.ink/pic/data/6495/images/2478.jpg",
+        "geo": [
+          35.6535,
+          139.737
+        ],
+        "name_en": "Azabu-Juban Station",
+        "address": "東京都港区麻布十番4丁目4"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6495/points.json"
+  },
+  "6496": {
+    "name": "攻殻機動隊",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6496/images/cover.jpg",
+    "theme_color": "#243c54",
+    "points": [
+      {
+        "id": "2262",
+        "name": "ポートアイランド（神戸）",
+        "image": "https://image.xinu.ink/pic/data/6496/images/2262.jpg",
+        "geo": [
+          34.665,
+          135.217
+        ],
+        "name_en": "Port Island (Kobe)",
+        "address": "兵庫県神戸市中央区港島"
+      },
+      {
+        "id": "2481",
+        "name": "神戸ハーバーランド",
+        "image": "https://image.xinu.ink/pic/data/6496/images/2481.jpg",
+        "geo": [
+          34.681,
+          135.1835
+        ],
+        "name_en": "Kobe Harborland",
+        "address": "兵庫県神戸市中央区東川崎町1丁目"
+      },
+      {
+        "id": "2482",
+        "name": "メリケンパーク",
+        "image": "https://image.xinu.ink/pic/data/6496/images/2482.jpg",
+        "geo": [
+          34.6839,
+          135.1881
+        ],
+        "name_en": "Meriken Park",
+        "address": "兵庫県神戸市中央区波止場町2-2"
+      },
+      {
+        "id": "2842",
+        "name": "東京都庁",
+        "image": "https://image.xinu.ink/pic/data/6496/images/2842.jpg",
+        "geo": [
+          35.6896,
+          139.6917
+        ],
+        "name_en": "Tokyo Metropolitan Government Building",
+        "address": "東京都新宿区西新宿2-8-1"
+      },
+      {
+        "id": "2843",
+        "name": "渋谷駅前スクランブル交差点",
+        "image": "https://image.xinu.ink/pic/data/6496/images/2843.jpg",
+        "geo": [
+          35.6595,
+          139.7004
+        ],
+        "name_en": "Shibuya Scramble Crossing",
+        "address": "東京都渋谷区宇田川町"
+      },
+      {
+        "id": "2844",
+        "name": "SPring-8（大型放射光施設）",
+        "image": "https://image.xinu.ink/pic/data/6496/images/2844.jpg",
+        "geo": [
+          34.9604,
+          134.1784
+        ],
+        "name_en": "SPring-8 (Synchrotron Radiation Facility)",
+        "address": "兵庫県佐用郡佐用町光都1-1-1"
+      },
+      {
+        "id": "2845",
+        "name": "北野異人館街",
+        "image": "https://image.xinu.ink/pic/data/6496/images/2845.jpg",
+        "geo": [
+          34.6988,
+          135.1905
+        ],
+        "name_en": "Kitano Ijinkan (Foreign Houses District)",
+        "address": "兵庫県神戸市中央区山本通"
+      },
+      {
+        "id": "2846",
+        "name": "神戸大橋",
+        "image": "https://image.xinu.ink/pic/data/6496/images/2846.jpg",
+        "geo": [
+          34.678,
+          135.209
+        ],
+        "name_en": "Kobe Ohashi Bridge",
+        "address": "兵庫県神戸市中央区港島1丁目"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6496/points.json"
+  },
+  "6497": {
+    "name": "ふたりはプリキュア",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6497/images/cover.jpg",
+    "theme_color": "#fcccb4",
+    "points": [
+      {
+        "id": "2199",
+        "name": "東映アニメーションミュージアム",
+        "image": "https://image.xinu.ink/pic/data/6497/images/2199.jpg",
+        "geo": [
+          35.745,
+          139.589
+        ],
+        "name_en": "Toei Animation Museum",
+        "address": "東京都練馬区東大泉2-10-5"
+      },
+      {
+        "id": "2488",
+        "name": "東映大泉撮影所跡地周辺",
+        "image": "",
+        "geo": [
+          35.7555,
+          139.587
+        ],
+        "name_en": "Former Toei Oizumi Studio Area",
+        "address": "東京都練馬区東大泉2丁目"
+      },
+      {
+        "id": "2490",
+        "name": "東京キャラクターストリート",
+        "image": "https://image.xinu.ink/pic/data/6497/images/2490.jpg",
+        "geo": [
+          35.6812,
+          139.7671
+        ],
+        "name_en": "Tokyo Character Street",
+        "address": "東京都千代田区丸の内1丁目9-1"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6497/points.json"
+  },
+  "6498": {
+    "name": "LIAR GAME",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6498/images/cover.png",
+    "theme_color": "#543c0c",
+    "points": [
+      {
+        "id": "2834",
+        "name": "大谷資料館",
+        "image": "https://image.xinu.ink/pic/data/6498/images/2834.jpg",
+        "geo": [
+          36.5842,
+          139.8186
+        ],
+        "name_en": "Oya History Museum",
+        "address": "栃木県宇都宮市大谷町909"
+      },
+      {
+        "id": "2835",
+        "name": "旧前田侯爵邸洋館",
+        "image": "https://image.xinu.ink/pic/data/6498/images/2835.jpg",
+        "geo": [
+          35.6618,
+          139.6825
+        ],
+        "name_en": "Former Marquis Maeda Residence",
+        "address": "東京都目黒区駒場4-3-55"
+      },
+      {
+        "id": "2836",
+        "name": "湘南国際村センター",
+        "image": "https://image.xinu.ink/pic/data/6498/images/2836.jpg",
+        "geo": [
+          35.2706,
+          139.5889
+        ],
+        "name_en": "Shonan Village Center",
+        "address": "神奈川県三浦郡葉山町上山口1560-39"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6498/points.json"
+  },
+  "6499": {
+    "name": "北斗の拳",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6499/images/cover.jpg",
+    "theme_color": "#0c0c3c",
+    "points": [
+      {
+        "id": "2821",
+        "name": "新函館北斗駅（ケンシロウ像）",
+        "image": "https://image.xinu.ink/pic/data/6499/images/2821.jpg",
+        "geo": [
+          41.9044,
+          140.6489
+        ],
+        "name_en": "Shin-Hakodate-Hokuto Station (Kenshiro Statue)",
+        "address": "北海道北斗市市渡1-1-1"
+      },
+      {
+        "id": "2822",
+        "name": "佐久平駅（北斗の拳マンホール）",
+        "image": "https://image.xinu.ink/pic/data/6499/images/2822.jpg",
+        "geo": [
+          36.2492,
+          138.4784
+        ],
+        "name_en": "Sakudaira Station (Fist of the North Star Manholes)",
+        "address": "長野県佐久市佐久平駅東"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6499/points.json"
+  },
+  "6500": {
+    "name": "左ききのエレン",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6500/images/cover.jpg",
+    "theme_color": "#54543c",
+    "points": [
+      {
+        "id": "2854",
+        "name": "渋谷スクランブル交差点",
+        "image": "https://image.xinu.ink/pic/data/6500/images/2854.jpg",
+        "geo": [
+          35.6595,
+          139.7004
+        ],
+        "name_en": "Shibuya Scramble Crossing",
+        "address": "東京都渋谷区道玄坂2丁目"
+      },
+      {
+        "id": "2855",
+        "name": "渋谷ヒカリエ",
+        "image": "https://image.xinu.ink/pic/data/6500/images/2855.jpg",
+        "geo": [
+          35.659,
+          139.7036
+        ],
+        "name_en": "Shibuya Hikarie",
+        "address": "東京都渋谷区渋谷2-21-1"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6500/points.json"
+  },
+  "6501": {
+    "name": "男女の友情は成立する？（いや、しないっ!!）",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6501/images/cover.jpg",
+    "theme_color": "#3c3c54",
+    "points": [
+      {
+        "id": "2885",
+        "name": "愛宕山展望台",
+        "image": "",
+        "geo": [
+          32.57,
+          131.6528
+        ],
+        "name_en": "Atago Mountain Observatory",
+        "address": "宮崎県延岡市愛宕山"
+      },
+      {
+        "id": "2886",
+        "name": "五ヶ瀬川河川敷",
+        "image": "",
+        "geo": [
+          32.58,
+          131.665
+        ],
+        "name_en": "Gokase River Riverbank",
+        "address": "宮崎県延岡市東本小路"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6501/points.json"
+  },
+  "6502": {
+    "name": "機動戦士ガンダム 水星の魔女",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6502/images/cover.png",
+    "theme_color": "#9cb4cc",
+    "points": [
+      {
+        "id": "2916",
+        "name": "ガンダムベース東京",
+        "image": "https://image.xinu.ink/pic/data/6502/images/2916.jpg",
+        "geo": [
+          35.6252,
+          139.7752
+        ],
+        "name_en": "Gundam Base Tokyo",
+        "address": "東京都江東区青海1-1-10 ダイバーシティ東京 プラザ7F"
+      },
+      {
+        "id": "2917",
+        "name": "実物大ユニコーンガンダム立像",
+        "image": "https://image.xinu.ink/pic/data/6502/images/2917.jpg",
+        "geo": [
+          35.625,
+          139.7748
+        ],
+        "name_en": "Life-Size Unicorn Gundam Statue",
+        "address": "東京都江東区青海1-1-10 ダイバーシティ東京 プラザ"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6502/points.json"
+  },
+  "6503": {
+    "name": "わたしの幸せな結婚",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6503/images/cover.png",
+    "theme_color": "#e4cccc",
+    "points": [
+      {
+        "id": "2973",
+        "name": "六華苑",
+        "image": "https://image.xinu.ink/pic/data/6503/images/2973.jpg",
+        "geo": [
+          35.0704,
+          136.6982
+        ],
+        "name_en": "Rokkaen",
+        "address": "三重県桑名市大字桑名字鷹場663-5"
+      },
+      {
+        "id": "2974",
+        "name": "博物館 明治村（帝国ホテル中央玄関）",
+        "image": "https://image.xinu.ink/pic/data/6503/images/2974.jpg",
+        "geo": [
+          35.3403,
+          136.9888
+        ],
+        "name_en": "Museum Meiji-Mura (Imperial Hotel Entrance)",
+        "address": "愛知県犬山市内山1"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6503/points.json"
+  },
+  "6504": {
+    "name": "ゲゲゲの鬼太郎",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6504/images/cover.jpg",
+    "theme_color": "#243c54",
+    "points": [
+      {
+        "id": "3041",
+        "name": "水木しげるロード",
+        "image": "https://image.xinu.ink/pic/data/6504/images/3041.jpg",
+        "geo": [
+          35.3828,
+          133.2325
+        ],
+        "name_en": "Mizuki Shigeru Road",
+        "address": "鳥取県境港市大正町"
+      },
+      {
+        "id": "3042",
+        "name": "水木しげる記念館",
+        "image": "https://image.xinu.ink/pic/data/6504/images/3042.jpg",
+        "geo": [
+          35.3832,
+          133.2287
+        ],
+        "name_en": "Mizuki Shigeru Memorial Museum",
+        "address": "鳥取県境港市本町5番地"
+      },
+      {
+        "id": "3043",
+        "name": "妖怪神社",
+        "image": "https://image.xinu.ink/pic/data/6504/images/3043.jpg",
+        "geo": [
+          35.383,
+          133.231
+        ],
+        "name_en": "Yokai Shrine",
+        "address": "鳥取県境港市大正町62-1"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6504/points.json"
+  },
+  "6505": {
+    "name": "薄桜鬼",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6505/images/cover.png",
+    "theme_color": "#e4cce4",
+    "points": [
+      {
+        "id": "3046",
+        "name": "八木邸（壬生屯所旧跡）",
+        "image": "",
+        "geo": [
+          35.0036,
+          135.7387
+        ],
+        "name_en": "Yagi Residence (Former Mibu HQ)",
+        "address": "京都府京都市中京区壬生梛ノ宮町24"
+      },
+      {
+        "id": "3047",
+        "name": "壬生寺",
+        "image": "https://image.xinu.ink/pic/data/6505/images/3047.jpg",
+        "geo": [
+          35.003,
+          135.738
+        ],
+        "name_en": "Mibu-dera Temple",
+        "address": "京都府京都市中京区壬生梛ノ宮町31"
+      },
+      {
+        "id": "3048",
+        "name": "五稜郭",
+        "image": "https://image.xinu.ink/pic/data/6505/images/3048.jpg",
+        "geo": [
+          41.7966,
+          140.757
+        ],
+        "name_en": "Goryokaku Fort",
+        "address": "北海道函館市五稜郭町44"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6505/points.json"
+  },
+  "6506": {
+    "name": "かげきしょうじょ!!",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6506/images/cover.jpg",
+    "theme_color": "#0c9c9c",
+    "points": [
+      {
+        "id": "3067",
+        "name": "宝塚大劇場",
+        "image": "https://image.xinu.ink/pic/data/6506/images/3067.jpg",
+        "geo": [
+          34.8071,
+          135.3464
+        ],
+        "name_en": "Takarazuka Grand Theater",
+        "address": "兵庫県宝塚市栄町1-1-57"
+      },
+      {
+        "id": "3068",
+        "name": "花のみち",
+        "image": "",
+        "geo": [
+          34.8088,
+          135.344
+        ],
+        "name_en": "Hana no Michi (Flower Road)",
+        "address": "兵庫県宝塚市栄町1"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6506/points.json"
+  },
+  "6507": {
+    "name": "バガボンド",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6507/images/cover.png",
+    "theme_color": "#5484b4",
+    "points": [
+      {
+        "id": "3072",
+        "name": "一乗寺下り松",
+        "image": "https://image.xinu.ink/pic/data/6507/images/3072.jpg",
+        "geo": [
+          35.0446,
+          135.7938
+        ],
+        "name_en": "Ichijoji Sagari-matsu",
+        "address": "京都府京都市左京区一乗寺花ノ木町"
+      },
+      {
+        "id": "3073",
+        "name": "宮本武蔵生家跡",
+        "image": "https://image.xinu.ink/pic/data/6507/images/3073.jpg",
+        "geo": [
+          35.1419,
+          134.3536
+        ],
+        "name_en": "Miyamoto Musashi Birthplace",
+        "address": "岡山県美作市宮本946"
+      },
+      {
+        "id": "3074",
+        "name": "興福寺宝蔵院跡",
+        "image": "",
+        "geo": [
+          34.6834,
+          135.8397
+        ],
+        "name_en": "Hozoin Temple Ruins (Kofuku-ji)",
+        "address": "奈良県奈良市登大路町50"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6507/points.json"
+  },
+  "6508": {
+    "name": "逆境無頼カイジ",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6508/images/cover.jpg",
+    "theme_color": "#3c0c0c",
+    "points": [
+      {
+        "id": "3077",
+        "name": "新宿歌舞伎町",
+        "image": "https://image.xinu.ink/pic/data/6508/images/3077.jpg",
+        "geo": [
+          35.6946,
+          139.703
+        ],
+        "name_en": "Shinjuku Kabukicho",
+        "address": "東京都新宿区歌舞伎町1丁目"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6508/points.json"
+  },
+  "6509": {
+    "name": "フルメタル・パニック!",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6509/images/cover.png",
+    "theme_color": "#3c5454",
+    "points": [
+      {
+        "id": "3081",
+        "name": "仙川駅",
+        "image": "https://image.xinu.ink/pic/data/6509/images/3081.jpg",
+        "geo": [
+          35.6672,
+          139.5752
+        ],
+        "name_en": "Sengawa Station",
+        "address": "東京都調布市仙川町1-18"
+      },
+      {
+        "id": "3082",
+        "name": "都立神代高等学校",
+        "image": "https://image.xinu.ink/pic/data/6509/images/3082.jpg",
+        "geo": [
+          35.6658,
+          139.57
+        ],
+        "name_en": "Jindai High School",
+        "address": "東京都調布市若葉町1-46-1"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6509/points.json"
+  },
+  "6510": {
+    "name": "蒼穹のファフナー",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6510/images/cover.jpg",
+    "theme_color": "#24243c",
+    "points": [
+      {
+        "id": "3084",
+        "name": "千光寺",
+        "image": "https://image.xinu.ink/pic/data/6510/images/3084.jpg",
+        "geo": [
+          34.4085,
+          133.1969
+        ],
+        "name_en": "Senkoji Temple",
+        "address": "広島県尾道市東土堂町15-1"
+      },
+      {
+        "id": "3085",
+        "name": "鞆の浦・常夜灯",
+        "image": "",
+        "geo": [
+          34.3833,
+          133.3831
+        ],
+        "name_en": "Tomonoura Lighthouse",
+        "address": "広島県福山市鞆町鞆"
+      },
+      {
+        "id": "3086",
+        "name": "尾道本通り商店街",
+        "image": "https://image.xinu.ink/pic/data/6510/images/3086.jpg",
+        "geo": [
+          34.4091,
+          133.1942
+        ],
+        "name_en": "Onomichi Hondori Shopping Street",
+        "address": "広島県尾道市土堂1丁目"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6510/points.json"
+  },
+  "6511": {
+    "name": "PSYCHO-PASS サイコパス",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6511/images/cover.jpg",
+    "theme_color": "#0c9c9c",
+    "points": [
+      {
+        "id": "3113",
+        "name": "新橋SL広場",
+        "image": "https://image.xinu.ink/pic/data/6511/images/3113.jpg",
+        "geo": [
+          35.666,
+          139.7587
+        ],
+        "name_en": "Shimbashi SL Square",
+        "address": "東京都港区新橋2-9-7"
+      },
+      {
+        "id": "3114",
+        "name": "コスモクロック21",
+        "image": "https://image.xinu.ink/pic/data/6511/images/3114.jpg",
+        "geo": [
+          35.4554,
+          139.6354
+        ],
+        "name_en": "Cosmo Clock 21",
+        "address": "神奈川県横浜市中区新港2-8-1"
+      },
+      {
+        "id": "3115",
+        "name": "キャナルシティ博多",
+        "image": "https://image.xinu.ink/pic/data/6511/images/3115.jpg",
+        "geo": [
+          33.5896,
+          130.4117
+        ],
+        "name_en": "Canal City Hakata",
+        "address": "福岡県福岡市博多区住吉1-2"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6511/points.json"
+  },
+  "6512": {
+    "name": "黒子のバスケ",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6512/images/cover.jpg",
+    "theme_color": "#54240c",
+    "points": [
+      {
+        "id": "3116",
+        "name": "東京都立戸山高等学校",
+        "image": "https://image.xinu.ink/pic/data/6512/images/3116.jpg",
+        "geo": [
+          35.7036,
+          139.7188
+        ],
+        "name_en": "Tokyo Metropolitan Toyama High School",
+        "address": "東京都新宿区戸山3-19-1"
+      },
+      {
+        "id": "3117",
+        "name": "駒沢オリンピック公園",
+        "image": "https://image.xinu.ink/pic/data/6512/images/3117.jpg",
+        "geo": [
+          35.626,
+          139.6608
+        ],
+        "name_en": "Komazawa Olympic Park",
+        "address": "東京都世田谷区駒沢公園1-1"
+      },
+      {
+        "id": "3118",
+        "name": "東京体育館",
+        "image": "https://image.xinu.ink/pic/data/6512/images/3118.jpg",
+        "geo": [
+          35.6826,
+          139.7138
+        ],
+        "name_en": "Tokyo Metropolitan Gymnasium",
+        "address": "東京都渋谷区千駄ヶ谷1-17-1"
+      },
+      {
+        "id": "3119",
+        "name": "小金井市総合体育館",
+        "image": "",
+        "geo": [
+          35.7036,
+          139.5135
+        ],
+        "name_en": "Koganei City Sports Center",
+        "address": "東京都小金井市関野町1-13-1"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6512/points.json"
+  },
+  "6513": {
+    "name": "球詠",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6513/images/cover.jpg",
+    "theme_color": "#ccb49c",
+    "points": [
+      {
+        "id": "3171",
+        "name": "大相模調節池（レイクタウン）",
+        "image": "https://image.xinu.ink/pic/data/6513/images/3171.jpg",
+        "geo": [
+          35.8889,
+          139.8062
+        ],
+        "name_en": "Osagami Reservoir (Lake Town)",
+        "address": "埼玉県越谷市レイクタウン"
+      },
+      {
+        "id": "3172",
+        "name": "越谷レイクタウン駅",
+        "image": "https://image.xinu.ink/pic/data/6513/images/3172.jpg",
+        "geo": [
+          35.8745,
+          139.8108
+        ],
+        "name_en": "Koshigaya Lake Town Station",
+        "address": "埼玉県越谷市レイクタウン3-1"
+      },
+      {
+        "id": "3173",
+        "name": "越谷駅",
+        "image": "https://image.xinu.ink/pic/data/6513/images/3173.jpg",
+        "geo": [
+          35.8895,
+          139.7903
+        ],
+        "name_en": "Koshigaya Station",
+        "address": "埼玉県越谷市越ヶ谷1丁目"
+      },
+      {
+        "id": "3174",
+        "name": "越谷市民球場",
+        "image": "",
+        "geo": [
+          35.8753,
+          139.8041
+        ],
+        "name_en": "Koshigaya Citizens&#039; Baseball Stadium",
+        "address": "埼玉県越谷市増林3-2-1"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6513/points.json"
+  },
+  "6514": {
+    "name": "ガッチャマンクラウズ",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6514/images/cover.jpg",
+    "theme_color": "#cccce4",
+    "points": [
+      {
+        "id": "3175",
+        "name": "立川駅 北口",
+        "image": "https://image.xinu.ink/pic/data/6514/images/3175.jpg",
+        "geo": [
+          35.6986,
+          139.4131
+        ],
+        "name_en": "Tachikawa Station North Exit",
+        "address": "東京都立川市曙町2-1-1"
+      },
+      {
+        "id": "3176",
+        "name": "グランデュオ立川",
+        "image": "https://image.xinu.ink/pic/data/6514/images/3176.jpg",
+        "geo": [
+          35.6973,
+          139.4128
+        ],
+        "name_en": "Granduo Tachikawa",
+        "address": "東京都立川市柴崎町3-2-1"
+      },
+      {
+        "id": "3177",
+        "name": "立川市役所",
+        "image": "https://image.xinu.ink/pic/data/6514/images/3177.jpg",
+        "geo": [
+          35.7059,
+          139.4242
+        ],
+        "name_en": "Tachikawa City Hall",
+        "address": "東京都立川市泉町1156-9"
+      },
+      {
+        "id": "3178",
+        "name": "国営昭和記念公園",
+        "image": "https://image.xinu.ink/pic/data/6514/images/3178.jpg",
+        "geo": [
+          35.706,
+          139.4084
+        ],
+        "name_en": "Showa Kinen Park",
+        "address": "東京都立川市緑町3173"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6514/points.json"
+  },
+  "6515": {
+    "name": "げんしけん",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6515/images/cover.jpg",
+    "theme_color": "#ccb49c",
+    "points": [
+      {
+        "id": "3217",
+        "name": "中央大学 多摩キャンパス",
+        "image": "https://image.xinu.ink/pic/data/6515/images/3217.jpg",
+        "geo": [
+          35.6234,
+          139.3927
+        ],
+        "name_en": "Chuo University Tama Campus",
+        "address": "東京都八王子市東中野742-1"
+      },
+      {
+        "id": "3218",
+        "name": "中央大学・明星大学駅",
+        "image": "",
+        "geo": [
+          35.6234,
+          139.396
+        ],
+        "name_en": "Chuo Univ./Meisei Univ. Station",
+        "address": "東京都八王子市東中野"
+      },
+      {
+        "id": "3219",
+        "name": "池袋（乙女ロード周辺）",
+        "image": "https://image.xinu.ink/pic/data/6515/images/3219.jpg",
+        "geo": [
+          35.7295,
+          139.7166
+        ],
+        "name_en": "Ikebukuro (Otome Road area)",
+        "address": "東京都豊島区東池袋3"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6515/points.json"
+  },
+  "6516": {
+    "name": "コクリコ坂から",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6516/images/cover.png",
+    "theme_color": "#b4cccc",
+    "points": [
+      {
+        "id": "3220",
+        "name": "港の見える丘公園",
+        "image": "https://image.xinu.ink/pic/data/6516/images/3220.jpg",
+        "geo": [
+          35.4395,
+          139.6532
+        ],
+        "name_en": "Harbor View Park",
+        "address": "神奈川県横浜市中区山手町114"
+      },
+      {
+        "id": "3221",
+        "name": "谷戸坂",
+        "image": "",
+        "geo": [
+          35.4396,
+          139.6531
+        ],
+        "name_en": "Yato-zaka Slope",
+        "address": "神奈川県横浜市中区山手町"
+      },
+      {
+        "id": "3222",
+        "name": "山下公園",
+        "image": "https://image.xinu.ink/pic/data/6516/images/3222.jpg",
+        "geo": [
+          35.4448,
+          139.6499
+        ],
+        "name_en": "Yamashita Park",
+        "address": "神奈川県横浜市中区山下町279"
+      },
+      {
+        "id": "3223",
+        "name": "根岸なつかし公園・旧柳下邸",
+        "image": "",
+        "geo": [
+          35.4093,
+          139.6431
+        ],
+        "name_en": "Negishi Natsukashi Park (Former Yagishita Residence)",
+        "address": "神奈川県横浜市磯子区下町10"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6516/points.json"
+  },
+  "6517": {
+    "name": "アクションヒロイン チアフルーツ",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6517/images/cover.jpg",
+    "theme_color": "#549cfc",
+    "points": [
+      {
+        "id": "3228",
+        "name": "大多喜駅（いすみ鉄道）",
+        "image": "https://image.xinu.ink/pic/data/6517/images/3228.jpg",
+        "geo": [
+          35.2856,
+          140.2459
+        ],
+        "name_en": "Otaki Station (Isumi Railway)",
+        "address": "千葉県夷隅郡大多喜町大多喜"
+      },
+      {
+        "id": "3229",
+        "name": "大多喜城（千葉県立中央博物館大多喜城分館）",
+        "image": "https://image.xinu.ink/pic/data/6517/images/3229.jpg",
+        "geo": [
+          35.2848,
+          140.2444
+        ],
+        "name_en": "Otaki Castle",
+        "address": "千葉県夷隅郡大多喜町大多喜481"
+      },
+      {
+        "id": "3230",
+        "name": "大多喜町役場",
+        "image": "https://image.xinu.ink/pic/data/6517/images/3230.jpg",
+        "geo": [
+          35.2858,
+          140.2456
+        ],
+        "name_en": "Otaki Town Hall",
+        "address": "千葉県夷隅郡大多喜町大多喜偕楽123-1"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6517/points.json"
+  },
+  "6518": {
+    "name": "崖の上のポニョ",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6518/images/cover.jpg",
+    "theme_color": "#6cb4cc",
+    "points": [
+      {
+        "id": "3238",
+        "name": "鞆の浦 常夜燈",
+        "image": "",
+        "geo": [
+          34.3829,
+          133.3826
+        ],
+        "name_en": "Tomonoura Joyato Lantern",
+        "address": "広島県福山市鞆町鞆"
+      },
+      {
+        "id": "3239",
+        "name": "御舟宿いろは",
+        "image": "https://image.xinu.ink/pic/data/6518/images/3239.jpg",
+        "geo": [
+          34.3833,
+          133.3822
+        ],
+        "name_en": "Onfunayado Iroha",
+        "address": "広島県福山市鞆町鞆670"
+      },
+      {
+        "id": "3240",
+        "name": "医王寺 太子殿",
+        "image": "",
+        "geo": [
+          34.3848,
+          133.3781
+        ],
+        "name_en": "Ioji Temple Taishi Hall",
+        "address": "広島県福山市鞆町後地1396"
+      },
+      {
+        "id": "3241",
+        "name": "鞆の浦港",
+        "image": "https://image.xinu.ink/pic/data/6518/images/3241.jpg",
+        "geo": [
+          34.3839,
+          133.3827
+        ],
+        "name_en": "Tomonoura Port",
+        "address": "広島県福山市鞆町"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6518/points.json"
+  },
+  "6519": {
+    "name": "借りぐらしのアリエッティ",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6519/images/cover.jpg",
+    "theme_color": "#0c543c",
+    "points": [
+      {
+        "id": "3245",
+        "name": "はけの小路",
+        "image": "",
+        "geo": [
+          35.6967,
+          139.5005
+        ],
+        "name_en": "Hake-no-Komichi",
+        "address": "東京都小金井市貫井南町"
+      },
+      {
+        "id": "3246",
+        "name": "野川公園",
+        "image": "https://image.xinu.ink/pic/data/6519/images/3246.jpg",
+        "geo": [
+          35.6917,
+          139.5226
+        ],
+        "name_en": "Nogawa Park",
+        "address": "東京都調布市野水1-25"
+      },
+      {
+        "id": "3247",
+        "name": "武蔵野公園",
+        "image": "https://image.xinu.ink/pic/data/6519/images/3247.jpg",
+        "geo": [
+          35.6986,
+          139.5053
+        ],
+        "name_en": "Musashino Park",
+        "address": "東京都府中市多磨町2-24-1"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6519/points.json"
+  },
+  "6520": {
+    "name": "平成狸合戦ぽんぽこ",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6520/images/cover.jpg",
+    "theme_color": "#846c54",
+    "points": [
+      {
+        "id": "3248",
+        "name": "多摩ニュータウン",
+        "image": "https://image.xinu.ink/pic/data/6520/images/3248.jpg",
+        "geo": [
+          35.6231,
+          139.4226
+        ],
+        "name_en": "Tama New Town",
+        "address": "東京都多摩市"
+      },
+      {
+        "id": "3249",
+        "name": "流泉寺 阿弥陀堂",
+        "image": "",
+        "geo": [
+          35.6303,
+          139.3782
+        ],
+        "name_en": "Ryusenji Amidado Hall",
+        "address": "東京都八王子市堀之内1268"
+      },
+      {
+        "id": "3250",
+        "name": "高幡不動駅",
+        "image": "https://image.xinu.ink/pic/data/6520/images/3250.jpg",
+        "geo": [
+          35.6603,
+          139.3933
+        ],
+        "name_en": "Takahatafudo Station",
+        "address": "東京都日野市高幡1-1"
+      },
+      {
+        "id": "3251",
+        "name": "高幡不動尊金剛寺",
+        "image": "https://image.xinu.ink/pic/data/6520/images/3251.jpg",
+        "geo": [
+          35.6603,
+          139.3905
+        ],
+        "name_en": "Takahatafudo Kongoji Temple",
+        "address": "東京都日野市高幡733"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6520/points.json"
+  },
+  "6521": {
+    "name": "ばくおん!!",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6521/images/cover.png",
+    "theme_color": "#6cb424",
+    "points": [
+      {
+        "id": "3256",
+        "name": "十国峠レストハウス",
+        "image": "",
+        "geo": [
+          35.0987,
+          138.9933
+        ],
+        "name_en": "Jukkokutoge Rest House",
+        "address": "静岡県田方郡函南町桑原1400-20"
+      },
+      {
+        "id": "3257",
+        "name": "富士スバルライン",
+        "image": "https://image.xinu.ink/pic/data/6521/images/3257.jpg",
+        "geo": [
+          35.45,
+          138.75
+        ],
+        "name_en": "Fuji Subaru Line",
+        "address": "山梨県南都留郡富士河口湖町"
+      },
+      {
+        "id": "3258",
+        "name": "秩父橋",
+        "image": "https://image.xinu.ink/pic/data/6521/images/3258.jpg",
+        "geo": [
+          36.0049,
+          139.0808
+        ],
+        "name_en": "Chichibu Bridge",
+        "address": "埼玉県秩父市阿保町"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6521/points.json"
+  },
+  "6522": {
+    "name": "PERSONA4 the Animation",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6522/images/cover.png",
+    "theme_color": "#fcfccc",
+    "points": [
+      {
+        "id": "3270",
+        "name": "JR石和温泉駅",
+        "image": "https://image.xinu.ink/pic/data/6522/images/3270.jpg",
+        "geo": [
+          35.6519,
+          138.6452
+        ],
+        "name_en": "JR Isawa-Onsen Station",
+        "address": "山梨県笛吹市石和町松本177-2"
+      },
+      {
+        "id": "3271",
+        "name": "富士吉田市 本町2丁目商店街",
+        "image": "",
+        "geo": [
+          35.48,
+          138.79
+        ],
+        "name_en": "Fujiyoshida Honcho 2-chome Shopping Street",
+        "address": "山梨県富士吉田市本町2丁目"
+      },
+      {
+        "id": "3272",
+        "name": "富士学苑高等学校",
+        "image": "",
+        "geo": [
+          35.4736,
+          138.7878
+        ],
+        "name_en": "Fuji Gakuen High School",
+        "address": "山梨県富士吉田市下吉田4-19-50"
+      },
+      {
+        "id": "3273",
+        "name": "石和温泉郷",
+        "image": "https://image.xinu.ink/pic/data/6522/images/3273.jpg",
+        "geo": [
+          35.6519,
+          138.6479
+        ],
+        "name_en": "Isawa Onsen",
+        "address": "山梨県笛吹市石和町"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6522/points.json"
+  },
+  "6523": {
+    "name": "火垂るの墓",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6523/images/cover.jpg",
+    "theme_color": "#0c2424",
+    "points": [
+      {
+        "id": "3278",
+        "name": "ニテコ池",
+        "image": "",
+        "geo": [
+          34.7625,
+          135.332
+        ],
+        "name_en": "Niteko Pond",
+        "address": "兵庫県西宮市満池谷町"
+      },
+      {
+        "id": "3279",
+        "name": "西宮震災記念碑公園",
+        "image": "https://image.xinu.ink/pic/data/6523/images/3279.jpg",
+        "geo": [
+          34.7635,
+          135.3322
+        ],
+        "name_en": "Nishinomiya Earthquake Memorial Park",
+        "address": "兵庫県西宮市満池谷町"
+      },
+      {
+        "id": "3280",
+        "name": "香櫨園浜",
+        "image": "",
+        "geo": [
+          34.7158,
+          135.3357
+        ],
+        "name_en": "Korien Beach",
+        "address": "兵庫県西宮市西波止町"
+      },
+      {
+        "id": "3281",
+        "name": "阪急 苦楽園口駅",
+        "image": "https://image.xinu.ink/pic/data/6523/images/3281.jpg",
+        "geo": [
+          34.7613,
+          135.3263
+        ],
+        "name_en": "Hankyu Kurakuenguchi Station",
+        "address": "兵庫県西宮市相生町"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6523/points.json"
+  },
+  "6524": {
+    "name": "キャプテン・アース",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6524/images/cover.jpg",
+    "theme_color": "#5484b4",
+    "points": [
+      {
+        "id": "3288",
+        "name": "種子島宇宙センター",
+        "image": "https://image.xinu.ink/pic/data/6524/images/3288.jpg",
+        "geo": [
+          30.4001,
+          130.97
+        ],
+        "name_en": "Tanegashima Space Center",
+        "address": "鹿児島県熊毛郡南種子町茎永麻津"
+      },
+      {
+        "id": "3289",
+        "name": "鶴岡八幡宮",
+        "image": "https://image.xinu.ink/pic/data/6524/images/3289.jpg",
+        "geo": [
+          35.3258,
+          139.5567
+        ],
+        "name_en": "Tsurugaoka Hachimangu",
+        "address": "神奈川県鎌倉市雪ノ下2-1-31"
+      },
+      {
+        "id": "3290",
+        "name": "由比ヶ浜",
+        "image": "https://image.xinu.ink/pic/data/6524/images/3290.jpg",
+        "geo": [
+          35.3081,
+          139.5505
+        ],
+        "name_en": "Yuigahama Beach",
+        "address": "神奈川県鎌倉市由比ガ浜"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6524/points.json"
+  },
+  "6525": {
+    "name": "君のいる町",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6525/images/cover.png",
+    "theme_color": "#ccb49c",
+    "points": [
+      {
+        "id": "3303",
+        "name": "JR広島駅",
+        "image": "https://image.xinu.ink/pic/data/6525/images/3303.jpg",
+        "geo": [
+          34.3974,
+          132.4756
+        ],
+        "name_en": "JR Hiroshima Station",
+        "address": "広島県広島市南区松原町2"
+      },
+      {
+        "id": "3304",
+        "name": "尾道駅",
+        "image": "https://image.xinu.ink/pic/data/6525/images/3304.jpg",
+        "geo": [
+          34.4076,
+          133.1968
+        ],
+        "name_en": "Onomichi Station",
+        "address": "広島県尾道市東御所町1-1"
+      },
+      {
+        "id": "3305",
+        "name": "東京駅",
+        "image": "https://image.xinu.ink/pic/data/6525/images/3305.jpg",
+        "geo": [
+          35.6812,
+          139.7671
+        ],
+        "name_en": "Tokyo Station",
+        "address": "東京都千代田区丸の内1-9-1"
+      },
+      {
+        "id": "3306",
+        "name": "世田谷区下北沢",
+        "image": "https://image.xinu.ink/pic/data/6525/images/3306.jpg",
+        "geo": [
+          35.6614,
+          139.668
+        ],
+        "name_en": "Setagaya Shimokitazawa",
+        "address": "東京都世田谷区北沢2"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6525/points.json"
+  },
+  "6526": {
+    "name": "すばらしきこのせかい The Animation",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6526/images/cover.png",
+    "theme_color": "#cce4fc",
+    "points": [
+      {
+        "id": "3324",
+        "name": "渋谷スクランブル交差点",
+        "image": "https://image.xinu.ink/pic/data/6526/images/3324.jpg",
+        "geo": [
+          35.6595,
+          139.7005
+        ],
+        "name_en": "Shibuya Scramble Crossing",
+        "address": "東京都渋谷区道玄坂2"
+      },
+      {
+        "id": "3325",
+        "name": "SHIBUYA109",
+        "image": "https://image.xinu.ink/pic/data/6526/images/3325.jpg",
+        "geo": [
+          35.6594,
+          139.6982
+        ],
+        "address": "東京都渋谷区道玄坂2-29-1"
+      },
+      {
+        "id": "3326",
+        "name": "渋谷ヒカリエ",
+        "image": "https://image.xinu.ink/pic/data/6526/images/3326.jpg",
+        "geo": [
+          35.6594,
+          139.7029
+        ],
+        "name_en": "Shibuya Hikarie",
+        "address": "東京都渋谷区渋谷2-21-1"
+      },
+      {
+        "id": "3327",
+        "name": "スペイン坂",
+        "image": "https://image.xinu.ink/pic/data/6526/images/3327.jpg",
+        "geo": [
+          35.6614,
+          139.6976
+        ],
+        "name_en": "Spain Slope",
+        "address": "東京都渋谷区宇田川町"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6526/points.json"
+  },
+  "6527": {
+    "name": "海月姫",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6527/images/cover.jpg",
+    "theme_color": "#cc9ce4",
+    "points": [
+      {
+        "id": "3332",
+        "name": "西早稲田駅周辺",
+        "image": "",
+        "geo": [
+          35.7066,
+          139.7155
+        ],
+        "name_en": "Nishi-Waseda Station Area",
+        "address": "東京都新宿区西早稲田1"
+      },
+      {
+        "id": "3333",
+        "name": "渋谷109",
+        "image": "https://image.xinu.ink/pic/data/6527/images/3333.jpg",
+        "geo": [
+          35.6594,
+          139.6982
+        ],
+        "name_en": "SHIBUYA109",
+        "address": "東京都渋谷区道玄坂2-29-1"
+      },
+      {
+        "id": "3334",
+        "name": "新木場・夢の島熱帯植物館",
+        "image": "https://image.xinu.ink/pic/data/6527/images/3334.jpg",
+        "geo": [
+          35.6489,
+          139.8253
+        ],
+        "name_en": "Yumenoshima Tropical Greenhouse Dome",
+        "address": "東京都江東区夢の島2-1-2"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6527/points.json"
+  },
+  "6528": {
+    "name": "クズの本懐",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6528/images/cover.jpg",
+    "theme_color": "#e4cccc",
+    "points": [
+      {
+        "id": "3347",
+        "name": "多摩市立図書館 本館",
+        "image": "",
+        "geo": [
+          35.6298,
+          139.4256
+        ],
+        "name_en": "Tama City Library Main Branch",
+        "address": "東京都多摩市落合2-35"
+      },
+      {
+        "id": "3348",
+        "name": "多摩センター駅",
+        "image": "https://image.xinu.ink/pic/data/6528/images/3348.jpg",
+        "geo": [
+          35.6244,
+          139.4253
+        ],
+        "name_en": "Tama Center Station",
+        "address": "東京都多摩市落合1-17"
+      },
+      {
+        "id": "3349",
+        "name": "ゆうひの丘（都立桜ヶ丘公園）",
+        "image": "",
+        "geo": [
+          35.6387,
+          139.4533
+        ],
+        "name_en": "Yuhi Hill (Sakuragaoka Park)",
+        "address": "東京都多摩市連光寺5"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6528/points.json"
+  },
+  "6529": {
+    "name": "山田くんと7人の魔女",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6529/images/cover.jpg",
+    "theme_color": "#e4e4cc",
+    "points": [
+      {
+        "id": "3396",
+        "name": "長浜ビーチ",
+        "image": "https://image.xinu.ink/pic/data/6529/images/3396.jpg",
+        "geo": [
+          35.0656,
+          139.0683
+        ],
+        "name_en": "Nagahama Beach",
+        "address": "静岡県熱海市上多賀"
+      },
+      {
+        "id": "3397",
+        "name": "起雲閣",
+        "image": "https://image.xinu.ink/pic/data/6529/images/3397.jpg",
+        "geo": [
+          35.0958,
+          139.0717
+        ],
+        "name_en": "Kiunkaku",
+        "address": "静岡県熱海市昭和町4-2"
+      },
+      {
+        "id": "3398",
+        "name": "JR熱海駅",
+        "image": "https://image.xinu.ink/pic/data/6529/images/3398.jpg",
+        "geo": [
+          35.1051,
+          139.0789
+        ],
+        "name_en": "JR Atami Station",
+        "address": "静岡県熱海市田原本町11-1"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6529/points.json"
+  },
+  "6530": {
+    "name": "オッドタクシー",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6530/images/cover.jpg",
+    "theme_color": "#fccc0c",
+    "points": [
+      {
+        "id": "3402",
+        "name": "新宿駅 西口",
+        "image": "https://image.xinu.ink/pic/data/6530/images/3402.jpg",
+        "geo": [
+          35.6896,
+          139.6917
+        ],
+        "name_en": "JR Shinjuku Station West Exit",
+        "address": "東京都新宿区新宿"
+      },
+      {
+        "id": "3403",
+        "name": "新橋駅周辺",
+        "image": "https://image.xinu.ink/pic/data/6530/images/3403.jpg",
+        "geo": [
+          35.666,
+          139.7587
+        ],
+        "name_en": "Shimbashi Station Area",
+        "address": "東京都港区新橋2"
+      },
+      {
+        "id": "3404",
+        "name": "渋谷スクランブル交差点",
+        "image": "https://image.xinu.ink/pic/data/6530/images/3404.jpg",
+        "geo": [
+          35.6595,
+          139.7005
+        ],
+        "name_en": "Shibuya Scramble Crossing",
+        "address": "東京都渋谷区道玄坂2"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6530/points.json"
+  },
+  "6531": {
+    "name": "アオアシ",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6531/images/cover.jpg",
+    "theme_color": "#6ccc54",
+    "points": [
+      {
+        "id": "3420",
+        "name": "大三島",
+        "image": "https://image.xinu.ink/pic/data/6531/images/3420.jpg",
+        "geo": [
+          34.2538,
+          133.0099
+        ],
+        "name_en": "Omishima Island",
+        "address": "愛媛県今治市大三島町"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6531/points.json"
+  },
+  "6532": {
+    "name": "黄泉のツガイ",
+    "name_cn": "",
+    "cover": "https://image.xinu.ink/pic/data/6532/images/cover.jpg",
+    "theme_color": "#24243c",
+    "points": [
+      {
+        "id": "3424",
+        "name": "黄泉比良坂",
+        "image": "https://image.xinu.ink/pic/data/6532/images/3424.jpg",
+        "geo": [
+          35.4406,
+          133.1573
+        ],
+        "name_en": "Yomotsu Hirasaka",
+        "address": "島根県松江市東出雲町揖屋"
+      },
+      {
+        "id": "3425",
+        "name": "出雲大社",
+        "image": "https://image.xinu.ink/pic/data/6532/images/3425.jpg",
+        "geo": [
+          35.4019,
+          132.6855
+        ],
+        "name_en": "Izumo Taisha Grand Shrine",
+        "address": "島根県出雲市大社町杵築東195"
+      },
+      {
+        "id": "3426",
+        "name": "伏見稲荷大社",
+        "image": "https://image.xinu.ink/pic/data/6532/images/3426.jpg",
+        "geo": [
+          34.9671,
+          135.7727
+        ],
+        "name_en": "Fushimi Inari Taisha",
+        "address": "京都府京都市伏見区深草薮之内町68"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6532/points.json"
   }
 }

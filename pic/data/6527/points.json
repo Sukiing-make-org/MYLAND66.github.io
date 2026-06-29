@@ -1,0 +1,37 @@
+{
+  "points": [
+    {
+      "id": "3332",
+      "name": "西早稲田駅周辺",
+      "image": "",
+      "geo": [
+        35.7066,
+        139.7155
+      ],
+      "name_en": "Nishi-Waseda Station Area",
+      "address": "東京都新宿区西早稲田1"
+    },
+    {
+      "id": "3333",
+      "name": "渋谷109",
+      "image": "https://image.xinu.ink/pic/data/6527/images/3333.jpg",
+      "geo": [
+        35.6594,
+        139.6982
+      ],
+      "name_en": "SHIBUYA109",
+      "address": "東京都渋谷区道玄坂2-29-1"
+    },
+    {
+      "id": "3334",
+      "name": "新木場・夢の島熱帯植物館",
+      "image": "https://image.xinu.ink/pic/data/6527/images/3334.jpg",
+      "geo": [
+        35.6489,
+        139.8253
+      ],
+      "name_en": "Yumenoshima Tropical Greenhouse Dome",
+      "address": "東京都江東区夢の島2-1-2"
+    }
+  ]
+}

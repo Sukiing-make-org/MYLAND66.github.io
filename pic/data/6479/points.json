@@ -1,0 +1,114 @@
+{
+  "points": [
+    {
+      "id": "1960",
+      "name": "秋葉原電気街",
+      "image": "https://image.xinu.ink/pic/data/6479/images/1960.jpg",
+      "geo": [
+        35.7023,
+        139.7745
+      ],
+      "name_en": "Akihabara Electric Town",
+      "address": "東京都千代田区外神田1丁目"
+    },
+    {
+      "id": "1961",
+      "name": "代々木公園",
+      "image": "https://image.xinu.ink/pic/data/6479/images/1961.jpg",
+      "geo": [
+        35.6715,
+        139.6949
+      ],
+      "name_en": "Yoyogi Park",
+      "address": "東京都渋谷区代々木神園町2-1"
+    },
+    {
+      "id": "1966",
+      "name": "国立代々木競技場",
+      "image": "https://image.xinu.ink/pic/data/6479/images/1966.jpg",
+      "geo": [
+        35.6672,
+        139.6993
+      ],
+      "name_en": "National Yoyogi Stadium",
+      "address": "東京都渋谷区神南2-1-1"
+    },
+    {
+      "id": "1967",
+      "name": "東京ドーム",
+      "image": "https://image.xinu.ink/pic/data/6479/images/1967.jpg",
+      "geo": [
+        35.7056,
+        139.7519
+      ],
+      "name_en": "Tokyo Dome",
+      "address": "東京都文京区後楽1-3-61"
+    },
+    {
+      "id": "2736",
+      "name": "恵比寿ガーデンプレイス",
+      "image": "https://image.xinu.ink/pic/data/6479/images/2736.jpg",
+      "geo": [
+        35.6422,
+        139.7142
+      ],
+      "name_en": "Yebisu Garden Place",
+      "address": "東京都渋谷区恵比寿4-20"
+    },
+    {
+      "id": "2737",
+      "name": "皇居東御苑",
+      "image": "https://image.xinu.ink/pic/data/6479/images/2737.jpg",
+      "geo": [
+        35.6864,
+        139.7575
+      ],
+      "name_en": "Imperial Palace East Gardens",
+      "address": "東京都千代田区千代田1-1"
+    },
+    {
+      "id": "2738",
+      "name": "竹芝客船ターミナル",
+      "image": "https://image.xinu.ink/pic/data/6479/images/2738.jpg",
+      "geo": [
+        35.6542,
+        139.7633
+      ],
+      "name_en": "Takeshiba Passenger Ship Terminal",
+      "address": "東京都港区海岸1-12-2"
+    },
+    {
+      "id": "2739",
+      "name": "堂平天文台",
+      "image": "https://image.xinu.ink/pic/data/6479/images/2739.jpg",
+      "geo": [
+        36.0058,
+        139.1901
+      ],
+      "name_en": "Dodaira Observatory",
+      "address": "埼玉県比企郡ときがわ町大字大野1853"
+    },
+    {
+      "id": "2740",
+      "name": "新宿駅南口",
+      "image": "https://image.xinu.ink/pic/data/6479/images/2740.jpg",
+      "geo": [
+        35.6908,
+        139.7003
+      ],
+      "name_en": "Shinjuku Station South Exit",
+      "address": "東京都新宿区新宿3-38-1"
+    },
+    {
+      "id": "2741",
+      "name": "所沢駅",
+      "image": "https://image.xinu.ink/pic/data/6479/images/2741.jpg",
+      "geo": [
+        35.7994,
+        139.4688
+      ],
+      "name_en": "Tokorozawa Station",
+      "address": "埼玉県所沢市日吉町1-1"
+    }
+  ]
+}

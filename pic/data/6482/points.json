@@ -1,0 +1,114 @@
+{
+  "points": [
+    {
+      "id": "1597",
+      "name": "奈良公園",
+      "image": "https://image.xinu.ink/pic/data/6482/images/1597.jpg",
+      "geo": [
+        34.6847,
+        135.8328
+      ],
+      "name_en": "Nara Park",
+      "address": "奈良県奈良市登大路町30"
+    },
+    {
+      "id": "1842",
+      "name": "渦の道（大鳴門橋遊歩道）",
+      "image": "https://image.xinu.ink/pic/data/6482/images/1842.jpg",
+      "geo": [
+        34.2378,
+        134.6476
+      ],
+      "name_en": "Uzunomichi (Naruto Bridge Promenade)",
+      "address": "徳島県鳴門市鳴門町土佐泊浦字福池65"
+    },
+    {
+      "id": "1843",
+      "name": "鳴門公園 千畳敷展望台",
+      "image": "https://image.xinu.ink/pic/data/6482/images/1843.jpeg",
+      "geo": [
+        34.2362,
+        134.6488
+      ],
+      "name_en": "Naruto Park Senjojiki Observation Deck",
+      "address": "徳島県鳴門市鳴門町土佐泊浦字福池65-7"
+    },
+    {
+      "id": "1844",
+      "name": "JR鳴門駅",
+      "image": "https://image.xinu.ink/pic/data/6482/images/1844.jpg",
+      "geo": [
+        34.177,
+        134.6096
+      ],
+      "name_en": "JR Naruto Station",
+      "address": "徳島県鳴門市撫養町小桑島前浜"
+    },
+    {
+      "id": "1845",
+      "name": "奈義町現代美術館（Nagi MOCA）",
+      "image": "https://image.xinu.ink/pic/data/6482/images/1845.jpg",
+      "geo": [
+        35.1747,
+        134.18
+      ],
+      "name_en": "Nagi Museum of Contemporary Art (Nagi MOCA)",
+      "address": "岡山県勝田郡奈義町豊沢441"
+    },
+    {
+      "id": "1846",
+      "name": "ニジゲンノモリ NARUTO&BORUTO 忍里",
+      "image": "https://image.xinu.ink/pic/data/6482/images/1846.jpg",
+      "geo": [
+        34.5672,
+        134.9689
+      ],
+      "name_en": "Nijigen no Mori NARUTO &amp; BORUTO Shinobi Village",
+      "address": "兵庫県淡路市楠本2425-2"
+    },
+    {
+      "id": "1847",
+      "name": "NARUTO×BORUTO 富士 木ノ葉隠れの里",
+      "image": "https://image.xinu.ink/pic/data/6482/images/1847.jpg",
+      "geo": [
+        35.4893,
+        138.7819
+      ],
+      "name_en": "NARUTO x BORUTO: Mount Fuji, Hidden Leaf Village",
+      "address": "山梨県富士吉田市新西原5-6-1"
+    },
+    {
+      "id": "1848",
+      "name": "一楽ラーメン 名島本店",
+      "image": "https://image.xinu.ink/pic/data/6482/images/1848.jpg",
+      "geo": [
+        33.6384,
+        130.4263
+      ],
+      "name_en": "Ichiraku Ramen Najima Main Store",
+      "address": "福岡県福岡市東区箱崎7-4-2"
+    },
+    {
+      "id": "1849",
+      "name": "九州産業大学",
+      "image": "https://image.xinu.ink/pic/data/6482/images/1849.jpg",
+      "geo": [
+        33.6602,
+        130.441
+      ],
+      "name_en": "Kyushu Industrial University",
+      "address": "福岡県福岡市東区松香台2-3-1"
+    },
+    {
+      "id": "1851",
+      "name": "伊賀流忍者博物館",
+      "image": "https://image.xinu.ink/pic/data/6482/images/1851.jpg",
+      "geo": [
+        34.7718,
+        136.1291
+      ],
+      "name_en": "Iga-ryu Ninja Museum",
+      "address": "三重県伊賀市上野丸之内117"
+    }
+  ]
+}

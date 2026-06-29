@@ -1,0 +1,59 @@
+{
+  "points": [
+    {
+      "id": "2079",
+      "name": "ジブリパーク",
+      "image": "https://image.xinu.ink/pic/data/6485/images/2079.jpg",
+      "geo": [
+        35.182,
+        137.084
+      ],
+      "name_en": "Ghibli Park",
+      "address": "愛知県長久手市茨ケ廻間乙1533-1"
+    },
+    {
+      "id": "2336",
+      "name": "湯布院フローラルヴィレッジ",
+      "image": "https://image.xinu.ink/pic/data/6485/images/2336.jpg",
+      "geo": [
+        33.2674,
+        131.3651
+      ],
+      "name_en": "Yufuin Floral Village",
+      "address": "大分県由布市湯布院町川上1503-3"
+    },
+    {
+      "id": "2338",
+      "name": "ハウステンボス",
+      "image": "https://image.xinu.ink/pic/data/6485/images/2338.jpg",
+      "geo": [
+        33.0858,
+        129.7883
+      ],
+      "name_en": "Huis Ten Bosch",
+      "address": "長崎県佐世保市ハウステンボス町1-1"
+    },
+    {
+      "id": "2339",
+      "name": "門司港レトロ",
+      "image": "https://image.xinu.ink/pic/data/6485/images/2339.jpg",
+      "geo": [
+        33.9461,
+        130.9613
+      ],
+      "name_en": "Mojiko Retro",
+      "address": "福岡県北九州市門司区港町"
+    },
+    {
+      "id": "2341",
+      "name": "函館ハリストス正教会",
+      "image": "https://image.xinu.ink/pic/data/6485/images/2341.jpg",
+      "geo": [
+        41.7654,
+        140.709
+      ],
+      "name_en": "Hakodate Orthodox Church",
+      "address": "北海道函館市元町3-13"
+    }
+  ]
+}

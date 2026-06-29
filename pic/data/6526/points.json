@@ -1,0 +1,47 @@
+{
+  "points": [
+    {
+      "id": "3324",
+      "name": "渋谷スクランブル交差点",
+      "image": "https://image.xinu.ink/pic/data/6526/images/3324.jpg",
+      "geo": [
+        35.6595,
+        139.7005
+      ],
+      "name_en": "Shibuya Scramble Crossing",
+      "address": "東京都渋谷区道玄坂2"
+    },
+    {
+      "id": "3325",
+      "name": "SHIBUYA109",
+      "image": "https://image.xinu.ink/pic/data/6526/images/3325.jpg",
+      "geo": [
+        35.6594,
+        139.6982
+      ],
+      "address": "東京都渋谷区道玄坂2-29-1"
+    },
+    {
+      "id": "3326",
+      "name": "渋谷ヒカリエ",
+      "image": "https://image.xinu.ink/pic/data/6526/images/3326.jpg",
+      "geo": [
+        35.6594,
+        139.7029
+      ],
+      "name_en": "Shibuya Hikarie",
+      "address": "東京都渋谷区渋谷2-21-1"
+    },
+    {
+      "id": "3327",
+      "name": "スペイン坂",
+      "image": "https://image.xinu.ink/pic/data/6526/images/3327.jpg",
+      "geo": [
+        35.6614,
+        139.6976
+      ],
+      "name_en": "Spain Slope",
+      "address": "東京都渋谷区宇田川町"
+    }
+  ]
+}

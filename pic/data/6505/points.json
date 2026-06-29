@@ -1,0 +1,37 @@
+{
+  "points": [
+    {
+      "id": "3046",
+      "name": "八木邸（壬生屯所旧跡）",
+      "image": "",
+      "geo": [
+        35.0036,
+        135.7387
+      ],
+      "name_en": "Yagi Residence (Former Mibu HQ)",
+      "address": "京都府京都市中京区壬生梛ノ宮町24"
+    },
+    {
+      "id": "3047",
+      "name": "壬生寺",
+      "image": "https://image.xinu.ink/pic/data/6505/images/3047.jpg",
+      "geo": [
+        35.003,
+        135.738
+      ],
+      "name_en": "Mibu-dera Temple",
+      "address": "京都府京都市中京区壬生梛ノ宮町31"
+    },
+    {
+      "id": "3048",
+      "name": "五稜郭",
+      "image": "https://image.xinu.ink/pic/data/6505/images/3048.jpg",
+      "geo": [
+        41.7966,
+        140.757
+      ],
+      "name_en": "Goryokaku Fort",
+      "address": "北海道函館市五稜郭町44"
+    }
+  ]
+}

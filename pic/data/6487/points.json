@@ -1,0 +1,70 @@
+{
+  "points": [
+    {
+      "id": "2091",
+      "name": "立川市街",
+      "image": "https://image.xinu.ink/pic/data/6487/images/2091.jpg",
+      "geo": [
+        35.698,
+        139.4138
+      ],
+      "name_en": "Tachikawa city",
+      "address": "東京都立川市曙町2丁目"
+    },
+    {
+      "id": "2093",
+      "name": "新宿副都心",
+      "image": "https://image.xinu.ink/pic/data/6487/images/2093.jpg",
+      "geo": [
+        35.6896,
+        139.6917
+      ],
+      "name_en": "Shinjuku Subcenter",
+      "address": "東京都新宿区西新宿2丁目"
+    },
+    {
+      "id": "2355",
+      "name": "東京ゲートブリッジ",
+      "image": "https://image.xinu.ink/pic/data/6487/images/2355.jpg",
+      "geo": [
+        35.608,
+        139.831
+      ],
+      "name_en": "Tokyo Gate Bridge",
+      "address": "東京都江東区若洲"
+    },
+    {
+      "id": "2356",
+      "name": "レインボーブリッジ",
+      "image": "https://image.xinu.ink/pic/data/6487/images/2356.jpg",
+      "geo": [
+        35.6367,
+        139.7636
+      ],
+      "name_en": "Rainbow Bridge",
+      "address": "東京都港区海岸3丁目"
+    },
+    {
+      "id": "2357",
+      "name": "立川防災館",
+      "image": "https://image.xinu.ink/pic/data/6487/images/2357.jpg",
+      "geo": [
+        35.713,
+        139.3998
+      ],
+      "name_en": "Tachikawa Life Safety Learning Center",
+      "address": "東京都立川市泉町1156-1"
+    },
+    {
+      "id": "2360",
+      "name": "陸上自衛隊広報センター（りっくんランド）",
+      "image": "https://image.xinu.ink/pic/data/6487/images/2360.jpg",
+      "geo": [
+        35.7878,
+        139.5918
+      ],
+      "name_en": "JGSDF Public Information Center (Rikkun Land)",
+      "address": "埼玉県朝霞市栄町4-6"
+    }
+  ]
+}

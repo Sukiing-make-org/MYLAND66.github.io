@@ -1,0 +1,37 @@
+{
+  "points": [
+    {
+      "id": "2199",
+      "name": "東映アニメーションミュージアム",
+      "image": "https://image.xinu.ink/pic/data/6497/images/2199.jpg",
+      "geo": [
+        35.745,
+        139.589
+      ],
+      "name_en": "Toei Animation Museum",
+      "address": "東京都練馬区東大泉2-10-5"
+    },
+    {
+      "id": "2488",
+      "name": "東映大泉撮影所跡地周辺",
+      "image": "",
+      "geo": [
+        35.7555,
+        139.587
+      ],
+      "name_en": "Former Toei Oizumi Studio Area",
+      "address": "東京都練馬区東大泉2丁目"
+    },
+    {
+      "id": "2490",
+      "name": "東京キャラクターストリート",
+      "image": "https://image.xinu.ink/pic/data/6497/images/2490.jpg",
+      "geo": [
+        35.6812,
+        139.7671
+      ],
+      "name_en": "Tokyo Character Street",
+      "address": "東京都千代田区丸の内1丁目9-1"
+    }
+  ]
+}

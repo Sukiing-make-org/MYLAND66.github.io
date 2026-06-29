@@ -1,0 +1,81 @@
+{
+  "points": [
+    {
+      "id": "2131",
+      "name": "京都・祇園",
+      "image": "https://image.xinu.ink/pic/data/6489/images/2131.jpg",
+      "geo": [
+        35.0036,
+        135.775
+      ],
+      "name_en": "Kyoto, Gion",
+      "address": "京都府京都市東山区祇園町"
+    },
+    {
+      "id": "2270",
+      "name": "清水寺",
+      "image": "https://image.xinu.ink/pic/data/6489/images/2270.jpg",
+      "geo": [
+        34.9949,
+        135.785
+      ],
+      "name_en": "Kiyomizu-dera Temple",
+      "address": "京都府京都市東山区清水1-294"
+    },
+    {
+      "id": "2597",
+      "name": "二条城",
+      "image": "https://image.xinu.ink/pic/data/6489/images/2597.jpg",
+      "geo": [
+        35.0142,
+        135.7481
+      ],
+      "name_en": "Nijo Castle",
+      "address": "京都府京都市中京区二条通堀川西入二条城町541"
+    },
+    {
+      "id": "2598",
+      "name": "霊山歴史館",
+      "image": "https://image.xinu.ink/pic/data/6489/images/2598.jpg",
+      "geo": [
+        34.999,
+        135.784
+      ],
+      "name_en": "Ryozen Museum of History",
+      "address": "京都府京都市東山区清閑寺霊山町1"
+    },
+    {
+      "id": "2599",
+      "name": "伏見稲荷大社",
+      "image": "https://image.xinu.ink/pic/data/6489/images/2599.jpg",
+      "geo": [
+        34.9671,
+        135.7727
+      ],
+      "name_en": "Fushimi Inari Taisha",
+      "address": "京都府京都市伏見区深草藪之内町68"
+    },
+    {
+      "id": "2600",
+      "name": "池田屋跡",
+      "image": "",
+      "geo": [
+        35.0094,
+        135.7706
+      ],
+      "name_en": "Ikedaya Incident Site",
+      "address": "京都府京都市中京区三条通河原町東入ル"
+    },
+    {
+      "id": "2601",
+      "name": "鳥羽伏見の戦い記念碑",
+      "image": "https://image.xinu.ink/pic/data/6489/images/2601.jpg",
+      "geo": [
+        34.946,
+        135.7467
+      ],
+      "name_en": "Battle of Toba-Fushimi Monument",
+      "address": "京都府京都市伏見区中島鳥羽離宮町"
+    }
+  ]
+}

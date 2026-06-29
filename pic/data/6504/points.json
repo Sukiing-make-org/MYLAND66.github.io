@@ -1,0 +1,37 @@
+{
+  "points": [
+    {
+      "id": "3041",
+      "name": "水木しげるロード",
+      "image": "https://image.xinu.ink/pic/data/6504/images/3041.jpg",
+      "geo": [
+        35.3828,
+        133.2325
+      ],
+      "name_en": "Mizuki Shigeru Road",
+      "address": "鳥取県境港市大正町"
+    },
+    {
+      "id": "3042",
+      "name": "水木しげる記念館",
+      "image": "https://image.xinu.ink/pic/data/6504/images/3042.jpg",
+      "geo": [
+        35.3832,
+        133.2287
+      ],
+      "name_en": "Mizuki Shigeru Memorial Museum",
+      "address": "鳥取県境港市本町5番地"
+    },
+    {
+      "id": "3043",
+      "name": "妖怪神社",
+      "image": "https://image.xinu.ink/pic/data/6504/images/3043.jpg",
+      "geo": [
+        35.383,
+        133.231
+      ],
+      "name_en": "Yokai Shrine",
+      "address": "鳥取県境港市大正町62-1"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "points": [
+    {
+      "id": "3228",
+      "name": "大多喜駅（いすみ鉄道）",
+      "image": "https://image.xinu.ink/pic/data/6517/images/3228.jpg",
+      "geo": [
+        35.2856,
+        140.2459
+      ],
+      "name_en": "Otaki Station (Isumi Railway)",
+      "address": "千葉県夷隅郡大多喜町大多喜"
+    },
+    {
+      "id": "3229",
+      "name": "大多喜城（千葉県立中央博物館大多喜城分館）",
+      "image": "https://image.xinu.ink/pic/data/6517/images/3229.jpg",
+      "geo": [
+        35.2848,
+        140.2444
+      ],
+      "name_en": "Otaki Castle",
+      "address": "千葉県夷隅郡大多喜町大多喜481"
+    },
+    {
+      "id": "3230",
+      "name": "大多喜町役場",
+      "image": "https://image.xinu.ink/pic/data/6517/images/3230.jpg",
+      "geo": [
+        35.2858,
+        140.2456
+      ],
+      "name_en": "Otaki Town Hall",
+      "address": "千葉県夷隅郡大多喜町大多喜偕楽123-1"
+    }
+  ]
+}

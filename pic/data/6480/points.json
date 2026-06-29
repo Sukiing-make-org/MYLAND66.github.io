@@ -1,0 +1,70 @@
+{
+  "points": [
+    {
+      "id": "1935",
+      "name": "ハウステンボス",
+      "image": "https://image.xinu.ink/pic/data/6480/images/1935.jpg",
+      "geo": [
+        33.086,
+        129.788
+      ],
+      "name_en": "Huis Ten Bosch",
+      "address": "長崎県佐世保市ハウステンボス町1-1"
+    },
+    {
+      "id": "1936",
+      "name": "熊本県庁（ルフィ像）",
+      "image": "https://image.xinu.ink/pic/data/6480/images/1936.jpg",
+      "geo": [
+        32.7898,
+        130.7417
+      ],
+      "name_en": "Kumamoto Prefectural Government Building (Luffy statue)",
+      "address": "熊本県熊本市中央区水前寺6-18-1"
+    },
+    {
+      "id": "1937",
+      "name": "阿蘇駅前（ウソップ像）",
+      "image": "https://image.xinu.ink/pic/data/6480/images/1937.jpg",
+      "geo": [
+        32.949,
+        131.072
+      ],
+      "name_en": "In front of Aso Station (Usopp statue)",
+      "address": "熊本県阿蘇市黒川1444-2"
+    },
+    {
+      "id": "1938",
+      "name": "益城町交流情報センター（サンジ像）",
+      "image": "https://image.xinu.ink/pic/data/6480/images/1938.jpg",
+      "geo": [
+        32.772,
+        130.817
+      ],
+      "name_en": "Mashiki Town Community Information Center (Sanji statue)",
+      "address": "熊本県上益城郡益城町木山236"
+    },
+    {
+      "id": "1939",
+      "name": "高森駅前（フランキー像）",
+      "image": "https://image.xinu.ink/pic/data/6480/images/1939.jpg",
+      "geo": [
+        32.826,
+        131.118
+      ],
+      "name_en": "Takamori Station (Frankie statue)",
+      "address": "熊本県阿蘇郡高森町高森1537-2"
+    },
+    {
+      "id": "1940",
+      "name": "東京ワンピースタワー跡地（東京タワー）",
+      "image": "https://image.xinu.ink/pic/data/6480/images/1940.jpg",
+      "geo": [
+        35.6586,
+        139.7454
+      ],
+      "name_en": "Former site of Tokyo One Piece Tower (Tokyo Tower)",
+      "address": "東京都港区芝公園4-2-8"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "points": [
+    {
+      "id": "3072",
+      "name": "一乗寺下り松",
+      "image": "https://image.xinu.ink/pic/data/6507/images/3072.jpg",
+      "geo": [
+        35.0446,
+        135.7938
+      ],
+      "name_en": "Ichijoji Sagari-matsu",
+      "address": "京都府京都市左京区一乗寺花ノ木町"
+    },
+    {
+      "id": "3073",
+      "name": "宮本武蔵生家跡",
+      "image": "https://image.xinu.ink/pic/data/6507/images/3073.jpg",
+      "geo": [
+        35.1419,
+        134.3536
+      ],
+      "name_en": "Miyamoto Musashi Birthplace",
+      "address": "岡山県美作市宮本946"
+    },
+    {
+      "id": "3074",
+      "name": "興福寺宝蔵院跡",
+      "image": "",
+      "geo": [
+        34.6834,
+        135.8397
+      ],
+      "name_en": "Hozoin Temple Ruins (Kofuku-ji)",
+      "address": "奈良県奈良市登大路町50"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "points": [
+    {
+      "id": "3256",
+      "name": "十国峠レストハウス",
+      "image": "",
+      "geo": [
+        35.0987,
+        138.9933
+      ],
+      "name_en": "Jukkokutoge Rest House",
+      "address": "静岡県田方郡函南町桑原1400-20"
+    },
+    {
+      "id": "3257",
+      "name": "富士スバルライン",
+      "image": "https://image.xinu.ink/pic/data/6521/images/3257.jpg",
+      "geo": [
+        35.45,
+        138.75
+      ],
+      "name_en": "Fuji Subaru Line",
+      "address": "山梨県南都留郡富士河口湖町"
+    },
+    {
+      "id": "3258",
+      "name": "秩父橋",
+      "image": "https://image.xinu.ink/pic/data/6521/images/3258.jpg",
+      "geo": [
+        36.0049,
+        139.0808
+      ],
+      "name_en": "Chichibu Bridge",
+      "address": "埼玉県秩父市阿保町"
+    }
+  ]
+}

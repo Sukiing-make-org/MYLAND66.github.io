@@ -1,0 +1,26 @@
+{
+  "points": [
+    {
+      "id": "2058",
+      "name": "USJユニバーサル・スタジオ・ジャパン",
+      "image": "https://image.xinu.ink/pic/data/6484/images/2058.jpg",
+      "geo": [
+        34.6654,
+        135.4323
+      ],
+      "name_en": "Universal Studios Japan (USJ)",
+      "address": "大阪府大阪市此花区桜島2-1-33"
+    },
+    {
+      "id": "2302",
+      "name": "愛知県立芸術大学",
+      "image": "https://image.xinu.ink/pic/data/6484/images/2302.jpg",
+      "geo": [
+        35.1847,
+        137.0574
+      ],
+      "name_en": "Aichi Prefectural University of Fine Arts and Music",
+      "address": "愛知県長久手市岩作三ケ峯1-114"
+    }
+  ]
+}

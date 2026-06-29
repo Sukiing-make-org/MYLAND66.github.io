@@ -1,0 +1,48 @@
+{
+  "points": [
+    {
+      "id": "3175",
+      "name": "立川駅 北口",
+      "image": "https://image.xinu.ink/pic/data/6514/images/3175.jpg",
+      "geo": [
+        35.6986,
+        139.4131
+      ],
+      "name_en": "Tachikawa Station North Exit",
+      "address": "東京都立川市曙町2-1-1"
+    },
+    {
+      "id": "3176",
+      "name": "グランデュオ立川",
+      "image": "https://image.xinu.ink/pic/data/6514/images/3176.jpg",
+      "geo": [
+        35.6973,
+        139.4128
+      ],
+      "name_en": "Granduo Tachikawa",
+      "address": "東京都立川市柴崎町3-2-1"
+    },
+    {
+      "id": "3177",
+      "name": "立川市役所",
+      "image": "https://image.xinu.ink/pic/data/6514/images/3177.jpg",
+      "geo": [
+        35.7059,
+        139.4242
+      ],
+      "name_en": "Tachikawa City Hall",
+      "address": "東京都立川市泉町1156-9"
+    },
+    {
+      "id": "3178",
+      "name": "国営昭和記念公園",
+      "image": "https://image.xinu.ink/pic/data/6514/images/3178.jpg",
+      "geo": [
+        35.706,
+        139.4084
+      ],
+      "name_en": "Showa Kinen Park",
+      "address": "東京都立川市緑町3173"
+    }
+  ]
+}

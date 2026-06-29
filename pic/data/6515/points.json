@@ -1,0 +1,37 @@
+{
+  "points": [
+    {
+      "id": "3217",
+      "name": "中央大学 多摩キャンパス",
+      "image": "https://image.xinu.ink/pic/data/6515/images/3217.jpg",
+      "geo": [
+        35.6234,
+        139.3927
+      ],
+      "name_en": "Chuo University Tama Campus",
+      "address": "東京都八王子市東中野742-1"
+    },
+    {
+      "id": "3218",
+      "name": "中央大学・明星大学駅",
+      "image": "",
+      "geo": [
+        35.6234,
+        139.396
+      ],
+      "name_en": "Chuo Univ./Meisei Univ. Station",
+      "address": "東京都八王子市東中野"
+    },
+    {
+      "id": "3219",
+      "name": "池袋（乙女ロード周辺）",
+      "image": "https://image.xinu.ink/pic/data/6515/images/3219.jpg",
+      "geo": [
+        35.7295,
+        139.7166
+      ],
+      "name_en": "Ikebukuro (Otome Road area)",
+      "address": "東京都豊島区東池袋3"
+    }
+  ]
+}

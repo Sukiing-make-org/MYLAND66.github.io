@@ -1,0 +1,48 @@
+{
+  "points": [
+    {
+      "id": "3116",
+      "name": "東京都立戸山高等学校",
+      "image": "https://image.xinu.ink/pic/data/6512/images/3116.jpg",
+      "geo": [
+        35.7036,
+        139.7188
+      ],
+      "name_en": "Tokyo Metropolitan Toyama High School",
+      "address": "東京都新宿区戸山3-19-1"
+    },
+    {
+      "id": "3117",
+      "name": "駒沢オリンピック公園",
+      "image": "https://image.xinu.ink/pic/data/6512/images/3117.jpg",
+      "geo": [
+        35.626,
+        139.6608
+      ],
+      "name_en": "Komazawa Olympic Park",
+      "address": "東京都世田谷区駒沢公園1-1"
+    },
+    {
+      "id": "3118",
+      "name": "東京体育館",
+      "image": "https://image.xinu.ink/pic/data/6512/images/3118.jpg",
+      "geo": [
+        35.6826,
+        139.7138
+      ],
+      "name_en": "Tokyo Metropolitan Gymnasium",
+      "address": "東京都渋谷区千駄ヶ谷1-17-1"
+    },
+    {
+      "id": "3119",
+      "name": "小金井市総合体育館",
+      "image": "",
+      "geo": [
+        35.7036,
+        139.5135
+      ],
+      "name_en": "Koganei City Sports Center",
+      "address": "東京都小金井市関野町1-13-1"
+    }
+  ]
+}

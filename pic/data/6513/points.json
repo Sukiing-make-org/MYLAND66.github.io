@@ -1,0 +1,48 @@
+{
+  "points": [
+    {
+      "id": "3171",
+      "name": "大相模調節池（レイクタウン）",
+      "image": "https://image.xinu.ink/pic/data/6513/images/3171.jpg",
+      "geo": [
+        35.8889,
+        139.8062
+      ],
+      "name_en": "Osagami Reservoir (Lake Town)",
+      "address": "埼玉県越谷市レイクタウン"
+    },
+    {
+      "id": "3172",
+      "name": "越谷レイクタウン駅",
+      "image": "https://image.xinu.ink/pic/data/6513/images/3172.jpg",
+      "geo": [
+        35.8745,
+        139.8108
+      ],
+      "name_en": "Koshigaya Lake Town Station",
+      "address": "埼玉県越谷市レイクタウン3-1"
+    },
+    {
+      "id": "3173",
+      "name": "越谷駅",
+      "image": "https://image.xinu.ink/pic/data/6513/images/3173.jpg",
+      "geo": [
+        35.8895,
+        139.7903
+      ],
+      "name_en": "Koshigaya Station",
+      "address": "埼玉県越谷市越ヶ谷1丁目"
+    },
+    {
+      "id": "3174",
+      "name": "越谷市民球場",
+      "image": "",
+      "geo": [
+        35.8753,
+        139.8041
+      ],
+      "name_en": "Koshigaya Citizens&#039; Baseball Stadium",
+      "address": "埼玉県越谷市増林3-2-1"
+    }
+  ]
+}

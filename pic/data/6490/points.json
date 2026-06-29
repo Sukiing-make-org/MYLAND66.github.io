@@ -1,0 +1,114 @@
+{
+  "points": [
+    {
+      "id": "2147",
+      "name": "東京国立博物館",
+      "image": "https://image.xinu.ink/pic/data/6490/images/2147.jpg",
+      "geo": [
+        35.7189,
+        139.7765
+      ],
+      "name_en": "Tokyo National Museum",
+      "address": "東京都台東区上野公園13-9"
+    },
+    {
+      "id": "2148",
+      "name": "熱田神宮（名古屋）",
+      "image": "https://image.xinu.ink/pic/data/6490/images/2148.jpg",
+      "geo": [
+        35.1262,
+        136.9083
+      ],
+      "name_en": "Atsuta Shrine (Nagoya)",
+      "address": "愛知県名古屋市熱田区神宮1-1-1"
+    },
+    {
+      "id": "2149",
+      "name": "鶴丸城跡（鹿児島）",
+      "image": "https://image.xinu.ink/pic/data/6490/images/2149.jpg",
+      "geo": [
+        31.5963,
+        130.5571
+      ],
+      "name_en": "Tsurumaru Castle Ruins (Kagoshima)",
+      "address": "鹿児島県鹿児島市城山町7-2"
+    },
+    {
+      "id": "2277",
+      "name": "建勲神社（京都）",
+      "image": "https://image.xinu.ink/pic/data/6490/images/2277.jpg",
+      "geo": [
+        35.04,
+        135.744
+      ],
+      "name_en": "Kenkun Shrine (Kyoto)",
+      "address": "京都府京都市北区紫野北舟岡町49"
+    },
+    {
+      "id": "2278",
+      "name": "徳川美術館",
+      "image": "https://image.xinu.ink/pic/data/6490/images/2278.jpg",
+      "geo": [
+        35.1878,
+        136.935
+      ],
+      "name_en": "Tokugawa Art Museum",
+      "address": "愛知県名古屋市東区徳川町1017"
+    },
+    {
+      "id": "2634",
+      "name": "石切劔箭神社",
+      "image": "https://image.xinu.ink/pic/data/6490/images/2634.jpg",
+      "geo": [
+        34.6778,
+        135.6517
+      ],
+      "name_en": "Ishikiri Tsurugiya Shrine",
+      "address": "大阪府東大阪市東石切町1-1-1"
+    },
+    {
+      "id": "2635",
+      "name": "刀剣博物館",
+      "image": "https://image.xinu.ink/pic/data/6490/images/2635.jpg",
+      "geo": [
+        35.696,
+        139.7945
+      ],
+      "name_en": "Japanese Sword Museum",
+      "address": "東京都墨田区横網1-12-9"
+    },
+    {
+      "id": "2636",
+      "name": "春日大社",
+      "image": "https://image.xinu.ink/pic/data/6490/images/2636.jpg",
+      "geo": [
+        34.6813,
+        135.8498
+      ],
+      "name_en": "Kasuga Taisha Shrine",
+      "address": "奈良県奈良市春日野町160"
+    },
+    {
+      "id": "2637",
+      "name": "備前長船刀剣博物館",
+      "image": "https://image.xinu.ink/pic/data/6490/images/2637.jpg",
+      "geo": [
+        34.7347,
+        134.1352
+      ],
+      "name_en": "Bizen Osafune Japanese Sword Museum",
+      "address": "岡山県瀬戸内市長船町長船966"
+    },
+    {
+      "id": "2638",
+      "name": "鶴岡八幡宮",
+      "image": "https://image.xinu.ink/pic/data/6490/images/2638.jpg",
+      "geo": [
+        35.3258,
+        139.5564
+      ],
+      "name_en": "Tsurugaoka Hachimangu Shrine",
+      "address": "神奈川県鎌倉市雪ノ下2-1-31"
+    }
+  ]
+}

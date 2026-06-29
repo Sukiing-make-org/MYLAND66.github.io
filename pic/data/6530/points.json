@@ -1,0 +1,37 @@
+{
+  "points": [
+    {
+      "id": "3402",
+      "name": "新宿駅 西口",
+      "image": "https://image.xinu.ink/pic/data/6530/images/3402.jpg",
+      "geo": [
+        35.6896,
+        139.6917
+      ],
+      "name_en": "JR Shinjuku Station West Exit",
+      "address": "東京都新宿区新宿"
+    },
+    {
+      "id": "3403",
+      "name": "新橋駅周辺",
+      "image": "https://image.xinu.ink/pic/data/6530/images/3403.jpg",
+      "geo": [
+        35.666,
+        139.7587
+      ],
+      "name_en": "Shimbashi Station Area",
+      "address": "東京都港区新橋2"
+    },
+    {
+      "id": "3404",
+      "name": "渋谷スクランブル交差点",
+      "image": "https://image.xinu.ink/pic/data/6530/images/3404.jpg",
+      "geo": [
+        35.6595,
+        139.7005
+      ],
+      "name_en": "Shibuya Scramble Crossing",
+      "address": "東京都渋谷区道玄坂2"
+    }
+  ]
+}

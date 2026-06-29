@@ -1,0 +1,48 @@
+{
+  "points": [
+    {
+      "id": "3238",
+      "name": "鞆の浦 常夜燈",
+      "image": "",
+      "geo": [
+        34.3829,
+        133.3826
+      ],
+      "name_en": "Tomonoura Joyato Lantern",
+      "address": "広島県福山市鞆町鞆"
+    },
+    {
+      "id": "3239",
+      "name": "御舟宿いろは",
+      "image": "https://image.xinu.ink/pic/data/6518/images/3239.jpg",
+      "geo": [
+        34.3833,
+        133.3822
+      ],
+      "name_en": "Onfunayado Iroha",
+      "address": "広島県福山市鞆町鞆670"
+    },
+    {
+      "id": "3240",
+      "name": "医王寺 太子殿",
+      "image": "",
+      "geo": [
+        34.3848,
+        133.3781
+      ],
+      "name_en": "Ioji Temple Taishi Hall",
+      "address": "広島県福山市鞆町後地1396"
+    },
+    {
+      "id": "3241",
+      "name": "鞆の浦港",
+      "image": "https://image.xinu.ink/pic/data/6518/images/3241.jpg",
+      "geo": [
+        34.3839,
+        133.3827
+      ],
+      "name_en": "Tomonoura Port",
+      "address": "広島県福山市鞆町"
+    }
+  ]
+}

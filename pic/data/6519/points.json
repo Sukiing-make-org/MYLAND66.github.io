@@ -1,0 +1,37 @@
+{
+  "points": [
+    {
+      "id": "3245",
+      "name": "はけの小路",
+      "image": "",
+      "geo": [
+        35.6967,
+        139.5005
+      ],
+      "name_en": "Hake-no-Komichi",
+      "address": "東京都小金井市貫井南町"
+    },
+    {
+      "id": "3246",
+      "name": "野川公園",
+      "image": "https://image.xinu.ink/pic/data/6519/images/3246.jpg",
+      "geo": [
+        35.6917,
+        139.5226
+      ],
+      "name_en": "Nogawa Park",
+      "address": "東京都調布市野水1-25"
+    },
+    {
+      "id": "3247",
+      "name": "武蔵野公園",
+      "image": "https://image.xinu.ink/pic/data/6519/images/3247.jpg",
+      "geo": [
+        35.6986,
+        139.5053
+      ],
+      "name_en": "Musashino Park",
+      "address": "東京都府中市多磨町2-24-1"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "points": [
+    {
+      "id": "3248",
+      "name": "多摩ニュータウン",
+      "image": "https://image.xinu.ink/pic/data/6520/images/3248.jpg",
+      "geo": [
+        35.6231,
+        139.4226
+      ],
+      "name_en": "Tama New Town",
+      "address": "東京都多摩市"
+    },
+    {
+      "id": "3249",
+      "name": "流泉寺 阿弥陀堂",
+      "image": "",
+      "geo": [
+        35.6303,
+        139.3782
+      ],
+      "name_en": "Ryusenji Amidado Hall",
+      "address": "東京都八王子市堀之内1268"
+    },
+    {
+      "id": "3250",
+      "name": "高幡不動駅",
+      "image": "https://image.xinu.ink/pic/data/6520/images/3250.jpg",
+      "geo": [
+        35.6603,
+        139.3933
+      ],
+      "name_en": "Takahatafudo Station",
+      "address": "東京都日野市高幡1-1"
+    },
+    {
+      "id": "3251",
+      "name": "高幡不動尊金剛寺",
+      "image": "https://image.xinu.ink/pic/data/6520/images/3251.jpg",
+      "geo": [
+        35.6603,
+        139.3905
+      ],
+      "name_en": "Takahatafudo Kongoji Temple",
+      "address": "東京都日野市高幡733"
+    }
+  ]
+}

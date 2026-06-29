@@ -1,0 +1,81 @@
+{
+  "points": [
+    {
+      "id": "2194",
+      "name": "四つ木つばさ公園",
+      "image": "",
+      "geo": [
+        35.734,
+        139.828
+      ],
+      "name_en": "Yotsugi Tsubasa Park",
+      "address": "東京都葛飾区四つ木1-22-10"
+    },
+    {
+      "id": "2195",
+      "name": "葛飾区立奥戸総合スポーツセンター",
+      "image": "https://image.xinu.ink/pic/data/6494/images/2195.jpg",
+      "geo": [
+        35.742,
+        139.855
+      ],
+      "name_en": "Katsushika City Okudo General Sports Center",
+      "address": "東京都葛飾区奥戸7-17-1"
+    },
+    {
+      "id": "2257",
+      "name": "四ツ木駅周辺",
+      "image": "",
+      "geo": [
+        35.734,
+        139.828
+      ],
+      "name_en": "Around Yotsugi Station",
+      "address": "東京都葛飾区四つ木1丁目"
+    },
+    {
+      "id": "2258",
+      "name": "葛飾区立石",
+      "image": "https://image.xinu.ink/pic/data/6494/images/2258.jpg",
+      "geo": [
+        35.744,
+        139.849
+      ],
+      "name_en": "Tateishi, Katsushika Ward",
+      "address": "東京都葛飾区立石"
+    },
+    {
+      "id": "2465",
+      "name": "立石様（立石）駅周辺翼像",
+      "image": "",
+      "geo": [
+        35.744,
+        139.849
+      ],
+      "name_en": "Tsubasa Statue near Tateishi Station",
+      "address": "東京都葛飾区立石7丁目"
+    },
+    {
+      "id": "2470",
+      "name": "南葛SCグラウンド（南葛高校モデル）",
+      "image": "",
+      "geo": [
+        35.738,
+        139.865
+      ],
+      "name_en": "Nankatsu SC Ground (Nankatsu High Model)",
+      "address": "東京都葛飾区奥戸7丁目17-1"
+    },
+    {
+      "id": "2471",
+      "name": "青戸平和公園",
+      "image": "https://image.xinu.ink/pic/data/6494/images/2471.jpg",
+      "geo": [
+        35.7544,
+        139.8402
+      ],
+      "name_en": "Aoto Heiwa Park",
+      "address": "東京都葛飾区青戸4丁目23-1"
+    }
+  ]
+}

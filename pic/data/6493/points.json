@@ -1,0 +1,92 @@
+{
+  "points": [
+    {
+      "id": "2192",
+      "name": "高田馬場駅",
+      "image": "https://image.xinu.ink/pic/data/6493/images/2192.jpg",
+      "geo": [
+        35.7128,
+        139.7038
+      ],
+      "name_en": "Takadanobaba Station",
+      "address": "東京都新宿区高田馬場1-35-3"
+    },
+    {
+      "id": "2193",
+      "name": "手塚治虫記念館",
+      "image": "https://image.xinu.ink/pic/data/6493/images/2193.jpg",
+      "geo": [
+        34.811,
+        135.349
+      ],
+      "name_en": "Osamu Tezuka Memorial Museum",
+      "address": "兵庫県宝塚市武庫川町7-65"
+    },
+    {
+      "id": "2255",
+      "name": "高田馬場商店街",
+      "image": "https://image.xinu.ink/pic/data/6493/images/2255.jpg",
+      "geo": [
+        35.7128,
+        139.7038
+      ],
+      "name_en": "Takadanobaba Shopping Street",
+      "address": "東京都新宿区高田馬場"
+    },
+    {
+      "id": "2458",
+      "name": "高田馬場駅前アトム壁画",
+      "image": "",
+      "geo": [
+        35.7128,
+        139.7038
+      ],
+      "name_en": "Takadanobaba Station Atom Mural",
+      "address": "東京都新宿区高田馬場1丁目35"
+    },
+    {
+      "id": "2460",
+      "name": "花のみち（宝塚）",
+      "image": "https://image.xinu.ink/pic/data/6493/images/2460.jpg",
+      "geo": [
+        34.807,
+        135.345
+      ],
+      "name_en": "Hana no Michi (Takarazuka)",
+      "address": "兵庫県宝塚市栄町1丁目"
+    },
+    {
+      "id": "2462",
+      "name": "豊島区立トキワ荘マンガミュージアム",
+      "image": "https://image.xinu.ink/pic/data/6493/images/2462.jpg",
+      "geo": [
+        35.724,
+        139.687
+      ],
+      "name_en": "Tokiwa-so Manga Museum",
+      "address": "東京都豊島区南長崎3丁目9-22"
+    },
+    {
+      "id": "2463",
+      "name": "手塚プロダクション",
+      "image": "https://image.xinu.ink/pic/data/6493/images/2463.png",
+      "geo": [
+        35.714,
+        139.701
+      ],
+      "name_en": "Tezuka Productions",
+      "address": "東京都新宿区高田馬場4丁目32-11"
+    },
+    {
+      "id": "2464",
+      "name": "高田馬場ガード下通り",
+      "image": "",
+      "geo": [
+        35.7125,
+        139.705
+      ],
+      "name_en": "Takadanobaba Underpass Street",
+      "address": "東京都新宿区高田馬場2丁目"
+    }
+  ]
+}

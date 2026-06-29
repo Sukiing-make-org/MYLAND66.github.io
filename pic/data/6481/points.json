@@ -1,0 +1,70 @@
+{
+  "points": [
+    {
+      "id": "1588",
+      "name": "呉市歴史の見える丘",
+      "image": "https://image.xinu.ink/pic/data/6481/images/1588.jpg",
+      "geo": [
+        34.249,
+        132.5649
+      ],
+      "name_en": "Kure Hill with History View",
+      "address": "広島県呉市幸町入船山公園"
+    },
+    {
+      "id": "1884",
+      "name": "旧呉鎮守府司令長官官舎（入船山記念館）",
+      "image": "https://image.xinu.ink/pic/data/6481/images/1884.jpg",
+      "geo": [
+        34.2397,
+        132.5656
+      ],
+      "name_en": "Former Kure Naval District Commander&#039;s Residence (Irifuneyama Memorial Museum)",
+      "address": "広島県呉市幸町4-6"
+    },
+    {
+      "id": "1886",
+      "name": "アレイからすこじま",
+      "image": "https://image.xinu.ink/pic/data/6481/images/1886.jpg",
+      "geo": [
+        34.2325,
+        132.554
+      ],
+      "name_en": "Array Karasukojima",
+      "address": "広島県呉市昭和町"
+    },
+    {
+      "id": "1887",
+      "name": "灰ヶ峰",
+      "image": "https://image.xinu.ink/pic/data/6481/images/1887.jpg",
+      "geo": [
+        34.261,
+        132.568
+      ],
+      "name_en": "Haigamine",
+      "address": "広島県呉市栃原町"
+    },
+    {
+      "id": "1889",
+      "name": "旧呉海軍工廠（IHI呉工場跡）",
+      "image": "https://image.xinu.ink/pic/data/6481/images/1889.jpg",
+      "geo": [
+        34.234,
+        132.551
+      ],
+      "name_en": "Former Kure Naval Arsenal (site of IHI Kure Factory)",
+      "address": "広島県呉市昭和町"
+    },
+    {
+      "id": "1891",
+      "name": "原爆ドーム",
+      "image": "https://image.xinu.ink/pic/data/6481/images/1891.jpg",
+      "geo": [
+        34.3955,
+        132.4536
+      ],
+      "name_en": "Atomic Bomb Dome",
+      "address": "広島県広島市中区大手町1-10"
+    }
+  ]
+}
