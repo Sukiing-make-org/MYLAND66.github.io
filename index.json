@@ -482499,6 +482499,36 @@
           35.655959,
           139.702201
         ]
+      },
+      {
+        "id": "6278-127",
+        "name": "あて 煮込 肴 市ヶ谷",
+        "image": "https://image.xinu.ink/pic/data/6278/images/6278-127.jpg",
+        "ep": "11",
+        "geo": [
+          35.690958,
+          139.738342
+        ]
+      },
+      {
+        "id": "6278-128",
+        "name": "旧秩父橋",
+        "image": "https://image.xinu.ink/pic/data/6278/images/6278-128.jpg",
+        "ep": "11",
+        "geo": [
+          36.018543,
+          139.086488
+        ]
+      },
+      {
+        "id": "6278-129",
+        "name": "シーシャカフェ煙舞",
+        "image": "https://image.xinu.ink/pic/data/6278/images/6278-129.jpg",
+        "ep": "11",
+        "geo": [
+          35.859094,
+          139.97497
+        ]
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/6278/points.json"
@@ -490536,6 +490566,26 @@
         "geo": [
           35.693824,
           139.419616
+        ]
+      },
+      {
+        "id": "6300-24",
+        "name": "谷保天満宮",
+        "image": "https://image.xinu.ink/pic/data/6300/images/6300-24.jpg",
+        "ep": "11",
+        "geo": [
+          35.67995,
+          139.444148
+        ]
+      },
+      {
+        "id": "6300-25",
+        "name": "谷保天満宮",
+        "image": "https://image.xinu.ink/pic/data/6300/images/6300-25.jpg",
+        "ep": "11",
+        "geo": [
+          35.680091,
+          139.443709
         ]
       }
     ],
