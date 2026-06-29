@@ -39,8 +39,10 @@ jobs:
           echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
           sudo apt-get update
           sudo apt-get install -y google-chrome-stable
-          # anitabi 地图使用 WebGL, 无头环境需要 swiftshader 软件渲染
-          sudo apt-get install -y libgl1-mesa-dri libglu1-mesa libegl1-mesa
+          # anitabi 地图使用 WebGL, 无头环境用 swiftshader 软件渲染 (Chrome 自带)
+          # 安装 GL 依赖 (包名随 Ubuntu 版本变化, 用 || true 容错)
+          sudo apt-get install -y libgl1-mesa-dri libglu1-mesa libegl-mesa0 || \
+          sudo apt-get install -y libgl1-mesa-dri libglu1-mesa libegl1-mesa || true
 
       - name: Install Python dependencies
         run: |
