@@ -1,0 +1,425 @@
+[
+  {
+    "id": "3nx7mgu",
+    "name": "湯畑",
+    "image": "https://image.xinu.ink/pic/data/6672/images/3nx7mgu_1754987229734.jpg",
+    "geo": [
+      36.622662,
+      138.596541
+    ],
+    "ep": 12
+  },
+  {
+    "id": "3nxcl24",
+    "name": "御座之湯",
+    "image": "https://image.xinu.ink/pic/data/6672/images/3nxcl24_1754987681980.jpg",
+    "geo": [
+      36.622459,
+      138.596504
+    ],
+    "ep": 12
+  },
+  {
+    "id": "3ny5gpu",
+    "name": "足湯",
+    "image": "https://image.xinu.ink/pic/data/6672/images/3ny5gpu_1754989190646.jpg",
+    "geo": [
+      36.622887,
+      138.596838
+    ],
+    "ep": 12
+  },
+  {
+    "id": "3nxsrx7",
+    "name": "光泉寺の山門",
+    "image": "https://image.xinu.ink/pic/data/6672/images/3nxsrx7_1754988351188.jpg",
+    "geo": [
+      36.622125,
+      138.595988
+    ],
+    "ep": 12
+  },
+  {
+    "id": "9cwhvxo",
+    "name": "都立大学站前人行道",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9cwhvxo-1767381587914.jpg",
+    "geo": [
+      35.617349,
+      139.676466
+    ],
+    "ep": 3,
+    "s": 1390
+  },
+  {
+    "id": "9cx0bz7",
+    "name": "大学站前人行道",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9cx0bz7-1767382443672.jpg",
+    "geo": [
+      35.617232,
+      139.676507
+    ],
+    "ep": 9,
+    "s": 1060,
+    "mark": "考虑到地面的30限速放在人行道"
+  },
+  {
+    "id": "9cxv30f",
+    "name": "K&Kビル",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9cxv30f-1767383880573.jpg",
+    "geo": [
+      35.616389,
+      139.676717
+    ],
+    "ep": 9,
+    "s": 1089,
+    "mark": "这个位置才是正确的，有下沉有楼梯",
+    "cn": "药店对面"
+  },
+  {
+    "id": "9mzjs7o",
+    "name": "车站前",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9mzjs7o-1767991446948.jpg",
+    "geo": [
+      35.617425,
+      139.676418
+    ],
+    "ep": 9,
+    "s": "22：17",
+    "mark": "现实的椅子没有了，但可以根据后面的取景来，后面的没变"
+  },
+  {
+    "id": "9myo2o7",
+    "name": "埼玉県朝霞市膝折町2丁目16-10",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9myo2o7-1767989938719.jpg",
+    "geo": [
+      35.790259,
+      139.579737
+    ],
+    "ep": 7,
+    "s": "12：35",
+    "mark": "根据日本通的帖子，现在这个楼在修，不知道是要翻修还是直接没了"
+  },
+  {
+    "id": "9mzmue0",
+    "name": "车站前",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9mzmue0-1767991509524.jpg",
+    "geo": [
+      35.617438,
+      139.676409
+    ],
+    "ep": 9,
+    "s": "20：48"
+  },
+  {
+    "id": "9mznfmw",
+    "name": "车站前",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9mznfmw-1767991551436.jpg",
+    "geo": [
+      35.617429,
+      139.676404
+    ],
+    "ep": 9,
+    "s": "22：26"
+  },
+  {
+    "id": "9mzoctp",
+    "name": "车站前",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9mzoctp-1767991576513.jpg",
+    "geo": [
+      35.617445,
+      139.676363
+    ],
+    "ep": 9,
+    "s": "22：08"
+  },
+  {
+    "id": "9mzp1as",
+    "name": "车站前",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9mzp1as-1767991607874.jpg",
+    "geo": [
+      35.617466,
+      139.676418
+    ],
+    "ep": 9,
+    "s": "22：08"
+  },
+  {
+    "id": "9n177nx",
+    "name": "车站天空",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9n177nx-1767994151695.jpg",
+    "geo": [
+      35.618765,
+      139.676868
+    ],
+    "ep": 5,
+    "s": "4:05"
+  },
+  {
+    "id": "9n1n6s0",
+    "name": "ジョナサン\n都立大学​駅​前​店",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9n1n6s0-1767994878678.jpg",
+    "geo": [
+      35.618724,
+      139.676072
+    ],
+    "ep": 3,
+    "s": "21:09",
+    "mark": "根据动漫所提供的地图内容，加上动漫的外形，我在附近找到了，外形基本一致，以及消防牌，还有反光板，虽然另外一个也没了，还有天桥，虽然挺远，但还是满足动漫取景，这里就是动漫主角们聚集的餐厅"
+  },
+  {
+    "id": "9n1xj8v",
+    "name": "餐厅对面",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9n1xj8v-1767995369314.jpg",
+    "geo": [
+      35.618474,
+      139.676178
+    ],
+    "ep": 5,
+    "s": "2：11",
+    "mark": "根据动漫取景思路，应该是道路对面拍摄，但这样车站和天桥取景不满足，所以正确不大"
+  },
+  {
+    "id": "9n1zn1m",
+    "name": "餐厅前",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9n1zn1m-1767995462643.jpg",
+    "geo": [
+      35.618655,
+      139.676108
+    ],
+    "ep": 5,
+    "s": "4：07",
+    "mark": "前面有公交车站，天桥比较远"
+  },
+  {
+    "id": "9n22rj7",
+    "name": "警卫亭",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9n22rj7-1767995608270.jpg",
+    "geo": [
+      35.61741,
+      139.676514
+    ],
+    "ep": 5,
+    "s": "4：47",
+    "mark": "根据警察亭拍摄"
+  },
+  {
+    "id": "9n3g72z",
+    "name": "天桥下",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9n3g72z-1767997913421.jpg",
+    "geo": [
+      35.618001,
+      139.674628
+    ],
+    "ep": 2,
+    "s": "17：49",
+    "mark": "根据动漫来的，现实没有饮料机而且后面的楼不够"
+  },
+  {
+    "id": "9n24kil",
+    "name": "车站前",
+    "image": "",
+    "geo": [
+      35.617425,
+      139.676458
+    ]
+  },
+  {
+    "id": "9n24yps",
+    "name": "车站前",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9n24yps-1767995719079.jpg",
+    "geo": [
+      35.617425,
+      139.676458
+    ],
+    "ep": 5,
+    "s": "4：44",
+    "mark": "根据路口拍摄，忘记上传图片了"
+  },
+  {
+    "id": "9n26bgy",
+    "name": "车站前",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9n26bgy-1767995781570.jpg",
+    "geo": [
+      35.617423,
+      139.676461
+    ],
+    "ep": 5,
+    "s": "5：09"
+  },
+  {
+    "id": "9n270le",
+    "name": "车站前",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9n270le-1767995807003.jpg",
+    "geo": [
+      35.617446,
+      139.676442
+    ],
+    "ep": 5,
+    "s": "5：14"
+  },
+  {
+    "id": "9n27n6w",
+    "name": "车站前",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9n27n6w-1767995839679.jpg",
+    "geo": [
+      35.617445,
+      139.676425
+    ],
+    "ep": 5,
+    "s": "5：18"
+  },
+  {
+    "id": "9n28nqh",
+    "name": "餐厅前",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9n28nqh-1767995884838.jpg",
+    "geo": [
+      35.61865,
+      139.676118
+    ],
+    "ep": 7,
+    "s": "8：14",
+    "mark": "根据动漫取景定位"
+  },
+  {
+    "id": "9n29mlg",
+    "name": "餐厅前",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9n29mlg-1767995927152.jpg",
+    "geo": [
+      35.618666,
+      139.676148
+    ],
+    "ep": 7,
+    "s": "8：12",
+    "mark": "根据动漫取景"
+  },
+  {
+    "id": "9n2avfa",
+    "name": "dvd前",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9n2avfa-1767995987766.jpg",
+    "geo": [
+      35.616338,
+      139.676715
+    ],
+    "ep": 4,
+    "s": "12：58"
+  },
+  {
+    "id": "9n2du2v",
+    "name": "车站前",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9n2du2v-1767996122850.jpg",
+    "geo": [
+      35.617348,
+      139.676362
+    ],
+    "ep": 4,
+    "s": "10：49",
+    "mark": "根据后面的红绿灯走向，还有有凹陷的房子，以及路灯"
+  },
+  {
+    "id": "9n2gjrx",
+    "name": "车站前",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9n2gjrx-1767996252416.jpg",
+    "geo": [
+      35.617339,
+      139.676363
+    ],
+    "ep": 4,
+    "s": "11：15",
+    "mark": "向北"
+  },
+  {
+    "id": "9n2hgw7",
+    "name": "车站前",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9n2hgw7-1767996292948.jpg",
+    "geo": [
+      35.617312,
+      139.676406
+    ],
+    "ep": 4,
+    "s": "12：44",
+    "mark": "向南"
+  },
+  {
+    "id": "9n2q7so",
+    "name": "fuj银行人行道路口",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9n2q7so-1767996702545.jpg",
+    "geo": [
+      35.618327,
+      139.675343
+    ],
+    "ep": 10,
+    "s": "20：02",
+    "mark": "可以看见建筑元素基本都符合，除了被拆了的，还有银行在右面，后面还有凸起的建筑，基本符合"
+  },
+  {
+    "id": "9n2fiit",
+    "name": "车站前",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9n2fiit-1767996220601.jpg",
+    "geo": [
+      35.617323,
+      139.676374
+    ],
+    "ep": 4,
+    "s": "11：12",
+    "mark": "向南拍摄"
+  },
+  {
+    "id": "9n2stg2",
+    "name": "人行道",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9n2stg2-1767996822138.jpg",
+    "geo": [
+      35.618359,
+      139.675455
+    ],
+    "ep": 10,
+    "s": "20：06",
+    "mark": "根据动漫向右"
+  },
+  {
+    "id": "9n2we7v",
+    "name": "人行道",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9n2we7v-1767997004515.jpg",
+    "geo": [
+      35.618534,
+      139.675148
+    ],
+    "ep": 10,
+    "s": "18：19",
+    "mark": "根据动漫来的，但现实房子都没了，根本找不到"
+  },
+  {
+    "id": "9n2z2wn",
+    "name": "餐厅对面",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9n2z2wn-1767997127943.jpg",
+    "geo": [
+      35.618456,
+      139.676181
+    ],
+    "ep": 10,
+    "s": 0
+  },
+  {
+    "id": "9n38y0z",
+    "name": "天桥",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9n38y0z-1767997589800.jpg",
+    "geo": [
+      35.618011,
+      139.674688
+    ],
+    "ep": 2,
+    "s": "14：02",
+    "mark": "根据动漫取景，上下都是一个方向，南面的天桥没有禁止的标识，北面的楼房高度不够，但这个天桥的取景不满足动漫的前后文，只能一半正确，各位可以找一找一定正确的"
+  },
+  {
+    "id": "9n2tmix",
+    "name": "人行道",
+    "image": "https://image.xinu.ink/pic/data/6672/images/9n2tmix-1767996873805.jpg",
+    "geo": [
+      35.618384,
+      139.675526
+    ],
+    "ep": 10,
+    "s": "20：15",
+    "mark": "现实不太符合，但动漫走向符合"
+  }
+]

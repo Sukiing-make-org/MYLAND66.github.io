@@ -1,0 +1,144 @@
+[
+  {
+    "id": "afn6yq",
+    "name": "東埼灯台",
+    "image": "https://image.xinu.ink/pic/data/6655/images/afn6yq-1747641365886.jpg",
+    "geo": [
+      24.462377,
+      123.04293
+    ],
+    "mark": "背景的两个风力发电机其中一个已经被拆除，目前(2025年)只剩左侧的一尊。東埼灯台上的设施在游戏中有改变，此点还原需要无人机，灯台处难以辨认"
+  },
+  {
+    "id": "2fnoaal",
+    "name": "久部良港",
+    "image": "https://image.xinu.ink/pic/data/6655/images/2fnoaal-1752310691816.jpg",
+    "geo": [
+      24.449746,
+      122.941051
+    ],
+    "mark": "男主登岛的地方",
+    "origin": "wahu"
+  },
+  {
+    "id": "2fo76ei",
+    "name": "桥边",
+    "image": "https://image.xinu.ink/pic/data/6655/images/2fo76ei-1752311558506.jpg",
+    "geo": [
+      24.472012,
+      123.002345
+    ],
+    "mark": "根据剧情推测（实际场景右边有地形）",
+    "origin": "wahu"
+  },
+  {
+    "id": "2fo5e1n",
+    "name": "ダイビングショップサーウェスヨナグニ",
+    "image": "https://image.xinu.ink/pic/data/6655/images/2fo5e1n-1752311475074.jpg",
+    "geo": [
+      24.47134,
+      123.002929
+    ],
+    "mark": "但实际上是潜水用品店，且离海边有一定距离"
+  },
+  {
+    "id": "2fo3inu",
+    "name": "民家",
+    "image": "https://image.xinu.ink/pic/data/6655/images/2fo3inu-1752311388373.jpg",
+    "geo": [
+      24.469527,
+      123.001775
+    ],
+    "mark": "拍摄注意，在邮局的旁边",
+    "origin": "wahu"
+  },
+  {
+    "id": "2fo1659",
+    "name": "ホテル入船",
+    "image": "https://image.xinu.ink/pic/data/6655/images/2fo1659-1752311277949.jpg",
+    "geo": [
+      24.470148,
+      123.002473
+    ],
+    "mark": "现已经停业\n",
+    "origin": "wahu"
+  },
+  {
+    "id": "2fo0b0f",
+    "name": "ホテル入船",
+    "image": "https://image.xinu.ink/pic/data/6655/images/2fo0b0f-1752311240143.jpg",
+    "geo": [
+      24.470131,
+      123.002478
+    ],
+    "mark": "现已被夷为平地",
+    "origin": "wahu"
+  },
+  {
+    "id": "2fnzi42",
+    "name": "ホテル入船",
+    "image": "https://image.xinu.ink/pic/data/6655/images/2fnzi42-1752311202318.jpg",
+    "geo": [
+      24.470156,
+      123.002437
+    ],
+    "mark": "现已停业，取景为本馆\n现已经被夷为平地",
+    "origin": "wahu"
+  },
+  {
+    "id": "2fnra57",
+    "name": "Pension Southern Smile",
+    "image": "https://image.xinu.ink/pic/data/6655/images/2fnra57-1752310849179.jpg",
+    "geo": [
+      24.451657,
+      122.943255
+    ],
+    "mark": "男主居住的旅馆，实际为钓鱼俱乐部之类的，招牌已经更换",
+    "origin": "wahu"
+  },
+  {
+    "id": "2fobts7",
+    "name": "一般甘蔗田",
+    "image": "https://image.xinu.ink/pic/data/6655/images/2fobts7-1752311779021.jpg",
+    "geo": [
+      24.458872,
+      123.026369
+    ],
+    "mark": "猫小节之墓旁",
+    "origin": "wahu",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=145Sfy_5kqACWFtBQOn3orli8eRQ&ll=24.459594007678675%2C122.98528635455337&z=14"
+  },
+  {
+    "id": "2fofgjy",
+    "name": "沙滩",
+    "image": "https://image.xinu.ink/pic/data/6655/images/2fofgjy-1752311951180.jpg",
+    "geo": [
+      24.442762,
+      122.983485
+    ],
+    "mark": "五岛医生诊所旁",
+    "origin": "wahu"
+  },
+  {
+    "id": "62u1ga6",
+    "name": "ティンダバナ（ティンダハナタ）",
+    "image": "https://image.xinu.ink/pic/data/6655/images/62u1ga6-1760242451993.jpg",
+    "geo": [
+      24.465306,
+      122.999596
+    ],
+    "s": 12066066,
+    "originURL": "https://dtman.info/seichijunrei-natsuzorakanata-okinawa-yonakunijima-kyoto-kifunejinzya-eizandentetsu-yuzusoft/",
+    "cn": "通往神社的小路"
+  },
+  {
+    "id": "ai1dvw4",
+    "name": "總本社貴船神社",
+    "image": "https://image.xinu.ink/pic/data/6655/images/ai1dvw4-1769868919436.jpg",
+    "geo": [
+      35.121574,
+      135.76291
+    ],
+    "cn": "总本社贵船神社"
+  }
+]

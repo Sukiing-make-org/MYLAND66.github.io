@@ -1,0 +1,108 @@
+[
+  {
+    "id": "u3zqjxjfp",
+    "name": "恐山",
+    "image": "https://image.xinu.ink/pic/data/6645/images/u3zqjxjfp-1743089433877.jpg",
+    "geo": [
+      41.308885,
+      141.085687
+    ],
+    "ep": "op",
+    "s": 100
+  },
+  {
+    "id": "u63592i6s",
+    "name": "伏見稲荷大社",
+    "image": "https://image.xinu.ink/pic/data/6645/images/u63592i6s-1743254750909.jpg",
+    "geo": [
+      34.967051,
+      135.774576
+    ],
+    "ep": "op",
+    "s": 81
+  },
+  {
+    "id": "bajynsd",
+    "name": "新宿コマ劇場",
+    "image": "https://image.xinu.ink/pic/data/6645/images/bajynsd-1771593329479.jpg",
+    "geo": [
+      35.694986,
+      139.701492
+    ],
+    "ep": 8,
+    "s": 169,
+    "mark": "东宝大厦前身为新宿コマ劇場，于2008年5月闭馆随后拆卸重建，动画第一季于2005年播出，剧场当时尚在营运",
+    "origin": "aozumi"
+  },
+  {
+    "id": "band9rj",
+    "name": "銀座四丁目",
+    "image": "https://image.xinu.ink/pic/data/6645/images/band9rj-1771598921675.jpg",
+    "geo": [
+      35.671287,
+      139.76505
+    ],
+    "ep": 9,
+    "s": 188,
+    "origin": "aozumi"
+  },
+  {
+    "id": "bann93e",
+    "name": "阿佐谷パールセンター 商店街",
+    "image": "https://image.xinu.ink/pic/data/6645/images/bann93e-1771599442138.jpg",
+    "geo": [
+      35.70437,
+      139.636659
+    ],
+    "ep": 9,
+    "s": 577,
+    "origin": "aozumi"
+  },
+  {
+    "id": "bbbogeo",
+    "name": "渋谷スクランブル交差点",
+    "image": "https://image.xinu.ink/pic/data/6645/images/bbbogeo-1771639733124.jpg",
+    "geo": [
+      35.659482,
+      139.70053
+    ],
+    "ep": 11,
+    "s": 115,
+    "origin": "aozumi"
+  },
+  {
+    "id": "bberxnw",
+    "name": "三ノ輪橋駅",
+    "image": "https://image.xinu.ink/pic/data/6645/images/bberxnw-1771644946218.jpg",
+    "geo": [
+      35.732503,
+      139.791038
+    ],
+    "ep": 13,
+    "s": 814,
+    "origin": "aozumi"
+  },
+  {
+    "id": "bbeybw4",
+    "name": "梅沢写真会館",
+    "image": "https://image.xinu.ink/pic/data/6645/images/bbeybw4-1771645330655.jpg",
+    "geo": [
+      35.731933,
+      139.792467
+    ],
+    "ep": 13,
+    "s": 815,
+    "origin": "aozumi"
+  },
+  {
+    "id": "bd0mjyh",
+    "name": "センターホテル 東京",
+    "image": "https://image.xinu.ink/pic/data/6645/images/bd0mjyh-1771742194905.jpg",
+    "geo": [
+      35.67934,
+      139.776067
+    ],
+    "ep": 22,
+    "mark": "东京的中央酒店只有这间以前用绿色招牌，使用的字体也相近，第七估计指的是楼下的7-11便利店"
+  }
+]

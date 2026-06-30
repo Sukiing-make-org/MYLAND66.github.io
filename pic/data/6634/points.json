@@ -1,0 +1,142 @@
+[
+  {
+    "id": "5op0oth",
+    "name": "成蹊学園ケヤキ並木",
+    "image": "https://image.xinu.ink/pic/data/6634/images/5op0oth_1759387475184.jpg",
+    "geo": [
+      35.710316,
+      139.57266
+    ],
+    "ep": "先导PV",
+    "s": 4,
+    "mark": "来源X：https://x.com/ssslocation/status/1973443137453584807",
+    "cn": "成蹊学園前"
+  },
+  {
+    "id": "5nt035t",
+    "name": "西武新宿駅前",
+    "image": "https://image.xinu.ink/pic/data/6634/images/5nt035t-1759333729915.jpg",
+    "geo": [
+      35.693887,
+      139.700587
+    ],
+    "ep": "先导PV",
+    "s": 5,
+    "cn": "西武新宿站前"
+  },
+  {
+    "id": "cpj5dwd",
+    "name": "銚子電鉄銚子駅",
+    "image": "https://image.xinu.ink/pic/data/6634/images/cpj5dwd_1774675564060.jpg",
+    "geo": [
+      35.729338,
+      140.828057
+    ],
+    "ep": "先导PV",
+    "s": 25,
+    "mark": "站台向南望\n来源：https://x.com/ssslocation/status/1973887940804936060?s=20"
+  },
+  {
+    "id": "5opqit4",
+    "name": "犬吠駅",
+    "image": "https://image.xinu.ink/pic/data/6634/images/5opqit4_1759388711510.jpg",
+    "geo": [
+      35.706329,
+      140.861041
+    ],
+    "ep": "先导PV",
+    "s": 34,
+    "mark": "谷歌街景，点开靠近线路的全景照片，站台向站厅方向看，即为所求\n来源X：https://x.com/ssslocation/status/1973393164108021949",
+    "cn": "犬吠站"
+  },
+  {
+    "id": "5opwwax",
+    "name": "金沢八景駅",
+    "image": "https://image.xinu.ink/pic/data/6634/images/5opwwax_1759388992370.jpg",
+    "geo": [
+      35.331202,
+      139.620146
+    ],
+    "ep": "先导PV",
+    "s": 37,
+    "mark": "来源X：https://x.com/ssslocation/status/1973393164108021949",
+    "cn": "金泽八景站"
+  },
+  {
+    "id": "5opjser",
+    "name": "江迎川橋梁",
+    "image": "https://image.xinu.ink/pic/data/6634/images/5opjser_1759388395374.jpg",
+    "geo": [
+      33.303376,
+      129.634024
+    ],
+    "ep": "先导PV",
+    "s": 41,
+    "mark": "【存疑】根据X情报是这片区域，但是具体是不是这座桥不清楚\n来源X：https://x.com/ssslocation/status/1973393164108021949",
+    "cn": "江迎川桥"
+  },
+  {
+    "id": "5ntx2o5",
+    "name": "坂田駅",
+    "image": "https://image.xinu.ink/pic/data/6634/images/5ntx2o5_1759335239104.jpg",
+    "geo": [
+      35.335967,
+      136.287735
+    ],
+    "ep": "先导PV",
+    "s": 53,
+    "mark": "【存疑】站台栏杆与实地不符，但是站名，标志色和背景相符",
+    "cn": "坂田站"
+  },
+  {
+    "id": "cphg8b8",
+    "name": "西武新宿駅",
+    "image": "https://image.xinu.ink/pic/data/6634/images/cphg8b8_1774672772342.jpg",
+    "geo": [
+      35.695347,
+      139.700009
+    ],
+    "ep": "PV1",
+    "s": 10,
+    "mark": "右侧车辆为西武30000系スマイルトレイン，左侧车辆为西武10000系ニューレッドアロー（车体上NRA字样）",
+    "cn": "西武新宿站"
+  },
+  {
+    "id": "cphov5c",
+    "name": "鐘つき通り",
+    "image": "https://image.xinu.ink/pic/data/6634/images/cphov5c_1774673153803.jpg",
+    "geo": [
+      35.923418,
+      139.483097
+    ],
+    "ep": "PV1",
+    "s": 23,
+    "mark": "右侧为标牌为近長魚店"
+  },
+  {
+    "id": "cph7von",
+    "name": "海鹿島駅",
+    "image": "https://image.xinu.ink/pic/data/6634/images/cph7von_1774672356183.jpg",
+    "geo": [
+      35.72181,
+      140.863588
+    ],
+    "ep": "PV1",
+    "s": 52,
+    "mark": "铫子电气铁道线海鹿岛站，关东地方最东端车站。",
+    "cn": "海鹿岛站"
+  },
+  {
+    "id": "cphbbe6",
+    "name": "海鹿島駅",
+    "image": "https://image.xinu.ink/pic/data/6634/images/cphbbe6_1774672477267.jpg",
+    "geo": [
+      35.721779,
+      140.863516
+    ],
+    "ep": "PV1",
+    "s": 56,
+    "mark": "关东地方最东端车站标",
+    "cn": "海鹿岛站内"
+  }
+]

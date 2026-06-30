@@ -1,0 +1,71 @@
+[
+  {
+    "id": "35c96wz",
+    "name": "JR札幌駅南口",
+    "image": "https://image.xinu.ink/pic/data/6680/images/35c96wz_1753863650849.jpg",
+    "geo": [
+      43.067069,
+      141.350444
+    ],
+    "ep": 7,
+    "mark": "#07"
+  },
+  {
+    "id": "35cmcgn",
+    "name": "JR札幌駅西コンコース南口",
+    "image": "https://image.xinu.ink/pic/data/6680/images/35cmcgn_1753864765924.jpg",
+    "geo": [
+      43.067767,
+      141.350284
+    ],
+    "ep": 7,
+    "mark": "#07　妙夢"
+  },
+  {
+    "id": "33o2d8n",
+    "name": "札幌ドーム",
+    "image": "https://image.xinu.ink/pic/data/6680/images/33o2d8n_1753762550005.jpg",
+    "geo": [
+      43.015118,
+      141.409748
+    ],
+    "ep": 11,
+    "mark": "#11"
+  },
+  {
+    "id": "967seds",
+    "name": "晴海グランドホテル",
+    "image": "https://image.xinu.ink/pic/data/6680/images/967seds-1766977453050.jpg",
+    "geo": [
+      35.654855,
+      139.780056
+    ],
+    "ep": 7,
+    "s": 718,
+    "cn": "学生会下榻的酒店"
+  },
+  {
+    "id": "968abz7",
+    "name": "アクアシティお台場・自販機前",
+    "image": "https://image.xinu.ink/pic/data/6680/images/968abz7-1766978330852.jpg",
+    "geo": [
+      35.626728,
+      139.772597
+    ],
+    "ep": 7,
+    "s": 1215,
+    "cn": "学生会众人在自动贩卖机前买喝的"
+  },
+  {
+    "id": "968rsow",
+    "name": "青海駅南出口",
+    "image": "https://image.xinu.ink/pic/data/6680/images/968rsow-1766979078955.jpg",
+    "geo": [
+      35.624742,
+      139.781788
+    ],
+    "ep": 7,
+    "s": 1288,
+    "cn": "学生会5人合影"
+  }
+]

@@ -35,5 +35,27 @@
     ],
     "origin": "Anitabi@卜卜口",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "51rbwkeee",
+    "name": "明石海峡大桥",
+    "image": "https://image.xinu.ink/pic/data/24/images/51rbwkeee_1672386655412.jpg",
+    "geo": [
+      34.6171,
+      135.021061
+    ],
+    "ep": 2
+  },
+  {
+    "id": "ulh0z9ti1",
+    "name": "神戸港",
+    "image": "https://image.xinu.ink/pic/data/24/images/ulh0z9ti1_1744459255851.jpg",
+    "geo": [
+      34.695992,
+      135.251105
+    ],
+    "ep": 21,
+    "s": 473,
+    "cn": "神户港"
   }
 ]
