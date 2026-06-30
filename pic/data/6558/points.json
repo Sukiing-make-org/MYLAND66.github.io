@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ay66b1j",
+    "name": "太田川ダム",
+    "image": "https://image.xinu.ink/pic/data/6558/images/ay66b1j_1770845197834.jpg",
+    "geo": [
+      34.905615,
+      137.993781
+    ]
+  },
+  {
+    "id": "ay6b7nm",
+    "name": "祖谷口駅",
+    "image": "https://image.xinu.ink/pic/data/6558/images/ay6b7nm_1770845154733.jpg",
+    "geo": [
+      33.972476,
+      133.780464
+    ]
+  },
+  {
+    "id": "ay6e6ho",
+    "name": "祖谷口駅",
+    "image": "https://image.xinu.ink/pic/data/6558/images/ay6e6ho_1770845163960.jpg",
+    "geo": [
+      33.972383,
+      133.780317
+    ]
+  },
+  {
+    "id": "ay6fhts",
+    "name": "明石市立天文科学馆",
+    "image": "https://image.xinu.ink/pic/data/6558/images/ay6fhts_1770845213533.jpg",
+    "geo": [
+      34.649418,
+      135.001442
+    ],
+    "mark": "装修中，预计时间2025年10月1日 - 2026年夏"
+  },
+  {
+    "id": "ay6shw6",
+    "name": "富士川町​民俗​資料館",
+    "image": "https://image.xinu.ink/pic/data/6558/images/ay6shw6_1770846644874.jpg",
+    "geo": [
+      35.563671,
+      138.458277
+    ],
+    "mark": "仅建筑部分相似"
+  },
+  {
+    "id": "ay7vypd",
+    "name": "国立​天文台\n野辺山​電波​天文台",
+    "image": "https://image.xinu.ink/pic/data/6558/images/ay7vypd_1770847293464.jpg",
+    "geo": [
+      35.940966,
+      138.470243
+    ]
+  },
+  {
+    "id": "g73focn",
+    "name": "ショッピングストア-サキカワ",
+    "image": "https://image.xinu.ink/pic/data/6558/images/g73focn-1782269583388.webp",
+    "geo": [
+      33.97245,
+      133.780694
+    ],
+    "mark": "祖谷口（见晴台）站前的小商店。游戏中的早乙女商店在另一站（三香月）前，两者可能并无关联。",
+    "origin": "BlackTeaPro",
+    "cn": "崎川商店"
+  },
+  {
+    "id": "g74asq0",
+    "name": "JR三日月駅",
+    "image": "https://image.xinu.ink/pic/data/6558/images/g74asq0-1782269403068.webp",
+    "geo": [
+      34.98482,
+      134.435783
+    ],
+    "mark": "可能是游戏中三香月站（读音都是mikazuki）。相似度不高。站前没有类似的商店。",
+    "origin": "BlackTeaPro",
+    "cn": "JR三日月站"
+  }
+]

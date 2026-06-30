@@ -1,0 +1,582 @@
+[
+  {
+    "id": "g3h8itu",
+    "name": "上野広小路交差点",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3h8itu_1782049254124.webp",
+    "geo": [
+      35.707987,
+      139.773135
+    ],
+    "ep": "OP1",
+    "s": 1,
+    "mark": "左侧为松坂屋上野店。",
+    "folder": "中央通り"
+  },
+  {
+    "id": "g3h7mj5",
+    "name": "中央通り",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3h7mj5_1782049186818.webp",
+    "geo": [
+      35.70738,
+      139.772977
+    ],
+    "ep": "OP1",
+    "s": 1,
+    "folder": "中央通り"
+  },
+  {
+    "id": "g3h6jgg",
+    "name": "中央通り",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3h6jgg_1782049234932.webp",
+    "geo": [
+      35.706955,
+      139.772796
+    ],
+    "ep": "OP1",
+    "s": 1,
+    "folder": "中央通り"
+  },
+  {
+    "id": "g3h4syw",
+    "name": "黒門小学校入口交差点",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3h4syw_1782049064253.webp",
+    "geo": [
+      35.706367,
+      139.772461
+    ],
+    "ep": "OP1",
+    "s": 1,
+    "folder": "中央通り"
+  },
+  {
+    "id": "g3h39gd",
+    "name": "中央通り",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3h39gd_1782049009333.webp",
+    "geo": [
+      35.705366,
+      139.772049
+    ],
+    "ep": "OP1",
+    "s": 1,
+    "mark": "最右侧露出一部分的建筑为オリックス上野1丁目ビル。",
+    "folder": "中央通り"
+  },
+  {
+    "id": "g3h0mst",
+    "name": "中央通り",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3h0mst_1782048862521.webp",
+    "geo": [
+      35.704561,
+      139.771956
+    ],
+    "ep": "OP1",
+    "s": 1,
+    "mark": "右侧建筑为明治​安田​生命​末広町​ビル。",
+    "folder": "中央通り"
+  },
+  {
+    "id": "g3gzmsa",
+    "name": "中央通り",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3gzmsa_1782048814430.webp",
+    "geo": [
+      35.703863,
+      139.771875
+    ],
+    "ep": "OP1",
+    "s": 1,
+    "folder": "中央通り"
+  },
+  {
+    "id": "g3gylr8",
+    "name": "外神田五丁目交差点",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3gylr8_1782048771545.webp",
+    "geo": [
+      35.70294,
+      139.771789
+    ],
+    "ep": "OP1",
+    "s": 1,
+    "mark": "右侧建筑为秋葉原​三和​東洋​ビルディング。",
+    "folder": "中央通り"
+  },
+  {
+    "id": "g3gwp0k",
+    "name": "中央通り",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3gwp0k_1782048674002.webp",
+    "geo": [
+      35.702155,
+      139.77168
+    ],
+    "ep": "OP1",
+    "s": 1,
+    "folder": "中央通り"
+  },
+  {
+    "id": "g3gumbo",
+    "name": "中央通り",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3gumbo_1782048585601.webp",
+    "geo": [
+      35.700957,
+      139.771571
+    ],
+    "ep": "OP1",
+    "s": 1,
+    "mark": "左侧为堂吉诃德秋叶原店。",
+    "folder": "中央通り"
+  },
+  {
+    "id": "g3gqlhd",
+    "name": "中央通り",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3gqlhd_1782048397503.webp",
+    "geo": [
+      35.700188,
+      139.77148
+    ],
+    "ep": "OP1",
+    "s": 2,
+    "mark": "右侧建筑为住友​不動産​秋葉原​ビル。",
+    "folder": "中央通り"
+  },
+  {
+    "id": "g3glanl",
+    "name": "秋葉原駅北西 交差点",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3glanl_1782048420417.webp",
+    "geo": [
+      35.699642,
+      139.771412
+    ],
+    "ep": "OP1",
+    "s": 2,
+    "mark": "右侧建筑是大黒屋 質秋葉原買取センター。",
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3go4uk",
+    "name": "秋葉原駅西",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3go4uk_1782048282540.webp",
+    "geo": [
+      35.699232,
+      139.771381
+    ],
+    "ep": "OP1",
+    "s": 2,
+    "mark": "右侧建筑为買取販売市場ムーランAKIBA中央通りホビー館和GiGO秋葉原3号館。",
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3gcgmi",
+    "name": "御成街道架道橋",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3gcgmi_1782047734183.webp",
+    "geo": [
+      35.698649,
+      139.771323
+    ],
+    "ep": "OP1",
+    "s": 2,
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3gafay",
+    "name": "秋葉原駅西",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3gafay_1782047704135.webp",
+    "geo": [
+      35.698409,
+      139.771309
+    ],
+    "ep": "OP1",
+    "s": 2,
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3g6rwx",
+    "name": "秋葉原駅西",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3g6rwx_1782047473671.webp",
+    "geo": [
+      35.697826,
+      139.77126
+    ],
+    "ep": "OP1",
+    "s": 2,
+    "mark": "最左侧建筑为半田ビル，目前里面有GiGO秋葉原2号館和カラオケまねきねこ秋葉原電気街口店。",
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3g5799",
+    "name": "万世橋交差点",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3g5799_1782047396882.webp",
+    "geo": [
+      35.697609,
+      139.771233
+    ],
+    "ep": "OP1",
+    "s": 2,
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3g3a6r",
+    "name": "秋葉原駅南",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3g3a6r_1782047313485.webp",
+    "geo": [
+      35.697571,
+      139.771518
+    ],
+    "ep": "OP1",
+    "s": 2,
+    "mark": "右侧建筑是万世桥警察局。",
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3g43wo",
+    "name": "秋葉原駅南",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3g43wo_1782047351737.webp",
+    "geo": [
+      35.697549,
+      139.772073
+    ],
+    "ep": "OP1",
+    "s": 2,
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3g213a",
+    "name": "佐久間橋架道橋",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3g213a_1782047240974.webp",
+    "geo": [
+      35.697545,
+      139.772895
+    ],
+    "ep": "OP1",
+    "s": 2,
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3fzwll",
+    "name": "佐久間橋架道橋",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3fzwll_1782047142794.webp",
+    "geo": [
+      35.69754,
+      139.773341
+    ],
+    "ep": "OP1",
+    "s": 2,
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3fxlue",
+    "name": "秋葉原駅南東 交差点",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3fxlue_1782047115372.webp",
+    "geo": [
+      35.697532,
+      139.773867
+    ],
+    "ep": "OP1",
+    "s": 3,
+    "mark": "飞船在此向左拐。",
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3fwgjd",
+    "name": "秋葉原駅東",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3fwgjd_1782046994995.webp",
+    "geo": [
+      35.697791,
+      139.773956
+    ],
+    "ep": "OP1",
+    "s": 3,
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3fsruv",
+    "name": "昭和橋架道橋",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3fsruv_1782046821446.webp",
+    "geo": [
+      35.698278,
+      139.774123
+    ],
+    "ep": "OP1",
+    "s": 3,
+    "mark": "総武本線的高架下。",
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3fr8gm",
+    "name": "秋葉原駅東",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3fr8gm_1782046753325.webp",
+    "geo": [
+      35.698765,
+      139.774251
+    ],
+    "ep": "OP1",
+    "s": 3,
+    "mark": "右侧建筑为ヨドバシカメラ。",
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3fnff5",
+    "name": "秋葉原駅東",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3fnff5_1782046620943.webp",
+    "geo": [
+      35.699229,
+      139.774315
+    ],
+    "ep": "OP1",
+    "s": 3,
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3fpzps",
+    "name": "秋葉原駅北 交差点",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3fpzps_1782046684204.webp",
+    "geo": [
+      35.699397,
+      139.774329
+    ],
+    "ep": "OP1",
+    "s": 3,
+    "mark": "飞碟在此路口左转。",
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3flee8",
+    "name": "秋葉原駅北 交差点",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3flee8_1782046512369.webp",
+    "geo": [
+      35.699434,
+      139.774292
+    ],
+    "ep": "OP1",
+    "s": 3,
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3f8m5i",
+    "name": "明神坂架道橋",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3f8m5i_1782045872990.webp",
+    "geo": [
+      35.699493,
+      139.773692
+    ],
+    "ep": "OP1",
+    "s": 3,
+    "mark": "新干线高架下，不过这里画面最前方的实际是人行天桥。",
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3f5dpg",
+    "name": "明神坂架道橋",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3f5dpg_1782045718546.webp",
+    "geo": [
+      35.699501,
+      139.773454
+    ],
+    "ep": "OP1",
+    "s": 3,
+    "mark": "東北本線高架下。",
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3f263m",
+    "name": "秋叶原駅北 交差点",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3f263m_1782045684785.webp",
+    "geo": [
+      35.699531,
+      139.772914
+    ],
+    "ep": "OP1",
+    "s": 4,
+    "mark": "秋叶原站北侧的路口，前方大楼为秋葉原ダイビル。飞碟抵达此处后左转。",
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3eke17",
+    "name": "秋叶原駅 電気街口",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3eke17_1782044798642.webp",
+    "geo": [
+      35.698665,
+      139.772574
+    ],
+    "ep": "OP1",
+    "s": 4,
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3hvs3w",
+    "name": "秋葉原",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3hvs3w_1782050322856.webp",
+    "geo": [
+      35.698543,
+      139.773104
+    ],
+    "ep": "OP1",
+    "s": 13,
+    "mark": "秋叶原站上空的地图。",
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3itage",
+    "name": "日拓秋葉原中央通りビル",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3itage_1782051888337.webp",
+    "geo": [
+      35.699065,
+      139.771484
+    ],
+    "ep": "OP1",
+    "s": 14,
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3lq1pg",
+    "name": "日拓秋葉原中央通りビル",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3lq1pg_1782056789174.webp",
+    "geo": [
+      35.69917,
+      139.771488
+    ],
+    "ep": "OP1",
+    "s": 18,
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3iuvby",
+    "name": "秋葉原電波会館",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3iuvby_1782052020031.webp",
+    "geo": [
+      35.698581,
+      139.771587
+    ],
+    "ep": "OP1",
+    "s": 24,
+    "mark": "电波会馆北侧。",
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3kmv1p",
+    "name": "秋葉原電波会館",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3kmv1p_1782054932628.webp",
+    "geo": [
+      35.698543,
+      139.771424
+    ],
+    "ep": "OP1",
+    "s": 28,
+    "mark": "电波会馆南侧。",
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3j64bo",
+    "name": "秋葉原UDX",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3j64bo_1782052471074.webp",
+    "geo": [
+      35.699748,
+      139.772399
+    ],
+    "ep": "OP1",
+    "s": 28,
+    "mark": "通向秋叶原UDX的人行天桥上方的屏幕。\nhttps://maps.app.goo.gl/BBLG9kN81eLLHvTV7",
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3j2sy5",
+    "name": "秋葉原UDX",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3j2sy5_1782052321206.webp",
+    "geo": [
+      35.699682,
+      139.772348
+    ],
+    "ep": "OP1",
+    "s": 32,
+    "mark": "这个视角在现实中可能难以拍摄，应该需要使用广角。\nhttps://maps.app.goo.gl/LS2XHJpvy2Ci6EK39",
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3hzub8",
+    "name": "中央通り",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3hzub8_1782050514913.webp",
+    "geo": [
+      35.700319,
+      139.77144
+    ],
+    "ep": "OP1",
+    "s": 59,
+    "mark": "最左侧建筑是タイトーステーション 秋葉原店，最右侧建筑是住友​不動産​秋葉原​ビル，前方远处是总武本线高架。要还原这个视觉效果可能需要在更远的地方用长焦拍摄。",
+    "folder": "中央通り"
+  },
+  {
+    "id": "g3ie2n7",
+    "name": "御成街道架道橋",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3ie2n7_1782051204954.webp",
+    "geo": [
+      35.698493,
+      139.771131
+    ],
+    "ep": "OP1",
+    "s": 68,
+    "mark": "几人是站在铁道高架上唱歌的，画面右侧是秋叶原站的高架站台，左侧是第122東京ビル和BiTO AKIBA。",
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3ijsj6",
+    "name": "御成街道架道橋",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3ijsj6_1782051429615.webp",
+    "geo": [
+      35.698592,
+      139.771266
+    ],
+    "ep": "OP1",
+    "s": 68,
+    "mark": "上一个画面几个人是面向南侧的，这个画面就变成面向北侧了。",
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3i4iog",
+    "name": "御成街道架道橋",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3i4iog_1782050764424.webp",
+    "geo": [
+      35.698581,
+      139.771264
+    ],
+    "ep": "OP1",
+    "s": 70,
+    "mark": "总武本线高架下。",
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3ipecb",
+    "name": "御成街道架道橋",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3ipecb_1782051692631.webp",
+    "geo": [
+      35.698575,
+      139.771241
+    ],
+    "ep": "OP1",
+    "s": 71,
+    "mark": "海豚图案在现实中是薬 マツモトキヨシ アキバ店。",
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3i7j1z",
+    "name": "中央通り",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3i7j1z_1782050868166.webp",
+    "geo": [
+      35.698496,
+      139.771255
+    ],
+    "ep": "OP1",
+    "s": 74,
+    "mark": "https://maps.app.goo.gl/Www34sMQNyiPEAqS8",
+    "folder": "秋叶原駅"
+  },
+  {
+    "id": "g3i9av2",
+    "name": "中央通り",
+    "image": "https://image.xinu.ink/pic/data/6563/images/g3i9av2_1782050952460.webp",
+    "geo": [
+      35.699649,
+      139.771364
+    ],
+    "ep": "OP1",
+    "s": 81,
+    "folder": "秋叶原駅"
+  }
+]

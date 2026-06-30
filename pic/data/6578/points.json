@@ -1,0 +1,52 @@
+[
+  {
+    "id": "fj7cube",
+    "name": "Hollywood Sign",
+    "image": "https://image.xinu.ink/pic/data/6578/images/fj7cube-1780823451198.jpg",
+    "geo": [
+      34.134095,
+      -118.321626
+    ],
+    "folder": "洛杉矶",
+    "cn": "好莱坞标志"
+  },
+  {
+    "id": "fj811sz",
+    "name": "Beverly Hills Sign",
+    "image": "https://image.xinu.ink/pic/data/6578/images/fj811sz-1780824485642.jpg",
+    "geo": [
+      34.07242,
+      -118.40354
+    ],
+    "ep": "01",
+    "s": "00:12:08",
+    "folder": "洛杉矶",
+    "cn": "比弗利山庄标志"
+  },
+  {
+    "id": "fj7o0c0",
+    "name": "Tom Bradley International Terminal",
+    "image": "https://image.xinu.ink/pic/data/6578/images/fj7o0c0-1780823894884.jpg",
+    "geo": [
+      33.94393,
+      -118.408287
+    ],
+    "ep": "01",
+    "s": "00:09:08",
+    "mark": "洛杉矶国际机场汤姆·布拉德利国际航站楼的到达出口，位于机场一楼。",
+    "folder": "洛杉矶"
+  },
+  {
+    "id": "fj86zk7",
+    "name": "Los Angeles County Superior Court Stanley Mosk Courthouse",
+    "image": "https://image.xinu.ink/pic/data/6578/images/fj86zk7-1780824745788.jpg",
+    "geo": [
+      34.054858,
+      -118.246274
+    ],
+    "ep": "02",
+    "s": "00:13:19.381",
+    "folder": "洛杉矶",
+    "cn": "洛杉矶高级法院 斯坦利·莫斯克法庭"
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "id": "f36p6uk",
+    "name": "坂ノ下",
+    "image": "https://image.xinu.ink/pic/data/6582/images/f36p6uk-1779859991100.jpg",
+    "geo": [
+      35.305459,
+      139.532618
+    ],
+    "ep": 28,
+    "s": 213,
+    "cn": "坂之下海边公路"
+  },
+  {
+    "id": "f3a3xpb",
+    "name": "鎌倉高校前",
+    "image": "https://image.xinu.ink/pic/data/6582/images/f3a3xpb-1779860502605.jpg",
+    "geo": [
+      35.306713,
+      139.500422
+    ],
+    "ep": 11,
+    "s": 438,
+    "cn": "鎌倉高校前"
+  },
+  {
+    "id": "f3a7o45",
+    "name": "江ノ舄電鉄線藤沢駅",
+    "image": "https://image.xinu.ink/pic/data/6582/images/f3a7o45-1779860662866.jpg",
+    "geo": [
+      35.337174,
+      139.487366
+    ],
+    "s": 3209,
+    "cn": "江之岛电铁藤泽站"
+  },
+  {
+    "id": "f3a9zj2",
+    "name": "七里ヶ浜",
+    "image": "https://image.xinu.ink/pic/data/6582/images/f3a9zj2-1779860816077.jpg",
+    "geo": [
+      35.304903,
+      139.510817
+    ],
+    "ep": 6,
+    "s": 555,
+    "cn": "七里滨海岸"
+  },
+  {
+    "id": "f3adyqw",
+    "name": "長柄隧道",
+    "image": "https://image.xinu.ink/pic/data/6582/images/f3adyqw-1779860941572.jpg",
+    "geo": [
+      35.283493,
+      139.577979
+    ],
+    "ep": 23,
+    "s": 489,
+    "cn": "長柄隧道"
+  },
+  {
+    "id": "f3aj55w",
+    "name": "建長寺寺標",
+    "image": "https://image.xinu.ink/pic/data/6582/images/f3aj55w-1779861218650.jpg",
+    "geo": [
+      35.331004,
+      139.552451
+    ],
+    "ep": 20,
+    "s": 265,
+    "cn": "建长寺"
+  },
+  {
+    "id": "f3aw6lq",
+    "name": "释迦堂切通し",
+    "image": "https://image.xinu.ink/pic/data/6582/images/f3aw6lq-1779861795669.jpg",
+    "geo": [
+      35.317708,
+      139.564712
+    ],
+    "ep": 1,
+    "s": 349,
+    "mark": "26.5.27地点因安全问题未开放",
+    "cn": "释迦堂通道"
+  },
+  {
+    "id": "f3b42i7",
+    "name": "明神烏居（龍口明神社）",
+    "image": "https://image.xinu.ink/pic/data/6582/images/f3b42i7-1779862246593.jpg",
+    "geo": [
+      35.310834,
+      139.489304
+    ],
+    "ep": 18,
+    "s": 767,
+    "mark": "拍摄需要大长焦",
+    "cn": "明神鸟居前"
+  }
+]

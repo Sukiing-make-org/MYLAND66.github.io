@@ -1,0 +1,86 @@
+[
+  {
+    "id": "g9gp8b9",
+    "name": "Presa Picachos",
+    "image": "https://image.xinu.ink/pic/data/6554/images/g9gp8b9_1782411136076.webp",
+    "geo": [
+      23.47964,
+      -106.204368
+    ],
+    "ep": 1,
+    "mark": "Presa Picachos",
+    "cn": "皮卡乔斯大坝"
+  },
+  {
+    "id": "g9gy58j",
+    "name": "Viejo San Marcos",
+    "image": "https://image.xinu.ink/pic/data/6554/images/g9gy58j_1782411611273.webp",
+    "geo": [
+      23.538456,
+      -106.226694
+    ],
+    "ep": 1,
+    "mark": "Viejo San Marcos，因水坝建设废弃的村落。",
+    "cn": "旧圣马科斯村"
+  },
+  {
+    "id": "g9hp9g2",
+    "name": "Columbia River",
+    "image": "https://image.xinu.ink/pic/data/6554/images/g9hp9g2_1782412819654.webp",
+    "geo": [
+      45.854258,
+      -119.691463
+    ],
+    "ep": 5
+  },
+  {
+    "id": "g9hr1uf",
+    "name": "Columbia River",
+    "image": "https://image.xinu.ink/pic/data/6554/images/g9hr1uf_1782412894015.webp",
+    "geo": [
+      45.833655,
+      -119.880828
+    ],
+    "ep": 5
+  },
+  {
+    "id": "g9hld6c",
+    "name": "Maupin  Bridge, Deschutes River",
+    "image": "https://image.xinu.ink/pic/data/6554/images/g9hld6c_1782412674803.webp",
+    "geo": [
+      45.171836,
+      -121.076842
+    ],
+    "ep": 5
+  },
+  {
+    "id": "g9i4xkt",
+    "name": "北九州市小倉北区魚町ちゅうぎん通り",
+    "image": "https://image.xinu.ink/pic/data/6554/images/g9i4xkt_1782413562554.webp",
+    "geo": [
+      33.88627,
+      130.879881
+    ],
+    "ep": 6
+  },
+  {
+    "id": "g9irlr6",
+    "name": "Bass Pro Shops, Bolingbrook",
+    "image": "https://image.xinu.ink/pic/data/6554/images/g9irlr6_1782414601282.webp",
+    "geo": [
+      41.717771,
+      -88.039219
+    ],
+    "ep": "第二卷番外"
+  },
+  {
+    "id": "g9iv0do",
+    "name": "Gene and Jude's",
+    "image": "https://image.xinu.ink/pic/data/6554/images/g9iv0do_1782414755545.webp",
+    "geo": [
+      41.930088,
+      -87.846495
+    ],
+    "ep": 11
+  }
+]

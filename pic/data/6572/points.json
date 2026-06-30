@@ -1,0 +1,278 @@
+[
+  {
+    "id": "uo0oktx5d",
+    "name": "八ヶ岳連峰",
+    "image": "https://image.xinu.ink/pic/data/6572/images/uo0oktx5d_1744658792737.jpg",
+    "geo": [
+      35.974893,
+      138.364772
+    ],
+    "ep": "PV",
+    "mark": "PV"
+  },
+  {
+    "id": "81b9b0n",
+    "name": "野辺山宇宙電波観測所 45m観測棟",
+    "image": "https://image.xinu.ink/pic/data/6572/images/81b9b0n_1764503988761.jpg",
+    "geo": [
+      35.944709,
+      138.472089
+    ],
+    "ep": 0,
+    "s": 153
+  },
+  {
+    "id": "1vr7i0n",
+    "name": "日比谷公園　花壇",
+    "image": "https://image.xinu.ink/pic/data/6572/images/1vr7i0n_1751107430259.jpg",
+    "geo": [
+      35.674776,
+      139.757518
+    ],
+    "ep": 0,
+    "s": 614
+  },
+  {
+    "id": "81brmb8",
+    "name": "日比谷公園　第一花壇",
+    "image": "https://image.xinu.ink/pic/data/6572/images/81brmb8_1764504870775.jpg",
+    "geo": [
+      35.674883,
+      139.757884
+    ],
+    "ep": 0,
+    "s": 625,
+    "mark": "谷歌地图有地标：鮫谷浩二紀念場所，可以直接搜索",
+    "cn": "日比谷公园 第一花坛"
+  },
+  {
+    "id": "81c2pj5",
+    "name": "日比谷公園",
+    "image": "https://image.xinu.ink/pic/data/6572/images/81c2pj5_1764505360962.jpg",
+    "geo": [
+      35.675155,
+      139.758352
+    ],
+    "ep": 0,
+    "s": 636,
+    "cn": "日比谷公园"
+  },
+  {
+    "id": "1vre5e8",
+    "name": "霞ケ関駅",
+    "image": "https://image.xinu.ink/pic/data/6572/images/1vre5e8_1764517114933.jpg",
+    "geo": [
+      35.675055,
+      139.751506
+    ],
+    "ep": 0,
+    "s": 719,
+    "mark": "A2出口"
+  },
+  {
+    "id": "8eah75o",
+    "name": "霞ケ関駅  丸ノ内線 1番線ホーム（西側）",
+    "image": "https://image.xinu.ink/pic/data/6572/images/8eah75o_1765288923117.jpg",
+    "geo": [
+      35.674629,
+      139.751802
+    ],
+    "ep": 0,
+    "s": 900,
+    "cn": "霞关站 丸之内线1站台西侧"
+  },
+  {
+    "id": "1vqta4s",
+    "name": "佐久平​駅",
+    "image": "https://image.xinu.ink/pic/data/6572/images/1vqta4s_1764517292899.jpg",
+    "geo": [
+      36.277996,
+      138.464418
+    ],
+    "ep": 0,
+    "s": 1093
+  },
+  {
+    "id": "81j8a3x",
+    "name": "佐久平​駅 蓼科口",
+    "image": "https://image.xinu.ink/pic/data/6572/images/81j8a3x_1764517383823.jpg",
+    "geo": [
+      36.277702,
+      138.464692
+    ],
+    "ep": 0,
+    "s": 1108
+  },
+  {
+    "id": "1vqtq2d",
+    "name": "佐久平​駅 幸せの鐘",
+    "image": "https://image.xinu.ink/pic/data/6572/images/1vqtq2d_1764517544257.jpg",
+    "geo": [
+      36.277689,
+      138.46444
+    ],
+    "ep": 0,
+    "s": 1131
+  },
+  {
+    "id": "8eb3jai",
+    "name": "警視庁本部庁舎前",
+    "image": "https://image.xinu.ink/pic/data/6572/images/8eb3jai_1765289813159.jpg",
+    "geo": [
+      35.677142,
+      139.752842
+    ],
+    "ep": 0,
+    "s": 1163,
+    "cn": "警视厅本部厅舍正门"
+  },
+  {
+    "id": "8o7knwc",
+    "name": "東京駅　21番線",
+    "image": "https://image.xinu.ink/pic/data/6572/images/8o7knwc_1765888552885.jpg",
+    "geo": [
+      35.682247,
+      139.767731
+    ],
+    "ep": 0,
+    "s": 1210,
+    "mark": "站台北端，车型是E7系",
+    "cn": "东京站21站台"
+  },
+  {
+    "id": "usvgp2ajy",
+    "name": "長野駅",
+    "image": "https://image.xinu.ink/pic/data/6572/images/usvgp2ajy_1764517630561.jpg",
+    "geo": [
+      36.643561,
+      138.187804
+    ],
+    "ep": 0,
+    "s": 1381
+  },
+  {
+    "id": "uo0q4vjrh",
+    "name": "野辺山宇宙電波観測所",
+    "image": "https://image.xinu.ink/pic/data/6572/images/uo0q4vjrh_1764517739598.jpg",
+    "geo": [
+      35.94463,
+      138.472784
+    ],
+    "ep": 0,
+    "s": 1614,
+    "mark": "鸟瞰"
+  },
+  {
+    "id": "81jicj0",
+    "name": "長野県警察本部",
+    "image": "https://image.xinu.ink/pic/data/6572/images/81jicj0_1764517865315.jpg",
+    "geo": [
+      36.650922,
+      138.181234
+    ],
+    "ep": 0,
+    "s": 1617
+  },
+  {
+    "id": "usvr2u1ui",
+    "name": "長野県警察本部 1F大厅",
+    "image": "https://image.xinu.ink/pic/data/6572/images/usvr2u1ui_1764517929407.jpg",
+    "geo": [
+      36.651335,
+      138.181092
+    ],
+    "ep": 0,
+    "s": 1627,
+    "mark": "无独立厅舍"
+  },
+  {
+    "id": "81jpiiu",
+    "name": "野辺山宇宙電波観測所 守衛所前",
+    "image": "https://image.xinu.ink/pic/data/6572/images/81jpiiu_1764518247616.jpg",
+    "geo": [
+      35.940334,
+      138.468765
+    ],
+    "ep": 0,
+    "s": 1891
+  },
+  {
+    "id": "81jq05w",
+    "name": "野辺山宇宙電波観測所 守衛所",
+    "image": "https://image.xinu.ink/pic/data/6572/images/81jq05w_1764518340753.jpg",
+    "geo": [
+      35.940531,
+      138.468952
+    ],
+    "ep": 0,
+    "s": 1896
+  },
+  {
+    "id": "1vryp7a",
+    "name": "甲府刑務所",
+    "image": "https://image.xinu.ink/pic/data/6572/images/1vryp7a_1764518595861.jpg",
+    "geo": [
+      35.610034,
+      138.562514
+    ],
+    "ep": 0,
+    "s": 2601,
+    "mark": "山梨刑务所的原型"
+  },
+  {
+    "id": "81kdepw",
+    "name": "大本願",
+    "image": "https://image.xinu.ink/pic/data/6572/images/81kdepw_1764519333202.jpg",
+    "geo": [
+      36.65829,
+      138.187139
+    ],
+    "ep": 0,
+    "s": 4440
+  },
+  {
+    "id": "1vrigll",
+    "name": "善光寺",
+    "image": "https://image.xinu.ink/pic/data/6572/images/1vrigll_1764518874620.jpg",
+    "geo": [
+      36.661342,
+      138.187675
+    ],
+    "ep": 0,
+    "s": 4443
+  },
+  {
+    "id": "81kth34",
+    "name": "国鉄C56形蒸気機関車 C56-96 野辺山",
+    "image": "https://image.xinu.ink/pic/data/6572/images/81kth34_1764520120785.jpg",
+    "geo": [
+      35.956378,
+      138.473486
+    ],
+    "ep": "ED",
+    "s": 6183,
+    "mark": "ED"
+  },
+  {
+    "id": "1vrtffg",
+    "name": "野辺山駅",
+    "image": "https://image.xinu.ink/pic/data/6572/images/1vrtffg_1764519677963.jpg",
+    "geo": [
+      35.955363,
+      138.474312
+    ],
+    "ep": "ED",
+    "s": 6186,
+    "mark": "ED"
+  },
+  {
+    "id": "foxrt1u",
+    "name": "南牧村農村文化情報交流館",
+    "image": "https://image.xinu.ink/pic/data/6572/images/foxrt1u-1781170386278.jpg",
+    "geo": [
+      35.939474,
+      138.468123
+    ],
+    "mark": "在南牧村農村文化情報交流館最里面有个半球型演播厅，需花费700日元门票看30分钟柯南或者星星才能入场（注意有montbell会员的可以便宜点）如果有时间的话可以两场都看，我因为时间不够只看了柯南的两场一起是1500日元"
+  }
+]

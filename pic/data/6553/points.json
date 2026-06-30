@@ -1,0 +1,94 @@
+[
+  {
+    "id": "g7tul78",
+    "name": "渋谷駅",
+    "image": "https://image.xinu.ink/pic/data/6553/images/g7tul78_1782312298170.webp",
+    "geo": [
+      35.65837,
+      139.701523
+    ],
+    "ep": 2
+  },
+  {
+    "id": "g7ufhdh",
+    "name": "渋谷スクランブル交差点",
+    "image": "https://image.xinu.ink/pic/data/6553/images/g7ufhdh_1782313269006.webp",
+    "geo": [
+      35.659549,
+      139.700017
+    ],
+    "ep": 2,
+    "mark": "远处可以看道涩谷109和优衣库的招牌。"
+  },
+  {
+    "id": "g7t7ww2",
+    "name": "ES21 渋谷駅ハチ公口自転車駐車場",
+    "image": "https://image.xinu.ink/pic/data/6553/images/g7t7ww2_1782313445899.webp",
+    "geo": [
+      35.660361,
+      139.701322
+    ],
+    "ep": 2
+  },
+  {
+    "id": "g7vipvt",
+    "name": "新宿大ガード西",
+    "image": "https://image.xinu.ink/pic/data/6553/images/g7vipvt_1782315183411.webp",
+    "geo": [
+      35.693657,
+      139.698321
+    ],
+    "ep": 6
+  },
+  {
+    "id": "g7p918x",
+    "name": "新世界",
+    "image": "https://image.xinu.ink/pic/data/6553/images/g7p918x_1782316155480.webp",
+    "geo": [
+      34.651116,
+      135.505791
+    ],
+    "ep": 9
+  },
+  {
+    "id": "g7w971u",
+    "name": "かに道楽本店",
+    "image": "https://image.xinu.ink/pic/data/6553/images/g7w971u_1782316321592.webp",
+    "geo": [
+      34.668747,
+      135.50154
+    ],
+    "ep": 9
+  },
+  {
+    "id": "g7owtpd",
+    "name": "道頓堀",
+    "image": "https://image.xinu.ink/pic/data/6553/images/g7owtpd_1782316376061.webp",
+    "geo": [
+      34.668712,
+      135.501813
+    ],
+    "ep": 9,
+    "mark": "由似和风羽子接吻的地方。"
+  },
+  {
+    "id": "g7q1iqg",
+    "name": "安田講堂",
+    "image": "",
+    "geo": [
+      35.713359,
+      139.761903
+    ],
+    "ep": 22
+  },
+  {
+    "id": "g7q8klm",
+    "name": "渋谷スクランブル交差点",
+    "image": "",
+    "geo": [
+      35.659453,
+      139.700446
+    ],
+    "ep": 25
+  }
+]
