@@ -80,7 +80,7 @@ jobs:
           BARK_URL: ${{ secrets.BARK_URL || 'https://api.day.app/FXxtHPEhbvdzxrgRpBW7E' }}
         run: |
           DRIVER_PATH="${{ steps.driver.outputs.path }}"
-          ARGS="--discover --max-new 100 --chrome-path $CHROME_PATH"
+          ARGS="--discover --max-new 50 --chrome-path $CHROME_PATH"
           if [ -n "$DRIVER_PATH" ]; then
             ARGS="$ARGS --driver-path $DRIVER_PATH"
           fi
