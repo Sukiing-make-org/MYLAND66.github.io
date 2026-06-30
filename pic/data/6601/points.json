@@ -1,0 +1,26 @@
+[
+  {
+    "id": "f03w1i5",
+    "name": "Железнодорожный вокзал",
+    "image": "https://image.xinu.ink/pic/data/6601/images/f03w1i5-1779668709691.jpg",
+    "geo": [
+      43.111832,
+      131.881553
+    ],
+    "ep": 3,
+    "s": 651,
+    "cn": "海参崴火车站"
+  },
+  {
+    "id": "f04br7w",
+    "name": "Корабельная набережная",
+    "image": "https://image.xinu.ink/pic/data/6601/images/f04br7w_1779711907998_c16v9.jpg",
+    "geo": [
+      43.113559,
+      131.890106
+    ],
+    "ep": 2,
+    "s": 145,
+    "cn": "Korabel'naya Naberezhnaya"
+  }
+]

@@ -1,0 +1,752 @@
+[
+  {
+    "id": "304cc676",
+    "name": "Pacific Beach",
+    "image": "https://image.xinu.ink/pic/data/6595/images/304cc676_1777820327537.jpg",
+    "geo": [
+      32.79561,
+      -117.257691
+    ],
+    "mark": "漫画“圣地亚哥海滩（サンディエゴビーチ）”，STAGE 1起点。背景建筑为虚构建筑，动画版有改编",
+    "folder": "STAGE 1",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "207cd7c0",
+    "name": "Hotel del Coronado",
+    "image": "https://image.xinu.ink/pic/data/6595/images/207cd7c0_1777820332504.jpg",
+    "geo": [
+      32.680545,
+      -117.178224
+    ],
+    "mark": "动画版“圣地亚哥海滩”背后背景的取景地",
+    "folder": "STAGE 1",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "773e27db",
+    "name": "San Xavier del Bac Mission",
+    "image": "https://image.xinu.ink/pic/data/6595/images/773e27db_1777820336181.jpg",
+    "geo": [
+      32.107231,
+      -111.007976
+    ],
+    "mark": "疑似STAGE 1终点的建筑原型",
+    "folder": "STAGE 1",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "648940f9",
+    "name": "Sonoran Desert",
+    "image": "https://image.xinu.ink/pic/data/6595/images/648940f9_1777820338894.jpg",
+    "geo": [
+      32.916713,
+      -112.667383
+    ],
+    "mark": "漫画“亚利桑那沙漠（Arizona Desert）”。STAGE 2的大部分情节发生在沙漠内",
+    "folder": "STAGE 2",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "302965d7",
+    "name": "U.S. Route 8",
+    "image": "https://image.xinu.ink/pic/data/6595/images/302965d7_1777820341460.jpg",
+    "geo": [
+      32.70912,
+      -114.944912
+    ],
+    "mark": "与密瑟斯·罗宾森的战斗大致位置。",
+    "folder": "STAGE 2",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "a01333ba",
+    "name": "First Mesa",
+    "image": "https://image.xinu.ink/pic/data/6595/images/a01333ba_1777820347501.jpg",
+    "geo": [
+      35.836672,
+      -110.38152
+    ],
+    "mark": "“恶魔之掌（悪魔の手のひら）”的取景地（因岩石坍塌导致不完全一致，可能不对外开放）",
+    "folder": "STAGE 2",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "9ffefc91",
+    "name": "Chinle",
+    "image": "",
+    "geo": [
+      36.154448,
+      -109.552607
+    ],
+    "mark": "Stage 2检查点的实际大致地理位置",
+    "folder": "STAGE 2",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "76d8d6c3",
+    "name": "Flagstaff",
+    "image": "https://image.xinu.ink/pic/data/6595/images/76d8d6c3_1777820393773.jpg",
+    "geo": [
+      35.198284,
+      -111.651302
+    ],
+    "mark": "Stage 2的检查点城镇附近。漫画仅借用了名称，与位置无关",
+    "folder": "STAGE 2",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "cbd4ac60",
+    "name": "Spider Rock",
+    "image": "https://image.xinu.ink/pic/data/6595/images/cbd4ac60_1777820402506.jpg",
+    "geo": [
+      36.108339,
+      -109.350659
+    ],
+    "mark": "23话第1页背景的参考图。需要跟导游或跟团进入景区",
+    "folder": "STAGE 2",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "21b49c64",
+    "name": "Monument Vally",
+    "image": "https://image.xinu.ink/pic/data/6595/images/21b49c64_1777820429001.jpg",
+    "geo": [
+      36.938511,
+      -110.091634
+    ],
+    "mark": "Stage 2终点取景地",
+    "folder": "STAGE 2",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "530cc64a",
+    "name": "West Mitten Butte",
+    "image": "https://image.xinu.ink/pic/data/6595/images/530cc64a_1777820440212.jpg",
+    "geo": [
+      36.990433,
+      -110.095541
+    ],
+    "mark": "Stage 2终点附近",
+    "folder": "STAGE 2",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "f25ea5f1",
+    "name": "Sleeping Ute Mountain",
+    "image": "https://image.xinu.ink/pic/data/6595/images/f25ea5f1_1777820445144.jpg",
+    "geo": [
+      37.270549,
+      -108.813713
+    ],
+    "mark": "Stage 3的途径点地标之一，根据地理位置推断",
+    "folder": "STAGE 3",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "86111532",
+    "name": "Rocky Mountain National Park",
+    "image": "https://image.xinu.ink/pic/data/6595/images/86111532_1777820481833.jpg",
+    "geo": [
+      40.342793,
+      -105.683639
+    ],
+    "mark": "Stage 3的主要地标",
+    "folder": "STAGE 3",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "e92cc242",
+    "name": "Chimney Rock",
+    "image": "https://image.xinu.ink/pic/data/6595/images/e92cc242_1777820464402.jpg",
+    "geo": [
+      37.193816,
+      -107.30158
+    ],
+    "mark": "克鲁兹山&第二处恶魔之掌的取景地",
+    "folder": "STAGE 3",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "af1684c8",
+    "name": "Gunnison",
+    "image": "https://image.xinu.ink/pic/data/6595/images/af1684c8_1777820468090.jpg",
+    "geo": [
+      38.545825,
+      -106.925321
+    ],
+    "mark": "Stage 3终点。仅借用了地理位置，漫画里的景色和实际城镇无关。附近存在大量恐龙化石考古现场和博物馆",
+    "folder": "STAGE 3",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "133d1b73",
+    "name": "Canon City",
+    "image": "https://image.xinu.ink/pic/data/6595/images/133d1b73_1777820499035.jpg",
+    "geo": [
+      38.449406,
+      -105.225332
+    ],
+    "mark": "Stage 3的终点",
+    "folder": "STAGE 3",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "d32cdbd5",
+    "name": "Syracuse",
+    "image": "https://image.xinu.ink/pic/data/6595/images/d32cdbd5_1777820473394.jpg",
+    "geo": [
+      37.980569,
+      -101.752672
+    ],
+    "mark": "Stage 4的途径点",
+    "folder": "STAGE 4",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "cf4c57f3",
+    "name": "Dodge City",
+    "image": "https://image.xinu.ink/pic/data/6595/images/cf4c57f3_1777820504791.jpg",
+    "geo": [
+      37.756049,
+      -100.018797
+    ],
+    "mark": "Stage 4的途径点",
+    "folder": "STAGE 4",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "8cd00ef0",
+    "name": "Hutchinson",
+    "image": "https://image.xinu.ink/pic/data/6595/images/8cd00ef0_1777820511704.jpg",
+    "geo": [
+      38.060845,
+      -97.929774
+    ],
+    "mark": "Stage 4的途径点",
+    "folder": "STAGE 4",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "b4434d7e",
+    "name": "Kinsley Halfway Sign",
+    "image": "https://image.xinu.ink/pic/data/6595/images/b4434d7e_1777820518931.jpg",
+    "geo": [
+      37.917302,
+      -99.423125
+    ],
+    "mark": "40话封面位置原型",
+    "folder": "STAGE 4",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "1864105e",
+    "name": "堪萨斯城",
+    "image": "https://image.xinu.ink/pic/data/6595/images/1864105e_1777820528715.jpg",
+    "geo": [
+      39.099727,
+      -94.578567
+    ],
+    "mark": "Stage 4 终点",
+    "folder": "STAGE 4",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "63ed404c",
+    "name": "Orville Avenue",
+    "image": "https://image.xinu.ink/pic/data/6595/images/63ed404c_1777820540666.jpg",
+    "geo": [
+      39.109536,
+      -94.659192
+    ],
+    "mark": "“绿色墓碑”，圣人遗体其中一处的位置。现实中为普通的居民区，和巡礼无关，建议不要随意前往",
+    "folder": "STAGE 4",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "e69315ee",
+    "name": "2100 Michigan Ave",
+    "image": "https://image.xinu.ink/pic/data/6595/images/e69315ee_1777820551905.jpg",
+    "geo": [
+      42.331607,
+      -83.075355
+    ],
+    "folder": "STAGE 4",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "fba95caa",
+    "name": "费城市政厅",
+    "image": "https://image.xinu.ink/pic/data/6595/images/fba95caa_1777820574882.jpg",
+    "geo": [
+      39.950982,
+      -75.163816
+    ],
+    "mark": "Stage 4 终点分镜原型。荒木把原本在费城的地标建筑挪到了堪萨斯，而费城的这个建筑离奇失踪了",
+    "folder": "STAGE 4",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "5ceef05b",
+    "name": "费城市政厅",
+    "image": "https://image.xinu.ink/pic/data/6595/images/5ceef05b_1777820585897.jpg",
+    "geo": [
+      39.954689,
+      -75.163195
+    ],
+    "mark": "故事中位于Stage 4的堪萨斯城",
+    "folder": "STAGE 4",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "08b90e06",
+    "name": "麦迪逊堡",
+    "image": "https://image.xinu.ink/pic/data/6595/images/08b90e06_1777820601391.jpg",
+    "geo": [
+      40.628998,
+      -91.30887
+    ],
+    "mark": "Stage 5的途径点。",
+    "folder": "STAGE 5",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "b631610e",
+    "name": "Michigan Ave",
+    "image": "https://image.xinu.ink/pic/data/6595/images/b631610e_1777820610453.jpg",
+    "geo": [
+      41.889565,
+      -87.624127
+    ],
+    "mark": "此图原型为从Chicago Tower Club上方向南拍摄的London Guarantee Building及周边建筑。Chicago Tower Club早已拆除。",
+    "folder": "STAGE 5",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "bc0f56fb",
+    "name": "Baltimore and Ohio Chicago Terminal Railroad Bridge",
+    "image": "https://image.xinu.ink/pic/data/6595/images/bc0f56fb_1777820617962.jpg",
+    "geo": [
+      41.861046,
+      -87.634928
+    ],
+    "mark": "Stage 6途中的背景。该桥已不再使用，且不对公众开放。可乘邮轮观摩。",
+    "folder": "STAGE 6",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "e5b7a229",
+    "name": "密尔沃基",
+    "image": "https://image.xinu.ink/pic/data/6595/images/e5b7a229_1777820628205.jpg",
+    "geo": [
+      43.041034,
+      -87.909678
+    ],
+    "mark": "Stage 6甜糖山篇所在地",
+    "folder": "STAGE 6",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "9ec60e0d",
+    "name": "Mackinac Bridge",
+    "image": "https://image.xinu.ink/pic/data/6595/images/9ec60e0d_1777820640469.jpg",
+    "geo": [
+      45.811505,
+      -84.728595
+    ],
+    "mark": "Stage 6途径点。故事中不存在现有的Mackinac Bridge，只能结冰时跨海。",
+    "folder": "STAGE 6",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "e026f522",
+    "name": "Mackinaw City",
+    "image": "https://image.xinu.ink/pic/data/6595/images/e026f522_1777820646800.jpg",
+    "geo": [
+      45.783095,
+      -84.72927
+    ],
+    "mark": "Stage 6结束点",
+    "folder": "STAGE 6",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "ac8092e4",
+    "name": "葛底斯堡",
+    "image": "https://image.xinu.ink/pic/data/6595/images/ac8092e4_1777820652242.jpg",
+    "geo": [
+      39.830929,
+      -77.231095
+    ],
+    "mark": "Stage 7 途径点附近",
+    "folder": "STAGE 7",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "5cb37209",
+    "name": "Church of Sant'Ercolano",
+    "image": "https://image.xinu.ink/pic/data/6595/images/5cb37209_1777820667297.jpg",
+    "geo": [
+      43.10868,
+      12.3896
+    ],
+    "mark": "Stage 7途径点，故事中位于葛底斯堡",
+    "folder": "STAGE 7",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "b3aaeb29",
+    "name": "Memorial Hall",
+    "image": "https://image.xinu.ink/pic/data/6595/images/b3aaeb29_1777820674636.jpg",
+    "geo": [
+      39.979532,
+      -75.208827
+    ],
+    "mark": "Stage 7 终点",
+    "folder": "STAGE 7",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "2daf0f2c",
+    "name": "Chestnut St & 6th St",
+    "image": "https://image.xinu.ink/pic/data/6595/images/2daf0f2c_1777820683910.jpg",
+    "geo": [
+      39.949266,
+      -75.151019
+    ],
+    "mark": "费城枪击案分镜其一。右后方的建筑原型为Congress Hall和Independence Hall",
+    "folder": "STAGE 8",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "5620b99c",
+    "name": "Delaware River Waterfront",
+    "image": "https://image.xinu.ink/pic/data/6595/images/5620b99c_1777820690207.jpg",
+    "geo": [
+      39.933608,
+      -75.145097
+    ],
+    "mark": "费城枪击案分镜之一。背景建筑均已拆除，其中左后方的白色房子位于今天的Washington Avenue Green。图片视角大致位于高架桥上向东拍摄。",
+    "folder": "STAGE 8",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "13140ef3",
+    "name": "Betsy Ross Bridge",
+    "image": "https://image.xinu.ink/pic/data/6595/images/13140ef3_1777820697031.jpg",
+    "geo": [
+      39.98636,
+      -75.07048
+    ],
+    "mark": "费城枪击案分镜原型其一",
+    "folder": "STAGE 8",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "f00c1757",
+    "name": "First Bank Of United States",
+    "image": "https://image.xinu.ink/pic/data/6595/images/f00c1757_1777820704101.jpg",
+    "geo": [
+      39.947835,
+      -75.146085
+    ],
+    "mark": "费城枪击案分镜原型之一。",
+    "folder": "STAGE 8",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "3bff3521",
+    "name": "First Bank Of United States",
+    "image": "https://image.xinu.ink/pic/data/6595/images/3bff3521_1777820710565.jpg",
+    "geo": [
+      39.948273,
+      -75.146054
+    ],
+    "mark": "费城枪击案分镜原型之一。 另一个角度的First Bank Of United States",
+    "folder": "STAGE 8",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "aecf7329",
+    "name": "Washington Square",
+    "image": "https://image.xinu.ink/pic/data/6595/images/aecf7329_1777820720909.jpg",
+    "geo": [
+      39.947654,
+      -75.151208
+    ],
+    "mark": "费城枪击案分镜其一。位于Washington Square东北角入口",
+    "folder": "STAGE 8",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "20f85709",
+    "name": "Walnut St",
+    "image": "https://image.xinu.ink/pic/data/6595/images/20f85709_1777820733351.jpg",
+    "geo": [
+      39.947758,
+      -75.151058
+    ],
+    "mark": "费城枪击案分镜其一。乔尼被枪击、D4C大战等情节集中发生于这个路口周边",
+    "folder": "STAGE 8",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "ee67c0a9",
+    "name": "Independence Hall",
+    "image": "https://image.xinu.ink/pic/data/6595/images/ee67c0a9_1777820744424.jpg",
+    "geo": [
+      39.94834,
+      -75.150137
+    ],
+    "mark": "费城枪击案背景原型之一",
+    "folder": "STAGE 8",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "cf69d989",
+    "name": "Independence Hall",
+    "image": "https://image.xinu.ink/pic/data/6595/images/cf69d989_1777820752890.jpg",
+    "geo": [
+      39.948394,
+      -75.150533
+    ],
+    "folder": "STAGE 8",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "ba82eb7c",
+    "name": "Independence Hall",
+    "image": "https://image.xinu.ink/pic/data/6595/images/ba82eb7c_1777820759490.jpg",
+    "geo": [
+      39.948861,
+      -75.150035
+    ],
+    "mark": "大总统的“餐巾演说”的发表处。建筑物内部基本为荒木的想象，和现实中差异较大",
+    "folder": "STAGE 8",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "eecdf693",
+    "name": "Society Hill Synagogue",
+    "image": "https://image.xinu.ink/pic/data/6595/images/eecdf693_1777820768806.jpg",
+    "geo": [
+      39.945023,
+      -75.149289
+    ],
+    "mark": "费城枪击案分镜其一。因周边建筑和树木遮挡，还原分镜比较困难",
+    "folder": "STAGE 8",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "074f1724",
+    "name": "本杰明·富兰克林大桥",
+    "image": "https://image.xinu.ink/pic/data/6595/images/074f1724_1777820773731.jpg",
+    "geo": [
+      39.952877,
+      -75.134381
+    ],
+    "mark": "现实中为蓝白色漆",
+    "folder": "STAGE 8",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "5f75ed47",
+    "name": "Tacony-Palmyra Bridge",
+    "image": "https://image.xinu.ink/pic/data/6595/images/5f75ed47_1777820789450.jpg",
+    "geo": [
+      40.01201,
+      -75.042965
+    ],
+    "folder": "STAGE 8",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "837d7a37",
+    "name": "Tacony-Palmyra Bridge",
+    "image": "https://image.xinu.ink/pic/data/6595/images/837d7a37_1777820798875.jpg",
+    "geo": [
+      40.016421,
+      -75.042606
+    ],
+    "mark": "Stage 8途中，乔尼取回双腿的位置",
+    "folder": "STAGE 8",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "585ab82c",
+    "name": "Positano Coast by Aldo Lamberti",
+    "image": "https://image.xinu.ink/pic/data/6595/images/585ab82c_1777820809503.jpg",
+    "geo": [
+      39.946904,
+      -75.144307
+    ],
+    "mark": "爱之列车的分镜背景其一，向路口西南角拍摄。原型建筑均已拆除或改建。",
+    "folder": "STAGE 8",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "f4be4ac3",
+    "name": "Union Beach",
+    "image": "https://image.xinu.ink/pic/data/6595/images/f4be4ac3_1777820819126.jpg",
+    "geo": [
+      40.442641,
+      -74.165597
+    ],
+    "mark": "Stage 8 终点。故事中选手们于此处乘坐轮渡前往Brooklin的Sea Gate；实际上只能从South Amboy或Sandy Hook Bay搭乘客运轮渡先抵达曼哈顿，再折返回Sea Gate。",
+    "folder": "STAGE 8",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "b7cd965c",
+    "name": "Sea Gate",
+    "image": "https://image.xinu.ink/pic/data/6595/images/b7cd965c_1777820827208.jpg",
+    "geo": [
+      40.57681,
+      -74.007978
+    ],
+    "mark": "Stage 9起始点",
+    "folder": "STAGE 9",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "45cfbfcb",
+    "name": "自由女神像",
+    "image": "https://image.xinu.ink/pic/data/6595/images/45cfbfcb_1777820835745.jpg",
+    "geo": [
+      40.689695,
+      -74.033792
+    ],
+    "folder": "STAGE 9",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "d26b881e",
+    "name": "Washington Street",
+    "image": "https://image.xinu.ink/pic/data/6595/images/d26b881e_1777820843592.jpg",
+    "geo": [
+      40.702529,
+      -73.989622
+    ],
+    "mark": "Stage 9 迪亚哥战取景地。Washington Street街道口向曼哈顿大桥方向拍摄",
+    "folder": "STAGE 9",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "9b76959d",
+    "name": "Brooklyn Bridge",
+    "image": "https://image.xinu.ink/pic/data/6595/images/9b76959d_1777820854577.jpg",
+    "geo": [
+      40.706086,
+      -73.996864
+    ],
+    "mark": "Stage 9途中",
+    "folder": "STAGE 9",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "6c73b265",
+    "name": "Brooklyn Bridge",
+    "image": "https://image.xinu.ink/pic/data/6595/images/6c73b265_1777820858778.jpg",
+    "geo": [
+      40.705776,
+      -73.996443
+    ],
+    "mark": "Stage 9途中迪亚哥战。取景于机动车道上",
+    "folder": "STAGE 9",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "b0657ef7",
+    "name": "Brooklyn Bridge",
+    "image": "https://image.xinu.ink/pic/data/6595/images/b0657ef7_1777820865060.jpg",
+    "geo": [
+      40.711272,
+      -74.004402
+    ],
+    "mark": "Stage 9 途中。从高架桥上向东北拍摄和曼哈顿市政大楼鱼与联邦法院。漫画分镜左侧的City Hall会被树挡住",
+    "folder": "STAGE 9",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "2c34cabc",
+    "name": "78th St and Mandison Ave",
+    "image": "https://image.xinu.ink/pic/data/6595/images/2c34cabc_1777820870652.jpg",
+    "geo": [
+      40.7758,
+      -73.962648
+    ],
+    "mark": "91话封面，灵感来源于2010年一张广告。从该路口西北角红绿灯柱下向东南拍摄",
+    "folder": "STAGE 9",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  },
+  {
+    "id": "fba786a5",
+    "name": "纽约三一教堂",
+    "image": "https://image.xinu.ink/pic/data/6595/images/fba786a5_1777820874384.jpg",
+    "geo": [
+      40.707893,
+      -74.01179
+    ],
+    "mark": "Stage 9终点。真是绕了好大一圈啊",
+    "folder": "STAGE 9",
+    "origin": "TREY the Explainer",
+    "originURL": "https://www.youtube.com/watch?v=30bQ3HCcKnY"
+  }
+]

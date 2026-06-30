@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ds6xh4z",
+    "name": "弓張岳展望台",
+    "image": "https://image.xinu.ink/pic/data/6624/images/ds6xh4z-1777013234661.jpg",
+    "geo": [
+      33.179738,
+      129.701383
+    ],
+    "ep": 4,
+    "s": 1218,
+    "cn": "弓张山展望台"
+  },
+  {
+    "id": "ds60i4v",
+    "name": "針尾送信所",
+    "image": "https://image.xinu.ink/pic/data/6624/images/ds60i4v-1777012459812.jpg",
+    "geo": [
+      33.066665,
+      129.751571
+    ],
+    "ep": "4",
+    "s": "20:13",
+    "cn": "针尾送信所"
+  },
+  {
+    "id": "ds6nl4x",
+    "name": "海上自衛隊 佐世保史料館（旧佐世保水交社)",
+    "image": "https://image.xinu.ink/pic/data/6624/images/ds6nl4x-1777012859750.jpg",
+    "geo": [
+      33.173862,
+      129.71355
+    ],
+    "ep": 4,
+    "s": 1017,
+    "cn": "海上自卫队 佐世保史料馆"
+  },
+  {
+    "id": "ds6t0dn",
+    "name": "旧佐世保鎮守府凱旋記念館（佐世保市民文化ホール）",
+    "image": "https://image.xinu.ink/pic/data/6624/images/ds6t0dn-1777013040570.jpg",
+    "geo": [
+      33.173732,
+      129.71475
+    ],
+    "ep": 4,
+    "s": 1020,
+    "cn": "佐世保市民文化大厅（旧佐世保镇守府凯旋纪念馆）"
+  }
+]

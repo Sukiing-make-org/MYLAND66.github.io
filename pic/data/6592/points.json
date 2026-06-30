@@ -1,0 +1,619 @@
+[
+  {
+    "id": "52djnmn",
+    "name": "【说明用地标】",
+    "image": "",
+    "geo": [
+      35.552301,
+      139.740388
+    ],
+    "mark": "【若出现异常点位请手动刷新数据】\n本地点合集是为了收录《maimai》及《maimaiDX》各代中出现的专属曲、OST曲的独占封面或独占MV视频的现实原型。\n非独占曲目（如术、动画联动等）请在各自的专辑/动画等作品中填写地标。"
+  },
+  {
+    "id": "554zq0u",
+    "name": "セガ大鳥居旧本社",
+    "image": "https://image.xinu.ink/pic/data/6592/images/554zq0u_1758205501526.jpg",
+    "geo": [
+      35.551906,
+      139.743304
+    ],
+    "s": "封面",
+    "mark": "SEGA前本社（1号馆）所在地。于2018年拆除，现为酒店",
+    "folder": "若い力"
+  },
+  {
+    "id": "3fe00e3d",
+    "name": "大鳥居駅",
+    "image": "https://image.xinu.ink/pic/data/6592/images/3fe00e3d_1758037850440.jpg",
+    "geo": [
+      35.552273,
+      139.740171
+    ],
+    "mark": "《otorii INNOVATED -[i]3-》的曲名来源",
+    "folder": "otorii INNOVATED -[i]3-",
+    "origin": "maimai 圣地巡礼"
+  },
+  {
+    "id": "a5535d01",
+    "name": "セガ大鳥居駅2号館",
+    "image": "https://image.xinu.ink/pic/data/6592/images/a5535d01_1758037856875.jpg",
+    "geo": [
+      35.552039,
+      139.742665
+    ],
+    "mark": "2018年拆除。现为トヨタレンタカー 羽田空港（国内線）店；疑似《otorii INNOVATED -[i]3-》歌曲封面背景左侧的大楼",
+    "folder": "otorii INNOVATED -[i]3-",
+    "origin": "maimai 圣地巡礼"
+  },
+  {
+    "id": "2036e6ab",
+    "name": "セガ大鳥居旧本社",
+    "image": "https://image.xinu.ink/pic/data/6592/images/2036e6ab_1758203729134.jpg",
+    "geo": [
+      35.551885,
+      139.743258
+    ],
+    "s": "封面",
+    "mark": "疑似SEGA大鸟居1号馆（本社）内（已拆除）",
+    "folder": "遺伝子レベル∞スパイラル",
+    "origin": "maimai 圣地巡礼"
+  },
+  {
+    "id": "5550oj4",
+    "name": "セガ大鳥居旧本社 社内",
+    "image": "https://image.xinu.ink/pic/data/6592/images/5550oj4_1758205507221.jpg",
+    "geo": [
+      35.551831,
+      139.743265
+    ],
+    "s": 27,
+    "mark": "已拆除。游玩的曲目为《We Gonna Party》。",
+    "folder": "遺伝子レベル∞スパイラル"
+  },
+  {
+    "id": "f3e1fb51",
+    "name": "セガ大鳥居旧本社",
+    "image": "https://image.xinu.ink/pic/data/6592/images/f3e1fb51_1758203827485.jpg",
+    "geo": [
+      35.551471,
+      139.743471
+    ],
+    "s": 50,
+    "mark": "很可能是SEGA内部道路（已拆除）。",
+    "folder": "遺伝子レベル∞スパイラル",
+    "origin": "maimai 圣地巡礼"
+  },
+  {
+    "id": "cf123141",
+    "name": "セガ大鳥居旧本社",
+    "image": "https://image.xinu.ink/pic/data/6592/images/cf123141_1758205511862.jpg",
+    "geo": [
+      35.551472,
+      139.743183
+    ],
+    "s": 64,
+    "mark": "可能位于绿化带外铁轨旁",
+    "folder": "遺伝子レベル∞スパイラル",
+    "origin": "maimai 圣地巡礼"
+  },
+  {
+    "id": "f77241e2",
+    "name": "セガ大鳥居旧本社 1F",
+    "image": "https://image.xinu.ink/pic/data/6592/images/f77241e2_1758205519462.jpg",
+    "geo": [
+      35.551828,
+      139.743196
+    ],
+    "s": 69,
+    "mark": "疑似1号馆-2号馆之间廊道（已拆除）",
+    "folder": "遺伝子レベル∞スパイラル",
+    "origin": "maimai 圣地巡礼"
+  },
+  {
+    "id": "a58f25c6",
+    "name": "セガ大鳥居旧本社",
+    "image": "https://image.xinu.ink/pic/data/6592/images/a58f25c6_1758203860937.jpg",
+    "geo": [
+      35.551859,
+      139.743257
+    ],
+    "s": 83,
+    "mark": "疑似楼内车库（已拆除）",
+    "folder": "遺伝子レベル∞スパイラル",
+    "origin": "maimai 圣地巡礼"
+  },
+  {
+    "id": "e1b6dcb1",
+    "name": "セガ大鳥居旧本社 7F",
+    "image": "https://image.xinu.ink/pic/data/6592/images/e1b6dcb1_1758205523451.jpg",
+    "geo": [
+      35.551785,
+      139.743381
+    ],
+    "s": 90,
+    "mark": "疑似本社1号馆西侧楼天台上东侧楼的外部楼梯（已拆除）",
+    "folder": "遺伝子レベル∞スパイラル",
+    "origin": "maimai 圣地巡礼"
+  },
+  {
+    "id": "a3511b40",
+    "name": "セガ大鳥居旧本社 7F",
+    "image": "https://image.xinu.ink/pic/data/6592/images/a3511b40_1758205526802.jpg",
+    "geo": [
+      35.551772,
+      139.743361
+    ],
+    "s": 95,
+    "mark": "疑似本社1号馆西侧楼天台上东侧楼的外部楼梯（已拆除）",
+    "folder": "遺伝子レベル∞スパイラル",
+    "origin": "maimai 圣地巡礼"
+  },
+  {
+    "id": "27960f11",
+    "name": "セガ大鳥居旧本社 1F",
+    "image": "https://image.xinu.ink/pic/data/6592/images/27960f11_1758205530370.jpg",
+    "geo": [
+      35.551821,
+      139.743218
+    ],
+    "s": 100,
+    "mark": "疑似1号馆-2号馆之间廊道（已拆除）",
+    "folder": "遺伝子レベル∞スパイラル",
+    "origin": "maimai 圣地巡礼"
+  },
+  {
+    "id": "2ec079a9",
+    "name": "セガ大鳥居旧本社 屋上",
+    "image": "https://image.xinu.ink/pic/data/6592/images/2ec079a9_1758205537740.jpg",
+    "geo": [
+      35.551758,
+      139.743394
+    ],
+    "s": 105,
+    "mark": "疑似本社1号馆楼顶（已拆除）",
+    "folder": "遺伝子レベル∞スパイラル",
+    "origin": "maimai 圣地巡礼"
+  },
+  {
+    "id": "b532dd08",
+    "name": "セガ大鳥居旧本社 屋上",
+    "image": "https://image.xinu.ink/pic/data/6592/images/b532dd08_1758205542903.jpg",
+    "geo": [
+      35.551817,
+      139.743426
+    ],
+    "s": 121,
+    "mark": "向东南方向的多摩川入海口拍摄",
+    "folder": "遺伝子レベル∞スパイラル",
+    "origin": "maimai 圣地巡礼"
+  },
+  {
+    "id": "5547zaw",
+    "name": "セガ大鳥居旧本社 屋上",
+    "image": "https://image.xinu.ink/pic/data/6592/images/5547zaw_1758205547117.jpg",
+    "geo": [
+      35.551805,
+      139.74341
+    ],
+    "s": 122,
+    "mark": "向西北方向拍摄",
+    "folder": "遺伝子レベル∞スパイラル",
+    "origin": "maimai 圣地巡礼"
+  },
+  {
+    "id": "91ad7ea1",
+    "name": "セガ大鳥居旧本社",
+    "image": "https://image.xinu.ink/pic/data/6592/images/91ad7ea1_1758120332320.jpg",
+    "geo": [
+      35.551806,
+      139.743435
+    ],
+    "s": 126,
+    "mark": "向西侧拍摄，可见当时SEGA大鸟居2号馆的LOGO。此地与SEGA大鸟居2号馆均已拆除",
+    "folder": "遺伝子レベル∞スパイラル",
+    "origin": "maimai 圣地巡礼"
+  },
+  {
+    "id": "578dx6j",
+    "name": "セガ大鳥居旧本社",
+    "image": "https://image.xinu.ink/pic/data/6592/images/578dx6j_1758331653332.jpg",
+    "geo": [
+      35.551789,
+      139.74343
+    ],
+    "s": 40,
+    "mark": "已于2018年拆除（爆破）",
+    "folder": "OTOGEMA"
+  },
+  {
+    "id": "578ozto",
+    "name": "SEGA 池袋GiGO",
+    "image": "https://image.xinu.ink/pic/data/6592/images/578ozto_1758332132364.jpg",
+    "geo": [
+      35.730123,
+      139.716037
+    ],
+    "s": 47,
+    "mark": "建筑物外观于2022年翻新，池袋GiGO1号馆搬到了马路对面。现该地为池袋GiGO2号馆。",
+    "folder": "OTOGEMA"
+  },
+  {
+    "id": "702d0809",
+    "name": "炭坑節発祥の地",
+    "image": "https://image.xinu.ink/pic/data/6592/images/702d0809_1758205570102.jpg",
+    "geo": [
+      33.629176,
+      130.800541
+    ],
+    "mark": "封面原型+歌曲原型歌词的石碑",
+    "folder": "炭★坑★節",
+    "origin": "maimai 圣地巡礼"
+  },
+  {
+    "id": "a4e88530",
+    "name": "旧三井田川鉱業所伊田竪坑櫓",
+    "image": "https://image.xinu.ink/pic/data/6592/images/a4e88530_1758205641034.jpg",
+    "geo": [
+      33.641467,
+      130.814998
+    ],
+    "mark": "封面原型所在地",
+    "folder": "炭★坑★節",
+    "origin": "maimai 圣地巡礼"
+  },
+  {
+    "id": "434bfd4f",
+    "name": "Tokyo Joypolis",
+    "image": "https://image.xinu.ink/pic/data/6592/images/434bfd4f_1758205657827.jpg",
+    "geo": [
+      35.628675,
+      139.775237
+    ],
+    "mark": "《記憶、記録》等大量旧框曲子的联动出处，源自园区内的“HALFPIPE TOKYO”体感音游项目。《記憶、記録》的封面角色 LOPIT 为该园区吉祥物。",
+    "folder": "HALFPIPE TOKYO",
+    "origin": "maimai 圣地巡礼"
+  },
+  {
+    "id": "535f9e2a",
+    "name": "熊本城",
+    "image": "https://image.xinu.ink/pic/data/6592/images/535f9e2a_1758205766255.jpg",
+    "geo": [
+      32.806185,
+      130.705834
+    ],
+    "mark": "封面/PV的日式城堡原型",
+    "folder": "おても☆Yan",
+    "origin": "maimai 圣地巡礼"
+  },
+  {
+    "id": "e76a3eac",
+    "name": "熊本民謡「おてもやん」銅像",
+    "image": "https://image.xinu.ink/pic/data/6592/images/e76a3eac_1758205795714.jpg",
+    "geo": [
+      32.79018,
+      130.68811
+    ],
+    "mark": "封面角色姿势出处",
+    "folder": "おても☆Yan",
+    "origin": "maimai 圣地巡礼"
+  },
+  {
+    "id": "83007b1d",
+    "name": "羊蹄山",
+    "image": "https://image.xinu.ink/pic/data/6592/images/83007b1d_1758205826069.jpg",
+    "geo": [
+      42.826976,
+      140.806821
+    ],
+    "mark": "疑似封面原型",
+    "folder": "ソーラン☆節",
+    "origin": "maimai 圣地巡礼"
+  },
+  {
+    "id": "aa9af103",
+    "name": "ソーラン節発祥之地碑",
+    "image": "https://image.xinu.ink/pic/data/6592/images/aa9af103_1758205845789.jpg",
+    "geo": [
+      43.248163,
+      140.709126
+    ],
+    "mark": "歌曲原型纪念碑",
+    "folder": "ソーラン☆節",
+    "origin": "maimai 圣地巡礼"
+  },
+  {
+    "id": "39469f3a",
+    "name": "TFTビル 西館",
+    "image": "https://image.xinu.ink/pic/data/6592/images/39469f3a_1758206023697.jpg",
+    "geo": [
+      35.630327,
+      139.789488
+    ],
+    "mark": "《maimai LIVE 2014 ～洗濯祭～》的场地；也是《welcome to maimai!! with マイマイマー》的机台内PV拍摄地。详见：https://amfes.sega.jp/outline.html",
+    "folder": "welcome to maimai!! with マイマイマー",
+    "origin": "maimai 圣地巡礼"
+  },
+  {
+    "id": "1b7537bc",
+    "name": "駒形橋",
+    "image": "https://image.xinu.ink/pic/data/6592/images/1b7537bc_1758206127454.jpg",
+    "geo": [
+      35.708632,
+      139.798151
+    ],
+    "s": 12,
+    "mark": "位于河上向西南方向拍摄",
+    "folder": "花と、雪と、ドラムンベース。",
+    "origin": "maimai 圣地巡礼"
+  },
+  {
+    "id": "56k04yc",
+    "name": "雷門",
+    "image": "https://image.xinu.ink/pic/data/6592/images/56k04yc_1758290660995.jpg",
+    "geo": [
+      35.711083,
+      139.796359
+    ],
+    "mark": "封面及PV内绿色建筑的原型",
+    "folder": "STREAK"
+  },
+  {
+    "id": "578tyg8",
+    "name": "渋谷駅前",
+    "image": "https://image.xinu.ink/pic/data/6592/images/578tyg8_1758332368433.jpg",
+    "geo": [
+      35.659479,
+      139.700511
+    ],
+    "s": 11,
+    "mark": "天空街区域MV的常用背景素材",
+    "folder": "群青シグナル"
+  },
+  {
+    "id": "5794438",
+    "name": "クロス新宿スペース",
+    "image": "https://image.xinu.ink/pic/data/6592/images/5794438_1758332845604.jpg",
+    "geo": [
+      35.692679,
+      139.700976
+    ],
+    "s": 77,
+    "folder": "トノサマビーム"
+  },
+  {
+    "id": "f59s2gu",
+    "name": "葛西海浜公園 東側なぎさ",
+    "image": "https://image.xinu.ink/pic/data/6592/images/f59s2gu_1779980854593.jpg",
+    "geo": [
+      35.637568,
+      139.857112
+    ],
+    "s": 3,
+    "mark": "海滩上向西南方向拍摄，天气好可以看到图中右侧的突起建筑（若洲海浜公園北端展望台）",
+    "folder": "ソテリア",
+    "cn": "葛西海滨公园 东侧海岸"
+  },
+  {
+    "id": "f5al6kj",
+    "name": "葛西海浜公園 東側なぎさ",
+    "image": "https://image.xinu.ink/pic/data/6592/images/f5al6kj_1779982206078.jpg",
+    "geo": [
+      35.637572,
+      139.857097
+    ],
+    "s": 46,
+    "folder": "ソテリア",
+    "cn": "葛西海滨公园 东侧海岸"
+  },
+  {
+    "id": "f5aqg02",
+    "name": "葛西海浜公園 東側なぎさ",
+    "image": "https://image.xinu.ink/pic/data/6592/images/f5aqg02_1779982448890.jpg",
+    "geo": [
+      35.637571,
+      139.857083
+    ],
+    "s": 51,
+    "folder": "ソテリア",
+    "cn": "葛西海滨公园 东侧海岸"
+  },
+  {
+    "id": "f5aqu0g",
+    "name": "葛西海浜公園 東側なぎさ",
+    "image": "https://image.xinu.ink/pic/data/6592/images/f5aqu0g_1779982466518.jpg",
+    "geo": [
+      35.637564,
+      139.857069
+    ],
+    "s": 64,
+    "mark": "拉近景拍东南侧防波堤",
+    "folder": "ソテリア",
+    "cn": "葛西海滨公园 东侧海岸"
+  },
+  {
+    "id": "f5arm99",
+    "name": "葛西海浜公園 東側なぎさ",
+    "image": "https://image.xinu.ink/pic/data/6592/images/f5arm99_1779982505321.jpg",
+    "geo": [
+      35.637551,
+      139.857062
+    ],
+    "s": 65,
+    "folder": "ソテリア",
+    "cn": "葛西海滨公园 东侧海岸"
+  },
+  {
+    "id": "f59ymiq",
+    "name": "葛西海浜公園 東側なぎさ",
+    "image": "https://image.xinu.ink/pic/data/6592/images/f59ymiq_1779981156629.jpg",
+    "geo": [
+      35.637541,
+      139.857062
+    ],
+    "s": 10,
+    "mark": "向东南拍摄防波堤，不要拍到东侧的建筑",
+    "folder": "ソテリア",
+    "cn": "葛西海滨公园 东侧海岸"
+  },
+  {
+    "id": "f5ai7gt",
+    "name": "葛西海浜公園 東側なぎさ",
+    "image": "https://image.xinu.ink/pic/data/6592/images/f5ai7gt_1779982065782.jpg",
+    "geo": [
+      35.637529,
+      139.857071
+    ],
+    "s": 16,
+    "folder": "ソテリア",
+    "cn": "葛西海滨公园 东侧海岸"
+  },
+  {
+    "id": "f5aixd3",
+    "name": "葛西海浜公園 東側なぎさ",
+    "image": "https://image.xinu.ink/pic/data/6592/images/f5aixd3_1779982103210.jpg",
+    "geo": [
+      35.637524,
+      139.857083
+    ],
+    "s": 16,
+    "mark": "镜头偏正东，露出左后方树木",
+    "folder": "ソテリア",
+    "cn": "葛西海滨公园 东侧海岸"
+  },
+  {
+    "id": "f5akbxg",
+    "name": "葛西海浜公園 東側なぎさ",
+    "image": "https://image.xinu.ink/pic/data/6592/images/f5akbxg_1779982163643.jpg",
+    "geo": [
+      35.637519,
+      139.857099
+    ],
+    "s": 21,
+    "folder": "ソテリア",
+    "cn": "葛西海滨公园 东侧海岸"
+  },
+  {
+    "id": "f5akkpc",
+    "name": "葛西海浜公園 東側なぎさ",
+    "image": "https://image.xinu.ink/pic/data/6592/images/f5akkpc_1779982185350.jpg",
+    "geo": [
+      35.637514,
+      139.857114
+    ],
+    "s": 28,
+    "folder": "ソテリア",
+    "cn": "葛西海滨公园 东侧海岸"
+  },
+  {
+    "id": "f5b90ly",
+    "name": "葛西海浜公園 東側なぎさ",
+    "image": "https://image.xinu.ink/pic/data/6592/images/f5b90ly_1779983320889.jpg",
+    "geo": [
+      35.637505,
+      139.857132
+    ],
+    "s": 76,
+    "mark": "向西拍摄",
+    "folder": "ソテリア",
+    "cn": "葛西海滨公园 东侧海岸"
+  },
+  {
+    "id": "f5b9x65",
+    "name": "葛西海浜公園 東側なぎさ",
+    "image": "https://image.xinu.ink/pic/data/6592/images/f5b9x65_1779983363026.jpg",
+    "geo": [
+      35.637581,
+      139.856982
+    ],
+    "s": 80,
+    "mark": "卵石台阶旁拍摄",
+    "folder": "ソテリア",
+    "cn": "葛西海滨公园 东侧海岸"
+  },
+  {
+    "id": "f5bc3ty",
+    "name": "葛西海浜公園 東側なぎさ",
+    "image": "https://image.xinu.ink/pic/data/6592/images/f5bc3ty_1779983465759.jpg",
+    "geo": [
+      35.637439,
+      139.857368
+    ],
+    "s": 83,
+    "mark": "向北拍摄",
+    "folder": "ソテリア",
+    "cn": "葛西海滨公园 东侧海岸"
+  },
+  {
+    "id": "f5a33sy",
+    "name": "葛西渚橋",
+    "image": "https://image.xinu.ink/pic/data/6592/images/f5a33sy_1779981365071.jpg",
+    "geo": [
+      35.63886,
+      139.857142
+    ],
+    "s": 15,
+    "mark": "站在桥上，向东偏南拍摄岛礁和圆形建筑（舞浜ビューホテル）",
+    "folder": "ソテリア"
+  },
+  {
+    "id": "f5agh5k",
+    "name": "葛西渚橋",
+    "image": "https://image.xinu.ink/pic/data/6592/images/f5agh5k_1779981985006.jpg",
+    "geo": [
+      35.639294,
+      139.857318
+    ],
+    "s": 18,
+    "mark": "向西拍摄水面平台",
+    "folder": "ソテリア"
+  },
+  {
+    "id": "f5b439o",
+    "name": "葛西渚橋",
+    "image": "https://image.xinu.ink/pic/data/6592/images/f5b439o_1779983088173.jpg",
+    "geo": [
+      35.639249,
+      139.857341
+    ],
+    "s": 75,
+    "mark": "向东拍",
+    "folder": "ソテリア"
+  },
+  {
+    "id": "f5avgo8",
+    "name": "展望レストハウス クリスタルビュー",
+    "image": "https://image.xinu.ink/pic/data/6592/images/f5avgo8_1779982702980.jpg",
+    "geo": [
+      35.640589,
+      139.859619
+    ],
+    "s": 66,
+    "mark": "建筑外侧阳台向防波堤拍",
+    "folder": "ソテリア"
+  },
+  {
+    "id": "f5azu0t",
+    "name": "展望レストハウス クリスタルビュー",
+    "image": "https://image.xinu.ink/pic/data/6592/images/f5azu0t_1779982905244.jpg",
+    "geo": [
+      35.640579,
+      139.859619
+    ],
+    "s": 66,
+    "mark": "不确定具体位置 疑似建筑3F向外拍？",
+    "folder": "ソテリア"
+  },
+  {
+    "id": "f9e88je",
+    "name": "ウッド村ファーム",
+    "image": "https://image.xinu.ink/pic/data/6592/images/f9e88je_1780230508318.jpg",
+    "geo": [
+      35.768828,
+      140.752226
+    ],
+    "s": "封面",
+    "mark": "铫子市民营农场ウッド村ファーム的主题曲，2017年3月收录进maimai。此处为ウッド村ファーム事务所兼私宅，谢绝个人访问。",
+    "folder": "きらっせ☆ウッド村ファーム",
+    "cn": "WOOD村FARM"
+  }
+]

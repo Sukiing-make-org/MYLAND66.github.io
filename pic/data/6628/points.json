@@ -1,0 +1,123 @@
+[
+  {
+    "id": "bkmkmy6",
+    "name": "渋谷スクランブル交差点",
+    "image": "https://image.xinu.ink/pic/data/6628/images/bkmkmy6-1772202347264.jpg",
+    "geo": [
+      35.659485,
+      139.70052
+    ],
+    "ep": "op",
+    "origin": "aozumi"
+  },
+  {
+    "id": "bkmvoip",
+    "name": "Studio ALTA",
+    "image": "https://image.xinu.ink/pic/data/6628/images/bkmvoip-1772202798588.jpg",
+    "geo": [
+      35.692413,
+      139.701078
+    ],
+    "ep": 10,
+    "s": 785,
+    "mark": "已於2025年2月結業",
+    "origin": "aozumi"
+  },
+  {
+    "id": "bn16aqs",
+    "name": "押上駅A1出口",
+    "image": "https://image.xinu.ink/pic/data/6628/images/bn16aqs-1772347802136.jpg",
+    "geo": [
+      35.71072,
+      139.814327
+    ],
+    "ep": 15,
+    "s": 112,
+    "mark": "A1出口与周边于2010年重建，仅有站牌设计被保留，车站旧设计为半圆顶",
+    "origin": "aozumi"
+  },
+  {
+    "id": "bn1nuqj",
+    "name": "渡月橋",
+    "image": "https://image.xinu.ink/pic/data/6628/images/bn1nuqj-1772348531622.jpg",
+    "geo": [
+      35.013605,
+      135.67767
+    ],
+    "ep": 16,
+    "s": 771,
+    "origin": "aozumi"
+  },
+  {
+    "id": "bn1shjg",
+    "name": "渡月橋",
+    "image": "https://image.xinu.ink/pic/data/6628/images/bn1shjg-1772348694464.jpg",
+    "geo": [
+      35.013023,
+      135.677777
+    ],
+    "ep": 16,
+    "s": 783,
+    "origin": "aozumi"
+  },
+  {
+    "id": "bn1u06m",
+    "name": "渡月橋",
+    "image": "https://image.xinu.ink/pic/data/6628/images/bn1u06m-1772348767395.jpg",
+    "geo": [
+      35.013632,
+      135.677923
+    ],
+    "ep": 16,
+    "s": 789,
+    "origin": "aozumi"
+  },
+  {
+    "id": "bn1zq1g",
+    "name": "貴船神社",
+    "image": "https://image.xinu.ink/pic/data/6628/images/bn1zq1g-1772349065833.jpg",
+    "geo": [
+      35.12188,
+      135.763002
+    ],
+    "ep": 16,
+    "s": 1021,
+    "origin": "aozumi"
+  },
+  {
+    "id": "bn1x5ks",
+    "name": "貴船神社",
+    "image": "https://image.xinu.ink/pic/data/6628/images/bn1x5ks-1772348919489.jpg",
+    "geo": [
+      35.121409,
+      135.763166
+    ],
+    "ep": 16,
+    "s": 1035,
+    "origin": "aozumi"
+  },
+  {
+    "id": "cu8j0a2",
+    "name": "渋谷スクランブル交差点",
+    "image": "https://image.xinu.ink/pic/data/6628/images/cu8j0a2-1774960056086.jpg",
+    "geo": [
+      35.65946,
+      139.700508
+    ],
+    "ep": 26,
+    "s": 1362,
+    "origin": "aozumi"
+  },
+  {
+    "id": "cu8klx1",
+    "name": "渋谷スクランブル交差点",
+    "image": "https://image.xinu.ink/pic/data/6628/images/cu8klx1-1774960147360.jpg",
+    "geo": [
+      35.659445,
+      139.700505
+    ],
+    "ep": 26,
+    "s": 1374,
+    "origin": "aozumi"
+  }
+]

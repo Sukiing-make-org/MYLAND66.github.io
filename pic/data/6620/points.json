@@ -1,0 +1,1041 @@
+[
+  {
+    "id": "dw4bgdv",
+    "name": "牟礼駅内",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dw4bgdv-1777454727961.jpg",
+    "geo": [
+      36.753032,
+      138.247649
+    ],
+    "ep": 1,
+    "s": "01:20:20",
+    "mark": "动画中的岩舟站，在电影中分开两部分取景，下车和站内的镜头都是在牟礼完成真人版取景。",
+    "origin": "JR",
+    "cn": "牟礼站内"
+  },
+  {
+    "id": "dw4ylbz",
+    "name": "黑姬站",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dw4ylbz-1777251864125.jpg",
+    "geo": [
+      36.808088,
+      138.196031
+    ],
+    "ep": 1,
+    "s": "1:26:56",
+    "mark": "动画中的岩舟站，在电影中分开两部分取景，少年时期贵树和明理相见后，第二天离别的镜头是在黑姬站站台完成真人版取景。",
+    "origin": "JR",
+    "cn": "黑姬站"
+  },
+  {
+    "id": "dw57ofu",
+    "name": "牟礼",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dw57ofu-1777252208003.jpg",
+    "geo": [
+      36.753109,
+      138.24762
+    ],
+    "ep": 1,
+    "s": "1:19:40",
+    "mark": "动画中的岩舟站，在电影中分开两部分取景，下车和站内的镜头都是在牟礼完成真人版取景。",
+    "origin": "JR",
+    "cn": "牟礼站"
+  },
+  {
+    "id": "dw5blyb",
+    "name": "妙高高原",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dw5blyb-1777252506092.jpg",
+    "geo": [
+      36.872338,
+      138.212225
+    ],
+    "ep": 1,
+    "s": "01:17:00",
+    "mark": "动画中的小山站，电影版用妙高高原站取景。贵树在此准备换乘两毛线前往岩舟，却在站台上被风吹走写给明里的信。",
+    "cn": "妙高高原站"
+  },
+  {
+    "id": "dw5ol7f",
+    "name": "纪伊国屋书店 新宿本店",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dw5ol7f-1777253001758.jpg",
+    "geo": [
+      35.691964,
+      139.702689
+    ],
+    "ep": 1,
+    "s": "00:10:00",
+    "origin": "JR",
+    "cn": "纪伊国屋书店 新宿本店"
+  },
+  {
+    "id": "dw69w8q",
+    "name": "豪徳寺駅",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dw69w8q-1777254083575.jpg",
+    "geo": [
+      35.653698,
+      139.647462
+    ],
+    "ep": 1,
+    "s": "00:14:00",
+    "origin": "JR",
+    "cn": "豪德寺2号站台"
+  },
+  {
+    "id": "dw78x9y",
+    "name": "川島商店街",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dw78x9y-1777255655165.jpg",
+    "geo": [
+      35.687983,
+      139.673137
+    ],
+    "ep": 1,
+    "s": "00:23:53",
+    "origin": "JR",
+    "cn": "川岛商店街"
+  },
+  {
+    "id": "dwc0hjy",
+    "name": "北区立音無もみじ緑地",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dwc0hjy-1777263675842.jpg",
+    "geo": [
+      35.75185,
+      139.729532
+    ],
+    "ep": 1,
+    "s": "00:26:00",
+    "mark": "松橋弁財天洞窟跡旁",
+    "origin": "JR",
+    "cn": "北区立音无红叶绿地"
+  },
+  {
+    "id": "dwy6gki",
+    "name": "参宮橋公園",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dwy6gki-1777300871862.jpg",
+    "geo": [
+      35.679197,
+      139.692229
+    ],
+    "ep": 1,
+    "s": "00:26:07",
+    "origin": "JR",
+    "cn": "参宫桥公园"
+  },
+  {
+    "id": "dwy9idr",
+    "name": "参宮橋公園前(1)",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dwy9idr-1777301008175.jpg",
+    "geo": [
+      35.678711,
+      139.692726
+    ],
+    "ep": 1,
+    "s": "00:26:15",
+    "origin": "JR",
+    "cn": "参宫桥公园前(1)"
+  },
+  {
+    "id": "dwybqv5",
+    "name": "新宿中央公園水の広場",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dwybqv5-1777301100668.jpg",
+    "geo": [
+      35.690137,
+      139.689812
+    ],
+    "ep": 1,
+    "s": "00:29:05",
+    "origin": "JR",
+    "cn": "新宿中央公園水之广场"
+  },
+  {
+    "id": "dwyfazu",
+    "name": "新宿中央公園白糸の滝",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dwyfazu-1777301270673.jpg",
+    "geo": [
+      35.690063,
+      139.68946
+    ],
+    "ep": 1,
+    "s": "01:51:33",
+    "origin": "JR",
+    "cn": "新宿中央公园白线瀑布"
+  },
+  {
+    "id": "dwyiyju",
+    "name": "毎日新聞社の本社ビル屋上",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dwyiyju-1777301437300.jpg",
+    "geo": [
+      35.690845,
+      139.757018
+    ],
+    "ep": 1,
+    "s": "00:30:00",
+    "origin": "JR",
+    "cn": "每日新闻社本社大厦天台"
+  },
+  {
+    "id": "dwysoiq",
+    "name": "種子島長浜",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dwysoiq-1777301983658.jpg",
+    "geo": [
+      30.494989,
+      130.898226
+    ],
+    "ep": 1,
+    "s": "00:30:30",
+    "origin": "JR",
+    "cn": "种子岛长滨"
+  },
+  {
+    "id": "dwyw25j",
+    "name": "種子島中央高等学校 駐輪場",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dwyw25j-1777302150823.jpg",
+    "geo": [
+      30.540816,
+      130.960512
+    ],
+    "ep": 1,
+    "s": "00:33:00",
+    "origin": "JR",
+    "cn": "种子岛中央高中 停车场"
+  },
+  {
+    "id": "dwyzfjm",
+    "name": "種子島長浜",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dwyzfjm-1777302224995.jpg",
+    "geo": [
+      30.495565,
+      130.898771
+    ],
+    "ep": 1,
+    "s": "00:33:58",
+    "origin": "JR",
+    "cn": "种子岛长滨"
+  },
+  {
+    "id": "dwz1tqv",
+    "name": "アイショップ 石堂店",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dwz1tqv-1777302363078.jpg",
+    "geo": [
+      30.546728,
+      130.970912
+    ],
+    "ep": 1,
+    "s": "00:35:00",
+    "origin": "JR",
+    "cn": "i-Shop 石堂店"
+  },
+  {
+    "id": "dwz48db",
+    "name": "中山海岸",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dwz48db-1777302444335.jpg",
+    "geo": [
+      30.530206,
+      130.993226
+    ],
+    "ep": 1,
+    "s": "00:43:05",
+    "origin": "JR",
+    "cn": "中山海岸"
+  },
+  {
+    "id": "dwz5kx0",
+    "name": "アイショップ 石堂店(2)",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dwz5kx0-1777302528383.jpg",
+    "geo": [
+      30.546739,
+      130.970925
+    ],
+    "ep": 1,
+    "s": "00:47:35",
+    "origin": "JR",
+    "cn": "i-Shop 石堂店(2)"
+  },
+  {
+    "id": "dwz8a6i",
+    "name": "幽霊坂",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dwz8a6i-1777302619912.jpg",
+    "geo": [
+      30.584076,
+      130.969405
+    ],
+    "ep": 1,
+    "s": "00:49:05",
+    "origin": "JR",
+    "cn": "幽灵坡"
+  },
+  {
+    "id": "dwzbkd8",
+    "name": "世界堂新宿店前路口",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dwzbkd8-1777302786919.jpg",
+    "geo": [
+      35.689623,
+      139.706314
+    ],
+    "ep": 1,
+    "s": "00:58:12",
+    "origin": "JR",
+    "cn": "世界堂新宿店前路口"
+  },
+  {
+    "id": "dwzfr7j",
+    "name": "東松戸中央公園",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dwzfr7j-1777303276104.jpg",
+    "geo": [
+      35.773125,
+      139.94635
+    ],
+    "ep": 1,
+    "s": "01:08:10",
+    "origin": "JR",
+    "cn": "东松户中央公园"
+  },
+  {
+    "id": "dwzo3pn",
+    "name": "黒姫駅",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dwzo3pn-1777303377073.jpg",
+    "geo": [
+      36.807864,
+      138.19622
+    ],
+    "ep": 1,
+    "s": "01:26:30",
+    "origin": "JR",
+    "cn": "黑姬站"
+  },
+  {
+    "id": "dwzsnzj",
+    "name": "多摩六都科学館プラネタリウム",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dwzsnzj-1777303720724.jpg",
+    "geo": [
+      35.734525,
+      139.523127
+    ],
+    "ep": 1,
+    "s": "01:49:30",
+    "origin": "JR",
+    "cn": "多摩六都科学馆天象厅"
+  },
+  {
+    "id": "dx12rcz",
+    "name": "新宿三井ビルディング 55広場",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dx12rcz-1777305765656.jpg",
+    "geo": [
+      35.69124,
+      139.694295
+    ],
+    "ep": 1,
+    "s": "00:00:37",
+    "origin": "JR",
+    "cn": "新宿三井大厦55广场"
+  },
+  {
+    "id": "dx1b714",
+    "name": "豪徳寺駅(2)",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dx1b714-1777306110700.jpg",
+    "geo": [
+      35.653744,
+      139.647379
+    ],
+    "ep": 1,
+    "s": "00:00:55",
+    "origin": "JR",
+    "cn": "豪德寺站(2)"
+  },
+  {
+    "id": "dxme662",
+    "name": "南石集会所前",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dxme662-1777341522591.jpg",
+    "geo": [
+      36.701838,
+      138.259656
+    ],
+    "ep": 1,
+    "s": "01:11:48",
+    "origin": "JR",
+    "cn": "南石集会所前"
+  },
+  {
+    "id": "dxn4hh8",
+    "name": "参宮橋高架下",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dxn4hh8-1777342801008.jpg",
+    "geo": [
+      35.679539,
+      139.694269
+    ],
+    "ep": 1,
+    "s": "01:13:18",
+    "origin": "JR",
+    "cn": "参宫桥高架下"
+  },
+  {
+    "id": "dxn7z8l",
+    "name": "参宮橋3号踏切",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dxn7z8l-1777342916009.jpg",
+    "geo": [
+      35.675311,
+      139.691726
+    ],
+    "ep": 1,
+    "s": "01:56:38",
+    "origin": "JR",
+    "cn": "参宮桥3号踏切"
+  },
+  {
+    "id": "dxn91iw",
+    "name": "参宮橋3号踏切(2)",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dxn91iw-1777342982091.jpg",
+    "geo": [
+      35.675279,
+      139.691751
+    ],
+    "ep": 1,
+    "s": "01:57:14",
+    "origin": "JR",
+    "cn": "参宮桥3号踏切(2)"
+  },
+  {
+    "id": "dxnefmc",
+    "name": "鹿児島相互信用金庫中種子支店",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dxnefmc-1777343219659.jpg",
+    "geo": [
+      30.537426,
+      130.960094
+    ],
+    "ep": 1,
+    "s": "00:50:31",
+    "origin": "JR",
+    "cn": "鹿儿岛相互信用金库中种子支店"
+  },
+  {
+    "id": "dxngpb0",
+    "name": "毎日新聞社の本社ビルエレベーターホール",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dxngpb0-1777343466252.jpg",
+    "geo": [
+      35.690972,
+      139.75678
+    ],
+    "ep": 1,
+    "s": "00:06:58",
+    "origin": "JR",
+    "cn": "每日新闻社本社大厦电梯厅"
+  },
+  {
+    "id": "dxnljvz",
+    "name": "妙高高原駅(2)",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dxnljvz-1777343550985.jpg",
+    "geo": [
+      36.872098,
+      138.212109
+    ],
+    "ep": 1,
+    "s": "01:17:12",
+    "origin": "JR",
+    "cn": "妙高高原站(2)"
+  },
+  {
+    "id": "dxnmjnu",
+    "name": "妙高高原駅(3)",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dxnmjnu-1777343610813.jpg",
+    "geo": [
+      36.872417,
+      138.212324
+    ],
+    "ep": 1,
+    "s": "01:16:46",
+    "origin": "JR",
+    "cn": "妙高高原站(3)"
+  },
+  {
+    "id": "dxnoy9r",
+    "name": "代々木八幡から見下ろす山手通り",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dxnoy9r-1777344189386.jpg",
+    "geo": [
+      35.671486,
+      139.687993
+    ],
+    "ep": 1,
+    "s": "00:22:44",
+    "origin": "JR",
+    "cn": "代代木八幡神社阶梯"
+  },
+  {
+    "id": "dxo3w7v",
+    "name": "代々木八幡宮階段",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dxo3w7v-1777344443682.jpg",
+    "geo": [
+      35.671495,
+      139.688001
+    ],
+    "ep": 1,
+    "s": "00:14:32",
+    "origin": "JR",
+    "cn": "代代木八幡宫阶梯(2)"
+  },
+  {
+    "id": "dxod0dn",
+    "name": "北区立音無えのき緑地",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dxod0dn-1777344828785.jpg",
+    "geo": [
+      35.751063,
+      139.727698
+    ],
+    "ep": 1,
+    "s": "00:25:50",
+    "origin": "JR",
+    "cn": "北区立音无榎木绿地"
+  },
+  {
+    "id": "dxoqi7r",
+    "name": "公衆電話ボックス",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dxoqi7r-1777345475848.jpg",
+    "geo": [
+      35.680019,
+      139.693711
+    ],
+    "ep": 1,
+    "s": "01:09:16",
+    "origin": "JR",
+    "cn": "参宫桥高架下电话亭"
+  },
+  {
+    "id": "dxoua2j",
+    "name": "纪伊国屋书店 新宿本店前",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dxoua2j-1777345639537.jpg",
+    "geo": [
+      35.691954,
+      139.70265
+    ],
+    "ep": 1,
+    "s": "00:09:25",
+    "origin": "JR",
+    "cn": "纪伊国屋书店 新宿本店前"
+  },
+  {
+    "id": "dxplu3u",
+    "name": "北区立音無さくら緑地",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dxplu3u-1777346919327.jpg",
+    "geo": [
+      35.752406,
+      139.73049
+    ],
+    "ep": 1,
+    "s": "00:25:45",
+    "origin": "JR",
+    "cn": "北区立音无樱绿地"
+  },
+  {
+    "id": "dxq5mvh",
+    "name": "ミミーと明里と貴樹",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dxq5mvh-1777347878335.jpg",
+    "geo": [
+      35.671598,
+      139.688096
+    ],
+    "ep": 1,
+    "s": "00:22:49",
+    "origin": "JR",
+    "cn": "咪咪、明里和贵树"
+  },
+  {
+    "id": "dzg9uak",
+    "name": "「風景の断片」前",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dzg9uak-1777452176177.jpg",
+    "geo": [
+      35.687229,
+      139.691718
+    ],
+    "ep": 1,
+    "s": "01:53:45",
+    "mark": "远野贵树与水野理纱分别之地\n",
+    "origin": "JR",
+    "cn": "《风景片段》前"
+  },
+  {
+    "id": "dzgmqm1",
+    "name": "貴樹の喫煙スポット",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dzgmqm1-1777452999347.jpg",
+    "geo": [
+      35.68865,
+      139.692787
+    ],
+    "ep": 1,
+    "s": "00:04:35",
+    "origin": "JR",
+    "cn": "贵树抽烟的地方"
+  },
+  {
+    "id": "dzh137x",
+    "name": "参宮橋公園前(2)",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dzh137x-1777453449246.jpg",
+    "geo": [
+      35.678707,
+      139.692741
+    ],
+    "ep": 1,
+    "s": "00:27:10",
+    "origin": "JR",
+    "cn": "参宫桥公园前(2)"
+  },
+  {
+    "id": "dzh6lq7",
+    "name": "参宮橋公園前の坂",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dzh6lq7-1777453840650.jpg",
+    "geo": [
+      35.678644,
+      139.692927
+    ],
+    "ep": 1,
+    "s": "00:27:25",
+    "origin": "JR",
+    "cn": "参宫桥公园前斜坡"
+  },
+  {
+    "id": "dzhc7ji",
+    "name": "参宮橋1号踏切（向こうに明里)",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dzhc7ji-1777453967967.jpg",
+    "geo": [
+      35.677711,
+      139.692958
+    ],
+    "ep": 1,
+    "s": "00:27:35",
+    "origin": "JR",
+    "cn": "参宫桥1号铁路道口（明里在另一侧）"
+  },
+  {
+    "id": "dzhe6e5",
+    "name": "参宮橋1号踏切（向こうに貴樹)",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dzhe6e5-1777454085800.jpg",
+    "geo": [
+      35.677673,
+      139.692999
+    ],
+    "ep": 1,
+    "s": "00:27:34",
+    "origin": "JR",
+    "cn": "参宫桥1号铁路道口（贵树在另一侧）"
+  },
+  {
+    "id": "dzhg4gt",
+    "name": "参宮橋1号踏切",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dzhg4gt-1777454158827.jpg",
+    "geo": [
+      35.677697,
+      139.692982
+    ],
+    "ep": 1,
+    "s": "00:27:33",
+    "origin": "JR",
+    "cn": "参宫桥1号铁路道口"
+  },
+  {
+    "id": "dzhwf3g",
+    "name": "牟礼駅外",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dzhwf3g-1777454924178.jpg",
+    "geo": [
+      36.752724,
+      138.246818
+    ],
+    "ep": 1,
+    "s": "01:21:39",
+    "origin": "JR",
+    "cn": "牟礼站外"
+  },
+  {
+    "id": "dzhyuit",
+    "name": "牟礼駅外(2)",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dzhyuit-1777455116075.jpg",
+    "geo": [
+      36.752905,
+      138.247345
+    ],
+    "ep": 1,
+    "s": "01:21:44",
+    "origin": "JR",
+    "cn": "牟礼站外(2)"
+  },
+  {
+    "id": "e0ruyyq",
+    "name": "さとうきび畑の通学路",
+    "image": "https://image.xinu.ink/pic/data/6620/images/e0ruyyq-1777532110455.jpg",
+    "geo": [
+      30.512636,
+      130.961035
+    ],
+    "ep": 1,
+    "s": "00:30:20",
+    "origin": "JR",
+    "cn": "甘蔗田上学路"
+  },
+  {
+    "id": "e0qz1cn",
+    "name": "新宿文化クイントビル前",
+    "image": "https://image.xinu.ink/pic/data/6620/images/e0qz1cn-1777530612844.jpg",
+    "geo": [
+      35.686419,
+      139.694661
+    ],
+    "ep": 1,
+    "s": "00:28:54",
+    "origin": "JR",
+    "cn": "新宿文化Quint大楼前"
+  },
+  {
+    "id": "e0qwlp2",
+    "name": "新宿文化クイントビル前",
+    "image": "https://image.xinu.ink/pic/data/6620/images/e0qwlp2-1777530532057.jpg",
+    "geo": [
+      35.68649,
+      139.694801
+    ],
+    "ep": 1,
+    "s": "00:28:52",
+    "origin": "JR",
+    "cn": "新宿文化Quint大楼前"
+  },
+  {
+    "id": "e0mwnni",
+    "name": "新宿モノリス前",
+    "image": "https://image.xinu.ink/pic/data/6620/images/e0mwnni-1777523789351.jpg",
+    "geo": [
+      35.688344,
+      139.694157
+    ],
+    "ep": 1,
+    "s": "00:12:05",
+    "origin": "JR",
+    "cn": "新宿Monolith前"
+  },
+  {
+    "id": "e0mvryp",
+    "name": "新宿モノリス前",
+    "image": "https://image.xinu.ink/pic/data/6620/images/e0mvryp-1777523743183.jpg",
+    "geo": [
+      35.688487,
+      139.694178
+    ],
+    "ep": 1,
+    "s": "00:11:57",
+    "origin": "JR",
+    "cn": "新宿Monolith前"
+  },
+  {
+    "id": "e0muc24",
+    "name": "新宿モノリス前",
+    "image": "https://image.xinu.ink/pic/data/6620/images/e0muc24-1777523720288.jpg",
+    "geo": [
+      35.688563,
+      139.694142
+    ],
+    "ep": 1,
+    "s": "00:11:38",
+    "origin": "JR",
+    "cn": "新宿Monolith前"
+  },
+  {
+    "id": "e0kxykr",
+    "name": "貴樹のアパート",
+    "image": "https://image.xinu.ink/pic/data/6620/images/e0kxykr-1777520486417.jpg",
+    "geo": [
+      35.689549,
+      139.684358
+    ],
+    "ep": 1,
+    "s": "00:08:30",
+    "origin": "JR",
+    "cn": "贵树的住所"
+  },
+  {
+    "id": "e0kqz0x",
+    "name": "西新宿IKビルから南東方向を望む",
+    "image": "https://image.xinu.ink/pic/data/6620/images/e0kqz0x-1777520158742.jpg",
+    "geo": [
+      35.689523,
+      139.684418
+    ],
+    "ep": 1,
+    "s": "00:07:51",
+    "origin": "JR",
+    "cn": "西新宿IK大厦向东南方向眺望"
+  },
+  {
+    "id": "dzwc3f6",
+    "name": "創作和食うどんDINING するり 新宿本店",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dzwc3f6-1777479349077.jpg",
+    "geo": [
+      35.69435,
+      139.70423
+    ],
+    "ep": 1,
+    "s": "00:59:53",
+    "origin": "JR",
+    "cn": "Sururi 新宿本店"
+  },
+  {
+    "id": "dzy594e",
+    "name": "西新宿 5-12-2",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dzy594e-1777482199041.jpg",
+    "geo": [
+      35.692432,
+      139.686514
+    ],
+    "ep": 1,
+    "s": "00:00:29",
+    "origin": "JR",
+    "cn": "西新宿 5-12-2"
+  },
+  {
+    "id": "dzyayll",
+    "name": "科学館の電波塔",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dzyayll-1777482476991.jpg",
+    "geo": [
+      35.734379,
+      139.522917
+    ],
+    "ep": 1,
+    "s": "00:00:35",
+    "origin": "JR",
+    "cn": "科学馆信号塔"
+  },
+  {
+    "id": "e0hw804",
+    "name": "参宮橋3号踏切信号機",
+    "image": "https://image.xinu.ink/pic/data/6620/images/e0hw804-1777515364074.jpg",
+    "geo": [
+      35.675327,
+      139.691711
+    ],
+    "ep": 1,
+    "s": "00:00:33",
+    "origin": "JR",
+    "cn": "参宮桥3号踏切信号灯"
+  },
+  {
+    "id": "e0ifcop",
+    "name": "新宿三井ビルの東側",
+    "image": "https://image.xinu.ink/pic/data/6620/images/e0ifcop-1777517375403.jpg",
+    "geo": [
+      35.691733,
+      139.694529
+    ],
+    "ep": 1,
+    "s": "00:00:36",
+    "origin": "JR",
+    "cn": "新宿三井大厦东侧"
+  },
+  {
+    "id": "e0kor5w",
+    "name": "貴樹の帰路",
+    "image": "https://image.xinu.ink/pic/data/6620/images/e0kor5w-1777520056957.jpg",
+    "geo": [
+      35.689461,
+      139.68466
+    ],
+    "ep": 1,
+    "s": "00:08:05",
+    "origin": "JR",
+    "cn": "贵树下班回家路"
+  },
+  {
+    "id": "dzn8m1y",
+    "name": "公衆電話ボックス(2)",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dzn8m1y-1777463875736.jpg",
+    "geo": [
+      35.68001,
+      139.693712
+    ],
+    "ep": 1,
+    "s": "01:09:52",
+    "origin": "JR",
+    "cn": "参宫桥高架下电话亭(2)"
+  },
+  {
+    "id": "dznpdvj",
+    "name": "牟礼駅",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dznpdvj-1777464657000.jpg",
+    "geo": [
+      36.753058,
+      138.247562
+    ],
+    "ep": 1,
+    "s": "01:40:51",
+    "origin": "JR",
+    "cn": "牟礼站"
+  },
+  {
+    "id": "dztu2dx",
+    "name": "泉ガーデンタワーのエスカレーター",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dztu2dx-1777475089065.jpg",
+    "geo": [
+      35.664666,
+      139.739113
+    ],
+    "ep": 1,
+    "s": "00:59:10",
+    "origin": "JR",
+    "cn": "泉花园大厦扶手电梯"
+  },
+  {
+    "id": "dznke9l",
+    "name": "黒姫駅",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dznke9l-1777464447999.jpg",
+    "geo": [
+      36.808041,
+      138.196111
+    ],
+    "ep": 1,
+    "s": "01:36:55",
+    "mark": "明里美如画",
+    "origin": "JR",
+    "cn": "黑姬站"
+  },
+  {
+    "id": "dznhmkz",
+    "name": "黒姫駅",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dznhmkz-1777464293158.jpg",
+    "geo": [
+      36.807984,
+      138.196166
+    ],
+    "ep": 1,
+    "s": "01:36:50",
+    "origin": "JR",
+    "cn": "黑姬站"
+  },
+  {
+    "id": "dzqh0sj",
+    "name": "笹原横断歩道橋(ｻｻﾊﾗｵｳﾀﾞﾝﾎﾄﾞｳｷｮｳ)",
+    "image": "https://image.xinu.ink/pic/data/6620/images/dzqh0sj-1777469384131.jpg",
+    "geo": [
+      35.645987,
+      139.622098
+    ],
+    "ep": 1,
+    "s": "01:43:09",
+    "origin": "JR",
+    "cn": "笹原人行天桥"
+  },
+  {
+    "id": "e3mzhpq",
+    "name": "南種子郵便局",
+    "image": "https://image.xinu.ink/pic/data/6620/images/e3mzhpq-1777705457752.jpg",
+    "geo": [
+      30.418111,
+      130.901312
+    ],
+    "ep": 1,
+    "s": "00:42:01",
+    "cn": "南种子邮便局"
+  },
+  {
+    "id": "e3ngt0h",
+    "name": "南種子郵便局",
+    "image": "https://image.xinu.ink/pic/data/6620/images/e3ngt0h-1777706153470.jpg",
+    "geo": [
+      30.417936,
+      130.901378
+    ],
+    "ep": 1,
+    "s": "00:42:22",
+    "cn": "南种子邮便局"
+  },
+  {
+    "id": "e3ni5o9",
+    "name": "南種子郵便局",
+    "image": "https://image.xinu.ink/pic/data/6620/images/e3ni5o9-1777706196757.jpg",
+    "geo": [
+      30.417966,
+      130.901401
+    ],
+    "ep": 1,
+    "s": "00:42:33",
+    "cn": "南种子邮便局"
+  },
+  {
+    "id": "e3nj729",
+    "name": "いわさきホテルコスモリゾート",
+    "image": "https://image.xinu.ink/pic/data/6620/images/e3nj729-1777706233552.jpg",
+    "geo": [
+      30.375152,
+      130.949487
+    ],
+    "ep": 1,
+    "s": "00:44:36",
+    "cn": "岩崎酒店"
+  },
+  {
+    "id": "e3wdbjw",
+    "name": "貴樹と花苗がおしゃべりをしていた草原",
+    "image": "https://image.xinu.ink/pic/data/6620/images/e3wdbjw-1777721153090.jpg",
+    "geo": [
+      30.550006,
+      130.975882
+    ],
+    "ep": 1,
+    "s": "00:41:06",
+    "cn": "贵树和花苗聊天的那片草地"
+  },
+  {
+    "id": "e3zloiv",
+    "name": "貴樹と花苗が別れを告げた交差点で",
+    "image": "https://image.xinu.ink/pic/data/6620/images/e3zloiv-1777726504499.jpg",
+    "geo": [
+      30.516601,
+      130.965611
+    ],
+    "ep": 1,
+    "s": "00:51:44",
+    "cn": "贵树和花苗分别的路口"
+  },
+  {
+    "id": "e3wvs1x",
+    "name": "野间の草原",
+    "image": "https://image.xinu.ink/pic/data/6620/images/e3wvs1x-1777721937309.jpg",
+    "geo": [
+      30.5498,
+      130.975653
+    ],
+    "ep": 1,
+    "s": "00:44:15",
+    "cn": "野间的草地"
+  },
+  {
+    "id": "e3zwsc7",
+    "name": "ミュージックスタジオ アミーゴ",
+    "image": "https://image.xinu.ink/pic/data/6620/images/e3zwsc7-1777727054526.jpg",
+    "geo": [
+      30.732938,
+      130.994859
+    ],
+    "ep": 1,
+    "s": "00:46:28",
+    "cn": "西之表AMIGO"
+  },
+  {
+    "id": "e40nhkz",
+    "name": "豊野駅",
+    "image": "https://image.xinu.ink/pic/data/6620/images/e40nhkz-1777728303911.jpg",
+    "geo": [
+      36.710852,
+      138.275354
+    ],
+    "ep": 1,
+    "s": "01:14:51",
+    "cn": "丰野站"
+  },
+  {
+    "id": "e6n41qt",
+    "name": "サトウキビ畑の中の小道",
+    "image": "https://image.xinu.ink/pic/data/6620/images/e6n41qt-1777886990491.jpg",
+    "geo": [
+      30.546641,
+      130.971681
+    ],
+    "ep": 1,
+    "s": "00:39:43",
+    "mark": "拍照地点并非在公路上，是在公路电线杆边蔗田里的泥路里面，在日落时分向西方拍摄。注意该地可能属于私人财产，进入前应先征询同意。",
+    "origin": "JR",
+    "originURL": "https://www.google.com.hk/maps/place/%E5%B9%BD%E9%9C%8A%E5%9D%82/@30.546567,130.9717712,3a,75y,331.14h,84.43t/data=!3m7!1e1!3m5!1sdWuwsINSr1mpC03YKWZMEA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.566895180024474%26panoid%3DdWuwsINSr1mpC03YKWZMEA%26yaw%3D331.14080480136255!7i16384!8i8192!4m15!1m8!3m7!1s0x353c5fdf6f5dee77:0xbad62b07fbf5bbf5!2z5pel5pys6bm_5YS_5bKb5Y6_54aK5q-b6YOh5Lit56eN5a2Q55S6!3b1!8m2!3d30.5330005!4d130.9586835!16zL20vMDJjMWZ6!3m5!1s0x353c61005499c507:0x13276f03241a516f!8m2!3d30.5855437!4d130.9709757!16s%2Fg%2F11mkhzg2pr?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+    "cn": "甘蔗田中的小路"
+  }
+]
