@@ -82,7 +82,9 @@ def setup_logging(verbose: bool = False):
     sh.setLevel(logging.DEBUG if verbose else logging.INFO)
     sh.setFormatter(fmt)
     logger.addHandler(sh)
-    fh = logging.FileHandler(LOG_FILE, encoding="utf-8")
+    # 日志文件用 RotatingFileHandler 限制大小, 防止 GitHub Actions 100MB 上限
+    from logging.handlers import RotatingFileHandler
+    fh = RotatingFileHandler(LOG_FILE, maxBytes=50 * 1024 * 1024, backupCount=1, encoding="utf-8")
     fh.setLevel(logging.DEBUG)
     fh.setFormatter(fmt)
     logger.addHandler(fh)
@@ -1232,6 +1234,7 @@ class AnitabiWebScraper:
     def discover_and_update(
         self,
         max_new: int = 50,
+        max_update: int = 0,
         dry_run: bool = False,
         delay: float = 1.0,
     ) -> List[Dict]:
@@ -1239,6 +1242,10 @@ class AnitabiWebScraper:
 
         主页的 mapApp.bangumis 包含全部番剧及其巡礼点 (含经纬度),
         因此只需加载一次主页即可完成发现 + 更新, 无需逐个打开番剧页面。
+
+        Args:
+            max_new: 每次最多新增多少部新番剧 (0=不限制)
+            max_update: 每次最多增量更新多少部已有番剧 (0=不限制, 更新全部)
         """
         results = []
 
@@ -1296,8 +1303,11 @@ class AnitabiWebScraper:
 
         # 6. 增量更新已有番剧 (从主页内存提取, 无需重新加载页面)
         existing_to_update = [(lid, bid) for lid, bid in local_items if bid in web_id_set]
+        if max_update and max_update > 0:
+            existing_to_update = existing_to_update[:max_update]
         logger.info("=" * 60)
-        logger.info("开始增量更新 %d 部已有番剧", len(existing_to_update))
+        logger.info("开始增量更新 %d 部已有番剧%s", len(existing_to_update),
+                     f" (共 {len(local_items)} 部, 限制 {max_update})" if max_update else "")
 
         for i, (local_id, bid) in enumerate(existing_to_update, 1):
             logger.info("-" * 50)
@@ -1497,6 +1507,7 @@ def main():
     parser.add_argument("--batch", action="store_true", help="批量更新所有本地番剧 (逐个打开页面)")
     parser.add_argument("--discover", action="store_true", help="发现新番剧 + 增量更新已有番剧 (单次主页加载, 推荐)")
     parser.add_argument("--max-new", type=int, default=50, help="发现模式下每次最多新增多少部新番剧 (默认 50)")
+    parser.add_argument("--max-update", type=int, default=0, help="发现模式下每次最多增量更新多少部已有番剧 (默认 0=全部)")
     parser.add_argument("--dry-run", action="store_true", help="只扫描对比不下载图片不写入")
     parser.add_argument("--limit", type=int, help="批量模式下最多处理多少个")
     parser.add_argument("--delay", type=float, default=1.0, help="每个番剧之间的间隔秒数")
@@ -1539,6 +1550,7 @@ def main():
             # 发现模式: 单次主页加载, 发现新番剧 + 增量更新已有
             results = scraper.discover_and_update(
                 max_new=args.max_new,
+                max_update=args.max_update,
                 dry_run=args.dry_run,
                 delay=args.delay,
             )
