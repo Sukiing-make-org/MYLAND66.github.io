@@ -8,18 +8,37 @@ name: Anitabi Web Points Update
 #   3. 下载新巡礼点图片 (浏览器 canvas 绕过 Cloudflare)
 #   4. 重新生成 index.json
 #
-# 优势: 单次主页加载即可获取全部数据 (含经纬度), 无需逐个打开番剧页面
+# ╔══════════════════════════════════════════════════════════╗
+# ║  ⚙️ 调整入口: 在下方 ENV 配置区修改 MAX_NEW / MAX_UPDATE   ║
+# ║  定时运行用 ENV 默认值; 手动触发可在 inputs 里临时调整     ║
+# ╚══════════════════════════════════════════════════════════╝
 
 on:
   schedule:
     # 每周一 06:00 UTC 运行 (避开日/月更新器的高峰)
     - cron: '0 6 * * 1'
   workflow_dispatch:  # 允许手动触发
+    inputs:
+      max_new:
+        description: '本次最多新增多少部新番剧 (建议 ≤20, 太多会撑爆磁盘)'
+        required: false
+        default: '10'
+      max_update:
+        description: '本次最多增量更新多少部已有番剧 (0=全部, 建议 ≤30)'
+        required: false
+        default: '20'
+
+# ════════════════════════════════════════════════════════════
+# ⚙️ 定时运行默认值 (修改这里调整每周自动运行的批次大小)
+# ════════════════════════════════════════════════════════════
+env:
+  MAX_NEW: '10'        # 每次最多新增新番剧数 (磁盘/推送体积考量, 建议 ≤20)
+  MAX_UPDATE: '20'     # 每次最多增量更新已有番剧数 (0=全部, 建议 ≤30)
 
 jobs:
   anitabi-web-update:
     runs-on: ubuntu-latest
-    timeout-minutes: 360  # 番剧多 + 图片下载, 给足时间
+    timeout-minutes: 360
 
     steps:
       - name: Checkout repository
@@ -40,7 +59,6 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y google-chrome-stable
           # anitabi 地图使用 WebGL, 无头环境用 swiftshader 软件渲染 (Chrome 自带)
-          # 安装 GL 依赖 (包名随 Ubuntu 版本变化, 用 || true 容错)
           sudo apt-get install -y libgl1-mesa-dri libglu1-mesa libegl-mesa0 || \
           sudo apt-get install -y libgl1-mesa-dri libglu1-mesa libegl1-mesa || true
 
@@ -59,8 +77,6 @@ jobs:
       - name: Resolve ChromeDriver path
         id: driver
         run: |
-          # webdriver-manager 4.0.1 有 bug 可能返回 THIRD_PARTY_NOTICES 而非 chromedriver
-          # 这里解析出真正的 chromedriver 可执行文件路径
           python -c "from webdriver_manager.chrome import ChromeDriverManager; print(ChromeDriverManager().install())" > /tmp/wdm.txt
           WDM_PATH=$(cat /tmp/wdm.txt)
           DRIVER_DIR=$(dirname "$WDM_PATH")
@@ -68,42 +84,39 @@ jobs:
           if [ -f "$REAL_DRIVER" ]; then
             chmod +x "$REAL_DRIVER"
             echo "path=$REAL_DRIVER" >> "$GITHUB_OUTPUT"
-            echo "Using chromedriver: $REAL_DRIVER"
           else
             echo "path=" >> "$GITHUB_OUTPUT"
-            echo "webdriver-manager returned non-standard path, will let script auto-resolve"
           fi
 
       - name: Run Anitabi Web Points Updater
         env:
           CHROME_PATH: /usr/bin/google-chrome-stable
-          BARK_URL: ${{ secrets.BARK_URL || 'https://api.day.app/FXxtHPEhbvdzxrgRpBW7E' }}
         run: |
+          # 手动触发用 inputs 值, 定时运行用 ENV 默认值
+          MAX_NEW_VAL="${{ github.event.inputs.max_new || env.MAX_NEW }}"
+          MAX_UPDATE_VAL="${{ github.event.inputs.max_update || env.MAX_UPDATE }}"
+          echo "本次配置: max_new=$MAX_NEW_VAL max_update=$MAX_UPDATE_VAL"
+          ARGS="--discover --max-new $MAX_NEW_VAL --max-update $MAX_UPDATE_VAL --chrome-path $CHROME_PATH"
           DRIVER_PATH="${{ steps.driver.outputs.path }}"
-          ARGS="--discover --max-new 1 --chrome-path $CHROME_PATH"
           if [ -n "$DRIVER_PATH" ]; then
             ARGS="$ARGS --driver-path $DRIVER_PATH"
           fi
-          python anitabi_web_updater.py $ARGS 2>&1 | tee /tmp/updater_output.txt
-          # 提取汇总信息用于通知
-          tail -20 /tmp/updater_output.txt > /tmp/updater_summary.txt
+          python anitabi_web_updater.py $ARGS 2>&1 | tail -200 | tee /tmp/updater_summary.txt
 
       - name: Send Bark notification
         if: always()
         run: |
-          SUMMARY=$(cat /tmp/updater_summary.txt 2>/dev/null || echo "无输出")
-          # URL 编码
-          ENCODED=$(python3 -c "import urllib.parse; print(urllib.parse.quote('''$SUMMARY'''))")
+          SUMMARY=$(cat /tmp/updater_summary.txt 2>/dev/null | tail -10 || echo "无输出")
+          ENCODED=$(python3 -c "import urllib.parse,sys; print(urllib.parse.quote(sys.stdin.read()))" <<< "$SUMMARY")
           curl -s "${{ secrets.BARK_URL || 'https://api.day.app/FXxtHPEhbvdzxrgRpBW7E' }}/Anitabi网页巡礼更新/${ENCODED}" || true
 
       - name: Configure Git
         run: |
-          git config --local user.email "action@github.com"
+          git config -local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
       - name: Commit and push changes
         run: |
-          # 确保 lock 文件不被提交 (否则会阻塞后续运行)
           rm -f anime_pilgrimage_scraper.lock anitabi_updater.lock anitabi_web_updater.log
           if [[ -n $(git status --porcelain) ]]; then
             git add -A
