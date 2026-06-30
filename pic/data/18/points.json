@@ -11,5 +11,53 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1DXh_kFRBgW68pylf2TH6GyIg-f4&ll=-37.818023%2C144.968096&z=17"
+  },
+  {
+    "id": "51i53219p",
+    "name": "Gustav II Adolf Statue Stockholm",
+    "image": "https://image.xinu.ink/pic/data/18/images/51i53219p-1781070894154.jpg",
+    "geo": [
+      59.329338,
+      18.068585
+    ],
+    "cn": "古斯塔夫二世像 斯德哥尔摩"
+  },
+  {
+    "id": "51i5321sd",
+    "name": "スウェーデン ビスビュー Visby",
+    "image": "",
+    "geo": [
+      57.634806,
+      18.294833
+    ]
+  },
+  {
+    "id": "51i5321db",
+    "name": "クロアチア ドブロヴニク Dubrovnik",
+    "image": "",
+    "geo": [
+      42.650658,
+      18.094397
+    ]
+  },
+  {
+    "id": "51i5322ji",
+    "name": "Ross Bakery，Tasmania",
+    "image": "https://image.xinu.ink/pic/data/18/images/51i5322ji_1781080056083.jpg",
+    "geo": [
+      -42.027626,
+      147.493189
+    ],
+    "mark": "パン屋のモデル 面包房的原型之一"
+  },
+  {
+    "id": "51i53220z",
+    "name": "Bakery 31，Tasmania",
+    "image": "https://image.xinu.ink/pic/data/18/images/51i53220z_1781080037719_c16v9.jpg",
+    "geo": [
+      -42.029804,
+      147.492606
+    ],
+    "mark": "パン屋のモデル 面包房的原型之一"
   }
 ]

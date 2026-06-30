@@ -209,5 +209,39 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pa5enacto",
+    "name": "大雄山最乗寺",
+    "image": "https://image.xinu.ink/pic/data/6/images/pa5enacto_1729466397037.jpg",
+    "geo": [
+      35.303682,
+      139.075599
+    ],
+    "ep": 10
+  },
+  {
+    "id": "2h4hw7j",
+    "name": "長崎県平戸市生月町長瀬鼻手前は長瀬八洞のある断崖",
+    "image": "https://image.xinu.ink/pic/data/6/images/2h4hw7j-1752399490550.jpg",
+    "geo": [
+      33.36079,
+      129.397437
+    ],
+    "ep": "26",
+    "s": 758,
+    "cn": "长崎县生月岛长濑灯台北部断崖"
+  },
+  {
+    "id": "2h4ofuw",
+    "name": "山田​カトリック​教会",
+    "image": "https://image.xinu.ink/pic/data/6/images/2h4ofuw-1752399735513.jpg",
+    "geo": [
+      33.366996,
+      129.426821
+    ],
+    "ep": "25",
+    "s": 1033,
+    "cn": "山田教会"
   }
 ]

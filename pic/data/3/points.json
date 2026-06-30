@@ -387,5 +387,188 @@
     ],
     "origin": "Anitabi@鸟之诗",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "88oil86",
+    "name": "美凪飛び出し",
+    "image": "https://image.xinu.ink/pic/data/3/images/88oil86_1764949926109.jpg",
+    "geo": [
+      35.650531,
+      134.633575
+    ]
+  },
+  {
+    "id": "88pc8jn",
+    "name": "桥",
+    "image": "https://image.xinu.ink/pic/data/3/images/88pc8jn_1764950906107.jpg",
+    "geo": [
+      35.644446,
+      134.61231
+    ]
+  },
+  {
+    "id": "88pfcr9",
+    "name": "堤防",
+    "image": "https://image.xinu.ink/pic/data/3/images/88pfcr9_1764951053811.jpg",
+    "geo": [
+      35.641934,
+      134.612977
+    ],
+    "mark": "注意安全"
+  },
+  {
+    "id": "88pjtm4",
+    "name": "田间道路",
+    "image": "https://image.xinu.ink/pic/data/3/images/88pjtm4_1764951268010.jpg",
+    "geo": [
+      35.635816,
+      134.63221
+    ],
+    "mark": "这条路比较难走，旁边的就是条小河，实际也不是特别还原，可以选择不来，安全为主"
+  },
+  {
+    "id": "88pfxrx",
+    "name": "往人飛び出し",
+    "image": "https://image.xinu.ink/pic/data/3/images/88pfxrx_1764951083817.jpg",
+    "geo": [
+      35.641949,
+      134.612894
+    ],
+    "mark": "2026.3.7 这个立牌不见了，已经跟观光指引所的人回馈"
+  },
+  {
+    "id": "88ost5x",
+    "name": "往人观铃寻布偶",
+    "image": "https://image.xinu.ink/pic/data/3/images/88ost5x_1764950018695.jpg",
+    "geo": [
+      35.641768,
+      134.629468
+    ]
+  },
+  {
+    "id": "88otyw8",
+    "name": "观铃飛び出し",
+    "image": "https://image.xinu.ink/pic/data/3/images/88otyw8_1764950059006.jpg",
+    "geo": [
+      35.641707,
+      134.629624
+    ]
+  },
+  {
+    "id": "88oydgf",
+    "name": "美凪回想シーンの火の見櫓",
+    "image": "https://image.xinu.ink/pic/data/3/images/88oydgf_1764950259744.jpg",
+    "geo": [
+      35.639152,
+      134.628761
+    ],
+    "mark": "旁边的塔已经没了，现在该地正在维修，我去的时候显示要修到2026年3月14，可能延期。",
+    "cn": "香住公民馆"
+  },
+  {
+    "id": "88p1xac",
+    "name": "佳乃飛び出し",
+    "image": "https://image.xinu.ink/pic/data/3/images/88p1xac_1764950520150.jpg",
+    "geo": [
+      35.639972,
+      134.626632
+    ]
+  },
+  {
+    "id": "88p6eqa",
+    "name": "神奈飛び出し",
+    "image": "https://image.xinu.ink/pic/data/3/images/88p6eqa_1764950668891.jpg",
+    "geo": [
+      35.642609,
+      134.632082
+    ]
+  },
+  {
+    "id": "88p8p0t",
+    "name": "香美町香住観光協会",
+    "image": "",
+    "geo": [
+      35.635731,
+      134.623513
+    ],
+    "mark": "放有Air相关的周边和巡礼笔记"
+  },
+  {
+    "id": "88p9llo",
+    "name": "小滿飛び出し",
+    "image": "https://image.xinu.ink/pic/data/3/images/88p9llo_1764950784820.jpg",
+    "geo": [
+      35.63602,
+      134.622956
+    ]
+  },
+  {
+    "id": "88paka2",
+    "name": "香住滨",
+    "image": "https://image.xinu.ink/pic/data/3/images/88paka2_1764950837537.jpg",
+    "geo": [
+      35.640748,
+      134.617193
+    ]
+  },
+  {
+    "id": "88ovean",
+    "name": "布偶",
+    "image": "https://image.xinu.ink/pic/data/3/images/88ovean_1764950118132.jpg",
+    "geo": [
+      35.641846,
+      134.629468
+    ]
+  },
+  {
+    "id": "88ovl76",
+    "name": "船着所",
+    "image": "https://image.xinu.ink/pic/data/3/images/88ovl76_1764950138781.jpg",
+    "geo": [
+      35.64226,
+      134.62973
+    ]
+  },
+  {
+    "id": "1a9bf04c",
+    "name": "御崎神社海边鸟居",
+    "image": "https://image.xinu.ink/pic/data/3/images/1a9bf04c_1766550639726.jpg",
+    "geo": [
+      33.896124,
+      135.120059
+    ],
+    "ep": 2,
+    "s": 1073,
+    "mark": "御崎神社的鸟居没有海景，细节部分也和动画有很大差异。且动画里神社的建筑部分也是采用谷保天滿宮的建筑，与御崎神社也没有关联。目前来说更有可能是伊和都比売神社的鸟居。",
+    "origin": "AIR 聖地"
+  },
+  {
+    "id": "8h4qlzg",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/3/images/8h4qlzg_1765460499614.jpg",
+    "geo": [
+      35.491827,
+      135.739325
+    ],
+    "cn": "石盆"
+  },
+  {
+    "id": "5z3hugd",
+    "name": "白野江小学2",
+    "image": "https://image.xinu.ink/pic/data/3/images/5z3hugd_1760018637542.jpg",
+    "geo": [
+      33.938352,
+      131.008382
+    ],
+    "mark": "千万不要走进学校！"
+  },
+  {
+    "id": "8h4qruv",
+    "name": "空印寺",
+    "image": "https://image.xinu.ink/pic/data/3/images/8h4qruv_1765460508764.jpg",
+    "geo": [
+      35.491664,
+      135.738573
+    ]
   }
 ]

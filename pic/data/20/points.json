@@ -325,5 +325,33 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=131uir-dAckF7kiBgJTJlMBexm__RwA_n&ll=36.515536%2C136.901928&z=17"
+  },
+  {
+    "id": "kpwsqgrv3",
+    "name": "比美乃江大橋",
+    "image": "",
+    "geo": [
+      36.861236,
+      136.985886
+    ],
+    "mark": "比呂美、乃絵的名字由来"
+  },
+  {
+    "id": "kpwsqgryj",
+    "name": "城端駅",
+    "image": "",
+    "geo": [
+      36.522234,
+      136.901815
+    ]
+  },
+  {
+    "id": "kpwsqgrqf",
+    "name": "P.A.WORKS",
+    "image": "",
+    "geo": [
+      36.502144,
+      136.872743
+    ]
   }
 ]

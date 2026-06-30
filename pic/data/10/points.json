@@ -512,5 +512,259 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=36.077943%2C139.719602&z=17"
+  },
+  {
+    "id": "50csg0zup",
+    "name": "JR京都駅",
+    "image": "https://image.xinu.ink/pic/data/10/images/50csg0zup_1672276633721.jpg",
+    "geo": [
+      34.986313,
+      135.759102
+    ],
+    "ep": 21,
+    "s": 554
+  },
+  {
+    "id": "ervh9v4",
+    "name": "五重塔",
+    "image": "https://image.xinu.ink/pic/data/10/images/ervh9v4_1779170788920.jpg",
+    "geo": [
+      34.682542,
+      135.830718
+    ],
+    "ep": 21,
+    "s": 784
+  },
+  {
+    "id": "50d3a2uo5",
+    "name": "清水寺",
+    "image": "https://image.xinu.ink/pic/data/10/images/50d3a2uo5_1672277282678.jpg",
+    "geo": [
+      34.994775,
+      135.784917
+    ],
+    "ep": 21,
+    "s": 748
+  },
+  {
+    "id": "50d3k3382",
+    "name": "清水寺",
+    "image": "https://image.xinu.ink/pic/data/10/images/50d3k3382_1672277299353.jpg",
+    "geo": [
+      34.994825,
+      135.784935
+    ],
+    "ep": 21,
+    "s": 753
+  },
+  {
+    "id": "50d5yza1n",
+    "name": "清水寺",
+    "image": "https://image.xinu.ink/pic/data/10/images/50d5yza1n_1672277457301.jpg",
+    "geo": [
+      34.995069,
+      135.785189
+    ],
+    "ep": 21,
+    "s": 761,
+    "mark": "地主神社，目前施工中，不能上去。"
+  },
+  {
+    "id": "50d67vsio",
+    "name": "清水寺",
+    "image": "https://image.xinu.ink/pic/data/10/images/50d67vsio_1672277460370.jpg",
+    "geo": [
+      34.994642,
+      135.784708
+    ],
+    "ep": 21,
+    "s": 763
+  },
+  {
+    "id": "50d69homq",
+    "name": "清水寺",
+    "image": "https://image.xinu.ink/pic/data/10/images/50d69homq_1672277464319.jpg",
+    "geo": [
+      34.994709,
+      135.784647
+    ],
+    "ep": 21,
+    "s": 767,
+    "mark": "此石不存在，目前只有一個印在腳板的石頭位於清水寺內"
+  },
+  {
+    "id": "50d6brhue",
+    "name": "清水寺",
+    "image": "https://image.xinu.ink/pic/data/10/images/50d6brhue_1672277467787.jpg",
+    "geo": [
+      34.994891,
+      135.78454
+    ],
+    "ep": 21,
+    "s": 768
+  },
+  {
+    "id": "50d6eamn2",
+    "name": "清水寺",
+    "image": "https://image.xinu.ink/pic/data/10/images/50d6eamn2_1672277475638.jpg",
+    "geo": [
+      34.994992,
+      135.784668
+    ],
+    "ep": 21,
+    "s": 773
+  },
+  {
+    "id": "50d6iqph3",
+    "name": "清水寺",
+    "image": "https://image.xinu.ink/pic/data/10/images/50d6iqph3_1672277478747.jpg",
+    "geo": [
+      34.994974,
+      135.784572
+    ],
+    "ep": 21,
+    "s": 775
+  },
+  {
+    "id": "50d7x2b5m",
+    "name": "清水寺",
+    "image": "https://image.xinu.ink/pic/data/10/images/50d7x2b5m_1672277563494.jpg",
+    "geo": [
+      34.994944,
+      135.784751
+    ],
+    "ep": 21,
+    "s": 775
+  },
+  {
+    "id": "50d6sxnzn",
+    "name": "清水寺",
+    "image": "https://image.xinu.ink/pic/data/10/images/50d6sxnzn_1672277495817.jpg",
+    "geo": [
+      34.994818,
+      135.784453
+    ],
+    "ep": 21,
+    "s": 786
+  },
+  {
+    "id": "50d7vjle4",
+    "name": "清水寺",
+    "image": "https://image.xinu.ink/pic/data/10/images/50d7vjle4_1672277560379.jpg",
+    "geo": [
+      34.994917,
+      135.784655
+    ],
+    "ep": 21,
+    "s": 786,
+    "mark": "已關閉，目前沒法進入。"
+  },
+  {
+    "id": "50cjwj4v2",
+    "name": "清水寺",
+    "image": "https://image.xinu.ink/pic/data/10/images/50d7rdiir_1672277554000.jpg",
+    "geo": [
+      34.996627,
+      135.781014
+    ],
+    "ep": 21,
+    "s": 824,
+    "mark": "らき☆すた21話舞台"
+  },
+  {
+    "id": "50d92ov4w",
+    "name": "清水寺",
+    "image": "https://image.xinu.ink/pic/data/10/images/50d92ov4w_1672277632961.jpg",
+    "geo": [
+      34.994981,
+      135.784211
+    ],
+    "ep": 21,
+    "s": 829,
+    "mark": "已改為可口可樂的座椅，而且並沒有商店。"
+  },
+  {
+    "id": "50d94sk5o",
+    "name": "清水寺",
+    "image": "https://image.xinu.ink/pic/data/10/images/50d94sk5o_1672277640120.jpg",
+    "geo": [
+      34.99504,
+      135.784305
+    ],
+    "ep": 21,
+    "s": 833
+  },
+  {
+    "id": "tfg5ac9i7",
+    "name": "本能寺文化会館ホテル前",
+    "image": "https://image.xinu.ink/pic/data/10/images/tfg5ac9i7_1741166040763.jpg",
+    "geo": [
+      35.010742,
+      135.767864
+    ],
+    "ep": 21,
+    "s": 1010,
+    "mark": "街景变化很大，通过地下街道入口和邮箱判断位置"
+  },
+  {
+    "id": "50cq36apn",
+    "name": "京阪木幡駅前",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cq36apn_1672276485353.jpg",
+    "geo": [
+      34.925633,
+      135.796024
+    ],
+    "ep": 21,
+    "s": 1070
+  },
+  {
+    "id": "50cjwj3r3",
+    "name": "京都アニメーション",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj3r3_1672276418386.jpg",
+    "geo": [
+      34.925661,
+      135.795551
+    ],
+    "ep": 21,
+    "s": 1077,
+    "mark": "らき☆すた21話舞台",
+    "cn": "京都动画第二工作室"
+  },
+  {
+    "id": "50cjwj2x8",
+    "name": "京都アニメーション本社",
+    "image": "https://image.xinu.ink/pic/data/10/images/50cjwj2x8_1672276234723.jpg",
+    "geo": [
+      34.924742,
+      135.798684
+    ],
+    "ep": 21,
+    "s": 1080,
+    "mark": "らき☆すた21話舞台\n小黄楼",
+    "cn": "京都动画本社"
+  },
+  {
+    "id": "63hiyfm",
+    "name": "日高屋大宮西口店",
+    "image": "https://image.xinu.ink/pic/data/10/images/63hiyfm-1760281925907.jpg",
+    "geo": [
+      35.904423,
+      139.623145
+    ],
+    "ep": 15,
+    "s": 610,
+    "mark": "小司小镜次方三人讨论暑假去美幸家玩"
+  },
+  {
+    "id": "63i020h",
+    "name": "兼六園",
+    "image": "https://image.xinu.ink/pic/data/10/images/63i020h-1760282713517.jpg",
+    "geo": [
+      36.56317,
+      136.662733
+    ],
+    "ep": 22,
+    "s": 1105,
+    "mark": "次方爹妈的回忆"
   }
 ]

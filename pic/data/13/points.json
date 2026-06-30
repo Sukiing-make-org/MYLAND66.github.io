@@ -992,5 +992,105 @@
     ],
     "origin": "Anitabi@Zyglisfer",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n8w5sqzbg",
+    "name": "白川クリーンセンター",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8w5sqzbg_1723725697392.jpg",
+    "geo": [
+      36.279385,
+      136.902929
+    ],
+    "ep": 9,
+    "s": 137
+  },
+  {
+    "id": "lqgp4tudk",
+    "name": "白川八幡神社",
+    "image": "https://image.xinu.ink/pic/data/13/images/lqgp4tudk-1719460403481.jpg",
+    "geo": [
+      36.25471,
+      136.905829
+    ],
+    "ep": 12,
+    "s": 1154
+  },
+  {
+    "id": "n8vxlg6fj",
+    "name": "白川八幡神社",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8vxlg6fj_1723725192174.jpg",
+    "geo": [
+      36.254841,
+      136.905715
+    ],
+    "ep": 13,
+    "s": 701
+  },
+  {
+    "id": "n8ulndw5h",
+    "name": "明善寺 付近",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8ulndw5h-1723722291251.jpg",
+    "geo": [
+      36.255937,
+      136.906315
+    ]
+  },
+  {
+    "id": "n8uut6moj",
+    "name": "山楽堂裏",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8uut6moj-1723722845024.jpg",
+    "geo": [
+      36.256819,
+      136.906438
+    ]
+  },
+  {
+    "id": "n8uxlrdj6",
+    "name": "山楽堂裏",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8uxlrdj6-1723723017526.jpg",
+    "geo": [
+      36.256721,
+      136.906459
+    ]
+  },
+  {
+    "id": "n8vu7sy80",
+    "name": "梨花の家",
+    "image": "https://image.xinu.ink/pic/data/13/images/n8vu7sy80_1723724994183.jpg",
+    "geo": [
+      36.259958,
+      136.908976
+    ]
+  },
+  {
+    "id": "u3z5savhg",
+    "name": "合掌造り民家園",
+    "image": "",
+    "geo": [
+      36.255122,
+      136.902311
+    ],
+    "mark": "animetourism88 圣地巡礼印章收集点（寒蝉鸣泣之时），印章位于合掌造り民家園入口购票窗口旁"
+  },
+  {
+    "id": "u3yzsxj46",
+    "name": "白川郷​バス​ターミナル",
+    "image": "",
+    "geo": [
+      36.261999,
+      136.906878
+    ],
+    "mark": "游客观光中心可以领取寒蝉卒/业的圣地巡礼地图一份"
+  },
+  {
+    "id": "8s6ralh",
+    "name": "白川八幡宮",
+    "image": "https://image.xinu.ink/pic/data/13/images/8s6ralh-1766129084784.jpg",
+    "geo": [
+      36.254755,
+      136.905809
+    ],
+    "ep": 13,
+    "s": 798
   }
 ]

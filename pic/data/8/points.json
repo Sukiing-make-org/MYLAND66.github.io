@@ -48,5 +48,50 @@
     ],
     "origin": "Anitabi@耿耿-げん",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2m71cf0bh",
+    "name": "公時神社",
+    "image": "https://image.xinu.ink/pic/data/8/images/2m71cf0bh_1750934277221.jpg",
+    "geo": [
+      35.279381,
+      139.002473
+    ],
+    "folder": "箱根",
+    "cn": "公时神社"
+  },
+  {
+    "id": "miylrhzih",
+    "name": "仙石原中学校跡",
+    "image": "https://image.xinu.ink/pic/data/8/images/miylrhzih_1750932520419.jpg",
+    "geo": [
+      35.267841,
+      139.006702
+    ],
+    "mark": "第3新东京市立第壱中学校的原型。\n因为现在改成大学了，所以进入请先征得工作人员同意。",
+    "folder": "箱根",
+    "cn": "仙石原中学校迹"
+  },
+  {
+    "id": "17u3t7l",
+    "name": "外滩",
+    "image": "https://image.xinu.ink/pic/data/8/images/17u3t7l-1749661017851.jpg",
+    "geo": [
+      31.239498,
+      121.485956
+    ],
+    "ep": "上海站",
+    "folder": "遇见EVA"
+  },
+  {
+    "id": "17srosi",
+    "name": "东三环",
+    "image": "https://image.xinu.ink/pic/data/8/images/17srosi-1749659497965.jpg",
+    "geo": [
+      39.913974,
+      116.455557
+    ],
+    "ep": "北京站",
+    "folder": "遇见EVA"
   }
 ]

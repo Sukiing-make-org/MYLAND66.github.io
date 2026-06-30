@@ -112,5 +112,47 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=15AkywObAP2TSUZLtjqYO5R_faaE&ll=35.709154%2C139.591381&z=17"
+  },
+  {
+    "id": "m2p4lvb30",
+    "name": "富士見坂",
+    "image": "https://image.xinu.ink/pic/data/4/images/m2p4lvb30_1720419086925.jpg",
+    "geo": [
+      35.716167,
+      139.717367
+    ],
+    "s": 4756
+  },
+  {
+    "id": "m2qegcjqr",
+    "name": "富士見坂",
+    "image": "https://image.xinu.ink/pic/data/4/images/m2qegcjqr_1720421859962.jpg",
+    "geo": [
+      35.716174,
+      139.717377
+    ],
+    "s": 7155
+  },
+  {
+    "id": "kpx6okwh4",
+    "name": "林芙美子記念館",
+    "image": "https://image.xinu.ink/pic/data/4/images/kpx6okwh4-1754838542215.jpg",
+    "geo": [
+      35.71584,
+      139.684301
+    ],
+    "s": "00:21:12",
+    "mark": "真琴宅モデル",
+    "cn": "林芙美子纪念馆"
+  },
+  {
+    "id": "2bar3qc",
+    "name": "マツモトキヨシ",
+    "image": "https://image.xinu.ink/pic/data/4/images/2bar3qc-1752047122915.jpg",
+    "geo": [
+      35.71467,
+      139.687148
+    ],
+    "mark": "这牌子已经拆了"
   }
 ]
