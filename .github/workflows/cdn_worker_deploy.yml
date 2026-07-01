@@ -1,0 +1,115 @@
+name: CDN图片全量同步部署7组Cloudflare Worker
+run-name: 资源同步并部署CDN Worker
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'pic/data/**'
+  workflow_dispatch: # 支持手动在Actions面板一键运行
+
+env:
+  CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+  CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+
+# 第一步：检测是否有图片资源变更，无变更直接终止流程
+jobs:
+  check_resource_change:
+    runs-on: ubuntu-latest
+    outputs:
+      has_change: ${{ steps.diff_detect.outputs.has_change }}
+    steps:
+      - name: 检出仓库代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 检测pic/data目录是否存在文件变更
+        id: diff_detect
+        run: |
+          # 兼容仓库首次初始化提交（无上一个commit）
+          if git rev-parse --verify HEAD^ >/dev/null 2>&1; then
+            CHANGE_CONTENT=$(git diff --name-only HEAD^ HEAD -- pic/data/)
+          else
+            CHANGE_CONTENT=$(git ls-files -- pic/data/)
+          fi
+
+          if [ -n "$CHANGE_CONTENT" ]; then
+            echo "has_change=true" >> $GITHUB_OUTPUT
+            echo "检测到资源变更，开始执行部署流程"
+          else
+            echo "has_change=false" >> $GITHUB_OUTPUT
+            echo "无任何资源变更，直接终止工作流"
+          fi
+
+  # 第二步：并行构建7个Worker并部署到Cloudflare
+  deploy_cdn_workers:
+    needs: check_resource_change
+    if: needs.check_resource_change.outputs.has_change == 'true'
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        group:
+          - { min: 1,    max: 399,   worker_name: cdn-worker-1 }
+          - { min: 400,  max: 749,   worker_name: cdn-worker-2 }
+          - { min: 750,  max: 999,   worker_name: cdn-worker-3 }
+          - { min: 1000, max: 1999,  worker_name: cdn-worker-4 }
+          - { min: 2000, max: 5999,  worker_name: cdn-worker-5 }
+          - { min: 6000, max: 6399,  worker_name: cdn-worker-6 }
+          - { min: 6400, max: 99999, worker_name: cdn-worker-7 }
+
+    steps:
+      - name: 拉取主仓库完整代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 为当前Worker构建独立打包目录
+        run: |
+          WORK_BUILD_DIR=./tmp_build/${{ matrix.group.worker_name }}
+          # 清空历史临时打包目录，避免旧文件残留
+          rm -rf ${WORK_BUILD_DIR}
+          mkdir -p ${WORK_BUILD_DIR}/public/pic/data
+          mkdir -p ${WORK_BUILD_DIR}/src
+
+          # 全量复制当前ID区间内所有番剧文件夹（核心：保证云端资源和本地仓库完全一致，不会丢文件）
+          find ./pic/data -maxdepth 1 -type d -regex './pic/data/[0-9]+' | while read -r dir; do
+            ID=$(basename "$dir")
+            if [[ "$ID" =~ ^[0-9]+$ && $ID -ge ${{ matrix.group.min }} && $ID -le ${{ matrix.group.max }} ]]; then
+              echo "复制目录：$dir 至${{ matrix.group.worker_name }}"
+              cp -r "$dir" ${WORK_BUILD_DIR}/public/pic/data/
+            fi
+          done
+
+          # 生成Worker入口JS脚本
+          cat > ${WORK_BUILD_DIR}/src/index.js << 'JS_EOF'
+export default {
+  async fetch(request, env) {
+    // 交由Static Assets静态资源系统优先处理，不消耗Worker动态请求额度
+    return env.ASSETS.fetch(request);
+  }
+}
+JS_EOF
+
+          # 动态生成wrangler配置文件，严格静态资源优先模式
+          cat > ${WORK_BUILD_DIR}/wrangler.toml << TOML_EOF
+name = "${{ matrix.group.worker_name }}"
+main = "src/index.js"
+compatibility_date = "2026-07-01"
+
+[static_assets]
+directory = "public"
+not_found_handling = "none"
+
+# 静态资源长缓存策略，提升CDN访问速度
+[static_assets.rules]
+"/pic/data/**" = { cache_control = "public, max-age=2592000, immutable" }
+TOML_EOF
+
+      - name: 使用Wrangler部署Worker至Cloudflare
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ env.CF_API_TOKEN }}
+          accountId: ${{ env.CF_ACCOUNT_ID }}
+          working-directory: ./tmp_build/${{ matrix.group.worker_name }}
+          command: deploy
+          timeout-minutes: 15 # 大体积静态文件部署延长超时时间
