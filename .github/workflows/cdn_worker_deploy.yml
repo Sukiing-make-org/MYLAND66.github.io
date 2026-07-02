@@ -1,5 +1,5 @@
-name: CDN部署（规避wrangler toml解析BUG）
-run-name: 直接命令行指定assets目录部署，不再触发帮助弹窗
+name: CDN Python驱动Cloudflare Worker部署
+run-name: Python脚本稳定部署，自带重试与异常捕获
 on:
   push:
     branches: [ main ]
@@ -20,7 +20,7 @@ jobs:
       - name: 系统磁盘清理
         run: |
           sudo rm -rf /usr/share/dotnet /opt/ghc /usr/local/share/boost $AGENT_TOOLSDIRECTORY
-          rm -rf ~/.config/.wrangler
+          rm -rf ~/.config/.wrangler tmp_build
 
   check_resource_change:
     needs: pre_clean_disk
@@ -45,75 +45,17 @@ jobs:
             fi
           fi
 
-  deploy_cdn_workers:
+  deploy_by_python:
     needs: check_resource_change
     if: needs.check_resource_change.outputs.has_change == 'true'
     runs-on: ubuntu-latest
-    strategy:
-      max-parallel: 1
-      matrix:
-        group:
-          - { min: 1,    max: 399,   worker_name: cdn-worker-1 }
-          - { min: 400,  max: 749,   worker_name: cdn-worker-2 }
-          - { min: 750,  max: 999,   worker_name: cdn-worker-3 }
-          - { min: 1000, max: 1999,  worker_name: cdn-worker-4 }
-          - { min: 2000, max: 5999,  worker_name: cdn-worker-5 }
-          - { min: 6000, max: 6399,  worker_name: cdn-worker-6 }
-          - { min: 6400, max: 99999, worker_name: cdn-worker-7 }
     steps:
-      - name: 拉取代码
+      - name: 拉取仓库代码
         uses: actions/checkout@v4
 
-      - name: 安装固定版本wrangler
-        run: npm install wrangler@3.80.0 -g
-
-      - name: 打包分组静态资源
+      - name: 安装Node与Wrangler
         run: |
-          WORK_BUILD_DIR=./tmp_build/${{ matrix.group.worker_name }}
-          rm -rf ${WORK_BUILD_DIR}
-          mkdir -p ${WORK_BUILD_DIR}/public/pic/data
+          npm install wrangler@3.80.0 -g --quiet
 
-          # 只保留JS入口文件，不再单独生成wrangler.toml配置文件
-          mkdir -p ${WORK_BUILD_DIR}/src
-          echo 'export default {
-            async fetch(request, env) {
-              try {
-                return await env.ASSETS.fetch(request);
-              } catch {
-                return new Response("404 Not Found", { status: 404 });
-              }
-            }
-          }' > ${WORK_BUILD_DIR}/src/index.js
-
-          # 复制当前分组ID范围内的所有资源目录
-          find ./pic/data -maxdepth 1 -type d -regex './pic/data/[0-9]+' | while read -r dir; do
-            ID=$(basename "$dir")
-            if [[ "$ID" =~ ^[0-9]+$ && $ID -ge ${{ matrix.group.min }} && $ID -le ${{ matrix.group.max }} ]]; then
-              cp -r "$dir" ${WORK_BUILD_DIR}/public/pic/data/
-            fi
-          done
-
-      - name: 检查资源是否存在
-        id: check_asset
-        run: |
-          if [ -z "$(ls -A ./tmp_build/${{ matrix.group.worker_name }}/public/pic/data/)" ]; then
-            echo "has_asset=false" >> $GITHUB_OUTPUT
-            echo "当前分组无资源，跳过部署"
-          else
-            echo "has_asset=true" >> $GITHUB_OUTPUT
-          fi
-
-      - name: 命令行直接指定参数部署（无toml，彻底规避解析BUG）
-        if: steps.check_asset.outputs.has_asset == 'true'
-        run: |
-          wrangler deploy \
-            --name ${{ matrix.group.worker_name }} \
-            --assets ./tmp_build/${{ matrix.group.worker_name }}/public \
-            --compatibility-date 2026-07-01 \
-            --timeout 1200000 \
-            ./tmp_build/${{ matrix.group.worker_name }}/src/index.js
-        continue-on-error: true
-
-      - name: 打印执行日志
-        run: |
-          echo "部署执行完成，若报错请查看上方控制台输出"
+      - name: 使用Python脚本批量部署Worker
+        run: python3 deploy_cdn.py
