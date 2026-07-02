@@ -1,5 +1,5 @@
-name: CDN图片分批同步部署7组Cloudflare Worker
-run-name: 关闭冗余日志，低磁盘写入部署
+name: CDN调试模式部署（输出wrangler详细日志）
+run-name: 调试排错，关闭静默输出查看真实报错
 on:
   push:
     branches: [ main ]
@@ -10,11 +10,8 @@ on:
 env:
   CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
   CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
-  # 关闭GitHub Runner内部诊断日志写入，阻止_diag目录膨胀
   ACTIONS_RUNNER_TRACKING_DISABLED: true
-  # 禁用Node调试日志
   NODE_DEBUG: ''
-  # 关闭wrangler本地日志文件输出
   WRANGLER_LOG: none
 
 jobs:
@@ -27,7 +24,6 @@ jobs:
           sudo rm -rf /opt/ghc
           sudo rm -rf /usr/local/share/boost
           sudo rm -rf $AGENT_TOOLSDIRECTORY
-          # 清理旧wrangler日志
           rm -rf ~/.config/.wrangler
 
   check_resource_change:
@@ -74,18 +70,16 @@ jobs:
           - { min: 2000, max: 5999,  worker_name: cdn-worker-5 }
           - { min: 6000, max: 6399,  worker_name: cdn-worker-6 }
           - { min: 6400, max: 99999, worker_name: cdn-worker-7 }
-    # 部署失败自动重试1次
-    continue-on-error: false
     steps:
       - name: 拉取代码
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: 静默安装wrangler 固定稳定版本
-        run: npm install wrangler@3.80.0 -g --quiet
+      - name: 安装wrangler固定稳定版
+        run: npm install wrangler@3.80.0 -g
 
-      - name: 分组全量打包，单次部署
+      - name: 分组打包资源
         run: |
           WORK_BUILD_DIR=./tmp_build/${{ matrix.group.worker_name }}
           rm -rf ${WORK_BUILD_DIR}
@@ -110,7 +104,6 @@ jobs:
           echo '[assets.rules]' >> ${WORK_BUILD_DIR}/wrangler.toml
           echo '"/pic/data/**" = { cache_control = "public, max-age=2592000, immutable" }' >> ${WORK_BUILD_DIR}/wrangler.toml
 
-          # 复制对应ID资源目录
           find ./pic/data -maxdepth 1 -type d -regex './pic/data/[0-9]+' | while read -r dir; do
             ID=$(basename "$dir")
             if [[ "$ID" =~ ^[0-9]+$ && $ID -ge ${{ matrix.group.min }} && $ID -le ${{ matrix.group.max }} ]]; then
@@ -118,6 +111,25 @@ jobs:
             fi
           done
 
-          # 静默部署，屏蔽多余输出，捕获错误
-          cd ${WORK_BUILD_DIR}
-          wrangler deploy --quiet || exit 1
+      - name: 检查是否存在静态资源，无资源直接跳过部署
+        id: check_asset
+        run: |
+          if [ -z "$(ls -A ./tmp_build/${{ matrix.group.worker_name }}/public/pic/data/)" ]; then
+            echo "has_asset=false" >> $GITHUB_OUTPUT
+            echo "当前分组无资源，跳过部署"
+          else
+            echo "has_asset=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: 执行wrangler部署（去掉--quiet，输出完整日志）
+        if: steps.check_asset.outputs.has_asset == 'true'
+        run: |
+          cd ./tmp_build/${{ matrix.group.worker_name }}
+          wrangler deploy --timeout 1200000
+        continue-on-error: true
+
+      - name: 打印wrangler本地日志
+        if: failure()
+        run: |
+          echo "===== wrangler 详细错误日志 ====="
+          cat ~/.config/.wrangler/logs/*.log || echo "无本地日志文件，请查看上方控制台实时输出"
