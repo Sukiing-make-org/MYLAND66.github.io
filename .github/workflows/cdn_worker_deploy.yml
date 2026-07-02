@@ -1,5 +1,5 @@
-name: CDN调试模式部署（输出wrangler详细日志）
-run-name: 调试排错，关闭静默输出查看真实报错
+name: CDN调试模式部署（强制打印日志）
+run-name: 调试排错，强制输出wrangler日志排查问题
 on:
   push:
     branches: [ main ]
@@ -121,15 +121,20 @@ jobs:
             echo "has_asset=true" >> $GITHUB_OUTPUT
           fi
 
-      - name: 执行wrangler部署（去掉--quiet，输出完整日志）
+      - name: 执行wrangler部署（指定配置文件路径）
+        id: deploy_step
         if: steps.check_asset.outputs.has_asset == 'true'
         run: |
-          cd ./tmp_build/${{ matrix.group.worker_name }}
-          wrangler deploy --timeout 1200000
+          wrangler deploy --config ./tmp_build/${{ matrix.group.worker_name }}/wrangler.toml --timeout 1200000
         continue-on-error: true
 
-      - name: 打印wrangler本地日志
-        if: failure()
+      # 去掉if条件，无论部署成功失败，100%执行日志打印
+      - name: 强制打印wrangler本地完整日志
         run: |
-          echo "===== wrangler 详细错误日志 ====="
-          cat ~/.config/.wrangler/logs/*.log || echo "无本地日志文件，请查看上方控制台实时输出"
+          echo "========== wrangler 运行完整错误日志开始 =========="
+          if [ -d ~/.config/.wrangler/logs/ ]; then
+            cat ~/.config/.wrangler/logs/*.log
+          else
+            echo "未找到wrangler日志文件，查看上方部署步骤控制台输出"
+          fi
+          echo "========== wrangler 运行完整错误日志结束 =========="
