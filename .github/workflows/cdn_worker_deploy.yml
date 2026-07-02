@@ -78,24 +78,29 @@ jobs:
             fi
           done
 
+          # 修复Worker代码，增加异常兜底
           echo 'export default {' > ${WORK_BUILD_DIR}/src/index.js
           echo '  async fetch(request, env) {' >> ${WORK_BUILD_DIR}/src/index.js
-          echo '    return env.ASSETS.fetch(request);' >> ${WORK_BUILD_DIR}/src/index.js
+          echo '    try {' >> ${WORK_BUILD_DIR}/src/index.js
+          echo '      return await env.ASSETS.fetch(request);' >> ${WORK_BUILD_DIR}/src/index.js
+          echo '    } catch (e) {' >> ${WORK_BUILD_DIR}/src/index.js
+          echo '      return new Response("File Not Found", { status: 404 });' >> ${WORK_BUILD_DIR}/src/index.js
+          echo '    }' >> ${WORK_BUILD_DIR}/src/index.js
           echo '  }' >> ${WORK_BUILD_DIR}/src/index.js
           echo '}' >> ${WORK_BUILD_DIR}/src/index.js
 
+          # 修正wrangler静态资源配置（移除错误的not_found_handling: none）
           echo 'name = "${{ matrix.group.worker_name }}"' > ${WORK_BUILD_DIR}/wrangler.toml
           echo 'main = "src/index.js"' >> ${WORK_BUILD_DIR}/wrangler.toml
           echo 'compatibility_date = "2026-07-01"' >> ${WORK_BUILD_DIR}/wrangler.toml
           echo '' >> ${WORK_BUILD_DIR}/wrangler.toml
-          echo '[static_assets]' >> ${WORK_BUILD_DIR}/wrangler.toml
+          echo '[assets]' >> ${WORK_BUILD_DIR}/wrangler.toml
           echo 'directory = "public"' >> ${WORK_BUILD_DIR}/wrangler.toml
-          echo 'not_found_handling = "none"' >> ${WORK_BUILD_DIR}/wrangler.toml
           echo '' >> ${WORK_BUILD_DIR}/wrangler.toml
-          echo '[static_assets.rules]' >> ${WORK_BUILD_DIR}/wrangler.toml
+          echo '[assets.rules]' >> ${WORK_BUILD_DIR}/wrangler.toml
           echo '"/pic/data/**" = { cache_control = "public, max-age=2592000, immutable" }' >> ${WORK_BUILD_DIR}/wrangler.toml
 
-      - name: 部署至Cloudflare Worker（修正Action参数）
+      - name: 部署至Cloudflare Worker
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ env.CF_API_TOKEN }}
