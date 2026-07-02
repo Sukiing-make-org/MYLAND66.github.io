@@ -1,5 +1,5 @@
-name: CDN Python驱动Cloudflare Worker部署
-run-name: Python脚本稳定部署，自带重试与异常捕获
+name: CDN Python驱动Cloudflare Worker部署（组织Secret映射版）
+run-name: Python脚本稳定部署，组织密钥环境变量自动映射
 on:
   push:
     branches: [ main ]
@@ -8,8 +8,11 @@ on:
   workflow_dispatch:
 
 env:
-  CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-  CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+  # 核心映射：读取组织原有 CF_API_TOKEN / CF_ACCOUNT_ID，转为wrangler要求的标准变量
+  CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+  CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+
+  # 原有优化配置保留
   ACTIONS_RUNNER_TRACKING_DISABLED: true
   NODE_DEBUG: ''
 
@@ -53,9 +56,8 @@ jobs:
       - name: 拉取仓库代码
         uses: actions/checkout@v4
 
-      - name: 安装Node与Wrangler
-        run: |
-          npm install wrangler@3.80.0 -g --quiet
+      - name: 安装Node与Wrangler固定稳定版
+        run: npm install wrangler@3.80.0 -g --quiet
 
-      - name: 使用Python脚本批量部署Worker
+      - name: 执行Python部署脚本（自动继承顶层映射后的环境变量）
         run: python3 deploy_cdn.py
