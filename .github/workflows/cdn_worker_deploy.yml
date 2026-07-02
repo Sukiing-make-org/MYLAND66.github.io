@@ -1,5 +1,5 @@
-name: CDN图片全量同步部署7组Cloudflare Worker
-run-name: 资源同步并部署CDN Worker
+name: CDN图片分批同步部署7组Cloudflare Worker
+run-name: 系统日志前置清理，控制磁盘占用
 on:
   push:
     branches: [ main ]
@@ -12,7 +12,21 @@ env:
   CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
 
 jobs:
+  pre_clean_disk:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 系统全盘日志+冗余文件深度清理
+        run: |
+          sudo journalctl --vacuum-size=100M
+          sudo rm -rf /var/log/*
+          sudo rm -rf /usr/share/dotnet
+          sudo rm -rf /opt/ghc
+          sudo rm -rf /usr/local/share/boost
+          sudo rm -rf $AGENT_TOOLSDIRECTORY
+          df -h
+
   check_resource_change:
+    needs: pre_clean_disk
     runs-on: ubuntu-latest
     outputs:
       has_change: ${{ steps.diff_detect.outputs.has_change }}
@@ -27,7 +41,6 @@ jobs:
         run: |
           if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
             echo "has_change=true" >> $GITHUB_OUTPUT
-            echo "✅ 手动触发，执行全量初始化部署"
           else
             if git rev-parse --verify HEAD^ >/dev/null 2>&1; then
               CHANGE_CONTENT=$(git diff --name-only HEAD^ HEAD -- pic/data/)
@@ -36,10 +49,8 @@ jobs:
             fi
             if [ -n "$CHANGE_CONTENT" ]; then
               echo "has_change=true" >> $GITHUB_OUTPUT
-              echo "✅ 检测到资源变更，执行部署"
             else
               echo "has_change=false" >> $GITHUB_OUTPUT
-              echo "ℹ️ 无资源变更，跳过部署"
             fi
           fi
 
@@ -48,7 +59,7 @@ jobs:
     if: needs.check_resource_change.outputs.has_change == 'true'
     runs-on: ubuntu-latest
     strategy:
-      max-parallel: 1  # 串行逐个部署，同一时间只跑一个打包任务，杜绝磁盘瞬间占满
+      max-parallel: 1
       matrix:
         group:
           - { min: 1,    max: 399,   worker_name: cdn-worker-1 }
@@ -60,33 +71,25 @@ jobs:
           - { min: 6400, max: 99999, worker_name: cdn-worker-7 }
 
     steps:
+      - name: 再次清理环境
+        run: |
+          sudo journalctl --vacuum-size=100M
+          sudo rm -rf /var/log/*
       - name: 拉取完整仓库代码
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: 清理Runner磁盘，释放可用空间
-        run: |
-          sudo rm -rf /usr/share/dotnet
-          sudo rm -rf /opt/ghc
-          sudo rm -rf /usr/local/share/boost
-          sudo rm -rf $AGENT_TOOLSDIRECTORY
+      - name: 全局安装wrangler
+        run: npm install wrangler -g
 
-      - name: 构建Worker打包环境
+      - name: 单Worker内逐个目录分批上传
         run: |
           WORK_BUILD_DIR=./tmp_build/${{ matrix.group.worker_name }}
           rm -rf ${WORK_BUILD_DIR}
           mkdir -p ${WORK_BUILD_DIR}/public/pic/data
           mkdir -p ${WORK_BUILD_DIR}/src
 
-          find ./pic/data -maxdepth 1 -type d -regex './pic/data/[0-9]+' | while read -r dir; do
-            ID=$(basename "$dir")
-            if [[ "$ID" =~ ^[0-9]+$ && $ID -ge ${{ matrix.group.min }} && $ID -le ${{ matrix.group.max }} ]]; then
-              cp -r "$dir" ${WORK_BUILD_DIR}/public/pic/data/
-            fi
-          done
-
-          # 带异常捕获的Worker入口代码，避免1101崩溃错误
           echo 'export default {' > ${WORK_BUILD_DIR}/src/index.js
           echo '  async fetch(request, env) {' >> ${WORK_BUILD_DIR}/src/index.js
           echo '    try {' >> ${WORK_BUILD_DIR}/src/index.js
@@ -97,7 +100,6 @@ jobs:
           echo '  }' >> ${WORK_BUILD_DIR}/src/index.js
           echo '}' >> ${WORK_BUILD_DIR}/src/index.js
 
-          # 新版assets标准配置，修复Worker运行异常
           echo 'name = "${{ matrix.group.worker_name }}"' > ${WORK_BUILD_DIR}/wrangler.toml
           echo 'main = "src/index.js"' >> ${WORK_BUILD_DIR}/wrangler.toml
           echo 'compatibility_date = "2026-07-01"' >> ${WORK_BUILD_DIR}/wrangler.toml
@@ -108,10 +110,13 @@ jobs:
           echo '[assets.rules]' >> ${WORK_BUILD_DIR}/wrangler.toml
           echo '"/pic/data/**" = { cache_control = "public, max-age=2592000, immutable" }' >> ${WORK_BUILD_DIR}/wrangler.toml
 
-      - name: 部署至Cloudflare Worker
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ env.CF_API_TOKEN }}
-          accountId: ${{ env.CF_ACCOUNT_ID }}
-          workingDirectory: ./tmp_build/${{ matrix.group.worker_name }}
-          command: deploy
+          find ./pic/data -maxdepth 1 -type d -regex './pic/data/[0-9]+' | while read -r dir; do
+            ID=$(basename "$dir")
+            if [[ "$ID" =~ ^[0-9]+$ && $ID -ge ${{ matrix.group.min }} && $ID -le ${{ matrix.group.max }} ]]; then
+              echo "正在上传ID文件夹: $ID"
+              cp -r "$dir" ${WORK_BUILD_DIR}/public/pic/data/
+              wrangler deploy --config ${WORK_BUILD_DIR}/wrangler.toml
+              rm -rf ${WORK_BUILD_DIR}/public/pic/data/"$ID"
+              echo "ID $ID 上传完成，本地已清理"
+            fi
+          done
