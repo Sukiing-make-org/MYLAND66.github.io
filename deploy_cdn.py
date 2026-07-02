@@ -3,6 +3,9 @@ import os
 import sys
 import time
 
+# 直接复制Action全局所有环境变量（已经包含映射好的CLOUDFLARE_API_TOKEN）
+EXEC_ENV = os.environ.copy()
+
 # 分组配置，和原矩阵保持一致
 WORKER_GROUPS = [
     {"min": 1, "max": 399, "worker_name": "cdn-worker-1"},
@@ -21,10 +24,14 @@ BASE_BUILD_DIR = "./tmp_build"
 SOURCE_DIR = "./pic/data"
 
 def run_cmd(cmd: list) -> tuple[int, str]:
-    """执行shell命令，返回退出码+输出内容"""
+    """执行shell命令，传入带CF鉴权的环境变量，返回退出码+输出内容"""
     print(f"执行命令: {' '.join(cmd)}")
     proc = subprocess.Popen(
-        cmd, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True
+        cmd,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.STDOUT,
+        text=True,
+        env=EXEC_ENV  # 关键：强制传入Action顶层映射后的环境变量
     )
     output, _ = proc.communicate()
     print(f"命令输出:\n{output}")
@@ -74,7 +81,7 @@ def build_worker(group: dict):
         print(f"【{worker_name}】当前分组无资源，跳过部署")
         return True
 
-    # 组装wrangler部署命令（剔除无效timeout参数，严格遵循官方参数）
+    # 组装wrangler部署命令（无无效timeout参数，纯官方合法参数）
     deploy_cmd = [
         "wrangler", "deploy",
         os.path.join(src_dir, "index.js"),
