@@ -1,5 +1,5 @@
-name: CDN调试模式部署（修复环境变量+wrangler命令异常）
-run-name: 修复废弃环境变量，正确执行Assets部署
+name: CDN部署（规避wrangler toml解析BUG）
+run-name: 直接命令行指定assets目录部署，不再触发帮助弹窗
 on:
   push:
     branches: [ main ]
@@ -8,12 +8,10 @@ on:
   workflow_dispatch:
 
 env:
-  # 改用官方推荐的新环境变量名称
-  CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
-  CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+  CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+  CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
   ACTIONS_RUNNER_TRACKING_DISABLED: true
   NODE_DEBUG: ''
-  WRANGLER_LOG: none
 
 jobs:
   pre_clean_disk:
@@ -21,10 +19,7 @@ jobs:
     steps:
       - name: 系统磁盘清理
         run: |
-          sudo rm -rf /usr/share/dotnet
-          sudo rm -rf /opt/ghc
-          sudo rm -rf /usr/local/share/boost
-          sudo rm -rf $AGENT_TOOLSDIRECTORY
+          sudo rm -rf /usr/share/dotnet /opt/ghc /usr/local/share/boost $AGENT_TOOLSDIRECTORY
           rm -rf ~/.config/.wrangler
 
   check_resource_change:
@@ -37,19 +32,13 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
-      - name: 部署触发判断
-        id: diff_detect
+      - id: diff_detect
         run: |
           if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
             echo "has_change=true" >> $GITHUB_OUTPUT
           else
-            if git rev-parse --verify HEAD^ >/dev/null 2>&1; then
-              CHANGE_CONTENT=$(git diff --name-only HEAD^ HEAD -- pic/data/)
-            else
-              CHANGE_CONTENT=$(git ls-files -- pic/data/)
-            fi
-            if [ -n "$CHANGE_CONTENT" ]; then
+            CHANGE=$(git diff --name-only HEAD^ HEAD -- pic/data/ || git ls-files pic/data/)
+            if [ -n "$CHANGE" ]; then
               echo "has_change=true" >> $GITHUB_OUTPUT
             else
               echo "has_change=false" >> $GITHUB_OUTPUT
@@ -74,37 +63,29 @@ jobs:
     steps:
       - name: 拉取代码
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: 安装wrangler固定稳定版
+      - name: 安装固定版本wrangler
         run: npm install wrangler@3.80.0 -g
 
-      - name: 分组打包资源
+      - name: 打包分组静态资源
         run: |
           WORK_BUILD_DIR=./tmp_build/${{ matrix.group.worker_name }}
           rm -rf ${WORK_BUILD_DIR}
           mkdir -p ${WORK_BUILD_DIR}/public/pic/data
+
+          # 只保留JS入口文件，不再单独生成wrangler.toml配置文件
           mkdir -p ${WORK_BUILD_DIR}/src
+          echo 'export default {
+            async fetch(request, env) {
+              try {
+                return await env.ASSETS.fetch(request);
+              } catch {
+                return new Response("404 Not Found", { status: 404 });
+              }
+            }
+          }' > ${WORK_BUILD_DIR}/src/index.js
 
-          echo 'export default {' > ${WORK_BUILD_DIR}/src/index.js
-          echo '  async fetch(request, env) {' >> ${WORK_BUILD_DIR}/src/index.js
-          echo '    try {' >> ${WORK_BUILD_DIR}/src/index.js
-          echo '      return await env.ASSETS.fetch(request);' >> ${WORK_BUILD_DIR}/src/index.js
-          echo '    } catch (e) {' >> ${WORK_BUILD_DIR}/src/index.js
-          echo '      return new Response("File Not Found", { status: 404 });' >> ${WORK_BUILD_DIR}/src/index.js
-          echo '    }' >> ${WORK_BUILD_DIR}/src/index.js
-          echo '  }' >> ${WORK_BUILD_DIR}/src/index.js
-          echo '}' >> ${WORK_BUILD_DIR}/src/index.js
-
-          echo 'name = "${{ matrix.group.worker_name }}"' > ${WORK_BUILD_DIR}/wrangler.toml
-          echo 'main = "src/index.js"' >> ${WORK_BUILD_DIR}/wrangler.toml
-          echo 'compatibility_date = "2026-07-01"' >> ${WORK_BUILD_DIR}/wrangler.toml
-          echo '[assets]' >> ${WORK_BUILD_DIR}/wrangler.toml
-          echo 'directory = "public"' >> ${WORK_BUILD_DIR}/wrangler.toml
-          echo '[assets.rules]' >> ${WORK_BUILD_DIR}/wrangler.toml
-          echo '"/pic/data/**" = { cache_control = "public, max-age=2592000, immutable" }' >> ${WORK_BUILD_DIR}/wrangler.toml
-
+          # 复制当前分组ID范围内的所有资源目录
           find ./pic/data -maxdepth 1 -type d -regex './pic/data/[0-9]+' | while read -r dir; do
             ID=$(basename "$dir")
             if [[ "$ID" =~ ^[0-9]+$ && $ID -ge ${{ matrix.group.min }} && $ID -le ${{ matrix.group.max }} ]]; then
@@ -112,7 +93,7 @@ jobs:
             fi
           done
 
-      - name: 检查是否存在静态资源，无资源直接跳过部署
+      - name: 检查资源是否存在
         id: check_asset
         run: |
           if [ -z "$(ls -A ./tmp_build/${{ matrix.group.worker_name }}/public/pic/data/)" ]; then
@@ -122,20 +103,17 @@ jobs:
             echo "has_asset=true" >> $GITHUB_OUTPUT
           fi
 
-      - name: 执行wrangler部署（进入配置目录执行，规避参数解析bug）
-        id: deploy_step
+      - name: 命令行直接指定参数部署（无toml，彻底规避解析BUG）
         if: steps.check_asset.outputs.has_asset == 'true'
         run: |
-          cd ./tmp_build/${{ matrix.group.worker_name }}
-          wrangler deploy --timeout 1200000
+          wrangler deploy \
+            --name ${{ matrix.group.worker_name }} \
+            --assets ./tmp_build/${{ matrix.group.worker_name }}/public \
+            --compatibility-date 2026-07-01 \
+            --timeout 1200000 \
+            ./tmp_build/${{ matrix.group.worker_name }}/src/index.js
         continue-on-error: true
 
-      - name: 强制打印wrangler日志
+      - name: 打印执行日志
         run: |
-          echo "========== wrangler 运行日志 =========="
-          if [ -d ~/.config/.wrangler/logs/ ]; then
-            cat ~/.config/.wrangler/logs/*.log
-          else
-            echo "无wrangler日志文件，以上控制台输出为执行详情"
-          fi
-          echo "======================================="
+          echo "部署执行完成，若报错请查看上方控制台输出"
