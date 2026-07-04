@@ -1,0 +1,261 @@
+[
+  {
+    "id": "7168fd73",
+    "name": "西武秩父線 吾野駅",
+    "image": "https://image.xinu.ink/pic/data/6705/images/7168fd73_1753085837397.jpg",
+    "geo": [
+      35.908491,
+      139.226697
+    ],
+    "ep": 3,
+    "s": 219,
+    "mark": "#01「スタート地点」、#02「たのしい創作」",
+    "origin": "ステラのまほう"
+  },
+  {
+    "id": "0b8a2b37",
+    "name": "JR吉祥寺駅",
+    "image": "https://image.xinu.ink/pic/data/6705/images/0b8a2b37_1753086487000.jpg",
+    "geo": [
+      35.703139,
+      139.579895
+    ],
+    "ep": 1,
+    "s": 86,
+    "mark": "#01、#02、#10、#OVA",
+    "origin": "ステラのまほう"
+  },
+  {
+    "id": "d89201b3",
+    "name": "成蹊大学",
+    "image": "https://image.xinu.ink/pic/data/6705/images/d89201b3_1753085884172.jpg",
+    "geo": [
+      35.71058,
+      139.5728
+    ],
+    "ep": 9,
+    "s": 670,
+    "mark": "#01、#04、#05、#07、#08、#10、#11、#12、#OVA",
+    "origin": "ステラのまほう"
+  },
+  {
+    "id": "14bf2463",
+    "name": "つくばエクスプレス 北千住駅",
+    "image": "https://image.xinu.ink/pic/data/6705/images/14bf2463_1753085894841.jpg",
+    "geo": [
+      35.748952,
+      139.805051
+    ],
+    "ep": 1,
+    "s": 1264,
+    "mark": "#01",
+    "origin": "ステラのまほう"
+  },
+  {
+    "id": "bab91b1c",
+    "name": "新河岸橋",
+    "image": "",
+    "geo": [
+      35.785798,
+      139.690234
+    ],
+    "origin": "ステラのまほう"
+  },
+  {
+    "id": "32af3f5b",
+    "name": "中町 交差点",
+    "image": "https://image.xinu.ink/pic/data/6705/images/32af3f5b_1753085921643.jpg",
+    "geo": [
+      35.70915,
+      139.567989
+    ],
+    "ep": 2,
+    "s": 94,
+    "mark": "#02、#08、#OVA",
+    "origin": "ステラのまほう"
+  },
+  {
+    "id": "3796bc7c",
+    "name": "ガスト吉祥寺店",
+    "image": "https://image.xinu.ink/pic/data/6705/images/3796bc7c_1753085936676.jpg",
+    "geo": [
+      35.704436,
+      139.581124
+    ],
+    "ep": 2,
+    "s": 536,
+    "mark": "#02、#04",
+    "origin": "ステラのまほう"
+  },
+  {
+    "id": "dd0d64c0",
+    "name": "西武池袋線 東吾野駅",
+    "image": "https://image.xinu.ink/pic/data/6705/images/dd0d64c0_1753085845643.jpg",
+    "geo": [
+      35.892345,
+      139.260347
+    ],
+    "ep": 1,
+    "s": 69,
+    "mark": "#03",
+    "origin": "ステラのまほう"
+  },
+  {
+    "id": "5fedf2b2",
+    "name": "明神湯",
+    "image": "https://image.xinu.ink/pic/data/6705/images/5fedf2b2_1753085958019.jpg",
+    "geo": [
+      35.589591,
+      139.690108
+    ],
+    "ep": 3,
+    "s": 1293,
+    "mark": "#03",
+    "origin": "ステラのまほう"
+  },
+  {
+    "id": "00102b85",
+    "name": "柏の葉キャンパス駅 西口",
+    "image": "https://image.xinu.ink/pic/data/6705/images/00102b85_1753086050356.jpg",
+    "geo": [
+      35.893923,
+      139.952464
+    ],
+    "ep": 4,
+    "s": 745,
+    "origin": "ステラのまほう"
+  },
+  {
+    "id": "0c43346d",
+    "name": "JR秋葉原駅",
+    "image": "https://image.xinu.ink/pic/data/6705/images/0c43346d_1753085995570.jpg",
+    "geo": [
+      35.698471,
+      139.773733
+    ],
+    "ep": 6,
+    "s": 0,
+    "origin": "ステラのまほう"
+  },
+  {
+    "id": "85f58f83",
+    "name": "秋葉原UDX",
+    "image": "https://image.xinu.ink/pic/data/6705/images/85f58f83_1753086003987.jpg",
+    "geo": [
+      35.699837,
+      139.773799
+    ],
+    "ep": 6,
+    "s": 23,
+    "origin": "ステラのまほう"
+  },
+  {
+    "id": "29edcfbe",
+    "name": "吉祥寺サンロード商店街",
+    "image": "https://image.xinu.ink/pic/data/6705/images/29edcfbe_1753086111411.jpg",
+    "geo": [
+      35.703782,
+      139.579832
+    ],
+    "ep": "OVA2",
+    "s": 3,
+    "origin": "ステラのまほう"
+  },
+  {
+    "id": "952dfeae",
+    "name": "吉祥寺駅東口交番",
+    "image": "https://image.xinu.ink/pic/data/6705/images/952dfeae_1753086323299.jpg",
+    "geo": [
+      35.70334,
+      139.58049
+    ],
+    "ep": "OVA2",
+    "s": 0,
+    "origin": "ステラのまほう"
+  },
+  {
+    "id": "084feb50",
+    "name": "吉祥寺駅北口駅前広場",
+    "image": "https://image.xinu.ink/pic/data/6705/images/084feb50_1753086331202.jpg",
+    "geo": [
+      35.703532,
+      139.580408
+    ],
+    "ep": 10,
+    "s": 168,
+    "origin": "ステラのまほう"
+  },
+  {
+    "id": "1e0c3ce9",
+    "name": "東京ビッグサイト",
+    "image": "",
+    "geo": [
+      35.630455,
+      139.793545
+    ],
+    "mark": "#12",
+    "origin": "ステラのまほう"
+  },
+  {
+    "id": "f16b82ee",
+    "name": "三菱UFJ銀行 吉祥寺駅前支店",
+    "image": "https://image.xinu.ink/pic/data/6705/images/f16b82ee_1753086245514.jpg",
+    "geo": [
+      35.70376,
+      139.580106
+    ],
+    "ep": "OVA2",
+    "s": 145,
+    "origin": "ステラのまほう"
+  },
+  {
+    "id": "03d92e6e",
+    "name": "平和通り",
+    "image": "https://image.xinu.ink/pic/data/6705/images/03d92e6e_1753086176003.jpg",
+    "geo": [
+      35.703369,
+      139.579082
+    ],
+    "ep": "OVA2",
+    "s": 15,
+    "origin": "ステラのまほう"
+  },
+  {
+    "id": "cbb1a66d",
+    "name": "サウンドクルー吉祥寺",
+    "image": "https://image.xinu.ink/pic/data/6705/images/cbb1a66d_1753086198737.jpg",
+    "geo": [
+      35.70446,
+      139.57687
+    ],
+    "ep": "OVA2",
+    "s": 244,
+    "origin": "ステラのまほう"
+  },
+  {
+    "id": "1886f216",
+    "name": "雲洞山 天暁院 月窓寺",
+    "image": "https://image.xinu.ink/pic/data/6705/images/1886f216_1753086207856.jpg",
+    "geo": [
+      35.705682,
+      139.580781
+    ],
+    "ep": "OVA2",
+    "s": 329,
+    "origin": "ステラのまほう"
+  },
+  {
+    "id": "79tcgxl",
+    "name": "橋伝理容所",
+    "image": "https://image.xinu.ink/pic/data/6705/images/79tcgxl-1762841386566.jpg",
+    "geo": [
+      35.78918,
+      139.258106
+    ],
+    "ep": 6,
+    "s": 1240,
+    "mark": "青梅站附近正在开发中，路两旁的建筑和店铺都被拆完了。",
+    "origin": "fureshima2223 ",
+    "originURL": "https://sinkirouno.exblog.jp/24898745/"
+  }
+]
