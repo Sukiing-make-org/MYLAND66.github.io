@@ -1,4 +1,4 @@
-name: Deploy index.json to index-cdn Worker
+name: Deploy index.json Static Asset to index-cdn Worker
 on:
   push:
     branches: [ main ]
@@ -10,17 +10,26 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout source
+      - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Setup Node & Install Wrangler
+      - name: Install wrangler
         run: npm install -g wrangler@latest
 
-      - name: Create tiny worker entry
+      - name: Generate tiny worker script
         run: echo 'export default {async fetch(req, env){return env.ASSETS.fetch(req);}};' > worker-index.js
 
-      - name: Deploy Cloudflare Worker
+      - name: Create temp assets folder & copy json
+        run: |
+          mkdir -p static
+          cp index.json static/
+
+      - name: Deploy index-cdn Worker
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
-        run: wrangler deploy --name index-cdn --compatibility-date 2026-07-01 worker-index.js --assets index.json
+        run: wrangler deploy \
+          --name index-cdn \
+          --compatibility-date 2026-07-01 \
+          worker-index.js \
+          --assets static
