@@ -16,38 +16,8 @@ jobs:
       - name: Install wrangler
         run: npm install -g wrangler
 
-      - name: Generate lightweight worker script
-        run: |
-          cat > worker-index.js << 'EOF'
-export default {
-  async fetch(request, env, ctx) {
-    const url = new URL(request.url);
-    // 优先匹配assets静态资源，不存在则返回404页面
-    const asset = await env.ASSETS.fetch(request);
-    if (asset.status !== 404) {
-      return asset;
-    }
-    // 自定义丢失页面
-    const html = `<html>
-<head>
-<meta charset="utf-8">
-<title>走丢啦喵</title>
-</head>
-<body style="text-align:center;margin-top:100px;font-size:22px;">
-<p>页面走丢了喵~</p>
-<p>请访问 /index.json 获取数据</p>
-</body>
-</html>`;
-    return new Response(html, {
-      status: 404,
-      headers: {
-        "Content-Type": "text/html;charset=utf-8",
-        "Cache-Control": "public, max-age=600"
-      }
-    });
-  }
-};
-EOF
+      - name: Generate worker script
+        run: echo 'export default {async fetch(r,e){return e.ASSETS.fetch(r)}};' > worker-index.js
 
       - name: Publish index-cdn Worker
         env:
