@@ -13,23 +13,24 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Install wrangler
+      - name: Install wrangler latest
         run: npm install -g wrangler@latest
 
-      - name: Generate tiny worker script
+      - name: Generate minimal worker script
         run: echo 'export default {async fetch(req, env){return env.ASSETS.fetch(req);}};' > worker-index.js
 
-      - name: Create temp assets folder & copy json
+      - name: Create static folder and copy json
         run: |
           mkdir -p static
-          cp index.json static/
+          cp index.json static/index.json
 
-      - name: Deploy index-cdn Worker
+      - name: Deploy Worker index-cdn
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
-        run: wrangler deploy \
-          --name index-cdn \
-          --compatibility-date 2026-07-01 \
-          worker-index.js \
-          --assets static
+        run: |
+          wrangler deploy \
+            --name index-cdn \
+            --compatibility-date 2026-07-01 \
+            --assets static \
+            worker-index.js
