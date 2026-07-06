@@ -633810,5 +633810,3040 @@
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/6757/points.json"
+  },
+  "6758": {
+    "name": "ときめきメモリアル Only Love",
+    "name_cn": "心跳回忆 Only Love",
+    "cover": "https://image.xinu.ink/pic/data/6758/images/1804.jpg",
+    "theme_color": "#c06889",
+    "points": [
+      {
+        "id": "5qrrvi6v",
+        "name": "JR札幌駅南口",
+        "image": "https://image.xinu.ink/pic/data/6758/images/5qrrvi6v_1754455692863.jpg",
+        "geo": [
+          43.067242,
+          141.350461
+        ],
+        "folder": "札幌"
+      },
+      {
+        "id": "5qrrvhxe",
+        "name": "北海道庁",
+        "image": "https://image.xinu.ink/pic/data/6758/images/5qrrvhxe_1754455708345.jpg",
+        "geo": [
+          43.064122,
+          141.349034
+        ],
+        "folder": "札幌"
+      },
+      {
+        "id": "5qrrvj09",
+        "name": "札幌市時計台",
+        "image": "https://image.xinu.ink/pic/data/6758/images/5qrrvj09_1754455722153.jpg",
+        "geo": [
+          43.062453,
+          141.353401
+        ],
+        "folder": "札幌"
+      },
+      {
+        "id": "5qrrviox",
+        "name": "大通公園",
+        "image": "https://image.xinu.ink/pic/data/6758/images/5qrrviox_1754455930969.jpg",
+        "geo": [
+          43.060701,
+          141.352614
+        ],
+        "folder": "札幌"
+      },
+      {
+        "id": "5qrrvj3i",
+        "name": "大通公園",
+        "image": "https://image.xinu.ink/pic/data/6758/images/5qrrvj3i_1754455939401.jpg",
+        "geo": [
+          43.061359,
+          141.354898
+        ],
+        "folder": "札幌"
+      },
+      {
+        "id": "5qrrvilm",
+        "name": "サッポロビール園",
+        "image": "https://image.xinu.ink/pic/data/6758/images/5qrrvilm_1754455976703.jpg",
+        "geo": [
+          43.071553,
+          141.368239
+        ],
+        "folder": "札幌"
+      },
+      {
+        "id": "3f4xduw",
+        "name": "サッポロ​ビール​博物館",
+        "image": "https://image.xinu.ink/pic/data/6758/images/3f4xduw_1754455990825.jpg",
+        "geo": [
+          43.071633,
+          141.368775
+        ],
+        "folder": "札幌"
+      },
+      {
+        "id": "5qrrvini",
+        "name": "JR函館本線",
+        "image": "https://image.xinu.ink/pic/data/6758/images/5qrrvini_1754456013032.jpg",
+        "geo": [
+          43.178956,
+          141.04324
+        ],
+        "folder": "小樽"
+      },
+      {
+        "id": "5qrrvimm",
+        "name": "ＪＲ小樽駅",
+        "image": "https://image.xinu.ink/pic/data/6758/images/5qrrvimm_1754456028089.jpg",
+        "geo": [
+          43.197676,
+          140.994189
+        ],
+        "folder": "小樽"
+      },
+      {
+        "id": "5qrrvisf",
+        "name": "三角市場",
+        "image": "https://image.xinu.ink/pic/data/6758/images/5qrrvisf_1754456044105.jpg",
+        "geo": [
+          43.198139,
+          140.993801
+        ],
+        "folder": "小樽"
+      },
+      {
+        "id": "5qrrvk0u",
+        "name": "旧手宮線",
+        "image": "https://image.xinu.ink/pic/data/6758/images/5qrrvk0u_1754456066530.jpg",
+        "geo": [
+          43.199021,
+          140.998773
+        ],
+        "folder": "小樽"
+      },
+      {
+        "id": "5qrrvjcx",
+        "name": "運河プラザ",
+        "image": "https://image.xinu.ink/pic/data/6758/images/5qrrvjcx_1754456094428.jpg",
+        "geo": [
+          43.199952,
+          141.000836
+        ],
+        "mark": "消防犬銅造",
+        "folder": "小樽"
+      },
+      {
+        "id": "5qrrvk1d",
+        "name": "旧三井銀行小樽支店",
+        "image": "https://image.xinu.ink/pic/data/6758/images/5qrrvk1d_1754456146688.jpg",
+        "geo": [
+          43.197449,
+          141.001464
+        ],
+        "folder": "小樽"
+      },
+      {
+        "id": "5qrrvjvd",
+        "name": "堺町通り",
+        "image": "https://image.xinu.ink/pic/data/6758/images/5qrrvjvd_1754456154184.jpg",
+        "geo": [
+          43.194385,
+          141.006037
+        ],
+        "folder": "小樽"
+      },
+      {
+        "id": "5qrrvjmk",
+        "name": "小樽運河",
+        "image": "https://image.xinu.ink/pic/data/6758/images/5qrrvjmk_1754456176825.jpg",
+        "geo": [
+          43.197969,
+          141.00303
+        ],
+        "folder": "小樽"
+      },
+      {
+        "id": "5qrrvjq1",
+        "name": "小樽運河",
+        "image": "https://image.xinu.ink/pic/data/6758/images/5qrrvjq1_1754456182617.jpg",
+        "geo": [
+          43.198383,
+          141.002552
+        ],
+        "folder": "小樽"
+      },
+      {
+        "id": "5qrrvjp1",
+        "name": "可否茶館小樽ファクトリー",
+        "image": "https://image.xinu.ink/pic/data/6758/images/5qrrvjp1_1754456300745.jpg",
+        "geo": [
+          43.193998,
+          141.006611
+        ],
+        "folder": "小樽"
+      },
+      {
+        "id": "5qrrvk18",
+        "name": "五郎の石の家",
+        "image": "https://image.xinu.ink/pic/data/6758/images/5qrrvk18_1754456525410.jpg",
+        "geo": [
+          43.313641,
+          142.564491
+        ],
+        "folder": "富良野"
+      },
+      {
+        "id": "3f59j94",
+        "name": "五郎の石の家",
+        "image": "https://image.xinu.ink/pic/data/6758/images/3f59j94_1754456549575.jpg",
+        "geo": [
+          43.31403,
+          142.564504
+        ],
+        "folder": "富良野"
+      },
+      {
+        "id": "5qrrvjum",
+        "name": "ふらのチーズ工房",
+        "image": "https://image.xinu.ink/pic/data/6758/images/5qrrvjum_1754456497049.jpg",
+        "geo": [
+          43.321127,
+          142.379077
+        ],
+        "folder": "富良野"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6758/points.json"
+  },
+  "6759": {
+    "name": "サーバント×サービス",
+    "name_cn": "跟班×服务",
+    "cover": "https://image.xinu.ink/pic/data/6759/images/69944.jpg",
+    "theme_color": "#555555",
+    "points": [
+      {
+        "id": "b8c15c00",
+        "name": "白石区役所",
+        "image": "https://image.xinu.ink/pic/data/6759/images/b8c15c00_1754387284679.jpg",
+        "geo": [
+          43.047165,
+          141.4052
+        ],
+        "mark": "PV",
+        "origin": "サーバント×サービス聖地巡礼MAP"
+      },
+      {
+        "id": "87f9cfd1",
+        "name": "スターロード",
+        "image": "https://image.xinu.ink/pic/data/6759/images/87f9cfd1_1754387546830.jpg",
+        "geo": [
+          35.704997,
+          139.635093
+        ],
+        "mark": "04話",
+        "origin": "サーバント×サービス聖地巡礼MAP"
+      },
+      {
+        "id": "077d39c0",
+        "name": "旧ロイヤルホスト1号店",
+        "image": "https://image.xinu.ink/pic/data/6759/images/077d39c0_1754387213413.jpg",
+        "geo": [
+          33.858629,
+          130.754233
+        ],
+        "mark": "04話",
+        "origin": "サーバント×サービス聖地巡礼MAP"
+      },
+      {
+        "id": "227d3d37",
+        "name": "イオン札幌桑園ショッピングセンター",
+        "image": "https://image.xinu.ink/pic/data/6759/images/227d3d37_1754387244159.jpg",
+        "geo": [
+          43.069856,
+          141.331682
+        ],
+        "mark": "07話",
+        "origin": "サーバント×サービス聖地巡礼MAP"
+      },
+      {
+        "id": "9e811149",
+        "name": "白石区役所前階段",
+        "image": "https://image.xinu.ink/pic/data/6759/images/9e811149_1754387301021.jpg",
+        "geo": [
+          43.047448,
+          141.405069
+        ],
+        "mark": "08話",
+        "origin": "サーバント×サービス聖地巡礼MAP"
+      },
+      {
+        "id": "f87d28b5",
+        "name": "スターロード",
+        "image": "https://image.xinu.ink/pic/data/6759/images/f87d28b5_1754387603437.jpg",
+        "geo": [
+          35.705025,
+          139.634339
+        ],
+        "mark": "04話",
+        "origin": "サーバント×サービス聖地巡礼MAP"
+      },
+      {
+        "id": "5738adf6",
+        "name": "杉並区役所",
+        "image": "https://image.xinu.ink/pic/data/6759/images/5738adf6_1754387164678.jpg",
+        "geo": [
+          35.699586,
+          139.63646
+        ],
+        "origin": "サーバント×サービス聖地巡礼MAP"
+      },
+      {
+        "id": "ba599e6c",
+        "name": "杉並警察署前歩道橋",
+        "image": "https://image.xinu.ink/pic/data/6759/images/ba599e6c_1754388178186.jpg",
+        "geo": [
+          35.698911,
+          139.636804
+        ],
+        "origin": "サーバント×サービス聖地巡礼MAP"
+      },
+      {
+        "id": "0759b65b",
+        "name": "JR札幌駅南口",
+        "image": "https://image.xinu.ink/pic/data/6759/images/0759b65b_1754387737425.jpg",
+        "geo": [
+          43.067328,
+          141.350215
+        ],
+        "mark": "12話",
+        "origin": "サーバント×サービス聖地巡礼MAP"
+      },
+      {
+        "id": "7645ad45",
+        "name": "札幌駅前通り",
+        "image": "https://image.xinu.ink/pic/data/6759/images/7645ad45_1754387785272.jpg",
+        "geo": [
+          43.065815,
+          141.350574
+        ],
+        "mark": "12話",
+        "origin": "サーバント×サービス聖地巡礼MAP"
+      },
+      {
+        "id": "87174d7b",
+        "name": "JR札幌駅南口",
+        "image": "https://image.xinu.ink/pic/data/6759/images/87174d7b_1754387845755.jpg",
+        "geo": [
+          43.067516,
+          141.350682
+        ],
+        "mark": "12話",
+        "origin": "サーバント×サービス聖地巡礼MAP"
+      },
+      {
+        "id": "e051ab98",
+        "name": "くしろ湿原ノロッコ号",
+        "image": "https://image.xinu.ink/pic/data/6759/images/e051ab98_1754388080661.jpg",
+        "geo": [
+          43.100607,
+          144.447715
+        ],
+        "mark": "12話",
+        "origin": "サーバント×サービス聖地巡礼MAP"
+      },
+      {
+        "id": "281c7cd2",
+        "name": "タイトーステーション大阪日本橋店",
+        "image": "https://image.xinu.ink/pic/data/6759/images/281c7cd2_1754388118092.jpg",
+        "geo": [
+          34.660373,
+          135.506071
+        ],
+        "mark": "11話",
+        "origin": "サーバント×サービス聖地巡礼MAP"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6759/points.json"
+  },
+  "6760": {
+    "name": "あしたはれたら死のう",
+    "name_cn": null,
+    "cover": "https://image.xinu.ink/pic/data/6760/images/523994_Glced.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "3ec126c1",
+        "name": "十勝川インフォメーションセンター",
+        "image": "",
+        "geo": [
+          42.934471,
+          143.203537
+        ],
+        "folder": "帯広",
+        "origin": "あしたはれたら死のう聖地巡礼マップ"
+      },
+      {
+        "id": "34ea0ccf",
+        "name": "十勝大橋が白い塔に見えるポイント",
+        "image": "",
+        "geo": [
+          42.933089,
+          143.200526
+        ],
+        "folder": "帯広",
+        "origin": "あしたはれたら死のう聖地巡礼マップ"
+      },
+      {
+        "id": "aa4846e0",
+        "name": "おびひろ動物園",
+        "image": "",
+        "geo": [
+          42.901075,
+          143.182038
+        ],
+        "folder": "帯広",
+        "origin": "あしたはれたら死のう聖地巡礼マップ"
+      },
+      {
+        "id": "228abe31",
+        "name": "長崎屋 帯広店",
+        "image": "",
+        "geo": [
+          42.917943,
+          143.199297
+        ],
+        "folder": "帯広",
+        "origin": "あしたはれたら死のう聖地巡礼マップ"
+      },
+      {
+        "id": "a227ec98",
+        "name": "フクハラ西１８条店",
+        "image": "",
+        "geo": [
+          42.929743,
+          143.161703
+        ],
+        "folder": "帯広",
+        "origin": "あしたはれたら死のう聖地巡礼マップ"
+      },
+      {
+        "id": "5d95bacd",
+        "name": "ツルハドラッグ 西１８条店",
+        "image": "",
+        "geo": [
+          42.929868,
+          143.162241
+        ],
+        "folder": "帯広",
+        "origin": "あしたはれたら死のう聖地巡礼マップ"
+      },
+      {
+        "id": "72d281eb",
+        "name": "帯広駅前の温度計",
+        "image": "",
+        "geo": [
+          42.918173,
+          143.202529
+        ],
+        "folder": "帯広",
+        "origin": "あしたはれたら死のう聖地巡礼マップ"
+      },
+      {
+        "id": "9cb01426",
+        "name": "十勝トテッポ工房",
+        "image": "",
+        "geo": [
+          42.911986,
+          143.197411
+        ],
+        "folder": "帯広",
+        "origin": "あしたはれたら死のう聖地巡礼マップ"
+      },
+      {
+        "id": "41cf4186",
+        "name": "イオン帯広店",
+        "image": "",
+        "geo": [
+          42.90874,
+          143.20035
+        ],
+        "folder": "帯広",
+        "origin": "あしたはれたら死のう聖地巡礼マップ"
+      },
+      {
+        "id": "f77abadd",
+        "name": "森のスパリゾート 北海道ホテル｜帯広",
+        "image": "",
+        "geo": [
+          42.910291,
+          143.196984
+        ],
+        "folder": "帯広",
+        "origin": "あしたはれたら死のう聖地巡礼マップ"
+      },
+      {
+        "id": "b096d7d7",
+        "name": "ベビー フェイス プラネッツ 長崎屋帯広店",
+        "image": "",
+        "geo": [
+          42.917905,
+          143.19935
+        ],
+        "folder": "帯広",
+        "origin": "あしたはれたら死のう聖地巡礼マップ"
+      },
+      {
+        "id": "1c2c7ddd",
+        "name": "カラオケ本舗まねきねこ 帯広駅前店",
+        "image": "",
+        "geo": [
+          42.920795,
+          143.20266
+        ],
+        "folder": "帯広",
+        "origin": "あしたはれたら死のう聖地巡礼マップ"
+      },
+      {
+        "id": "f4c02649",
+        "name": "グリーンパーク",
+        "image": "",
+        "geo": [
+          42.906439,
+          143.190844
+        ],
+        "folder": "帯広",
+        "origin": "あしたはれたら死のう聖地巡礼マップ"
+      },
+      {
+        "id": "52b32cd4",
+        "name": "JR柏林台駅",
+        "image": "",
+        "geo": [
+          42.928926,
+          143.16503
+        ],
+        "folder": "帯広",
+        "origin": "あしたはれたら死のう聖地巡礼マップ"
+      },
+      {
+        "id": "9c14b695",
+        "name": "モダグループ・モダ石油（株）音更給油所",
+        "image": "",
+        "geo": [
+          42.941362,
+          143.203189
+        ],
+        "folder": "音更",
+        "origin": "あしたはれたら死のう聖地巡礼マップ"
+      },
+      {
+        "id": "52f1b90b",
+        "name": "十勝毎日新聞社の青い看板",
+        "image": "",
+        "geo": [
+          42.940946,
+          143.203616
+        ],
+        "folder": "音更",
+        "origin": "あしたはれたら死のう聖地巡礼マップ"
+      },
+      {
+        "id": "20260fbc",
+        "name": "鈴蘭公園",
+        "image": "",
+        "geo": [
+          42.943708,
+          143.201315
+        ],
+        "folder": "音更",
+        "origin": "あしたはれたら死のう聖地巡礼マップ"
+      },
+      {
+        "id": "8139bff1",
+        "name": "CheeseCake 一厘-いちりん-",
+        "image": "",
+        "geo": [
+          42.998283,
+          143.197599
+        ],
+        "folder": "音更",
+        "origin": "あしたはれたら死のう聖地巡礼マップ"
+      },
+      {
+        "id": "34677e89",
+        "name": "ティーハウス ライフ・ラプサン",
+        "image": "",
+        "geo": [
+          43.755263,
+          142.396265
+        ],
+        "folder": "旭川",
+        "origin": "あしたはれたら死のう聖地巡礼マップ"
+      },
+      {
+        "id": "92e998af",
+        "name": "コーチャンフォー釧路店",
+        "image": "",
+        "geo": [
+          42.977515,
+          144.4137
+        ],
+        "folder": "釧路",
+        "origin": "あしたはれたら死のう聖地巡礼マップ"
+      },
+      {
+        "id": "fbde820e",
+        "name": "鮨処なごやか亭春採店",
+        "image": "",
+        "geo": [
+          42.978362,
+          144.412727
+        ],
+        "folder": "釧路",
+        "origin": "あしたはれたら死のう聖地巡礼マップ"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6760/points.json"
+  },
+  "6761": {
+    "name": "機動警察パトレイバー NEW OVA",
+    "name_cn": "机动警察 NEW OVA",
+    "cover": "https://image.xinu.ink/pic/data/6761/images/13552_80asQ.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "3be4np9",
+        "name": "佃",
+        "image": "https://image.xinu.ink/pic/data/6761/images/3be4np9-1754229614150.jpg",
+        "geo": [
+          35.67083,
+          139.78468
+        ],
+        "ep": 1,
+        "s": "961",
+        "mark": "第一小队与黑色labor交战地",
+        "cn": "佃岛"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6761/points.json"
+  },
+  "6762": {
+    "name": "機動警察パトレイバー",
+    "name_cn": "机动警察",
+    "cover": "https://image.xinu.ink/pic/data/6762/images/8484_K4VAE.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "2wqw7g3",
+        "name": "恵比寿屋土産店",
+        "image": "https://image.xinu.ink/pic/data/6762/images/2wqw7g3-1753344159225.jpg",
+        "geo": [
+          34.751974,
+          139.353149
+        ],
+        "ep": "21",
+        "s": "236",
+        "mark": "大島元町おみやけの店"
+      },
+      {
+        "id": "2wscue4",
+        "name": "篠原工業(株)",
+        "image": "https://image.xinu.ink/pic/data/6762/images/2wscue4-1753346483766.jpg",
+        "geo": [
+          35.678687,
+          139.260092
+        ],
+        "ep": 21,
+        "s": "197",
+        "mark": "篠原重工的前身是｢篠原自動車部品製作所｣, 是現任社長是篠原一馬,及現八王子工場主管實山,\n將飛鳥重機(現在的所沢工場)及淺川鐵工(現在的八王子工場)合併,\n成為篠原重工株式會社,創立於1945年(昭和20年),資本金達500億日元!!\n也是日本最大的機械人製造商,從業員達4萬人!!(1999年3月至今)\n\n本社位於東京,事業所有茨城研究所(筑波研究所),\n機械人生產工場有八王子、所沢、茨木、習志野、川越五個;\n而當中八王子工場(Hachioji Factory)則是全日本最大的機械人製造工場。\n初期開發了一些土木用機械人(如KV-93,SSL-95式等)\n之後開始發展警察專用的機械人計劃,為MPL (Mobile Police Labor)\n到1998年重心發展次世代AV計劃(Advanced Vehicle Project),AV-98及ARL-99B為先驅,\n取得了很大的成功,開創了機械人的新世代!!\n八王子工場,機動警察的主角之一英格倫就是在這裡生產的!!"
+      },
+      {
+        "id": "2zlo5jq",
+        "name": "小笠原",
+        "image": "https://image.xinu.ink/pic/data/6762/images/2zlo5jq-1753516646610.jpg",
+        "geo": [
+          27.068315,
+          142.211951
+        ],
+        "ep": 30,
+        "s": "327",
+        "mark": "自卫队在小笠原进行军事演练",
+        "cn": "小笠原"
+      },
+      {
+        "id": "2zndxwh",
+        "name": "東京​ビッグ​サイト",
+        "image": "https://image.xinu.ink/pic/data/6762/images/2zndxwh-1753519523524.jpg",
+        "geo": [
+          35.629631,
+          139.794469
+        ],
+        "ep": 31,
+        "s": "131",
+        "mark": "展览LABOR机器人",
+        "cn": "东京国际展示场"
+      },
+      {
+        "id": "39hvbul",
+        "name": "苫小牧 西銀座商店街",
+        "image": "https://image.xinu.ink/pic/data/6762/images/39hvbul-1754114927371.jpg",
+        "geo": [
+          42.631847,
+          141.596501
+        ],
+        "ep": 47,
+        "s": "337"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6762/points.json"
+  },
+  "6763": {
+    "name": "夢喰いメリー",
+    "name_cn": "食梦者玛利",
+    "cover": "/images/bangumi/8990.jpg",
+    "theme_color": "#d4aa2b",
+    "points": [
+      {
+        "id": "kpx6ouhyx",
+        "name": "夢喰いメリー江ノ電江ノ島駅",
+        "image": "https://image.xinu.ink/pic/data/6763/images/kpx6ouhyx_1753948417458.jpg",
+        "geo": [
+          35.311111,
+          139.487558
+        ],
+        "mark": "1話8カット、4話7カット",
+        "folder": "湘南"
+      },
+      {
+        "id": "kpx6oui71",
+        "name": "夢喰いメリー鎌倉高校前駅踏切",
+        "image": "https://image.xinu.ink/pic/data/6763/images/kpx6oui71_1753947681730.jpg",
+        "geo": [
+          35.306668,
+          139.502115
+        ],
+        "mark": "4話2カット",
+        "folder": "湘南"
+      },
+      {
+        "id": "kpx6ouhpy",
+        "name": "夢喰いメリーイトーヨーカドー藤沢店付近",
+        "image": "https://image.xinu.ink/pic/data/6763/images/kpx6ouhpy_1753948388947.jpg",
+        "geo": [
+          35.334578,
+          139.489347
+        ],
+        "mark": "5話7カット、6話11カット",
+        "folder": "湘南"
+      },
+      {
+        "id": "kpx6ouhuj",
+        "name": "夢喰いメリーイトーヨーカドー藤沢店付近",
+        "image": "https://image.xinu.ink/pic/data/6763/images/kpx6ouhuj_1753948396031.jpg",
+        "geo": [
+          35.335311,
+          139.489516
+        ],
+        "mark": "階段1カットはこちらである可能性も",
+        "folder": "湘南"
+      },
+      {
+        "id": "kpx6ouifd",
+        "name": "高田公園",
+        "image": "https://image.xinu.ink/pic/data/6763/images/kpx6ouifd_1753872241222.jpg",
+        "geo": [
+          37.109324,
+          138.254217
+        ],
+        "mark": "夢喰いメリー3話舞台、1巻舞台"
+      },
+      {
+        "id": "kpx6ouioq",
+        "name": "高田公園",
+        "image": "https://image.xinu.ink/pic/data/6763/images/kpx6ouioq_1753872261286.jpg",
+        "geo": [
+          37.109712,
+          138.254539
+        ],
+        "mark": "夢喰いメリー3話舞台"
+      },
+      {
+        "id": "kpx6oul3y",
+        "name": "高田公園噴水",
+        "image": "https://image.xinu.ink/pic/data/6763/images/kpx6oul3y_1753872138360.jpg",
+        "geo": [
+          37.109106,
+          138.252811
+        ],
+        "mark": "夢喰いメリー4巻舞台"
+      },
+      {
+        "id": "kpx6oum12",
+        "name": "高田公園 時計",
+        "image": "https://image.xinu.ink/pic/data/6763/images/kpx6oum12_1753872037281.jpg",
+        "geo": [
+          37.108676,
+          138.256652
+        ],
+        "mark": "5巻82P"
+      },
+      {
+        "id": "kpx6oum7j",
+        "name": "高田公園 橋",
+        "image": "https://image.xinu.ink/pic/data/6763/images/kpx6oum7j_1753872019760.jpg",
+        "geo": [
+          37.110114,
+          138.255746
+        ],
+        "mark": "5巻82P"
+      },
+      {
+        "id": "kpx6ouify",
+        "name": "お食事処・地魚料理 伊智",
+        "image": "https://image.xinu.ink/pic/data/6763/images/kpx6ouify_1753871733583.jpg",
+        "geo": [
+          37.14966,
+          138.226067
+        ],
+        "mark": "夢喰いメリー4話舞台、4巻舞台"
+      },
+      {
+        "id": "kpx6ouj7i",
+        "name": "まねきねこ上越木田店",
+        "image": "https://image.xinu.ink/pic/data/6763/images/kpx6ouj7i_1753871418584.jpg",
+        "geo": [
+          37.138341,
+          138.240591
+        ],
+        "mark": "夢喰いメリー1巻舞台"
+      },
+      {
+        "id": "kpx6oujrl",
+        "name": "上越ショッピングセンターアコーレ",
+        "image": "https://image.xinu.ink/pic/data/6763/images/kpx6oujrl_1753871470448.jpg",
+        "geo": [
+          37.152484,
+          138.258884
+        ],
+        "mark": "夢喰いメリー2巻"
+      },
+      {
+        "id": "kpx6oujta",
+        "name": "J-MAX THEATER",
+        "image": "https://image.xinu.ink/pic/data/6763/images/kpx6oujta_1753871429735.jpg",
+        "geo": [
+          37.148339,
+          138.259243
+        ],
+        "mark": "夢喰いメリー4巻舞台"
+      },
+      {
+        "id": "kpx6oukl1",
+        "name": "高田駅前",
+        "image": "https://image.xinu.ink/pic/data/6763/images/kpx6oukl1_1753871332940.jpg",
+        "geo": [
+          37.11517,
+          138.24256
+        ],
+        "mark": "夢喰いメリー3巻舞台"
+      },
+      {
+        "id": "kpx6ouk3k",
+        "name": "高田駅前クリニック　丸山内科医院",
+        "image": "https://image.xinu.ink/pic/data/6763/images/kpx6ouk3k_1753872446119.jpg",
+        "geo": [
+          37.115388,
+          138.242742
+        ],
+        "mark": "夢喰いメリー3巻舞台"
+      },
+      {
+        "id": "kpx6oul86",
+        "name": "大島画廊ギャラリー",
+        "image": "https://image.xinu.ink/pic/data/6763/images/kpx6oul86_1753872321878.jpg",
+        "geo": [
+          37.109996,
+          138.244285
+        ],
+        "mark": "夢喰いメリー4巻舞台"
+      },
+      {
+        "id": "kpx6ouk8s",
+        "name": "謙信公大橋",
+        "image": "https://image.xinu.ink/pic/data/6763/images/kpx6ouk8s_1753872756540.jpg",
+        "geo": [
+          37.151997,
+          138.247227
+        ],
+        "mark": "夢喰いメリー7巻舞台"
+      },
+      {
+        "id": "kpx6oukcm",
+        "name": "謙信公大橋",
+        "image": "https://image.xinu.ink/pic/data/6763/images/kpx6oukcm_1753872679686.jpg",
+        "geo": [
+          37.15068,
+          138.248493
+        ],
+        "mark": "夢喰いメリー7巻舞台"
+      },
+      {
+        "id": "kpx6oul1m",
+        "name": "謙信公大橋",
+        "image": "https://image.xinu.ink/pic/data/6763/images/kpx6oul1m_1753872586556.jpg",
+        "geo": [
+          37.151005,
+          138.247742
+        ],
+        "mark": "夢喰いメリー7巻舞台"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6763/points.json"
+  },
+  "6764": {
+    "name": "乃木坂春香の秘密 ふぃな〜れ♪",
+    "name_cn": "乃木坂春香的秘密 Finale♪",
+    "cover": "https://image.xinu.ink/pic/data/6764/images/47276.jpg",
+    "theme_color": "#e2b693",
+    "points": [
+      {
+        "id": "5r1akbbt",
+        "name": "羊ケ丘展望台",
+        "image": "https://image.xinu.ink/pic/data/6764/images/5r1akbbt_1753868963591.jpg",
+        "geo": [
+          42.999217,
+          141.394707
+        ],
+        "ep": 1,
+        "mark": "克拉克像"
+      },
+      {
+        "id": "5r1akb3p",
+        "name": "札幌市時計台",
+        "image": "https://image.xinu.ink/pic/data/6764/images/5r1akb3p_1753869005446.jpg",
+        "geo": [
+          43.062476,
+          141.35339
+        ],
+        "ep": 1,
+        "mark": "1巻"
+      },
+      {
+        "id": "5r1akb9y",
+        "name": "さっぽろテレビ塔",
+        "image": "https://image.xinu.ink/pic/data/6764/images/5r1akb9y_1753869055567.jpg",
+        "geo": [
+          43.060999,
+          141.355842
+        ],
+        "ep": 1,
+        "mark": "1巻"
+      },
+      {
+        "id": "5r1akbhl",
+        "name": "さっぽろテレビ塔",
+        "image": "https://image.xinu.ink/pic/data/6764/images/5r1akbhl_1753869062197.jpg",
+        "geo": [
+          43.060532,
+          141.352323
+        ],
+        "ep": 1,
+        "mark": "喷泉前"
+      },
+      {
+        "id": "5r1akbi7",
+        "name": "狸小路2丁目",
+        "image": "https://image.xinu.ink/pic/data/6764/images/5r1akbi7_1753869071389.jpg",
+        "geo": [
+          43.05769,
+          141.356041
+        ],
+        "ep": 1,
+        "mark": "1巻"
+      },
+      {
+        "id": "5r1akayg",
+        "name": "白い恋人パーク",
+        "image": "https://image.xinu.ink/pic/data/6764/images/5r1akayg_1753868904605.jpg",
+        "geo": [
+          43.088706,
+          141.271668
+        ],
+        "ep": 1,
+        "mark": "1巻"
+      },
+      {
+        "id": "35fe0vr",
+        "name": "チュダーハウス",
+        "image": "https://image.xinu.ink/pic/data/6764/images/35fe0vr_1753868914324.jpg",
+        "geo": [
+          43.088327,
+          141.270855
+        ],
+        "ep": 1,
+        "mark": "1巻"
+      },
+      {
+        "id": "35fe47m",
+        "name": "あんとるぽー館 オーロラの泉",
+        "image": "https://image.xinu.ink/pic/data/6764/images/35fe47m_1753868933086.jpg",
+        "geo": [
+          43.089205,
+          141.27112
+        ],
+        "ep": 1,
+        "mark": "1巻"
+      },
+      {
+        "id": "5r1akb90",
+        "name": "ハイジ牧場",
+        "image": "https://image.xinu.ink/pic/data/6764/images/5r1akb90_1753869177820.jpg",
+        "geo": [
+          42.972753,
+          141.73246
+        ],
+        "ep": 1,
+        "mark": "1巻"
+      },
+      {
+        "id": "5r1akbho",
+        "name": "ホテルモントレエーデルホフ札幌",
+        "image": "https://image.xinu.ink/pic/data/6764/images/5r1akbho_1753869154135.jpg",
+        "geo": [
+          43.064195,
+          141.355722
+        ],
+        "ep": 1,
+        "mark": "1巻"
+      },
+      {
+        "id": "5r1akatk",
+        "name": "大通公園4丁目",
+        "image": "https://image.xinu.ink/pic/data/6764/images/5r1akatk_1753869135734.jpg",
+        "geo": [
+          43.060383,
+          141.351028
+        ],
+        "ep": 1,
+        "mark": "1巻"
+      },
+      {
+        "id": "5r1akb15",
+        "name": "すすきの（南4西4）",
+        "image": "https://image.xinu.ink/pic/data/6764/images/5r1akb15_1753869101421.jpg",
+        "geo": [
+          43.055676,
+          141.353181
+        ],
+        "ep": 1,
+        "mark": "1巻"
+      },
+      {
+        "id": "5r1akbfy",
+        "name": "旭山動物園正門",
+        "image": "https://image.xinu.ink/pic/data/6764/images/5r1akbfy_1753869259644.jpg",
+        "geo": [
+          43.768564,
+          142.475697
+        ],
+        "ep": 2,
+        "mark": "02話"
+      },
+      {
+        "id": "5r1akbf0",
+        "name": "JR小樽駅",
+        "image": "https://image.xinu.ink/pic/data/6764/images/5r1akbf0_1753869461164.jpg",
+        "geo": [
+          43.197691,
+          140.993803
+        ],
+        "ep": 2,
+        "mark": "02話"
+      },
+      {
+        "id": "35fmzv4",
+        "name": "JR小樽駅内",
+        "image": "https://image.xinu.ink/pic/data/6764/images/35fmzv4_1753869472781.jpg",
+        "geo": [
+          43.197669,
+          140.99371
+        ],
+        "ep": 2,
+        "mark": "02話"
+      },
+      {
+        "id": "35ft6ji",
+        "name": "羊蹄国道",
+        "image": "https://image.xinu.ink/pic/data/6764/images/35ft6ji_1753869604924.jpg",
+        "geo": [
+          43.197949,
+          140.994559
+        ],
+        "ep": 2,
+        "mark": "02話",
+        "cn": "小樽駅前交差点"
+      },
+      {
+        "id": "5r1akb7a",
+        "name": "アーケード街",
+        "image": "https://image.xinu.ink/pic/data/6764/images/5r1akb7a_1753869765522.jpg",
+        "geo": [
+          43.198137,
+          140.996102
+        ],
+        "ep": 2,
+        "mark": "02話",
+        "cn": "小樽都通り商店街"
+      },
+      {
+        "id": "5r1akavl",
+        "name": "小樽運河",
+        "image": "https://image.xinu.ink/pic/data/6764/images/5r1akavl_1753870181968.jpg",
+        "geo": [
+          43.197988,
+          141.003073
+        ],
+        "ep": 2,
+        "mark": "02話"
+      },
+      {
+        "id": "35glgew",
+        "name": "小樽運河",
+        "image": "https://image.xinu.ink/pic/data/6764/images/35glgew_1753870931101.jpg",
+        "geo": [
+          43.197987,
+          141.00293
+        ],
+        "ep": 2,
+        "mark": "02話"
+      },
+      {
+        "id": "35gft62",
+        "name": "小樽観光案内所",
+        "image": "https://image.xinu.ink/pic/data/6764/images/35gft62_1753870670511.jpg",
+        "geo": [
+          43.197964,
+          141.003147
+        ],
+        "ep": 2,
+        "mark": "02話"
+      },
+      {
+        "id": "5r1akb4e",
+        "name": "小樽運河",
+        "image": "https://image.xinu.ink/pic/data/6764/images/5r1akb4e_1753870743575.jpg",
+        "geo": [
+          43.198247,
+          141.002692
+        ],
+        "ep": 2,
+        "mark": "02話"
+      },
+      {
+        "id": "5r1akb7t",
+        "name": "小樽運河",
+        "image": "https://image.xinu.ink/pic/data/6764/images/5r1akb7t_1753870893158.jpg",
+        "geo": [
+          43.198808,
+          141.002193
+        ],
+        "ep": 2,
+        "mark": "02話"
+      },
+      {
+        "id": "5r1akbgn",
+        "name": "小樽運河",
+        "image": "https://image.xinu.ink/pic/data/6764/images/5r1akbgn_1753870803935.jpg",
+        "geo": [
+          43.199611,
+          141.001619
+        ],
+        "ep": 2,
+        "mark": "02話"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6764/points.json"
+  },
+  "6765": {
+    "name": "政宗くんのリベンジR",
+    "name_cn": "政宗君的复仇R",
+    "cover": "https://image.xinu.ink/pic/data/6765/images/376433.jpg",
+    "theme_color": "#ed5e72",
+    "points": [
+      {
+        "id": "33g8ld9",
+        "name": "Sculptures Chevaux et Chien",
+        "image": "https://image.xinu.ink/pic/data/6765/images/33g8ld9-1753749416937.jpg",
+        "geo": [
+          48.861581,
+          2.289371
+        ],
+        "ep": "1",
+        "s": "16:26",
+        "mark": "第二季第一集政宗 愛姫被法国宅女扣下当素材，路过埃菲尔铁塔。三人的位置在两座雕塑之间的观景台，番中和现实几乎一样，地砖、水池都是一一对应的（街景）留子可以实地去观察",
+        "cn": "马和狗雕塑"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6765/points.json"
+  },
+  "6766": {
+    "name": "シャングリ・ラ",
+    "name_cn": "香格里拉",
+    "cover": "https://image.xinu.ink/pic/data/6766/images/1445.jpg",
+    "theme_color": "#556aaa",
+    "points": [
+      {
+        "id": "33mq9b3",
+        "name": "東京タワー",
+        "image": "https://image.xinu.ink/pic/data/6766/images/33mq9b3_1753760320587.jpg",
+        "geo": [
+          35.658669,
+          139.745574
+        ],
+        "mark": "OP",
+        "cn": "东京塔"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6766/points.json"
+  },
+  "6767": {
+    "name": "よくわかる現代魔法",
+    "name_cn": "简单易懂的现代魔法",
+    "cover": "https://image.xinu.ink/pic/data/6767/images/1730.jpg",
+    "theme_color": "#c2101c",
+    "points": [
+      {
+        "id": "33nx9ts",
+        "name": "岩手​銀行​赤​レンガ​館",
+        "image": "https://image.xinu.ink/pic/data/6767/images/33nx9ts_1753762369286.jpg",
+        "geo": [
+          39.700532,
+          141.155246
+        ],
+        "ep": 1,
+        "mark": "#01"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6767/points.json"
+  },
+  "6768": {
+    "name": "いちばんうしろの大魔王",
+    "name_cn": "最后大魔王",
+    "cover": "https://image.xinu.ink/pic/data/6768/images/4291.jpg",
+    "theme_color": "#aa8055",
+    "points": [
+      {
+        "id": "33oedyl",
+        "name": "東海大学湘南キャンパス1号館前",
+        "image": "https://image.xinu.ink/pic/data/6768/images/33oedyl_1753763101243.jpg",
+        "geo": [
+          35.364944,
+          139.273507
+        ],
+        "ep": 4,
+        "mark": "#04"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6768/points.json"
+  },
+  "6769": {
+    "name": "乃木坂春香の秘密 ぴゅあれっつぁ♪",
+    "name_cn": "乃木坂春香的秘密 purezza♪",
+    "cover": "https://image.xinu.ink/pic/data/6769/images/2608.jpg",
+    "theme_color": "#ff55d4",
+    "points": [
+      {
+        "id": "33oorqt",
+        "name": "日本武道館",
+        "image": "https://image.xinu.ink/pic/data/6769/images/33oorqt_1753763596740.jpg",
+        "geo": [
+          35.693239,
+          139.749149
+        ],
+        "ep": 11,
+        "mark": "#11"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6769/points.json"
+  },
+  "6770": {
+    "name": "R.O.D -THE TV-",
+    "name_cn": "读或死 TV",
+    "cover": "https://image.xinu.ink/pic/data/6770/images/1850.jpg",
+    "theme_color": "#634e47",
+    "points": [
+      {
+        "id": "33oyr97",
+        "name": "御茶ノ水駅 聖橋",
+        "image": "https://image.xinu.ink/pic/data/6770/images/33oyr97_1753764082899.jpg",
+        "geo": [
+          35.6998,
+          139.764791
+        ],
+        "mark": "OP"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6770/points.json"
+  },
+  "6771": {
+    "name": "ケロロ軍曹",
+    "name_cn": "Keroro军曹",
+    "cover": "https://image.xinu.ink/pic/data/6771/images/1849_aI2w2.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "33ns2m9",
+        "name": "歌舞伎座",
+        "image": "https://image.xinu.ink/pic/data/6771/images/33ns2m9_1753762089806.jpg",
+        "geo": [
+          35.669366,
+          139.767529
+        ],
+        "mark": "#302"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6771/points.json"
+  },
+  "6772": {
+    "name": "スタードライバー THE MOVIE",
+    "name_cn": "闪亮的拓人 剧场版",
+    "cover": "https://image.xinu.ink/pic/data/6772/images/48702_2MGdF.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "2z5oxnq",
+        "name": "「LOVE」ロバート・インディアナ",
+        "image": "https://image.xinu.ink/pic/data/6772/images/2z5oxnq-1753489811911.jpg",
+        "geo": [
+          35.6927,
+          139.694294
+        ],
+        "s": "8926",
+        "cn": "「LOVE」（罗伯特·印第安纳雕塑）"
+      },
+      {
+        "id": "2z5szuv",
+        "name": "新宿警察署裏",
+        "image": "https://image.xinu.ink/pic/data/6772/images/2z5szuv-1753490468087.jpg",
+        "geo": [
+          35.692619,
+          139.694398
+        ],
+        "s": "10011",
+        "cn": "新宿警察署后面的十字路口"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6772/points.json"
+  },
+  "6773": {
+    "name": "RDG レッドデータガール",
+    "name_cn": "RDG 濒危物种少女",
+    "cover": "https://image.xinu.ink/pic/data/6773/images/46728_E2s1U.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "37197017",
+        "name": "六本木ヒルズ 森タワー",
+        "image": "https://image.xinu.ink/pic/data/6773/images/37197017_1753432354765.jpg",
+        "geo": [
+          35.660626,
+          139.729056
+        ],
+        "ep": 2,
+        "mark": "#02「はじめての手のひら」 从東京都庁北展望室远看",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "6e551430",
+        "name": "東京都庁第一本庁舎 中庭",
+        "image": "https://image.xinu.ink/pic/data/6773/images/6e551430_1753431624978.jpg",
+        "geo": [
+          35.689666,
+          139.692627
+        ],
+        "ep": 2,
+        "mark": "#02",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "2y72oo6",
+        "name": "東京都庁第一本庁舎前",
+        "image": "https://image.xinu.ink/pic/data/6773/images/2y72oo6_1753431767926.jpg",
+        "geo": [
+          35.689622,
+          139.69238
+        ],
+        "ep": 2,
+        "mark": "#02"
+      },
+      {
+        "id": "2y7ajsk",
+        "name": "東京都庁第一本庁舎 1F",
+        "image": "https://image.xinu.ink/pic/data/6773/images/2y7ajsk_1753432392666.jpg",
+        "geo": [
+          35.689521,
+          139.691849
+        ],
+        "ep": 2,
+        "mark": "#02"
+      },
+      {
+        "id": "cec0c7cc",
+        "name": "東京都庁第一本庁舎 北展望室",
+        "image": "https://image.xinu.ink/pic/data/6773/images/cec0c7cc_1753431334893.jpg",
+        "geo": [
+          35.689901,
+          139.691661
+        ],
+        "ep": 2,
+        "mark": "#02",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "7c46a64d",
+        "name": "BLUESQUARECAFE横",
+        "image": "https://image.xinu.ink/pic/data/6773/images/7c46a64d_1753431343188.jpg",
+        "geo": [
+          35.691513,
+          139.697514
+        ],
+        "ep": 2,
+        "mark": "#02",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "84553f64",
+        "name": "JR新宿駅 西口",
+        "image": "https://image.xinu.ink/pic/data/6773/images/84553f64_1753431569323.jpg",
+        "geo": [
+          35.691141,
+          139.699721
+        ],
+        "ep": 2,
+        "mark": "#02",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "015ea925",
+        "name": "新宿警察署裏交差点",
+        "image": "https://image.xinu.ink/pic/data/6773/images/015ea925_1753431372509.jpg",
+        "geo": [
+          35.692687,
+          139.694617
+        ],
+        "ep": 2,
+        "mark": "#02",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "64e2d426",
+        "name": "サイゼリア中野坂上店",
+        "image": "https://image.xinu.ink/pic/data/6773/images/64e2d426_1753431388538.jpg",
+        "geo": [
+          35.696489,
+          139.684226
+        ],
+        "ep": 2,
+        "mark": "#02",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "e68aa02c",
+        "name": "高尾山薬王院 山門",
+        "image": "https://image.xinu.ink/pic/data/6773/images/e68aa02c_1753429774214.jpg",
+        "geo": [
+          35.625997,
+          139.250856
+        ],
+        "ep": 5,
+        "mark": "#05「はじめてのお化粧」",
+        "folder": "高尾山",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "d8f0fce2",
+        "name": "天狗像",
+        "image": "https://image.xinu.ink/pic/data/6773/images/d8f0fce2_1753430938870.jpg",
+        "geo": [
+          35.625855,
+          139.250722
+        ],
+        "ep": 5,
+        "mark": "#05",
+        "folder": "高尾山",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "557083cc",
+        "name": "縁結び",
+        "image": "https://image.xinu.ink/pic/data/6773/images/557083cc_1753430945710.jpg",
+        "geo": [
+          35.625801,
+          139.250706
+        ],
+        "ep": 5,
+        "mark": "#05 在天狗像下",
+        "folder": "高尾山",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "dfd04140",
+        "name": "境内 参道",
+        "image": "https://image.xinu.ink/pic/data/6773/images/dfd04140_1753429935367.jpg",
+        "geo": [
+          35.625591,
+          139.25051
+        ],
+        "ep": 5,
+        "mark": "#05",
+        "folder": "高尾山",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "12908871",
+        "name": "鐘楼堂",
+        "image": "https://image.xinu.ink/pic/data/6773/images/12908871_1753429944863.jpg",
+        "geo": [
+          35.625805,
+          139.250577
+        ],
+        "ep": 5,
+        "mark": "#05",
+        "folder": "高尾山",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "60beb1e2",
+        "name": "お守り授与所",
+        "image": "https://image.xinu.ink/pic/data/6773/images/60beb1e2_1753430961140.jpg",
+        "geo": [
+          35.62567,
+          139.25058
+        ],
+        "ep": 5,
+        "mark": "#05 在钟楼堂下",
+        "folder": "高尾山",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "46f8505e",
+        "name": "仁王門",
+        "image": "https://image.xinu.ink/pic/data/6773/images/46f8505e_1753430190336.jpg",
+        "geo": [
+          35.625679,
+          139.250304
+        ],
+        "ep": 5,
+        "mark": "#05 从仁王门下看御本堂",
+        "folder": "高尾山",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "1cdbe576",
+        "name": "高尾山薬王院 御本堂",
+        "image": "https://image.xinu.ink/pic/data/6773/images/1cdbe576_1753430169398.jpg",
+        "geo": [
+          35.625823,
+          139.250263
+        ],
+        "ep": 5,
+        "folder": "高尾山",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "538881b2",
+        "name": "階段",
+        "image": "https://image.xinu.ink/pic/data/6773/images/538881b2_1753430026183.jpg",
+        "geo": [
+          35.62589,
+          139.249936
+        ],
+        "ep": 5,
+        "mark": "#05",
+        "folder": "高尾山",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "835aed0c",
+        "name": "高尾山薬王院 御本社（権現堂）",
+        "image": "https://image.xinu.ink/pic/data/6773/images/835aed0c_1753430060447.jpg",
+        "geo": [
+          35.626134,
+          139.249831
+        ],
+        "ep": 5,
+        "mark": "#05",
+        "folder": "高尾山",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "0db7bbe5",
+        "name": "高尾山頂 展望台",
+        "image": "https://image.xinu.ink/pic/data/6773/images/0db7bbe5_1753430513583.jpg",
+        "geo": [
+          35.624769,
+          139.243048
+        ],
+        "ep": 5,
+        "mark": "#05",
+        "folder": "高尾山",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "e943e475",
+        "name": "JR大宮駅西口",
+        "image": "",
+        "geo": [
+          35.906241,
+          139.62249
+        ],
+        "mark": "#06「はじめてのお泊まり」",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "337b9256",
+        "name": "JR大宮駅 18番線ホーム",
+        "image": "",
+        "geo": [
+          35.906428,
+          139.622897
+        ],
+        "mark": "#06",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "72daf381",
+        "name": "JR長野駅 コンコース",
+        "image": "https://image.xinu.ink/pic/data/6773/images/72daf381_1753324808079.jpg",
+        "geo": [
+          36.642925,
+          138.188889
+        ],
+        "ep": 6,
+        "mark": "#06",
+        "folder": "長野",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "2a2fc447",
+        "name": "JR長野駅 善光寺口",
+        "image": "https://image.xinu.ink/pic/data/6773/images/2a2fc447_1753325343886.jpg",
+        "geo": [
+          36.643648,
+          138.188426
+        ],
+        "ep": 6,
+        "mark": "#06、#08",
+        "folder": "長野",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "95245a2a",
+        "name": "JR長野駅 善光寺口 バスターミナル",
+        "image": "https://image.xinu.ink/pic/data/6773/images/95245a2a_1753325288333.jpg",
+        "geo": [
+          36.643364,
+          138.187868
+        ],
+        "ep": 6,
+        "mark": "#06",
+        "folder": "長野",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "3c7f365b",
+        "name": "戸隠神社 中社鳥居",
+        "image": "https://image.xinu.ink/pic/data/6773/images/3c7f365b_1753325365662.jpg",
+        "geo": [
+          36.741592,
+          138.085135
+        ],
+        "ep": 6,
+        "mark": "#06",
+        "folder": "戸隠",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "962d993c",
+        "name": "戸隠宿坊 極意",
+        "image": "https://image.xinu.ink/pic/data/6773/images/962d993c_1753325413317.jpg",
+        "geo": [
+          36.741528,
+          138.085919
+        ],
+        "ep": 6,
+        "mark": "#06、#07、#08",
+        "folder": "戸隠",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "41c25e3e",
+        "name": "戸隠神社 中社本殿",
+        "image": "https://image.xinu.ink/pic/data/6773/images/41c25e3e_1753326197620.jpg",
+        "geo": [
+          36.742495,
+          138.085104
+        ],
+        "ep": 6,
+        "mark": "#06",
+        "folder": "戸隠",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "8aea91d6",
+        "name": "戸隠神社 中社境内",
+        "image": "https://image.xinu.ink/pic/data/6773/images/8aea91d6_1753326261764.jpg",
+        "geo": [
+          36.741863,
+          138.085194
+        ],
+        "ep": 6,
+        "mark": "#06",
+        "folder": "戸隠",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "5b9fa35f",
+        "name": "戸隠神社 中社境内ベンチなど",
+        "image": "https://image.xinu.ink/pic/data/6773/images/5b9fa35f_1753326233492.jpg",
+        "geo": [
+          36.742366,
+          138.085114
+        ],
+        "ep": 6,
+        "mark": "#06",
+        "folder": "戸隠",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "cb104825",
+        "name": "奥社道",
+        "image": "https://image.xinu.ink/pic/data/6773/images/cb104825_1753325607741.jpg",
+        "geo": [
+          36.743187,
+          138.082946
+        ],
+        "ep": 6,
+        "mark": "#06",
+        "folder": "戸隠",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "d7d5fcb9",
+        "name": "戸隠展望台",
+        "image": "https://image.xinu.ink/pic/data/6773/images/d7d5fcb9_1753325550845.jpg",
+        "geo": [
+          36.748565,
+          138.081318
+        ],
+        "ep": 6,
+        "mark": "#06",
+        "folder": "戸隠",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "c48836c0",
+        "name": "随神門",
+        "image": "https://image.xinu.ink/pic/data/6773/images/c48836c0_1753325747269.jpg",
+        "geo": [
+          36.761098,
+          138.069046
+        ],
+        "ep": 7,
+        "mark": "#07「はじめての迷子」",
+        "folder": "戸隠",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "853e6062",
+        "name": "戸隠神社 奥社",
+        "image": "https://image.xinu.ink/pic/data/6773/images/853e6062_1753326037071.jpg",
+        "geo": [
+          36.766856,
+          138.060358
+        ],
+        "ep": 7,
+        "mark": "#07",
+        "folder": "戸隠",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "b82d3176",
+        "name": "戸隠神社 奥社方面入口",
+        "image": "https://image.xinu.ink/pic/data/6773/images/b82d3176_1753326096092.jpg",
+        "geo": [
+          36.756611,
+          138.078554
+        ],
+        "ep": 7,
+        "mark": "#07",
+        "folder": "戸隠",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "0cc2a8aa",
+        "name": "蕎麦屋",
+        "image": "https://image.xinu.ink/pic/data/6773/images/0cc2a8aa_1753325769413.jpg",
+        "geo": [
+          36.756095,
+          138.079173
+        ],
+        "ep": 7,
+        "mark": "#07",
+        "folder": "戸隠",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "365ef772",
+        "name": "戸隠神社 中社バス停",
+        "image": "https://image.xinu.ink/pic/data/6773/images/365ef772_1753326548930.jpg",
+        "geo": [
+          36.741332,
+          138.084915
+        ],
+        "ep": 7,
+        "mark": "#07",
+        "folder": "戸隠",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "59140f9b",
+        "name": "飯綱高原乗馬倶楽部入口",
+        "image": "https://image.xinu.ink/pic/data/6773/images/59140f9b_1753326703794.jpg",
+        "geo": [
+          36.703057,
+          138.148875
+        ],
+        "ep": 7,
+        "mark": "#07",
+        "folder": "飯綱高原",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "8380e6bd",
+        "name": "看板モデル",
+        "image": "https://image.xinu.ink/pic/data/6773/images/8380e6bd_1753326880370.jpg",
+        "geo": [
+          36.702701,
+          138.149562
+        ],
+        "ep": 7,
+        "mark": "#07",
+        "folder": "飯綱高原",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "1f4fe558",
+        "name": "飯綱高原乗馬倶楽部 馬場前坂",
+        "image": "https://image.xinu.ink/pic/data/6773/images/1f4fe558_1753326891704.jpg",
+        "geo": [
+          36.701668,
+          138.149584
+        ],
+        "ep": 7,
+        "mark": "#07",
+        "folder": "飯綱高原",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "6944a1b1",
+        "name": "飯綱高原乗馬倶楽部 建屋",
+        "image": "https://image.xinu.ink/pic/data/6773/images/6944a1b1_1753326670532.jpg",
+        "geo": [
+          36.701281,
+          138.149546
+        ],
+        "ep": 7,
+        "folder": "飯綱高原",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "d5231e2f",
+        "name": "飯綱高原乗馬倶楽部 厩舎",
+        "image": "https://image.xinu.ink/pic/data/6773/images/d5231e2f_1753326634387.jpg",
+        "geo": [
+          36.701167,
+          138.149646
+        ],
+        "ep": 7,
+        "mark": "#07",
+        "folder": "飯綱高原",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "91094c62",
+        "name": "飯綱高原乗馬倶楽部 馬場",
+        "image": "https://image.xinu.ink/pic/data/6773/images/91094c62_1753326642338.jpg",
+        "geo": [
+          36.701221,
+          138.149297
+        ],
+        "ep": 7,
+        "mark": "#07",
+        "folder": "飯綱高原",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "1848931f",
+        "name": "JR長野駅 新幹線ホーム",
+        "image": "https://image.xinu.ink/pic/data/6773/images/1848931f_1753325247881.jpg",
+        "geo": [
+          36.643174,
+          138.189552
+        ],
+        "ep": 8,
+        "mark": "#08「はじめてのお願い」",
+        "folder": "長野",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "fd654cae",
+        "name": "川原宿大橋",
+        "image": "https://image.xinu.ink/pic/data/6773/images/fd654cae_1753432593450.jpg",
+        "geo": [
+          35.671901,
+          139.260257
+        ],
+        "mark": "#09「はじめてのお披露目」",
+        "folder": "八王子",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "85f244ea",
+        "name": "ファミリーマート 八王子西インター店",
+        "image": "https://image.xinu.ink/pic/data/6773/images/85f244ea_1753432606961.jpg",
+        "geo": [
+          35.672361,
+          139.259868
+        ],
+        "mark": "#09",
+        "folder": "八王子",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "28ec7623",
+        "name": "八王子城跡 ガイダンス施設",
+        "image": "",
+        "geo": [
+          35.655483,
+          139.261126
+        ],
+        "folder": "八王子",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "82feb694",
+        "name": "八王子城跡 管理棟",
+        "image": "",
+        "geo": [
+          35.654786,
+          139.259584
+        ],
+        "folder": "八王子",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "ae6a3e6a",
+        "name": "八王子神社前 平坦道",
+        "image": "https://image.xinu.ink/pic/data/6773/images/ae6a3e6a_1753432884993.jpg",
+        "geo": [
+          35.653413,
+          139.25371
+        ],
+        "mark": "#09",
+        "folder": "八王子",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "3f05f88f",
+        "name": "八王子城址公園 入口鳥居",
+        "image": "https://image.xinu.ink/pic/data/6773/images/3f05f88f_1753432653448.jpg",
+        "geo": [
+          35.654958,
+          139.259018
+        ],
+        "mark": "#09",
+        "folder": "八王子",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "cc71a288",
+        "name": "八王子神社",
+        "image": "https://image.xinu.ink/pic/data/6773/images/cc71a288_1753432722089.jpg",
+        "geo": [
+          35.653068,
+          139.252766
+        ],
+        "mark": "#09",
+        "folder": "八王子",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "a88dbd1c",
+        "name": "八王子神社横階段",
+        "image": "https://image.xinu.ink/pic/data/6773/images/a88dbd1c_1753432808625.jpg",
+        "geo": [
+          35.653164,
+          139.25268
+        ],
+        "mark": "#09",
+        "folder": "八王子",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      },
+      {
+        "id": "8a64c434",
+        "name": "八王子城 本丸跡",
+        "image": "https://image.xinu.ink/pic/data/6773/images/8a64c434_1753432760992.jpg",
+        "geo": [
+          35.652951,
+          139.252015
+        ],
+        "mark": "#09",
+        "folder": "八王子",
+        "origin": "RDGレッドデータガール-舞台探訪マップ-"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6773/points.json"
+  },
+  "6774": {
+    "name": "機動戦士ガンダムユニコーン RE:0096",
+    "name_cn": "机动战士高达独角兽 RE",
+    "cover": "https://image.xinu.ink/pic/data/6774/images/169917_6U6fj.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "2ub7olw",
+        "name": "Musée de Cluny",
+        "image": "https://image.xinu.ink/pic/data/6774/images/2ub7olw-1753196761108.jpg",
+        "geo": [
+          48.850615,
+          2.343672
+        ],
+        "ep": 1,
+        "s": 49,
+        "mark": "淑女与独角兽（Tapisseries de la Dame a la licorne），大型刺绣挂毯，于1500年左右织成",
+        "cn": "国立中世纪博物馆"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6774/points.json"
+  },
+  "6775": {
+    "name": "GJ部",
+    "name_cn": "GJ部",
+    "cover": "https://image.xinu.ink/pic/data/6775/images/48031.jpg",
+    "theme_color": "#e3aa71",
+    "points": [
+      {
+        "id": "kpx6opedi",
+        "name": "京王電鉄京王線 仙川駅",
+        "image": "https://image.xinu.ink/pic/data/6775/images/kpx6opedi_1753160319832.jpg",
+        "geo": [
+          35.662298,
+          139.585108
+        ],
+        "mark": "#06「妹が4人いる!?」"
+      },
+      {
+        "id": "kpx6opf0a",
+        "name": "HAIR MAKE Ash 仙川店",
+        "image": "https://image.xinu.ink/pic/data/6775/images/kpx6opf0a_1753160967965.jpg",
+        "geo": [
+          35.660077,
+          139.585507
+        ],
+        "mark": "#06"
+      },
+      {
+        "id": "kpx6opfe2",
+        "name": "ミスタードーナツ 仙川ショップ",
+        "image": "https://image.xinu.ink/pic/data/6775/images/kpx6opfe2_1753161082444.jpg",
+        "geo": [
+          35.659783,
+          139.585539
+        ],
+        "mark": "#06"
+      },
+      {
+        "id": "kpx6opest",
+        "name": "ドトールコーヒーショップ京王仙川店",
+        "image": "https://image.xinu.ink/pic/data/6775/images/kpx6opest_1753161090453.jpg",
+        "geo": [
+          35.660851,
+          139.585016
+        ],
+        "mark": "#06"
+      },
+      {
+        "id": "kpx6opg6q",
+        "name": "仙川商店街ゲート",
+        "image": "https://image.xinu.ink/pic/data/6775/images/kpx6opg6q_1753160420037.jpg",
+        "geo": [
+          35.662071,
+          139.584576
+        ],
+        "mark": "#@02「絆の名はGJ部」"
+      },
+      {
+        "id": "kpx6opg60",
+        "name": "LUPICIA 仙川店",
+        "image": "https://image.xinu.ink/pic/data/6775/images/kpx6opg60_1753160369159.jpg",
+        "geo": [
+          35.661779,
+          139.585572
+        ],
+        "mark": "#@02"
+      },
+      {
+        "id": "kpx6opg1c",
+        "name": "仙川パティオ横 交差点",
+        "image": "https://image.xinu.ink/pic/data/6775/images/kpx6opg1c_1753160657478.jpg",
+        "geo": [
+          35.661616,
+          139.58574
+        ],
+        "mark": "#@02"
+      },
+      {
+        "id": "kpx6opgf8",
+        "name": "ひとくち茶屋 仙川西友店",
+        "image": "https://image.xinu.ink/pic/data/6775/images/kpx6opgf8_1753160383606.jpg",
+        "geo": [
+          35.66189,
+          139.584557
+        ],
+        "mark": "#@02"
+      },
+      {
+        "id": "kpx6opgte",
+        "name": "東調布公園 入口",
+        "image": "https://image.xinu.ink/pic/data/6775/images/kpx6opgte_1753160699798.jpg",
+        "geo": [
+          35.589185,
+          139.689708
+        ],
+        "mark": "#@02"
+      },
+      {
+        "id": "kpx6opgi6",
+        "name": "東調布公園 SL前",
+        "image": "https://image.xinu.ink/pic/data/6775/images/kpx6opgi6_1753160709103.jpg",
+        "geo": [
+          35.588638,
+          139.68856
+        ],
+        "mark": "#@02 SL（D51型蒸汽机车）"
+      },
+      {
+        "id": "kpx6opgdg",
+        "name": "東調布公園 石垣水場",
+        "image": "https://image.xinu.ink/pic/data/6775/images/kpx6opgdg_1753160769653.jpg",
+        "geo": [
+          35.588737,
+          139.688493
+        ],
+        "mark": "#@02"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6775/points.json"
+  },
+  "6776": {
+    "name": "えとたま",
+    "name_cn": "干支魂",
+    "cover": "https://image.xinu.ink/pic/data/6776/images/117558_HTw6N.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "dd936b29",
+        "name": "JR秋葉原駅 電気街口 南側通り",
+        "image": "https://image.xinu.ink/pic/data/6776/images/dd936b29_1753159225694.jpg",
+        "geo": [
+          35.698162,
+          139.772455
+        ],
+        "mark": "#01「猫娘揚々」",
+        "folder": "#01「猫娘揚々」",
+        "origin": "えとたま-舞台探訪マップ-"
+      },
+      {
+        "id": "61f74d42",
+        "name": "秋葉原駅南交差点 北側",
+        "image": "https://image.xinu.ink/pic/data/6776/images/61f74d42_1753159291192.jpg",
+        "geo": [
+          35.697767,
+          139.772527
+        ],
+        "mark": "#01",
+        "folder": "#01「猫娘揚々」",
+        "origin": "えとたま-舞台探訪マップ-"
+      },
+      {
+        "id": "2ea6d9ea",
+        "name": "秋葉原中央通り 総武線高架下",
+        "image": "https://image.xinu.ink/pic/data/6776/images/2ea6d9ea_1753159252057.jpg",
+        "geo": [
+          35.698484,
+          139.771392
+        ],
+        "mark": "#01，#05，#07",
+        "folder": "#01「猫娘揚々」",
+        "origin": "えとたま-舞台探訪マップ-"
+      },
+      {
+        "id": "903af3f6",
+        "name": "ガチャポン会館",
+        "image": "https://image.xinu.ink/pic/data/6776/images/903af3f6_1753159305434.jpg",
+        "geo": [
+          35.701883,
+          139.771218
+        ],
+        "mark": "\"01，#03，#04，#06，#08",
+        "folder": "#01「猫娘揚々」",
+        "origin": "えとたま-舞台探訪マップ-"
+      },
+      {
+        "id": "7b33ba49",
+        "name": "柳原通り架道橋 高架下",
+        "image": "https://image.xinu.ink/pic/data/6776/images/7b33ba49_1753159328200.jpg",
+        "geo": [
+          35.696628,
+          139.772857
+        ],
+        "mark": "#01，#05「滋羊強壮」",
+        "folder": "#01「猫娘揚々」",
+        "origin": "えとたま-舞台探訪マップ-"
+      },
+      {
+        "id": "009c4560",
+        "name": "ヨドバシカメラマルチメディアAkiba",
+        "image": "https://image.xinu.ink/pic/data/6776/images/009c4560_1753159416784.jpg",
+        "geo": [
+          35.69878,
+          139.774536
+        ],
+        "folder": "#03「亥突猛進」",
+        "origin": "えとたま-舞台探訪マップ-"
+      },
+      {
+        "id": "46a6ab1d",
+        "name": "芳林公園",
+        "image": "https://image.xinu.ink/pic/data/6776/images/46a6ab1d_1753159350487.jpg",
+        "geo": [
+          35.701863,
+          139.769986
+        ],
+        "mark": "#03，#07「縁縁長蛇」",
+        "folder": "#03「亥突猛進」",
+        "origin": "えとたま-舞台探訪マップ-"
+      },
+      {
+        "id": "5d23cb71",
+        "name": "千代田区立 昌平小学校",
+        "image": "https://image.xinu.ink/pic/data/6776/images/5d23cb71_1753159402424.jpg",
+        "geo": [
+          35.701352,
+          139.769843
+        ],
+        "folder": "#03「亥突猛進」",
+        "origin": "えとたま-舞台探訪マップ-"
+      },
+      {
+        "id": "c99f2fa7",
+        "name": "神田明神 男坂",
+        "image": "https://image.xinu.ink/pic/data/6776/images/c99f2fa7_1753159696465.jpg",
+        "geo": [
+          35.701407,
+          139.768294
+        ],
+        "folder": "#03「亥突猛進」",
+        "origin": "えとたま-舞台探訪マップ-"
+      },
+      {
+        "id": "82fd59ab",
+        "name": "神田明神 祭務所西側",
+        "image": "https://image.xinu.ink/pic/data/6776/images/82fd59ab_1753159735889.jpg",
+        "geo": [
+          35.701937,
+          139.767538
+        ],
+        "folder": "#04「兎目兎耳」",
+        "origin": "えとたま-舞台探訪マップ-"
+      },
+      {
+        "id": "820842a2",
+        "name": "秋葉原中央通り",
+        "image": "https://image.xinu.ink/pic/data/6776/images/820842a2_1753159744815.jpg",
+        "geo": [
+          35.699604,
+          139.771274
+        ],
+        "folder": "#07「縁縁長蛇」",
+        "origin": "えとたま-舞台探訪マップ-"
+      },
+      {
+        "id": "d9a299b8",
+        "name": "コミックZIN",
+        "image": "https://image.xinu.ink/pic/data/6776/images/d9a299b8_1753159752704.jpg",
+        "geo": [
+          35.69946,
+          139.77113
+        ],
+        "folder": "#07「縁縁長蛇」",
+        "origin": "えとたま-舞台探訪マップ-"
+      },
+      {
+        "id": "f89f9263",
+        "name": "神田明神 明神会館",
+        "image": "https://image.xinu.ink/pic/data/6776/images/f89f9263_1753159769920.jpg",
+        "geo": [
+          35.701708,
+          139.768324
+        ],
+        "folder": "#09「花鳥風月」",
+        "origin": "えとたま-舞台探訪マップ-"
+      },
+      {
+        "id": "34b8bcfe",
+        "name": "伊勢神宮 内宮",
+        "image": "https://image.xinu.ink/pic/data/6776/images/34b8bcfe_1753159891535.jpg",
+        "geo": [
+          34.454736,
+          136.724677
+        ],
+        "folder": "#10「永久変態」",
+        "origin": "えとたま-舞台探訪マップ-"
+      },
+      {
+        "id": "321741be",
+        "name": "神田明神 境内",
+        "image": "https://image.xinu.ink/pic/data/6776/images/321741be_1753159877769.jpg",
+        "geo": [
+          35.701865,
+          139.767783
+        ],
+        "folder": "#10「永久変態」",
+        "origin": "えとたま-舞台探訪マップ-"
+      },
+      {
+        "id": "b3d64c3f",
+        "name": "神田明神 随神門",
+        "image": "https://image.xinu.ink/pic/data/6776/images/b3d64c3f_1753159838110.jpg",
+        "geo": [
+          35.701578,
+          139.767553
+        ],
+        "folder": "#10「永久変態」",
+        "origin": "えとたま-舞台探訪マップ-"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6776/points.json"
+  },
+  "6777": {
+    "name": "ミス・モノクローム -The Animation-",
+    "name_cn": "黑白小姐",
+    "cover": "https://image.xinu.ink/pic/data/6777/images/80778_3UZ00.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "ffca7352",
+        "name": "新宿 思い出横丁",
+        "image": "https://image.xinu.ink/pic/data/6777/images/ffca7352_1752997675895.jpg",
+        "geo": [
+          35.69267,
+          139.699587
+        ],
+        "mark": "#01「FALL」",
+        "origin": "ミス・モノクローム -The Animation- -舞台探訪マップ-"
+      },
+      {
+        "id": "a0d58b50",
+        "name": "テレビ東京",
+        "image": "https://image.xinu.ink/pic/data/6777/images/a0d58b50_1752997698850.jpg",
+        "geo": [
+          35.66471,
+          139.743861
+        ],
+        "mark": "#02「HEAVEN」",
+        "origin": "ミス・モノクローム -The Animation- -舞台探訪マップ-"
+      },
+      {
+        "id": "a048a6b4",
+        "name": "東京タワー",
+        "image": "https://image.xinu.ink/pic/data/6777/images/a048a6b4_1752997717010.jpg",
+        "geo": [
+          35.658421,
+          139.745728
+        ],
+        "mark": "#05「HALLOWEEN」",
+        "origin": "ミス・モノクローム -The Animation- -舞台探訪マップ-"
+      },
+      {
+        "id": "d51bc19a",
+        "name": "東京タワースタジオ",
+        "image": "https://image.xinu.ink/pic/data/6777/images/d51bc19a_1752997743322.jpg",
+        "geo": [
+          35.657859,
+          139.745326
+        ],
+        "mark": "#05",
+        "origin": "ミス・モノクローム -The Animation- -舞台探訪マップ-"
+      },
+      {
+        "id": "7d61ad6e",
+        "name": "幕張メッセ 幕張イベントホール",
+        "image": "https://image.xinu.ink/pic/data/6777/images/7d61ad6e_1752997858476.jpg",
+        "geo": [
+          35.647986,
+          140.034968
+        ],
+        "mark": "#10「FIGHTER」",
+        "origin": "ミス・モノクローム -The Animation- -舞台探訪マップ-"
+      },
+      {
+        "id": "59a19bf0",
+        "name": "国際展示場1-8ホール",
+        "image": "https://image.xinu.ink/pic/data/6777/images/59a19bf0_1752997875515.jpg",
+        "geo": [
+          35.647454,
+          140.035116
+        ],
+        "mark": "#10",
+        "origin": "ミス・モノクローム -The Animation- -舞台探訪マップ-"
+      },
+      {
+        "id": "e65c5f64",
+        "name": "西武新宿線 上井草駅",
+        "image": "https://image.xinu.ink/pic/data/6777/images/e65c5f64_1753093606410.jpg",
+        "geo": [
+          35.725065,
+          139.603542
+        ],
+        "mark": "#10",
+        "origin": "ミス・モノクローム -The Animation- -舞台探訪マップ-"
+      },
+      {
+        "id": "0c2c8c02",
+        "name": "小金井公園 江戸東京たてもの園 子宝湯",
+        "image": "https://image.xinu.ink/pic/data/6777/images/0c2c8c02_1753093612786.jpg",
+        "geo": [
+          35.71667,
+          139.515222
+        ],
+        "mark": "#10",
+        "origin": "ミス・モノクローム -The Animation- -舞台探訪マップ-"
+      },
+      {
+        "id": "241730e8",
+        "name": "新宿駅東口広場",
+        "image": "https://image.xinu.ink/pic/data/6777/images/241730e8_1753093619594.jpg",
+        "geo": [
+          35.69211,
+          139.701129
+        ],
+        "mark": "#13「MONOCHROME」",
+        "origin": "ミス・モノクローム -The Animation- -舞台探訪マップ-"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6777/points.json"
+  },
+  "6778": {
+    "name": "彼女がフラグをおられたら",
+    "name_cn": "如果她的旗帜被折断了",
+    "cover": "https://image.xinu.ink/pic/data/6778/images/63927_IOhHR.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "ddf247cd",
+        "name": "立川駅北口 ペデストリアンデッキ",
+        "image": "https://image.xinu.ink/pic/data/6778/images/ddf247cd_1753092933061.jpg",
+        "geo": [
+          35.698776,
+          139.412743
+        ],
+        "mark": "#05「信じて待っていてくれ。みんなとのデートに遅刻なんてするものか」",
+        "origin": "彼女がフラグをおられたら-舞台探訪マップ-"
+      },
+      {
+        "id": "8a2bff8d",
+        "name": "多摩都市モノレール立川北駅前",
+        "image": "https://image.xinu.ink/pic/data/6778/images/8a2bff8d_1753093414413.jpg",
+        "geo": [
+          35.699024,
+          139.412542
+        ],
+        "mark": "#05",
+        "origin": "彼女がフラグをおられたら-舞台探訪マップ-"
+      },
+      {
+        "id": "31ce18ec",
+        "name": "代々木公園 西門",
+        "image": "https://image.xinu.ink/pic/data/6778/images/31ce18ec_1753093380425.jpg",
+        "geo": [
+          35.67057,
+          139.691066
+        ],
+        "mark": "#05",
+        "origin": "彼女がフラグをおられたら-舞台探訪マップ-"
+      },
+      {
+        "id": "3b8912fc",
+        "name": "代々木公園 中央広場",
+        "image": "https://image.xinu.ink/pic/data/6778/images/3b8912fc_1753093386700.jpg",
+        "geo": [
+          35.671238,
+          139.694793
+        ],
+        "mark": "#05",
+        "origin": "彼女がフラグをおられたら-舞台探訪マップ-"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6778/points.json"
+  },
+  "6779": {
+    "name": "THE IDOLM@STER MOVIE 輝きの向こう側へ！",
+    "name_cn": "偶像大师 剧场版 向着光辉的彼岸！",
+    "cover": "https://image.xinu.ink/pic/data/6779/images/64172_8MujB.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "2qghoyc",
+        "name": "難波江​区​ふれあい​会館",
+        "image": "https://image.xinu.ink/pic/data/6779/images/2qghoyc-1752963806188.jpg",
+        "geo": [
+          35.505428,
+          135.503827
+        ],
+        "s": 2298
+      },
+      {
+        "id": "2qgw5xy",
+        "name": "まるいち旅館",
+        "image": "https://image.xinu.ink/pic/data/6779/images/2qgw5xy-1752964441088.jpg",
+        "geo": [
+          35.492492,
+          135.576709
+        ],
+        "s": 851
+      },
+      {
+        "id": "2qh0dew",
+        "name": "大安商店",
+        "image": "https://image.xinu.ink/pic/data/6779/images/2qh0dew-1752964645745.jpg",
+        "geo": [
+          35.490899,
+          135.544611
+        ],
+        "originURL": "https://maps.app.goo.gl/BJoX9pEGvoVPj88A6"
+      },
+      {
+        "id": "2qh7mhc",
+        "name": "天満宮前の階段",
+        "image": "https://image.xinu.ink/pic/data/6779/images/2qh7mhc-1752964993111.jpg",
+        "geo": [
+          35.513712,
+          135.508991
+        ],
+        "s": 1431
+      },
+      {
+        "id": "2qhc12c",
+        "name": "日枝神社前の階段",
+        "image": "https://image.xinu.ink/pic/data/6779/images/2qhc12c-1752965710510.jpg",
+        "geo": [
+          35.505549,
+          135.50344
+        ],
+        "s": 765
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6779/points.json"
+  },
+  "6780": {
+    "name": "DRAG-ON DRAGOON",
+    "name_cn": "誓血龙骑士",
+    "cover": "https://image.xinu.ink/pic/data/6780/images/41410_oc818.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "2q4avnf",
+        "name": "東京タワー",
+        "image": "https://image.xinu.ink/pic/data/6780/images/2q4avnf-1752943326239.jpg",
+        "geo": [
+          35.658568,
+          139.745359
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6780/points.json"
+  },
+  "6781": {
+    "name": "ファイナルファンタジーXIV 漆黒のヴィランズ",
+    "name_cn": "最终幻想14 暗影之逆焰",
+    "cover": "https://image.xinu.ink/pic/data/6781/images/267055_lXJeQ.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "2q3cflf",
+        "name": "(株)スクウェア･エニックス",
+        "image": "https://image.xinu.ink/pic/data/6781/images/2q3cflf-1752941823859.jpg",
+        "geo": [
+          35.696589,
+          139.708743
+        ],
+        "mark": "图片中巨大横向的方形物体为SE本社大楼",
+        "cn": "史克威尔艾尼克斯新宿总部"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6781/points.json"
+  },
+  "6782": {
+    "name": "ダンタリアンの書架",
+    "name_cn": "丹特丽安的书架",
+    "cover": "https://image.xinu.ink/pic/data/6782/images/14667_FznyN.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "2q15bg9",
+        "name": "British Hill",
+        "image": "https://image.xinu.ink/pic/data/6782/images/2q15bg9_1752938108008.jpg",
+        "geo": [
+          37.258615,
+          140.060138
+        ],
+        "ep": 1,
+        "mark": "修伊家原型"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6782/points.json"
+  },
+  "6783": {
+    "name": "GOSICK -ゴシック-",
+    "name_cn": "GOSICK",
+    "cover": "https://image.xinu.ink/pic/data/6783/images/9781_Kkik8.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "2q0s6cd",
+        "name": "Schloss Schönbrunn",
+        "image": "",
+        "geo": [
+          48.185738,
+          16.312757
+        ],
+        "mark": "聖瑪格麗特學院原型"
+      },
+      {
+        "id": "2q0vfkn",
+        "name": "Prunksaal der Österreichischen Nationalbibliothek",
+        "image": "",
+        "geo": [
+          48.205985,
+          16.367169
+        ],
+        "mark": "圖書館原型"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6783/points.json"
+  },
+  "6784": {
+    "name": "ディーふらぐ!",
+    "name_cn": "属性同好会",
+    "cover": "https://image.xinu.ink/pic/data/6784/images/80548_2Hjhy.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "dbf3dbd0",
+        "name": "京王 南大沢駅",
+        "image": "https://image.xinu.ink/pic/data/6784/images/dbf3dbd0_1752846548271.jpg",
+        "geo": [
+          35.614065,
+          139.379922
+        ],
+        "mark": "OP",
+        "origin": "ディーふらぐ！-舞台探訪マップ-"
+      },
+      {
+        "id": "4d295166",
+        "name": "京王 千歳烏山駅",
+        "image": "https://image.xinu.ink/pic/data/6784/images/4d295166_1752846617510.jpg",
+        "geo": [
+          35.668093,
+          139.601374
+        ],
+        "mark": "OP",
+        "origin": "ディーふらぐ！-舞台探訪マップ-"
+      },
+      {
+        "id": "0e226c76",
+        "name": "京王 桜上水駅",
+        "image": "https://image.xinu.ink/pic/data/6784/images/0e226c76_1752846589229.jpg",
+        "geo": [
+          35.667669,
+          139.63095
+        ],
+        "mark": "OP",
+        "origin": "ディーふらぐ！-舞台探訪マップ-"
+      },
+      {
+        "id": "2b5952bf",
+        "name": "都営新宿線 船堀駅",
+        "image": "https://image.xinu.ink/pic/data/6784/images/2b5952bf_1752846646270.jpg",
+        "geo": [
+          35.68375,
+          139.863484
+        ],
+        "mark": "OP",
+        "origin": "ディーふらぐ！-舞台探訪マップ-"
+      },
+      {
+        "id": "0df027f5",
+        "name": "JR 高尾駅",
+        "image": "https://image.xinu.ink/pic/data/6784/images/0df027f5_1752846690349.jpg",
+        "geo": [
+          35.642696,
+          139.283675
+        ],
+        "mark": "OP",
+        "origin": "ディーふらぐ！-舞台探訪マップ-"
+      },
+      {
+        "id": "622e4897",
+        "name": "多摩川児童公園内運動施設野球場",
+        "image": "https://image.xinu.ink/pic/data/6784/images/622e4897_1752846722917.jpg",
+        "geo": [
+          35.642632,
+          139.530278
+        ],
+        "mark": "OP、#02「おのれニセゲーム製作部め!!」",
+        "origin": "ディーふらぐ！-舞台探訪マップ-"
+      },
+      {
+        "id": "c18698ab",
+        "name": "多摩川沿い道路",
+        "image": "https://image.xinu.ink/pic/data/6784/images/c18698ab_1752846762205.jpg",
+        "geo": [
+          35.641928,
+          139.534663
+        ],
+        "mark": "#04「あれは魔の十四楽団!!」",
+        "origin": "ディーふらぐ！-舞台探訪マップ-"
+      },
+      {
+        "id": "7abe72da",
+        "name": "府中３５番街商店会 市進学院府中教室前",
+        "image": "https://image.xinu.ink/pic/data/6784/images/7abe72da_1752846894863.jpg",
+        "geo": [
+          35.672609,
+          139.481134
+        ],
+        "mark": "#08「あのドットがよかったのに…」",
+        "origin": "ディーふらぐ！-舞台探訪マップ-"
+      },
+      {
+        "id": "a85570c8",
+        "name": "マンガの王様",
+        "image": "https://image.xinu.ink/pic/data/6784/images/a85570c8_1752846916117.jpg",
+        "geo": [
+          35.672616,
+          139.481255
+        ],
+        "mark": "#08",
+        "origin": "ディーふらぐ！-舞台探訪マップ-"
+      },
+      {
+        "id": "b742bc60",
+        "name": "ホテルコンチネンタル前",
+        "image": "https://image.xinu.ink/pic/data/6784/images/b742bc60_1752846944750.jpg",
+        "geo": [
+          35.672334,
+          139.481839
+        ],
+        "mark": "#08",
+        "origin": "ディーふらぐ！-舞台探訪マップ-"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6784/points.json"
+  },
+  "6785": {
+    "name": "俺の脳内選択肢が、学園ラブコメを全力で邪魔している",
+    "name_cn": "我的脑内选项正在全力妨碍学园恋爱喜剧",
+    "cover": "https://image.xinu.ink/pic/data/6785/images/77570.jpg",
+    "theme_color": "#713947",
+    "points": [
+      {
+        "id": "aac0ee6d",
+        "name": "JR水戸駅 改札口",
+        "image": "https://image.xinu.ink/pic/data/6785/images/aac0ee6d_1752846148415.jpg",
+        "geo": [
+          36.3709,
+          140.47618
+        ],
+        "mark": "#01「（1）甘草奏の甘くない日常 （2）甘草奏の臭くない納豆」、#10「（1）人生は、選択の連続である（2）人生は、洗濯の連続である」",
+        "origin": "脳コメ-舞台探訪マップ-"
+      },
+      {
+        "id": "c3f66581",
+        "name": "デッキ撮影ポイント",
+        "image": "https://image.xinu.ink/pic/data/6785/images/c3f66581_1752846201510.jpg",
+        "geo": [
+          36.372101,
+          140.476126
+        ],
+        "mark": "#01、#10",
+        "origin": "脳コメ-舞台探訪マップ-"
+      },
+      {
+        "id": "86314d12",
+        "name": "納豆像",
+        "image": "https://image.xinu.ink/pic/data/6785/images/86314d12_1752846044239.jpg",
+        "geo": [
+          36.36982,
+          140.47574
+        ],
+        "mark": "#01",
+        "origin": "脳コメ-舞台探訪マップ-"
+      },
+      {
+        "id": "1bdee546",
+        "name": "ヤマダ電機水戸店",
+        "image": "https://image.xinu.ink/pic/data/6785/images/1bdee546_1752846253686.jpg",
+        "geo": [
+          36.37014,
+          140.475836
+        ],
+        "mark": "#01",
+        "origin": "脳コメ-舞台探訪マップ-"
+      },
+      {
+        "id": "944479c7",
+        "name": "JR水戸駅北口",
+        "image": "https://image.xinu.ink/pic/data/6785/images/944479c7_1752846238598.jpg",
+        "geo": [
+          36.371524,
+          140.476059
+        ],
+        "mark": "#03「（1）がーるず&ぱんちらー（2）男物でもパンツが見たい?」",
+        "origin": "脳コメ-舞台探訪マップ-"
+      },
+      {
+        "id": "67e04bc0",
+        "name": "水戸黄門御一行像",
+        "image": "https://image.xinu.ink/pic/data/6785/images/67e04bc0_1752846091846.jpg",
+        "geo": [
+          36.37147,
+          140.476303
+        ],
+        "mark": "#03",
+        "origin": "脳コメ-舞台探訪マップ-"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6785/points.json"
+  },
+  "6786": {
+    "name": "オオカミ少女と黒王子",
+    "name_cn": "狼少女与黑王子",
+    "cover": "https://image.xinu.ink/pic/data/6786/images/101518.jpg",
+    "theme_color": "#db014a",
+    "points": [
+      {
+        "id": "51i527qny",
+        "name": "新神戸駅前",
+        "image": "https://image.xinu.ink/pic/data/6786/images/51i527qny_1752673486680.jpg",
+        "geo": [
+          34.706406,
+          135.195876
+        ],
+        "mark": "#11「一触即発 -Judgement-」"
+      },
+      {
+        "id": "51i527qjx",
+        "name": "新布引橋",
+        "image": "https://image.xinu.ink/pic/data/6786/images/51i527qjx_1752673520461.jpg",
+        "geo": [
+          34.705308,
+          135.196552
+        ],
+        "mark": "#11，#12"
+      },
+      {
+        "id": "51i527qqp",
+        "name": "新神戸駅 新幹線2番ホーム",
+        "image": "https://image.xinu.ink/pic/data/6786/images/51i527qqp_1752673542029.jpg",
+        "geo": [
+          34.70621,
+          135.194973
+        ],
+        "mark": "#12「愛及屋烏 -I love you-」"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6786/points.json"
+  },
+  "6787": {
+    "name": "へんたつ",
+    "name_cn": "平安达纪",
+    "cover": "/images/bangumi/298010.jpg",
+    "theme_color": "#fc619b",
+    "points": [
+      {
+        "id": "51i53z4bj",
+        "name": "中野ブロードウェイ",
+        "image": "https://image.xinu.ink/pic/data/6787/images/51i53z4bj_1752575748250.jpg",
+        "geo": [
+          35.709211,
+          139.665687
+        ],
+        "mark": "#01",
+        "folder": "中野 #01-04"
+      },
+      {
+        "id": "51i53z51z",
+        "name": "JR中野駅 7-8番線ホーム",
+        "image": "https://image.xinu.ink/pic/data/6787/images/51i53z51z_1752575739494.jpg",
+        "geo": [
+          35.706046,
+          139.665797
+        ],
+        "mark": "#01",
+        "folder": "中野 #01-04"
+      },
+      {
+        "id": "51i53z4vs",
+        "name": "中野レンガ坂商店会",
+        "image": "https://image.xinu.ink/pic/data/6787/images/51i53z4vs_1752575718898.jpg",
+        "geo": [
+          35.705088,
+          139.665314
+        ],
+        "mark": "#02，#03",
+        "folder": "中野 #01-04"
+      },
+      {
+        "id": "51i53z4nj",
+        "name": "スカイテル21",
+        "image": "https://image.xinu.ink/pic/data/6787/images/51i53z4nj_1752575704692.jpg",
+        "geo": [
+          35.704553,
+          139.663798
+        ],
+        "mark": "#04",
+        "folder": "中野 #01-04"
+      },
+      {
+        "id": "51i53z53o",
+        "name": "解体現場",
+        "image": "https://image.xinu.ink/pic/data/6787/images/51i53z53o_1752575679820.jpg",
+        "geo": [
+          35.705373,
+          139.66316
+        ],
+        "mark": "#04",
+        "folder": "中野 #01-04"
+      },
+      {
+        "id": "51i53z541",
+        "name": "囲桃園跨線橋上",
+        "image": "https://image.xinu.ink/pic/data/6787/images/51i53z541_1752575598626.jpg",
+        "geo": [
+          35.705585,
+          139.660802
+        ],
+        "mark": "#04",
+        "folder": "中野 #01-04"
+      },
+      {
+        "id": "51i53z4pi",
+        "name": "囲桃園跨線橋 北側",
+        "image": "https://image.xinu.ink/pic/data/6787/images/51i53z4pi_1752575627652.jpg",
+        "geo": [
+          35.705811,
+          139.660665
+        ],
+        "mark": "#04",
+        "folder": "中野 #01-04"
+      },
+      {
+        "id": "51i53z50e",
+        "name": "犬屋敷跡",
+        "image": "https://image.xinu.ink/pic/data/6787/images/51i53z50e_1752575575197.jpg",
+        "geo": [
+          35.706874,
+          139.663778
+        ],
+        "mark": "#04",
+        "folder": "中野 #01-04"
+      },
+      {
+        "id": "51i53z4rf",
+        "name": "中野駅北口 駅前広場",
+        "image": "https://image.xinu.ink/pic/data/6787/images/51i53z4rf_1752575807802.jpg",
+        "geo": [
+          35.706345,
+          139.66588
+        ],
+        "mark": "#04",
+        "folder": "中野 #01-04"
+      },
+      {
+        "id": "51i53z548",
+        "name": "JR新宿駅 新南口改札",
+        "image": "https://image.xinu.ink/pic/data/6787/images/51i53z548_1752575837081.jpg",
+        "geo": [
+          35.688335,
+          139.700941
+        ],
+        "mark": "#05]",
+        "folder": "新宿 #05"
+      },
+      {
+        "id": "51i53z5ap",
+        "name": "Suicaペンギンの像",
+        "image": "https://image.xinu.ink/pic/data/6787/images/51i53z5ap_1752575845827.jpg",
+        "geo": [
+          35.687935,
+          139.701058
+        ],
+        "mark": "#05",
+        "folder": "新宿 #05"
+      },
+      {
+        "id": "51i53z56w",
+        "name": "バスタ新宿 3Fデッキ",
+        "image": "https://image.xinu.ink/pic/data/6787/images/51i53z56w_1752575887344.jpg",
+        "geo": [
+          35.688152,
+          139.701591
+        ],
+        "mark": "#05，#07",
+        "folder": "新宿 #05"
+      },
+      {
+        "id": "51i53z5dg",
+        "name": "JR新宿駅 南口前",
+        "image": "https://image.xinu.ink/pic/data/6787/images/51i53z5dg_1752575555635.jpg",
+        "geo": [
+          35.68922,
+          139.700537
+        ],
+        "mark": "#08,＃09",
+        "folder": "JR新宿駅 南口前"
+      },
+      {
+        "id": "51i53z5kd",
+        "name": "都道305号線",
+        "image": "https://image.xinu.ink/pic/data/6787/images/51i53z5kd_1752575145637.jpg",
+        "geo": [
+          35.689526,
+          139.706393
+        ],
+        "mark": "TV#09",
+        "folder": "都道305号線"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6787/points.json"
   }
 }

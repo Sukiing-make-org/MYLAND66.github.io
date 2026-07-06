@@ -1,0 +1,663 @@
+[
+  {
+    "id": "37197017",
+    "name": "六本木ヒルズ 森タワー",
+    "image": "https://image.xinu.ink/pic/data/6773/images/37197017_1753432354765.jpg",
+    "geo": [
+      35.660626,
+      139.729056
+    ],
+    "ep": 2,
+    "mark": "#02「はじめての手のひら」 从東京都庁北展望室远看",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "6e551430",
+    "name": "東京都庁第一本庁舎 中庭",
+    "image": "https://image.xinu.ink/pic/data/6773/images/6e551430_1753431624978.jpg",
+    "geo": [
+      35.689666,
+      139.692627
+    ],
+    "ep": 2,
+    "mark": "#02",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "2y72oo6",
+    "name": "東京都庁第一本庁舎前",
+    "image": "https://image.xinu.ink/pic/data/6773/images/2y72oo6_1753431767926.jpg",
+    "geo": [
+      35.689622,
+      139.69238
+    ],
+    "ep": 2,
+    "mark": "#02"
+  },
+  {
+    "id": "2y7ajsk",
+    "name": "東京都庁第一本庁舎 1F",
+    "image": "https://image.xinu.ink/pic/data/6773/images/2y7ajsk_1753432392666.jpg",
+    "geo": [
+      35.689521,
+      139.691849
+    ],
+    "ep": 2,
+    "mark": "#02"
+  },
+  {
+    "id": "cec0c7cc",
+    "name": "東京都庁第一本庁舎 北展望室",
+    "image": "https://image.xinu.ink/pic/data/6773/images/cec0c7cc_1753431334893.jpg",
+    "geo": [
+      35.689901,
+      139.691661
+    ],
+    "ep": 2,
+    "mark": "#02",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "7c46a64d",
+    "name": "BLUESQUARECAFE横",
+    "image": "https://image.xinu.ink/pic/data/6773/images/7c46a64d_1753431343188.jpg",
+    "geo": [
+      35.691513,
+      139.697514
+    ],
+    "ep": 2,
+    "mark": "#02",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "84553f64",
+    "name": "JR新宿駅 西口",
+    "image": "https://image.xinu.ink/pic/data/6773/images/84553f64_1753431569323.jpg",
+    "geo": [
+      35.691141,
+      139.699721
+    ],
+    "ep": 2,
+    "mark": "#02",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "015ea925",
+    "name": "新宿警察署裏交差点",
+    "image": "https://image.xinu.ink/pic/data/6773/images/015ea925_1753431372509.jpg",
+    "geo": [
+      35.692687,
+      139.694617
+    ],
+    "ep": 2,
+    "mark": "#02",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "64e2d426",
+    "name": "サイゼリア中野坂上店",
+    "image": "https://image.xinu.ink/pic/data/6773/images/64e2d426_1753431388538.jpg",
+    "geo": [
+      35.696489,
+      139.684226
+    ],
+    "ep": 2,
+    "mark": "#02",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "e68aa02c",
+    "name": "高尾山薬王院 山門",
+    "image": "https://image.xinu.ink/pic/data/6773/images/e68aa02c_1753429774214.jpg",
+    "geo": [
+      35.625997,
+      139.250856
+    ],
+    "ep": 5,
+    "mark": "#05「はじめてのお化粧」",
+    "folder": "高尾山",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "d8f0fce2",
+    "name": "天狗像",
+    "image": "https://image.xinu.ink/pic/data/6773/images/d8f0fce2_1753430938870.jpg",
+    "geo": [
+      35.625855,
+      139.250722
+    ],
+    "ep": 5,
+    "mark": "#05",
+    "folder": "高尾山",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "557083cc",
+    "name": "縁結び",
+    "image": "https://image.xinu.ink/pic/data/6773/images/557083cc_1753430945710.jpg",
+    "geo": [
+      35.625801,
+      139.250706
+    ],
+    "ep": 5,
+    "mark": "#05 在天狗像下",
+    "folder": "高尾山",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "dfd04140",
+    "name": "境内 参道",
+    "image": "https://image.xinu.ink/pic/data/6773/images/dfd04140_1753429935367.jpg",
+    "geo": [
+      35.625591,
+      139.25051
+    ],
+    "ep": 5,
+    "mark": "#05",
+    "folder": "高尾山",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "12908871",
+    "name": "鐘楼堂",
+    "image": "https://image.xinu.ink/pic/data/6773/images/12908871_1753429944863.jpg",
+    "geo": [
+      35.625805,
+      139.250577
+    ],
+    "ep": 5,
+    "mark": "#05",
+    "folder": "高尾山",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "60beb1e2",
+    "name": "お守り授与所",
+    "image": "https://image.xinu.ink/pic/data/6773/images/60beb1e2_1753430961140.jpg",
+    "geo": [
+      35.62567,
+      139.25058
+    ],
+    "ep": 5,
+    "mark": "#05 在钟楼堂下",
+    "folder": "高尾山",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "46f8505e",
+    "name": "仁王門",
+    "image": "https://image.xinu.ink/pic/data/6773/images/46f8505e_1753430190336.jpg",
+    "geo": [
+      35.625679,
+      139.250304
+    ],
+    "ep": 5,
+    "mark": "#05 从仁王门下看御本堂",
+    "folder": "高尾山",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "1cdbe576",
+    "name": "高尾山薬王院 御本堂",
+    "image": "https://image.xinu.ink/pic/data/6773/images/1cdbe576_1753430169398.jpg",
+    "geo": [
+      35.625823,
+      139.250263
+    ],
+    "ep": 5,
+    "folder": "高尾山",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "538881b2",
+    "name": "階段",
+    "image": "https://image.xinu.ink/pic/data/6773/images/538881b2_1753430026183.jpg",
+    "geo": [
+      35.62589,
+      139.249936
+    ],
+    "ep": 5,
+    "mark": "#05",
+    "folder": "高尾山",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "835aed0c",
+    "name": "高尾山薬王院 御本社（権現堂）",
+    "image": "https://image.xinu.ink/pic/data/6773/images/835aed0c_1753430060447.jpg",
+    "geo": [
+      35.626134,
+      139.249831
+    ],
+    "ep": 5,
+    "mark": "#05",
+    "folder": "高尾山",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "0db7bbe5",
+    "name": "高尾山頂 展望台",
+    "image": "https://image.xinu.ink/pic/data/6773/images/0db7bbe5_1753430513583.jpg",
+    "geo": [
+      35.624769,
+      139.243048
+    ],
+    "ep": 5,
+    "mark": "#05",
+    "folder": "高尾山",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "e943e475",
+    "name": "JR大宮駅西口",
+    "image": "",
+    "geo": [
+      35.906241,
+      139.62249
+    ],
+    "mark": "#06「はじめてのお泊まり」",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "337b9256",
+    "name": "JR大宮駅 18番線ホーム",
+    "image": "",
+    "geo": [
+      35.906428,
+      139.622897
+    ],
+    "mark": "#06",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "72daf381",
+    "name": "JR長野駅 コンコース",
+    "image": "https://image.xinu.ink/pic/data/6773/images/72daf381_1753324808079.jpg",
+    "geo": [
+      36.642925,
+      138.188889
+    ],
+    "ep": 6,
+    "mark": "#06",
+    "folder": "長野",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "2a2fc447",
+    "name": "JR長野駅 善光寺口",
+    "image": "https://image.xinu.ink/pic/data/6773/images/2a2fc447_1753325343886.jpg",
+    "geo": [
+      36.643648,
+      138.188426
+    ],
+    "ep": 6,
+    "mark": "#06、#08",
+    "folder": "長野",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "95245a2a",
+    "name": "JR長野駅 善光寺口 バスターミナル",
+    "image": "https://image.xinu.ink/pic/data/6773/images/95245a2a_1753325288333.jpg",
+    "geo": [
+      36.643364,
+      138.187868
+    ],
+    "ep": 6,
+    "mark": "#06",
+    "folder": "長野",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "3c7f365b",
+    "name": "戸隠神社 中社鳥居",
+    "image": "https://image.xinu.ink/pic/data/6773/images/3c7f365b_1753325365662.jpg",
+    "geo": [
+      36.741592,
+      138.085135
+    ],
+    "ep": 6,
+    "mark": "#06",
+    "folder": "戸隠",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "962d993c",
+    "name": "戸隠宿坊 極意",
+    "image": "https://image.xinu.ink/pic/data/6773/images/962d993c_1753325413317.jpg",
+    "geo": [
+      36.741528,
+      138.085919
+    ],
+    "ep": 6,
+    "mark": "#06、#07、#08",
+    "folder": "戸隠",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "41c25e3e",
+    "name": "戸隠神社 中社本殿",
+    "image": "https://image.xinu.ink/pic/data/6773/images/41c25e3e_1753326197620.jpg",
+    "geo": [
+      36.742495,
+      138.085104
+    ],
+    "ep": 6,
+    "mark": "#06",
+    "folder": "戸隠",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "8aea91d6",
+    "name": "戸隠神社 中社境内",
+    "image": "https://image.xinu.ink/pic/data/6773/images/8aea91d6_1753326261764.jpg",
+    "geo": [
+      36.741863,
+      138.085194
+    ],
+    "ep": 6,
+    "mark": "#06",
+    "folder": "戸隠",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "5b9fa35f",
+    "name": "戸隠神社 中社境内ベンチなど",
+    "image": "https://image.xinu.ink/pic/data/6773/images/5b9fa35f_1753326233492.jpg",
+    "geo": [
+      36.742366,
+      138.085114
+    ],
+    "ep": 6,
+    "mark": "#06",
+    "folder": "戸隠",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "cb104825",
+    "name": "奥社道",
+    "image": "https://image.xinu.ink/pic/data/6773/images/cb104825_1753325607741.jpg",
+    "geo": [
+      36.743187,
+      138.082946
+    ],
+    "ep": 6,
+    "mark": "#06",
+    "folder": "戸隠",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "d7d5fcb9",
+    "name": "戸隠展望台",
+    "image": "https://image.xinu.ink/pic/data/6773/images/d7d5fcb9_1753325550845.jpg",
+    "geo": [
+      36.748565,
+      138.081318
+    ],
+    "ep": 6,
+    "mark": "#06",
+    "folder": "戸隠",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "c48836c0",
+    "name": "随神門",
+    "image": "https://image.xinu.ink/pic/data/6773/images/c48836c0_1753325747269.jpg",
+    "geo": [
+      36.761098,
+      138.069046
+    ],
+    "ep": 7,
+    "mark": "#07「はじめての迷子」",
+    "folder": "戸隠",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "853e6062",
+    "name": "戸隠神社 奥社",
+    "image": "https://image.xinu.ink/pic/data/6773/images/853e6062_1753326037071.jpg",
+    "geo": [
+      36.766856,
+      138.060358
+    ],
+    "ep": 7,
+    "mark": "#07",
+    "folder": "戸隠",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "b82d3176",
+    "name": "戸隠神社 奥社方面入口",
+    "image": "https://image.xinu.ink/pic/data/6773/images/b82d3176_1753326096092.jpg",
+    "geo": [
+      36.756611,
+      138.078554
+    ],
+    "ep": 7,
+    "mark": "#07",
+    "folder": "戸隠",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "0cc2a8aa",
+    "name": "蕎麦屋",
+    "image": "https://image.xinu.ink/pic/data/6773/images/0cc2a8aa_1753325769413.jpg",
+    "geo": [
+      36.756095,
+      138.079173
+    ],
+    "ep": 7,
+    "mark": "#07",
+    "folder": "戸隠",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "365ef772",
+    "name": "戸隠神社 中社バス停",
+    "image": "https://image.xinu.ink/pic/data/6773/images/365ef772_1753326548930.jpg",
+    "geo": [
+      36.741332,
+      138.084915
+    ],
+    "ep": 7,
+    "mark": "#07",
+    "folder": "戸隠",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "59140f9b",
+    "name": "飯綱高原乗馬倶楽部入口",
+    "image": "https://image.xinu.ink/pic/data/6773/images/59140f9b_1753326703794.jpg",
+    "geo": [
+      36.703057,
+      138.148875
+    ],
+    "ep": 7,
+    "mark": "#07",
+    "folder": "飯綱高原",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "8380e6bd",
+    "name": "看板モデル",
+    "image": "https://image.xinu.ink/pic/data/6773/images/8380e6bd_1753326880370.jpg",
+    "geo": [
+      36.702701,
+      138.149562
+    ],
+    "ep": 7,
+    "mark": "#07",
+    "folder": "飯綱高原",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "1f4fe558",
+    "name": "飯綱高原乗馬倶楽部 馬場前坂",
+    "image": "https://image.xinu.ink/pic/data/6773/images/1f4fe558_1753326891704.jpg",
+    "geo": [
+      36.701668,
+      138.149584
+    ],
+    "ep": 7,
+    "mark": "#07",
+    "folder": "飯綱高原",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "6944a1b1",
+    "name": "飯綱高原乗馬倶楽部 建屋",
+    "image": "https://image.xinu.ink/pic/data/6773/images/6944a1b1_1753326670532.jpg",
+    "geo": [
+      36.701281,
+      138.149546
+    ],
+    "ep": 7,
+    "folder": "飯綱高原",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "d5231e2f",
+    "name": "飯綱高原乗馬倶楽部 厩舎",
+    "image": "https://image.xinu.ink/pic/data/6773/images/d5231e2f_1753326634387.jpg",
+    "geo": [
+      36.701167,
+      138.149646
+    ],
+    "ep": 7,
+    "mark": "#07",
+    "folder": "飯綱高原",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "91094c62",
+    "name": "飯綱高原乗馬倶楽部 馬場",
+    "image": "https://image.xinu.ink/pic/data/6773/images/91094c62_1753326642338.jpg",
+    "geo": [
+      36.701221,
+      138.149297
+    ],
+    "ep": 7,
+    "mark": "#07",
+    "folder": "飯綱高原",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "1848931f",
+    "name": "JR長野駅 新幹線ホーム",
+    "image": "https://image.xinu.ink/pic/data/6773/images/1848931f_1753325247881.jpg",
+    "geo": [
+      36.643174,
+      138.189552
+    ],
+    "ep": 8,
+    "mark": "#08「はじめてのお願い」",
+    "folder": "長野",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "fd654cae",
+    "name": "川原宿大橋",
+    "image": "https://image.xinu.ink/pic/data/6773/images/fd654cae_1753432593450.jpg",
+    "geo": [
+      35.671901,
+      139.260257
+    ],
+    "mark": "#09「はじめてのお披露目」",
+    "folder": "八王子",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "85f244ea",
+    "name": "ファミリーマート 八王子西インター店",
+    "image": "https://image.xinu.ink/pic/data/6773/images/85f244ea_1753432606961.jpg",
+    "geo": [
+      35.672361,
+      139.259868
+    ],
+    "mark": "#09",
+    "folder": "八王子",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "28ec7623",
+    "name": "八王子城跡 ガイダンス施設",
+    "image": "",
+    "geo": [
+      35.655483,
+      139.261126
+    ],
+    "folder": "八王子",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "82feb694",
+    "name": "八王子城跡 管理棟",
+    "image": "",
+    "geo": [
+      35.654786,
+      139.259584
+    ],
+    "folder": "八王子",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "ae6a3e6a",
+    "name": "八王子神社前 平坦道",
+    "image": "https://image.xinu.ink/pic/data/6773/images/ae6a3e6a_1753432884993.jpg",
+    "geo": [
+      35.653413,
+      139.25371
+    ],
+    "mark": "#09",
+    "folder": "八王子",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "3f05f88f",
+    "name": "八王子城址公園 入口鳥居",
+    "image": "https://image.xinu.ink/pic/data/6773/images/3f05f88f_1753432653448.jpg",
+    "geo": [
+      35.654958,
+      139.259018
+    ],
+    "mark": "#09",
+    "folder": "八王子",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "cc71a288",
+    "name": "八王子神社",
+    "image": "https://image.xinu.ink/pic/data/6773/images/cc71a288_1753432722089.jpg",
+    "geo": [
+      35.653068,
+      139.252766
+    ],
+    "mark": "#09",
+    "folder": "八王子",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "a88dbd1c",
+    "name": "八王子神社横階段",
+    "image": "https://image.xinu.ink/pic/data/6773/images/a88dbd1c_1753432808625.jpg",
+    "geo": [
+      35.653164,
+      139.25268
+    ],
+    "mark": "#09",
+    "folder": "八王子",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  },
+  {
+    "id": "8a64c434",
+    "name": "八王子城 本丸跡",
+    "image": "https://image.xinu.ink/pic/data/6773/images/8a64c434_1753432760992.jpg",
+    "geo": [
+      35.652951,
+      139.252015
+    ],
+    "mark": "#09",
+    "folder": "八王子",
+    "origin": "RDGレッドデータガール-舞台探訪マップ-"
+  }
+]

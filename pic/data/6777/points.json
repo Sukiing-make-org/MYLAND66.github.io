@@ -1,0 +1,101 @@
+[
+  {
+    "id": "ffca7352",
+    "name": "新宿 思い出横丁",
+    "image": "https://image.xinu.ink/pic/data/6777/images/ffca7352_1752997675895.jpg",
+    "geo": [
+      35.69267,
+      139.699587
+    ],
+    "mark": "#01「FALL」",
+    "origin": "ミス・モノクローム -The Animation- -舞台探訪マップ-"
+  },
+  {
+    "id": "a0d58b50",
+    "name": "テレビ東京",
+    "image": "https://image.xinu.ink/pic/data/6777/images/a0d58b50_1752997698850.jpg",
+    "geo": [
+      35.66471,
+      139.743861
+    ],
+    "mark": "#02「HEAVEN」",
+    "origin": "ミス・モノクローム -The Animation- -舞台探訪マップ-"
+  },
+  {
+    "id": "a048a6b4",
+    "name": "東京タワー",
+    "image": "https://image.xinu.ink/pic/data/6777/images/a048a6b4_1752997717010.jpg",
+    "geo": [
+      35.658421,
+      139.745728
+    ],
+    "mark": "#05「HALLOWEEN」",
+    "origin": "ミス・モノクローム -The Animation- -舞台探訪マップ-"
+  },
+  {
+    "id": "d51bc19a",
+    "name": "東京タワースタジオ",
+    "image": "https://image.xinu.ink/pic/data/6777/images/d51bc19a_1752997743322.jpg",
+    "geo": [
+      35.657859,
+      139.745326
+    ],
+    "mark": "#05",
+    "origin": "ミス・モノクローム -The Animation- -舞台探訪マップ-"
+  },
+  {
+    "id": "7d61ad6e",
+    "name": "幕張メッセ 幕張イベントホール",
+    "image": "https://image.xinu.ink/pic/data/6777/images/7d61ad6e_1752997858476.jpg",
+    "geo": [
+      35.647986,
+      140.034968
+    ],
+    "mark": "#10「FIGHTER」",
+    "origin": "ミス・モノクローム -The Animation- -舞台探訪マップ-"
+  },
+  {
+    "id": "59a19bf0",
+    "name": "国際展示場1-8ホール",
+    "image": "https://image.xinu.ink/pic/data/6777/images/59a19bf0_1752997875515.jpg",
+    "geo": [
+      35.647454,
+      140.035116
+    ],
+    "mark": "#10",
+    "origin": "ミス・モノクローム -The Animation- -舞台探訪マップ-"
+  },
+  {
+    "id": "e65c5f64",
+    "name": "西武新宿線 上井草駅",
+    "image": "https://image.xinu.ink/pic/data/6777/images/e65c5f64_1753093606410.jpg",
+    "geo": [
+      35.725065,
+      139.603542
+    ],
+    "mark": "#10",
+    "origin": "ミス・モノクローム -The Animation- -舞台探訪マップ-"
+  },
+  {
+    "id": "0c2c8c02",
+    "name": "小金井公園 江戸東京たてもの園 子宝湯",
+    "image": "https://image.xinu.ink/pic/data/6777/images/0c2c8c02_1753093612786.jpg",
+    "geo": [
+      35.71667,
+      139.515222
+    ],
+    "mark": "#10",
+    "origin": "ミス・モノクローム -The Animation- -舞台探訪マップ-"
+  },
+  {
+    "id": "241730e8",
+    "name": "新宿駅東口広場",
+    "image": "https://image.xinu.ink/pic/data/6777/images/241730e8_1753093619594.jpg",
+    "geo": [
+      35.69211,
+      139.701129
+    ],
+    "mark": "#13「MONOCHROME」",
+    "origin": "ミス・モノクローム -The Animation- -舞台探訪マップ-"
+  }
+]
