@@ -636845,5 +636845,1793 @@
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/6787/points.json"
+  },
+  "6788": {
+    "name": "装神少女まとい",
+    "name_cn": "装神少女小缠",
+    "cover": "https://image.xinu.ink/pic/data/6788/images/187112.jpg",
+    "theme_color": "#b88ec6",
+    "points": [
+      {
+        "id": "51i53mlrk",
+        "name": "羽田空港 第二ターミナル出発フロア 3番時計前",
+        "image": "https://image.xinu.ink/pic/data/6788/images/51i53mlrk_1752573842493.jpg",
+        "geo": [
+          35.551587,
+          139.788109
+        ],
+        "ep": 2,
+        "mark": "#02",
+        "folder": "#02「神様、纏いました」"
+      },
+      {
+        "id": "51i53mluq",
+        "name": "羽田空港 第二ターミナル Aゲート",
+        "image": "https://image.xinu.ink/pic/data/6788/images/51i53mluq_1752573798646.jpg",
+        "geo": [
+          35.550084,
+          139.789074
+        ],
+        "ep": 2,
+        "mark": "#02",
+        "folder": "#02「神様、纏いました」"
+      },
+      {
+        "id": "51i53ml7w",
+        "name": "羽田空港 第一ターミナル P1駐車場",
+        "image": "https://image.xinu.ink/pic/data/6788/images/51i53ml7w_1752573790713.jpg",
+        "geo": [
+          35.550629,
+          139.784465
+        ],
+        "ep": 2,
+        "mark": "P2",
+        "folder": "#02「神様、纏いました」"
+      },
+      {
+        "id": "51i53ml8b",
+        "name": "JR原宿駅 駅舎",
+        "image": "https://image.xinu.ink/pic/data/6788/images/51i53ml8b_1752574441830.jpg",
+        "geo": [
+          35.670387,
+          139.70269
+        ],
+        "ep": 5,
+        "mark": "#05",
+        "folder": "#05「特別な普通」"
+      },
+      {
+        "id": "51i53mlfb",
+        "name": "JR原宿駅 竹下口",
+        "image": "https://image.xinu.ink/pic/data/6788/images/51i53mlfb_1752574449813.jpg",
+        "geo": [
+          35.671611,
+          139.702886
+        ],
+        "ep": 5,
+        "mark": "#05",
+        "folder": "#05「特別な普通」"
+      },
+      {
+        "id": "51i53mmn1",
+        "name": "原宿竹下通り ゲート",
+        "image": "https://image.xinu.ink/pic/data/6788/images/51i53mmn1_1752573358703.jpg",
+        "geo": [
+          35.671561,
+          139.703146
+        ],
+        "ep": 5,
+        "mark": "#05",
+        "folder": "#05「特別な普通」"
+      },
+      {
+        "id": "51i53mm5h",
+        "name": "PARISKID'S原宿店",
+        "image": "https://image.xinu.ink/pic/data/6788/images/51i53mm5h_1752573295350.jpg",
+        "geo": [
+          35.671524,
+          139.703571
+        ],
+        "ep": 5,
+        "mark": "#05",
+        "folder": "#05「特別な普通」"
+      },
+      {
+        "id": "51i53mm1z",
+        "name": "マクドナルド原宿竹下通り店",
+        "image": "https://image.xinu.ink/pic/data/6788/images/51i53mm1z_1752573328104.jpg",
+        "geo": [
+          35.671536,
+          139.703491
+        ],
+        "ep": 5,
+        "mark": "#05",
+        "folder": "#05「特別な普通」"
+      },
+      {
+        "id": "51i53mmag",
+        "name": "WONDER ROCKET 原宿店前",
+        "image": "https://image.xinu.ink/pic/data/6788/images/51i53mmag_1752573337598.jpg",
+        "geo": [
+          35.671387,
+          139.703832
+        ],
+        "ep": 5,
+        "mark": "#05",
+        "folder": "#05「特別な普通」"
+      },
+      {
+        "id": "51i53mmd6",
+        "name": "神宮橋",
+        "image": "https://image.xinu.ink/pic/data/6788/images/51i53mmd6_1752573407182.jpg",
+        "geo": [
+          35.669825,
+          139.70249
+        ],
+        "ep": 5,
+        "mark": "#05",
+        "folder": "#05「特別な普通」"
+      },
+      {
+        "id": "51i53mm82",
+        "name": "明治神宮 南参道鳥居",
+        "image": "https://image.xinu.ink/pic/data/6788/images/51i53mm82_1752573451431.jpg",
+        "geo": [
+          35.670219,
+          139.701835
+        ],
+        "ep": 5,
+        "mark": "#05",
+        "folder": "#05「特別な普通」"
+      },
+      {
+        "id": "51i53mm2l",
+        "name": "明治神宮 参道 葡萄酒樽",
+        "image": "https://image.xinu.ink/pic/data/6788/images/51i53mm2l_1752573481501.jpg",
+        "geo": [
+          35.673402,
+          139.701741
+        ],
+        "ep": 5,
+        "mark": "#05",
+        "folder": "#05「特別な普通」"
+      },
+      {
+        "id": "51i53mmbb",
+        "name": "明治神宮 参道 清酒菰樽",
+        "image": "https://image.xinu.ink/pic/data/6788/images/51i53mmbb_1752573547775.jpg",
+        "geo": [
+          35.673409,
+          139.70195
+        ],
+        "ep": 5,
+        "mark": "#05",
+        "folder": "#05「特別な普通」"
+      },
+      {
+        "id": "51i53mmij",
+        "name": "明治神宮 本殿",
+        "image": "https://image.xinu.ink/pic/data/6788/images/51i53mmij_1752573630103.jpg",
+        "geo": [
+          35.675904,
+          139.699421
+        ],
+        "ep": 5,
+        "mark": "#05",
+        "folder": "#05「特別な普通」"
+      },
+      {
+        "id": "51i53mmhm",
+        "name": "JR新横浜駅 コンコース",
+        "image": "https://image.xinu.ink/pic/data/6788/images/51i53mmhm_1752574259446.jpg",
+        "geo": [
+          35.506789,
+          139.617321
+        ],
+        "ep": 11,
+        "mark": "#11",
+        "folder": "#11「いってきます」"
+      },
+      {
+        "id": "51i53mndi",
+        "name": "JR新横浜駅 新幹線１-2番線ホーム",
+        "image": "https://image.xinu.ink/pic/data/6788/images/51i53mndi_1752574197740.jpg",
+        "geo": [
+          35.507619,
+          139.617723
+        ],
+        "ep": 11,
+        "mark": "#11",
+        "folder": "#11「いってきます」"
+      },
+      {
+        "id": "51i53mnfe",
+        "name": "成田空港 第２ターミナル 出発フロア",
+        "image": "https://image.xinu.ink/pic/data/6788/images/51i53mnfe_1752574152029.jpg",
+        "geo": [
+          35.773414,
+          140.387914
+        ],
+        "ep": 12,
+        "mark": "#12",
+        "folder": "#12「普通がいちばん」"
+      },
+      {
+        "id": "51i53mnau",
+        "name": "成田空港 第１ターミナル展望デッキ",
+        "image": "https://image.xinu.ink/pic/data/6788/images/51i53mnau_1752574119760.jpg",
+        "geo": [
+          35.765458,
+          140.383859
+        ],
+        "ep": 12,
+        "mark": "#12",
+        "folder": "#12「普通がいちばん」"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6788/points.json"
+  },
+  "6789": {
+    "name": "アオのハコ 第2期",
+    "name_cn": "青之箱 第二季",
+    "cover": "https://image.xinu.ink/pic/data/6789/images/548156_8DHwB.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "2bnikr2",
+        "name": "箱根高原ホテル",
+        "image": "https://image.xinu.ink/pic/data/6789/images/2bnikr2-1752068606148.jpg",
+        "geo": [
+          35.241176,
+          138.991935
+        ],
+        "ep": 22
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6789/points.json"
+  },
+  "6790": {
+    "name": "ウルトラマンガイア",
+    "name_cn": "盖亚奥特曼",
+    "cover": "https://image.xinu.ink/pic/data/6790/images/38668_QJcRP.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "2a6k5qr",
+        "name": "つどい橋",
+        "image": "https://image.xinu.ink/pic/data/6790/images/2a6k5qr-1751979699489.jpg",
+        "geo": [
+          35.629545,
+          139.786028
+        ],
+        "ep": "49话",
+        "cn": "つどい橋"
+      },
+      {
+        "id": "2a6naun",
+        "name": "夢の大橋",
+        "image": "https://image.xinu.ink/pic/data/6790/images/2a6naun-1751979859515.jpg",
+        "geo": [
+          35.629288,
+          139.785442
+        ],
+        "ep": "49话",
+        "cn": "梦之大桥"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6790/points.json"
+  },
+  "6791": {
+    "name": "ガンダムビルドファイターズ",
+    "name_cn": "高达创战者",
+    "cover": "https://image.xinu.ink/pic/data/6791/images/77171_i4TC4.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "28lkk53",
+        "name": "JR阿佐谷站",
+        "image": "https://image.xinu.ink/pic/data/6791/images/28lkk53-1751883913544.jpg",
+        "geo": [
+          35.70452,
+          139.636373
+        ],
+        "ep": "第一话诚与岭司相遇的地方",
+        "s": "10分52秒"
+      },
+      {
+        "id": "28lr0i2",
+        "name": "石神井公园小路",
+        "image": "https://image.xinu.ink/pic/data/6791/images/28lr0i2-1751884202861.jpg",
+        "geo": [
+          35.739994,
+          139.602264
+        ],
+        "ep": "1",
+        "s": "585秒",
+        "mark": "该地点本身就经过一定的再创作，现在颜色形状接近的楼已经翻新成不同的楼了，只能靠路径来判断"
+      },
+      {
+        "id": "2a6r8so",
+        "name": "台场海滨公园",
+        "image": "https://image.xinu.ink/pic/data/6791/images/2a6r8so-1751979972640.jpg",
+        "geo": [
+          35.628544,
+          139.77362
+        ],
+        "ep": "4集",
+        "s": "268秒左右",
+        "cn": "台场海滨公园"
+      },
+      {
+        "id": "2a6w944",
+        "name": "东京站前",
+        "image": "https://image.xinu.ink/pic/data/6791/images/2a6w944-1751980365744.jpg",
+        "geo": [
+          35.681608,
+          139.765125
+        ],
+        "ep": "6",
+        "cn": "东京站前"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6791/points.json"
+  },
+  "6792": {
+    "name": "planetarian～雪圏球～",
+    "name_cn": "星之梦～雪圏球～",
+    "cover": "https://image.xinu.ink/pic/data/6792/images/295090_pTyK7.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "ue6p4y",
+        "name": "東ふれあい公園",
+        "image": "https://image.xinu.ink/pic/data/6792/images/ue6p4y-1748848199949.jpg",
+        "geo": [
+          34.710595,
+          137.737177
+        ],
+        "s": 1203,
+        "origin": "CAPT_TWR"
+      },
+      {
+        "id": "uecj0z",
+        "name": "東ふれあい公園",
+        "image": "https://image.xinu.ink/pic/data/6792/images/uecj0z-1748848558287.jpg",
+        "geo": [
+          34.710314,
+          137.736929
+        ],
+        "s": 1397,
+        "origin": "CAPT_TWR"
+      },
+      {
+        "id": "ueheiz",
+        "name": "東ふれあい公園",
+        "image": "https://image.xinu.ink/pic/data/6792/images/ueheiz-1748848671430.jpg",
+        "geo": [
+          34.709959,
+          137.735983
+        ],
+        "s": 1075,
+        "origin": "CAPT_TWR"
+      },
+      {
+        "id": "uev3jy",
+        "name": "東ふれあい公園",
+        "image": "https://image.xinu.ink/pic/data/6792/images/uev3jy-1748849307480.jpg",
+        "geo": [
+          34.70997,
+          137.734497
+        ],
+        "s": 1069,
+        "origin": "CAPT_TWR"
+      },
+      {
+        "id": "ueywsi",
+        "name": "キッチン奥田商店",
+        "image": "https://image.xinu.ink/pic/data/6792/images/ueywsi-1748849612341.jpg",
+        "geo": [
+          34.705662,
+          137.730721
+        ],
+        "s": 933,
+        "origin": "CAPT_TWR"
+      },
+      {
+        "id": "uf886f",
+        "name": "三代目 鳥メロ 浜松有楽街店",
+        "image": "https://image.xinu.ink/pic/data/6792/images/uf886f-1748849978905.jpg",
+        "geo": [
+          34.706202,
+          137.730186
+        ],
+        "s": 942,
+        "mark": "此为推测位置，根据路灯和道路的形状确定在该位置",
+        "origin": "CAPT_TWR"
+      },
+      {
+        "id": "ufc0zh",
+        "name": "WINS笠井屋ビル",
+        "image": "https://image.xinu.ink/pic/data/6792/images/ufc0zh-1748850157954.jpg",
+        "geo": [
+          34.707601,
+          137.729849
+        ],
+        "s": 951,
+        "origin": "CAPT_TWR"
+      },
+      {
+        "id": "ufgwqm",
+        "name": "田町",
+        "image": "https://image.xinu.ink/pic/data/6792/images/ufgwqm-1748850379265.jpg",
+        "geo": [
+          34.708108,
+          137.731101
+        ],
+        "s": 956,
+        "origin": "CAPT_TWR"
+      },
+      {
+        "id": "ufkyjw",
+        "name": "田町",
+        "image": "https://image.xinu.ink/pic/data/6792/images/ufkyjw-1748850521429.jpg",
+        "geo": [
+          34.707977,
+          137.730814
+        ],
+        "s": 963,
+        "mark": "现实中这个位置是个服装店，并没有卖水晶球",
+        "origin": "CAPT_TWR"
+      },
+      {
+        "id": "ufnoaz",
+        "name": "田町",
+        "image": "https://image.xinu.ink/pic/data/6792/images/ufnoaz-1748850693775.jpg",
+        "geo": [
+          34.708081,
+          137.730702
+        ],
+        "s": 922,
+        "origin": "CAPT_TWR"
+      },
+      {
+        "id": "ugp12k",
+        "name": "ゆりの木通り",
+        "image": "https://image.xinu.ink/pic/data/6792/images/ugp12k-1748852510337.jpg",
+        "geo": [
+          34.708068,
+          137.729905
+        ],
+        "s": 985,
+        "mark": "按照官方地图的路线顺序来说应该是先经过此商店街再经过田町的十字路口，与电影的前后顺序有些出入",
+        "origin": "CAPT_TWR"
+      },
+      {
+        "id": "ugxlmq",
+        "name": "ゆりの木通り",
+        "image": "https://image.xinu.ink/pic/data/6792/images/ugxlmq-1748852823680.jpg",
+        "geo": [
+          34.708059,
+          137.730085
+        ],
+        "s": 989,
+        "origin": "CAPT_TWR"
+      },
+      {
+        "id": "uh14h8",
+        "name": "ゆりの木通り",
+        "image": "https://image.xinu.ink/pic/data/6792/images/uh14h8-1748852973218.jpg",
+        "geo": [
+          34.708078,
+          137.730348
+        ],
+        "s": 993,
+        "origin": "CAPT_TWR"
+      },
+      {
+        "id": "uh59or",
+        "name": "ゆりの木通り",
+        "image": "https://image.xinu.ink/pic/data/6792/images/uh59or-1748853225513.jpg",
+        "geo": [
+          34.70811,
+          137.73265
+        ],
+        "s": 1039,
+        "mark": "经典板凳，在动画和ova里面都有出现",
+        "origin": "CAPT_TWR"
+      },
+      {
+        "id": "uh9zmu",
+        "name": "分器橋公園",
+        "image": "https://image.xinu.ink/pic/data/6792/images/uh9zmu-1748853375950.jpg",
+        "geo": [
+          34.709357,
+          137.733223
+        ],
+        "s": 1053,
+        "origin": "CAPT_TWR"
+      },
+      {
+        "id": "uhbu3f",
+        "name": "分器橋公園",
+        "image": "https://image.xinu.ink/pic/data/6792/images/uhbu3f-1748853449504.jpg",
+        "geo": [
+          34.709596,
+          137.733341
+        ],
+        "s": 1048,
+        "origin": "CAPT_TWR"
+      },
+      {
+        "id": "uhd24f",
+        "name": "遠州病院駅",
+        "image": "https://image.xinu.ink/pic/data/6792/images/uhd24f-1748853503949.jpg",
+        "geo": [
+          34.709934,
+          137.733215
+        ],
+        "s": 1060,
+        "mark": "就是在这个路口，梦美说出了那句“希望不要把天国分开”（动画本篇部分）",
+        "origin": "CAPT_TWR"
+      },
+      {
+        "id": "ui0hab",
+        "name": "遠鉄百貨店",
+        "image": "https://image.xinu.ink/pic/data/6792/images/ui0hab-1748854668227.jpg",
+        "geo": [
+          34.704127,
+          137.733648
+        ],
+        "s": 552,
+        "origin": "CAPT_TWR"
+      },
+      {
+        "id": "ui3pex",
+        "name": "遠鉄百貨店",
+        "image": "https://image.xinu.ink/pic/data/6792/images/ui3pex-1748854807245.jpg",
+        "geo": [
+          34.703813,
+          137.733233
+        ],
+        "s": 570,
+        "mark": "推测位置，如果是乘坐远洲电铁在新滨松站下车的话，往滨松站的路上就能碰见（在大屏幕下的梦美）",
+        "origin": "CAPT_TWR"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6792/points.json"
+  },
+  "6793": {
+    "name": "いますぐお兄ちゃんに妹だっていいたい！",
+    "name_cn": "现在就想告诉哥哥，我是妹妹！",
+    "cover": "https://image.xinu.ink/pic/data/6793/images/61238_U33d3.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "25vl6ar",
+        "name": "稻濑路口",
+        "image": "https://image.xinu.ink/pic/data/6793/images/25vl6ar-1751719435335.jpg",
+        "geo": [
+          35.672396,
+          139.794772
+        ],
+        "cn": "永代路口"
+      },
+      {
+        "id": "25vqtcx",
+        "name": "清澄通り",
+        "image": "https://image.xinu.ink/pic/data/6793/images/25vqtcx-1751719584098.jpg",
+        "geo": [
+          35.671579,
+          139.794178
+        ]
+      },
+      {
+        "id": "25vuxjk",
+        "name": "巴橋",
+        "image": "https://image.xinu.ink/pic/data/6793/images/25vuxjk-1751719800236.jpg",
+        "geo": [
+          35.67021,
+          139.79806
+        ]
+      },
+      {
+        "id": "25vy2j2",
+        "name": "観覧車",
+        "image": "",
+        "geo": [
+          35.626162,
+          139.782434
+        ],
+        "cn": "台场摩天轮（2022年已拆除）"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6793/points.json"
+  },
+  "6794": {
+    "name": "ChuSingura46＋1　-忠臣蔵46＋1-",
+    "name_cn": "忠臣藏46＋1",
+    "cover": "https://image.xinu.ink/pic/data/6794/images/64718_Wv9I9.jpg",
+    "theme_color": "#c04855",
+    "points": [
+      {
+        "id": "243me3q",
+        "name": "播州赤穂",
+        "image": "https://image.xinu.ink/pic/data/6794/images/243me3q-1751612037524.jpg",
+        "geo": [
+          34.756775,
+          134.393181
+        ],
+        "mark": "播州赤穗站出站就能看见"
+      },
+      {
+        "id": "24hxqt2",
+        "name": "播州赤穂",
+        "image": "https://image.xinu.ink/pic/data/6794/images/24hxqt2-1751635919062.jpg",
+        "geo": [
+          34.756726,
+          134.393195
+        ],
+        "mark": "下楼梯处"
+      },
+      {
+        "id": "24hyxxd",
+        "name": "播州赤穂",
+        "image": "https://image.xinu.ink/pic/data/6794/images/24hyxxd-1751635975198.jpg",
+        "geo": [
+          34.756726,
+          134.393195
+        ],
+        "mark": "赤穗站"
+      },
+      {
+        "id": "24i1bgt",
+        "name": "伊和都比売神社",
+        "image": "https://image.xinu.ink/pic/data/6794/images/24i1bgt-1751636085470.jpg",
+        "geo": [
+          34.726873,
+          134.408018
+        ],
+        "mark": "游戏中出现的神社"
+      },
+      {
+        "id": "24i2wyp",
+        "name": "伊和都比売神社",
+        "image": "https://image.xinu.ink/pic/data/6794/images/24i2wyp-1751636224972.jpg",
+        "geo": [
+          34.727633,
+          134.408222
+        ],
+        "mark": "在神社内殿，进不去但可以在外围拍照"
+      },
+      {
+        "id": "24i7ai2",
+        "name": "大石名残の松",
+        "image": "https://image.xinu.ink/pic/data/6794/images/24i7ai2-1751636361529.jpg",
+        "geo": [
+          34.726736,
+          134.408671
+        ]
+      },
+      {
+        "id": "24i7wj8",
+        "name": "大石名残の松",
+        "image": "https://image.xinu.ink/pic/data/6794/images/24i7wj8-1751636400720.jpg",
+        "geo": [
+          34.726735,
+          134.408672
+        ],
+        "mark": "石头背后，名场面了"
+      },
+      {
+        "id": "24i9vdz",
+        "name": "赤穂城大手門",
+        "image": "https://image.xinu.ink/pic/data/6794/images/24i9vdz-1751636607033.jpg",
+        "geo": [
+          34.749045,
+          134.389489
+        ]
+      },
+      {
+        "id": "24idwes",
+        "name": "大石良雄宅跡長屋門",
+        "image": "https://image.xinu.ink/pic/data/6794/images/24idwes-1751636714752.jpg",
+        "geo": [
+          34.748561,
+          134.388886
+        ]
+      },
+      {
+        "id": "25kenxm",
+        "name": "大石内蔵助邸庭園",
+        "image": "https://image.xinu.ink/pic/data/6794/images/25kenxm-1751700546540.jpg",
+        "geo": [
+          34.748746,
+          134.388461
+        ],
+        "mark": "进去得在神社左边找巫女小姐姐买票"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6794/points.json"
+  },
+  "6795": {
+    "name": "アポカリプスホテル",
+    "name_cn": "末日后酒店",
+    "cover": "https://image.xinu.ink/pic/data/6795/images/509986.jpg",
+    "theme_color": "#9e4c00",
+    "points": [
+      {
+        "id": "upktipf46",
+        "name": "SEIKO ​HOUSE ​GINZA",
+        "image": "https://image.xinu.ink/pic/data/6795/images/upktipf46_1744781237435_c16v9.jpg",
+        "geo": [
+          35.671553,
+          139.765076
+        ],
+        "ep": 1,
+        "s": 173,
+        "mark": "ホテル『銀河楼』的原型"
+      },
+      {
+        "id": "uplew0urn",
+        "name": "有楽町マリオン",
+        "image": "https://image.xinu.ink/pic/data/6795/images/uplew0urn_1744782285737_c16v9.jpg",
+        "geo": [
+          35.673578,
+          139.762753
+        ],
+        "ep": 1,
+        "s": 1,
+        "cn": "有乐町Mullion"
+      },
+      {
+        "id": "uplngf9pr",
+        "name": "歌舞伎座",
+        "image": "https://image.xinu.ink/pic/data/6795/images/uplngf9pr_1744782791422_c16v9.jpg",
+        "geo": [
+          35.669409,
+          139.76786
+        ],
+        "ep": 1,
+        "s": 4
+      },
+      {
+        "id": "uplr3atea",
+        "name": "EXITMELSA",
+        "image": "https://image.xinu.ink/pic/data/6795/images/uplr3atea_1744783016199_c16v9.jpg",
+        "geo": [
+          35.670577,
+          139.763974
+        ],
+        "ep": 1,
+        "s": 7
+      },
+      {
+        "id": "uqk0659hz",
+        "name": "Эрдэнэ Зуу хийд",
+        "image": "https://image.xinu.ink/pic/data/6795/images/uqk0659hz-1744857585328.jpg",
+        "geo": [
+          47.201044,
+          102.846342
+        ],
+        "ep": 1,
+        "s": 122,
+        "origin": "费城飞蓬",
+        "cn": "额尔德尼召(光显寺)"
+      },
+      {
+        "id": "upmxkai9n",
+        "name": "Ellis Island",
+        "image": "https://image.xinu.ink/pic/data/6795/images/upmxkai9n_1744785592919_c16v9.jpg",
+        "geo": [
+          40.698262,
+          -74.039421
+        ],
+        "ep": 1,
+        "s": 136,
+        "cn": "埃利斯岛眺望自由女神像"
+      },
+      {
+        "id": "upmyqe6li",
+        "name": "エッフェル塔",
+        "image": "https://image.xinu.ink/pic/data/6795/images/upmyqe6li_1744785634859_c16v9.jpg",
+        "geo": [
+          48.85822,
+          2.294641
+        ],
+        "ep": 1,
+        "s": 138,
+        "cn": "艾菲尔铁塔"
+      },
+      {
+        "id": "upn2kr9vx",
+        "name": "Uluṟu / Ayers Rock",
+        "image": "https://image.xinu.ink/pic/data/6795/images/upn2kr9vx_1744785882511_c16v9.jpg",
+        "geo": [
+          -25.345759,
+          131.035373
+        ],
+        "ep": 1,
+        "s": 140,
+        "cn": "艾尔斯山"
+      },
+      {
+        "id": "upme0xupm",
+        "name": "Graff グラフ 銀座本店前",
+        "image": "https://image.xinu.ink/pic/data/6795/images/upme0xupm_1744784435078_c16v9.jpg",
+        "geo": [
+          35.673753,
+          139.765682
+        ],
+        "ep": 1,
+        "s": 143
+      },
+      {
+        "id": "upm8b6w7z",
+        "name": "東銀座",
+        "image": "https://image.xinu.ink/pic/data/6795/images/upm8b6w7z_1744784046978_c16v9.jpg",
+        "geo": [
+          35.670839,
+          139.768017
+        ],
+        "ep": 1,
+        "s": 146,
+        "cn": "东银座站 A8番口"
+      },
+      {
+        "id": "upltec7jh",
+        "name": "東京​スカイ​ツリー",
+        "image": "https://image.xinu.ink/pic/data/6795/images/upltec7jh_1744783144960_c16v9.jpg",
+        "geo": [
+          35.709883,
+          139.810879
+        ],
+        "ep": 1,
+        "s": 153,
+        "mark": "航拍视角",
+        "cn": "东京晴空塔"
+      },
+      {
+        "id": "uplfa7bfp",
+        "name": "有楽町マリオン",
+        "image": "https://image.xinu.ink/pic/data/6795/images/uplfa7bfp_1744782286694_c16v9.jpg",
+        "geo": [
+          35.673506,
+          139.762741
+        ],
+        "ep": 1,
+        "s": 165,
+        "cn": "有乐町Mullion"
+      },
+      {
+        "id": "uplnn82p6",
+        "name": "歌舞伎座",
+        "image": "https://image.xinu.ink/pic/data/6795/images/uplnn82p6_1744782793105_c16v9.jpg",
+        "geo": [
+          35.669378,
+          139.767767
+        ],
+        "ep": 1,
+        "s": 168
+      },
+      {
+        "id": "uplrf2ke3",
+        "name": "EXITMELSA",
+        "image": "https://image.xinu.ink/pic/data/6795/images/uplrf2ke3_1744783018170_c16v9.jpg",
+        "geo": [
+          35.670552,
+          139.763941
+        ],
+        "ep": 1,
+        "s": 171
+      },
+      {
+        "id": "v4rt518ig",
+        "name": "二重橋",
+        "image": "https://image.xinu.ink/pic/data/6795/images/v4rt518ig_1745971640435.jpg",
+        "geo": [
+          35.680238,
+          139.753594
+        ],
+        "ep": 1,
+        "s": 257,
+        "cn": "二重桥"
+      },
+      {
+        "id": "upld6emjd",
+        "name": "晴海通り",
+        "image": "https://image.xinu.ink/pic/data/6795/images/upld6emjd_1744782156334_c16v9.jpg",
+        "geo": [
+          35.670391,
+          139.766083
+        ],
+        "ep": 1,
+        "s": 650
+      },
+      {
+        "id": "upl8n8ep5",
+        "name": "GMビル前",
+        "image": "https://image.xinu.ink/pic/data/6795/images/upl8n8ep5_1744781890221_c16v9.jpg",
+        "geo": [
+          35.670041,
+          139.76661
+        ],
+        "ep": 1,
+        "s": 653
+      },
+      {
+        "id": "upl99cfe7",
+        "name": "ミレニアム​三井​ガーデン​ホテル​東京",
+        "image": "https://image.xinu.ink/pic/data/6795/images/upl99cfe7_1744781936997_c16v9.jpg",
+        "geo": [
+          35.66978,
+          139.76601
+        ],
+        "ep": 1,
+        "s": 657,
+        "cn": "千禧三井花园酒店东京 东眺"
+      },
+      {
+        "id": "v4rv7z1rt",
+        "name": "三原橋",
+        "image": "https://image.xinu.ink/pic/data/6795/images/v4rv7z1rt_1745971767665.jpg",
+        "geo": [
+          35.669553,
+          139.767129
+        ],
+        "ep": 1,
+        "s": 662
+      },
+      {
+        "id": "upl2y6xa0",
+        "name": "戎橋",
+        "image": "https://image.xinu.ink/pic/data/6795/images/upl2y6xa0_1744781579396_c16v9.jpg",
+        "geo": [
+          34.669045,
+          135.501304
+        ],
+        "ep": 2,
+        "s": 832,
+        "cn": "戎桥"
+      },
+      {
+        "id": "upmn2h5i0",
+        "name": "本町二丁目商店街",
+        "image": "https://image.xinu.ink/pic/data/6795/images/upmn2h5i0_1744784971824_c16v9.jpg",
+        "geo": [
+          35.492874,
+          138.804011
+        ],
+        "ep": 2,
+        "s": 835
+      },
+      {
+        "id": "upl03itos",
+        "name": "雷門",
+        "image": "https://image.xinu.ink/pic/data/6795/images/upl03itos_1744781388034_c16v9.jpg",
+        "geo": [
+          35.711074,
+          139.796354
+        ],
+        "ep": 2,
+        "s": 838,
+        "cn": "雷门"
+      },
+      {
+        "id": "upmhg6oij",
+        "name": "七十七銀行 東京支店",
+        "image": "https://image.xinu.ink/pic/data/6795/images/upmhg6oij_1744784604164.jpg",
+        "geo": [
+          35.668662,
+          139.768283
+        ],
+        "ep": 2,
+        "s": 1255
+      },
+      {
+        "id": "upmi31pvo",
+        "name": "七十七銀行 東京支店",
+        "image": "https://image.xinu.ink/pic/data/6795/images/upmi31pvo_1744784653536.jpg",
+        "geo": [
+          35.668662,
+          139.768342
+        ],
+        "ep": 2,
+        "s": 1257
+      },
+      {
+        "id": "upl4he73r",
+        "name": "SEIKO ​HOUSE ​GINZA",
+        "image": "https://image.xinu.ink/pic/data/6795/images/upl4he73r_1744781684565_c16v9.jpg",
+        "geo": [
+          35.671462,
+          139.765104
+        ],
+        "ep": 2,
+        "s": 1266
+      },
+      {
+        "id": "upl4hp749",
+        "name": "SEIKO ​HOUSE ​GINZA",
+        "image": "https://image.xinu.ink/pic/data/6795/images/upl4hp749_1744781689121_c16v9.jpg",
+        "geo": [
+          35.671414,
+          139.765053
+        ],
+        "ep": 2,
+        "s": 1284
+      },
+      {
+        "id": "upl4i11i0",
+        "name": "SEIKO ​HOUSE ​GINZA",
+        "image": "https://image.xinu.ink/pic/data/6795/images/upl4i11i0_1744781690587_c16v9.jpg",
+        "geo": [
+          35.671489,
+          139.76505
+        ],
+        "ep": 2,
+        "s": 1296
+      },
+      {
+        "id": "upl4h3icv",
+        "name": "SEIKO ​HOUSE ​GINZA",
+        "image": "https://image.xinu.ink/pic/data/6795/images/upl4h3icv_1744781683285_c16v9.jpg",
+        "geo": [
+          35.671467,
+          139.765008
+        ],
+        "ep": 2,
+        "s": 1304
+      },
+      {
+        "id": "vce0yskow",
+        "name": "SEIKO ​HOUSE ​GINZA",
+        "image": "https://image.xinu.ink/pic/data/6795/images/vce0yskow_1747293028115.jpg",
+        "geo": [
+          35.671432,
+          139.765002
+        ],
+        "ep": 5
+      },
+      {
+        "id": "4qd7n2",
+        "name": "歌舞伎座",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4qd7n2_1747296531842_c16v9.jpg",
+        "geo": [
+          35.669346,
+          139.767771
+        ],
+        "ep": 6,
+        "s": 440,
+        "mark": "向北拍摄"
+      },
+      {
+        "id": "4ql103",
+        "name": "歌舞伎座",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4ql103_1747296904774_c16v9.jpg",
+        "geo": [
+          35.669315,
+          139.767781
+        ],
+        "ep": 6,
+        "s": 442,
+        "mark": "向南拍摄"
+      },
+      {
+        "id": "4qhcj9",
+        "name": "三原橋",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4qhcj9_1747296733155_c16v9.jpg",
+        "geo": [
+          35.669537,
+          139.767102
+        ],
+        "ep": 6,
+        "s": 457
+      },
+      {
+        "id": "4qhapc",
+        "name": "三原橋 东眺",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4qhapc_1747296732176_c16v9.jpg",
+        "geo": [
+          35.669569,
+          139.767109
+        ],
+        "ep": 6,
+        "s": 463
+      },
+      {
+        "id": "4rwl14",
+        "name": "Statue of Liberty",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4rwl14_1747299113152_c16v9.jpg",
+        "geo": [
+          40.689192,
+          -74.044027
+        ],
+        "ep": 6,
+        "s": 696,
+        "cn": "自由女神像"
+      },
+      {
+        "id": "4rtl39",
+        "name": "أبو الهول",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4rtl39_1747299017422_c16v9.jpg",
+        "geo": [
+          29.975004,
+          31.137845
+        ],
+        "ep": 6,
+        "s": 698,
+        "mark": "向北拍摄，身后是胡夫金字塔",
+        "cn": "狮身人面像"
+      },
+      {
+        "id": "4sq0oz",
+        "name": "Taj Mahal",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4sq0oz_1747300524105_c16v9.jpg",
+        "geo": [
+          27.174837,
+          78.042183
+        ],
+        "ep": 6,
+        "s": 707,
+        "cn": "太姬陵"
+      },
+      {
+        "id": "4rzpoy",
+        "name": "Torre di Pisa",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4rzpoy_1747299318711_c16v9.jpg",
+        "geo": [
+          43.722927,
+          10.396676
+        ],
+        "ep": 6,
+        "s": 708,
+        "cn": "比萨斜塔"
+      },
+      {
+        "id": "4rp7um",
+        "name": "Le Mont-Saint-Michel",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4rp7um_1747299030445_c16v9.jpg",
+        "geo": [
+          48.635626,
+          -1.510534
+        ],
+        "ep": 6,
+        "s": 714,
+        "cn": "圣米歇尔山"
+      },
+      {
+        "id": "4nj2t5",
+        "name": "フジテレビ本社",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4nj2t5_1747291791691_c16v9.jpg",
+        "geo": [
+          35.626745,
+          139.774194
+        ],
+        "ep": 6,
+        "s": 923,
+        "mark": "动画中队长投掷的是位于富士电视总台楼顶的フジテレビ球体展望台 はちたま",
+        "cn": "富士电视总部"
+      },
+      {
+        "id": "4tb1qo",
+        "name": "日比谷通り",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4tb1qo_1747301485769_c16v9.jpg",
+        "geo": [
+          35.676465,
+          139.760236
+        ],
+        "ep": 6,
+        "s": 1120,
+        "mark": "東京會舘 本舘西，向北拍摄"
+      },
+      {
+        "id": "4ncm5p",
+        "name": "日比谷音楽堂",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4ncm5p_1747291455567_c16v9.jpg",
+        "geo": [
+          35.672486,
+          139.754168
+        ],
+        "ep": 6,
+        "s": 1130
+      },
+      {
+        "id": "4n7l66",
+        "name": "东大安田讲堂",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4n7l66_1747291220009_c16v9.jpg",
+        "geo": [
+          35.713389,
+          139.761997
+        ],
+        "ep": 6,
+        "s": 1132
+      },
+      {
+        "id": "4r3epq",
+        "name": "七十七銀行 東京支店",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4r3epq_1747297745649_c16v9.jpg",
+        "geo": [
+          35.668697,
+          139.768274
+        ],
+        "ep": 6,
+        "s": 1203
+      },
+      {
+        "id": "4rii2f",
+        "name": "築地川銀座公園",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4rii2f_1747298554372_c16v9.jpg",
+        "geo": [
+          35.668626,
+          139.768826
+        ],
+        "ep": 6,
+        "s": 1207
+      },
+      {
+        "id": "4rilwi",
+        "name": "築地川銀座公園",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4rilwi_1747298589222_c16v9.jpg",
+        "geo": [
+          35.668605,
+          139.768782
+        ],
+        "ep": 6,
+        "s": 1347
+      },
+      {
+        "id": "upl4gogu2",
+        "name": "SEIKO ​HOUSE ​GINZA",
+        "image": "https://image.xinu.ink/pic/data/6795/images/upl4gogu2_1744781634007.jpg",
+        "geo": [
+          35.671439,
+          139.765048
+        ],
+        "ep": 7,
+        "s": 1000
+      },
+      {
+        "id": "uuakzk9ym",
+        "name": "鱼尾狮公园",
+        "image": "https://image.xinu.ink/pic/data/6795/images/uuakzk9ym-1745150509157.jpg",
+        "geo": [
+          1.287092,
+          103.854667
+        ],
+        "ep": "ED1"
+      },
+      {
+        "id": "4ns1ny",
+        "name": "浜離宮恩賜庭園",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4ns1ny_1747292170143.jpg",
+        "geo": [
+          35.658967,
+          139.761809
+        ],
+        "ep": 4,
+        "s": 454,
+        "cn": "滨离宫恩赐庭园"
+      },
+      {
+        "id": "uy5fb6eh3",
+        "name": "",
+        "image": "https://image.xinu.ink/pic/data/6795/images/uy5fb6eh3_1745452757460_c16v9.jpg",
+        "geo": [
+          35.669836,
+          139.767113
+        ],
+        "ep": 4,
+        "mark": "官方背景图",
+        "cn": "东银座站交口 西南眺"
+      },
+      {
+        "id": "v4hz5proq",
+        "name": "勝鬨橋",
+        "image": "https://image.xinu.ink/pic/data/6795/images/v4hz5proq-1745950236893.jpg",
+        "geo": [
+          35.661915,
+          139.774977
+        ],
+        "ep": 4,
+        "s": 446,
+        "mark": "实际上，机位应该是在桥下\n具体位置待校准"
+      },
+      {
+        "id": "vcdum5ss7",
+        "name": "晴海 トリトンスクエア",
+        "image": "https://image.xinu.ink/pic/data/6795/images/vcdum5ss7_1746568291238.jpg",
+        "geo": [
+          35.656484,
+          139.78216
+        ],
+        "ep": 4,
+        "s": 640,
+        "cn": "晴海海神广场"
+      },
+      {
+        "id": "vcdx2qlwd",
+        "name": "晴海 トリトンスクエア",
+        "image": "https://image.xinu.ink/pic/data/6795/images/vcdx2qlwd_1746568313335.jpg",
+        "geo": [
+          35.656397,
+          139.782085
+        ],
+        "ep": 4,
+        "s": 973,
+        "cn": "晴海海神广场"
+      },
+      {
+        "id": "4nu8qh",
+        "name": "晴海通り",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4nu8qh_1747292261441.jpg",
+        "geo": [
+          35.65623,
+          139.781061
+        ],
+        "ep": 4,
+        "s": 1017
+      },
+      {
+        "id": "fuqh8v",
+        "name": "三越",
+        "image": "https://image.xinu.ink/pic/data/6795/images/fuqh8v_1747968982757.jpg",
+        "geo": [
+          35.671458,
+          139.76548
+        ],
+        "ep": 1,
+        "cn": "银座三越"
+      },
+      {
+        "id": "fup13d",
+        "name": "三越",
+        "image": "https://image.xinu.ink/pic/data/6795/images/fup13d_1747968903166.jpg",
+        "geo": [
+          35.671355,
+          139.765725
+        ],
+        "ep": 5,
+        "cn": "银座三越 天台花园"
+      },
+      {
+        "id": "4nvm6i",
+        "name": "三越",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4nvm6i_1747292347002.jpg",
+        "geo": [
+          35.67132,
+          139.765825
+        ],
+        "ep": 5,
+        "s": 1089,
+        "cn": "银座三越 天台花园"
+      },
+      {
+        "id": "fup0n0",
+        "name": "三越",
+        "image": "https://image.xinu.ink/pic/data/6795/images/fup0n0_1747968913069.jpg",
+        "geo": [
+          35.671307,
+          139.765734
+        ],
+        "ep": 5,
+        "cn": "银座三越 天台花园"
+      },
+      {
+        "id": "2gm1tp",
+        "name": "Marina bay sands",
+        "image": "https://image.xinu.ink/pic/data/6795/images/2gm1tp-1747159218676.jpg",
+        "geo": [
+          1.285575,
+          103.854091
+        ],
+        "ep": 6,
+        "s": 705,
+        "mark": "mbs对面",
+        "cn": "金沙"
+      },
+      {
+        "id": "3nn9fq",
+        "name": "",
+        "image": "https://image.xinu.ink/pic/data/6795/images/3nn9fq_1747231565280_c16v9.jpg",
+        "geo": [
+          35.662923,
+          139.702359
+        ],
+        "ep": 6,
+        "s": 1109,
+        "mark": "拍摄地点大概在旧涉谷川游步道路与明治通的交口",
+        "cn": "宫下公园东"
+      },
+      {
+        "id": "3nhir4",
+        "name": "東急プラザ銀座",
+        "image": "https://image.xinu.ink/pic/data/6795/images/3nhir4_1747231218587.jpg",
+        "geo": [
+          35.672465,
+          139.763076
+        ],
+        "ep": 6,
+        "mark": "从东南角拍摄",
+        "cn": "东急广场银座"
+      },
+      {
+        "id": "fvatxl",
+        "name": "東急プラザ銀座",
+        "image": "https://image.xinu.ink/pic/data/6795/images/fvatxl_1747969931669.jpg",
+        "geo": [
+          35.672493,
+          139.762811
+        ],
+        "ep": 6,
+        "cn": "东急广场银座 天台"
+      },
+      {
+        "id": "4n4qct",
+        "name": "東京​ミッドタウン​日比谷",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4n4qct_1747291070943.jpg",
+        "geo": [
+          35.67375,
+          139.759158
+        ],
+        "ep": 6,
+        "s": 195,
+        "mark": "動畫開頭被摧毀的建築，拍攝位置位於東南側，可以與东急在同一位置拍摄",
+        "cn": "东京中城日比谷"
+      },
+      {
+        "id": "4myl8c",
+        "name": "宝珠院",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4myl8c_1747291000579_c16v9.jpg",
+        "geo": [
+          35.656536,
+          139.746224
+        ],
+        "ep": 6,
+        "s": 1118,
+        "mark": "不确定，通过东京塔的角度和附近建筑判断大概位于宝珠院或增上寺"
+      },
+      {
+        "id": "4o5te0",
+        "name": "築地​警察署​数寄屋​橋​交番",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4o5te0_1747292800742.jpg",
+        "geo": [
+          35.672773,
+          139.763243
+        ],
+        "mark": "官方背景图"
+      },
+      {
+        "id": "4nmi6u",
+        "name": "築地​警察署​数寄屋​橋​交番",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4nmi6u_1747291969659.jpg",
+        "geo": [
+          35.672784,
+          139.763284
+        ],
+        "ep": 6,
+        "mark": "狸猫们安家的地方为银座东口交口，右侧尖顶建筑为星巴克银座店"
+      },
+      {
+        "id": "fuz8jr",
+        "name": "築地​警察署​数寄屋​橋​交番",
+        "image": "https://image.xinu.ink/pic/data/6795/images/fuz8jr_1747969383135.jpg",
+        "geo": [
+          35.672773,
+          139.763317
+        ],
+        "ep": 3,
+        "s": 573
+      },
+      {
+        "id": "fusowc",
+        "name": "築地​警察署​数寄屋​橋​交番 东眺",
+        "image": "https://image.xinu.ink/pic/data/6795/images/fusowc_1747969086763.jpg",
+        "geo": [
+          35.672806,
+          139.763193
+        ],
+        "ep": 3
+      },
+      {
+        "id": "fuwwro",
+        "name": "築地​警察署​数寄屋​橋​交番 南眺",
+        "image": "https://image.xinu.ink/pic/data/6795/images/fuwwro_1747969301449.jpg",
+        "geo": [
+          35.672535,
+          139.763408
+        ],
+        "ep": 3,
+        "mark": "左侧为银座站B10番出口"
+      },
+      {
+        "id": "fuspfh",
+        "name": "築地​警察署​数寄屋​橋​交番",
+        "image": "https://image.xinu.ink/pic/data/6795/images/fuspfh_1747969110478.jpg",
+        "geo": [
+          35.672771,
+          139.763148
+        ],
+        "ep": 3
+      },
+      {
+        "id": "fusq12",
+        "name": "築地​警察署​数寄屋​橋​交番",
+        "image": "https://image.xinu.ink/pic/data/6795/images/fusq12_1747969118584.jpg",
+        "geo": [
+          35.672813,
+          139.763129
+        ],
+        "ep": 3
+      },
+      {
+        "id": "futsah",
+        "name": "築地​警察署​数寄屋​橋​交番",
+        "image": "https://image.xinu.ink/pic/data/6795/images/futsah_1747969130652.jpg",
+        "geo": [
+          35.672608,
+          139.763288
+        ],
+        "ep": 3
+      },
+      {
+        "id": "fqgpwm",
+        "name": "築地​警察署​数寄屋​橋​交番",
+        "image": "https://image.xinu.ink/pic/data/6795/images/fqgpwm_1747961814798_c16v9.jpg",
+        "geo": [
+          35.672742,
+          139.763185
+        ],
+        "ep": 7
+      },
+      {
+        "id": "vcdyx8vvk",
+        "name": "",
+        "image": "https://image.xinu.ink/pic/data/6795/images/vcdyx8vvk_1746568438760.jpg",
+        "geo": [
+          35.671282,
+          139.765199
+        ],
+        "ep": 5,
+        "mark": "官方背景图",
+        "cn": "银座三越"
+      },
+      {
+        "id": "4qnyuk",
+        "name": "FUJIYA 不二家 数寄屋橋店",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4qnyuk_1747297032851_c16v9.jpg",
+        "geo": [
+          35.672594,
+          139.763652
+        ],
+        "ep": 6,
+        "s": 160
+      },
+      {
+        "id": "4qq9nm",
+        "name": 54,
+        "image": "https://image.xinu.ink/pic/data/6795/images/4qq9nm_1747297128094_c16v9.jpg",
+        "geo": [
+          35.671268,
+          139.765262
+        ],
+        "ep": 6,
+        "s": 688,
+        "cn": "银座三越"
+      },
+      {
+        "id": "4qxot4",
+        "name": "都立潮風公園",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4qxot4_1747297541009_c16v9.jpg",
+        "geo": [
+          35.623905,
+          139.768822
+        ],
+        "ep": 6,
+        "s": 830,
+        "mark": "飞船降落地点为公园中心的太阳广场，左侧倾塌的建筑为东京台场日航大酒店"
+      },
+      {
+        "id": "4r0jy0",
+        "name": "レインボー​ブリッジ",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4r0jy0_1747297664096_c16v9.jpg",
+        "geo": [
+          35.635163,
+          139.766997
+        ],
+        "ep": 6,
+        "s": 915,
+        "mark": "视角为从南向北航拍",
+        "cn": "彩虹大桥"
+      },
+      {
+        "id": "4r0ukn",
+        "name": "レインボー​ブリッジ",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4r0ukn_1747297667760_c16v9.jpg",
+        "geo": [
+          35.635469,
+          139.766075
+        ],
+        "ep": 6,
+        "s": 919,
+        "cn": "彩虹大桥"
+      },
+      {
+        "id": "4rb45a",
+        "name": "築地川銀座公園",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4rb45a_1747298131143_c16v9.jpg",
+        "geo": [
+          35.668671,
+          139.76899
+        ],
+        "ep": 6,
+        "s": 1205
+      },
+      {
+        "id": "4rf38d",
+        "name": "築地川銀座公園 东眺",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4rf38d_1747298551301_c16v9.jpg",
+        "geo": [
+          35.668623,
+          139.768879
+        ],
+        "ep": 6,
+        "s": 1280
+      },
+      {
+        "id": "4rexcj",
+        "name": "築地川銀座公園 北眺",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4rexcj_1747388461674_c16v9.jpg",
+        "geo": [
+          35.668456,
+          139.768678
+        ],
+        "ep": 6,
+        "s": 1319
+      },
+      {
+        "id": "frdcsj",
+        "name": "築地川銀座公園 西眺",
+        "image": "https://image.xinu.ink/pic/data/6795/images/frdcsj_1747963331087.jpg",
+        "geo": [
+          35.668427,
+          139.768635
+        ],
+        "ep": 4,
+        "s": 351
+      },
+      {
+        "id": "4ri90n",
+        "name": "築地川銀座公園 东眺",
+        "image": "https://image.xinu.ink/pic/data/6795/images/4ri90n_1747298553989_c16v9.jpg",
+        "geo": [
+          35.668601,
+          139.768858
+        ],
+        "ep": 6,
+        "s": 1353
+      },
+      {
+        "id": "68wnm6",
+        "name": "Earth",
+        "image": "https://image.xinu.ink/pic/data/6795/images/68wnm6_1747388238230_c16v9.jpg",
+        "geo": [
+          35.671486,
+          139.764977
+        ],
+        "mark": "一颗有着在宇宙广受好评的酒店—银河楼的星球",
+        "cn": "地球"
+      },
+      {
+        "id": "fq2t3m",
+        "name": "GINZA ​PLACE",
+        "image": "https://image.xinu.ink/pic/data/6795/images/fq2t3m_1747961704306_c16v9.jpg",
+        "geo": [
+          35.67085,
+          139.76498
+        ],
+        "ep": 7,
+        "mark": "拍摄位置是和光天台花园（セイコースカイガーデン），天台为邀请制，除特别纪念活动等无法进入",
+        "cn": "GINZA PLACE"
+      },
+      {
+        "id": "fr8f9h",
+        "name": "銀座四丁目 南眺",
+        "image": "https://image.xinu.ink/pic/data/6795/images/fr8f9h_1747963096363.jpg",
+        "geo": [
+          35.671281,
+          139.764921
+        ],
+        "ep": 4,
+        "s": 337
+      },
+      {
+        "id": "funggj",
+        "name": "",
+        "image": "https://image.xinu.ink/pic/data/6795/images/funggj_1747968841606.jpg",
+        "geo": [
+          35.669288,
+          139.7668
+        ],
+        "ep": 3,
+        "cn": "东银座交口"
+      },
+      {
+        "id": "25hqp9l",
+        "name": "南蔵院 涅槃像​",
+        "image": "https://image.xinu.ink/pic/data/6795/images/25hqp9l-1751696141586.jpg",
+        "geo": [
+          33.618203,
+          130.574187
+        ],
+        "ep": "8",
+        "mark": "日本最大的卧佛像（外国人个人300円/人，10人以上团体200円/人）"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6795/points.json"
+  },
+  "6796": {
+    "name": "カードキャプターさくら",
+    "name_cn": "魔卡少女樱",
+    "cover": "https://image.xinu.ink/pic/data/6796/images/1940_o9Lto.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "22yppn2",
+        "name": "海遊館",
+        "image": "https://image.xinu.ink/pic/data/6796/images/22yppn2-1751543287944.jpg",
+        "geo": [
+          34.654787,
+          135.429402
+        ],
+        "ep": 3,
+        "s": 884,
+        "cn": "海游馆"
+      },
+      {
+        "id": "22zak4y",
+        "name": "東京タワー",
+        "image": "https://image.xinu.ink/pic/data/6796/images/22zak4y-1751544247907.jpg",
+        "geo": [
+          35.658628,
+          139.745372
+        ],
+        "ep": "40",
+        "s": "711",
+        "cn": "东京铁塔"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6796/points.json"
+  },
+  "6797": {
+    "name": "劇場版 Fate/stay night [Heaven's Feel] III.spring song",
+    "name_cn": "剧场版 Fate/stay night [天之杯] III.春之歌",
+    "cover": "https://image.xinu.ink/pic/data/6797/images/175600_4wcTq.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "1yq6veb",
+        "name": "Expographic Books",
+        "image": "https://image.xinu.ink/pic/data/6797/images/1yq6veb-1751286988690.jpg",
+        "geo": [
+          6.93688,
+          79.849596
+        ],
+        "ep": 3,
+        "s": 6799
+      },
+      {
+        "id": "1yvnvgx",
+        "name": "彌敦道213號",
+        "image": "https://image.xinu.ink/pic/data/6797/images/1yvnvgx-1751296752523.jpg",
+        "geo": [
+          22.302663,
+          114.171792
+        ],
+        "s": 6813,
+        "mark": "撷取自2011年2月街景",
+        "origin": "aozumi"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6797/points.json"
   }
 }
