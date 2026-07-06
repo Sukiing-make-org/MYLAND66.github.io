@@ -1,0 +1,116 @@
+[
+  {
+    "id": "42mxlns",
+    "name": "svatý Jakub (Church of Saint James)",
+    "image": "https://image.xinu.ink/pic/data/6739/images/42mxlns_1755876984756.jpg",
+    "geo": [
+      49.94835,
+      15.267614
+    ],
+    "cn": "圣詹姆斯教堂"
+  },
+  {
+    "id": "42nwj4y",
+    "name": "Italian Court",
+    "image": "https://image.xinu.ink/pic/data/6739/images/42nwj4y_1755878604439.jpg",
+    "geo": [
+      49.94824,
+      15.268569
+    ],
+    "cn": "意大利宫"
+  },
+  {
+    "id": "42n5scx",
+    "name": "Kamenný dům (Stone House)",
+    "image": "https://image.xinu.ink/pic/data/6739/images/42n5scx_1755877403103.jpg",
+    "geo": [
+      49.949981,
+      15.265236
+    ],
+    "mark": "现实中装饰更为精致",
+    "cn": "哥特式石屋"
+  },
+  {
+    "id": "42nht0q",
+    "name": "Kamenná kašna (Gothic Stone Fountain)",
+    "image": "https://image.xinu.ink/pic/data/6739/images/42nht0q_1755877942092.jpg",
+    "geo": [
+      49.94885,
+      15.263869
+    ],
+    "mark": "现实中是环形高围墙，建于1493",
+    "cn": "哥特式石喷泉"
+  },
+  {
+    "id": "42o37ji",
+    "name": "Husova street",
+    "image": "https://image.xinu.ink/pic/data/6739/images/42o37ji_1755878893431.jpg",
+    "geo": [
+      49.948591,
+      15.262219
+    ]
+  },
+  {
+    "id": "42o89gu",
+    "name": "Morový sloup Panny Marie Neposkvrněné (Plague column)",
+    "image": "https://image.xinu.ink/pic/data/6739/images/42o89gu_1755879283479.jpg",
+    "geo": [
+      49.94943,
+      15.266843
+    ],
+    "mark": "建于1713（游戏时间线显然没有）",
+    "cn": "库特纳霍拉 瘟疫纪念柱"
+  },
+  {
+    "id": "42ntrfy",
+    "name": "Chrám svaté Barbory",
+    "image": "https://image.xinu.ink/pic/data/6739/images/42ntrfy_1755878445449.jpg",
+    "geo": [
+      49.944942,
+      15.263621
+    ],
+    "mark": "游戏中未建成",
+    "cn": "圣芭芭拉大教堂"
+  },
+  {
+    "id": "42nd3hs",
+    "name": "Kostnice Sedlec",
+    "image": "https://image.xinu.ink/pic/data/6739/images/42nd3hs_1755877723782.jpg",
+    "geo": [
+      49.961745,
+      15.287802
+    ],
+    "cn": "人骨教堂"
+  },
+  {
+    "id": "42o1j0v",
+    "name": "Kostel Nanebevzetí P. Marie",
+    "image": "https://image.xinu.ink/pic/data/6739/images/42o1j0v_1755878809463.jpg",
+    "geo": [
+      49.959818,
+      15.290133
+    ],
+    "cn": "圣母升天大教堂"
+  },
+  {
+    "id": "42n1xky",
+    "name": "Tvrz Malešov (The Fortress Malešov)",
+    "image": "https://image.xinu.ink/pic/data/6739/images/42n1xky_1755877201320.jpg",
+    "geo": [
+      49.911048,
+      15.221317
+    ],
+    "cn": "马雷绍夫堡"
+  },
+  {
+    "id": "42nlz8z",
+    "name": "hrad Trosky (Trosky Castle)",
+    "image": "https://image.xinu.ink/pic/data/6739/images/42nlz8z_1755878141063.jpg",
+    "geo": [
+      50.516416,
+      15.230235
+    ],
+    "mark": "现实中仅为石头遗迹",
+    "cn": "特罗斯基城堡"
+  }
+]

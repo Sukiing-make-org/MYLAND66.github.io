@@ -1,0 +1,282 @@
+[
+  {
+    "id": "2zmefzj",
+    "name": "小田急相模大野駅 上りホーム",
+    "image": "https://image.xinu.ink/pic/data/6729/images/2zmefzj-1753517950685.jpg",
+    "geo": [
+      35.532351,
+      139.437855
+    ],
+    "ep": 1,
+    "s": 218,
+    "mark": "坐标不完全准确，需要去站台上找找角度",
+    "cn": "小田急相模大野站 上行站台"
+  },
+  {
+    "id": "2zlv8xr",
+    "name": "コリドー街",
+    "image": "https://image.xinu.ink/pic/data/6729/images/2zlv8xr-1753517146436.jpg",
+    "geo": [
+      35.531932,
+      139.436347
+    ],
+    "ep": 1,
+    "s": 263
+  },
+  {
+    "id": "2zm36fa",
+    "name": "コリドー街",
+    "image": "https://image.xinu.ink/pic/data/6729/images/2zm36fa-1753517413337.jpg",
+    "geo": [
+      35.531851,
+      139.436341
+    ],
+    "ep": 1,
+    "s": 287
+  },
+  {
+    "id": "2zmc39k",
+    "name": "夏の小路",
+    "image": "https://image.xinu.ink/pic/data/6729/images/2zmc39k-1753517767099.jpg",
+    "geo": [
+      35.532426,
+      139.435727
+    ],
+    "ep": 1,
+    "s": 294
+  },
+  {
+    "id": "2zkq7r2",
+    "name": "相模大野北口前通路",
+    "image": "https://image.xinu.ink/pic/data/6729/images/2zkq7r2-1753515848131.jpg",
+    "geo": [
+      35.532401,
+      139.437602
+    ],
+    "ep": 1,
+    "s": 447,
+    "cn": "相模大野北口前通路"
+  },
+  {
+    "id": "50cgj2o8d",
+    "name": "竹富島",
+    "image": "https://image.xinu.ink/pic/data/6729/images/50cgj2o8d_1728800519823.jpg",
+    "geo": [
+      24.335366,
+      124.09362
+    ],
+    "ep": 3,
+    "s": 11,
+    "mark": "03話",
+    "folder": "2期*"
+  },
+  {
+    "id": "50cgj2o7n",
+    "name": "那覇空港",
+    "image": "https://image.xinu.ink/pic/data/6729/images/50cgj2o7n_1728818841681.jpg",
+    "geo": [
+      26.206891,
+      127.648073
+    ],
+    "ep": 3,
+    "s": 366,
+    "folder": "2期*"
+  },
+  {
+    "id": "p1w6gj4ot",
+    "name": "首里城公園",
+    "image": "https://image.xinu.ink/pic/data/6729/images/p1w6gj4ot_1728819556409.jpg",
+    "geo": [
+      26.218708,
+      127.715699
+    ],
+    "ep": 3,
+    "s": 529,
+    "folder": "2期*"
+  },
+  {
+    "id": "50cgj2o9n",
+    "name": "守礼門",
+    "image": "https://image.xinu.ink/pic/data/6729/images/50cgj2o9n_1728819150425.jpg",
+    "geo": [
+      26.218152,
+      127.716889
+    ],
+    "ep": 3,
+    "s": 531,
+    "mark": "03話",
+    "folder": "2期*"
+  },
+  {
+    "id": "50cgj2oa4",
+    "name": "歓会門",
+    "image": "https://image.xinu.ink/pic/data/6729/images/50cgj2oa4_1728819288343.jpg",
+    "geo": [
+      26.217698,
+      127.718006
+    ],
+    "ep": 3,
+    "s": 548,
+    "folder": "2期*"
+  },
+  {
+    "id": "50cgj2o7w",
+    "name": "首里城内",
+    "image": "https://image.xinu.ink/pic/data/6729/images/50cgj2o7w_1728819533915.jpg",
+    "geo": [
+      26.216988,
+      127.719153
+    ],
+    "ep": 3,
+    "s": 560,
+    "mark": "03話",
+    "folder": "2期*"
+  },
+  {
+    "id": "50cgj2ocs",
+    "name": "国際通り",
+    "image": "https://image.xinu.ink/pic/data/6729/images/50cgj2ocs_1728834106841.jpg",
+    "geo": [
+      26.215296,
+      127.685291
+    ],
+    "ep": 3,
+    "s": 681,
+    "folder": "2期*"
+  },
+  {
+    "id": "50cgj2o1u",
+    "name": "国際通り",
+    "image": "https://image.xinu.ink/pic/data/6729/images/50cgj2o1u_1728834507738.jpg",
+    "geo": [
+      26.21572,
+      127.68667
+    ],
+    "ep": 3,
+    "s": 701,
+    "mark": "前方 十文字屋呉服店",
+    "folder": "2期*"
+  },
+  {
+    "id": "50cgj2o0c",
+    "name": "スズが迷子になった場所",
+    "image": "https://image.xinu.ink/pic/data/6729/images/50cgj2o0c_1728831608878.jpg",
+    "geo": [
+      26.215248,
+      127.683346
+    ],
+    "ep": 3,
+    "s": 704,
+    "folder": "2期*"
+  },
+  {
+    "id": "p229dzc51",
+    "name": "むつみ橋交差点信号",
+    "image": "https://image.xinu.ink/pic/data/6729/images/p229dzc51_1728832670833.jpg",
+    "geo": [
+      26.216222,
+      127.68802
+    ],
+    "ep": 3,
+    "s": 711,
+    "folder": "2期*"
+  },
+  {
+    "id": "p226sfj30",
+    "name": "睦橋商店街",
+    "image": "https://image.xinu.ink/pic/data/6729/images/p226sfj30_1728832550674.jpg",
+    "geo": [
+      26.21611,
+      127.688052
+    ],
+    "ep": 3,
+    "s": 715,
+    "folder": "2期*"
+  },
+  {
+    "id": "50cgj2o5e",
+    "name": "むつみ橋交差点",
+    "image": "https://image.xinu.ink/pic/data/6729/images/50cgj2o5e_1728832845287.jpg",
+    "geo": [
+      26.216331,
+      127.688118
+    ],
+    "ep": 3,
+    "s": 719,
+    "mark": "03話",
+    "folder": "2期*"
+  },
+  {
+    "id": "p22expt5x",
+    "name": "むつみ橋交差点",
+    "image": "https://image.xinu.ink/pic/data/6729/images/p22expt5x_1728832990891.jpg",
+    "geo": [
+      26.216291,
+      127.688077
+    ],
+    "ep": 3,
+    "s": 722,
+    "folder": "2期*"
+  },
+  {
+    "id": "p22sx3k6o",
+    "name": "スターバックス​コーヒー​那覇​国際​通り​牧志​店",
+    "image": "https://image.xinu.ink/pic/data/6729/images/p22sx3k6o_1728833825804.jpg",
+    "geo": [
+      26.216363,
+      127.688176
+    ],
+    "ep": 3,
+    "s": 768,
+    "folder": "2期*",
+    "cn": "星巴克咖啡 那霸国际通牧志店"
+  },
+  {
+    "id": "p22u481n8",
+    "name": "サムズセーラーイン​国際​通り​店",
+    "image": "https://image.xinu.ink/pic/data/6729/images/p22u481n8_1728833956806.jpg",
+    "geo": [
+      26.216199,
+      127.688297
+    ],
+    "ep": 3,
+    "s": 779,
+    "mark": "对面",
+    "folder": "2期*",
+    "cn": "SAILOR INN 国际通店"
+  },
+  {
+    "id": "50cgj2o4c",
+    "name": "松尾交差点",
+    "image": "https://image.xinu.ink/pic/data/6729/images/50cgj2o4c_1728833387998.jpg",
+    "geo": [
+      26.214863,
+      127.683741
+    ],
+    "ep": 3,
+    "s": 808,
+    "mark": "03話",
+    "folder": "2期*"
+  },
+  {
+    "id": "50cgj2n7t",
+    "name": "竹富東港旅客待機所",
+    "image": "",
+    "geo": [
+      24.335687,
+      124.093556
+    ],
+    "mark": "03話",
+    "folder": "2期*"
+  },
+  {
+    "id": "50cgj2o69",
+    "name": "おきなわ屋本社ビル",
+    "image": "",
+    "geo": [
+      26.215467,
+      127.685194
+    ],
+    "folder": "2期*"
+  }
+]
