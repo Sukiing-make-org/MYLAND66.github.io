@@ -638633,5 +638633,24 @@
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/6797/points.json"
+  },
+  "6798": {
+    "name": "正反対な君と僕 第2期",
+    "name_cn": "",
+    "cover": "",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "6798-1",
+        "name": "Utsukushigaoka-W. 1",
+        "image": "",
+        "ep": "1",
+        "geo": [
+          35.590454,
+          139.538685
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6798/points.json"
   }
 }
