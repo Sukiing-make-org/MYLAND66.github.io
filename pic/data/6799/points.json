@@ -1,0 +1,118 @@
+[
+  {
+    "id": "gpq4v48",
+    "name": "東京都江東区2丁目１越中島",
+    "image": "https://image.xinu.ink/pic/data/6799/images/gpq4v48-1783394520473.webp",
+    "geo": [
+      35.667023,
+      139.793626
+    ],
+    "ep": "S1EP1",
+    "s": 28,
+    "mark": "JR京叶线越中岛站3号口出站后，从就近的人行横道到马路对面"
+  },
+  {
+    "id": "gpqis98",
+    "name": "明治丸（めいじまる）",
+    "image": "https://image.xinu.ink/pic/data/6799/images/gpqis98-1783395110361.webp",
+    "geo": [
+      35.667338,
+      139.790309
+    ],
+    "ep": "S1EP1",
+    "s": 84,
+    "mark": "明治丸（めいじまる）は、日本の船舶。灯台巡視船として日本政府がイギリスに発注し、天皇の乗る御召船や船員育成の練習船としても使用された。国の重要文化財に指定されている。（位于东京海洋大学越中岛校区内）",
+    "folder": "op"
+  },
+  {
+    "id": "gpqt859",
+    "name": "観測台",
+    "image": "https://image.xinu.ink/pic/data/6799/images/gpqt859-1783395610126.webp",
+    "geo": [
+      35.668712,
+      139.790972
+    ],
+    "ep": "S1EP1",
+    "s": 48,
+    "mark": "位于东京海洋大学越中岛校区内",
+    "folder": "op"
+  },
+  {
+    "id": "gpr3z37",
+    "name": "越中島会館前の自動販売機",
+    "image": "https://image.xinu.ink/pic/data/6799/images/gpr3z37-1783396349222.webp",
+    "geo": [
+      35.666512,
+      139.792748
+    ],
+    "ep": "S1EP1",
+    "s": 1092,
+    "mark": "位于东京海洋大学越中岛校区内，自动贩卖机身后就是后续两人坐下聊天的广场",
+    "folder": "S1EP1",
+    "cn": "冬月小春的专属自动贩卖机"
+  },
+  {
+    "id": "gprcr5f",
+    "name": "越中島会館ーマリンカフェの通路",
+    "image": "https://image.xinu.ink/pic/data/6799/images/gprcr5f-1783396578903.webp",
+    "geo": [
+      35.66638,
+      139.793028
+    ],
+    "ep": "S1EP1",
+    "s": 52,
+    "mark": "位于东京海洋大学越中岛校区内，越中岛会馆和餐厅的连接路，面对会馆方向",
+    "folder": "OP"
+  },
+  {
+    "id": "gprlfwy",
+    "name": "2号館内",
+    "image": "https://image.xinu.ink/pic/data/6799/images/gprlfwy-1783396921816.webp",
+    "geo": [
+      35.667064,
+      139.792829
+    ],
+    "ep": "S1EP1",
+    "s": 64,
+    "mark": "位于东京海洋大学越中岛校区2号館内，进入二号馆上楼梯往下，可看到",
+    "folder": "OP"
+  },
+  {
+    "id": "gps5mmi",
+    "name": "相生橋",
+    "image": "https://image.xinu.ink/pic/data/6799/images/gps5mmi-1783397856775.webp",
+    "geo": [
+      35.667149,
+      139.788709
+    ],
+    "ep": "S1EP1",
+    "s": 20,
+    "folder": "OP"
+  },
+  {
+    "id": "gpsau5m",
+    "name": "相生橋前",
+    "image": "https://image.xinu.ink/pic/data/6799/images/gpsau5m-1783398105974.webp",
+    "geo": [
+      35.666367,
+      139.787284
+    ],
+    "ep": "S1EP1",
+    "s": 1360,
+    "folder": "ED"
+  },
+  {
+    "id": "gpsxbx7",
+    "name": "マリンカフェ",
+    "image": "https://image.xinu.ink/pic/data/6799/images/gpsxbx7-1783399117988.webp",
+    "geo": [
+      35.666219,
+      139.793196
+    ],
+    "ep": "S1EP1",
+    "s": 98,
+    "mark": "营业时间见链接的官网，校外人员也能用餐，可用交通卡、信用卡、现金支付",
+    "folder": "OP",
+    "originURL": "https://www.univcoop.jp/tumsat/time/"
+  }
+]

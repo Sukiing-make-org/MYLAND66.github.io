@@ -124,5 +124,41 @@
     ],
     "origin": "Anitabi@Xmなのだ",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qwx5weqjl",
+    "name": "立川北口",
+    "image": "https://image.xinu.ink/pic/data/59/images/qwx5weqjl-1734071974740.jpg",
+    "geo": [
+      35.698956,
+      139.413494
+    ],
+    "ep": 3,
+    "s": 1273,
+    "mark": "立川站北口出来地面公交车站，向东的方向看"
+  },
+  {
+    "id": "qwxdz37ge",
+    "name": "立川北口",
+    "image": "https://image.xinu.ink/pic/data/59/images/qwxdz37ge-1734072448526.jpg",
+    "geo": [
+      35.699041,
+      139.413795
+    ],
+    "ep": 4,
+    "s": 466,
+    "mark": "立川北口的人行天桥下，找背景的红绿灯"
+  },
+  {
+    "id": "qwxnxcoch",
+    "name": "ISETAN Tachikawa",
+    "image": "https://image.xinu.ink/pic/data/59/images/qwxnxcoch-1734073032728.jpg",
+    "geo": [
+      35.699063,
+      139.413365
+    ],
+    "ep": 4,
+    "s": 1016,
+    "mark": "Isetan和车站的天桥上，画面中央茵蒂克丝身后就是立川北站的扶梯"
   }
 ]

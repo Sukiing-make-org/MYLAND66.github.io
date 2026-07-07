@@ -11,5 +11,36 @@
     ],
     "origin": "Anitabi@Zyglisfer",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ct9erbn",
+    "name": "Église Saint-Germain des Prés",
+    "image": "https://image.xinu.ink/pic/data/37/images/ct9erbn-1774901100556.jpg",
+    "geo": [
+      48.853949,
+      2.334466
+    ],
+    "ep": 3,
+    "cn": "圣日耳曼德佩修道院"
+  },
+  {
+    "id": "g1g0y7g",
+    "name": "ノートルダム寺院",
+    "image": "https://image.xinu.ink/pic/data/37/images/g1g0y7g_1781926342346.jpg",
+    "geo": [
+      48.852338,
+      2.349838
+    ],
+    "cn": "巴黎圣母院"
+  },
+  {
+    "id": "g1gnh90",
+    "name": "Pont Neuf",
+    "image": "https://image.xinu.ink/pic/data/37/images/g1gnh90_1781927415550.jpg",
+    "geo": [
+      48.858065,
+      2.341985
+    ],
+    "cn": "新桥"
   }
 ]

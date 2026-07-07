@@ -1,0 +1,213 @@
+[
+  {
+    "id": "10dsigy",
+    "name": "Basilique du Sacré-Cœur de Montmartre",
+    "image": "https://image.xinu.ink/pic/data/6807/images/10dsigy-1749210338465.jpg",
+    "geo": [
+      48.886148,
+      2.343626
+    ],
+    "ep": 1,
+    "cn": "圣心大教堂"
+  },
+  {
+    "id": "10dvd1w",
+    "name": "Arc de Triomphe",
+    "image": "https://image.xinu.ink/pic/data/6807/images/10dvd1w-1749210478268.jpg",
+    "geo": [
+      48.87287,
+      2.294382
+    ],
+    "ep": 1,
+    "cn": "凯旋门"
+  },
+  {
+    "id": "10e06gb",
+    "name": "Aéroport Paris-Charles-de-Gaulle",
+    "image": "https://image.xinu.ink/pic/data/6807/images/10e06gb-1749210704261.jpg",
+    "geo": [
+      49.005358,
+      2.576254
+    ],
+    "ep": 1,
+    "cn": "巴黎戴高乐机场2F"
+  },
+  {
+    "id": "10eoad7",
+    "name": "Seine La Rive Droite",
+    "image": "https://image.xinu.ink/pic/data/6807/images/10eoad7-1749211840949.jpg",
+    "geo": [
+      48.860794,
+      2.291948
+    ],
+    "ep": 1,
+    "mark": "实地无栏杆",
+    "cn": "塞纳河右岸（北岸）"
+  },
+  {
+    "id": "113h4jn",
+    "name": "外滩",
+    "image": "https://image.xinu.ink/pic/data/6807/images/113h4jn-1749253450702.jpg",
+    "geo": [
+      31.239155,
+      121.486285
+    ],
+    "ep": 3
+  },
+  {
+    "id": "11795yj",
+    "name": "Musée d’Orsay",
+    "image": "https://image.xinu.ink/pic/data/6807/images/11795yj-1749259815235.jpg",
+    "geo": [
+      48.859996,
+      2.327797
+    ],
+    "ep": 4,
+    "cn": "奥赛博物馆"
+  },
+  {
+    "id": "117b2d8",
+    "name": "Pont Royal",
+    "image": "https://image.xinu.ink/pic/data/6807/images/117b2d8-1749259950324.jpg",
+    "geo": [
+      48.860548,
+      2.330638
+    ],
+    "ep": 4,
+    "cn": "皇家桥"
+  },
+  {
+    "id": "117had4",
+    "name": "port des tuileries",
+    "image": "https://image.xinu.ink/pic/data/6807/images/117had4-1749260321467.jpg",
+    "geo": [
+      48.860945,
+      2.329434
+    ],
+    "ep": 4,
+    "mark": "看两座桥的距离应该是这个位置，如果不是的话就是对面另一边，需要实地确认",
+    "cn": "皇家桥下步道"
+  },
+  {
+    "id": "118gad3",
+    "name": "Av. des Nations Unies",
+    "image": "https://image.xinu.ink/pic/data/6807/images/118gad3-1749261808342.jpg",
+    "geo": [
+      48.861136,
+      2.291307
+    ],
+    "ep": "ED",
+    "mark": "箭头方向与动画相反"
+  },
+  {
+    "id": "11idemc",
+    "name": "Jardin des Tuileries Grand Bassin Rond",
+    "image": "https://image.xinu.ink/pic/data/6807/images/11idemc-1749278466319.jpg",
+    "geo": [
+      48.862969,
+      2.329553
+    ],
+    "ep": 7,
+    "mark": "花园内有两个喷水池，靠近卢浮宫那个才是动画里的"
+  },
+  {
+    "id": "11kpijs",
+    "name": "Grand Bé",
+    "image": "https://image.xinu.ink/pic/data/6807/images/11kpijs-1749282392902.jpg",
+    "geo": [
+      48.650187,
+      -2.030957
+    ],
+    "ep": 9,
+    "mark": "退潮时可登岛"
+  },
+  {
+    "id": "11krg09",
+    "name": "Passage des Bés",
+    "image": "https://image.xinu.ink/pic/data/6807/images/11krg09-1749282520376.jpg",
+    "geo": [
+      48.65087,
+      -2.032364
+    ],
+    "ep": 9,
+    "mark": "大贝岛通道上远眺圣马洛城"
+  },
+  {
+    "id": "11kuou0",
+    "name": "Tombeau de François René de Chateaubriand",
+    "image": "https://image.xinu.ink/pic/data/6807/images/11kuou0-1749282632666.jpg",
+    "geo": [
+      48.653019,
+      -2.033238
+    ],
+    "ep": 9,
+    "mark": "出生于圣马洛的法国作家弗朗索瓦-勒内·德·夏多布里昂，安葬于大贝岛，墓穴面向大海。"
+  },
+  {
+    "id": "11lg2r2",
+    "name": "Grand Rue",
+    "image": "https://image.xinu.ink/pic/data/6807/images/11lg2r2-1749283639027.jpg",
+    "geo": [
+      48.649186,
+      -2.024615
+    ],
+    "ep": 9,
+    "mark": "Grand Rue和Rue des Merciers的交叉路口，能看到圣马洛主教座堂，注意路灯作为定位即可"
+  },
+  {
+    "id": "11lkxnl",
+    "name": "La Grand' Porte de Saint-Malo",
+    "image": "https://image.xinu.ink/pic/data/6807/images/11lkxnl-1749283895193.jpg",
+    "geo": [
+      48.648968,
+      -2.02371
+    ],
+    "ep": 9,
+    "cn": "圣马洛城门"
+  },
+  {
+    "id": "11m2a4e",
+    "name": "Château Hôtel du Colombier",
+    "image": "https://image.xinu.ink/pic/data/6807/images/11m2a4e-1749284676604.jpg",
+    "geo": [
+      48.637949,
+      -1.968061
+    ],
+    "ep": 9,
+    "mark": "原型为城堡酒店"
+  },
+  {
+    "id": "11mf4k8",
+    "name": "Cale de la bourse",
+    "image": "https://image.xinu.ink/pic/data/6807/images/11mf4k8-1749285280160.jpg",
+    "geo": [
+      48.645726,
+      -2.024278
+    ],
+    "ep": 9,
+    "mark": "船舶下水滑道附近"
+  },
+  {
+    "id": "11syjf5",
+    "name": "Cathédrale Saint-Vincent de Saint-Malo",
+    "image": "https://image.xinu.ink/pic/data/6807/images/11syjf5-1749296260140.jpg",
+    "geo": [
+      48.649575,
+      -2.02621
+    ],
+    "ep": "11",
+    "mark": "除了尖塔以外其他特征完全对不上，但圣马洛只有这一个这种规模的教堂，只能说魔改了吧",
+    "cn": "圣马洛主教座堂"
+  },
+  {
+    "id": "137hks4",
+    "name": "Salle Pleyel",
+    "image": "https://image.xinu.ink/pic/data/6807/images/137hks4-1749381150476.jpg",
+    "geo": [
+      48.87702,
+      2.301097
+    ],
+    "ep": 5,
+    "cn": "普莱耶尔音乐厅"
+  }
+]

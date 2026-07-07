@@ -36,5 +36,397 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=35.703127%2C139.579622&z=17"
+  },
+  {
+    "id": "kpx6opqyg",
+    "name": "高知城本丸前",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opqyg_1757136174836.jpg",
+    "geo": [
+      33.561418,
+      133.5312
+    ],
+    "mark": "拍摄地点为高知城丸之内广场，正对高知县怀德馆。"
+  },
+  {
+    "id": "kpx6opqkn",
+    "name": "高知追手前高 正門",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opqkn_1757136394698.jpg",
+    "geo": [
+      33.561361,
+      133.536613
+    ]
+  },
+  {
+    "id": "5m7748h",
+    "name": "高知追手前高 侧向",
+    "image": "https://image.xinu.ink/pic/data/32/images/5m7748h_1759236639562.jpg",
+    "geo": [
+      33.561387,
+      133.536765
+    ]
+  },
+  {
+    "id": "4nguol4",
+    "name": "高知追手前高 塔楼",
+    "image": "https://image.xinu.ink/pic/data/32/images/4nguol4_1757136570324.jpg",
+    "geo": [
+      33.561588,
+      133.53654
+    ]
+  },
+  {
+    "id": "4nh2l98",
+    "name": "高知追手前高 走廊",
+    "image": "https://image.xinu.ink/pic/data/32/images/4nh2l98_1757137633281.jpg",
+    "geo": [
+      33.561633,
+      133.536774
+    ]
+  },
+  {
+    "id": "5m7culm",
+    "name": "帯屋町二丁目商店街2",
+    "image": "https://image.xinu.ink/pic/data/32/images/5m7culm_1759236881933.jpg",
+    "geo": [
+      33.560071,
+      133.536261
+    ]
+  },
+  {
+    "id": "kpx6oprhv",
+    "name": "大橋道り沿い",
+    "image": "",
+    "geo": [
+      33.559193,
+      133.536825
+    ]
+  },
+  {
+    "id": "kpx6oprfk",
+    "name": "金高堂書店",
+    "image": "",
+    "geo": [
+      33.560154,
+      133.538051
+    ]
+  },
+  {
+    "id": "kpx6oprws",
+    "name": "ポポロ東宝小径",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6oprws_1759237119681.jpg",
+    "geo": [
+      33.561345,
+      133.540271
+    ]
+  },
+  {
+    "id": "kpx6opsik",
+    "name": "帯屋町通1stアーケード",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opsik_1757137165965.jpg",
+    "geo": [
+      33.560831,
+      133.540405
+    ]
+  },
+  {
+    "id": "5m7gd8j",
+    "name": "帯屋町一丁目商店街",
+    "image": "https://image.xinu.ink/pic/data/32/images/5m7gd8j_1759237046221.jpg",
+    "geo": [
+      33.560853,
+      133.540585
+    ]
+  },
+  {
+    "id": "kpx6oprwh",
+    "name": "はりまや橋交差点より",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6oprwh_1759237275944.jpg",
+    "geo": [
+      33.560154,
+      133.542948
+    ]
+  },
+  {
+    "id": "kpx6opsob",
+    "name": "はりまや橋",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opsob_1759237230964.jpg",
+    "geo": [
+      33.55968,
+      133.542854
+    ]
+  },
+  {
+    "id": "kpx6optby",
+    "name": "カラオケセントラル",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6optby_1759237337325.jpg",
+    "geo": [
+      33.560316,
+      133.541535
+    ]
+  },
+  {
+    "id": "kpx6opty8",
+    "name": "黒尊",
+    "image": "",
+    "geo": [
+      33.558455,
+      133.536474
+    ]
+  },
+  {
+    "id": "kpx6opu2a",
+    "name": "天神大橋坂道",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opu2a-1757071153846.jpg",
+    "geo": [
+      33.555835,
+      133.537576
+    ]
+  },
+  {
+    "id": "kpx6opuhg",
+    "name": "拓が自転車で渡った橋",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opuhg-1757071168320.jpg",
+    "geo": [
+      33.555129,
+      133.537541
+    ],
+    "cn": "天神大橋"
+  },
+  {
+    "id": "kpx6opvfk",
+    "name": "記念碑",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opvfk-1757071754352.jpg",
+    "geo": [
+      33.554454,
+      133.537463
+    ]
+  },
+  {
+    "id": "kpx6opv9o",
+    "name": "天神橋付近の駐車場付近より",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opv9o-1759235861993.jpg",
+    "geo": [
+      33.554434,
+      133.537088
+    ],
+    "cn": "天神桥附近的停车场"
+  },
+  {
+    "id": "kpx6opvw3",
+    "name": "サイクルスポーツ",
+    "image": "",
+    "geo": [
+      33.554309,
+      133.53792
+    ]
+  },
+  {
+    "id": "kpx6opwgs",
+    "name": "グランド",
+    "image": "",
+    "geo": [
+      33.552576,
+      133.54201
+    ]
+  },
+  {
+    "id": "kpx6opvu4",
+    "name": "杜崎家付近",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opvu4_1757138164282.jpg",
+    "geo": [
+      33.545468,
+      133.570713
+    ]
+  },
+  {
+    "id": "kpx6opwqu",
+    "name": "新青柳橋夕焼け",
+    "image": "",
+    "geo": [
+      33.545946,
+      133.569808
+    ]
+  },
+  {
+    "id": "kpx6opqk2",
+    "name": "久礼新港",
+    "image": "",
+    "geo": [
+      33.322598,
+      133.234254
+    ]
+  },
+  {
+    "id": "kpx6opwsp",
+    "name": "防波堤",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opwsp-1757071684563.jpg",
+    "geo": [
+      33.324413,
+      133.234456
+    ]
+  },
+  {
+    "id": "kpx6opxa2",
+    "name": "夕焼けを見た防波堤",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opxa2-1757071669652.jpg",
+    "geo": [
+      33.324444,
+      133.237068
+    ]
+  },
+  {
+    "id": "kpx6opxgy",
+    "name": "ティールーム",
+    "image": "",
+    "geo": [
+      35.690734,
+      139.691259
+    ],
+    "cn": "茶室"
+  },
+  {
+    "id": "kpx6opykf",
+    "name": "Hyatt Regency Tokyo ホテル全景",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opykf_1765524624143.jpg",
+    "geo": [
+      35.691032,
+      139.692262
+    ]
+  },
+  {
+    "id": "kpx6opytc",
+    "name": "都議会前　散歩",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opytc_1765524733615.jpg",
+    "geo": [
+      35.689688,
+      139.692771
+    ]
+  },
+  {
+    "id": "kpx6opyla",
+    "name": "散歩 立体交差",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opyla_1757137924530.jpg",
+    "geo": [
+      35.689053,
+      139.692447
+    ]
+  },
+  {
+    "id": "4nhp8n9",
+    "name": "東京​都庁​第一​庁舎（在建）",
+    "image": "https://image.xinu.ink/pic/data/32/images/4nhp8n9_1757137944769.jpg",
+    "geo": [
+      35.689485,
+      139.691719
+    ]
+  },
+  {
+    "id": "kpx6opy4i",
+    "name": "小田急乗り場",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opy4i_1757137987935.jpg",
+    "geo": [
+      35.689705,
+      139.70004
+    ]
+  },
+  {
+    "id": "kpx6opza7",
+    "name": "父親マンション",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opza7_1757137761888.jpg",
+    "geo": [
+      35.641946,
+      139.59883
+    ],
+    "cn": "里伽子父亲所在的公寓"
+  },
+  {
+    "id": "kpx6opz7y",
+    "name": "成城学園坂道",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opz7y_1757137624677.jpg",
+    "geo": [
+      35.64605,
+      139.601418
+    ]
+  },
+  {
+    "id": "kpx6oq09b",
+    "name": "西徳善八幡宮　空港から杜崎家",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6oq09b_1765524815552.jpg",
+    "geo": [
+      33.541486,
+      133.699544
+    ]
+  },
+  {
+    "id": "4me7nkb",
+    "name": "高知空港　エレベーター",
+    "image": "https://image.xinu.ink/pic/data/32/images/4me7nkb-1757071628429.jpg",
+    "geo": [
+      33.547466,
+      133.674279
+    ]
+  },
+  {
+    "id": "4me6j86",
+    "name": "高知空港　搭乗手続き",
+    "image": "https://image.xinu.ink/pic/data/32/images/4me6j86-1757071594786.jpg",
+    "geo": [
+      33.547471,
+      133.674328
+    ]
+  },
+  {
+    "id": "4me4fld",
+    "name": "高知空港　公衆電話1",
+    "image": "https://image.xinu.ink/pic/data/32/images/4me4fld-1757071475501.jpg",
+    "geo": [
+      33.547626,
+      133.674111
+    ]
+  },
+  {
+    "id": "4me3450",
+    "name": "高知空港　公衆電話",
+    "image": "https://image.xinu.ink/pic/data/32/images/4me3450-1757071445037.jpg",
+    "geo": [
+      33.547628,
+      133.674147
+    ]
+  },
+  {
+    "id": "4me533h",
+    "name": "高知空港　通路",
+    "image": "https://image.xinu.ink/pic/data/32/images/4me533h-1757071539830.jpg",
+    "geo": [
+      33.54758,
+      133.674094
+    ]
+  },
+  {
+    "id": "4mdzr6q",
+    "name": "高知空港入口",
+    "image": "https://image.xinu.ink/pic/data/32/images/4mdzr6q-1757071300638.jpg",
+    "geo": [
+      33.547548,
+      133.674316
+    ]
+  },
+  {
+    "id": "5m6vdai",
+    "name": "高知城俯瞰",
+    "image": "https://image.xinu.ink/pic/data/32/images/5m6vdai_1759236207116.jpg",
+    "geo": [
+      33.560619,
+      133.531557
+    ]
+  },
+  {
+    "id": "5m7dmg3",
+    "name": "帯屋町二丁目商店街1",
+    "image": "https://image.xinu.ink/pic/data/32/images/5m7dmg3_1759236914763.jpg",
+    "geo": [
+      33.560059,
+      133.53618
+    ]
   }
 ]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "plhnj7mw8",
+    "name": "横須賀中央駅",
+    "image": "https://image.xinu.ink/pic/data/6822/images/plhnj7mw8_1730355065640.jpg",
+    "geo": [
+      35.278585,
+      139.670524
+    ],
+    "ep": 4,
+    "s": 549,
+    "mark": "京浜急行電鉄",
+    "cn": "横须贺中央站"
+  },
+  {
+    "id": "plhvklwsm",
+    "name": "平和中央公園 展望広場",
+    "image": "https://image.xinu.ink/pic/data/6822/images/plhvklwsm_1730355761056.jpg",
+    "geo": [
+      35.276217,
+      139.673098
+    ],
+    "ep": 4,
+    "s": 1087,
+    "mark": "远望猿岛"
+  },
+  {
+    "id": "plhx3cn2w",
+    "name": "平和中央公園",
+    "image": "https://image.xinu.ink/pic/data/6822/images/plhx3cn2w_1730355749752.jpg",
+    "geo": [
+      35.275451,
+      139.673584
+    ],
+    "ep": 4,
+    "s": 1000
+  },
+  {
+    "id": "pli1lkxx4",
+    "name": "JR横須賀駅",
+    "image": "https://image.xinu.ink/pic/data/6822/images/pli1lkxx4_1730355968417.jpg",
+    "geo": [
+      35.284076,
+      139.655591
+    ],
+    "ep": 2,
+    "s": 473,
+    "mark": "站台",
+    "cn": "JR横须贺站"
+  }
+]

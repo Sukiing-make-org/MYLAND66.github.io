@@ -35,5 +35,56 @@
     ],
     "origin": "Anitabi@卜卜口",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kpx6ohvyv",
+    "name": "海南大附属高校",
+    "image": "",
+    "geo": [
+      38.218408,
+      140.863727
+    ],
+    "mark": "仙台市立富沢中学校：海南大附属高校のモデル学校"
+  },
+  {
+    "id": "kpx6ohw1e",
+    "name": "翔陽",
+    "image": "",
+    "geo": [
+      35.437081,
+      139.493977
+    ],
+    "mark": "松陽高校"
+  },
+  {
+    "id": "kpx6ohwz1",
+    "name": "ちどり荘",
+    "image": "https://image.xinu.ink/pic/data/75/images/kpx6ohwz1-1751861168323.jpg",
+    "geo": [
+      34.476458,
+      132.242134
+    ],
+    "mark": "みどり荘：インターハイに出場した際の宿泊先（已于2013年破产倒闭）"
+  },
+  {
+    "id": "kpx6ohx2c",
+    "name": "決勝トーナメントの会場の１つ",
+    "image": "",
+    "geo": [
+      35.341096,
+      139.338495
+    ],
+    "mark": "平塚総合体育館"
+  },
+  {
+    "id": "40tzbwx",
+    "name": "鎌倉海浜公園",
+    "image": "https://image.xinu.ink/pic/data/75/images/40tzbwx-1755768055597.jpg",
+    "geo": [
+      35.303791,
+      139.531231
+    ],
+    "ep": "2卷",
+    "cn": "镰仓海滨公园"
   }
 ]

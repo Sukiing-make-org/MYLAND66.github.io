@@ -29,5 +29,96 @@
       35.5342,
       138.775
     ]
+  },
+  {
+    "id": "8zvrxol",
+    "name": "六甲山上",
+    "image": "https://image.xinu.ink/pic/data/38/images/8zvrxol-1766594424623.jpg",
+    "geo": [
+      34.751952,
+      135.237017
+    ],
+    "ep": "p14",
+    "s": "19:56",
+    "mark": "这个位置是在xhs刷到的，按照原文应该是日本网友找到的"
+  },
+  {
+    "id": "8zvz5kx",
+    "name": "六甲山缆车站",
+    "image": "https://image.xinu.ink/pic/data/38/images/8zvz5kx-1766594663586.jpg",
+    "geo": [
+      34.751761,
+      135.236771
+    ],
+    "ep": "p14",
+    "s": "19：54"
+  },
+  {
+    "id": "8zw46p0",
+    "name": "六甲山缆车站",
+    "image": "https://image.xinu.ink/pic/data/38/images/8zw46p0-1766594903113.jpg",
+    "geo": [
+      34.751989,
+      135.236778
+    ],
+    "ep": "p14",
+    "s": "19：56",
+    "mark": "夏莉开枪名场面"
+  },
+  {
+    "id": "8zw6aem",
+    "name": "六甲山缆车站",
+    "image": "https://image.xinu.ink/pic/data/38/images/8zw6aem-1766595009599.jpg",
+    "geo": [
+      34.751569,
+      135.23694
+    ],
+    "ep": "p14",
+    "s": "19：56"
+  },
+  {
+    "id": "8zwatjk",
+    "name": "武道馆",
+    "image": "https://image.xinu.ink/pic/data/38/images/8zwatjk-1766595200243.jpg",
+    "geo": [
+      35.693329,
+      139.750117
+    ],
+    "ep": "p12",
+    "s": "21：39",
+    "mark": "从外观上已经可以看出是武道馆，属于是没有大魔改的建筑了"
+  },
+  {
+    "id": "8zwmoxc",
+    "name": "武道馆旁",
+    "image": "https://image.xinu.ink/pic/data/38/images/8zwmoxc-1766595790284.jpg",
+    "geo": [
+      35.692146,
+      139.749301
+    ],
+    "ep": "p12",
+    "s": "21：39",
+    "mark": "其实这个并不是很正确，因为我只去过武道馆，附近没有时间对位置了，各位可以自己巡礼后更正"
+  },
+  {
+    "id": "8zwqshm",
+    "name": "武道馆旁",
+    "image": "https://image.xinu.ink/pic/data/38/images/8zwqshm-1766595938511.jpg",
+    "geo": [
+      35.692185,
+      139.749298
+    ],
+    "ep": "p12",
+    "s": "21：39"
+  },
+  {
+    "id": "8zz48d4",
+    "name": "伊豆山神社",
+    "image": "https://image.xinu.ink/pic/data/38/images/8zz48d4-1766599944882.jpg",
+    "geo": [
+      35.115065,
+      139.083072
+    ],
+    "mark": "朱雀老家，剧情版兴道3分钟，来自xhs"
   }
 ]

@@ -115,5 +115,26 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1vSRFRc6QwnkINi3KEy_6zRnW0YfHVpM&ll=35.65946%2C138.532254&z=17"
+  },
+  {
+    "id": "lbmynfw8t",
+    "name": "シルクロードボウル西甲府",
+    "image": "https://image.xinu.ink/pic/data/73/images/lbmynfw8t_1718298538912.jpg",
+    "geo": [
+      35.639601,
+      138.510916
+    ],
+    "ep": 3,
+    "s": 1290
+  },
+  {
+    "id": "d9c4cb44",
+    "name": "市川大門駅",
+    "image": "",
+    "geo": [
+      35.560469,
+      138.493379
+    ],
+    "mark": "在小说中被提及。"
   }
 ]

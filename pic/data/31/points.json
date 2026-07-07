@@ -241,5 +241,46 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1eZizKGS0WUaRoExyDXeJPk1RzJw&ll=35.659471%2C139.382032&z=17"
+  },
+  {
+    "id": "5q5dr83w",
+    "name": "蔵王刈田リフト",
+    "image": "",
+    "geo": [
+      38.128293,
+      140.438975
+    ],
+    "mark": "トシオがタエ子をドライブに誘った場所",
+    "folder": "山形蔵王"
+  },
+  {
+    "id": "5q5dr97i",
+    "name": "アメ横",
+    "image": "",
+    "geo": [
+      35.711352,
+      139.774614
+    ],
+    "folder": "熱海・東京"
+  },
+  {
+    "id": "5q5dr8w6",
+    "name": "上野駅の17番線",
+    "image": "",
+    "geo": [
+      35.712173,
+      139.775935
+    ],
+    "folder": "熱海・東京"
+  },
+  {
+    "id": "5q5dr8v3",
+    "name": "日野市立豊田小学校",
+    "image": "",
+    "geo": [
+      35.660458,
+      139.389591
+    ],
+    "folder": "熱海・東京"
   }
 ]

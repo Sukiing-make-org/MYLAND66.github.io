@@ -67,5 +67,28 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rwgmvn3t7",
+    "name": "柑子橋（こうじばし）",
+    "image": "https://image.xinu.ink/pic/data/43/images/rwgmvn3t7_1736857071487.jpg",
+    "geo": [
+      34.802836,
+      137.400437
+    ],
+    "ep": 2,
+    "s": 5,
+    "cn": "柑子桥 东岸"
+  },
+  {
+    "id": "rwgqy4p7e",
+    "name": "豊川放水路橋梁",
+    "image": "https://image.xinu.ink/pic/data/43/images/rwgqy4p7e_1736857335795.jpg",
+    "geo": [
+      34.791179,
+      137.363773
+    ],
+    "ep": 6,
+    "s": 231
   }
 ]

@@ -93,5 +93,1116 @@
       35.4404,
       139.6546
     ]
+  },
+  {
+    "id": "r0m3z220v",
+    "name": "五反田橋踏切",
+    "image": "https://image.xinu.ink/pic/data/58/images/r0m3z220v-1734361359269.jpg",
+    "geo": [
+      35.615305,
+      139.544467
+    ],
+    "ep": 1
+  },
+  {
+    "id": "r0mcsfy1v",
+    "name": "三田第１公園",
+    "image": "https://image.xinu.ink/pic/data/58/images/r0mcsfy1v-1734361872389.jpg",
+    "geo": [
+      35.607843,
+      139.54335
+    ],
+    "ep": 7
+  },
+  {
+    "id": "73gw0qn",
+    "name": "加佐ノ岬",
+    "image": "https://image.xinu.ink/pic/data/58/images/73gw0qn-1762457610316.jpg",
+    "geo": [
+      36.35003,
+      136.301319
+    ],
+    "ep": 24,
+    "s": 56,
+    "origin": "PureWhite425"
+  },
+  {
+    "id": "9la5bp1",
+    "name": "踏切",
+    "image": "https://image.xinu.ink/pic/data/58/images/9la5bp1-1767888233871.jpg",
+    "geo": [
+      35.615294,
+      139.544527
+    ],
+    "ep": 17,
+    "s": 161,
+    "mark": "不同集数相同的图"
+  },
+  {
+    "id": "9la7air",
+    "name": "踏切",
+    "image": "https://image.xinu.ink/pic/data/58/images/9la7air-1767888327564.jpg",
+    "geo": [
+      35.615199,
+      139.544535
+    ],
+    "ep": 17,
+    "s": 436,
+    "mark": "不同集数but相同取景"
+  },
+  {
+    "id": "9lanp2l",
+    "name": "c109",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lanp2l-1767889098665.jpg",
+    "geo": [
+      35.659638,
+      139.700175
+    ],
+    "ep": 18,
+    "s": 1016
+  },
+  {
+    "id": "9laovcn",
+    "name": "c109",
+    "image": "https://image.xinu.ink/pic/data/58/images/9laovcn-1767889159535.jpg",
+    "geo": [
+      35.659505,
+      139.700197
+    ],
+    "ep": 18,
+    "s": 1022,
+    "mark": "就在路口拍摄"
+  },
+  {
+    "id": "9lc4hhz",
+    "name": "会展中心",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lc4hhz-1767891568540.jpg",
+    "geo": [
+      35.631337,
+      139.794949
+    ],
+    "ep": 14,
+    "s": 838,
+    "mark": "不清楚具体位置"
+  },
+  {
+    "id": "9lc761f",
+    "name": "三田第1公園",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lc761f-1767891677146.jpg",
+    "geo": [
+      35.608239,
+      139.543589
+    ],
+    "ep": 20,
+    "s": 492,
+    "mark": "还是公园"
+  },
+  {
+    "id": "9lc8nz1",
+    "name": "公园",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lc8nz1-1767891772535.jpg",
+    "geo": [
+      35.608245,
+      139.543649
+    ],
+    "ep": 20,
+    "s": 898,
+    "mark": "男二烧书"
+  },
+  {
+    "id": "9lcpxvv",
+    "name": "三田第1公園",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lcpxvv-1767892559870.jpg",
+    "geo": [
+      35.608158,
+      139.543589
+    ],
+    "ep": 21,
+    "s": 486,
+    "mark": "男二离走前的公园玩耍"
+  },
+  {
+    "id": "9lcwkwk",
+    "name": "z板",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lcwkwk-1767892875388.jpg",
+    "geo": [
+      35.606984,
+      139.54327
+    ],
+    "ep": 21,
+    "s": 1138
+  },
+  {
+    "id": "9lcxvx5",
+    "name": "站内",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lcxvx5-1767892931014.jpg",
+    "geo": [
+      35.615111,
+      139.542279
+    ],
+    "ep": 21,
+    "s": 692,
+    "mark": "买票处"
+  },
+  {
+    "id": "9lcz978",
+    "name": "站内",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lcz978-1767892994885.jpg",
+    "geo": [
+      35.615095,
+      139.542302
+    ],
+    "ep": 21,
+    "s": 703,
+    "mark": "入站口"
+  },
+  {
+    "id": "9ld0933",
+    "name": "站内",
+    "image": "https://image.xinu.ink/pic/data/58/images/9ld0933-1767893036787.jpg",
+    "geo": [
+      35.615101,
+      139.54227
+    ],
+    "ep": 21,
+    "s": 728,
+    "mark": "入站口"
+  },
+  {
+    "id": "9ld1c2c",
+    "name": "三田第1公園",
+    "image": "https://image.xinu.ink/pic/data/58/images/9ld1c2c-1767893097216.jpg",
+    "geo": [
+      35.608229,
+      139.543567
+    ],
+    "ep": 21,
+    "s": 1151,
+    "mark": "女主提出考试的公园见面"
+  },
+  {
+    "id": "9leeisy",
+    "name": "三田第1公園",
+    "image": "https://image.xinu.ink/pic/data/58/images/9leeisy-1767895381275.jpg",
+    "geo": [
+      35.608221,
+      139.543583
+    ],
+    "ep": 22,
+    "s": 1140,
+    "mark": "女主以为不需要她的公园见面"
+  },
+  {
+    "id": "9leg8x3",
+    "name": "三田第1公園",
+    "image": "https://image.xinu.ink/pic/data/58/images/9leg8x3-1767895471328.jpg",
+    "geo": [
+      35.608238,
+      139.543575
+    ],
+    "ep": 23,
+    "s": 120
+  },
+  {
+    "id": "9lekz55",
+    "name": "三田第1公園",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lekz55-1767895681867.jpg",
+    "geo": [
+      35.608234,
+      139.543576
+    ],
+    "ep": 23,
+    "s": 507,
+    "mark": "帮帮帮帮，男主女主情感破裂的公园见面"
+  },
+  {
+    "id": "9lf5j2k",
+    "name": "公园",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lf5j2k-1767896650722.jpg",
+    "geo": [
+      35.608097,
+      139.54361
+    ],
+    "ep": 24,
+    "s": 1248,
+    "mark": "最后的公园"
+  },
+  {
+    "id": "9lfaoco",
+    "name": "上坡",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lfaoco-1767896900917.jpg",
+    "geo": [
+      35.606296,
+      139.54274
+    ],
+    "ep": 11,
+    "s": 1280,
+    "mark": "根据动漫视角是在女主家的下坡路段拍摄，上面就是女主家，但现实不一样，然后男主家也不一样"
+  },
+  {
+    "id": "9lffcy8",
+    "name": "z板前",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lffcy8-1767897110274.jpg",
+    "geo": [
+      35.606899,
+      139.543147
+    ],
+    "ep": 11,
+    "s": 1304,
+    "mark": "根据动漫的推断，怎么说呢，现实还是不相似"
+  },
+  {
+    "id": "9lfgttk",
+    "name": "上坡",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lfgttk-1767897175115.jpg",
+    "geo": [
+      35.606269,
+      139.542781
+    ],
+    "ep": 11,
+    "s": 1284,
+    "mark": "现实只有这一个下坡符合"
+  },
+  {
+    "id": "9ljka2f",
+    "name": "MiLLSTAND​生田​店",
+    "image": "https://image.xinu.ink/pic/data/58/images/9ljka2f-1767904050201.jpg",
+    "geo": [
+      35.614746,
+      139.542244
+    ],
+    "ep": 10,
+    "s": 993,
+    "mark": "这个位置不正确，但后面是河道，还是路口，考虑动漫取景在车站附近只能放这里了，有人确实找到的可以更正，然后这个出口也有取景的"
+  },
+  {
+    "id": "9lj2x2z",
+    "name": "男主家前",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lj2x2z-1767903240021.jpg",
+    "geo": [
+      35.607123,
+      139.542642
+    ],
+    "ep": 24,
+    "s": 1279,
+    "mark": "根据动漫这里是男主在前面的房子回忆以前的房子，其实现实挺不符合的，不一定正确"
+  },
+  {
+    "id": "9lisuh9",
+    "name": "交叉路口",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lisuh9-1767902769232.jpg",
+    "geo": [
+      35.612098,
+      139.540658
+    ],
+    "ep": 23,
+    "s": 995,
+    "mark": "不一定正确，只能说挺像，然后电线杆上的反光镜，左面的取景都挺像，不正确请更正"
+  },
+  {
+    "id": "9lil9iw",
+    "name": "天桥",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lil9iw-1767902419077.jpg",
+    "geo": [
+      35.657441,
+      139.700658
+    ],
+    "ep": 22,
+    "s": 726,
+    "mark": "不确定位置，各位可以自行更正，然后女主破防的位置各位也可以找找"
+  },
+  {
+    "id": "9li6cem",
+    "name": "109前",
+    "image": "https://image.xinu.ink/pic/data/58/images/9li6cem-1767901719077.jpg",
+    "geo": [
+      35.659747,
+      139.699093
+    ],
+    "ep": 21,
+    "s": 1330,
+    "mark": "学姐你好"
+  },
+  {
+    "id": "9li0d11",
+    "name": "书店前",
+    "image": "https://image.xinu.ink/pic/data/58/images/9li0d11-1767901453833.jpg",
+    "geo": [
+      35.659566,
+      139.700203
+    ],
+    "ep": 21,
+    "s": 1294,
+    "mark": "考虑到视角，就在这条路拍摄，不确定具体位置"
+  },
+  {
+    "id": "9lhv2u1",
+    "name": "涩谷站出口",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lhv2u1-1767901190807.jpg",
+    "geo": [
+      35.659167,
+      139.70097
+    ],
+    "ep": 21,
+    "s": 1235,
+    "mark": "应该是出闸的位置"
+  },
+  {
+    "id": "9lhehjo",
+    "name": "五反田橋踏切",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lhehjo-1767900426943.jpg",
+    "geo": [
+      35.615308,
+      139.544511
+    ],
+    "ep": 21,
+    "s": 780,
+    "mark": "后面黄色的停车牌，以及限速牌，但其实现实还是差别大，考虑动漫的取景思路还是选择了这个取景位置"
+  },
+  {
+    "id": "9lh9l5v",
+    "name": "男主家前",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lh9l5v-1767900208974.jpg",
+    "geo": [
+      35.607112,
+      139.542643
+    ],
+    "ep": 21,
+    "s": 677,
+    "mark": "动漫的是男主家前面的取景，但现实没有右面的高楼，还有男主家没了"
+  },
+  {
+    "id": "9lgd6ej",
+    "name": "热海沙滩",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lgd6ej-1767898691457.jpg",
+    "geo": [
+      35.097343,
+      139.076453
+    ],
+    "ep": 12,
+    "s": 357,
+    "mark": "动漫是海上拍摄视角，现实可以在沙滩附近拍那个棕色的房子来巡礼"
+  },
+  {
+    "id": "9lg5tsz",
+    "name": "热海站",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lg5tsz-1767898343138.jpg",
+    "geo": [
+      35.103331,
+      139.078421
+    ],
+    "ep": 12,
+    "s": 285,
+    "mark": "不知道该不该放这里，主要现在变化太大了，外形基本没了，但动漫后面的取景是热海港的取景，而且新干线上的车站只有热海了"
+  },
+  {
+    "id": "9lfut6j",
+    "name": "新横滨站新干线购买处",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lfut6j-1767897833757.jpg",
+    "geo": [
+      35.507743,
+      139.617351
+    ],
+    "ep": 12,
+    "s": 163,
+    "mark": "不清楚具体位置，各位导航到站内自己寻找"
+  },
+  {
+    "id": "9lfkez9",
+    "name": "路口",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lfkez9-1767897369313.jpg",
+    "geo": [
+      35.606642,
+      139.542833
+    ],
+    "ep": 11,
+    "s": 1318,
+    "mark": "现实没有这个分岔口，但动漫是路口，就只能在这里拍了"
+  },
+  {
+    "id": "9lft6fe",
+    "name": "新横滨站前",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lft6fe-1767897764498.jpg",
+    "geo": [
+      35.506105,
+      139.617992
+    ],
+    "ep": 12,
+    "s": 253,
+    "mark": "在上坡拍"
+  },
+  {
+    "id": "9lfxwc5",
+    "name": "新横滨站",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lfxwc5-1767897986045.jpg",
+    "geo": [
+      35.508222,
+      139.616634
+    ],
+    "ep": 12,
+    "s": 154,
+    "mark": "满足的车站只有前面的站前，主要变化太大，不好看了"
+  },
+  {
+    "id": "9lg0q23",
+    "name": "ロイヤル​ホスト\n新横浜​駅​ビル​店",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lg0q23-1767898098249.jpg",
+    "geo": [
+      35.507676,
+      139.617336
+    ],
+    "ep": 12,
+    "s": 160,
+    "mark": "新干线购票处"
+  },
+  {
+    "id": "9lgbcaw",
+    "name": "热海港口",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lgbcaw-1767898606354.jpg",
+    "geo": [
+      35.096253,
+      139.076432
+    ],
+    "ep": 12,
+    "s": 301,
+    "mark": "港口怎么说呢变化也大，参考性不大"
+  },
+  {
+    "id": "9lghwbu",
+    "name": "热海港",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lghwbu-1767898906109.jpg",
+    "geo": [
+      35.095944,
+      139.076258
+    ],
+    "ep": 14,
+    "s": 489,
+    "mark": "可以看见明显的热海港，那根据动漫可以推断小岛就在热海附近，各位可以自己找一找"
+  },
+  {
+    "id": "9lgud89",
+    "name": "関ヶ原",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lgud89-1767899479373.jpg",
+    "geo": [
+      35.363727,
+      136.470822
+    ],
+    "ep": 17,
+    "s": 553,
+    "mark": "根据动漫的名称在谷歌搜出来的，前后的车站不一样，不一定正确，有知道的请更正"
+  },
+  {
+    "id": "9lhbcqr",
+    "name": "男子家前",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lhbcqr-1767900288121.jpg",
+    "geo": [
+      35.607105,
+      139.542634
+    ],
+    "ep": 21,
+    "s": 680,
+    "mark": "后面的房子外形还是挺像的，反正是按动漫的取景思路来的"
+  },
+  {
+    "id": "9lhnvjj",
+    "name": "坡上",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lhnvjj-1767900854670.jpg",
+    "geo": [
+      35.606263,
+      139.542772
+    ],
+    "ep": 21,
+    "s": 1030,
+    "mark": "女主视角拍摄"
+  },
+  {
+    "id": "9lhsath",
+    "name": "涩谷站前",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lhsath-1767901070681.jpg",
+    "geo": [
+      35.659442,
+      139.700494
+    ],
+    "ep": 21,
+    "s": 1235
+  },
+  {
+    "id": "9lhkpoj",
+    "name": "踏切",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lhkpoj-1767900714890.jpg",
+    "geo": [
+      35.615236,
+      139.544477
+    ],
+    "ep": 21,
+    "s": 788,
+    "mark": "考虑到动漫取景顺序，还有前后的踏切，都不满足动漫取景，但这个位置也不满足，根据男主的走路取景顺序只能放这里了，有错请更正"
+  },
+  {
+    "id": "9lhr41c",
+    "name": "生田站内购票处",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lhr41c-1767901006217.jpg",
+    "geo": [
+      35.615031,
+      139.542183
+    ],
+    "ep": 21,
+    "s": 1215
+  },
+  {
+    "id": "9lhpbgk",
+    "name": "男主家前",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lhpbgk-1767900923792.jpg",
+    "geo": [
+      35.607133,
+      139.542676
+    ],
+    "ep": 21,
+    "s": 1034,
+    "mark": "动漫取景在男主家前，房子结构还是挺像的，然后反光板是反方向"
+  },
+  {
+    "id": "9li2mgq",
+    "name": "书店前",
+    "image": "https://image.xinu.ink/pic/data/58/images/9li2mgq-1767901544289.jpg",
+    "geo": [
+      35.659571,
+      139.700202
+    ],
+    "ep": 21,
+    "s": 1270,
+    "mark": "根据视角来的，不准确，然后这个书店应该是ed的取景"
+  },
+  {
+    "id": "9lhwxh8",
+    "name": "涩谷站前",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lhwxh8-1767901279326.jpg",
+    "geo": [
+      35.65904,
+      139.70101
+    ],
+    "ep": 21,
+    "s": 1246,
+    "mark": "现实变化挺大，但动漫位置就在这里了，还好还可以拍这个视角"
+  },
+  {
+    "id": "9li50hj",
+    "name": "109前",
+    "image": "https://image.xinu.ink/pic/data/58/images/9li50hj-1767901654615.jpg",
+    "geo": [
+      35.659757,
+      139.699161
+    ],
+    "ep": 21,
+    "s": 1321,
+    "mark": "现实肯定是没有这个视角了，但在路口拍还是可以的"
+  },
+  {
+    "id": "9li7o0z",
+    "name": "109前",
+    "image": "https://image.xinu.ink/pic/data/58/images/9li7o0z-1767901781261.jpg",
+    "geo": [
+      35.659424,
+      139.699325
+    ],
+    "ep": 22,
+    "s": 1474,
+    "mark": "在人行道前拍摄"
+  },
+  {
+    "id": "9lion5x",
+    "name": "公园前",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lion5x-1767902573370.jpg",
+    "geo": [
+      35.607617,
+      139.542891
+    ],
+    "ep": 22,
+    "s": "17；48",
+    "mark": "不一定正确，根据动漫推断，后面是公园取景，附近的公园弯曲路线，而且还有房子曲线只能放这里了"
+  },
+  {
+    "id": "9liyrnd",
+    "name": "神社前",
+    "image": "https://image.xinu.ink/pic/data/58/images/9liyrnd-1767903047105.jpg",
+    "geo": [
+      35.614118,
+      139.543731
+    ],
+    "ep": 24,
+    "s": 1200,
+    "mark": "后面的房子太难看了，然后高度挺合适的，不保证正确哦，其他的位置找不动力，比如女主的打工位置，一些便利店，还有几张有关火车的取景啊，反正剩下的各位去找吧，累了喵"
+  },
+  {
+    "id": "9lj9iu4",
+    "name": "理发店前",
+    "image": "https://image.xinu.ink/pic/data/58/images/9lj9iu4-1767903545382.jpg",
+    "geo": [
+      35.612212,
+      139.543101
+    ],
+    "ep": 10,
+    "s": 1136,
+    "mark": "这个向下看就行，然后这一集的跟踪取景找不动了喵，各位自己找吧，加油了，各位"
+  },
+  {
+    "id": "9livib2",
+    "name": "踏切",
+    "image": "https://image.xinu.ink/pic/data/58/images/9livib2-1767902894117.jpg",
+    "geo": [
+      35.615242,
+      139.544506
+    ],
+    "ep": 23,
+    "s": 1029,
+    "mark": "房子突起位置一样"
+  },
+  {
+    "id": "9k1mq5g",
+    "name": "五反田桥",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k1mq5g-1767813496436.jpg",
+    "geo": [
+      35.615063,
+      139.544489
+    ],
+    "ep": 1,
+    "s": 989,
+    "mark": "除了前面的桥看得出来，剩下的以及变化很大了"
+  },
+  {
+    "id": "9k27kbs",
+    "name": "公园",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k27kbs-1767814458052.jpg",
+    "geo": [
+      35.607768,
+      139.54308
+    ],
+    "ep": 6,
+    "s": 1282,
+    "mark": "给别人补一下时间"
+  },
+  {
+    "id": "9k294xj",
+    "name": "公园",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k294xj-1767814512603.jpg",
+    "geo": [
+      35.607751,
+      139.543
+    ],
+    "ep": 2,
+    "s": 655
+  },
+  {
+    "id": "9k2dw83",
+    "name": "楼梯",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k2dw83-1767814734590.jpg",
+    "geo": [
+      35.613195,
+      139.543018
+    ],
+    "ep": 1,
+    "s": 972,
+    "mark": "房子变化没怎么变，主要楼梯明显"
+  },
+  {
+    "id": "9k314in",
+    "name": "桥",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k314in-1767815819193.jpg",
+    "geo": [
+      35.61506,
+      139.544508
+    ],
+    "ep": 4,
+    "s": 641
+  },
+  {
+    "id": "9k37m50",
+    "name": "秋叶原路口",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k37m50-1767816151137.jpg",
+    "geo": [
+      35.699615,
+      139.771367
+    ],
+    "ep": 4,
+    "s": 1237,
+    "mark": "外观变了，但旁边的光字楼还在"
+  },
+  {
+    "id": "9k39pys",
+    "name": "秋叶原",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k39pys-1767816221052.jpg",
+    "geo": [
+      35.699584,
+      139.77147
+    ],
+    "ep": 4,
+    "s": 1244
+  },
+  {
+    "id": "9k3coh1",
+    "name": "电话亭",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k3coh1-1767816368786.jpg",
+    "geo": [
+      35.699793,
+      139.771547
+    ],
+    "ep": 4,
+    "s": 1333,
+    "mark": "附近只有这个外面的电话亭，2025年谷歌的视角"
+  },
+  {
+    "id": "9k3egjq",
+    "name": "电话亭",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k3egjq-1767816440485.jpg",
+    "geo": [
+      35.699792,
+      139.771569
+    ],
+    "ep": 4,
+    "s": 1339,
+    "mark": "根据电话亭可以推出在这一面，主要现在楼变了"
+  },
+  {
+    "id": "9k3k34a",
+    "name": "三田第1公園",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k3k34a-1767816709582.jpg",
+    "geo": [
+      35.608,
+      139.543149
+    ],
+    "ep": 5,
+    "s": 709,
+    "mark": "学姐见面后的公园"
+  },
+  {
+    "id": "9k3p4dj",
+    "name": "公园",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k3p4dj-1767816946282.jpg",
+    "geo": [
+      35.608031,
+      139.543237
+    ],
+    "ep": 5,
+    "s": 960,
+    "mark": "秘密笔记"
+  },
+  {
+    "id": "9k3qnrl",
+    "name": "踏切",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k3qnrl-1767817004932.jpg",
+    "geo": [
+      35.615183,
+      139.544519
+    ],
+    "ep": 5,
+    "s": 905,
+    "mark": "不同集数同一视角拍摄"
+  },
+  {
+    "id": "9l9frmg",
+    "name": "公园",
+    "image": "https://image.xinu.ink/pic/data/58/images/9l9frmg-1767887040833.jpg",
+    "geo": [
+      35.608242,
+      139.543628
+    ],
+    "ep": 14,
+    "s": 1244,
+    "mark": "和学姐去“蜜月”的公园教课"
+  },
+  {
+    "id": "9l9ee26",
+    "name": "公园",
+    "image": "https://image.xinu.ink/pic/data/58/images/9l9ee26-1767886983839.jpg",
+    "geo": [
+      35.608276,
+      139.543533
+    ],
+    "ep": 15,
+    "s": 715
+  },
+  {
+    "id": "9k3tsg2",
+    "name": "三田第1公園",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k3tsg2-1767817158293.jpg",
+    "geo": [
+      35.608168,
+      139.543454
+    ],
+    "ep": 6,
+    "s": 248,
+    "mark": "教男主说话"
+  },
+  {
+    "id": "9k4bhq7",
+    "name": "全家便利店",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k4bhq7-1767817986997.jpg",
+    "geo": [
+      35.684905,
+      139.701301
+    ],
+    "ep": 6,
+    "s": 605,
+    "mark": "根据动漫的便利店颜色以及有楼梯建筑，还好楼梯没有拆了，可以看见还有饮料机的"
+  },
+  {
+    "id": "9k4e3wu",
+    "name": "代代木站内",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k4e3wu-1767818112485.jpg",
+    "geo": [
+      35.68408,
+      139.702037
+    ],
+    "ep": 6,
+    "s": 644,
+    "mark": "不知道具体位置"
+  },
+  {
+    "id": "9k4f8f9",
+    "name": "代代木站",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k4f8f9-1767818152266.jpg",
+    "geo": [
+      35.684043,
+      139.70205
+    ],
+    "mark": "要不是这个车站的英文我还找不出来"
+  },
+  {
+    "id": "9k4gpt4",
+    "name": "全家便利店",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k4gpt4-1767818234207.jpg",
+    "geo": [
+      35.684875,
+      139.701354
+    ],
+    "ep": 6,
+    "s": 657,
+    "mark": "饮料机没了"
+  },
+  {
+    "id": "9k4og2j",
+    "name": "三田第1公園",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k4og2j-1767818585861.jpg",
+    "geo": [
+      35.608172,
+      139.543491
+    ],
+    "ep": 6,
+    "s": 1309,
+    "mark": "出门总结"
+  },
+  {
+    "id": "9k4poe0",
+    "name": "Ｚ坂",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k4poe0-1767818638070.jpg",
+    "geo": [
+      35.607026,
+      139.543299
+    ],
+    "ep": 7,
+    "s": 639,
+    "mark": "补时间"
+  },
+  {
+    "id": "9k4wreh",
+    "name": "b13出口",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k4wreh-1767818973264.jpg",
+    "geo": [
+      35.692503,
+      139.700938
+    ],
+    "ep": 7,
+    "s": 1025,
+    "mark": "根据后面的拍摄推断这里，动漫没有现在两栋楼"
+  },
+  {
+    "id": "9k4zs4l",
+    "name": "b13出口",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k4zs4l-1767819112699.jpg",
+    "geo": [
+      35.692524,
+      139.700963
+    ],
+    "ep": 7,
+    "s": 1020,
+    "mark": "出来一看就看见"
+  },
+  {
+    "id": "9k5ihrl",
+    "name": "天桥",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k5ihrl-1767819987255.jpg",
+    "geo": [
+      35.687019,
+      139.702022
+    ],
+    "ep": 7,
+    "s": 1100,
+    "mark": "在天桥上拍就行，找这个位置我发现好像还是心理测量者的取景，第一季要不就在附近"
+  },
+  {
+    "id": "9k5kt5l",
+    "name": "天桥楼梯下",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k5kt5l-1767820091545.jpg",
+    "geo": [
+      35.686829,
+      139.700621
+    ],
+    "ep": 7,
+    "s": 1084
+  },
+  {
+    "id": "9k5mkm5",
+    "name": "三田第1公園",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k5mkm5-1767820178096.jpg",
+    "geo": [
+      35.608228,
+      139.543652
+    ],
+    "ep": 7,
+    "s": 1187,
+    "mark": "约会后的复盘"
+  },
+  {
+    "id": "9k5o8r0",
+    "name": "天桥",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k5o8r0-1767820274387.jpg",
+    "geo": [
+      35.686989,
+      139.702031
+    ],
+    "ep": 7,
+    "s": 1080,
+    "mark": "男主有一点变化了"
+  },
+  {
+    "id": "9k5tof1",
+    "name": "羽田2号出口",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k5tof1-1767820538183.jpg",
+    "geo": [
+      35.548989,
+      139.784336
+    ],
+    "ep": 8,
+    "s": 148,
+    "mark": "不清楚位置"
+  },
+  {
+    "id": "9k5v656",
+    "name": "2号出口",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k5v656-1767820577570.jpg",
+    "geo": [
+      35.548884,
+      139.784389
+    ],
+    "ep": 8,
+    "s": 148,
+    "mark": "不清楚位置"
+  },
+  {
+    "id": "9k5xxcl",
+    "name": "中華街大通り",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k5xxcl-1767820707932.jpg",
+    "geo": [
+      35.443068,
+      139.644142
+    ],
+    "ep": 8,
+    "s": 733,
+    "mark": "补时间"
+  },
+  {
+    "id": "9k5zwb0",
+    "name": "船前",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k5zwb0-1767820832268.jpg",
+    "geo": [
+      35.446179,
+      139.649871
+    ],
+    "ep": 8,
+    "s": 1052,
+    "mark": "文豪野犬取景之一"
+  },
+  {
+    "id": "9k66mdy",
+    "name": "站前",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k66mdy-1767821116321.jpg",
+    "geo": [
+      35.615254,
+      139.542179
+    ],
+    "ep": 9,
+    "s": 1177
+  },
+  {
+    "id": "9k6dqfc",
+    "name": "根岸稲荷大明神",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k6dqfc-1767821441685.jpg",
+    "geo": [
+      35.616923,
+      139.553148
+    ],
+    "ep": 9,
+    "s": 1293,
+    "mark": "不确定，只在附近找到了一个山上的神社，有去的可以更正"
+  },
+  {
+    "id": "9k6fgpm",
+    "name": "神社",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k6fgpm-1767821522592.jpg",
+    "geo": [
+      35.616919,
+      139.553173
+    ],
+    "ep": 9,
+    "s": 1300,
+    "mark": "不确定"
+  },
+  {
+    "id": "9k6hhwz",
+    "name": "三田第1公園",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k6hhwz-1767821623592.jpg",
+    "geo": [
+      35.608181,
+      139.5437
+    ],
+    "ep": 10,
+    "s": 550,
+    "mark": "萌生感情的双方"
+  },
+  {
+    "id": "9k73hgb",
+    "name": "理发店路口",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k73hgb-1767822658232.jpg",
+    "geo": [
+      35.612219,
+      139.543214
+    ],
+    "ep": 10,
+    "s": 1100,
+    "mark": "通过外形可以判断，有突起，有长条"
+  },
+  {
+    "id": "9k764u4",
+    "name": "理发店路口",
+    "image": "https://image.xinu.ink/pic/data/58/images/9k764u4-1767822768188.jpg",
+    "geo": [
+      35.612253,
+      139.54312
+    ],
+    "ep": 10,
+    "s": 1105,
+    "mark": "按前面的视角推断"
+  },
+  {
+    "id": "as81y50",
+    "name": "楼梯后",
+    "image": "https://image.xinu.ink/pic/data/58/images/as81y50-1770484769199.jpg",
+    "geo": [
+      35.606313,
+      139.542497
+    ],
+    "ep": 24,
+    "s": 794,
+    "mark": "忘记那集了，这个位置还是我巡礼，在女主家的视角看见东京塔想拍一张有楼梯的广角，上楼梯后往里面走才看见这个取景，意外之喜了是"
   }
 ]

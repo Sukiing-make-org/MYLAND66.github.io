@@ -1,0 +1,115 @@
+[
+  {
+    "id": "12widqc",
+    "name": "Duomo di Milano",
+    "image": "https://image.xinu.ink/pic/data/6806/images/12widqc-1749362726618.jpg",
+    "geo": [
+      45.46455,
+      9.190481
+    ],
+    "ep": 4,
+    "cn": "米兰大教堂"
+  },
+  {
+    "id": "135irmg",
+    "name": "London Bridge",
+    "image": "https://image.xinu.ink/pic/data/6806/images/135irmg-1749377833122.jpg",
+    "geo": [
+      51.508032,
+      -0.087681
+    ],
+    "ep": 9,
+    "cn": "伦敦桥"
+  },
+  {
+    "id": "135nkhp",
+    "name": "Westminster Bridge",
+    "image": "https://image.xinu.ink/pic/data/6806/images/135nkhp-1749378052747.jpg",
+    "geo": [
+      51.500859,
+      -0.121777
+    ],
+    "ep": 9,
+    "mark": "右侧钟塔为伊丽莎白塔（大本钟），左侧为威斯敏斯特宫",
+    "cn": "威斯敏斯特桥"
+  },
+  {
+    "id": "1363yro",
+    "name": "Brussel City Hall",
+    "image": "https://image.xinu.ink/pic/data/6806/images/1363yro-1749378814689.jpg",
+    "geo": [
+      50.846661,
+      4.352096
+    ],
+    "ep": 10,
+    "cn": "布鲁塞尔市政厅"
+  },
+  {
+    "id": "1365u4v",
+    "name": "Gare de Bruxelles-Midi",
+    "image": "https://image.xinu.ink/pic/data/6806/images/1365u4v-1749378914072.jpg",
+    "geo": [
+      50.841164,
+      4.348655
+    ],
+    "ep": 10,
+    "mark": "TGV（欧洲之星）终点站比利时布鲁塞尔南站",
+    "cn": "布鲁塞尔南站"
+  },
+  {
+    "id": "136gaqj",
+    "name": "Memphis and its Necropolis - the Pyramid Fields from Giza to Dahshur",
+    "image": "https://image.xinu.ink/pic/data/6806/images/136gaqj-1749379414384.jpg",
+    "geo": [
+      29.980529,
+      31.135802
+    ],
+    "ep": 10,
+    "mark": "最大那座为胡夫金字塔",
+    "cn": "吉萨金字塔群"
+  },
+  {
+    "id": "136o6dh",
+    "name": "قلعة صلاح الدين الأيوبي",
+    "image": "https://image.xinu.ink/pic/data/6806/images/136o6dh-1749379754987.jpg",
+    "geo": [
+      30.028985,
+      31.259727
+    ],
+    "ep": 10,
+    "cn": "萨拉赫丁艾尤布城堡"
+  },
+  {
+    "id": "1379p1b",
+    "name": "Statua di Leonardo da Vinci",
+    "image": "https://image.xinu.ink/pic/data/6806/images/1379p1b-1749380764126.jpg",
+    "geo": [
+      45.466969,
+      9.190005
+    ],
+    "ep": 10,
+    "cn": "达芬奇纪念碑"
+  },
+  {
+    "id": "137xj8v",
+    "name": "Santa Lucia",
+    "image": "https://image.xinu.ink/pic/data/6806/images/137xj8v-1749381891160.jpg",
+    "geo": [
+      48.851694,
+      2.333688
+    ],
+    "ep": "4",
+    "mark": "已永久停业，可根据旁边22号门牌定位"
+  },
+  {
+    "id": "106ft818r6",
+    "name": "Salle Pleyel",
+    "image": "https://image.xinu.ink/pic/data/6806/images/137hks4-1749381150476.jpg",
+    "geo": [
+      48.87702,
+      2.301097
+    ],
+    "ep": "5",
+    "cn": "普莱耶尔音乐厅"
+  }
+]

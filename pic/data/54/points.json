@@ -334,5 +334,100 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=17OLLfoQprV4Z7hQC0Q2xqW8VSV8&ll=35.788598%2C139.710892&z=17"
+  },
+  {
+    "id": "kpx6ov1si",
+    "name": "高島屋付近（２Ｆ）",
+    "image": "",
+    "geo": [
+      35.687063,
+      139.701985
+    ],
+    "mark": "９話"
+  },
+  {
+    "id": "kpx6ov7dq",
+    "name": "志賀プリンスホテル",
+    "image": "https://image.xinu.ink/pic/data/54/images/kpx6ov7dq-1744908004019.jpg",
+    "geo": [
+      36.684845,
+      138.497
+    ],
+    "ep": 21,
+    "s": 348,
+    "mark": "21話",
+    "cn": "龙儿他们去雪山毕业旅行住的地方"
+  },
+  {
+    "id": "pzng820ag",
+    "name": "新河岸川 北",
+    "image": "https://image.xinu.ink/pic/data/54/images/pzng820ag-1731464841487.jpg",
+    "geo": [
+      35.788004,
+      139.706716
+    ],
+    "ep": 14,
+    "s": 1124,
+    "folder": "北赤羽駅"
+  },
+  {
+    "id": "pzrr3j4n5",
+    "name": "上板桥南口银座",
+    "image": "https://image.xinu.ink/pic/data/54/images/pzrr3j4n5-1731474161510.jpg",
+    "geo": [
+      35.763372,
+      139.676019
+    ],
+    "ep": 18,
+    "s": 742,
+    "folder": "上板桥"
+  },
+  {
+    "id": "qb0knrtfn",
+    "name": "となりの八百屋",
+    "image": "https://image.xinu.ink/pic/data/54/images/qb0knrtfn-1732355498131.jpg",
+    "geo": [
+      35.763004,
+      139.675563
+    ],
+    "ep": 20,
+    "s": 615,
+    "mark": "上板桥出来往西南走",
+    "folder": "上板桥"
+  },
+  {
+    "id": "qb01832he",
+    "name": "東京味噌らーめん鶉(うずら)",
+    "image": "https://image.xinu.ink/pic/data/54/images/qb01832he-1732354366732.jpg",
+    "geo": [
+      35.70574,
+      139.543943
+    ],
+    "ep": 24,
+    "s": 507
+  },
+  {
+    "id": "qb4x490tc",
+    "name": "浮間橋",
+    "image": "https://image.xinu.ink/pic/data/54/images/qb4x490tc-1732364901546.jpg",
+    "geo": [
+      35.786703,
+      139.706509
+    ],
+    "ep": 6,
+    "s": 995,
+    "folder": "北赤羽駅"
+  },
+  {
+    "id": "qbx7171ad",
+    "name": "コルヌイエ南阿佐谷",
+    "image": "https://image.xinu.ink/pic/data/54/images/qbx7171ad-1732426437177.jpg",
+    "geo": [
+      35.702691,
+      139.636334
+    ],
+    "ep": 24,
+    "s": 283,
+    "mark": "原型已拆除，现在应该是一栋公寓"
   }
 ]

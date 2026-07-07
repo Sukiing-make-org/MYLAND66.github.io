@@ -385,5 +385,38 @@
     ],
     "origin": "Anitabi@LovelySummer Channel",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "sfce46e6g",
+    "name": "札幌",
+    "image": "https://image.xinu.ink/pic/data/46/images/sfce46e6g_1738336754541.jpg",
+    "geo": [
+      43.068718,
+      141.351009
+    ],
+    "ep": 4,
+    "s": 856
+  },
+  {
+    "id": "sfcgf85oa",
+    "name": "札幌",
+    "image": "https://image.xinu.ink/pic/data/46/images/sfcgf85oa_1738336891660.jpg",
+    "geo": [
+      43.068406,
+      141.349615
+    ],
+    "ep": 4,
+    "s": 852
+  },
+  {
+    "id": "sfclwyrmn",
+    "name": "成田机场T2航站楼",
+    "image": "https://image.xinu.ink/pic/data/46/images/sfclwyrmn_1738337226435.jpg",
+    "geo": [
+      35.774831,
+      140.394825
+    ],
+    "ep": 12,
+    "s": 1098
   }
 ]

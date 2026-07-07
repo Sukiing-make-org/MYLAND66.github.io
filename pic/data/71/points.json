@@ -235,5 +235,38 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1v4lPr98QuAyZiuc_HbLOQjbmjfA&ll=38.951715%2C-77.447893&z=17"
+  },
+  {
+    "id": "kpx6ohdyn",
+    "name": "03 Entrance 1 to White House E st.",
+    "image": "",
+    "geo": [
+      38.895388,
+      -77.039459
+    ],
+    "mark": "blocked as usual, no unauthorized vehicle access.",
+    "folder": "Untitled layer"
+  },
+  {
+    "id": "kpx6ohebg",
+    "name": "03 White House",
+    "image": "",
+    "geo": [
+      38.897504,
+      -77.036659
+    ],
+    "mark": "I am pretty sure sniper over here can shoot down anyone with a pistol, & naked.",
+    "folder": "Untitled layer"
+  },
+  {
+    "id": "kpx6ohh40",
+    "name": "12 Target Lost?",
+    "image": "",
+    "geo": [
+      38.896243,
+      -77.022995
+    ],
+    "mark": "Possible Scene 9:55+ from ep1",
+    "folder": "Untitled layer"
   }
 ]
