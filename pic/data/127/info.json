@@ -16,10 +16,18 @@
       ]
     }
   ],
-  "pointsLength": 1,
+  "pointsLength": 11,
   "imagesLength": 1,
   "local_id": 127,
   "region": [
     "虻田郡"
-  ]
+  ],
+  "city": "小樽市",
+  "color": "#000d75",
+  "cat": "游戏",
+  "geo": [
+    43.202278,
+    141.002125
+  ],
+  "zoom": 14.3
 }

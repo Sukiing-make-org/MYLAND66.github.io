@@ -9,5 +9,142 @@
       34.6685,
       135.5046
     ]
+  },
+  {
+    "id": "uctrosxcz",
+    "name": "新大阪駅",
+    "image": "https://image.xinu.ink/pic/data/107/images/uctrosxcz_1743785798059.jpg",
+    "geo": [
+      34.73347,
+      135.50066
+    ],
+    "s": 544
+  },
+  {
+    "id": "uctu0bsus",
+    "name": "新大阪駅前",
+    "image": "https://image.xinu.ink/pic/data/107/images/uctu0bsus_1743785810325.jpg",
+    "geo": [
+      34.733061,
+      135.500837
+    ],
+    "s": 553
+  },
+  {
+    "id": "uctuqb8ae",
+    "name": "片町橋",
+    "image": "https://image.xinu.ink/pic/data/107/images/uctuqb8ae_1743785832179.jpg",
+    "geo": [
+      34.693266,
+      135.528687
+    ],
+    "s": 686
+  },
+  {
+    "id": "uctuzc3rm",
+    "name": "城見1西交差点",
+    "image": "https://image.xinu.ink/pic/data/107/images/uctuzc3rm_1743785844414.jpg",
+    "geo": [
+      34.692188,
+      135.529524
+    ],
+    "s": 696
+  },
+  {
+    "id": "ucv3qwktq",
+    "name": "大阪府警察本部旧庁舎",
+    "image": "https://image.xinu.ink/pic/data/107/images/ucv3qwktq_1743785859583.jpg",
+    "geo": [
+      34.683729,
+      135.520033
+    ],
+    "s": 704,
+    "mark": "1959~1998"
+  },
+  {
+    "id": "ucu4y3ydd",
+    "name": "今宮戎神社",
+    "image": "https://image.xinu.ink/pic/data/107/images/ucu4y3ydd_1743785886412.jpg",
+    "geo": [
+      34.655194,
+      135.502481
+    ],
+    "s": 1178,
+    "mark": "难波布袋神社的原型"
+  },
+  {
+    "id": "ucu56dekk",
+    "name": "今宮戎神社 東門",
+    "image": "https://image.xinu.ink/pic/data/107/images/ucu56dekk_1743785903115.jpg",
+    "geo": [
+      34.65502,
+      135.502687
+    ],
+    "s": 1259
+  },
+  {
+    "id": "ucub6eukh",
+    "name": "大阪城",
+    "image": "https://image.xinu.ink/pic/data/107/images/ucub6eukh_1743785921496.jpg",
+    "geo": [
+      34.688227,
+      135.524462
+    ],
+    "s": 1407
+  },
+  {
+    "id": "ucuf8l8ty",
+    "name": "通天閣",
+    "image": "https://image.xinu.ink/pic/data/107/images/ucuf8l8ty_1743785936025.jpg",
+    "geo": [
+      34.651816,
+      135.506036
+    ],
+    "s": 1486
+  },
+  {
+    "id": "uculbftc6",
+    "name": "RRビル",
+    "image": "https://image.xinu.ink/pic/data/107/images/uculbftc6_1743785948918.jpg",
+    "geo": [
+      34.686886,
+      135.508602
+    ],
+    "s": 1554,
+    "mark": "中森警部"
+  },
+  {
+    "id": "ucw45qhfd",
+    "name": "京セラ​ドーム​大阪",
+    "image": "https://image.xinu.ink/pic/data/107/images/ucw45qhfd_1743786837228.jpg",
+    "geo": [
+      34.669315,
+      135.476046
+    ],
+    "s": 1833,
+    "mark": "基德飞过上空",
+    "cn": "大阪巨蛋"
+  },
+  {
+    "id": "ucw8j4oj9",
+    "name": "天保山大橋",
+    "image": "https://image.xinu.ink/pic/data/107/images/ucw8j4oj9_1743787172154.jpg",
+    "geo": [
+      34.659473,
+      135.432467
+    ],
+    "s": 1837,
+    "mark": "基德飞过上空"
+  },
+  {
+    "id": "ucwfradqs",
+    "name": "大阪・海遊館",
+    "image": "https://image.xinu.ink/pic/data/107/images/ucwfradqs_1743787559490.jpg",
+    "geo": [
+      34.654587,
+      135.429395
+    ],
+    "s": 1881,
+    "mark": "基德降落"
   }
 ]

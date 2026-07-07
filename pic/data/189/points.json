@@ -10,5 +10,48 @@
       43.1965,
       140.8548
     ]
+  },
+  {
+    "id": "8lo7k5z",
+    "name": "花園エリア",
+    "image": "https://image.xinu.ink/pic/data/189/images/8lo7k5z-1765735484227.jpg",
+    "geo": [
+      43.191887,
+      140.999613
+    ],
+    "ep": 1,
+    "s": "130",
+    "mark": "電影開頭Black stone慶功宴結束後走的樓梯。\n左側房屋現已拆除",
+    "folder": "地點",
+    "origin": "羽燕"
+  },
+  {
+    "id": "8lpn3r3",
+    "name": "ニッカウヰスキー 余市蒸溜所",
+    "image": "https://image.xinu.ink/pic/data/189/images/8lpn3r3-1765737523428.jpg",
+    "geo": [
+      43.187213,
+      140.790032
+    ],
+    "ep": 1,
+    "s": "1865",
+    "mark": "電影版中蓮與娜娜住的倉庫，北港倉庫\n但該區域不可進入",
+    "folder": "地點",
+    "origin": "羽燕",
+    "cn": "Nikka威士忌余市蒸餾所工廠"
+  },
+  {
+    "id": "8lpw3jv",
+    "name": "旧事務所",
+    "image": "https://image.xinu.ink/pic/data/189/images/8lpw3jv-1765738214117.jpg",
+    "geo": [
+      43.186259,
+      140.790212
+    ],
+    "ep": "1",
+    "s": "203",
+    "mark": "位於余市蒸餾所內，該區域不可進入\n電影中21分、1小時21分處均有出現，以及內部場景",
+    "folder": "地點",
+    "origin": "羽燕"
   }
 ]

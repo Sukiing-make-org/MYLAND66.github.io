@@ -8,5 +8,120 @@
       34.6502,
       135.4199
     ]
+  },
+  {
+    "id": "upsj2yn6r",
+    "name": "佐久島",
+    "image": "https://image.xinu.ink/pic/data/126/images/upsj2yn6r_1744797781001.jpg",
+    "geo": [
+      34.728134,
+      137.044092
+    ],
+    "s": 3081,
+    "mark": "柯南被扔出飞艇"
+  },
+  {
+    "id": "upsngz1fm",
+    "name": "大阪府警察本部",
+    "image": "https://image.xinu.ink/pic/data/126/images/upsngz1fm_1744798025531.jpg",
+    "geo": [
+      34.683637,
+      135.520889
+    ],
+    "s": 3124,
+    "cn": "大阪府警察总部"
+  },
+  {
+    "id": "uptd5pqxa",
+    "name": "道頓堀",
+    "image": "https://image.xinu.ink/pic/data/126/images/uptd5pqxa_1744799607419.jpg",
+    "geo": [
+      34.669053,
+      135.501313
+    ],
+    "s": 3737
+  },
+  {
+    "id": "uptoo09ph",
+    "name": "新大阪駅",
+    "image": "https://image.xinu.ink/pic/data/126/images/uptoo09ph_1744800271510.jpg",
+    "geo": [
+      34.733643,
+      135.500568
+    ],
+    "s": 3770,
+    "mark": "博多方面"
+  },
+  {
+    "id": "upu0jover",
+    "name": "大阪駅",
+    "image": "https://image.xinu.ink/pic/data/126/images/upu0jover_1744801008918.jpg",
+    "geo": [
+      34.702666,
+      135.496101
+    ],
+    "s": 3789,
+    "mark": "东海道本线京都米原方向"
+  },
+  {
+    "id": "upucsvpz7",
+    "name": "大阪府道8号線・21号線交差点付近",
+    "image": "https://image.xinu.ink/pic/data/126/images/upucsvpz7_1744801769330.jpg",
+    "geo": [
+      34.710187,
+      135.618243
+    ],
+    "s": 3986
+  },
+  {
+    "id": "upuk24kly",
+    "name": "奈良駅西口",
+    "image": "https://image.xinu.ink/pic/data/126/images/upuk24kly_1744802172880.jpg",
+    "geo": [
+      34.68099,
+      135.818621
+    ],
+    "s": 4129
+  },
+  {
+    "id": "upuodzbnq",
+    "name": "大阪府道8号線・国道170号線交差点付近",
+    "image": "https://image.xinu.ink/pic/data/126/images/upuodzbnq_1744802767191.jpg",
+    "geo": [
+      34.71023,
+      135.643644
+    ],
+    "s": 4141
+  },
+  {
+    "id": "upuxkd64r",
+    "name": "興福寺",
+    "image": "https://image.xinu.ink/pic/data/126/images/upuxkd64r_1744803028478.jpg",
+    "geo": [
+      34.682647,
+      135.831963
+    ],
+    "s": 4143,
+    "mark": "豪福寺",
+    "cn": "兴福寺"
+  },
+  {
+    "id": "upx70i68g",
+    "name": "明石海峡大橋",
+    "image": "https://image.xinu.ink/pic/data/126/images/upx70i68g_1744807953383.jpg",
+    "geo": [
+      34.619391,
+      135.023205
+    ],
+    "s": 5372
+  },
+  {
+    "id": "upz4ea8rz",
+    "name": "おひるねハウス（佐久島）",
+    "image": "https://image.xinu.ink/pic/data/126/images/upz4ea8rz-1744812126389.jpg",
+    "geo": [
+      34.722929,
+      137.03689
+    ]
   }
 ]

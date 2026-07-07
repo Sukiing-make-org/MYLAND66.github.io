@@ -315,5 +315,682 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=16wFstaizPTmlp-FPhKkPGH8yFbs&ll=35.62939%2C139.774089&z=17"
+  },
+  {
+    "id": "a857o8bf",
+    "name": "事務所前道路",
+    "image": "https://image.xinu.ink/pic/data/180/images/a857o8bf_1754037004717.jpg",
+    "geo": [
+      35.701494,
+      139.630751
+    ],
+    "ep": 1,
+    "s": 1024,
+    "mark": "１話"
+  },
+  {
+    "id": "387g6iy",
+    "name": "旅館西郊付近",
+    "image": "https://image.xinu.ink/pic/data/180/images/387g6iy_1754036944388.jpg",
+    "geo": [
+      35.703074,
+      139.625254
+    ],
+    "ep": 1,
+    "s": 913,
+    "mark": "１話"
+  },
+  {
+    "id": "a857o8q1",
+    "name": "恵比寿駅西口",
+    "image": "",
+    "geo": [
+      35.647249,
+      139.709238
+    ],
+    "ep": 4,
+    "mark": "４話ＥＤ"
+  },
+  {
+    "id": "a857o8ra",
+    "name": "鳩山会館",
+    "image": "https://image.xinu.ink/pic/data/180/images/a857o8ra_1754039017098.jpg",
+    "geo": [
+      35.713678,
+      139.731202
+    ],
+    "ep": 9,
+    "s": 68,
+    "mark": "９話"
+  },
+  {
+    "id": "a857o9iw",
+    "name": "新宿村スタジオ",
+    "image": "https://image.xinu.ink/pic/data/180/images/a857o9iw_1755580148623.jpg",
+    "geo": [
+      35.696848,
+      139.689204
+    ],
+    "ep": 11,
+    "mark": "11話、23話"
+  },
+  {
+    "id": "a857o9j9",
+    "name": "「新宿大ガード西」交差点",
+    "image": "",
+    "geo": [
+      35.693378,
+      139.69938
+    ],
+    "ep": 11,
+    "mark": "11話"
+  },
+  {
+    "id": "a857o8xg",
+    "name": "「新宿大ガード西」交差点",
+    "image": "",
+    "geo": [
+      35.693382,
+      139.699029
+    ],
+    "ep": 11,
+    "mark": "11話"
+  },
+  {
+    "id": "a857o9ai",
+    "name": "「新宿大ガード東」交差点",
+    "image": "",
+    "geo": [
+      35.693838,
+      139.700024
+    ],
+    "ep": 11,
+    "mark": "11話"
+  },
+  {
+    "id": "a857o92h",
+    "name": "恵比寿駅西口",
+    "image": "https://image.xinu.ink/pic/data/180/images/a857o92h_1755581157222.jpg",
+    "geo": [
+      35.6469,
+      139.70902
+    ],
+    "ep": 11,
+    "s": 936,
+    "mark": "11話"
+  },
+  {
+    "id": "a857o957",
+    "name": "恵比寿駅西口",
+    "image": "https://image.xinu.ink/pic/data/180/images/a857o957_1755581527620.jpg",
+    "geo": [
+      35.646918,
+      139.709291
+    ],
+    "ep": 11,
+    "s": 1172,
+    "mark": "11話"
+  },
+  {
+    "id": "a857o9hs",
+    "name": "恵比寿駅西口",
+    "image": "https://image.xinu.ink/pic/data/180/images/a857o9hs_1755581545620.jpg",
+    "geo": [
+      35.64705,
+      139.709436
+    ],
+    "ep": 11,
+    "s": 1184,
+    "mark": "11話"
+  },
+  {
+    "id": "a857o9bl",
+    "name": "バーガーキング渋谷センター街店",
+    "image": "https://image.xinu.ink/pic/data/180/images/a857o9bl_1754035844666.jpg",
+    "geo": [
+      35.660271,
+      139.698825
+    ],
+    "ep": 12,
+    "s": 506,
+    "mark": "12話",
+    "cn": "BURGER KING涩谷中心街店"
+  },
+  {
+    "id": "a857o9ep",
+    "name": "代々木公園",
+    "image": "",
+    "geo": [
+      35.671304,
+      139.695818
+    ],
+    "ep": 12,
+    "mark": "12話"
+  },
+  {
+    "id": "a857o8vf",
+    "name": "東京ドームシティホール",
+    "image": "https://image.xinu.ink/pic/data/180/images/a857o8vf_1717936048008.jpg",
+    "geo": [
+      35.703402,
+      139.754135
+    ],
+    "ep": 13,
+    "s": 2,
+    "mark": "13話、24話"
+  },
+  {
+    "id": "388w1m4",
+    "name": "東京ドームシティホール内",
+    "image": "https://image.xinu.ink/pic/data/180/images/388w1m4_1754039385513.jpg",
+    "geo": [
+      35.703389,
+      139.754417
+    ],
+    "ep": 13,
+    "s": 106
+  },
+  {
+    "id": "a857o8xn",
+    "name": "渋谷駅（２番線）",
+    "image": "https://image.xinu.ink/pic/data/180/images/a857o8xn_1754035999760.jpg",
+    "geo": [
+      35.657983,
+      139.701743
+    ],
+    "ep": 14,
+    "s": 466,
+    "mark": "14話"
+  },
+  {
+    "id": "a857o9c1",
+    "name": "渋谷駅ハチ公口",
+    "image": "https://image.xinu.ink/pic/data/180/images/a857o9c1_1754036020543.jpg",
+    "geo": [
+      35.659277,
+      139.700617
+    ],
+    "ep": 14,
+    "s": 523,
+    "mark": "14話、24話"
+  },
+  {
+    "id": "a857o93p",
+    "name": "ＴＢＳ前",
+    "image": "https://image.xinu.ink/pic/data/180/images/a857o93p_1754036749693.jpg",
+    "geo": [
+      35.672526,
+      139.735797
+    ],
+    "ep": 15,
+    "s": 556,
+    "mark": "15話、23話"
+  },
+  {
+    "id": "a857o8wz",
+    "name": "東山如意ケ嶽",
+    "image": "https://image.xinu.ink/pic/data/180/images/a857o8wz_1755579993492.jpg",
+    "geo": [
+      35.022862,
+      135.804899
+    ],
+    "ep": 19,
+    "s": 259,
+    "mark": "19話京都市内から東山如意ケ嶽を見ます（图右）",
+    "folder": "京都"
+  },
+  {
+    "id": "3xv0j3s",
+    "name": "東京​スカイ​ツリー",
+    "image": "https://image.xinu.ink/pic/data/180/images/3xv0j3s_1755588179846.jpg",
+    "geo": [
+      35.710043,
+      139.810718
+    ],
+    "ep": 22,
+    "s": 764
+  },
+  {
+    "id": "a857o95t",
+    "name": "ＴＢＳ",
+    "image": "https://image.xinu.ink/pic/data/180/images/a857o95t_1755578828596.jpg",
+    "geo": [
+      35.672125,
+      139.735059
+    ],
+    "ep": 23,
+    "s": 9,
+    "mark": "23話、24話"
+  },
+  {
+    "id": "a857o9jg",
+    "name": "新宿駅（11番線）",
+    "image": "https://image.xinu.ink/pic/data/180/images/a857o9jg_1755579463318.jpg",
+    "geo": [
+      35.689958,
+      139.700325
+    ],
+    "ep": 23,
+    "s": 445,
+    "mark": "23話"
+  },
+  {
+    "id": "a857o8v7",
+    "name": "「新都心歩道橋下」交差点",
+    "image": "https://image.xinu.ink/pic/data/180/images/a857o8v7_1755580307478.jpg",
+    "geo": [
+      35.693587,
+      139.697272
+    ],
+    "ep": 23,
+    "mark": "23話"
+  },
+  {
+    "id": "a857o8zh",
+    "name": "「新都心歩道橋下」交差点",
+    "image": "https://image.xinu.ink/pic/data/180/images/a857o8zh_1755580448397.jpg",
+    "geo": [
+      35.69299,
+      139.697052
+    ],
+    "ep": 23,
+    "s": 554,
+    "mark": "23話"
+  },
+  {
+    "id": "3xv1q5p",
+    "name": "渋谷公会堂",
+    "image": "https://image.xinu.ink/pic/data/180/images/3xv1q5p_1755588238933.jpg",
+    "geo": [
+      35.664143,
+      139.698328
+    ],
+    "ep": 23,
+    "s": 1021
+  },
+  {
+    "id": "3wftld1",
+    "name": "よこはま​コスモ​ワールド",
+    "image": "https://image.xinu.ink/pic/data/180/images/3wftld1_1755502247707.jpg",
+    "geo": [
+      35.455228,
+      139.63666
+    ],
+    "ep": 8,
+    "s": 1041,
+    "mark": "摩天轮上",
+    "folder": "横滨"
+  },
+  {
+    "id": "3wfw1nn",
+    "name": "​桜木町​駅",
+    "image": "https://image.xinu.ink/pic/data/180/images/3wfw1nn_1755502354499.jpg",
+    "geo": [
+      35.45085,
+      139.631437
+    ],
+    "ep": 8,
+    "s": 406,
+    "folder": "横滨"
+  },
+  {
+    "id": "3wgfbwk",
+    "name": "タクシーのりば",
+    "image": "https://image.xinu.ink/pic/data/180/images/3wgfbwk_1755503262351.jpg",
+    "geo": [
+      35.4514,
+      139.631603
+    ],
+    "ep": 8,
+    "s": 414,
+    "folder": "横滨"
+  },
+  {
+    "id": "3wg947x",
+    "name": "Bubby's　横浜",
+    "image": "https://image.xinu.ink/pic/data/180/images/3wg947x_1755503012755.jpg",
+    "geo": [
+      35.451192,
+      139.631109
+    ],
+    "ep": 8,
+    "s": 415,
+    "mark": "已永久闭店",
+    "folder": "横滨"
+  },
+  {
+    "id": "3wgijxt",
+    "name": "​桜木町​駅前",
+    "image": "https://image.xinu.ink/pic/data/180/images/3wgijxt_1755503378032.jpg",
+    "geo": [
+      35.451359,
+      139.63126
+    ],
+    "ep": 8,
+    "s": 404,
+    "folder": "横滨"
+  },
+  {
+    "id": "3wgjxc2",
+    "name": "ヒューリックみなとみらい前",
+    "image": "https://image.xinu.ink/pic/data/180/images/3wgjxc2_1755503456049.jpg",
+    "geo": [
+      35.451793,
+      139.631167
+    ],
+    "ep": 8,
+    "s": 441,
+    "folder": "横滨"
+  },
+  {
+    "id": "3wgn1sj",
+    "name": "運河パーク　ナビオス横浜前",
+    "image": "https://image.xinu.ink/pic/data/180/images/3wgn1sj_1755503610975.jpg",
+    "geo": [
+      35.453024,
+      139.63869
+    ],
+    "ep": 8,
+    "s": 801,
+    "folder": "横滨"
+  },
+  {
+    "id": "3wgpx75",
+    "name": "サークルウォーク前",
+    "image": "https://image.xinu.ink/pic/data/180/images/3wgpx75_1755503740212.jpg",
+    "geo": [
+      35.453565,
+      139.640785
+    ],
+    "ep": 8,
+    "s": 826,
+    "folder": "横滨"
+  },
+  {
+    "id": "3wh0uqk",
+    "name": "サークルウォーク",
+    "image": "https://image.xinu.ink/pic/data/180/images/3wh0uqk_1755504308443.jpg",
+    "geo": [
+      35.453846,
+      139.640814
+    ],
+    "ep": 8,
+    "s": 834,
+    "folder": "横滨"
+  },
+  {
+    "id": "3wh64vn",
+    "name": "山下臨港線プロムナード",
+    "image": "https://image.xinu.ink/pic/data/180/images/3wh64vn_1755504548409.jpg",
+    "geo": [
+      35.449053,
+      139.643256
+    ],
+    "ep": 8,
+    "s": 1108,
+    "folder": "横滨"
+  },
+  {
+    "id": "3whcu2h",
+    "name": "大桟橋ふ頭",
+    "image": "https://image.xinu.ink/pic/data/180/images/3whcu2h_1755504788016.jpg",
+    "geo": [
+      35.45196,
+      139.647941
+    ],
+    "ep": 22,
+    "folder": "横滨"
+  },
+  {
+    "id": "3whhzql",
+    "name": "山下公園噴水",
+    "image": "https://image.xinu.ink/pic/data/180/images/3whhzql_1755505028889.jpg",
+    "geo": [
+      35.445862,
+      139.649844
+    ],
+    "ep": 8,
+    "s": 1160,
+    "folder": "横滨"
+  },
+  {
+    "id": "3who9eg",
+    "name": "山下公園",
+    "image": "https://image.xinu.ink/pic/data/180/images/3who9eg_1755505309831.jpg",
+    "geo": [
+      35.445788,
+      139.649981
+    ],
+    "ep": 8,
+    "s": 1169,
+    "folder": "横滨"
+  },
+  {
+    "id": "3whjrtf",
+    "name": "山下公園 廊",
+    "image": "https://image.xinu.ink/pic/data/180/images/3whjrtf_1755505099216.jpg",
+    "geo": [
+      35.445581,
+      139.650072
+    ],
+    "ep": 8,
+    "s": 1177,
+    "folder": "横滨"
+  },
+  {
+    "id": "3whl2lu",
+    "name": "山下公園噴水",
+    "image": "https://image.xinu.ink/pic/data/180/images/3whl2lu_1755505163840.jpg",
+    "geo": [
+      35.445683,
+      139.649791
+    ],
+    "ep": 8,
+    "s": 1212,
+    "folder": "横滨"
+  },
+  {
+    "id": "3whmiq3",
+    "name": "山下公園噴水",
+    "image": "https://image.xinu.ink/pic/data/180/images/3whmiq3_1755505231697.jpg",
+    "geo": [
+      35.445721,
+      139.649718
+    ],
+    "ep": 8,
+    "s": 1216,
+    "folder": "横滨"
+  },
+  {
+    "id": "3whqadt",
+    "name": "北京飯店前",
+    "image": "https://image.xinu.ink/pic/data/180/images/3whqadt_1755505404857.jpg",
+    "geo": [
+      35.444055,
+      139.64802
+    ],
+    "ep": 8,
+    "s": 541,
+    "folder": "横滨"
+  },
+  {
+    "id": "3whrkvr",
+    "name": "中華街東門",
+    "image": "https://image.xinu.ink/pic/data/180/images/3whrkvr_1755505515281.jpg",
+    "geo": [
+      35.444041,
+      139.647909
+    ],
+    "ep": 8,
+    "folder": "横滨"
+  },
+  {
+    "id": "3whulwo",
+    "name": "中华街东门对面",
+    "image": "https://image.xinu.ink/pic/data/180/images/3whulwo_1755505612199.jpg",
+    "geo": [
+      35.444215,
+      139.647977
+    ],
+    "ep": 8,
+    "s": 569,
+    "folder": "横滨"
+  },
+  {
+    "id": "3whxqdu",
+    "name": "老維新號",
+    "image": "https://image.xinu.ink/pic/data/180/images/3whxqdu_1755505752289.jpg",
+    "geo": [
+      35.443194,
+      139.645038
+    ],
+    "ep": 8,
+    "s": 1046,
+    "folder": "横滨"
+  },
+  {
+    "id": "3xpiua0",
+    "name": "パシフィコ横浜",
+    "image": "https://image.xinu.ink/pic/data/180/images/3xpiua0_1755578981046.jpg",
+    "geo": [
+      35.460288,
+      139.636164
+    ],
+    "ep": 24,
+    "s": 1444,
+    "folder": "横滨"
+  },
+  {
+    "id": "3xplllw",
+    "name": "パシフィコ横浜内部",
+    "image": "https://image.xinu.ink/pic/data/180/images/3xplllw_1755579130220.jpg",
+    "geo": [
+      35.460104,
+      139.635205
+    ],
+    "ep": 25,
+    "s": 414,
+    "folder": "横滨"
+  },
+  {
+    "id": "3wi8x4d",
+    "name": "国領南口前",
+    "image": "https://image.xinu.ink/pic/data/180/images/3wi8x4d_1755506311428.jpg",
+    "geo": [
+      35.650252,
+      139.558996
+    ],
+    "ep": 7,
+    "s": 1055,
+    "folder": "调布"
+  },
+  {
+    "id": "3wic414",
+    "name": "国領駅入口",
+    "image": "https://image.xinu.ink/pic/data/180/images/3wic414_1755506423747.jpg",
+    "geo": [
+      35.650532,
+      139.557171
+    ],
+    "ep": 7,
+    "s": 321,
+    "folder": "调布"
+  },
+  {
+    "id": "3wiin7e",
+    "name": "細田橋",
+    "image": "https://image.xinu.ink/pic/data/180/images/3wiin7e_1755506742725.jpg",
+    "geo": [
+      35.65566,
+      139.557351
+    ],
+    "ep": 7,
+    "s": 406,
+    "folder": "调布"
+  },
+  {
+    "id": "3wijfon",
+    "name": "細田橋逺景",
+    "image": "https://image.xinu.ink/pic/data/180/images/3wijfon_1755506758337.jpg",
+    "geo": [
+      35.655575,
+      139.55748
+    ],
+    "ep": 7,
+    "s": 398,
+    "folder": "调布"
+  },
+  {
+    "id": "3wilfq1",
+    "name": "大橋",
+    "image": "https://image.xinu.ink/pic/data/180/images/3wilfq1_1755506891063.jpg",
+    "geo": [
+      35.657494,
+      139.554941
+    ],
+    "ep": 7,
+    "s": 898,
+    "folder": "调布"
+  },
+  {
+    "id": "3wimip4",
+    "name": "大橋",
+    "image": "https://image.xinu.ink/pic/data/180/images/3wimip4_1755506904024.jpg",
+    "geo": [
+      35.65744,
+      139.554923
+    ],
+    "ep": 7,
+    "s": 1472,
+    "folder": "调布"
+  },
+  {
+    "id": "3winodq",
+    "name": "大橋前",
+    "image": "https://image.xinu.ink/pic/data/180/images/3winodq_1755506972241.jpg",
+    "geo": [
+      35.657624,
+      139.555042
+    ],
+    "ep": 7,
+    "s": 5342,
+    "folder": "调布"
+  },
+  {
+    "id": "3wisak7",
+    "name": "コーポやよい",
+    "image": "https://image.xinu.ink/pic/data/180/images/3wisak7_1755507196939.jpg",
+    "geo": [
+      35.658988,
+      139.559439
+    ],
+    "ep": 7,
+    "s": 521,
+    "mark": "伊織が遊んでいるこの場所",
+    "folder": "调布"
+  },
+  {
+    "id": "3wiymop",
+    "name": "佐須公園",
+    "image": "https://image.xinu.ink/pic/data/180/images/3wiymop_1755507481018.jpg",
+    "geo": [
+      35.659366,
+      139.558754
+    ],
+    "ep": 7,
+    "s": 944,
+    "folder": "调布"
+  },
+  {
+    "id": "9qlvq7q",
+    "name": "新宿村スタジオ",
+    "image": "https://image.xinu.ink/pic/data/180/images/9qlvq7q-1768210322119.jpg",
+    "geo": [
+      35.696859,
+      139.68966
+    ],
+    "ep": 11,
+    "s": 729,
+    "mark": "此建筑已被拆除重建"
   }
 ]

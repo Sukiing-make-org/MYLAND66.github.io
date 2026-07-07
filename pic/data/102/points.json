@@ -89,5 +89,63 @@
     ],
     "origin": "Anitabi@耿耿-げん",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "urh7vwbyn",
+    "name": "中組公園",
+    "image": "https://image.xinu.ink/pic/data/102/images/urh7vwbyn-1744930006848.jpg",
+    "geo": [
+      35.621877,
+      139.417082
+    ],
+    "ep": 9,
+    "s": 469
+  },
+  {
+    "id": "5cbt8zi",
+    "name": "筑波大学附属病院",
+    "image": "https://image.xinu.ink/pic/data/102/images/5cbt8zi_1758814005331.jpg",
+    "geo": [
+      36.092245,
+      140.101507
+    ],
+    "ep": 10,
+    "s": 730
+  },
+  {
+    "id": "5z449e1",
+    "name": "立川站北口北侧路口",
+    "image": "https://image.xinu.ink/pic/data/102/images/5z449e1-1760017632621.jpg",
+    "geo": [
+      35.698984,
+      139.413467
+    ],
+    "ep": 18,
+    "s": 170,
+    "mark": "美琴和黑子尾随舍监"
+  },
+  {
+    "id": "5zexhd6",
+    "name": "立川站南外的人行天桥",
+    "image": "https://image.xinu.ink/pic/data/102/images/5zexhd6-1760035742419.jpg",
+    "geo": [
+      35.696952,
+      139.413022
+    ],
+    "ep": 4,
+    "s": 545,
+    "mark": "得知美琴遇到\"脱衣女\"的黑子一行人"
+  },
+  {
+    "id": "5zi4mca",
+    "name": "玉川上水站南口出口的芋窪街道",
+    "image": "https://image.xinu.ink/pic/data/102/images/5zi4mca-1760041078045.jpg",
+    "geo": [
+      35.73114,
+      139.417947
+    ],
+    "ep": 11,
+    "s": 261,
+    "mark": "OP1中佐天泪子的镜头"
   }
 ]

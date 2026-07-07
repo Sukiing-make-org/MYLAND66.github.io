@@ -127,5 +127,615 @@
       35.725,
       140.8019
     ]
+  },
+  {
+    "id": "2s4yn4y",
+    "name": "私立銚子高等学校へ行く坂",
+    "image": "https://image.xinu.ink/pic/data/149/images/2s4yn4y_1724088593924.jpg",
+    "geo": [
+      35.723545,
+      140.81659
+    ],
+    "ep": 1,
+    "s": 375,
+    "mark": "不确定"
+  },
+  {
+    "id": "ndiwjau33",
+    "name": "私立銚子高等学校へ行く坂",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndiwjau33_1724088647313.jpg",
+    "geo": [
+      35.723605,
+      140.816507
+    ],
+    "ep": 2,
+    "s": 611,
+    "mark": "不确定"
+  },
+  {
+    "id": "ndiwkjt06",
+    "name": "私立銚子高等学校へ行く坂",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndiwkjt06_1724088649582.jpg",
+    "geo": [
+      35.723635,
+      140.816487
+    ],
+    "ep": 2,
+    "s": 645,
+    "mark": "不确定"
+  },
+  {
+    "id": "ndixbaytg",
+    "name": "私立銚子高等学校へ行く坂",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndixbaytg_1724088694411.jpg",
+    "geo": [
+      35.723665,
+      140.81644
+    ],
+    "ep": 13,
+    "s": 423
+  },
+  {
+    "id": "ndj5nhzrd",
+    "name": "銚子駅前",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj5nhzrd_1724089198463.jpg",
+    "geo": [
+      35.730225,
+      140.827511
+    ],
+    "ep": 5,
+    "s": 1026
+  },
+  {
+    "id": "ndj5ouul2",
+    "name": "銚子駅前",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj5ouul2_1724089201057.jpg",
+    "geo": [
+      35.730209,
+      140.827511
+    ],
+    "ep": 5,
+    "s": 1041
+  },
+  {
+    "id": "ndj5qaer4",
+    "name": "銚子駅前",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj5qaer4_1724089203339.jpg",
+    "geo": [
+      35.730194,
+      140.827515
+    ],
+    "ep": 5,
+    "s": 1044,
+    "mark": "森島はるか8.9."
+  },
+  {
+    "id": "ndj5rg4o8",
+    "name": "銚子駅前",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj5rg4o8_1724089205046.jpg",
+    "geo": [
+      35.730176,
+      140.827515
+    ],
+    "ep": 5,
+    "s": 1063,
+    "mark": "森島はるか8.9."
+  },
+  {
+    "id": "ndj5tzlgn",
+    "name": "銚子駅前",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj5tzlgn_1724089209579.jpg",
+    "geo": [
+      35.730162,
+      140.827519
+    ],
+    "ep": 5,
+    "s": 1123,
+    "mark": "森島はるか8.9."
+  },
+  {
+    "id": "ndj685r69",
+    "name": "銚子駅前",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj685r69_1724089233549.jpg",
+    "geo": [
+      35.730131,
+      140.827493
+    ],
+    "ep": 9,
+    "s": 670
+  },
+  {
+    "id": "ndj69ir9c",
+    "name": "銚子駅前",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj69ir9c_1724089235614.jpg",
+    "geo": [
+      35.730118,
+      140.827503
+    ],
+    "ep": 7,
+    "s": 748
+  },
+  {
+    "id": "ndj6auvtp",
+    "name": "銚子駅前",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj6auvtp_1724089238009.jpg",
+    "geo": [
+      35.730099,
+      140.827514
+    ],
+    "ep": 7,
+    "s": 759
+  },
+  {
+    "id": "ndj6c4gow",
+    "name": "銚子駅前",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj6c4gow_1724089240484.jpg",
+    "geo": [
+      35.730084,
+      140.827527
+    ],
+    "ep": 7,
+    "s": 1180
+  },
+  {
+    "id": "2s4yn4r",
+    "name": "銚子駅前",
+    "image": "https://image.xinu.ink/pic/data/149/images/2s4yn4r_1724088655506.jpg",
+    "geo": [
+      35.73041,
+      140.827695
+    ],
+    "ep": 4,
+    "s": 619
+  },
+  {
+    "id": "ndj6r6yxl",
+    "name": "銚子駅前銚子ポートタワー",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj6r6yxl_1724089265541.jpg",
+    "geo": [
+      35.740877,
+      140.862929
+    ],
+    "ep": 8,
+    "s": 715
+  },
+  {
+    "id": "ndj6sksfv",
+    "name": "銚子駅前銚子ポートタワー",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj6sksfv_1724089267659.jpg",
+    "geo": [
+      35.740855,
+      140.862953
+    ],
+    "ep": 8,
+    "s": 766
+  },
+  {
+    "id": "ndj6urz7f",
+    "name": "銚子駅前銚子ポートタワー",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj6urz7f_1724089271346.jpg",
+    "geo": [
+      35.740836,
+      140.862979
+    ],
+    "ep": 8,
+    "s": 774
+  },
+  {
+    "id": "ndj6wjn89",
+    "name": "銚子駅前銚子ポートタワー",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj6wjn89_1724089275132.jpg",
+    "geo": [
+      35.740812,
+      140.862992
+    ],
+    "ep": 8,
+    "s": 781
+  },
+  {
+    "id": "ndj6ybn4j",
+    "name": "銚子駅前銚子ポートタワー",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj6ybn4j_1724089277313.jpg",
+    "geo": [
+      35.740791,
+      140.863003
+    ],
+    "ep": 8,
+    "s": 789
+  },
+  {
+    "id": "ndj6zklw4",
+    "name": "銚子駅前銚子ポートタワー",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj6zklw4_1724089279961.jpg",
+    "geo": [
+      35.740893,
+      140.862803
+    ],
+    "ep": 8,
+    "s": 797
+  },
+  {
+    "id": "ndj713klh",
+    "name": "銚子駅前銚子ポートタワー",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj713klh_1724089282209.jpg",
+    "geo": [
+      35.740881,
+      140.862814
+    ],
+    "ep": 8,
+    "s": 883
+  },
+  {
+    "id": "ndj789z8v",
+    "name": "銚子駅前銚子ポートタワー",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj789z8v_1724089295142.jpg",
+    "geo": [
+      35.740872,
+      140.862823
+    ],
+    "ep": 8,
+    "s": 828
+  },
+  {
+    "id": "ndj7a8q3a",
+    "name": "銚子駅前銚子ポートタワー",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj7a8q3a_1724089297633.jpg",
+    "geo": [
+      35.740865,
+      140.86283
+    ],
+    "ep": 8,
+    "s": 883
+  },
+  {
+    "id": "ndj7bt613",
+    "name": "銚子駅前銚子ポートタワー",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj7bt613_1724089299775.jpg",
+    "geo": [
+      35.740857,
+      140.86284
+    ],
+    "ep": 8,
+    "s": 905
+  },
+  {
+    "id": "ndj7cvyrz",
+    "name": "銚子駅前銚子ポートタワー",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj7cvyrz_1724089301987.jpg",
+    "geo": [
+      35.740849,
+      140.862849
+    ],
+    "ep": 8,
+    "s": 958
+  },
+  {
+    "id": "ndiylcpef",
+    "name": "しおさい公園",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndiylcpef_1724088771986.jpg",
+    "geo": [
+      35.715059,
+      140.86651
+    ],
+    "ep": 14,
+    "s": 965
+  },
+  {
+    "id": "ndiyo13ig",
+    "name": "しおさい公園",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndiyo13ig_1724088776494.jpg",
+    "geo": [
+      35.715035,
+      140.866539
+    ],
+    "ep": 14,
+    "s": 993
+  },
+  {
+    "id": "ndiyrlr7g",
+    "name": "しおさい公園",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndiyrlr7g_1724088782066.jpg",
+    "geo": [
+      35.715016,
+      140.86656
+    ],
+    "ep": 14,
+    "s": 1143
+  },
+  {
+    "id": "ndj7jocno",
+    "name": "しおさい公園",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj7jocno_1724089313452.jpg",
+    "geo": [
+      35.714984,
+      140.866404
+    ],
+    "ep": 7,
+    "s": 530
+  },
+  {
+    "id": "ndj7l5kin",
+    "name": "しおさい公園",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj7l5kin_1724089315733.jpg",
+    "geo": [
+      35.714968,
+      140.866426
+    ],
+    "ep": 7,
+    "s": 603
+  },
+  {
+    "id": "ndj7mgyiz",
+    "name": "しおさい公園",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj7mgyiz_1724089317796.jpg",
+    "geo": [
+      35.71495,
+      140.866449
+    ],
+    "ep": 8,
+    "s": 1321
+  },
+  {
+    "id": "ndj2e5qmq",
+    "name": "大江戸温泉物語",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj2e5qmq_1724089001636.jpg",
+    "geo": [
+      35.615725,
+      139.778263
+    ],
+    "ep": 10,
+    "s": 715
+  },
+  {
+    "id": "ndj2h0how",
+    "name": "大江戸温泉物語",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj2h0how_1724089006324.jpg",
+    "geo": [
+      35.615644,
+      139.778442
+    ],
+    "ep": 10,
+    "s": 769
+  },
+  {
+    "id": "ndj2u0s8x",
+    "name": "清川町第一公園",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj2u0s8x_1724089028564.jpg",
+    "geo": [
+      35.725729,
+      140.819228
+    ],
+    "ep": 17,
+    "s": 88,
+    "mark": "七咲逢1.2.10.11.20~26."
+  },
+  {
+    "id": "ndj2xyzcj",
+    "name": "清川町第一公園",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj2xyzcj_1724089037015.jpg",
+    "geo": [
+      35.725648,
+      140.819119
+    ],
+    "ep": 13,
+    "s": 242,
+    "mark": "七咲逢1.2.10.11.20~26."
+  },
+  {
+    "id": "ndj319g03",
+    "name": "清川町第一公園",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj319g03_1724089042424.jpg",
+    "geo": [
+      35.725608,
+      140.819154
+    ],
+    "ep": 13,
+    "s": 273,
+    "mark": "七咲逢1.2.10.11.20~26."
+  },
+  {
+    "id": "ndj34ss70",
+    "name": "清川町第一公園",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj34ss70_1724089046611.jpg",
+    "geo": [
+      35.725568,
+      140.81918
+    ],
+    "ep": 15,
+    "s": 775,
+    "mark": "七咲逢1.2.10.11.20~26."
+  },
+  {
+    "id": "ndj3692nx",
+    "name": "清川町第一公園",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj3692nx_1724089048796.jpg",
+    "geo": [
+      35.72553,
+      140.819209
+    ],
+    "ep": 15,
+    "s": 778,
+    "mark": "七咲逢1.2.10.11.20~26."
+  },
+  {
+    "id": "ndj37k5ps",
+    "name": "清川町第一公園",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj37k5ps_1724089050934.jpg",
+    "geo": [
+      35.725492,
+      140.819237
+    ],
+    "ep": 15,
+    "s": 791,
+    "mark": "七咲逢1.2.10.11.20~26"
+  },
+  {
+    "id": "ndj38vwzr",
+    "name": "清川町第一公園",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj38vwzr_1724089053532.jpg",
+    "geo": [
+      35.725463,
+      140.819263
+    ],
+    "ep": 15,
+    "s": 804,
+    "mark": "七咲逢1.2.10.11.20~26."
+  },
+  {
+    "id": "ndj3aicp9",
+    "name": "清川町第一公園",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj3aicp9_1724089055817.jpg",
+    "geo": [
+      35.725418,
+      140.819271
+    ],
+    "ep": 15,
+    "s": 817
+  },
+  {
+    "id": "ndj3bpi0y",
+    "name": "清川町第一公園",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj3bpi0y_1724089058333.jpg",
+    "geo": [
+      35.725378,
+      140.819305
+    ],
+    "ep": 15,
+    "s": 873,
+    "mark": "七咲逢1.2.10.11.20~26."
+  },
+  {
+    "id": "ndj3edc80",
+    "name": "清川町第一公園",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj3edc80_1724089062238.jpg",
+    "geo": [
+      35.725347,
+      140.819328
+    ],
+    "ep": 15,
+    "s": 877,
+    "mark": "七咲逢1.2.10.11.20~26."
+  },
+  {
+    "id": "ndizaqei3",
+    "name": "銚子マリーナ・海水浴場",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndizaqei3_1724088814606.jpg",
+    "geo": [
+      35.706933,
+      140.839608
+    ],
+    "ep": 13,
+    "s": 1227
+  },
+  {
+    "id": "ndizc5eys",
+    "name": "銚子マリーナ・海水浴場",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndizc5eys_1724088817178.jpg",
+    "geo": [
+      35.706851,
+      140.839702
+    ],
+    "ep": 13,
+    "s": 1243
+  },
+  {
+    "id": "ndizdr584",
+    "name": "銚子マリーナ・海水浴場",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndizdr584_1724088819944.jpg",
+    "geo": [
+      35.70678,
+      140.839788
+    ],
+    "ep": 13,
+    "s": 1245
+  },
+  {
+    "id": "ndizfbz7b",
+    "name": "銚子マリーナ・海水浴場",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndizfbz7b_1724088822206.jpg",
+    "geo": [
+      35.706692,
+      140.839869
+    ],
+    "ep": 13,
+    "s": 1268
+  },
+  {
+    "id": "ndizgs5fd",
+    "name": "銚子マリーナ・海水浴場",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndizgs5fd_1724088858645.jpg",
+    "geo": [
+      35.706593,
+      140.839964
+    ],
+    "ep": 16,
+    "s": 1351
+  },
+  {
+    "id": "ndj02fsyk",
+    "name": "銚子マリーナ・海水浴場",
+    "image": "https://image.xinu.ink/pic/data/149/images/ndj02fsyk_1724088861127.jpg",
+    "geo": [
+      35.706239,
+      140.837784
+    ],
+    "ep": 16,
+    "s": 1363
+  },
+  {
+    "id": "2s4yn50",
+    "name": "川口神社入口",
+    "image": "https://image.xinu.ink/pic/data/149/images/2s4yn5o_1724088403785.jpg",
+    "geo": [
+      35.738923,
+      140.854691
+    ],
+    "ep": 19,
+    "s": 1172
+  },
+  {
+    "id": "2s4yn4w",
+    "name": "川口神社入口",
+    "image": "https://image.xinu.ink/pic/data/149/images/2s4yn50_1724088408853.jpg",
+    "geo": [
+      35.738721,
+      140.854946
+    ],
+    "ep": 19,
+    "s": 1238
+  },
+  {
+    "id": "nditmf56b",
+    "name": "川口神社",
+    "image": "https://image.xinu.ink/pic/data/149/images/nditmf56b_1724088471679.jpg",
+    "geo": [
+      35.738248,
+      140.855421
+    ],
+    "ep": 19,
+    "s": 1243
+  },
+  {
+    "id": "nditp9l1k",
+    "name": "川口神社",
+    "image": "https://image.xinu.ink/pic/data/149/images/nditp9l1k_1724088476132.jpg",
+    "geo": [
+      35.73831,
+      140.855472
+    ],
+    "ep": 19,
+    "s": 1240
+  },
+  {
+    "id": "uqwi72ztp",
+    "name": "地球圆丘展望馆",
+    "image": "https://image.xinu.ink/pic/data/149/images/uqwi72ztp-1744885112720.jpg",
+    "geo": [
+      35.706445,
+      140.853653
+    ],
+    "ep": 4,
+    "s": 490,
+    "mark": "第1，4，6画均出现的公园，圆形的棚子略有一些区别，在此可以拿到本作巡礼地图"
   }
 ]

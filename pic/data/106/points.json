@@ -23,5 +23,74 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1iQhFNl5ku_NX1aR4CnjuQ20CJDc&ll=44.357534%2C141.695244&z=17"
+  },
+  {
+    "id": "kpx6omjao",
+    "name": "朝日大橋",
+    "image": "https://image.xinu.ink/pic/data/106/images/kpx6omjao_1753953888350.jpg",
+    "geo": [
+      44.366937,
+      141.721101
+    ],
+    "mark": "2nd第4話　S字の橋"
+  },
+  {
+    "id": "kpx6omj9s",
+    "name": "羽幌大橋",
+    "image": "",
+    "geo": [
+      44.375404,
+      141.711187
+    ]
+  },
+  {
+    "id": "kpx6omj25",
+    "name": "羽幌橋",
+    "image": "https://image.xinu.ink/pic/data/106/images/kpx6omj25_1753953849141.jpg",
+    "geo": [
+      44.368042,
+      141.705008
+    ],
+    "mark": "第17話"
+  },
+  {
+    "id": "kpx6omiq4",
+    "name": "サンセットビーチ",
+    "image": "",
+    "geo": [
+      44.366569,
+      141.693377
+    ],
+    "mark": "学校祭の打ち上げ後"
+  },
+  {
+    "id": "kpx6omjhh",
+    "name": "勤労青少年ホーム",
+    "image": "",
+    "geo": [
+      44.361952,
+      141.706166
+    ],
+    "mark": "仮装行列の審査ステージ"
+  },
+  {
+    "id": "36uh4d9",
+    "name": "狸小路商店街",
+    "image": "https://image.xinu.ink/pic/data/106/images/36uh4d9_1753954714461.jpg",
+    "geo": [
+      43.057042,
+      141.351189
+    ],
+    "mark": "第18話　北幌サンセット商店街"
+  },
+  {
+    "id": "36ur6jn",
+    "name": "札幌市時計台前",
+    "image": "https://image.xinu.ink/pic/data/106/images/36ur6jn_1753955182255.jpg",
+    "geo": [
+      43.06262,
+      141.3531
+    ],
+    "mark": "2nd第5話"
   }
 ]

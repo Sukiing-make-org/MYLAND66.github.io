@@ -116,5 +116,53 @@
       34.6775,
       135.2049
     ]
+  },
+  {
+    "id": "dwczzxr",
+    "name": "コンサート​ホール​キタラ",
+    "image": "https://image.xinu.ink/pic/data/177/images/dwczzxr_1777265315915.jpg",
+    "geo": [
+      43.044274,
+      141.352678
+    ],
+    "mark": "小圣杯所在地，最终决战的地方",
+    "cn": "札幌音乐厅Kitara"
+  },
+  {
+    "id": "gf16qv2",
+    "name": "Chatsworth House",
+    "image": "https://image.xinu.ink/pic/data/177/images/gf16qv2-1782747859474.webp",
+    "geo": [
+      53.227543,
+      -1.611445
+    ],
+    "mark": "爱因兹贝伦城堡内景",
+    "origin": "@沧沐Soumoku",
+    "cn": "查茨沃斯庄园·彩绘大厅"
+  },
+  {
+    "id": "gf1bw3d",
+    "name": "Chatsworth House",
+    "image": "https://image.xinu.ink/pic/data/177/images/gf1bw3d-1782748133859.webp",
+    "geo": [
+      53.22802,
+      -1.611415
+    ],
+    "ep": 7,
+    "mark": "爱因兹贝伦城堡会议室",
+    "origin": "@沧沐Soumoku",
+    "cn": "查茨沃斯庄园·大餐厅"
+  },
+  {
+    "id": "gf1e7oe",
+    "name": "Chatsworth House·State Bedroom",
+    "image": "https://image.xinu.ink/pic/data/177/images/gf1e7oe-1782748240791.webp",
+    "geo": [
+      53.228209,
+      -1.610693
+    ],
+    "mark": "爱因兹贝伦城堡主卧",
+    "origin": "@沧沐Soumoku",
+    "cn": "查茨沃斯庄园·国宾卧室"
   }
 ]

@@ -82,5 +82,29 @@
       51.2136,
       6.7771
     ]
+  },
+  {
+    "id": "p1it8qefw",
+    "name": "Karlův most",
+    "image": "https://image.xinu.ink/pic/data/93/images/p1it8qefw-1744201214941.jpg",
+    "geo": [
+      50.08615,
+      14.413705
+    ],
+    "ep": "OP1",
+    "mark": "OP",
+    "cn": "布拉格查理大桥 桥塔"
+  },
+  {
+    "id": "ui71pibmo",
+    "name": "Náměstí Republiky",
+    "image": "https://image.xinu.ink/pic/data/93/images/ui71pibmo_1744207092693.jpg",
+    "geo": [
+      50.088667,
+      14.429669
+    ],
+    "ep": "OP1",
+    "mark": "OP",
+    "cn": "共和国广场"
   }
 ]

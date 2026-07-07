@@ -738,5 +738,195 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1mHDUGTAuZLhYdZTvPSY8GgfgvpAM9ouj&ll=34.339952%2C132.928406&z=17"
+  },
+  {
+    "id": "2qnpd9q",
+    "name": "黒滝山登山口休憩所",
+    "image": "",
+    "geo": [
+      34.342956,
+      132.994424
+    ],
+    "folder": "忠海周辺"
+  },
+  {
+    "id": "wjxqq0",
+    "name": "旧日の丸写真館",
+    "image": "https://image.xinu.ink/pic/data/159/images/wjxqq0_1748978761804.jpg",
+    "geo": [
+      34.3452,
+      132.910806
+    ],
+    "ep": 4,
+    "s": 341
+  },
+  {
+    "id": "2qnpdaj",
+    "name": "歴史の見える丘公園（登り口1）",
+    "image": "",
+    "geo": [
+      34.176634,
+      132.867472
+    ],
+    "mark": "ここから歴史の見える丘公園展望台に行くことができます。ストリートビューで歩道を確認することができます。",
+    "folder": "大崎下島"
+  },
+  {
+    "id": "2qnpdbz",
+    "name": "歴史の見える丘公園（登り口２）",
+    "image": "",
+    "geo": [
+      34.17785,
+      132.866539
+    ],
+    "mark": "ここから歴史の見える丘公園展望台に行くことができます。ストリートビューで歩道を確認することができます。",
+    "folder": "大崎下島"
+  },
+  {
+    "id": "wcjix0",
+    "name": "的場西海水浴場",
+    "image": "https://image.xinu.ink/pic/data/159/images/wcjix0-1748966441538.jpg",
+    "geo": [
+      34.327137,
+      132.91757
+    ],
+    "ep": 2,
+    "s": 69,
+    "mark": "OP"
+  },
+  {
+    "id": "wcwn8t",
+    "name": "堀川醤油醸造場",
+    "image": "https://image.xinu.ink/pic/data/159/images/wcwn8t-1748966983409.jpg",
+    "geo": [
+      34.346638,
+      132.91064
+    ],
+    "ep": 1,
+    "s": 74,
+    "mark": "OP"
+  },
+  {
+    "id": "wdtm6v",
+    "name": "竹原駅構内",
+    "image": "https://image.xinu.ink/pic/data/159/images/wdtm6v_1748968493351.jpg",
+    "geo": [
+      34.339464,
+      132.91022
+    ],
+    "ep": 2,
+    "s": 1142,
+    "mark": "站内无法拍到这个角度，需要从站外东侧拍"
+  },
+  {
+    "id": "weuv2h",
+    "name": "竹原駅内",
+    "image": "https://image.xinu.ink/pic/data/159/images/weuv2h_1748970227507.jpg",
+    "geo": [
+      34.339498,
+      132.909939
+    ],
+    "ep": 3,
+    "s": 411
+  },
+  {
+    "id": "wf4xyk",
+    "name": "呉線広駅前",
+    "image": "https://image.xinu.ink/pic/data/159/images/wf4xyk_1748970698221.jpg",
+    "geo": [
+      34.228739,
+      132.628478
+    ],
+    "ep": 3,
+    "s": 440
+  },
+  {
+    "id": "wfn24o",
+    "name": "豊浜桟橋前駅",
+    "image": "https://image.xinu.ink/pic/data/159/images/wfn24o_1748971549331.jpg",
+    "geo": [
+      34.178997,
+      132.797652
+    ],
+    "ep": 3,
+    "s": 455,
+    "mark": "Google Map没有收录这个公交站，对于具体位置可以搜索旁边的建筑名：「豊島合同回漕店」"
+  },
+  {
+    "id": "wg2g65",
+    "name": "雄菎乃滝",
+    "image": "https://image.xinu.ink/pic/data/159/images/wg2g65_1748972261174.jpg",
+    "geo": [
+      34.169907,
+      132.789611
+    ],
+    "ep": 3,
+    "s": 581
+  },
+  {
+    "id": "wg7ymr",
+    "name": "雄菎乃滝",
+    "image": "https://image.xinu.ink/pic/data/159/images/wg7ymr_1748972517283.jpg",
+    "geo": [
+      34.169872,
+      132.789493
+    ],
+    "ep": 3,
+    "s": 611
+  },
+  {
+    "id": "wg9z0l",
+    "name": "雄菎乃滝",
+    "image": "https://image.xinu.ink/pic/data/159/images/wg9z0l_1748972611353.jpg",
+    "geo": [
+      34.169879,
+      132.789562
+    ],
+    "ep": 3,
+    "s": 635
+  },
+  {
+    "id": "wgiro4",
+    "name": "十文字山 展望台",
+    "image": "https://image.xinu.ink/pic/data/159/images/wgiro4_1748973023906.jpg",
+    "geo": [
+      34.167116,
+      132.782923
+    ],
+    "ep": 3,
+    "s": 742
+  },
+  {
+    "id": "wgk5ky",
+    "name": "十文字山 展望台",
+    "image": "https://image.xinu.ink/pic/data/159/images/wgk5ky_1748973087215.jpg",
+    "geo": [
+      34.167037,
+      132.782897
+    ],
+    "ep": 3,
+    "s": 761
+  },
+  {
+    "id": "wgkny9",
+    "name": "十文字山 展望台",
+    "image": "https://image.xinu.ink/pic/data/159/images/wgkny9_1748973111270.jpg",
+    "geo": [
+      34.167076,
+      132.7826
+    ],
+    "ep": 3,
+    "s": 813
+  },
+  {
+    "id": "10rgob9",
+    "name": "茶屋ゆかりの外",
+    "image": "https://image.xinu.ink/pic/data/159/images/10rgob9-1749233270647.jpg",
+    "geo": [
+      34.347258,
+      132.910125
+    ],
+    "ep": 2,
+    "s": 364
   }
 ]

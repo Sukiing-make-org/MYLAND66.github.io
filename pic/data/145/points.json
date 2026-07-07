@@ -252,5 +252,44 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "sw3karqbf",
+    "name": "都立​旧​岩崎​邸​庭園",
+    "image": "https://image.xinu.ink/pic/data/145/images/sw3karqbf_1739649733189.jpg",
+    "geo": [
+      35.709739,
+      139.767068
+    ]
+  },
+  {
+    "id": "sw3khotkp",
+    "name": "都立​旧​岩崎​邸​庭園",
+    "image": "https://image.xinu.ink/pic/data/145/images/sw3khotkp_1739649739825.jpg",
+    "geo": [
+      35.709814,
+      139.767024
+    ]
+  },
+  {
+    "id": "sw4num4es",
+    "name": "八千代第一公園",
+    "image": "https://image.xinu.ink/pic/data/145/images/sw4num4es_1739652120029.jpg",
+    "geo": [
+      35.704653,
+      140.091265
+    ],
+    "mark": "实景翻转"
+  },
+  {
+    "id": "ii11bepv3",
+    "name": "西郷從道邸",
+    "image": "https://image.xinu.ink/pic/data/145/images/ii11bepv3-1710336067192.jpg",
+    "geo": [
+      35.340086,
+      136.990229
+    ],
+    "mark": "久远寺有珠家的客房",
+    "cn": "西乡从道旧邸"
   }
 ]

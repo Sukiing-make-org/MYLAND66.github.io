@@ -213,5 +213,120 @@
     ],
     "origin": "Anitabi@Xmなのだ",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1vze8s2",
+    "name": "腰越ラッコ公園",
+    "image": "https://image.xinu.ink/pic/data/179/images/1vze8s2-1751121059703.jpg",
+    "geo": [
+      35.306677,
+      139.502094
+    ],
+    "ep": 46,
+    "s": 371,
+    "folder": "镰仓",
+    "origin": "木研丶",
+    "cn": "镰仓高校前站"
+  },
+  {
+    "id": "1vzkmqn",
+    "name": "龍口寺",
+    "image": "https://image.xinu.ink/pic/data/179/images/1vzkmqn-1751121466858.jpg",
+    "geo": [
+      35.310826,
+      139.489363
+    ],
+    "ep": 46,
+    "s": 563,
+    "folder": "镰仓",
+    "origin": "木研丶",
+    "cn": "龙口寺"
+  },
+  {
+    "id": "1vzu02u",
+    "name": "镰仓高校前",
+    "image": "https://image.xinu.ink/pic/data/179/images/1vzu02u-1751121800654.jpg",
+    "geo": [
+      35.30665,
+      139.501931
+    ],
+    "ep": 46,
+    "s": 1340,
+    "folder": "镰仓",
+    "origin": "木研丶",
+    "cn": "镰仓高校前站"
+  },
+  {
+    "id": "1w03ffw",
+    "name": "東京都虹の下水道館",
+    "image": "https://image.xinu.ink/pic/data/179/images/1w03ffw-1751122239551.jpg",
+    "geo": [
+      35.633531,
+      139.784524
+    ],
+    "folder": "台场",
+    "origin": "木研丶",
+    "cn": "彩虹下水道馆"
+  },
+  {
+    "id": "1w06n34",
+    "name": "电信中心",
+    "image": "https://image.xinu.ink/pic/data/179/images/1w06n34-1751122395731.jpg",
+    "geo": [
+      35.617255,
+      139.779965
+    ],
+    "folder": "台场",
+    "origin": "木研丶",
+    "cn": "电信中心内部"
+  },
+  {
+    "id": "1w0jnhc",
+    "name": "台场海滨公园",
+    "image": "https://image.xinu.ink/pic/data/179/images/1w0jnhc-1751122982825.jpg",
+    "geo": [
+      35.62926,
+      139.774005
+    ],
+    "folder": "台场",
+    "origin": "木研丶",
+    "cn": "台场海滨公园"
+  },
+  {
+    "id": "1vzvajn",
+    "name": "镰仓高校前",
+    "image": "https://image.xinu.ink/pic/data/179/images/1vzvajn-1751121846240.jpg",
+    "geo": [
+      35.306649,
+      139.501956
+    ],
+    "ep": "46",
+    "s": "1330",
+    "folder": "镰仓",
+    "origin": "木研丶",
+    "cn": "镰仓高校前站"
+  },
+  {
+    "id": "3m7zobi",
+    "name": "3 Chome-6-5 Nihonbashihoncho, Chuo City, Tokyo 103-0023日本",
+    "image": "https://image.xinu.ink/pic/data/179/images/3m7zobi-1754884408770.jpg",
+    "geo": [
+      35.68904,
+      139.776598
+    ],
+    "ep": "迪迦奥特曼第一季",
+    "cn": "華硝 日本橋店"
+  },
+  {
+    "id": "43xvqos",
+    "name": "Circular Quay",
+    "image": "https://image.xinu.ink/pic/data/179/images/43xvqos-1755955898369.jpg",
+    "geo": [
+      -33.861133,
+      151.212576
+    ],
+    "ep": "50",
+    "s": "5:29",
+    "cn": "悉尼环形码头"
   }
 ]

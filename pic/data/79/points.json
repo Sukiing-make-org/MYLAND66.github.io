@@ -141,5 +141,51 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1R1vM7cqIhMQhiGMjwoLsMf_hueY&ll=35.65618%2C139.73511&z=17"
+  },
+  {
+    "id": "kpx6oidsi",
+    "name": "愛宕山",
+    "image": "",
+    "geo": [
+      35.664653,
+      139.749076
+    ]
+  },
+  {
+    "id": "kpx6oighc",
+    "name": "鳥居坂",
+    "image": "",
+    "geo": [
+      35.657584,
+      139.733852
+    ]
+  },
+  {
+    "id": "kpx6oighw",
+    "name": "戸塚球場跡",
+    "image": "",
+    "geo": [
+      35.710833,
+      139.718746
+    ],
+    "mark": "（早稲田大学野球場、1902～1987）"
+  },
+  {
+    "id": "kpx6oih4r",
+    "name": "一之橋",
+    "image": "",
+    "geo": [
+      35.655315,
+      139.737693
+    ]
+  },
+  {
+    "id": "kpx6oihcg",
+    "name": "ハチ公象",
+    "image": "",
+    "geo": [
+      35.659056,
+      139.700581
+    ]
   }
 ]

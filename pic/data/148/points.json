@@ -131,5 +131,56 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n7lwcu7dk",
+    "name": "Basilica di San Pietro",
+    "image": "",
+    "geo": [
+      41.902153,
+      12.453737
+    ],
+    "cn": "圣伯多禄大殿"
+  },
+  {
+    "id": "vi0v9sla8",
+    "name": "横須賀中央駅",
+    "image": "https://image.xinu.ink/pic/data/148/images/plhnj7mw8_1730355065640.jpg",
+    "geo": [
+      35.278585,
+      139.670524
+    ],
+    "mark": "京浜急行電鉄",
+    "cn": "横须贺中央站"
+  },
+  {
+    "id": "vi0v9sl9f",
+    "name": "平和中央公園 展望広場",
+    "image": "https://image.xinu.ink/pic/data/148/images/plhvklwsm_1730355761056.jpg",
+    "geo": [
+      35.276217,
+      139.673098
+    ],
+    "mark": "远望猿岛"
+  },
+  {
+    "id": "vi0v9sm5h",
+    "name": "平和中央公園",
+    "image": "https://image.xinu.ink/pic/data/148/images/plhx3cn2w_1730355749752.jpg",
+    "geo": [
+      35.275451,
+      139.673584
+    ]
+  },
+  {
+    "id": "vi0v9slwx",
+    "name": "JR横須賀駅",
+    "image": "https://image.xinu.ink/pic/data/148/images/pli1lkxx4_1730355968417.jpg",
+    "geo": [
+      35.284076,
+      139.655591
+    ],
+    "mark": "站台",
+    "cn": "JR横须贺站"
   }
 ]

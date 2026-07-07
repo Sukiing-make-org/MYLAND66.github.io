@@ -401,5 +401,76 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1V_QTZIKzSeKg5ha1E-od0E_pZAI&ll=52.525099%2C13.369417&z=17"
+  },
+  {
+    "id": "kpwkd7t6y",
+    "name": "Kunsthof passage Dresden",
+    "image": "https://image.xinu.ink/pic/data/165/images/kpwkd7t6y-1752728573573.jpg",
+    "geo": [
+      51.067944,
+      13.754647
+    ],
+    "ep": 6,
+    "mark": "Ep 6 (Dresden, Germany)"
+  },
+  {
+    "id": "106ft9ba1m",
+    "name": "Milan Cathedral",
+    "image": "",
+    "geo": [
+      45.464268,
+      9.190959
+    ],
+    "mark": "The Movie (Milan, Italy) Duomo di Milano"
+  },
+  {
+    "id": "kpwkd7tro",
+    "name": "Statue of Liberty",
+    "image": "",
+    "geo": [
+      40.68985,
+      -74.044868
+    ],
+    "mark": "The Movie Key Visual"
+  },
+  {
+    "id": "kpwkd7th2",
+    "name": "Merlion",
+    "image": "",
+    "geo": [
+      1.253448,
+      103.818886
+    ],
+    "mark": "The Movie Key Visual"
+  },
+  {
+    "id": "kpwkd7tpw",
+    "name": "Church of San Michele in Foro",
+    "image": "",
+    "geo": [
+      43.843147,
+      10.503046
+    ],
+    "mark": "The Movie Key Visual"
+  },
+  {
+    "id": "kpwkd7tq2",
+    "name": "La Rocca o Guaita",
+    "image": "",
+    "geo": [
+      43.935493,
+      12.450041
+    ],
+    "mark": "The Movie Key Visual"
+  },
+  {
+    "id": "kpwkd7t1w",
+    "name": "GRANDUO",
+    "image": "",
+    "geo": [
+      35.697422,
+      139.414017
+    ],
+    "mark": "コラボ"
   }
 ]

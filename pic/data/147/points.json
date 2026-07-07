@@ -457,5 +457,42 @@
       35.531,
       139.4386
     ]
+  },
+  {
+    "id": "2zn0gr4",
+    "name": "小田急町田駅 3･4番ホーム",
+    "image": "https://image.xinu.ink/pic/data/147/images/2zn0gr4-1753519188671.jpg",
+    "geo": [
+      35.543316,
+      139.444445
+    ],
+    "ep": 1,
+    "s": 33,
+    "mark": "往相模大野方向拍摄，原作列车为小田急3000形。拍摄列车时请遵守站台工作人员指引。另外OVA中也复用了该镜头素材",
+    "cn": "小田急町田站 3･4站台"
+  },
+  {
+    "id": "50chsdfnk",
+    "name": "金閣寺",
+    "image": "https://image.xinu.ink/pic/data/147/images/50chsdfnk_1672275983328.jpg",
+    "geo": [
+      35.039281,
+      135.729538
+    ],
+    "ep": 3,
+    "s": 722,
+    "cn": "金阁寺(鹿苑寺)"
+  },
+  {
+    "id": "o4ltimzon",
+    "name": "阿佐谷神明宮",
+    "image": "https://image.xinu.ink/pic/data/147/images/o4ltimzon_1726210843417.jpg",
+    "geo": [
+      35.707161,
+      139.636998
+    ],
+    "ep": 12,
+    "s": 308,
+    "cn": "阿佐谷神明宫"
   }
 ]

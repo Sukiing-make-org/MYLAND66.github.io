@@ -8,5 +8,80 @@
       35.2679,
       136.2534
     ]
+  },
+  {
+    "id": "1yjhkxb",
+    "name": "外房黒潮ライン",
+    "image": "https://image.xinu.ink/pic/data/192/images/1yjhkxb_1751275968809.jpg",
+    "geo": [
+      35.074215,
+      140.08519
+    ]
+  },
+  {
+    "id": "1ykxc2p",
+    "name": "弁財天仲見世通り 手作り箸工房遊膳前",
+    "image": "https://image.xinu.ink/pic/data/192/images/1ykxc2p_1751278238131.jpg",
+    "geo": [
+      35.301894,
+      139.480937
+    ],
+    "mark": "仅左侧部分一致"
+  },
+  {
+    "id": "1yl6sed",
+    "name": "ひがし茶屋街 志摩前",
+    "image": "https://image.xinu.ink/pic/data/192/images/1yl6sed_1751278964236.jpg",
+    "geo": [
+      36.572508,
+      136.666872
+    ],
+    "mark": "需左右反转"
+  },
+  {
+    "id": "23ax0ra",
+    "name": "ひがし茶屋街",
+    "image": "https://image.xinu.ink/pic/data/192/images/23ax0ra_1751563657315.jpg",
+    "geo": [
+      36.572445,
+      136.667925
+    ]
+  },
+  {
+    "id": "oii997x03",
+    "name": "爪木崎灯台",
+    "image": "https://image.xinu.ink/pic/data/192/images/lqktrgq2t-1724577690033.jpg",
+    "geo": [
+      34.659289,
+      138.986072
+    ],
+    "cn": "爪木崎灯塔"
+  },
+  {
+    "id": "23acpx0",
+    "name": "主計町茶屋街",
+    "image": "https://image.xinu.ink/pic/data/192/images/23acpx0_1751562708930.jpg",
+    "geo": [
+      36.572006,
+      136.663825
+    ]
+  },
+  {
+    "id": "23amfs0",
+    "name": "豎崎路",
+    "image": "https://image.xinu.ink/pic/data/192/images/23amfs0_1751563215785.jpg",
+    "geo": [
+      25.108623,
+      121.843564
+    ]
+  },
+  {
+    "id": "23au8p9",
+    "name": "基山街",
+    "image": "https://image.xinu.ink/pic/data/192/images/23au8p9_1751563529963.jpg",
+    "geo": [
+      25.109409,
+      121.845367
+    ]
   }
 ]

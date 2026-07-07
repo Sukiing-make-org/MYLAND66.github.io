@@ -295,5 +295,126 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5qy1vz4m",
+    "name": "JR札幌駅南口",
+    "image": "",
+    "geo": [
+      43.06725,
+      141.350548
+    ],
+    "mark": "北へ。～Diamond Dust～舞台",
+    "folder": "ゲーム版"
+  },
+  {
+    "id": "5qy1vysk",
+    "name": "サッポロファクトリー",
+    "image": "",
+    "geo": [
+      43.065423,
+      141.36294
+    ],
+    "mark": "北へ。～Diamond Dust～舞台",
+    "folder": "ゲーム版"
+  },
+  {
+    "id": "5qy1vyrc",
+    "name": "札幌テレビ塔前",
+    "image": "",
+    "geo": [
+      43.060979,
+      141.355945
+    ],
+    "mark": "北へ。～Diamond Dust～舞台",
+    "folder": "ゲーム版"
+  },
+  {
+    "id": "5qy1vzb4",
+    "name": "大通公園2丁目",
+    "image": "",
+    "geo": [
+      43.060869,
+      141.354561
+    ],
+    "mark": "北へ。～Diamond Dust～舞台",
+    "folder": "ゲーム版"
+  },
+  {
+    "id": "5qy1vyr9",
+    "name": "大通公園5丁目",
+    "image": "",
+    "geo": [
+      43.060466,
+      141.350326
+    ],
+    "mark": "北へ。～Diamond Dust～舞台",
+    "folder": "ゲーム版"
+  },
+  {
+    "id": "5qy1vym4",
+    "name": "すすきの南４西４交差点",
+    "image": "",
+    "geo": [
+      43.055923,
+      141.353523
+    ],
+    "mark": "北へ。～Diamond Dust～舞台",
+    "folder": "ゲーム版"
+  },
+  {
+    "id": "5qy1vz3j",
+    "name": "森彦本店",
+    "image": "",
+    "geo": [
+      43.053257,
+      141.318525
+    ],
+    "mark": "北へ。～Diamond Dust～舞台",
+    "folder": "ゲーム版"
+  },
+  {
+    "id": "5qy1vypa",
+    "name": "新千歳空港",
+    "image": "",
+    "geo": [
+      42.788835,
+      141.681018
+    ],
+    "mark": "北へ。～Diamond Dust～舞台",
+    "folder": "ゲーム版"
+  },
+  {
+    "id": "5qy1vz6u",
+    "name": "定山渓温泉",
+    "image": "",
+    "geo": [
+      42.965049,
+      141.162507
+    ],
+    "mark": "北へ。～Diamond Dust～舞台",
+    "folder": "ゲーム版"
+  },
+  {
+    "id": "5qy1vzbr",
+    "name": "旭橋",
+    "image": "",
+    "geo": [
+      43.77747,
+      142.358737
+    ],
+    "mark": "北野スオミ編",
+    "folder": "旭川篇"
+  },
+  {
+    "id": "5qy1vzb6",
+    "name": "シンボルタワー",
+    "image": "",
+    "geo": [
+      43.774708,
+      142.36246
+    ],
+    "mark": "北野スオミ編",
+    "folder": "旭川篇"
   }
 ]

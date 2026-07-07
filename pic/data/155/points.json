@@ -20,5 +20,56 @@
       35.7117,
       139.5659
     ]
+  },
+  {
+    "id": "5drrlh7",
+    "name": "つくばセンター（つくば駅）ペデストリアンデッキ",
+    "image": "https://image.xinu.ink/pic/data/155/images/5drrlh7_1758816460678.jpg",
+    "geo": [
+      36.082192,
+      140.112847
+    ],
+    "ep": 12,
+    "s": 110,
+    "folder": "筑波市",
+    "cn": "筑波中心（筑波站）空中走廊"
+  },
+  {
+    "id": "5ds0waw",
+    "name": "つくばセンター（つくば駅）１番バスのりば",
+    "image": "https://image.xinu.ink/pic/data/155/images/5ds0waw_1758816476151.jpg",
+    "geo": [
+      36.082462,
+      140.1121
+    ],
+    "ep": 12,
+    "s": 113,
+    "folder": "筑波市",
+    "cn": "筑波中心（筑波站）１号公交站台"
+  },
+  {
+    "id": "5a4lwy0",
+    "name": "筑波大学附属病院",
+    "image": "https://image.xinu.ink/pic/data/155/images/5a4lwy0_1758816502520.jpg",
+    "geo": [
+      36.092536,
+      140.102226
+    ],
+    "ep": 12,
+    "s": 559,
+    "folder": "筑波市"
+  },
+  {
+    "id": "5a51url",
+    "name": "筑波大学病院 バス停",
+    "image": "https://image.xinu.ink/pic/data/155/images/5a51url_1758816526288.jpg",
+    "geo": [
+      36.09182,
+      140.1013
+    ],
+    "ep": 12,
+    "s": 597,
+    "folder": "筑波市",
+    "cn": "筑波大学病院 公交站"
   }
 ]

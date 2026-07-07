@@ -45,5 +45,49 @@
     ],
     "origin": "Anitabi@Zyglisfer",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n7zvjcym9",
+    "name": "金沢大学 自然科学本館",
+    "image": "https://image.xinu.ink/pic/data/85/images/n7zvjcym9-1723655420949.jpg",
+    "geo": [
+      36.544635,
+      136.706069
+    ],
+    "ep": 1,
+    "s": 1100
+  },
+  {
+    "id": "n7zx3k2ft",
+    "name": "金沢大学",
+    "image": "https://image.xinu.ink/pic/data/85/images/n7zx3k2ft-1723655509302.jpg",
+    "geo": [
+      36.54702,
+      136.709543
+    ]
+  },
+  {
+    "id": "3wvop6c",
+    "name": "大学会館",
+    "image": "https://image.xinu.ink/pic/data/85/images/3wvop6c-1755528898743.jpg",
+    "geo": [
+      36.548408,
+      136.709796
+    ],
+    "ep": 4,
+    "s": 116,
+    "origin": "suichan1oshi"
+  },
+  {
+    "id": "3wv4omg",
+    "name": "アカンサス インターフェイス",
+    "image": "https://image.xinu.ink/pic/data/85/images/3wv4omg-1755527932152.jpg",
+    "geo": [
+      36.547888,
+      136.708685
+    ],
+    "ep": 13,
+    "s": 1400,
+    "origin": "suichan1oshi"
   }
 ]

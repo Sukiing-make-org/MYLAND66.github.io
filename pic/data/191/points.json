@@ -256,5 +256,43 @@
     ],
     "origin": "Anitabi@LovelySummer Channel",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "prdrbakzn",
+    "name": "Dennoshiori",
+    "image": "https://image.xinu.ink/pic/data/191/images/prdrbakzn_1730816788360.jpg",
+    "geo": [
+      35.664976,
+      139.712608
+    ],
+    "ep": 1,
+    "s": 2400,
+    "cn": "传之书签居酒屋"
+  },
+  {
+    "id": "ure2jhreg",
+    "name": "梅津寺駅",
+    "image": "https://image.xinu.ink/pic/data/191/images/ure2jhreg-1744923174709.jpg",
+    "geo": [
+      33.874558,
+      132.707499
+    ],
+    "ep": 11,
+    "s": 1257,
+    "mark": "rika给丸子留手帕的地方"
+  },
+  {
+    "id": "uz2vmo6jt",
+    "name": "久万中学校",
+    "image": "https://image.xinu.ink/pic/data/191/images/uz2vmo6jt-1745525712333.jpg",
+    "geo": [
+      33.673128,
+      132.938712
+    ],
+    "ep": 11,
+    "s": 54,
+    "mark": "学校已经被拆了（和剧里说的一样）但是柱子还留着",
+    "origin": "全国ロケ地ガイド",
+    "originURL": "https://loca.ash.jp/info/1994/d199101_tokyolove.htm"
   }
 ]

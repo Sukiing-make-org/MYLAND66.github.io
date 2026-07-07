@@ -74,5 +74,48 @@
       41.007,
       140.6488
     ]
+  },
+  {
+    "id": "kpx6oicl2",
+    "name": "蟹田駅",
+    "image": "https://image.xinu.ink/pic/data/78/images/kpx6oicl2-1747660498514.jpg",
+    "geo": [
+      41.038279,
+      140.64259
+    ],
+    "s": 143,
+    "mark": "雲のむこう、約束の場所舞台"
+  },
+  {
+    "id": "arfakz",
+    "name": "東大安田講堂",
+    "image": "https://image.xinu.ink/pic/data/78/images/arfakz-1747661169336.jpg",
+    "geo": [
+      35.713249,
+      139.762156
+    ],
+    "s": 2260
+  },
+  {
+    "id": "arfav1",
+    "name": "東大赤門前",
+    "image": "https://image.xinu.ink/pic/data/78/images/arfav1-1747661265149.jpg",
+    "geo": [
+      35.710602,
+      139.760217
+    ],
+    "s": 2347
+  },
+  {
+    "id": "1w283to",
+    "name": "高架下（JR今別駅北側）",
+    "image": "https://image.xinu.ink/pic/data/78/images/1w283to-1751125863403.jpg",
+    "geo": [
+      41.181803,
+      140.487369
+    ],
+    "ep": "剧场版",
+    "s": 3727,
+    "cn": "高架下（JR今別駅北側）"
   }
 ]

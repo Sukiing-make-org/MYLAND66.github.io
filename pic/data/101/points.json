@@ -304,5 +304,111 @@
     ],
     "origin": "サインを奪いにいくツイッター",
     "originLink": "https://x.com/nEdP5mczMLSHbKc/status/1194027037041672192"
+  },
+  {
+    "id": "llbg2l7oc",
+    "name": "荻窪駅北口青梅街道歩道橋",
+    "image": "https://image.xinu.ink/pic/data/101/images/llbg2l7oc_1719057112691.jpg",
+    "geo": [
+      35.705523,
+      139.619846
+    ],
+    "ep": 1,
+    "s": 88,
+    "mark": "天桥上面朝北。",
+    "folder": "杉並",
+    "origin": "サインを奪いにいくツイッター",
+    "originURL": "https://note.com/sainwoubainiiku/n/n5f842a630fac"
+  },
+  {
+    "id": "lkyrmduyf",
+    "name": "荻窪駅北口青梅街道歩道橋",
+    "image": "https://image.xinu.ink/pic/data/101/images/lkyrmduyf_1719029834206.jpg",
+    "geo": [
+      35.705464,
+      139.619821
+    ],
+    "ep": 1,
+    "s": 93,
+    "mark": "天桥上面朝西。",
+    "folder": "杉並",
+    "origin": "サインを奪いにいくツイッター",
+    "originURL": "https://note.com/sainwoubainiiku/n/n5f842a630fac"
+  },
+  {
+    "id": "ll0ermmax",
+    "name": "渋谷スクランブル交差点",
+    "image": "https://image.xinu.ink/pic/data/101/images/ll0ermmax_1719033088159.jpg",
+    "geo": [
+      35.659408,
+      139.700836
+    ],
+    "ep": 5,
+    "s": 186,
+    "mark": "面朝东北，前为三千里薬品神南店和天津甘栗。",
+    "folder": "渋谷"
+  },
+  {
+    "id": "llaclp0o5",
+    "name": "渋谷スクランブル交差点",
+    "image": "https://image.xinu.ink/pic/data/101/images/llaclp0o5_1719054733489.jpg",
+    "geo": [
+      35.659587,
+      139.700831
+    ],
+    "ep": 5,
+    "s": 522,
+    "mark": "面朝南。",
+    "folder": "渋谷"
+  },
+  {
+    "id": "kpx6ollt9",
+    "name": "渋谷スクランブル交差点",
+    "image": "https://image.xinu.ink/pic/data/101/images/kpx6ollt9_1719032733407.jpg",
+    "geo": [
+      35.659519,
+      139.700622
+    ],
+    "ep": 5,
+    "s": 906,
+    "mark": "面朝北，左为西武渋谷店，右为三千里薬品神南店。",
+    "folder": "渋谷"
+  },
+  {
+    "id": "ll0vdvx86",
+    "name": "渋谷スクランブル交差点",
+    "image": "https://image.xinu.ink/pic/data/101/images/ll0vdvx86_1719034100265.jpg",
+    "geo": [
+      35.659588,
+      139.70066
+    ],
+    "ep": 5,
+    "s": 910,
+    "mark": "面朝北，左为西武渋谷店，右为渋谷マルイ顶部的OIOI招牌（已拆除）。",
+    "folder": "渋谷"
+  },
+  {
+    "id": "lkxbted1v",
+    "name": "神南小学校下交差点",
+    "image": "https://image.xinu.ink/pic/data/101/images/lkxbted1v_1719026380065.jpg",
+    "geo": [
+      35.662154,
+      139.697348
+    ],
+    "ep": 13,
+    "s": 647,
+    "folder": "渋谷"
+  },
+  {
+    "id": "lkyk88xzz",
+    "name": "宮下公園前歩道橋",
+    "image": "https://image.xinu.ink/pic/data/101/images/lkyk88xzz_1719029070834.jpg",
+    "geo": [
+      35.661439,
+      139.702236
+    ],
+    "ep": 13,
+    "s": 1190,
+    "folder": "渋谷"
   }
 ]

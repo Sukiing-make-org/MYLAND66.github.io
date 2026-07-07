@@ -15,10 +15,17 @@
       ]
     }
   ],
-  "pointsLength": 1,
+  "pointsLength": 9,
   "imagesLength": 1,
   "local_id": 192,
   "region": [
     "滋賀县"
-  ]
+  ],
+  "color": "#f1cd63",
+  "cat": "游戏",
+  "geo": [
+    35.074215,
+    140.08519
+  ],
+  "zoom": 16
 }

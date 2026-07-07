@@ -351,5 +351,76 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nqk3dn7xh",
+    "name": "清水寺",
+    "image": "https://image.xinu.ink/pic/data/109/images/nqk3dn7xh-1725109985621.jpg",
+    "geo": [
+      34.994625,
+      135.785301
+    ],
+    "cn": "清水寺"
+  },
+  {
+    "id": "v0l5c3h9o",
+    "name": "仁和寺御殿廻廊",
+    "image": "https://image.xinu.ink/pic/data/109/images/v0l5c3h9o-1745643726170.jpg",
+    "geo": [
+      35.02834,
+      135.713648
+    ],
+    "ep": "EP1",
+    "s": "01:28:06",
+    "cn": "仁和寺御殿走廊"
+  },
+  {
+    "id": "v0lbiq1qr",
+    "name": "三条通",
+    "image": "https://image.xinu.ink/pic/data/109/images/v0lbiq1qr-1745644063514.jpg",
+    "geo": [
+      35.008655,
+      135.766336
+    ],
+    "ep": "EP1",
+    "s": "00:21:21",
+    "cn": "三条通"
+  },
+  {
+    "id": "v0lf35jly",
+    "name": "お茶屋 楠本",
+    "image": "https://image.xinu.ink/pic/data/109/images/v0lf35jly-1745644424862.jpg",
+    "geo": [
+      35.00454,
+      135.771092
+    ],
+    "ep": "EP1",
+    "s": "00:32:19",
+    "cn": "茶屋 楠本"
+  },
+  {
+    "id": "v0lm7hton",
+    "name": "本能公園前",
+    "image": "https://image.xinu.ink/pic/data/109/images/v0lm7hton-1745644722119.jpg",
+    "geo": [
+      35.007349,
+      135.754118
+    ],
+    "ep": "EP1",
+    "s": "00:58:55",
+    "cn": "本能公园前"
+  },
+  {
+    "id": "67v0yb4",
+    "name": "蹴上インクラインは",
+    "image": "https://image.xinu.ink/pic/data/109/images/67v0yb4-1760546543017.jpg",
+    "geo": [
+      35.010076,
+      135.789099
+    ],
+    "s": 1485,
+    "mark": "作品中有樱花飞舞，若要还原，需春季前往",
+    "origin": "兰陌_逾九天",
+    "cn": "蹴上倾斜铁道"
   }
 ]

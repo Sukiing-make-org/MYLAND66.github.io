@@ -187,5 +187,103 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1l5ZKFG7W9WwNapiwWxKO7N1ng9Y&ll=40.078313%2C-2.130556&z=17"
+  },
+  {
+    "id": "4ui7g7sdz",
+    "name": "クエンカ駅（在来線）",
+    "image": "",
+    "geo": [
+      40.067153,
+      -2.136787
+    ]
+  },
+  {
+    "id": "4ui7g7sh8",
+    "name": "クエンカ駅（新幹線AVE）",
+    "image": "",
+    "geo": [
+      40.039148,
+      -2.15096
+    ]
+  },
+  {
+    "id": "4ui7g7ss2",
+    "name": "第01話 水かけ祭（雑踏）",
+    "image": "https://image.xinu.ink/pic/data/125/images/4ui7g7ss2_1716305869621.jpg",
+    "geo": [
+      40.080387,
+      -2.128902
+    ],
+    "ep": 1
+  },
+  {
+    "id": "4ui7g7sj5",
+    "name": "第01話 水かけ祭（雑踏）",
+    "image": "https://image.xinu.ink/pic/data/125/images/4ui7g7sj5_1716305915733.jpg",
+    "geo": [
+      40.077015,
+      -2.130205
+    ],
+    "ep": 1
+  },
+  {
+    "id": "4ui7g7sky",
+    "name": "第01話 水かけ祭（雑踏）",
+    "image": "https://image.xinu.ink/pic/data/125/images/4ui7g7sky_1716305932096.jpg",
+    "geo": [
+      40.077841,
+      -2.128631
+    ],
+    "ep": 1
+  },
+  {
+    "id": "4ui7g7sey",
+    "name": "第01話 水かけ祭（雑踏）",
+    "image": "https://image.xinu.ink/pic/data/125/images/4ui7g7sey_1716305947886.jpg",
+    "geo": [
+      40.077852,
+      -2.12997
+    ],
+    "ep": 1
+  },
+  {
+    "id": "4ui7g7s8u",
+    "name": "第01話 水かけ祭（雑踏）",
+    "image": "https://image.xinu.ink/pic/data/125/images/4ui7g7s8u_1716306139778.jpg",
+    "geo": [
+      40.08136,
+      -2.127945
+    ],
+    "ep": 1
+  },
+  {
+    "id": "4ui7g7sjt",
+    "name": "第01話 水かけ祭（雑踏）",
+    "image": "https://image.xinu.ink/pic/data/125/images/4ui7g7sjt_1716306168305.jpg",
+    "geo": [
+      40.078188,
+      -2.129422
+    ],
+    "ep": 1
+  },
+  {
+    "id": "4ui7g7sc7",
+    "name": "第01話 水かけ祭（雑踏）",
+    "image": "https://image.xinu.ink/pic/data/125/images/4ui7g7sc7_1716306280232.jpg",
+    "geo": [
+      40.078684,
+      -2.130098
+    ],
+    "ep": 1
+  },
+  {
+    "id": "4ui7g7st0",
+    "name": "第01話 水かけ祭「カナタ」",
+    "image": "https://image.xinu.ink/pic/data/125/images/4ui7g7st0_1716306481172.jpg",
+    "geo": [
+      40.078252,
+      -2.130055
+    ],
+    "ep": 1
   }
 ]

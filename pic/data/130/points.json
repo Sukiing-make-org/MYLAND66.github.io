@@ -93,5 +93,25 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ndm88lu1y",
+    "name": "なんばパークス",
+    "image": "https://image.xinu.ink/pic/data/130/images/ndm88lu1y_1724095888230.jpg",
+    "geo": [
+      34.661318,
+      135.502048
+    ],
+    "cn": "难波公园"
+  },
+  {
+    "id": "8jvsdjv",
+    "name": "难波公园",
+    "image": "https://image.xinu.ink/pic/data/130/images/8jvsdjv-1765626947296.jpg",
+    "geo": [
+      34.662475,
+      135.502012
+    ],
+    "mark": "实际为商场顶层公园，无学校围墙且校外地景不完全一致"
   }
 ]
