@@ -673977,5 +673977,24 @@
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/6838/points.json"
+  },
+  "6839": {
+    "name": "さよなら ララ",
+    "name_cn": "",
+    "cover": "",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "6839-1",
+        "name": "Otsuminato Symbol Ryokuchi Park",
+        "image": "",
+        "ep": "1",
+        "geo": [
+          35.013366,
+          135.865829
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6839/points.json"
   }
 }
