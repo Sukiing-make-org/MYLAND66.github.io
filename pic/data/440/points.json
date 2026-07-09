@@ -286,5 +286,43 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1dAoFpnYQj7xxSV9aJZRj6k0Mpfk&ll=35.281822%2C139.66748&z=17"
+  },
+  {
+    "id": "680xe5ecw",
+    "name": "海上自衛隊第1術科学校",
+    "image": "https://image.xinu.ink/pic/data/440/images/680xe5ecw_1675698868600.jpg",
+    "geo": [
+      34.245139,
+      132.473682
+    ],
+    "ep": 1,
+    "s": 183,
+    "cn": "海上自卫队第1术科学校"
+  },
+  {
+    "id": "68138kolq",
+    "name": 12,
+    "image": "https://image.xinu.ink/pic/data/440/images/68138kolq_1675699189524.jpg",
+    "geo": [
+      35.280702,
+      139.665635
+    ],
+    "ep": 2,
+    "s": 250,
+    "folder": "诹访大神社",
+    "cn": "诹访大神社 楼梯"
+  },
+  {
+    "id": "68101gm1g",
+    "name": "諏訪大神社",
+    "image": "https://image.xinu.ink/pic/data/440/images/68101gm1g_1675699411390.jpg",
+    "geo": [
+      35.28069,
+      139.665401
+    ],
+    "ep": 2,
+    "s": 265,
+    "folder": "诹访大神社",
+    "cn": "诹访大神社"
   }
 ]

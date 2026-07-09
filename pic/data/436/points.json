@@ -526,5 +526,84 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1Usadnvvs8giq3daO_NjMV5A_Zb0&ll=35.310888%2C139.546754&z=17"
+  },
+  {
+    "id": "24ty84v5",
+    "name": "御霊神社",
+    "image": "https://image.xinu.ink/pic/data/436/images/24ty84v5_1716985466635.jpg",
+    "geo": [
+      35.310991,
+      139.532893
+    ],
+    "mark": "1巻167-174舞台、2巻ｐ12-15"
+  },
+  {
+    "id": "24ty84t7",
+    "name": "桜島",
+    "image": "",
+    "geo": [
+      31.589649,
+      130.666476
+    ],
+    "mark": "2巻ｐ159"
+  },
+  {
+    "id": "24ty84ye",
+    "name": "高知城",
+    "image": "",
+    "geo": [
+      33.560838,
+      133.531179
+    ],
+    "mark": "2巻ｐ159"
+  },
+  {
+    "id": "24ty85wd",
+    "name": "江ノ島弁天橋",
+    "image": "https://image.xinu.ink/pic/data/436/images/24ty85wd_1754468950120.jpg",
+    "geo": [
+      35.305862,
+      139.482853
+    ],
+    "mark": "2巻ｐ3"
+  },
+  {
+    "id": "24ty85qk",
+    "name": "鎌倉大仏",
+    "image": "https://image.xinu.ink/pic/data/436/images/24ty85qk_1754469115553.jpg",
+    "geo": [
+      35.315957,
+      139.535435
+    ],
+    "mark": "2巻ｐ7-11"
+  },
+  {
+    "id": "24ty8653",
+    "name": "稲村ケ崎温泉",
+    "image": "",
+    "geo": [
+      35.303266,
+      139.524414
+    ],
+    "mark": "2巻ｐ110"
+  },
+  {
+    "id": "24ty872m",
+    "name": "喫茶ミンカ",
+    "image": "",
+    "geo": [
+      35.335427,
+      139.547151
+    ],
+    "mark": "2巻？"
+  },
+  {
+    "id": "24ty86fg",
+    "name": "星空荘",
+    "image": "",
+    "geo": [
+      24.061128,
+      123.776088
+    ]
   }
 ]

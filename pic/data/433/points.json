@@ -268,5 +268,64 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "sz2xesagq",
+    "name": "上海大世界",
+    "image": "https://image.xinu.ink/pic/data/433/images/sz2xesagq_1739883434147.jpg",
+    "geo": [
+      31.230417,
+      121.474073
+    ],
+    "ep": 4,
+    "s": 1285
+  },
+  {
+    "id": "sz5c6o00y",
+    "name": "山下公園",
+    "image": "https://image.xinu.ink/pic/data/433/images/sz5c6o00y_1739888723382.jpg",
+    "geo": [
+      35.446131,
+      139.65004
+    ],
+    "ep": 8,
+    "s": 914,
+    "cn": "山下公园"
+  },
+  {
+    "id": "sz5do0ny8",
+    "name": "山下公園",
+    "image": "https://image.xinu.ink/pic/data/433/images/sz5do0ny8_1739888773879.jpg",
+    "geo": [
+      35.446238,
+      139.649873
+    ],
+    "ep": 8,
+    "s": 920,
+    "cn": "山下公园"
+  },
+  {
+    "id": "sz4ujrwdl",
+    "name": "イギリス総領事公邸",
+    "image": "https://image.xinu.ink/pic/data/433/images/sz4ujrwdl_1739888335867.jpg",
+    "geo": [
+      35.439493,
+      139.654343
+    ],
+    "ep": 8,
+    "s": 620,
+    "cn": "英国总领事公邸"
+  },
+  {
+    "id": "sz4uzk4e5",
+    "name": "イギリス総領事公邸",
+    "image": "https://image.xinu.ink/pic/data/433/images/sz4uzk4e5_1739888384545.jpg",
+    "geo": [
+      35.439512,
+      139.654175
+    ],
+    "ep": 8,
+    "s": 687,
+    "cn": "英国总领事公邸"
   }
 ]

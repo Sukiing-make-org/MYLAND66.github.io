@@ -188,5 +188,56 @@
       35.6262,
       139.7706
     ]
+  },
+  {
+    "id": "ov4i2z4zx",
+    "name": "のぞき坂",
+    "image": "https://image.xinu.ink/pic/data/422/images/ov4i2z4zx_1728288979338.jpg",
+    "geo": [
+      35.717339,
+      139.713741
+    ],
+    "ep": 3,
+    "s": 50
+  },
+  {
+    "id": "lqfm1yuy9",
+    "name": "井荻橋",
+    "image": "https://image.xinu.ink/pic/data/422/images/4yu7y1wcw.jpg",
+    "geo": [
+      35.707565,
+      139.599589
+    ],
+    "ep": 5,
+    "s": 1044,
+    "cn": "井荻桥"
+  },
+  {
+    "id": "kpx6oh30w",
+    "name": "千登世橋",
+    "image": "",
+    "geo": [
+      35.718778,
+      139.713832
+    ]
+  },
+  {
+    "id": "kpx6oh3pd",
+    "name": "曙橋",
+    "image": "",
+    "geo": [
+      35.713896,
+      139.713274
+    ],
+    "mark": "2期9話で登場"
+  },
+  {
+    "id": "kpx6oh3nq",
+    "name": "面影橋駅",
+    "image": "",
+    "geo": [
+      35.713012,
+      139.714214
+    ]
   }
 ]

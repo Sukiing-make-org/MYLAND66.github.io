@@ -332,5 +332,172 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1EfmWkl6hOVLB8n-DKIrQnFZYl64&ll=37.396142%2C140.375308&z=17"
+  },
+  {
+    "id": "kpx6otssr",
+    "name": "ビッグアイ22F展望室",
+    "image": "https://image.xinu.ink/pic/data/333/images/kpx6otssr_1772971028868.jpg",
+    "geo": [
+      37.399687,
+      140.388064
+    ],
+    "ep": 1,
+    "mark": "１話冒頭俯瞰（？）",
+    "folder": "郡山市内"
+  },
+  {
+    "id": "kpx6otutb",
+    "name": "ル・ヴェルジェ郡山堤下店",
+    "image": "https://image.xinu.ink/pic/data/333/images/kpx6otutb_1775141343580.jpg",
+    "geo": [
+      37.390865,
+      140.377529
+    ],
+    "ep": 5,
+    "s": 541,
+    "mark": "５話。",
+    "folder": "郡山市内"
+  },
+  {
+    "id": "kpx6ott3y",
+    "name": "薄皮たい焼き たい夢 郡山店",
+    "image": "https://image.xinu.ink/pic/data/333/images/kpx6ott3y_1775141088842.jpg",
+    "geo": [
+      37.398997,
+      140.383151
+    ],
+    "ep": 5,
+    "s": 594,
+    "mark": "５話。※閉店済み。",
+    "folder": "郡山市内"
+  },
+  {
+    "id": "kpx6otxo0",
+    "name": "夢・菓子工房かめまん　開成店",
+    "image": "https://image.xinu.ink/pic/data/333/images/kpx6otxo0_1775141102076.jpg",
+    "geo": [
+      37.395029,
+      140.354875
+    ],
+    "ep": 5,
+    "s": 596,
+    "mark": "5話。※2015年春に閉店とのこと。",
+    "folder": "郡山市内"
+  },
+  {
+    "id": "kpx6otxqx",
+    "name": "コーヒーハウス プティバリー",
+    "image": "https://image.xinu.ink/pic/data/333/images/kpx6otxqx_1775141367231.jpg",
+    "geo": [
+      37.392619,
+      140.352949
+    ],
+    "ep": 5,
+    "s": 597,
+    "mark": "5話。※2015年4月現在休業状態とのこと。",
+    "folder": "郡山市内"
+  },
+  {
+    "id": "kpx6otsk1",
+    "name": "タワーレコード郡山店",
+    "image": "",
+    "geo": [
+      37.397037,
+      140.387421
+    ],
+    "mark": "番外編。等身大パネルなど特設コーナーあり。（※2014年2月時点では同じビルのアニメイト郡山店に特設コーナーがありました。）",
+    "folder": "郡山市内"
+  },
+  {
+    "id": "kpx6otu4c",
+    "name": "安積国造神社",
+    "image": "https://image.xinu.ink/pic/data/333/images/kpx6otu4c_1774018686361.jpg",
+    "geo": [
+      37.398665,
+      140.38197
+    ],
+    "ep": "OP1",
+    "mark": "OP。",
+    "folder": "郡山市内"
+  },
+  {
+    "id": "kpx6otz8v",
+    "name": "若松城（鶴ヶ城）天守閣",
+    "image": "https://image.xinu.ink/pic/data/333/images/kpx6otz8v_1774018708833.jpg",
+    "geo": [
+      37.488276,
+      139.929686
+    ],
+    "ep": 3,
+    "s": 842,
+    "mark": "3話の小ネタ。",
+    "folder": "会津地方"
+  },
+  {
+    "id": "kpx6ou1fi",
+    "name": "玉梨とうふ茶屋",
+    "image": "",
+    "geo": [
+      37.405423,
+      139.551693
+    ],
+    "ep": 12,
+    "mark": "12話の川上バス停の向かい。地元有志による未確認で進行形舞台探訪マップ絶賛配布中。（2014年8月15日時点）",
+    "folder": "会津地方"
+  },
+  {
+    "id": "kpx6ou0sk",
+    "name": "夜ノ森駅",
+    "image": "",
+    "geo": [
+      37.366269,
+      140.991583
+    ],
+    "mark": "夜ノ森家の苗字の由来となった駅。",
+    "folder": "浜通り"
+  },
+  {
+    "id": "kpx6ou1ms",
+    "name": "桃内駅",
+    "image": "",
+    "geo": [
+      37.528549,
+      140.984266
+    ],
+    "mark": "まゆらの苗字の由来となった駅。",
+    "folder": "浜通り"
+  },
+  {
+    "id": "kpx6ou269",
+    "name": "鹿島駅",
+    "image": "",
+    "geo": [
+      37.702837,
+      140.969996
+    ],
+    "mark": "撫子の苗字の由来となった駅。",
+    "folder": "浜通り"
+  },
+  {
+    "id": "kpx6ou1gd",
+    "name": "大野駅",
+    "image": "",
+    "geo": [
+      37.409301,
+      140.984073
+    ],
+    "mark": "仁子の苗字の由来となった駅。",
+    "folder": "浜通り"
+  },
+  {
+    "id": "kpx6ou2w3",
+    "name": "末続駅",
+    "image": "",
+    "geo": [
+      37.172235,
+      140.995617
+    ],
+    "mark": "このはの苗字の由来となった駅。",
+    "folder": "浜通り"
   }
 ]

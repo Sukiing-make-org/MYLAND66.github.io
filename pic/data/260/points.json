@@ -569,5 +569,317 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1jmYi0oqnYpiKhQDGFmnkp5PNg7o&ll=35.859357%2C139.323847&z=17"
+  },
+  {
+    "id": "lw2cr4mex",
+    "name": "天覧山入口",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw2cr4mex_1719899323570.jpg",
+    "geo": [
+      35.85992,
+      139.311383
+    ],
+    "ep": 3,
+    "s": 62
+  },
+  {
+    "id": "9804j1vxo",
+    "name": "天覧山登山道",
+    "image": "https://image.xinu.ink/pic/data/260/images/9804j1vxo_1719899478811.jpg",
+    "geo": [
+      35.861413,
+      139.311259
+    ],
+    "ep": 3,
+    "s": 90
+  },
+  {
+    "id": "9804j1w6k",
+    "name": "天覧山登山道",
+    "image": "https://image.xinu.ink/pic/data/260/images/9804j1w6k_1719899544039.jpg",
+    "geo": [
+      35.861657,
+      139.310777
+    ],
+    "ep": 3,
+    "s": 103,
+    "mark": "あおいとひなたが登ってくるシーンの背景の場所。"
+  },
+  {
+    "id": "lw3jxz1mm",
+    "name": "天覧山山頂展望台",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw3jxz1mm_1719901943369.jpg",
+    "geo": [
+      35.861946,
+      139.308327
+    ],
+    "ep": 3,
+    "s": 153
+  },
+  {
+    "id": "lw37jr34a",
+    "name": "観音寺",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw37jr34a_1719901185790.jpg",
+    "geo": [
+      35.855963,
+      139.312873
+    ],
+    "ep": 4,
+    "s": 18
+  },
+  {
+    "id": "lw37w6nf1",
+    "name": "こども図書館",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw37w6nf1_1719901207087.jpg",
+    "geo": [
+      35.854011,
+      139.311076
+    ],
+    "ep": 4,
+    "s": 176,
+    "cn": "儿童图书馆"
+  },
+  {
+    "id": "lw3pkzi89",
+    "name": "高尾登山鉄道清滝駅前",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw3pkzi89_1719902406324.jpg",
+    "geo": [
+      35.631284,
+      139.267441
+    ],
+    "ep": 8,
+    "s": 48
+  },
+  {
+    "id": "lw42l4ill",
+    "name": "高尾山1号路",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw42l4ill_1719903062252.jpg",
+    "geo": [
+      35.634845,
+      139.260882
+    ],
+    "ep": 8,
+    "s": 65
+  },
+  {
+    "id": "lw40kuv5k",
+    "name": "高尾山1号路",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw40kuv5k_1719902941809.jpg",
+    "geo": [
+      35.63437,
+      139.259957
+    ],
+    "ep": 8,
+    "s": 72
+  },
+  {
+    "id": "lw43v7hci",
+    "name": "高尾山駅",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw43v7hci_1719903211414.jpg",
+    "geo": [
+      35.630939,
+      139.256331
+    ],
+    "ep": 8,
+    "s": 92
+  },
+  {
+    "id": "lw4e96m5k",
+    "name": "十一丁目茶屋",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw4e96m5k_1719903772499.jpg",
+    "geo": [
+      35.630358,
+      139.255594
+    ],
+    "ep": 8,
+    "s": 121
+  },
+  {
+    "id": "lw4h0mon0",
+    "name": "たこ杉 (蛸杉)",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw4h0mon0_1719903946078.jpg",
+    "geo": [
+      35.630166,
+      139.254449
+    ],
+    "ep": 8,
+    "s": 159
+  },
+  {
+    "id": "lw4jcwgq4",
+    "name": "男坂",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw4jcwgq4_1719904080688.jpg",
+    "geo": [
+      35.628655,
+      139.251847
+    ],
+    "ep": 8,
+    "s": 169
+  },
+  {
+    "id": "lw4jj3azu",
+    "name": "男坂",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw4jj3azu_1719904089367.jpg",
+    "geo": [
+      35.628427,
+      139.251781
+    ],
+    "ep": 8,
+    "s": 173
+  },
+  {
+    "id": "lw4k3l4f2",
+    "name": "男坂",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw4k3l4f2_1719904122141.jpg",
+    "geo": [
+      35.628324,
+      139.251721
+    ],
+    "ep": 8,
+    "s": 177
+  },
+  {
+    "id": "lw4lbf3v3",
+    "name": "薬王院大門",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw4lbf3v3_1719904196154.jpg",
+    "geo": [
+      35.626096,
+      139.25099
+    ],
+    "ep": 9,
+    "s": 1
+  },
+  {
+    "id": "lw4oi5ebn",
+    "name": "薬王院大門",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw4oi5ebn_1719904392550.jpg",
+    "geo": [
+      35.626025,
+      139.250927
+    ],
+    "ep": 9,
+    "s": 6
+  },
+  {
+    "id": "lw6fxmu70",
+    "name": "高尾山 大見晴台",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw6fxmu70_1719908228439.jpg",
+    "geo": [
+      35.624597,
+      139.24323
+    ],
+    "ep": 9,
+    "s": 27
+  },
+  {
+    "id": "lw3e04yup",
+    "name": "飯能河原",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw3e04yup_1719901576024.jpg",
+    "geo": [
+      35.85463,
+      139.31101
+    ],
+    "ep": 11,
+    "s": 2
+  },
+  {
+    "id": "lw3f7k2pr",
+    "name": "飯能河原",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw3f7k2pr_1719901649060.jpg",
+    "geo": [
+      35.854192,
+      139.310939
+    ],
+    "ep": 12,
+    "s": 5
+  },
+  {
+    "id": "lw3h95v2o",
+    "name": "飯能河原",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw3h95v2o_1719901772750.jpg",
+    "geo": [
+      35.855469,
+      139.310971
+    ],
+    "ep": 12,
+    "s": 67
+  },
+  {
+    "id": "lw3hstbng",
+    "name": "飯能河原",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw3hstbng_1719901805076.jpg",
+    "geo": [
+      35.855896,
+      139.310478
+    ],
+    "ep": 12,
+    "s": 149
+  },
+  {
+    "id": "lw3lgia09",
+    "name": "天覧山山頂展望台",
+    "image": "https://image.xinu.ink/pic/data/260/images/lw3lgia09_1719902026666.jpg",
+    "geo": [
+      35.861889,
+      139.308319
+    ],
+    "ep": 16,
+    "s": 216
+  },
+  {
+    "id": "10loz7a",
+    "name": "六感浄化（聴覚）",
+    "image": "https://image.xinu.ink/pic/data/260/images/10loz7a-1749223599057.jpg",
+    "geo": [
+      35.634373,
+      139.259874
+    ],
+    "ep": 8,
+    "s": 80
+  },
+  {
+    "id": "10lra6y",
+    "name": "高尾山駅 椅子",
+    "image": "https://image.xinu.ink/pic/data/260/images/10lra6y-1749223716467.jpg",
+    "geo": [
+      35.630951,
+      139.256487
+    ],
+    "ep": 8,
+    "s": 100
+  },
+  {
+    "id": "10lv8ij",
+    "name": "東屋",
+    "image": "https://image.xinu.ink/pic/data/260/images/10lv8ij-1749223867334.jpg",
+    "geo": [
+      35.624709,
+      139.242758
+    ],
+    "ep": 9,
+    "s": 69
+  },
+  {
+    "id": "10mr8jz",
+    "name": "6号路の上から2番目の橋",
+    "image": "https://image.xinu.ink/pic/data/260/images/10mr8jz-1749225367782.jpg",
+    "geo": [
+      35.622421,
+      139.246902
+    ],
+    "ep": 10,
+    "s": 103,
+    "cn": "6号路下山的第2个桥"
+  },
+  {
+    "id": "10mveta",
+    "name": "6号路の上から2番目の橋",
+    "image": "https://image.xinu.ink/pic/data/260/images/10mveta_1749225556494.jpg",
+    "geo": [
+      35.622331,
+      139.246901
+    ],
+    "ep": 10,
+    "s": 107,
+    "cn": "6号路下山的第2个桥"
   }
 ]

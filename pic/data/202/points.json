@@ -355,5 +355,161 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kpx6oiw9k",
+    "name": "高崎駅西口",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oiw9k_1735404739433.jpg",
+    "geo": [
+      36.322737,
+      139.011571
+    ],
+    "ep": 3,
+    "s": 681,
+    "mark": "３話"
+  },
+  {
+    "id": "kpx6oixm4",
+    "name": "高崎駅西口",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oixm4_1735404752082.jpg",
+    "geo": [
+      36.32257,
+      139.011576
+    ],
+    "ep": 3,
+    "s": 684,
+    "mark": "３話"
+  },
+  {
+    "id": "kpx6oixxj",
+    "name": "高崎駅西口",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oixxj_1735404778634.jpg",
+    "geo": [
+      36.321993,
+      139.011367
+    ],
+    "ep": 3,
+    "s": 1085,
+    "mark": "３話"
+  },
+  {
+    "id": "kpx6oixyn",
+    "name": "高崎駅西口",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oixyn_1735404789553.jpg",
+    "geo": [
+      36.322313,
+      139.011134
+    ],
+    "ep": 3,
+    "s": 1091,
+    "mark": "３話"
+  },
+  {
+    "id": "kpx6oiyzn",
+    "name": "西岐阜駅",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oiyzn_1735405048537.jpg",
+    "geo": [
+      35.404628,
+      136.72336
+    ],
+    "ep": 6,
+    "s": 556,
+    "mark": "６話"
+  },
+  {
+    "id": "kpx6oiz8i",
+    "name": "西岐阜駅",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oiz8i_1735405065513.jpg",
+    "geo": [
+      35.404589,
+      136.723166
+    ],
+    "ep": 6,
+    "s": 563,
+    "mark": "６話"
+  },
+  {
+    "id": "kpx6oiyve",
+    "name": "西岐阜駅",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oiyve_1735405074265.jpg",
+    "geo": [
+      35.404545,
+      136.722971
+    ],
+    "ep": 6,
+    "s": 590,
+    "mark": "６話"
+  },
+  {
+    "id": "kpx6oiz93",
+    "name": "穂積駅",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oiz93_1735405155641.jpg",
+    "geo": [
+      35.396108,
+      136.693233
+    ],
+    "ep": 8,
+    "s": 4,
+    "mark": "８話"
+  },
+  {
+    "id": "kpx6oizov",
+    "name": "穂積駅",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oizov_1735405190049.jpg",
+    "geo": [
+      35.395953,
+      136.693316
+    ],
+    "ep": 8,
+    "s": 9,
+    "mark": "８話"
+  },
+  {
+    "id": "kpx6oizsq",
+    "name": "穂積駅",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oizsq_1735405102066.jpg",
+    "geo": [
+      35.395857,
+      136.693539
+    ],
+    "ep": 8,
+    "s": 26,
+    "mark": "８話"
+  },
+  {
+    "id": "kpx6oiybq",
+    "name": "旧前田侯爵邸",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oiybq_1735404621232.jpg",
+    "geo": [
+      35.662431,
+      139.679747
+    ],
+    "ep": 9,
+    "s": 866,
+    "mark": "６話、９話"
+  },
+  {
+    "id": "kpx6oj1p6",
+    "name": "東京ビッグサイト",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oj1p6_1735404665073.jpg",
+    "geo": [
+      35.631059,
+      139.793974
+    ],
+    "ep": 11,
+    "s": 259,
+    "mark": "11話"
+  },
+  {
+    "id": "kpx6oj1xc",
+    "name": "東京ビッグサイト",
+    "image": "https://image.xinu.ink/pic/data/202/images/kpx6oj1xc_1735404675906.jpg",
+    "geo": [
+      35.631325,
+      139.794235
+    ],
+    "ep": 11,
+    "s": 275,
+    "mark": "11話"
   }
 ]

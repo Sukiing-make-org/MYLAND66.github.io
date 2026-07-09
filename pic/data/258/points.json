@@ -65,5 +65,93 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "o1jzc3cui",
+    "name": "改札",
+    "image": "https://image.xinu.ink/pic/data/258/images/o1jzc3cui_1725971738313.jpg",
+    "geo": [
+      35.655739,
+      139.33889
+    ],
+    "mark": "改札の中には駅弁屋はありましたが。"
+  },
+  {
+    "id": "o1ka4q28s",
+    "name": "交差点",
+    "image": "https://image.xinu.ink/pic/data/258/images/o1ka4q28s_1725972389682.jpg",
+    "geo": [
+      35.657042,
+      139.338321
+    ]
+  },
+  {
+    "id": "o1ka9lpzo",
+    "name": "交差点",
+    "image": "",
+    "geo": [
+      35.656969,
+      139.338347
+    ]
+  },
+  {
+    "id": "o1jy5e6tl",
+    "name": "西放射線ユーロード",
+    "image": "https://image.xinu.ink/pic/data/258/images/o1jy5e6tl_1725971666987.jpg",
+    "geo": [
+      35.657185,
+      139.338044
+    ]
+  },
+  {
+    "id": "9fe24958",
+    "name": "西浦和高校・門",
+    "image": "https://image.xinu.ink/pic/data/258/images/9fe24958-1745578604524.jpg",
+    "geo": [
+      35.889493,
+      139.652689
+    ],
+    "ep": "5",
+    "s": "4:55"
+  },
+  {
+    "id": "948b7727",
+    "name": "文志堂文具店",
+    "image": "",
+    "geo": [
+      35.884521,
+      139.643773
+    ],
+    "mark": "５話"
+  },
+  {
+    "id": "f5abbeec",
+    "name": "６～８番バス乗り場",
+    "image": "",
+    "geo": [
+      35.656651,
+      139.338991
+    ],
+    "mark": "５話"
+  },
+  {
+    "id": "bef7aeea",
+    "name": "八王子南口交差点",
+    "image": "",
+    "geo": [
+      35.654032,
+      139.338315
+    ],
+    "mark": "5話"
+  },
+  {
+    "id": "9efcc0f7",
+    "name": "南口",
+    "image": "https://image.xinu.ink/pic/data/258/images/9efcc0f7_1725971824789.jpg",
+    "geo": [
+      35.654454,
+      139.338199
+    ],
+    "mark": "５話"
   }
 ]

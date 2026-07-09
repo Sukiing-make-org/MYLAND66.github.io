@@ -141,5 +141,454 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.233404%2C139.105182&z=17"
+  },
+  {
+    "id": "kpwp9epho",
+    "name": "江ノ島 遠景",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epho_1753265546866.jpg",
+    "geo": [
+      35.300764,
+      139.483188
+    ],
+    "ep": "OP",
+    "mark": "OP、ED"
+  },
+  {
+    "id": "kpwp9epuj",
+    "name": "七里ヶ浜 有料駐車場",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epuj_1753265584818.jpg",
+    "geo": [
+      35.304367,
+      139.513369
+    ],
+    "ep": "OP",
+    "mark": "OP 拍摄江之岛远景的点位"
+  },
+  {
+    "id": "kpwp9epv7",
+    "name": "鎌倉高校前１号踏み切り 南側横断歩道",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epv7_1753260619647.jpg",
+    "geo": [
+      35.306526,
+      139.501986
+    ],
+    "mark": "#メガ切符イラスト",
+    "folder": "イラスト"
+  },
+  {
+    "id": "kpwp9epkq",
+    "name": "七里ガ浜２号踏み切り 北側横断歩道",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epkq_1753260559647.jpg",
+    "geo": [
+      35.304836,
+      139.513911
+    ],
+    "mark": "#コラボ入場券イラスト",
+    "folder": "イラスト"
+  },
+  {
+    "id": "kpwp9epfn",
+    "name": "坂ノ下 134号線沿い",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epfn_1753264427357.jpg",
+    "geo": [
+      35.308907,
+      139.534307
+    ],
+    "ep": 1,
+    "mark": "#01、#02"
+  },
+  {
+    "id": "kpwp9ep5v",
+    "name": "焼刃稲荷",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9ep5v_1753264406574.jpg",
+    "geo": [
+      35.322976,
+      139.549965
+    ],
+    "ep": 1,
+    "mark": "#01、#04"
+  },
+  {
+    "id": "kpwp9ephk",
+    "name": "御陵橋",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9ephk_1753264492782.jpg",
+    "geo": [
+      35.323019,
+      139.562715
+    ],
+    "ep": 1,
+    "mark": "#01，#04"
+  },
+  {
+    "id": "kpwp9epqc",
+    "name": "御霊神社前 踏切",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epqc_1753264471358.jpg",
+    "geo": [
+      35.310794,
+      139.533115
+    ],
+    "ep": 1,
+    "mark": "#01"
+  },
+  {
+    "id": "kpwp9epl6",
+    "name": "手打ちそば こ寿々",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epl6_1753264729940.jpg",
+    "geo": [
+      35.321604,
+      139.553843
+    ],
+    "ep": 2,
+    "mark": "#02、#03、#05「ファースト・ステップ」"
+  },
+  {
+    "id": "kpwp9epnk",
+    "name": "さくらの夢見屋 小町通り本店",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epnk_1753264517509.jpg",
+    "geo": [
+      35.321269,
+      139.552191
+    ],
+    "ep": 2,
+    "mark": "#02、#03、#05"
+  },
+  {
+    "id": "kpwp9epb8",
+    "name": "小町通りゲート",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epb8_1753264536974.jpg",
+    "geo": [
+      35.322236,
+      139.552674
+    ],
+    "ep": 3,
+    "mark": "#03"
+  },
+  {
+    "id": "kpwp9epiv",
+    "name": "鎌倉はんなりいなり",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epiv_1753264650461.jpg",
+    "geo": [
+      35.320993,
+      139.5521
+    ],
+    "ep": 3,
+    "mark": "#03"
+  },
+  {
+    "id": "kpwp9ep7b",
+    "name": "鎌倉駅バスターミナル",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9ep7b_1753264674965.jpg",
+    "geo": [
+      35.318899,
+      139.550829
+    ],
+    "ep": 3,
+    "mark": "#03"
+  },
+  {
+    "id": "kpwp9epd3",
+    "name": "荏柄天神社 横歩道",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epd3_1753264360799.jpg",
+    "geo": [
+      35.32551,
+      139.564065
+    ],
+    "ep": 3,
+    "mark": "#03"
+  },
+  {
+    "id": "kpwp9eppl",
+    "name": "寿福寺トンネル付近 通路",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9eppl_1753265071306.jpg",
+    "geo": [
+      35.323632,
+      139.548399
+    ],
+    "ep": 4,
+    "mark": "#04"
+  },
+  {
+    "id": "kpwp9epgw",
+    "name": "寿福寺踏切",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epgw_1753265055778.jpg",
+    "geo": [
+      35.324709,
+      139.550491
+    ],
+    "ep": 4,
+    "mark": "#04"
+  },
+  {
+    "id": "kpwpbrnuq",
+    "name": "ファーストキッチン平塚店",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwpbrnuq_1753263981734.jpg",
+    "geo": [
+      35.328781,
+      139.34992
+    ],
+    "ep": 5,
+    "mark": "#05",
+    "folder": "平塚"
+  },
+  {
+    "id": "kpwp9epqn",
+    "name": "不二家 平塚店",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epqn_1753263949094.jpg",
+    "geo": [
+      35.329037,
+      139.349925
+    ],
+    "ep": 5,
+    "mark": "#05",
+    "folder": "平塚"
+  },
+  {
+    "id": "kpwp9epkf",
+    "name": "紅谷町パールロード 絹衣",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epkf_1753264050335.jpg",
+    "geo": [
+      35.328954,
+      139.348418
+    ],
+    "ep": 5,
+    "mark": "#05",
+    "folder": "平塚"
+  },
+  {
+    "id": "kpwp9ep8y",
+    "name": "見附台広場",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9ep8y_1753264075157.jpg",
+    "geo": [
+      35.329388,
+      139.343097
+    ],
+    "ep": 5,
+    "mark": "#05（※参考：湘南よさこい祭り2014では、受付やステージイベントの会場になっていました）",
+    "folder": "平塚"
+  },
+  {
+    "id": "kpwp9epem",
+    "name": "平塚 銀座通り",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epem_1753264162742.jpg",
+    "geo": [
+      35.32942,
+      139.346943
+    ],
+    "ep": 5,
+    "mark": "#05",
+    "folder": "平塚"
+  },
+  {
+    "id": "kpwp9epfl",
+    "name": "寿福寺トンネル 南側",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epfl_1753265261865.jpg",
+    "geo": [
+      35.32347,
+      139.548991
+    ],
+    "ep": 6,
+    "mark": "#06「トライ・トライ・トライ 」"
+  },
+  {
+    "id": "kpwp9ephw",
+    "name": "TSUTAYA O-EAST",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9ephw_1753257897871.jpg",
+    "geo": [
+      35.658831,
+      139.695464
+    ],
+    "ep": 6,
+    "mark": "#06"
+  },
+  {
+    "id": "kpwp9epw0",
+    "name": "寿福寺 鐘楼横",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epw0_1753260904525.jpg",
+    "geo": [
+      35.324243,
+      139.549436
+    ],
+    "ep": 7,
+    "mark": "#07，#08「ミッション・イベント」"
+  },
+  {
+    "id": "kpwp9epkc",
+    "name": "寿福寺前 トイレ街灯",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epkc_1753260892462.jpg",
+    "geo": [
+      35.324072,
+      139.55044
+    ],
+    "ep": 8,
+    "mark": "#08"
+  },
+  {
+    "id": "kpwp9eps8",
+    "name": "鎌倉 東急ストア",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9eps8_1753260837758.jpg",
+    "geo": [
+      35.318417,
+      139.550928
+    ],
+    "ep": 8,
+    "mark": "#08"
+  },
+  {
+    "id": "kpwp9eppo",
+    "name": "江ノ島電鉄 鎌倉高校前駅",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9eppo_1753260807256.jpg",
+    "geo": [
+      35.306718,
+      139.500864
+    ],
+    "ep": 8,
+    "mark": "#08"
+  },
+  {
+    "id": "kpwp9epva",
+    "name": "箱根登山鉄道 早川橋梁",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epva_1753257236494.jpg",
+    "geo": [
+      35.234269,
+      139.087026
+    ],
+    "ep": 10,
+    "mark": "#10「オンセン・ガッシュク」",
+    "folder": "箱根"
+  },
+  {
+    "id": "kpwp9epjg",
+    "name": "玉庭",
+    "image": "",
+    "geo": [
+      35.229555,
+      139.101081
+    ],
+    "ep": 10,
+    "mark": "#10",
+    "folder": "箱根"
+  },
+  {
+    "id": "kpwp9epdy",
+    "name": "大涌谷",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epdy_1753257257478.jpg",
+    "geo": [
+      35.240097,
+      139.01907
+    ],
+    "ep": 10,
+    "mark": "#10",
+    "folder": "箱根"
+  },
+  {
+    "id": "kpwp9eplx",
+    "name": "早川河川敷",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9eplx_1753257300038.jpg",
+    "geo": [
+      35.23352,
+      139.10496
+    ],
+    "ep": 10,
+    "mark": "#10",
+    "folder": "箱根"
+  },
+  {
+    "id": "kpwp9eptt",
+    "name": "成田空港第１ターミナル駐車場",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9eptt_1753257393351.jpg",
+    "geo": [
+      35.765599,
+      140.387136
+    ],
+    "ep": 11,
+    "mark": "#11「スマイル・イズ・フラワー」"
+  },
+  {
+    "id": "kpwp9eptm",
+    "name": "成田空港第2ターミナル",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9eptm_1753257416142.jpg",
+    "geo": [
+      35.773517,
+      140.38802
+    ],
+    "ep": 11,
+    "mark": "#11"
+  },
+  {
+    "id": "kpwp9eppz",
+    "name": "鎌倉市第二小学校横通り 水路付近",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9eppz_1753257593846.jpg",
+    "geo": [
+      35.324118,
+      139.564832
+    ],
+    "ep": 12,
+    "mark": "#12「ハナヤマタ」"
+  },
+  {
+    "id": "kpwp9epx0",
+    "name": "鶴岡八幡宮 二の鳥居",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epx0_1753257610534.jpg",
+    "geo": [
+      35.319662,
+      139.552475
+    ],
+    "ep": 12,
+    "mark": "#12「ハナヤマタ」"
+  },
+  {
+    "id": "kpwp9epn3",
+    "name": "二の鳥居前交差点 駐車場",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epn3_1753257800797.jpg",
+    "geo": [
+      35.319623,
+      139.552712
+    ],
+    "ep": 12,
+    "mark": "#12"
+  },
+  {
+    "id": "kpwp9epki",
+    "name": "鎌倉海浜公園 稲村ガ崎地区",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epki_1753257836381.jpg",
+    "geo": [
+      35.302669,
+      139.524465
+    ],
+    "ep": 12,
+    "mark": "#12"
+  },
+  {
+    "id": "kpwp9epo8",
+    "name": "九品寺前交差点",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epo8_1753257844005.jpg",
+    "geo": [
+      35.307182,
+      139.552234
+    ],
+    "ep": 12,
+    "mark": "#12"
+  },
+  {
+    "id": "kpwp9epag",
+    "name": "稲村ヶ崎海岸 トンネル前",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epag_1753257963725.jpg",
+    "geo": [
+      35.302925,
+      139.523942
+    ],
+    "ep": 12,
+    "mark": "#12"
+  },
+  {
+    "id": "kpwpbro7p",
+    "name": "稲村ヶ崎海岸 堤防",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwpbro7p_1753257975443.jpg",
+    "geo": [
+      35.302807,
+      139.523926
+    ],
+    "ep": 12,
+    "mark": "#12"
   }
 ]

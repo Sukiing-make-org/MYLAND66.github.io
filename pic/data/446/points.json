@@ -31,5 +31,73 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1BHXXGWl5jhbMb420TOWFLG31tO8&ll=35.62378%2C139.747108&z=17"
+  },
+  {
+    "id": "g1iayot",
+    "name": "Abbesses",
+    "image": "https://image.xinu.ink/pic/data/446/images/g1iayot_1781930107117.jpg",
+    "geo": [
+      48.8848,
+      2.338663
+    ],
+    "ep": "OP1",
+    "mark": "メトロのアベス駅"
+  },
+  {
+    "id": "g1icuwt",
+    "name": "ルーブル美術館 Musée du Louvre",
+    "image": "https://image.xinu.ink/pic/data/446/images/g1icuwt_1781930205631.jpg",
+    "geo": [
+      48.861012,
+      2.335852
+    ],
+    "ep": "OP1",
+    "cn": "卢浮宫博物馆"
+  },
+  {
+    "id": "g1iealg",
+    "name": "エッフェル塔 Tour Eiffel",
+    "image": "https://image.xinu.ink/pic/data/446/images/g1iealg_1781930327369.jpg",
+    "geo": [
+      48.857118,
+      2.296302
+    ],
+    "ep": "OP1",
+    "mark": "剧本喂翔，监督也得背锅",
+    "cn": "艾菲尔铁塔"
+  },
+  {
+    "id": "g1iulyb",
+    "name": "Champs Élysées",
+    "image": "https://image.xinu.ink/pic/data/446/images/g1iulyb_1781931015048.jpg",
+    "geo": [
+      48.870758,
+      2.305332
+    ],
+    "ep": "OP1",
+    "cn": "香榭丽舍大街"
+  },
+  {
+    "id": "g1iyg9l",
+    "name": "Café de Flore",
+    "image": "https://image.xinu.ink/pic/data/446/images/g1iyg9l_1781931200747.jpg",
+    "geo": [
+      48.854123,
+      2.332634
+    ],
+    "ep": "OP1",
+    "mark": "喫茶店は家の近所のカフェ・ド・フロール。アニメ本編では「Kuma de Village」と書かれています。",
+    "cn": "花神咖啡（三大著名咖啡馆之一）"
+  },
+  {
+    "id": "g1j0h4w",
+    "name": "凱旋門",
+    "image": "https://image.xinu.ink/pic/data/446/images/g1j0h4w_1781931987645.jpg",
+    "geo": [
+      48.873708,
+      2.295344
+    ],
+    "ep": "OP1",
+    "cn": "凯旋门"
   }
 ]

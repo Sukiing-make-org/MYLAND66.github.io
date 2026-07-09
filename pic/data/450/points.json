@@ -440,5 +440,16 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1HBmB29eTRVN6KWpBnwxpMBSUKuQ&ll=34.39223%2C133.075728&z=17"
+  },
+  {
+    "id": "5fdmz43s8",
+    "name": "広島PARCO付近",
+    "image": "https://image.xinu.ink/pic/data/450/images/5fdmz43s8_1673543747409.jpg",
+    "geo": [
+      34.39205,
+      132.461536
+    ],
+    "ep": 7,
+    "s": 802
   }
 ]

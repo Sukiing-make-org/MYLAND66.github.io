@@ -547,5 +547,601 @@
     ],
     "origin": "Anitabi@卜卜口",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ncsxurb2g",
+    "name": "京阪電車藤森駅東改札口付近",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncsxurb2g_1724032133976.jpg",
+    "geo": [
+      34.957106,
+      135.770464
+    ],
+    "ep": 2,
+    "s": 1257
+  },
+  {
+    "id": "ncsy0e5be",
+    "name": "京阪電車藤森駅東改札口付近",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncsy0e5be_1724032140474.jpg",
+    "geo": [
+      34.957099,
+      135.770466
+    ],
+    "ep": 2,
+    "s": 1260
+  },
+  {
+    "id": "ncsyo3wku",
+    "name": "京阪電車藤森駅東改札口付近",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncsyo3wku_1724032179923.jpg",
+    "geo": [
+      34.957788,
+      135.770474
+    ],
+    "ep": 3,
+    "s": 4
+  },
+  {
+    "id": "ncsyqaue1",
+    "name": "京阪電車藤森駅東改札口付近",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncsyqaue1_1724032183534.jpg",
+    "geo": [
+      34.957779,
+      135.770476
+    ],
+    "ep": 3,
+    "s": 6
+  },
+  {
+    "id": "ncsy1ruh2",
+    "name": "京阪電車藤森駅東改札口付近",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncsy1ruh2_1724032142257.jpg",
+    "geo": [
+      34.957092,
+      135.770468
+    ],
+    "ep": 2,
+    "s": 1270
+  },
+  {
+    "id": "ncsy5jrij",
+    "name": "京阪電車藤森駅東改札口付近",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncsy5jrij_1724032149472.jpg",
+    "geo": [
+      34.957081,
+      135.770467
+    ],
+    "ep": 2,
+    "s": 1286
+  },
+  {
+    "id": "ncsy7gga1",
+    "name": "京阪電車藤森駅東改札口付近",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncsy7gga1_1724032152495.jpg",
+    "geo": [
+      34.957071,
+      135.770468
+    ],
+    "ep": 2,
+    "s": 1280
+  },
+  {
+    "id": "nct01nykf",
+    "name": "京阪電車藤森駅東改札口付近",
+    "image": "https://image.xinu.ink/pic/data/286/images/nct01nykf_1724032279931.jpg",
+    "geo": [
+      34.957929,
+      135.77046
+    ],
+    "ep": 3,
+    "s": 836
+  },
+  {
+    "id": "nct0vqzqt",
+    "name": "京阪電車藤森駅東改札口付近",
+    "image": "https://image.xinu.ink/pic/data/286/images/nct0vqzqt_1724032314069.jpg",
+    "geo": [
+      34.957921,
+      135.77046
+    ],
+    "ep": 3,
+    "s": 699
+  },
+  {
+    "id": "nct1ekhkg",
+    "name": "藤森駅北改札口",
+    "image": "https://image.xinu.ink/pic/data/286/images/nct1ekhkg_1724032346895.jpg",
+    "geo": [
+      34.957489,
+      135.770644
+    ],
+    "ep": 3,
+    "s": 871
+  },
+  {
+    "id": "nct293rrv",
+    "name": "第二軍道の師団橋",
+    "image": "https://image.xinu.ink/pic/data/286/images/nct293rrv_1724032396975.jpg",
+    "geo": [
+      34.959086,
+      135.770437
+    ],
+    "ep": 3,
+    "s": 922
+  },
+  {
+    "id": "nct5sxbav",
+    "name": "師団橋付近",
+    "image": "https://image.xinu.ink/pic/data/286/images/nct5sxbav_1724032611356.jpg",
+    "geo": [
+      34.958933,
+      135.770633
+    ],
+    "ep": 9,
+    "s": 390
+  },
+  {
+    "id": "nct5v4eys",
+    "name": "師団橋付近",
+    "image": "https://image.xinu.ink/pic/data/286/images/nct5v4eys_1724032615148.jpg",
+    "geo": [
+      34.959057,
+      135.770632
+    ],
+    "ep": 9,
+    "s": 401
+  },
+  {
+    "id": "nct5xc9ro",
+    "name": "師団橋付近",
+    "image": "https://image.xinu.ink/pic/data/286/images/nct5xc9ro_1724032618918.jpg",
+    "geo": [
+      34.959098,
+      135.770632
+    ],
+    "ep": 9,
+    "s": 405
+  },
+  {
+    "id": "nct5z94ym",
+    "name": "師団橋付近",
+    "image": "https://image.xinu.ink/pic/data/286/images/nct5z94ym_1724032622137.jpg",
+    "geo": [
+      34.959176,
+      135.770571
+    ],
+    "ep": 9,
+    "s": 407
+  },
+  {
+    "id": "nct64df83",
+    "name": "師団橋付近",
+    "image": "https://image.xinu.ink/pic/data/286/images/nct64df83_1724032630545.jpg",
+    "geo": [
+      34.959168,
+      135.770571
+    ],
+    "ep": 9,
+    "s": 441
+  },
+  {
+    "id": "nct89z8u8",
+    "name": "師団橋付近",
+    "image": "https://image.xinu.ink/pic/data/286/images/nct89z8u8_1724032763484.jpg",
+    "geo": [
+      34.959162,
+      135.769828
+    ],
+    "ep": 9,
+    "s": 1030
+  },
+  {
+    "id": "nctaihkek",
+    "name": "師団橋付近",
+    "image": "https://image.xinu.ink/pic/data/286/images/nctaihkek_1724032896556.jpg",
+    "geo": [
+      34.959157,
+      135.769141
+    ],
+    "ep": 344,
+    "s": 1308
+  },
+  {
+    "id": "nctdlmsri",
+    "name": "師団橋付近",
+    "image": "https://image.xinu.ink/pic/data/286/images/nctdlmsri_1724033083678.jpg",
+    "geo": [
+      34.959191,
+      135.770446
+    ],
+    "ep": 9,
+    "s": 1036,
+    "mark": "背後に見えるのはダイエー藤森店。\nネットを入れると位置関係が一致しなくなります。\nなお、このダイエーは閉店が決まっています。"
+  },
+  {
+    "id": "nctdrvdbp",
+    "name": "師団橋付近",
+    "image": "https://image.xinu.ink/pic/data/286/images/nctdrvdbp_1724033094064.jpg",
+    "geo": [
+      34.959191,
+      135.770455
+    ],
+    "ep": 9,
+    "s": 1043
+  },
+  {
+    "id": "nctdub71x",
+    "name": "師団橋付近",
+    "image": "https://image.xinu.ink/pic/data/286/images/nctdub71x_1724033097470.jpg",
+    "geo": [
+      34.959191,
+      135.770466
+    ],
+    "ep": 9,
+    "s": 1050
+  },
+  {
+    "id": "nctdvukbh",
+    "name": "師団橋付近",
+    "image": "https://image.xinu.ink/pic/data/286/images/nctdvukbh_1724033102482.jpg",
+    "geo": [
+      34.959189,
+      135.770475
+    ],
+    "ep": 9,
+    "s": 1061
+  },
+  {
+    "id": "ncty2n671",
+    "name": "ユズキ君の家付近",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncty2n671_1724034320580.jpg",
+    "geo": [
+      34.961197,
+      135.771167
+    ],
+    "ep": 9,
+    "s": 1186
+  },
+  {
+    "id": "ncty3z69p",
+    "name": "ユズキ君の家付近",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncty3z69p_1724034323427.jpg",
+    "geo": [
+      34.961268,
+      135.771681
+    ],
+    "ep": 9,
+    "s": 1070
+  },
+  {
+    "id": "ncty5jzw2",
+    "name": "ユズキ君の家付近",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncty5jzw2_1724034334947.jpg",
+    "geo": [
+      34.961255,
+      135.771679
+    ],
+    "ep": 9,
+    "s": 1093
+  },
+  {
+    "id": "ncu32xcr2",
+    "name": "深草商店街",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncu32xcr2_1724034624315.jpg",
+    "geo": [
+      34.957704,
+      135.771204
+    ],
+    "ep": 3,
+    "s": 57
+  },
+  {
+    "id": "ncu350ao7",
+    "name": "深草商店街",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncu350ao7_1724034627298.jpg",
+    "geo": [
+      34.957699,
+      135.771204
+    ],
+    "ep": 3,
+    "s": 83
+  },
+  {
+    "id": "ncu2umswa",
+    "name": "深草商店街",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncu2umswa_1724034609794.jpg",
+    "geo": [
+      34.957772,
+      135.771197
+    ],
+    "ep": 3,
+    "s": 373
+  },
+  {
+    "id": "ncu2w88pl",
+    "name": "深草商店街",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncu2w88pl_1724034612366.jpg",
+    "geo": [
+      34.957765,
+      135.771201
+    ],
+    "ep": 3,
+    "s": 383
+  },
+  {
+    "id": "ncu2xmf8i",
+    "name": "深草商店街",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncu2xmf8i_1724034614803.jpg",
+    "geo": [
+      34.95776,
+      135.7712
+    ],
+    "ep": 3,
+    "s": 385
+  },
+  {
+    "id": "ncsxfpjok",
+    "name": "琵琶湖疏水沿い",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncsxfpjok_1724032106469.jpg",
+    "geo": [
+      34.958455,
+      135.770447
+    ],
+    "ep": 1,
+    "s": 19
+  },
+  {
+    "id": "ncsdkhm07",
+    "name": "イカワトーイ",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncsdkhm07_1724030904255.jpg",
+    "geo": [
+      35.030272,
+      135.768754
+    ],
+    "ep": 1,
+    "s": 321
+  },
+  {
+    "id": "ncse97npy",
+    "name": "鯖のオブジェのある十字路あたり",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncse97npy_1724030946183.jpg",
+    "geo": [
+      35.030283,
+      135.768553
+    ],
+    "ep": 1,
+    "s": 328
+  },
+  {
+    "id": "ncsbs5ap6",
+    "name": "セルフ岸本屋・ダイソー",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncsbs5ap6_1724030796652.jpg",
+    "geo": [
+      35.030297,
+      135.768226
+    ],
+    "ep": 11,
+    "s": 156
+  },
+  {
+    "id": "ncscnwgoq",
+    "name": "セルフ岸本屋・ダイソー",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncscnwgoq_1724030849694.jpg",
+    "geo": [
+      35.030296,
+      135.768253
+    ],
+    "ep": 3,
+    "s": 162
+  },
+  {
+    "id": "ncsdwu1c7",
+    "name": "ブックスヤスモト 前",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncsdwu1c7_1724030924853.jpg",
+    "geo": [
+      35.030272,
+      135.769618
+    ],
+    "mark": "已经消失"
+  },
+  {
+    "id": "ncsfi1xh2",
+    "name": "地酒地焼酎 八百屋（Yaoya）",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncsfi1xh2_1724031021305.jpg",
+    "geo": [
+      35.030603,
+      135.768498
+    ],
+    "ep": 1,
+    "s": 352
+  },
+  {
+    "id": "ncsfo9sry",
+    "name": "地酒地焼酎 八百屋（Yaoya）",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncsfo9sry_1724031031664.jpg",
+    "geo": [
+      35.030597,
+      135.768498
+    ],
+    "ep": 1,
+    "s": 395
+  },
+  {
+    "id": "ncsfr2glk",
+    "name": "地酒地焼酎 八百屋（Yaoya）",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncsfr2glk_1724031036004.jpg",
+    "geo": [
+      35.030596,
+      135.768506
+    ],
+    "ep": 1,
+    "s": 399
+  },
+  {
+    "id": "ncsivtyxq",
+    "name": "地酒地焼酎 八百屋（Yaoya）",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncsivtyxq_1724031225725.jpg",
+    "geo": [
+      35.030596,
+      135.768513
+    ],
+    "ep": 1,
+    "s": 772
+  },
+  {
+    "id": "31pe124",
+    "name": "錦湯",
+    "image": "https://image.xinu.ink/pic/data/286/images/31pe124_1724031086057.jpg",
+    "geo": [
+      35.004765,
+      135.763295
+    ],
+    "ep": 1,
+    "s": 602,
+    "mark": "風呂屋「うさ湯」の建物モデル\n第1話-37,38,41,43",
+    "origin": "エンドス",
+    "originURL": "https://los-endos.hatenablog.com/entry/20130115/1358256709"
+  },
+  {
+    "id": "ncshfuvlx",
+    "name": "錦湯",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncshfuvlx_1724031138732.jpg",
+    "geo": [
+      35.00476,
+      135.763295
+    ],
+    "ep": 1,
+    "s": 613,
+    "mark": "2025年8月去的没找到店门口，地图上显示对应的位置是一片荒地，大概率被拆了。"
+  },
+  {
+    "id": "ncsh9oi8f",
+    "name": "京漬物 野呂本店",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncsh9oi8f_1724031127848.jpg",
+    "geo": [
+      35.030799,
+      135.767834
+    ],
+    "ep": 1,
+    "s": 610
+  },
+  {
+    "id": "ncslspup9",
+    "name": "喫茶華波＆BAR華波様楽",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncslspup9_1724031402063.jpg",
+    "geo": [
+      35.030196,
+      135.768382
+    ],
+    "ep": 1,
+    "s": 917
+  },
+  {
+    "id": "ncslwxg9t",
+    "name": "喫茶華波＆BAR華波様楽",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncslwxg9t_1724031408829.jpg",
+    "geo": [
+      35.030195,
+      135.768385
+    ],
+    "ep": 1,
+    "s": 920
+  },
+  {
+    "id": "ncslzkbl0",
+    "name": "喫茶華波＆BAR華波様楽",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncslzkbl0_1724031414223.jpg",
+    "geo": [
+      35.030195,
+      135.768387
+    ],
+    "ep": 1,
+    "s": 932
+  },
+  {
+    "id": "ncsm1rmzg",
+    "name": "喫茶華波＆BAR華波様楽",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncsm1rmzg_1724031416942.jpg",
+    "geo": [
+      35.030195,
+      135.768389
+    ],
+    "ep": 1,
+    "s": 936
+  },
+  {
+    "id": "ncsm3cp9j",
+    "name": "喫茶華波＆BAR華波様楽",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncsm3cp9j_1724031419520.jpg",
+    "geo": [
+      35.030195,
+      135.768391
+    ],
+    "ep": 1,
+    "s": 944
+  },
+  {
+    "id": "ncsa0mezc",
+    "name": "出町桝形商店街西口",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncsa0mezc_1724030690136.jpg",
+    "geo": [
+      35.030301,
+      135.767898
+    ],
+    "ep": 1,
+    "s": 31
+  },
+  {
+    "id": "ncsa51lro",
+    "name": "出町桝形商店街西口",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncsa51lro_1724030697267.jpg",
+    "geo": [
+      35.030301,
+      135.7679
+    ],
+    "ep": 1,
+    "s": 39
+  },
+  {
+    "id": "ncsacqnbq",
+    "name": "出町桝形商店街西口",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncsacqnbq_1724030709912.jpg",
+    "geo": [
+      35.0303,
+      135.767899
+    ],
+    "ep": 1,
+    "s": 43
+  },
+  {
+    "id": "ncsafiacj",
+    "name": "出町桝形商店街西口",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncsafiacj_1724030714879.jpg",
+    "geo": [
+      35.030306,
+      135.767899
+    ],
+    "ep": 1,
+    "s": 46
+  },
+  {
+    "id": "ncsjb9p5z",
+    "name": "圣母学院",
+    "image": "https://image.xinu.ink/pic/data/286/images/ncsjb9p5z_1724031251698.jpg",
+    "geo": [
+      34.958516,
+      135.771237
+    ],
+    "ep": 1,
+    "s": 813
+  },
+  {
+    "id": "3jx379m",
+    "name": "出町ふたば",
+    "image": "https://image.xinu.ink/pic/data/286/images/3jx379m-1754745146774.jpg",
+    "geo": [
+      35.030074,
+      135.769663
+    ]
   }
 ]

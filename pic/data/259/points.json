@@ -45,5 +45,570 @@
       35.7118,
       139.7964
     ]
+  },
+  {
+    "id": "kpx6oohkf",
+    "name": "博多駅西側博多口",
+    "image": "https://image.xinu.ink/pic/data/259/images/kpx6oohkf_1744735198963.jpg",
+    "geo": [
+      33.589174,
+      130.418518
+    ],
+    "mark": "15話",
+    "folder": "福岡"
+  },
+  {
+    "id": "kpx6oohrs",
+    "name": "博多駅新幹線中央改札口",
+    "image": "https://image.xinu.ink/pic/data/259/images/kpx6oohrs_1744735208634.jpg",
+    "geo": [
+      33.590202,
+      130.42105
+    ],
+    "mark": "15話",
+    "folder": "福岡"
+  },
+  {
+    "id": "kpx6oohbl",
+    "name": "成田空港第1ターミナル北ウイング",
+    "image": "https://image.xinu.ink/pic/data/259/images/kpx6oohbl_1744737159409.jpg",
+    "geo": [
+      35.764923,
+      140.384609
+    ],
+    "mark": "24話",
+    "folder": "成田空港"
+  },
+  {
+    "id": "up0sjim85",
+    "name": "成田空港第一ターミナル展望デッキ",
+    "image": "https://image.xinu.ink/pic/data/259/images/up0sjim85_1744737426337.jpg",
+    "geo": [
+      35.762596,
+      140.383869
+    ],
+    "folder": "成田空港"
+  },
+  {
+    "id": "up0v48had",
+    "name": "東京​スカイ​ツリー",
+    "image": "https://image.xinu.ink/pic/data/259/images/up0v48had_1744737543241.jpg",
+    "geo": [
+      35.709999,
+      139.81219
+    ],
+    "mark": "東京ソラマチ4階、北エントランス付近が登場しました。",
+    "folder": "晴空塔",
+    "cn": "东京晴空塔"
+  },
+  {
+    "id": "up10wz6i2",
+    "name": "仲見世通り",
+    "image": "https://image.xinu.ink/pic/data/259/images/up10wz6i2_1744737909872.jpg",
+    "geo": [
+      35.711318,
+      139.796388
+    ],
+    "ep": 7,
+    "s": 955,
+    "mark": "福光屋",
+    "folder": "浅草寺"
+  },
+  {
+    "id": "up12vcjz6",
+    "name": "浅草寺",
+    "image": "https://image.xinu.ink/pic/data/259/images/up12vcjz6_1744738005127.jpg",
+    "geo": [
+      35.714035,
+      139.796669
+    ],
+    "ep": 7,
+    "s": 993,
+    "mark": "7話",
+    "folder": "浅草寺"
+  },
+  {
+    "id": "up17wb0n3",
+    "name": "屋台",
+    "image": "https://image.xinu.ink/pic/data/259/images/up17wb0n3_1744738369488.jpg",
+    "geo": [
+      35.713927,
+      139.7964
+    ],
+    "ep": 7,
+    "s": 1024,
+    "folder": "浅草寺"
+  },
+  {
+    "id": "up19lhsgw",
+    "name": "弁天堂",
+    "image": "https://image.xinu.ink/pic/data/259/images/up19lhsgw_1744738413520.jpg",
+    "geo": [
+      35.71335,
+      139.797531
+    ],
+    "ep": 7,
+    "s": 1105,
+    "folder": "浅草寺"
+  },
+  {
+    "id": "up0kj3uqc",
+    "name": "向ヶ丘遊園駅北口",
+    "image": "https://image.xinu.ink/pic/data/259/images/up0kj3uqc_1744736926153.jpg",
+    "geo": [
+      35.61762,
+      139.564768
+    ],
+    "ep": 1,
+    "s": 588,
+    "mark": "1話",
+    "folder": "向ケ丘遊園"
+  },
+  {
+    "id": "up0kxkpxv",
+    "name": "向ヶ丘遊園駅南口",
+    "image": "https://image.xinu.ink/pic/data/259/images/up0kxkpxv_1744736934505.jpg",
+    "geo": [
+      35.616783,
+      139.564475
+    ],
+    "ep": 1,
+    "s": 592,
+    "mark": "1話",
+    "folder": "向ケ丘遊園"
+  },
+  {
+    "id": "up0n6e5my",
+    "name": "JR登戸駅（生田緑地口）",
+    "image": "https://image.xinu.ink/pic/data/259/images/up0n6e5my_1744737058833.jpg",
+    "geo": [
+      35.620315,
+      139.570241
+    ],
+    "ep": 17,
+    "s": 653,
+    "mark": "17話",
+    "folder": "登戸"
+  },
+  {
+    "id": "2n0o12k",
+    "name": "浅草寺前",
+    "image": "https://image.xinu.ink/pic/data/259/images/2n0o12k-1752756168995.jpg",
+    "geo": [
+      35.714321,
+      139.796694
+    ],
+    "ep": 7,
+    "s": 1033,
+    "folder": "浅草寺",
+    "cn": "路中间盆后面"
+  },
+  {
+    "id": "4hy7tv8",
+    "name": "仲見世会館",
+    "image": "https://image.xinu.ink/pic/data/259/images/4hy7tv8_1756802906244.jpg",
+    "geo": [
+      35.712478,
+      139.796661
+    ],
+    "ep": 7,
+    "s": 970,
+    "folder": "浅草寺"
+  },
+  {
+    "id": "2n51uuf",
+    "name": "浅草寺西侧楼梯",
+    "image": "https://image.xinu.ink/pic/data/259/images/2n51uuf-1752763146447.jpg",
+    "geo": [
+      35.714765,
+      139.796401
+    ],
+    "ep": 7,
+    "s": 1076,
+    "folder": "浅草寺"
+  },
+  {
+    "id": "4hmbk6l",
+    "name": "荒井文扇堂",
+    "image": "https://image.xinu.ink/pic/data/259/images/4hmbk6l_1756802081168_c16v9.jpg",
+    "geo": [
+      35.711593,
+      139.796428
+    ],
+    "ep": "第七话",
+    "s": 1011,
+    "folder": "浅草寺",
+    "cn": "荒井文扇堂"
+  },
+  {
+    "id": "4hmn6a3",
+    "name": "Senso-ji Hondo 浅草寺 本堂(観音堂)",
+    "image": "https://image.xinu.ink/pic/data/259/images/4hmn6a3_1756802078445_c16v9.jpg",
+    "geo": [
+      35.714511,
+      139.796711
+    ],
+    "ep": "第七集",
+    "s": 1090,
+    "mark": "七海摔到空太怀里的地方，最左边的楼梯",
+    "folder": "浅草寺",
+    "cn": "浅草寺 本堂"
+  },
+  {
+    "id": "4hxwgog",
+    "name": "晴空塔",
+    "image": "https://image.xinu.ink/pic/data/259/images/4hxwgog_1756802352309.jpg",
+    "geo": [
+      35.709955,
+      139.812095
+    ],
+    "ep": 7,
+    "s": 842,
+    "mark": "3楼还是4楼的观景平台",
+    "folder": "晴空塔"
+  },
+  {
+    "id": "4hxxovv",
+    "name": "晴空塔",
+    "image": "https://image.xinu.ink/pic/data/259/images/4hxxovv_1756802406929.jpg",
+    "geo": [
+      35.709959,
+      139.812186
+    ],
+    "ep": 7,
+    "s": 900,
+    "folder": "晴空塔"
+  },
+  {
+    "id": "4hxxwvl",
+    "name": "晴空塔",
+    "image": "https://image.xinu.ink/pic/data/259/images/4hxxwvl_1756802419112.jpg",
+    "geo": [
+      35.709969,
+      139.812276
+    ],
+    "ep": 7,
+    "s": 795,
+    "folder": "晴空塔"
+  },
+  {
+    "id": "4hxy7ul",
+    "name": "晴空塔",
+    "image": "https://image.xinu.ink/pic/data/259/images/4hxy7ul_1756802431545.jpg",
+    "geo": [
+      35.709979,
+      139.812386
+    ],
+    "ep": 7,
+    "s": 808,
+    "folder": "晴空塔"
+  },
+  {
+    "id": "9cuop62",
+    "name": "成田机场第1航站楼4F北登机口",
+    "image": "https://image.xinu.ink/pic/data/259/images/9cuop62-1767378662423.jpg",
+    "geo": [
+      35.765084,
+      140.384634
+    ],
+    "ep": 12,
+    "s": 1278,
+    "mark": "oioioi，吃点糖怎么了",
+    "folder": "成田空港"
+  },
+  {
+    "id": "9cusfxc",
+    "name": "成田机场第1航站楼4F北登机口",
+    "image": "https://image.xinu.ink/pic/data/259/images/9cusfxc-1767378734424.jpg",
+    "geo": [
+      35.76511,
+      140.384634
+    ],
+    "ep": 12,
+    "s": 1200,
+    "mark": "为什么上传，因为主播要去拍照巡礼了",
+    "folder": "成田空港"
+  },
+  {
+    "id": "9cuud31",
+    "name": "成田机场第1航站楼4F北登机口",
+    "image": "https://image.xinu.ink/pic/data/259/images/9cuud31-1767378807106.jpg",
+    "geo": [
+      35.764906,
+      140.384547
+    ],
+    "ep": 12,
+    "s": 1208,
+    "folder": "成田空港"
+  },
+  {
+    "id": "9cuv83l",
+    "name": "成田机场第1航站楼4F北登机口",
+    "image": "https://image.xinu.ink/pic/data/259/images/9cuv83l-1767378840930.jpg",
+    "geo": [
+      35.764901,
+      140.384592
+    ],
+    "ep": 12,
+    "s": 1204,
+    "folder": "成田空港"
+  },
+  {
+    "id": "9jyf0xe",
+    "name": "车站前的座",
+    "image": "https://image.xinu.ink/pic/data/259/images/9jyf0xe-1767808086418.jpg",
+    "geo": [
+      35.616872,
+      139.56464
+    ],
+    "ep": 1,
+    "s": 676,
+    "mark": "真白坐的位置没了，男主的还在，有没有人找一找商业街，公园，便利店，难啊",
+    "folder": "向ケ丘遊園"
+  },
+  {
+    "id": "9jyk699",
+    "name": "车站前面",
+    "image": "https://image.xinu.ink/pic/data/259/images/9jyk699-1767808313488.jpg",
+    "geo": [
+      35.616877,
+      139.564623
+    ],
+    "ep": 1,
+    "s": 687,
+    "mark": "改了后面的房子\n",
+    "folder": "向ケ丘遊園"
+  },
+  {
+    "id": "9jyla3c",
+    "name": "车站前",
+    "image": "https://image.xinu.ink/pic/data/259/images/9jyla3c-1767808365354.jpg",
+    "geo": [
+      35.616761,
+      139.564394
+    ],
+    "ep": 1,
+    "s": 750,
+    "mark": "车站前面没有樱花树，www，有没有座椅",
+    "folder": "向ケ丘遊園"
+  },
+  {
+    "id": "9k0037t",
+    "name": "登户站前",
+    "image": "https://image.xinu.ink/pic/data/259/images/9k0037t-1767810770438.jpg",
+    "geo": [
+      35.620379,
+      139.570296
+    ],
+    "ep": 17,
+    "s": 691,
+    "mark": "有没有人找一找圣诞节的喷泉，送去的桥洞下面啊，太难找了",
+    "folder": "登戸"
+  },
+  {
+    "id": "9k037cj",
+    "name": "登户站前",
+    "image": "https://image.xinu.ink/pic/data/259/images/9k037cj-1767810880391.jpg",
+    "geo": [
+      35.620397,
+      139.570373
+    ],
+    "ep": 17,
+    "s": 697,
+    "folder": "登戸"
+  },
+  {
+    "id": "9k0443h",
+    "name": "登户站前",
+    "image": "https://image.xinu.ink/pic/data/259/images/9k0443h-1767810928686.jpg",
+    "geo": [
+      35.620369,
+      139.570299
+    ],
+    "ep": 17,
+    "s": 698,
+    "folder": "登戸"
+  },
+  {
+    "id": "9k054vm",
+    "name": "登户站前",
+    "image": "https://image.xinu.ink/pic/data/259/images/9k054vm-1767810960837.jpg",
+    "geo": [
+      35.620344,
+      139.570295
+    ],
+    "ep": 17,
+    "s": 699,
+    "folder": "登戸"
+  },
+  {
+    "id": "9k05xvx",
+    "name": "登户站前",
+    "image": "https://image.xinu.ink/pic/data/259/images/9k05xvx-1767811001153.jpg",
+    "geo": [
+      35.620322,
+      139.570198
+    ],
+    "ep": 17,
+    "s": 705,
+    "folder": "登戸"
+  },
+  {
+    "id": "9k06qol",
+    "name": "登户站前",
+    "image": "https://image.xinu.ink/pic/data/259/images/9k06qol-1767811036857.jpg",
+    "geo": [
+      35.62035,
+      139.570292
+    ],
+    "ep": 17,
+    "s": 708,
+    "folder": "登戸"
+  },
+  {
+    "id": "9k09lrs",
+    "name": "站前",
+    "image": "https://image.xinu.ink/pic/data/259/images/9k09lrs-1767811185648.jpg",
+    "geo": [
+      35.616804,
+      139.56437
+    ],
+    "ep": 20,
+    "s": 819,
+    "folder": "向ケ丘遊園"
+  },
+  {
+    "id": "9k0ak5f",
+    "name": "站前",
+    "image": "https://image.xinu.ink/pic/data/259/images/9k0ak5f-1767811215124.jpg",
+    "geo": [
+      35.616767,
+      139.564425
+    ],
+    "ep": 20,
+    "s": 834,
+    "folder": "向ケ丘遊園"
+  },
+  {
+    "id": "9k0bbv2",
+    "name": "站前",
+    "image": "https://image.xinu.ink/pic/data/259/images/9k0bbv2-1767811249735.jpg",
+    "geo": [
+      35.616765,
+      139.564375
+    ],
+    "ep": 20,
+    "s": 837,
+    "folder": "向ケ丘遊園"
+  },
+  {
+    "id": "9k0c3nn",
+    "name": "站前",
+    "image": "https://image.xinu.ink/pic/data/259/images/9k0c3nn-1767811293529.jpg",
+    "geo": [
+      35.616596,
+      139.56436
+    ],
+    "ep": 20,
+    "s": 825,
+    "folder": "向ケ丘遊園"
+  },
+  {
+    "id": "9k0rcw8",
+    "name": "站前",
+    "image": "https://image.xinu.ink/pic/data/259/images/9k0rcw8-1767812034226.jpg",
+    "geo": [
+      35.616764,
+      139.564389
+    ],
+    "ep": 22,
+    "s": 772,
+    "folder": "向ケ丘遊園"
+  },
+  {
+    "id": "9k0t06o",
+    "name": "站内",
+    "image": "https://image.xinu.ink/pic/data/259/images/9k0t06o-1767812077051.jpg",
+    "geo": [
+      35.617368,
+      139.564676
+    ],
+    "ep": 22,
+    "s": 920,
+    "mark": "主要不是双车道，就放在另外一面的位置对面，动漫应该是进站就能拍",
+    "folder": "向ケ丘遊園"
+  },
+  {
+    "id": "9k0vdtr",
+    "name": "站内",
+    "image": "https://image.xinu.ink/pic/data/259/images/9k0vdtr-1767812195017.jpg",
+    "geo": [
+      35.616964,
+      139.564418
+    ],
+    "ep": 22,
+    "s": 960,
+    "mark": "和动漫是镜像",
+    "folder": "向ケ丘遊園"
+  },
+  {
+    "id": "9k0wn7i",
+    "name": "站内",
+    "image": "https://image.xinu.ink/pic/data/259/images/9k0wn7i-1767812251027.jpg",
+    "geo": [
+      35.616973,
+      139.564431
+    ],
+    "ep": 22,
+    "s": 1080,
+    "folder": "向ケ丘遊園"
+  },
+  {
+    "id": "9k1238b",
+    "name": "站外",
+    "image": "https://image.xinu.ink/pic/data/259/images/9k1238b-1767812510087.jpg",
+    "geo": [
+      35.616608,
+      139.564359
+    ],
+    "ep": 24,
+    "s": 500,
+    "folder": "向ケ丘遊園"
+  },
+  {
+    "id": "9k137y2",
+    "name": "站外",
+    "image": "https://image.xinu.ink/pic/data/259/images/9k137y2-1767812561338.jpg",
+    "geo": [
+      35.616793,
+      139.5646
+    ],
+    "ep": 24,
+    "s": 507,
+    "folder": "向ケ丘遊園"
+  },
+  {
+    "id": "9k144gr",
+    "name": "站外",
+    "image": "https://image.xinu.ink/pic/data/259/images/9k144gr-1767812606115.jpg",
+    "geo": [
+      35.616742,
+      139.564475
+    ],
+    "ep": 24,
+    "s": 516,
+    "folder": "向ケ丘遊園"
+  },
+  {
+    "id": "9k152gz",
+    "name": "站外",
+    "image": "https://image.xinu.ink/pic/data/259/images/9k152gz-1767812643619.jpg",
+    "geo": [
+      35.616735,
+      139.564404
+    ],
+    "ep": 24,
+    "s": 565,
+    "folder": "向ケ丘遊園"
   }
 ]

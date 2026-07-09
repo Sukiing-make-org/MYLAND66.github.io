@@ -11,5 +11,35 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=zPWmE--Z--YU.kFs_4Kx_jV7c&ll=35.305415%2C139.509866&z=17"
+  },
+  {
+    "id": "51i524n06",
+    "name": "新横浜駅-3番ホーム",
+    "image": "https://image.xinu.ink/pic/data/306/images/51i524n06_1753438816544.jpg",
+    "geo": [
+      35.507426,
+      139.61767
+    ],
+    "mark": "#08「セカイ樹の種I」"
+  },
+  {
+    "id": "51i524m9r",
+    "name": "道の駅すばしり",
+    "image": "https://image.xinu.ink/pic/data/306/images/51i524m9r_1753438836410.jpg",
+    "geo": [
+      35.362736,
+      138.85883
+    ],
+    "mark": "#08"
+  },
+  {
+    "id": "2ybj6mc",
+    "name": "道の駅すばしり  ふじやま食堂",
+    "image": "https://image.xinu.ink/pic/data/306/images/2ybj6mc_1753439182529.jpg",
+    "geo": [
+      35.362667,
+      138.858598
+    ],
+    "mark": "#08"
   }
 ]

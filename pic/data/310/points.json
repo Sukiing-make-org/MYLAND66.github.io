@@ -129,5 +129,34 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "owqi3q5mq",
+    "name": "19 Rue des Orfèvres（タイトル画面）",
+    "image": "https://image.xinu.ink/pic/data/310/images/owqi3q5mq_1728415229421.jpg",
+    "geo": [
+      48.582241,
+      7.749193
+    ]
+  },
+  {
+    "id": "owqvho50n",
+    "name": "5 Rue Adolphe Seyboth（背景）",
+    "image": "https://image.xinu.ink/pic/data/310/images/owqvho50n_1728416043742.jpg",
+    "geo": [
+      48.581426,
+      7.739436
+    ]
+  },
+  {
+    "id": "5c1keb",
+    "name": "和洋女子大学",
+    "image": "https://image.xinu.ink/pic/data/310/images/5c1keb-1747333085531.jpg",
+    "geo": [
+      35.743564,
+      139.904354
+    ],
+    "mark": "TV版封面背景地点",
+    "cn": "和洋女子大学"
   }
 ]

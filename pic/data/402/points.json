@@ -230,5 +230,138 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=19cnj5FiO6bFUWnXIlqYw0ssDAGM&ll=35.301161%2C139.480561&z=17"
+  },
+  {
+    "id": "5e9glflvy",
+    "name": "JR新宿駅中央通路",
+    "image": "https://image.xinu.ink/pic/data/402/images/5e9glflvy_1673366486419.jpg",
+    "geo": [
+      35.690143,
+      139.700459
+    ],
+    "ep": 2,
+    "s": 1199,
+    "folder": "東京"
+  },
+  {
+    "id": "5e9grkt23",
+    "name": "JR新宿駅中央通路",
+    "image": "https://image.xinu.ink/pic/data/402/images/5e9grkt23_1673366490570.jpg",
+    "geo": [
+      35.690115,
+      139.700457
+    ],
+    "ep": 2,
+    "s": 1201,
+    "folder": "東京"
+  },
+  {
+    "id": "5e9gi977r",
+    "name": "JR新宿駅中央通路",
+    "image": "https://image.xinu.ink/pic/data/402/images/5e9gi977r_1673366476208.jpg",
+    "geo": [
+      35.690184,
+      139.700467
+    ],
+    "ep": 2,
+    "s": 1203,
+    "folder": "東京"
+  },
+  {
+    "id": "5e9hei9e5",
+    "name": "多賀神社",
+    "image": "https://image.xinu.ink/pic/data/402/images/5e9hei9e5_1673366531398.jpg",
+    "geo": [
+      35.663712,
+      139.313448
+    ],
+    "ep": 8,
+    "s": 940,
+    "folder": "八王子"
+  },
+  {
+    "id": "5e9hkphje",
+    "name": "多賀神社",
+    "image": "https://image.xinu.ink/pic/data/402/images/5e9hkphje_1673366539905.jpg",
+    "geo": [
+      35.663779,
+      139.313209
+    ],
+    "ep": 8,
+    "s": 1016,
+    "folder": "八王子"
+  },
+  {
+    "id": "5e9f8fgdq",
+    "name": "恋人の丘「龍恋の鐘」",
+    "image": "https://image.xinu.ink/pic/data/402/images/5e9f8fgdq_1673366661165.jpg",
+    "geo": [
+      35.298758,
+      139.477145
+    ],
+    "mark": "#12",
+    "folder": "江ノ島"
+  },
+  {
+    "id": "5e9f8fgg5",
+    "name": "貝作総本店",
+    "image": "https://image.xinu.ink/pic/data/402/images/5e9f8fgg5_1673366679029.jpg",
+    "geo": [
+      35.302144,
+      139.481596
+    ],
+    "ep": 12,
+    "s": 774,
+    "mark": "#12",
+    "folder": "江ノ島"
+  },
+  {
+    "id": "5e9kcksjj",
+    "name": "片瀬西浜海水浴場",
+    "image": "https://image.xinu.ink/pic/data/402/images/5e9kcksjj_1673366705865.jpg",
+    "geo": [
+      35.310928,
+      139.478062
+    ],
+    "ep": 12,
+    "s": 810,
+    "folder": "江ノ島"
+  },
+  {
+    "id": "5e9k7tdqq",
+    "name": "片瀬西浜海水浴場",
+    "image": "https://image.xinu.ink/pic/data/402/images/5e9k7tdqq_1673366701687.jpg",
+    "geo": [
+      35.310981,
+      139.478026
+    ],
+    "ep": 12,
+    "s": 811,
+    "folder": "江ノ島"
+  },
+  {
+    "id": "5e9f8fgff",
+    "name": "新江ノ島水族館",
+    "image": "https://image.xinu.ink/pic/data/402/images/5e9f8fgff_1673366723867.jpg",
+    "geo": [
+      35.309294,
+      139.480292
+    ],
+    "ep": 12,
+    "s": 1056,
+    "mark": "#12",
+    "folder": "江ノ島"
+  },
+  {
+    "id": "5e9ke1c0y",
+    "name": "片瀬西浜海水浴場",
+    "image": "https://image.xinu.ink/pic/data/402/images/5e9ke1c0y_1673366708870.jpg",
+    "geo": [
+      35.310881,
+      139.478102
+    ],
+    "ep": 12,
+    "s": 1121,
+    "folder": "江ノ島"
   }
 ]

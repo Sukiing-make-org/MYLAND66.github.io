@@ -691,5 +691,16 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1WjK9VfjtUdwmcAzkpsvsXphzUhg&ll=38.56894%2C140.532028&z=17"
+  },
+  {
+    "id": "51i537x44",
+    "name": "東京駅（新幹線乗換口）",
+    "image": "",
+    "geo": [
+      35.681309,
+      139.767187
+    ],
+    "mark": "8話。",
+    "folder": "都内（23区内）"
   }
 ]

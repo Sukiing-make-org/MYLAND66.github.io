@@ -141,5 +141,54 @@
       34.6494,
       135.0013
     ]
+  },
+  {
+    "id": "4ggcym",
+    "name": "ホテル・​レオン​浜松",
+    "image": "",
+    "geo": [
+      34.703883,
+      137.728248
+    ],
+    "mark": "这里有星之梦的海报、留言本以及巡礼地图"
+  },
+  {
+    "id": "uj1fid",
+    "name": "アクトタワー",
+    "image": "https://image.xinu.ink/pic/data/474/images/uj1fid-1748856327144.jpg",
+    "geo": [
+      34.705754,
+      137.735071
+    ],
+    "ep": "1",
+    "s": "112",
+    "origin": "CAPT_TWR",
+    "cn": "Act Tower"
+  },
+  {
+    "id": "uj3m45",
+    "name": "アクトタワー",
+    "image": "https://image.xinu.ink/pic/data/474/images/uj3m45-1748856420228.jpg",
+    "geo": [
+      34.705807,
+      137.735411
+    ],
+    "ep": 1,
+    "s": 116,
+    "origin": "CAPT_TWR",
+    "cn": "Act Tower"
+  },
+  {
+    "id": "uj4lds",
+    "name": "アクトタワー",
+    "image": "https://image.xinu.ink/pic/data/474/images/uj4lds-1748856467562.jpg",
+    "geo": [
+      34.705777,
+      137.7352
+    ],
+    "ep": "1",
+    "s": "115",
+    "origin": "CAPT_TWR",
+    "cn": "Act Tower"
   }
 ]

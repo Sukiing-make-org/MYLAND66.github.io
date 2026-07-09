@@ -364,5 +364,235 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1Nza_RcEry4raFZXiYS5rQQIA824&ll=35.760758%2C139.804054&z=17"
+  },
+  {
+    "id": "oddbszchb",
+    "name": "住友不動産千代田富士見ビル",
+    "image": "https://image.xinu.ink/pic/data/466/images/oddbszchb-1726897632620.jpg",
+    "geo": [
+      35.698572,
+      139.745578
+    ],
+    "ep": 6,
+    "s": 1067
+  },
+  {
+    "id": "9nqtfq3",
+    "name": "麻布​警察署​六本木​六丁目​交番",
+    "image": "https://image.xinu.ink/pic/data/466/images/9nqtfq3-1768037169338.jpg",
+    "geo": [
+      35.659334,
+      139.729018
+    ]
+  },
+  {
+    "id": "9nqrzhy",
+    "name": "麻布​警察署​六本木​六丁目​交番",
+    "image": "https://image.xinu.ink/pic/data/466/images/9nqrzhy-1768037108555.jpg",
+    "geo": [
+      35.659306,
+      139.729016
+    ],
+    "ep": 1,
+    "s": 1215,
+    "mark": "找到的各位请更正"
+  },
+  {
+    "id": "9nqntby",
+    "name": "麻布​警察署​六本木​六丁目​交番",
+    "image": "https://image.xinu.ink/pic/data/466/images/9nqntby-1768036943824.jpg",
+    "geo": [
+      35.659322,
+      139.729023
+    ],
+    "ep": "ovd1",
+    "s": 1218,
+    "mark": "根据后面的房子造型还有标志性的树木，问就是罪恶王冠，放在6本木，但我没有找到具体的位置，有可能也不对，然后这里是提供图片和集数"
+  },
+  {
+    "id": "9nqdfj9",
+    "name": "ダイソー​五反野​駅前​店",
+    "image": "https://image.xinu.ink/pic/data/466/images/9nqdfj9-1768036415485.jpg",
+    "geo": [
+      35.765817,
+      139.809894
+    ],
+    "ep": 11,
+    "s": 663
+  },
+  {
+    "id": "9nq71ul",
+    "name": "楼梯",
+    "image": "https://image.xinu.ink/pic/data/466/images/9nq71ul-1768036124428.jpg",
+    "geo": [
+      35.760999,
+      139.804849
+    ],
+    "ep": 8,
+    "s": 891
+  },
+  {
+    "id": "9nq53zq",
+    "name": "楼梯",
+    "image": "https://image.xinu.ink/pic/data/466/images/9nq53zq-1768036030698.jpg",
+    "geo": [
+      35.760674,
+      139.804572
+    ],
+    "ep": 8,
+    "s": 746
+  },
+  {
+    "id": "9nq3pcu",
+    "name": "楼梯",
+    "image": "https://image.xinu.ink/pic/data/466/images/9nq3pcu-1768035962017.jpg",
+    "geo": [
+      35.760617,
+      139.804664
+    ],
+    "ep": 8,
+    "s": 685,
+    "mark": "根据高楼拍摄"
+  },
+  {
+    "id": "9nq4ib5",
+    "name": "楼梯",
+    "image": "https://image.xinu.ink/pic/data/466/images/9nq4ib5-1768035998754.jpg",
+    "geo": [
+      35.760711,
+      139.804606
+    ],
+    "ep": 8,
+    "s": 727
+  },
+  {
+    "id": "9nq31qp",
+    "name": "楼梯",
+    "image": "https://image.xinu.ink/pic/data/466/images/9nq31qp-1768035931268.jpg",
+    "geo": [
+      35.760735,
+      139.804633
+    ],
+    "ep": 8,
+    "s": 653
+  },
+  {
+    "id": "9nq2gdf",
+    "name": "楼梯",
+    "image": "https://image.xinu.ink/pic/data/466/images/9nq2gdf-1768035902416.jpg",
+    "geo": [
+      35.760635,
+      139.804567
+    ],
+    "ep": 8,
+    "s": 628
+  },
+  {
+    "id": "9noyi1b",
+    "name": "人行道",
+    "image": "https://image.xinu.ink/pic/data/466/images/9noyi1b-1768034038775.jpg",
+    "geo": [
+      35.765287,
+      139.808503
+    ],
+    "ep": 11,
+    "s": 397,
+    "mark": "拍红绿灯"
+  },
+  {
+    "id": "9nozd1y",
+    "name": "人行道",
+    "image": "https://image.xinu.ink/pic/data/466/images/9nozd1y-1768034079745.jpg",
+    "geo": [
+      35.765345,
+      139.80853
+    ],
+    "ep": 11,
+    "s": 420,
+    "mark": "向对面拍摄"
+  },
+  {
+    "id": "9npevha",
+    "name": "跑道",
+    "image": "https://image.xinu.ink/pic/data/466/images/9npevha-1768034802771.jpg",
+    "geo": [
+      35.760225,
+      139.806885
+    ],
+    "ep": 7,
+    "s": 1187,
+    "mark": "根据动漫视角在中间拍摄，然后现实没有椅子"
+  },
+  {
+    "id": "9npabwk",
+    "name": "跑步道",
+    "image": "https://image.xinu.ink/pic/data/466/images/9npabwk-1768034590657.jpg",
+    "geo": [
+      35.760849,
+      139.80511
+    ],
+    "ep": 1,
+    "s": 971,
+    "mark": "根据桥来拍"
+  },
+  {
+    "id": "9npg7rt",
+    "name": "跑道",
+    "image": "https://image.xinu.ink/pic/data/466/images/9npg7rt-1768034865801.jpg",
+    "geo": [
+      35.760296,
+      139.806774
+    ],
+    "ep": 7,
+    "s": 1177,
+    "mark": "根据下文的右侧高楼可以定位，还有这张图片的后面房子，虽然是高架"
+  },
+  {
+    "id": "9npte02",
+    "name": "下桥口",
+    "image": "https://image.xinu.ink/pic/data/466/images/9npte02-1768035481765.jpg",
+    "geo": [
+      35.761208,
+      139.803522
+    ],
+    "ep": 8,
+    "s": 581,
+    "mark": "根据动漫剧情思路，向右就是下坡的取景，然后根据前文取景在右面，而且这个位置满足左面右面的栏杆，以及反面的牌子，基本是没得跑了"
+  },
+  {
+    "id": "9npw13k",
+    "name": "下桥口",
+    "image": "https://image.xinu.ink/pic/data/466/images/9npw13k-1768035602627.jpg",
+    "geo": [
+      35.760892,
+      139.803423
+    ],
+    "ep": 8,
+    "s": 582,
+    "mark": "马冬梅，马什么梅"
+  },
+  {
+    "id": "9npxhkk",
+    "name": "下桥口",
+    "image": "https://image.xinu.ink/pic/data/466/images/9npxhkk-1768035670870.jpg",
+    "geo": [
+      35.761159,
+      139.804027
+    ],
+    "ep": 8,
+    "s": 575,
+    "mark": "根据高楼拍摄"
+  },
+  {
+    "id": "9nq1dn9",
+    "name": "楼梯",
+    "image": "https://image.xinu.ink/pic/data/466/images/9nq1dn9-1768035856920.jpg",
+    "geo": [
+      35.760739,
+      139.80463
+    ],
+    "ep": 8,
+    "s": 625,
+    "mark": "旁边的楼梯只有这一个"
   }
 ]

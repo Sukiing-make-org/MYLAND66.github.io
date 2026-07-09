@@ -532,5 +532,474 @@
       42.5651,
       140.821
     ]
+  },
+  {
+    "id": "586xra6tw",
+    "name": "洞爺国道",
+    "image": "https://image.xinu.ink/pic/data/366/images/586xra6tw_1672890801343.jpg",
+    "geo": [
+      42.569434,
+      140.798118
+    ],
+    "ep": 1,
+    "s": 37
+  },
+  {
+    "id": "586xnmd16",
+    "name": "洞爺国道",
+    "image": "https://image.xinu.ink/pic/data/366/images/586xnmd16_1672890795964.jpg",
+    "geo": [
+      42.57029,
+      140.799291
+    ],
+    "ep": 1,
+    "s": 77
+  },
+  {
+    "id": "587ph2da3",
+    "name": "洞爺国道",
+    "image": "https://image.xinu.ink/pic/data/366/images/587ph2da3_1672892478101.jpg",
+    "geo": [
+      42.570526,
+      140.799593
+    ],
+    "ep": 1,
+    "s": 1181
+  },
+  {
+    "id": "587f544qm",
+    "name": "札幌駅バスターミナル10番乗り場",
+    "image": "https://image.xinu.ink/pic/data/366/images/587f544qm_1672891853471.jpg",
+    "geo": [
+      43.06758,
+      141.352703
+    ],
+    "ep": 1,
+    "s": 546,
+    "folder": "札幌市"
+  },
+  {
+    "id": "587f8a6mf",
+    "name": "札幌駅バスターミナル10番乗り場",
+    "image": "https://image.xinu.ink/pic/data/366/images/587f8a6mf_1672891861005.jpg",
+    "geo": [
+      43.067542,
+      141.352693
+    ],
+    "ep": 1,
+    "s": 519,
+    "folder": "札幌市"
+  },
+  {
+    "id": "31a9ocw",
+    "name": "札幌駅北口",
+    "image": "https://image.xinu.ink/pic/data/366/images/31a9ocw_1754464381136.jpg",
+    "geo": [
+      43.069413,
+      141.351181
+    ],
+    "folder": "札幌市"
+  },
+  {
+    "id": "31a9of3",
+    "name": "大通公園西3丁目付近",
+    "image": "https://image.xinu.ink/pic/data/366/images/31a9of3_1754464458409.jpg",
+    "geo": [
+      43.060597,
+      141.352665
+    ],
+    "folder": "札幌市"
+  },
+  {
+    "id": "58b6705m0",
+    "name": "道南バスターミナル",
+    "image": "https://image.xinu.ink/pic/data/366/images/58b6705m0_1672900020676.jpg",
+    "geo": [
+      42.564471,
+      140.817579
+    ],
+    "ep": 2,
+    "s": 310,
+    "folder": "洞爺湖町"
+  },
+  {
+    "id": "58b69yz1g",
+    "name": "道南バスターミナル",
+    "image": "https://image.xinu.ink/pic/data/366/images/58b69yz1g_1672900023382.jpg",
+    "geo": [
+      42.564475,
+      140.817616
+    ],
+    "ep": 2,
+    "s": 314,
+    "folder": "洞爺湖町"
+  },
+  {
+    "id": "58b334tpc",
+    "name": "桟橋2付近",
+    "image": "https://image.xinu.ink/pic/data/366/images/58b334tpc_1672899830510.jpg",
+    "geo": [
+      42.566261,
+      140.818184
+    ],
+    "ep": 2,
+    "s": 1020,
+    "folder": "洞爺湖町"
+  },
+  {
+    "id": "58b34ph0c",
+    "name": "桟橋2付近",
+    "image": "https://image.xinu.ink/pic/data/366/images/58b34ph0c_1672899834028.jpg",
+    "geo": [
+      42.566286,
+      140.818242
+    ],
+    "ep": 2,
+    "s": 999,
+    "folder": "洞爺湖町"
+  },
+  {
+    "id": "31a9ocg",
+    "name": "彫刻「旅ひとり」",
+    "image": "https://image.xinu.ink/pic/data/366/images/31a9ocg_1672899304777.jpg",
+    "geo": [
+      42.566084,
+      140.820023
+    ],
+    "ep": 2,
+    "s": 426,
+    "folder": "洞爺湖町"
+  },
+  {
+    "id": "58b4zmu9g",
+    "name": "セイコーマート洞爺たなか店",
+    "image": "https://image.xinu.ink/pic/data/366/images/58b4zmu9g_1672899966455.jpg",
+    "geo": [
+      42.565104,
+      140.82107
+    ],
+    "ep": 1,
+    "s": 1004,
+    "folder": "洞爺湖町"
+  },
+  {
+    "id": "587ilsxav",
+    "name": "洞爺湖​中央​モーターボート",
+    "image": "https://image.xinu.ink/pic/data/366/images/587ilsxav_1672892061854.jpg",
+    "geo": [
+      42.566211,
+      140.82129
+    ],
+    "ep": 1,
+    "s": 680,
+    "folder": "洞爺湖町"
+  },
+  {
+    "id": "31a9oer",
+    "name": "乃乃香家",
+    "image": "https://image.xinu.ink/pic/data/366/images/31a9oer_1672891212863.jpg",
+    "geo": [
+      42.559547,
+      140.841942
+    ],
+    "ep": 1,
+    "s": 401,
+    "folder": "壮瞥町"
+  },
+  {
+    "id": "587l98xuj",
+    "name": "乃乃香家",
+    "image": "https://image.xinu.ink/pic/data/366/images/587l98xuj_1672892222644.jpg",
+    "geo": [
+      42.559798,
+      140.842077
+    ],
+    "ep": 1,
+    "s": 837
+  },
+  {
+    "id": "587lugp95",
+    "name": "乃乃香家",
+    "image": "https://image.xinu.ink/pic/data/366/images/587lugp95_1672892257510.jpg",
+    "geo": [
+      42.559768,
+      140.841899
+    ],
+    "ep": 1,
+    "s": 940
+  },
+  {
+    "id": "587m7mn5a",
+    "name": "乃乃香家",
+    "image": "https://image.xinu.ink/pic/data/366/images/587m7mn5a_1672892280082.jpg",
+    "geo": [
+      42.555702,
+      140.862354
+    ],
+    "ep": 1,
+    "s": 980,
+    "mark": "乃乃香家旁边道路是参照的原坐标位置，但是建筑主体是参考的这栋建筑（可以很容易的从谷歌街景看出来）"
+  },
+  {
+    "id": "31a9ocx",
+    "name": "レストハウス 梓",
+    "image": "https://image.xinu.ink/pic/data/366/images/31a9ocx_1672890765649.jpg",
+    "geo": [
+      42.557601,
+      140.854844
+    ],
+    "ep": 1,
+    "s": 4,
+    "folder": "壮瞥町"
+  },
+  {
+    "id": "587slw9gq",
+    "name": "レストハウス 梓",
+    "image": "https://image.xinu.ink/pic/data/366/images/587slw9gq_1672892666828.jpg",
+    "geo": [
+      42.557312,
+      140.854651
+    ],
+    "ep": 1,
+    "s": 1324
+  },
+  {
+    "id": "587snrj4v",
+    "name": "レストハウス 梓",
+    "image": "https://image.xinu.ink/pic/data/366/images/587snrj4v_1672892669806.jpg",
+    "geo": [
+      42.557236,
+      140.854599
+    ],
+    "ep": 1,
+    "s": 1322
+  },
+  {
+    "id": "5873ixr7x",
+    "name": "民芸御殿",
+    "image": "https://image.xinu.ink/pic/data/366/images/5873ixr7x_1672891149802.jpg",
+    "geo": [
+      42.555942,
+      140.862522
+    ],
+    "ep": 1,
+    "s": 355
+  },
+  {
+    "id": "5873wg8eq",
+    "name": "民芸御殿",
+    "image": "https://image.xinu.ink/pic/data/366/images/5873wg8eq_1672891173288.jpg",
+    "geo": [
+      42.556251,
+      140.86293
+    ],
+    "ep": 1,
+    "s": 376
+  },
+  {
+    "id": "5872oulkb",
+    "name": "民芸御殿",
+    "image": "https://image.xinu.ink/pic/data/366/images/5872oulkb_1672891099735.jpg",
+    "geo": [
+      42.556061,
+      140.862409
+    ],
+    "ep": 1,
+    "s": 311
+  },
+  {
+    "id": "5872wdfjr",
+    "name": "民芸御殿",
+    "image": "https://image.xinu.ink/pic/data/366/images/5872wdfjr_1672891113903.jpg",
+    "geo": [
+      42.556142,
+      140.86279
+    ],
+    "ep": 1,
+    "s": 316
+  },
+  {
+    "id": "58733xppb",
+    "name": "民芸御殿",
+    "image": "https://image.xinu.ink/pic/data/366/images/58733xppb_1672891124906.jpg",
+    "geo": [
+      42.556065,
+      140.862474
+    ],
+    "ep": 1,
+    "s": 324
+  },
+  {
+    "id": "5873aca7b",
+    "name": "民芸御殿",
+    "image": "https://image.xinu.ink/pic/data/366/images/5873aca7b_1672891135523.jpg",
+    "geo": [
+      42.556121,
+      140.862609
+    ],
+    "ep": 1,
+    "s": 341
+  },
+  {
+    "id": "586wo79qt",
+    "name": "森​と​木​の​里​センター",
+    "image": "https://image.xinu.ink/pic/data/366/images/586wo79qt_1672890735685.jpg",
+    "geo": [
+      42.565886,
+      140.893767
+    ],
+    "s": 41
+  },
+  {
+    "id": "586wrdk9q",
+    "name": "森​と​木​の​里​センター",
+    "image": "https://image.xinu.ink/pic/data/366/images/586wrdk9q_1672890742226.jpg",
+    "geo": [
+      42.565845,
+      140.893688
+    ],
+    "s": 43
+  },
+  {
+    "id": "586wun394",
+    "name": "森​と​木​の​里​センター",
+    "image": "https://image.xinu.ink/pic/data/366/images/586wun394_1672890746351.jpg",
+    "geo": [
+      42.565943,
+      140.894128
+    ],
+    "ep": 1,
+    "s": 60
+  },
+  {
+    "id": "586zke3tz",
+    "name": "森​と​木​の​里​センター",
+    "image": "https://image.xinu.ink/pic/data/366/images/586zke3tz_1672890910576.jpg",
+    "geo": [
+      42.565991,
+      140.894161
+    ],
+    "s": 7
+  },
+  {
+    "id": "58b2mn9jt",
+    "name": "金比罗火山口展望台",
+    "image": "https://image.xinu.ink/pic/data/366/images/58b2mn9jt_1672899802557.jpg",
+    "geo": [
+      42.560251,
+      140.807328
+    ],
+    "ep": 2,
+    "s": 996
+  },
+  {
+    "id": "58bb1hkpu",
+    "name": "金比罗火山口展望台",
+    "image": "https://image.xinu.ink/pic/data/366/images/58bb1hkpu_1672900311477.jpg",
+    "geo": [
+      42.560541,
+      140.807328
+    ],
+    "ep": 2,
+    "s": 1106
+  },
+  {
+    "id": "58bmlunje",
+    "name": "浮見堂",
+    "image": "https://image.xinu.ink/pic/data/366/images/58bmlunje_1672901010803.jpg",
+    "geo": [
+      42.638939,
+      140.825417
+    ],
+    "ep": 3,
+    "s": 158
+  },
+  {
+    "id": "58bmnh8u7",
+    "name": "浮見堂",
+    "image": "https://image.xinu.ink/pic/data/366/images/58bmnh8u7_1672901014036.jpg",
+    "geo": [
+      42.638905,
+      140.825858
+    ],
+    "ep": 3,
+    "s": 197
+  },
+  {
+    "id": "58bmpeg2c",
+    "name": "浮見堂",
+    "image": "https://image.xinu.ink/pic/data/366/images/58bmpeg2c_1672901016398.jpg",
+    "geo": [
+      42.638875,
+      140.825609
+    ],
+    "ep": 3,
+    "s": 154
+  },
+  {
+    "id": "58bms4iku",
+    "name": "浮見堂",
+    "image": "https://image.xinu.ink/pic/data/366/images/58bms4iku_1672901021205.jpg",
+    "geo": [
+      42.638779,
+      140.826122
+    ],
+    "ep": 3,
+    "s": 181
+  },
+  {
+    "id": "58bmtrgco",
+    "name": "浮見堂",
+    "image": "https://image.xinu.ink/pic/data/366/images/58bmtrgco_1672901024982.jpg",
+    "geo": [
+      42.638973,
+      140.826235
+    ],
+    "ep": 3,
+    "s": 171
+  },
+  {
+    "id": "58bn3ymd7",
+    "name": "浮見堂",
+    "image": "https://image.xinu.ink/pic/data/366/images/58bn3ymd7_1672901102612.jpg",
+    "geo": [
+      42.638692,
+      140.826374
+    ],
+    "ep": 3,
+    "s": 236
+  },
+  {
+    "id": "58bngtp84",
+    "name": "浮見堂",
+    "image": "https://image.xinu.ink/pic/data/366/images/58bngtp84_1672901062966.jpg",
+    "geo": [
+      42.63964,
+      140.822426
+    ],
+    "ep": 3,
+    "s": 226
+  },
+  {
+    "id": "58bnn3666",
+    "name": "浮見堂",
+    "image": "https://image.xinu.ink/pic/data/366/images/58bnn3666_1672901073850.jpg",
+    "geo": [
+      42.639288,
+      140.824311
+    ],
+    "ep": 3,
+    "s": 233
+  },
+  {
+    "id": "58bomaw6e",
+    "name": "浮見堂",
+    "image": "https://image.xinu.ink/pic/data/366/images/58bomaw6e_1672901133718.jpg",
+    "geo": [
+      42.639399,
+      140.823912
+    ],
+    "ep": 3,
+    "s": 246
   }
 ]

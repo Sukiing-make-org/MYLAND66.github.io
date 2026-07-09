@@ -1168,5 +1168,15 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1Fg_FsJxMI9EVGJPQS6UAnWdm0xE&ll=35.705676%2C139.751893&z=17"
+  },
+  {
+    "id": "4uiarixt7",
+    "name": "浅草・雷門",
+    "image": "",
+    "geo": [
+      35.710899,
+      139.796315
+    ],
+    "ep": 8
   }
 ]

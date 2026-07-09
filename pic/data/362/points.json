@@ -32,5 +32,57 @@
     ],
     "origin": "Anitabi@喔喔酱",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ojt18kc3i",
+    "name": "华中师范大学第一附属中学",
+    "image": "https://image.xinu.ink/pic/data/362/images/ojt18kc3i-1727402263268.jpg",
+    "geo": [
+      30.454721,
+      114.385029
+    ],
+    "mark": "校门"
+  },
+  {
+    "id": "7qzwfnd",
+    "name": "思明南路",
+    "image": "https://image.xinu.ink/pic/data/362/images/7qzwfnd-1763880511824.jpg",
+    "geo": [
+      24.442749,
+      118.088105
+    ],
+    "cn": "上学路"
+  },
+  {
+    "id": "9icej5h",
+    "name": "紫阳金利屋",
+    "image": "https://image.xinu.ink/pic/data/362/images/9icej5h-1767710857206.jpg",
+    "geo": [
+      30.537251,
+      114.296619
+    ],
+    "s": 30,
+    "mark": "十年后罗小涵线小区原型"
+  },
+  {
+    "id": "9icvrbn",
+    "name": "首义广场",
+    "image": "https://image.xinu.ink/pic/data/362/images/9icvrbn-1767711802269.jpg",
+    "geo": [
+      30.536835,
+      114.29986
+    ],
+    "mark": "十年后罗小涵和高练结局亲吻地方"
+  },
+  {
+    "id": "a9k0fiw",
+    "name": "天津医科大学研究院",
+    "image": "https://image.xinu.ink/pic/data/362/images/a9k0fiw-1769356027364.jpg",
+    "geo": [
+      39.105006,
+      117.177244
+    ],
+    "s": 5,
+    "mark": "小涵线补习班学校所在地"
   }
 ]

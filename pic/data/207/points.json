@@ -22,5 +22,258 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1Y8CoeBh4gWe5DDItU7KNuyzXf9g&ll=35.624639%2C139.751804&z=17"
+  },
+  {
+    "id": "51i522mxo",
+    "name": "ポイントF",
+    "image": "https://image.xinu.ink/pic/data/207/images/51i522mxo_1758792340626_c16v9.jpg",
+    "geo": [
+      35.621006,
+      139.750654
+    ],
+    "ep": 1,
+    "s": 334,
+    "mark": "B出口出站左转天桥上",
+    "cn": "临海线天王州岛站B出口"
+  },
+  {
+    "id": "5euxn0z",
+    "name": "丸山变电所",
+    "image": "https://image.xinu.ink/pic/data/207/images/5euxn0z_1758792757226.jpg",
+    "geo": [
+      36.34798,
+      138.726105
+    ],
+    "ep": 1,
+    "s": 402,
+    "mark": "樱满集的秘密基地原型"
+  },
+  {
+    "id": "5euvcyb",
+    "name": "六本木Hills",
+    "image": "https://image.xinu.ink/pic/data/207/images/5euvcyb_1758792645723.jpg",
+    "geo": [
+      35.660539,
+      139.729035
+    ],
+    "ep": 1,
+    "s": 813
+  },
+  {
+    "id": "5ev8xix",
+    "name": "六本木",
+    "image": "https://image.xinu.ink/pic/data/207/images/5ev8xix_1758793276565.jpg",
+    "geo": [
+      35.659221,
+      139.730546
+    ],
+    "ep": 1,
+    "s": 1177
+  },
+  {
+    "id": "5evd6r5",
+    "name": "六本木",
+    "image": "https://image.xinu.ink/pic/data/207/images/5evd6r5_1758793475077.jpg",
+    "geo": [
+      35.661866,
+      139.73131
+    ],
+    "ep": 2,
+    "s": 463,
+    "mark": "剧中是楼顶，实际是楼底"
+  },
+  {
+    "id": "5evf8jm",
+    "name": "六本木",
+    "image": "https://image.xinu.ink/pic/data/207/images/5evf8jm_1758793571993.jpg",
+    "geo": [
+      35.661935,
+      139.731437
+    ],
+    "ep": 2,
+    "s": 495
+  },
+  {
+    "id": "5evgaw1",
+    "name": "六本木",
+    "image": "https://image.xinu.ink/pic/data/207/images/5evgaw1_1758793620796.jpg",
+    "geo": [
+      35.661883,
+      139.731395
+    ],
+    "ep": 2,
+    "s": 552
+  },
+  {
+    "id": "5evic9a",
+    "name": "麻布十番站",
+    "image": "https://image.xinu.ink/pic/data/207/images/5evic9a_1758793764645.jpg",
+    "geo": [
+      35.656363,
+      139.737439
+    ],
+    "ep": 2,
+    "s": 878
+  },
+  {
+    "id": "5evkyk1",
+    "name": "三角高架俯视",
+    "image": "https://image.xinu.ink/pic/data/207/images/5evkyk1_1758793839406.jpg",
+    "geo": [
+      35.655528,
+      139.737883
+    ],
+    "ep": 2,
+    "s": 922,
+    "mark": "此处需要无人机拍摄"
+  },
+  {
+    "id": "5evmxhn",
+    "name": "葬仪社全员",
+    "image": "https://image.xinu.ink/pic/data/207/images/5evmxhn_1758793963374.jpg",
+    "geo": [
+      35.655592,
+      139.737792
+    ],
+    "ep": 2,
+    "s": 1205
+  },
+  {
+    "id": "51i522n4o",
+    "name": "ポイントD",
+    "image": "https://image.xinu.ink/pic/data/207/images/51i522n4o-1754723481970.jpg",
+    "geo": [
+      35.617559,
+      139.748607
+    ],
+    "ep": 3,
+    "s": 630,
+    "mark": "学校为作品虚构，实际为天王洲公园及球场",
+    "cn": "天王洲高中原型"
+  },
+  {
+    "id": "51i522mp6",
+    "name": "ポイントC",
+    "image": "https://image.xinu.ink/pic/data/207/images/51i522mp6-1754721553498.jpg",
+    "geo": [
+      35.618525,
+      139.749334
+    ],
+    "ep": 3,
+    "s": 863,
+    "mark": "第三话出现的大桥，大桥天王洲侧公园的滑梯顶部拍摄最佳",
+    "cn": "天王洲アイル大桥"
+  },
+  {
+    "id": "51i522n8g",
+    "name": "ポイントB",
+    "image": "https://image.xinu.ink/pic/data/207/images/51i522n8g-1754721005546.jpg",
+    "geo": [
+      35.618065,
+      139.749425
+    ],
+    "ep": 3,
+    "s": 867,
+    "mark": "第三话集痛击基友抽取虚空的大桥，角度为桥中央往天王州方向",
+    "cn": "天王州アイル大桥"
+  },
+  {
+    "id": "3jjw68z",
+    "name": "アイル橋",
+    "image": "https://image.xinu.ink/pic/data/207/images/3jjw68z-1754723025126.jpg",
+    "geo": [
+      35.618227,
+      139.749374
+    ],
+    "ep": 3,
+    "s": 874,
+    "mark": "第三话集抽取飒太虚空的画面，位于桥中央往天王洲方向看的左侧",
+    "cn": "天王洲アイル桥中央"
+  },
+  {
+    "id": "3jleug8",
+    "name": "Tennōzu Isle Station 天王洲アイル",
+    "image": "https://image.xinu.ink/pic/data/207/images/3jleug8_1758792387930_c16v9.jpg",
+    "geo": [
+      35.623061,
+      139.750534
+    ],
+    "ep": 3,
+    "s": 1232,
+    "mark": "番剧中角色们上学使用的电车原型，如想体验乘坐可从滨松町上车往羽田空港方向乘坐",
+    "cn": "东京单轨电车线"
+  },
+  {
+    "id": "3jl6yic",
+    "name": "Tennōzu Isle Station 天王洲アイル",
+    "image": "https://image.xinu.ink/pic/data/207/images/3jl6yic_1758792383722_c16v9.jpg",
+    "geo": [
+      35.623242,
+      139.750449
+    ],
+    "ep": 4,
+    "s": 15,
+    "mark": "第三话结尾，集被谷寻出卖的出站站台，应为羽田空港方向",
+    "cn": "东京单轨电车天王洲岛站"
+  },
+  {
+    "id": "5ev2vnn",
+    "name": "六本木展望台",
+    "image": "https://image.xinu.ink/pic/data/207/images/5ev2vnn_1758792997162.jpg",
+    "geo": [
+      35.66024,
+      139.729344
+    ],
+    "ep": 5,
+    "s": 674
+  },
+  {
+    "id": "3jjfmjk",
+    "name": "Tennōzu Park 天王洲公園",
+    "image": "https://image.xinu.ink/pic/data/207/images/3jjfmjk_1758792328434_cut.jpg",
+    "geo": [
+      35.618512,
+      139.748984
+    ],
+    "ep": 14,
+    "s": 300,
+    "mark": "14话东京封锁后，祈与鸫交谈处",
+    "cn": "天王洲公园河边座椅"
+  },
+  {
+    "id": "3jjmn8x",
+    "name": "Tennōzu Park 天王洲公園",
+    "image": "https://image.xinu.ink/pic/data/207/images/3jjmn8x-1754722570093.jpg",
+    "geo": [
+      35.618582,
+      139.749062
+    ],
+    "ep": 14,
+    "s": 355,
+    "mark": "14话，集偷听祈与鸫对话时藏身的树",
+    "cn": "天王洲公园滑梯旁大树"
+  },
+  {
+    "id": "5euzaf1",
+    "name": "鸠山会馆",
+    "image": "https://image.xinu.ink/pic/data/207/images/5euzaf1_1758792824379.jpg",
+    "geo": [
+      35.713651,
+      139.731205
+    ],
+    "ep": 18,
+    "s": 456
+  },
+  {
+    "id": "9cuhiez",
+    "name": "多摩川铁路",
+    "image": "https://image.xinu.ink/pic/data/207/images/9cuhiez-1767378245147.jpg",
+    "geo": [
+      35.640097,
+      139.534972
+    ],
+    "ep": 14,
+    "s": "22：28",
+    "mark": "乘坐这一班铁路，ed是乘车视角，看见恋人不行想起来有这么一个取景"
   }
 ]

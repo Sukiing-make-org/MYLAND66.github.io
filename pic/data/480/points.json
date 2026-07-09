@@ -154,5 +154,67 @@
     ],
     "origin": "Anitabi@AmaiAya",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qfwv0u2kh",
+    "name": "昭和通六丁目交差点",
+    "image": "https://image.xinu.ink/pic/data/480/images/qfwv0u2kh_1732739091430.jpg",
+    "geo": [
+      34.72237,
+      135.410889
+    ],
+    "ep": 2
+  },
+  {
+    "id": "qfxjciro2",
+    "name": "フレール花壇",
+    "image": "https://image.xinu.ink/pic/data/480/images/qfxjciro2_1732740567268.jpg",
+    "geo": [
+      38.255417,
+      140.862705
+    ],
+    "ep": 5,
+    "mark": "该场景在フレール花壇楼顶，远处建筑为コープ​野村​花壇​A。"
+  },
+  {
+    "id": "qfxjvo0xh",
+    "name": "フレール花壇",
+    "image": "https://image.xinu.ink/pic/data/480/images/qfxjvo0xh_1732740622314.jpg",
+    "geo": [
+      38.255388,
+      140.862735
+    ],
+    "ep": 5,
+    "mark": "该场景在フレール花壇楼顶，远处建筑为ライオンズタワー仙台大手町。"
+  },
+  {
+    "id": "qfxlk4w6i",
+    "name": "フレール花壇",
+    "image": "https://image.xinu.ink/pic/data/480/images/qfxlk4w6i_1732740716693.jpg",
+    "geo": [
+      38.255772,
+      140.862581
+    ],
+    "ep": 6
+  },
+  {
+    "id": "qfxmtof4n",
+    "name": "コーポ花壇",
+    "image": "https://image.xinu.ink/pic/data/480/images/qfxmtof4n_1732740785285.jpg",
+    "geo": [
+      38.254966,
+      140.862282
+    ],
+    "ep": 6
+  },
+  {
+    "id": "qfybqeq98",
+    "name": "南町通",
+    "image": "https://image.xinu.ink/pic/data/480/images/qfybqeq98_1732742287542.jpg",
+    "geo": [
+      38.257647,
+      140.864919
+    ],
+    "ep": 23
   }
 ]

@@ -231,5 +231,42 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1BuTnZnVX94klHyH5Tf7rLMk_jyo&ll=35.813019%2C139.163239&z=17"
+  },
+  {
+    "id": "6eef8231",
+    "name": "1-12-13 稲毛海岸駅北口",
+    "image": "https://image.xinu.ink/pic/data/233/images/6eef8231_1740935845166.jpg",
+    "geo": [
+      35.629845,
+      140.073149
+    ],
+    "ep": 1,
+    "origin": "あっちこっちde撮影地forブログ",
+    "cn": "稻毛海岸站北口"
+  },
+  {
+    "id": "99339f63",
+    "name": "5-02,04 稲毛海浜公園",
+    "image": "https://image.xinu.ink/pic/data/233/images/99339f63_1740935980823.jpg",
+    "geo": [
+      35.615642,
+      140.063903
+    ],
+    "ep": 5,
+    "origin": "あっちこっちde撮影地forブログ",
+    "cn": "稻毛海滨公园"
+  },
+  {
+    "id": "308d4815",
+    "name": "8-08 稲毛浅間神社",
+    "image": "https://image.xinu.ink/pic/data/233/images/308d4815_1740936846085.jpg",
+    "geo": [
+      35.636023,
+      140.081689
+    ],
+    "ep": 8,
+    "mark": "帰り道、参道を振り返ります。\n毎年７月１４日・１５日に大祭があって、縁日も盛り上がるそうですよ（´ω｀）",
+    "origin": "あっちこっちde撮影地forブログ",
+    "cn": "稻毛浅间神社"
   }
 ]

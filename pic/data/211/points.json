@@ -191,5 +191,29 @@
     ],
     "origin": "Anitabi@书蠹诗魔",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p8bnjwabl",
+    "name": "Gare De Strasbourg",
+    "image": "https://image.xinu.ink/pic/data/211/images/p8bnjwabl_1729323270124.jpg",
+    "geo": [
+      48.584717,
+      7.735078
+    ],
+    "mark": "出租车停靠点",
+    "folder": "Strasbourg",
+    "cn": "斯特拉斯堡站"
+  },
+  {
+    "id": "p8bv6sec6",
+    "name": "Place Kléber",
+    "image": "https://image.xinu.ink/pic/data/211/images/p8bv6sec6_1729323729987.jpg",
+    "geo": [
+      48.583149,
+      7.745734
+    ],
+    "mark": "冬马光脚追春希处",
+    "folder": "Strasbourg",
+    "cn": "克勒贝尔广场"
   }
 ]

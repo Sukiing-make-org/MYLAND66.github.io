@@ -77,5 +77,85 @@
     ],
     "origin": "Anitabi@AmaiAya",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pg72vswid",
+    "name": "南阿佐ヶ谷駅",
+    "image": "https://image.xinu.ink/pic/data/250/images/pg72vswid_1729940228036.jpg",
+    "geo": [
+      35.69933,
+      139.635643
+    ],
+    "ep": 1,
+    "s": 19
+  },
+  {
+    "id": "pg75lsyoy",
+    "name": "南阿佐ヶ谷駅",
+    "image": "https://image.xinu.ink/pic/data/250/images/pg75lsyoy_1729940547301.jpg",
+    "geo": [
+      35.699328,
+      139.635614
+    ],
+    "ep": 1,
+    "s": 30
+  },
+  {
+    "id": "pg77onut1",
+    "name": "南阿佐ヶ谷駅",
+    "image": "https://image.xinu.ink/pic/data/250/images/pg77onut1_1729940516335.jpg",
+    "geo": [
+      35.69938,
+      139.635672
+    ],
+    "ep": 1,
+    "s": 31
+  },
+  {
+    "id": "pg753rc84",
+    "name": "南阿佐ヶ谷駅",
+    "image": "https://image.xinu.ink/pic/data/250/images/pg753rc84_1729940368554.jpg",
+    "geo": [
+      35.699306,
+      139.635668
+    ],
+    "ep": 1,
+    "s": 47,
+    "mark": "自动售货机和背后建筑已拆除，原址现为プラウド南阿佐ヶ谷。"
+  },
+  {
+    "id": "pg77dqtii",
+    "name": "南阿佐ヶ谷駅",
+    "image": "https://image.xinu.ink/pic/data/250/images/pg77dqtii_1729940503934.jpg",
+    "geo": [
+      35.699338,
+      139.635712
+    ],
+    "ep": 1,
+    "s": 48,
+    "mark": "天桥在西北方向。"
+  },
+  {
+    "id": "pg7adk4xb",
+    "name": "筑波山神社",
+    "image": "https://image.xinu.ink/pic/data/250/images/pg7adk4xb_1729940680086.jpg",
+    "geo": [
+      36.21354,
+      140.101352
+    ],
+    "ep": 3,
+    "s": 849
+  },
+  {
+    "id": "pg5fg85kh",
+    "name": "倉沢集落（廃村）",
+    "image": "https://image.xinu.ink/pic/data/250/images/pg5fg85kh_1729940085095.jpg",
+    "geo": [
+      35.844505,
+      139.064106
+    ],
+    "ep": 11,
+    "s": 729,
+    "cn": "仓泽集落（废村）"
   }
 ]

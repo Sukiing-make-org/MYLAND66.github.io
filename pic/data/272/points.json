@@ -46,5 +46,38 @@
       22.3307,
       114.1623
     ]
+  },
+  {
+    "id": "3kjsji4",
+    "name": "東灣海灘",
+    "image": "https://image.xinu.ink/pic/data/272/images/3kjsji4-1754783309063.jpg",
+    "geo": [
+      22.207472,
+      114.035257
+    ],
+    "s": "3821",
+    "cn": "东湾海滩"
+  },
+  {
+    "id": "3kkbooa",
+    "name": "民耀街旁行人通道",
+    "image": "https://image.xinu.ink/pic/data/272/images/3kkbooa-1754784202155.jpg",
+    "geo": [
+      22.282997,
+      114.165258
+    ],
+    "s": "4073",
+    "mark": "由于施工原因现已拆除"
+  },
+  {
+    "id": "3kjxdiy",
+    "name": "長洲碼頭步行街",
+    "image": "https://image.xinu.ink/pic/data/272/images/3kjxdiy-1754783783309.jpg",
+    "geo": [
+      22.205546,
+      114.033717
+    ],
+    "s": "3837",
+    "cn": "长洲码头步行街"
   }
 ]

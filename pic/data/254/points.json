@@ -9,5 +9,88 @@
       34.7052,
       135.4901
     ]
+  },
+  {
+    "id": "v6hryf0n7",
+    "name": "大阪駅　環状線内回り",
+    "image": "https://image.xinu.ink/pic/data/254/images/v6hryf0n7_1746106550642.jpg",
+    "geo": [
+      34.701659,
+      135.49535
+    ],
+    "ep": "OVA3"
+  },
+  {
+    "id": "v6jbjx1tu",
+    "name": "阪堺電車",
+    "image": "https://image.xinu.ink/pic/data/254/images/v6jbjx1tu_1746109929072.jpg",
+    "geo": [
+      34.620645,
+      135.500768
+    ],
+    "ep": "OVA3"
+  },
+  {
+    "id": "v6im6u09i",
+    "name": "万代池公園",
+    "image": "https://image.xinu.ink/pic/data/254/images/v6im6u09i_1746108365165.jpg",
+    "geo": [
+      34.619323,
+      135.502491
+    ],
+    "ep": "OVA3"
+  },
+  {
+    "id": "v6iuf50vq",
+    "name": "天王寺駅",
+    "image": "https://image.xinu.ink/pic/data/254/images/v6iuf50vq_1746108865933.jpg",
+    "geo": [
+      34.646929,
+      135.51375
+    ],
+    "ep": "OVA3"
+  },
+  {
+    "id": "v6iw9bx2e",
+    "name": "近鉄前交差点",
+    "image": "https://image.xinu.ink/pic/data/254/images/v6iw9bx2e_1746108970045.jpg",
+    "geo": [
+      34.646649,
+      135.512991
+    ],
+    "ep": "OVA3"
+  },
+  {
+    "id": "v6j0gsjxf",
+    "name": "大阪市​立​自然​史​博物館",
+    "image": "https://image.xinu.ink/pic/data/254/images/v6j0gsjxf_1746109223483.jpg",
+    "geo": [
+      34.610284,
+      135.522378
+    ],
+    "ep": "OVA3"
+  },
+  {
+    "id": "v6j40gxdr",
+    "name": "中百舌鳥駅",
+    "image": "https://image.xinu.ink/pic/data/254/images/v6j40gxdr_1746109506931.jpg",
+    "geo": [
+      34.555999,
+      135.505774
+    ],
+    "ep": "OVA3",
+    "mark": "地下鉄御堂筋線"
+  },
+  {
+    "id": "43o4uzw",
+    "name": "梅田空中展望台",
+    "image": "https://image.xinu.ink/pic/data/254/images/43o4uzw-1755939424784.jpg",
+    "geo": [
+      34.705139,
+      135.490139
+    ],
+    "ep": "名侦探柯南OVA3 柯南、平次与消失的少年",
+    "s": "00:42",
+    "cn": "梅田空中展望台"
   }
 ]

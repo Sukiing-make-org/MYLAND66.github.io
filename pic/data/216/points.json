@@ -11,5 +11,152 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=15w0Vv1JUp8AEjH01_I4tZarrumA&ll=35.717548%2C139.713848&z=17"
+  },
+  {
+    "id": "umk0bko7f",
+    "name": "のぞき坂",
+    "image": "https://image.xinu.ink/pic/data/216/images/kpx6oi0kd-1732173804596.jpg",
+    "geo": [
+      35.717548,
+      139.713848
+    ],
+    "ep": 3,
+    "s": 896,
+    "mark": "偽 #03「かれんビー 其ノ參」"
+  },
+  {
+    "id": "kpx6oi0yq",
+    "name": "代官山 交差点",
+    "image": "https://image.xinu.ink/pic/data/216/images/kpx6oi0yq-1760042843889.jpg",
+    "geo": [
+      35.649716,
+      139.705295
+    ],
+    "ep": 6,
+    "s": 1298,
+    "mark": "偽 #06  历哥在找火怜的途中小忍突然出现"
+  },
+  {
+    "id": "kpx6oi0t2",
+    "name": "渋谷 山手線横の階段",
+    "image": "",
+    "geo": [
+      35.653273,
+      139.705378
+    ],
+    "mark": "偽 #06「かれんビー其の陸」"
+  },
+  {
+    "id": "kpx6oi0lc",
+    "name": "新宿の目",
+    "image": "",
+    "geo": [
+      35.691413,
+      139.697996
+    ],
+    "mark": "偽 #03"
+  },
+  {
+    "id": "kpx6oi02z",
+    "name": "宝野公園 ジグザクスロープ",
+    "image": "",
+    "geo": [
+      35.614131,
+      139.422445
+    ],
+    "mark": "偽 #01"
+  },
+  {
+    "id": "kpx6oi0hp",
+    "name": "東京ミッドタウン 意心帰",
+    "image": "",
+    "geo": [
+      35.665065,
+      139.730491
+    ],
+    "mark": "偽 #01"
+  },
+  {
+    "id": "kpx6ohzx7",
+    "name": "六本木ヒルズ ストリートファニチャー：愛だけを…",
+    "image": "https://image.xinu.ink/pic/data/216/images/kpx6ohzx7-1733662129409.jpg",
+    "geo": [
+      35.659225,
+      139.72926
+    ],
+    "ep": 1,
+    "mark": "偽 #01"
+  },
+  {
+    "id": "kpx6ohzs3",
+    "name": "六本木ヒルズ ストリートファニチャー：アンナの石",
+    "image": "",
+    "geo": [
+      35.659371,
+      139.731913
+    ],
+    "mark": "偽 #01"
+  },
+  {
+    "id": "kpx6ohzhe",
+    "name": "六本木ヒルズ ストリートファニチャー：アーチ",
+    "image": "https://image.xinu.ink/pic/data/216/images/kpx6ohzhe-1733661870461.jpg",
+    "geo": [
+      35.659129,
+      139.729727
+    ],
+    "ep": 1,
+    "mark": "偽 #01「かれんビー 其ノ壱」"
+  },
+  {
+    "id": "5zj0z4y",
+    "name": "代官山 交差路口",
+    "image": "https://image.xinu.ink/pic/data/216/images/5zj0z4y-1760042578449.jpg",
+    "geo": [
+      35.649758,
+      139.705317
+    ],
+    "ep": 6,
+    "s": 1282,
+    "mark": "历哥在找火怜的途中小忍突然出现"
+  },
+  {
+    "id": "5zjm1ty",
+    "name": "みなとのてんらんかい 代官山店",
+    "image": "https://image.xinu.ink/pic/data/216/images/5zjm1ty-1760043631704.jpg",
+    "geo": [
+      35.649832,
+      139.705315
+    ],
+    "ep": 6,
+    "s": 1351,
+    "mark": "小忍可爱捏(原绿底文字已无)"
+  },
+  {
+    "id": "f90wrht",
+    "name": "大阪芸術大学クラブハウス",
+    "image": "https://image.xinu.ink/pic/data/216/images/f90wrht-1780207826818.jpg",
+    "geo": [
+      34.512116,
+      135.631764
+    ]
+  },
+  {
+    "id": "f90rkjr",
+    "name": "大阪芸術大学クラブハウス",
+    "image": "https://image.xinu.ink/pic/data/216/images/f90rkjr-1780207591755.jpg",
+    "geo": [
+      34.512135,
+      135.631659
+    ]
+  },
+  {
+    "id": "f90t07v",
+    "name": "大阪芸術大学クラブハウス",
+    "image": "https://image.xinu.ink/pic/data/216/images/f90t07v-1780207656634.jpg",
+    "geo": [
+      34.512028,
+      135.631842
+    ]
   }
 ]

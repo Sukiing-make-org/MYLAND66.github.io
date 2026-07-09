@@ -860,5 +860,595 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=15Qy6SU7DZZMc9TcObwvJonBsTGU&ll=36.482746%2C136.758234&z=17"
+  },
+  {
+    "id": "kpx6ojnp6",
+    "name": "日本看護協会ビル側",
+    "image": "",
+    "geo": [
+      35.667144,
+      139.708036
+    ],
+    "mark": "ＯＰ（１話ＥＤ）参考",
+    "folder": "東京"
+  },
+  {
+    "id": "kpx6ojnoj",
+    "name": "マルエツ一橋学園店",
+    "image": "",
+    "geo": [
+      35.723445,
+      139.480048
+    ],
+    "mark": "１話",
+    "folder": "東京"
+  },
+  {
+    "id": "kpx6ojna5",
+    "name": "ビジネルホテル一茶別館付近",
+    "image": "",
+    "geo": [
+      35.724599,
+      139.480011
+    ],
+    "mark": "１話",
+    "folder": "東京"
+  },
+  {
+    "id": "kpx6ojoqe",
+    "name": "ビジネルホテル一茶別館付近",
+    "image": "",
+    "geo": [
+      35.724546,
+      139.479976
+    ],
+    "mark": "１話",
+    "folder": "東京"
+  },
+  {
+    "id": "kpx6ojo0k",
+    "name": "ビジネルホテル一茶別館付近",
+    "image": "",
+    "geo": [
+      35.724494,
+      139.479994
+    ],
+    "mark": "１話",
+    "folder": "東京"
+  },
+  {
+    "id": "kpx6ojo18",
+    "name": "ジョナサン小平店",
+    "image": "",
+    "geo": [
+      35.730484,
+      139.477937
+    ],
+    "mark": "11話",
+    "folder": "東京"
+  },
+  {
+    "id": "kpx6ojpie",
+    "name": "タイトーステーション国分寺店",
+    "image": "",
+    "geo": [
+      35.700847,
+      139.481545
+    ],
+    "mark": "12話",
+    "folder": "東京"
+  },
+  {
+    "id": "kpx6ojqpq",
+    "name": "中野駅（７、８番線）",
+    "image": "https://image.xinu.ink/pic/data/214/images/kpx6ojqpq-1741931855679.jpg",
+    "geo": [
+      35.706064,
+      139.665764
+    ],
+    "ep": 12,
+    "s": 632,
+    "mark": "12話",
+    "folder": "東京"
+  },
+  {
+    "id": "kpx6ojqtl",
+    "name": "「歌舞伎町」交差点付近",
+    "image": "",
+    "geo": [
+      35.693352,
+      139.701703
+    ],
+    "mark": "１話",
+    "folder": "東京"
+  },
+  {
+    "id": "kpx6ojri5",
+    "name": "新宿大ガード西",
+    "image": "",
+    "geo": [
+      35.693663,
+      139.697546
+    ],
+    "mark": "12話",
+    "folder": "東京"
+  },
+  {
+    "id": "kpx6ojraj",
+    "name": "高島屋前の橋",
+    "image": "",
+    "geo": [
+      35.686893,
+      139.701218
+    ],
+    "mark": "24話",
+    "folder": "東京"
+  },
+  {
+    "id": "kpx6ojs33",
+    "name": "新宿駅JR高速バスターミナル",
+    "image": "https://image.xinu.ink/pic/data/214/images/kpx6ojs33-1742307852179.jpg",
+    "geo": [
+      35.684396,
+      139.702559
+    ],
+    "ep": 24,
+    "s": 362,
+    "mark": "24話",
+    "folder": "東京"
+  },
+  {
+    "id": "kpx6ojtb9",
+    "name": "ジュンク堂書店池袋本店付近",
+    "image": "https://image.xinu.ink/pic/data/214/images/kpx6ojtb9-1742306395839.jpg",
+    "geo": [
+      35.726966,
+      139.712175
+    ],
+    "ep": 12,
+    "s": 352,
+    "mark": "12話",
+    "folder": "東京"
+  },
+  {
+    "id": "kpx6ojtf6",
+    "name": "六本木ヒルズ付近",
+    "image": "",
+    "geo": [
+      35.661073,
+      139.729416
+    ],
+    "mark": "11話",
+    "folder": "東京"
+  },
+  {
+    "id": "kpx6ojuiq",
+    "name": "東京タワー大展望台（１Ｆ）",
+    "image": "",
+    "geo": [
+      35.65863,
+      139.7453
+    ],
+    "mark": "17話",
+    "folder": "東京"
+  },
+  {
+    "id": "kpx6ojypt",
+    "name": "のと鉄道西岸駅（穴水方面行きホーム）",
+    "image": "https://image.xinu.ink/pic/data/214/images/kpx6ojypt-1741965670315.jpg",
+    "geo": [
+      37.147505,
+      136.873923
+    ],
+    "ep": "op2",
+    "s": 26,
+    "mark": "ＯＰ（14話～）",
+    "folder": "西岸駅"
+  },
+  {
+    "id": "kpx6ojzbv",
+    "name": "のと鉄道能登中島駅付近",
+    "image": "https://image.xinu.ink/pic/data/214/images/kpx6ojzbv-1727163846769.jpg",
+    "geo": [
+      37.108901,
+      136.853052
+    ],
+    "ep": 19,
+    "s": 228,
+    "mark": "19話",
+    "folder": "能登中島駅"
+  },
+  {
+    "id": "kpx6ojzae",
+    "name": "のと鉄道能登中島駅付近",
+    "image": "https://image.xinu.ink/pic/data/214/images/kpx6ojzae-1727163928388.jpg",
+    "geo": [
+      37.108873,
+      136.852857
+    ],
+    "ep": 19,
+    "s": 239,
+    "mark": "19話",
+    "folder": "能登中島駅"
+  },
+  {
+    "id": "kpx6ok0g4",
+    "name": "かなや付近",
+    "image": "",
+    "geo": [
+      36.48669,
+      136.756737
+    ],
+    "mark": "１話、８話",
+    "folder": "湯涌温泉"
+  },
+  {
+    "id": "kpx6ok0n9",
+    "name": "湯涌温泉の上の道",
+    "image": "",
+    "geo": [
+      36.486005,
+      136.756455
+    ],
+    "mark": "１話、２話",
+    "folder": "湯涌温泉"
+  },
+  {
+    "id": "kpx6ok17w",
+    "name": "湯涌温泉案内板付近",
+    "image": "https://image.xinu.ink/pic/data/214/images/kpx6ok17w_1731605830447.jpg",
+    "geo": [
+      36.488627,
+      136.755476
+    ],
+    "ep": 4,
+    "mark": "ＯＰ（１話ＥＤ）、４話、15話",
+    "folder": "湯涌温泉"
+  },
+  {
+    "id": "kpx6ok2e0",
+    "name": "湯涌温泉案内板付近",
+    "image": "https://image.xinu.ink/pic/data/214/images/kpx6ok2e0_1731606145471.jpg",
+    "geo": [
+      36.488273,
+      136.755731
+    ],
+    "mark": "ＥＤ、25話",
+    "folder": "湯涌温泉"
+  },
+  {
+    "id": "kpx6ok272",
+    "name": "東荒屋町付近",
+    "image": "",
+    "geo": [
+      36.511408,
+      136.712808
+    ],
+    "mark": "２話",
+    "folder": "湯涌温泉"
+  },
+  {
+    "id": "kpx6ok2th",
+    "name": "金子豆腐店",
+    "image": "",
+    "geo": [
+      36.50203,
+      136.733184
+    ],
+    "mark": "３話実際に金子豆腐店はありません。",
+    "folder": "湯涌温泉"
+  },
+  {
+    "id": "kpx6ok32g",
+    "name": "湯涌温泉案内板付近",
+    "image": "https://image.xinu.ink/pic/data/214/images/kpx6ok32g-1727164341564.jpg",
+    "geo": [
+      36.488758,
+      136.754755
+    ],
+    "ep": 4,
+    "s": 159,
+    "mark": "４話",
+    "folder": "湯涌温泉"
+  },
+  {
+    "id": "kpx6ok4rp",
+    "name": "湯涌温泉案内板付近",
+    "image": "https://image.xinu.ink/pic/data/214/images/kpx6ok4rp-1727164763622.jpg",
+    "geo": [
+      36.488784,
+      136.755707
+    ],
+    "ep": 4,
+    "s": 190,
+    "mark": "４話、17話、26話",
+    "folder": "湯涌温泉"
+  },
+  {
+    "id": "kpx6ok5bc",
+    "name": "秀峰閣付近",
+    "image": "https://image.xinu.ink/pic/data/214/images/kpx6ok5bc-1727165255105.jpg",
+    "geo": [
+      36.489951,
+      136.756144
+    ],
+    "ep": 4,
+    "s": 203,
+    "mark": "ＯＰ（14話～）",
+    "folder": "湯涌温泉"
+  },
+  {
+    "id": "kpx6ok48n",
+    "name": "湯涌温泉案内板付近",
+    "image": "https://image.xinu.ink/pic/data/214/images/kpx6ok48n-1727165483807.jpg",
+    "geo": [
+      36.489235,
+      136.755785
+    ],
+    "ep": 4,
+    "s": 805,
+    "mark": "４話",
+    "folder": "湯涌温泉"
+  },
+  {
+    "id": "kpx6ok468",
+    "name": "秀峰閣付近",
+    "image": "https://image.xinu.ink/pic/data/214/images/kpx6ok468-1727165134672.jpg",
+    "geo": [
+      36.489382,
+      136.756034
+    ],
+    "ep": 4,
+    "s": 813,
+    "mark": "４話",
+    "folder": "湯涌温泉"
+  },
+  {
+    "id": "kpx6ok3fd",
+    "name": "湯涌温泉案内板付近",
+    "image": "https://image.xinu.ink/pic/data/214/images/kpx6ok3fd-1727165337025.jpg",
+    "geo": [
+      36.489101,
+      136.755651
+    ],
+    "ep": 4,
+    "s": 813,
+    "mark": "４話 ",
+    "folder": "湯涌温泉"
+  },
+  {
+    "id": "kpx6ok4rb",
+    "name": "秀峰閣付近",
+    "image": "",
+    "geo": [
+      36.490304,
+      136.756391
+    ],
+    "mark": "６話、７話",
+    "folder": "湯涌温泉"
+  },
+  {
+    "id": "kpx6ok57e",
+    "name": "白鷺の湯付近",
+    "image": "",
+    "geo": [
+      36.485342,
+      136.757601
+    ],
+    "mark": "７話",
+    "folder": "湯涌温泉"
+  },
+  {
+    "id": "kpx6ok5gn",
+    "name": "白鷺の湯付近",
+    "image": "",
+    "geo": [
+      36.485726,
+      136.757791
+    ],
+    "mark": "８話、26話",
+    "folder": "湯涌温泉"
+  },
+  {
+    "id": "kpx6ok60a",
+    "name": "湯涌温泉案内板付近",
+    "image": "https://image.xinu.ink/pic/data/214/images/kpx6ok60a-1727164903066.jpg",
+    "geo": [
+      36.488767,
+      136.755576
+    ],
+    "ep": 15,
+    "s": 1248,
+    "mark": "15話",
+    "folder": "湯涌温泉"
+  },
+  {
+    "id": "kpx6ok5yt",
+    "name": "玉泉湖",
+    "image": "",
+    "geo": [
+      36.483624,
+      136.757029
+    ],
+    "mark": "25話",
+    "folder": "湯涌温泉"
+  },
+  {
+    "id": "kpx6ok676",
+    "name": "金沢湯涌夢二館付近",
+    "image": "",
+    "geo": [
+      36.485813,
+      136.757389
+    ],
+    "mark": "25話",
+    "folder": "湯涌温泉"
+  },
+  {
+    "id": "kpx6ok6gj",
+    "name": "玉泉湖までの道",
+    "image": "",
+    "geo": [
+      36.484676,
+      136.757491
+    ],
+    "mark": "26話",
+    "folder": "湯涌温泉"
+  },
+  {
+    "id": "67n5huu",
+    "name": "青島海水浴場",
+    "image": "https://image.xinu.ink/pic/data/214/images/67n5huu_1760533202113.jpg",
+    "geo": [
+      31.807513,
+      131.461509
+    ],
+    "ep": 14,
+    "s": 106,
+    "folder": "修学旅行編"
+  },
+  {
+    "id": "67n5v4j",
+    "name": "青島海水浴場",
+    "image": "https://image.xinu.ink/pic/data/214/images/67n5v4j_1760533216088.jpg",
+    "geo": [
+      31.806693,
+      131.46114
+    ],
+    "ep": 14,
+    "s": 483,
+    "folder": "修学旅行編"
+  },
+  {
+    "id": "67n68bi",
+    "name": "青島パームビーチホテル",
+    "image": "https://image.xinu.ink/pic/data/214/images/67n68bi_1760533234763.jpg",
+    "geo": [
+      31.806501,
+      131.461783
+    ],
+    "ep": 14,
+    "s": 532,
+    "folder": "修学旅行編"
+  },
+  {
+    "id": "67n8rzm",
+    "name": "青島参道商店街",
+    "image": "https://image.xinu.ink/pic/data/214/images/67n8rzm_1760533351914.jpg",
+    "geo": [
+      31.802291,
+      131.468714
+    ],
+    "ep": 14,
+    "s": 548,
+    "folder": "修学旅行編"
+  },
+  {
+    "id": "67nd2ue",
+    "name": "弥生橋",
+    "image": "https://image.xinu.ink/pic/data/214/images/67nd2ue_1760533551949.jpg",
+    "geo": [
+      31.803405,
+      131.471734
+    ],
+    "ep": 14,
+    "s": 1045,
+    "folder": "修学旅行編"
+  },
+  {
+    "id": "67nd6c8",
+    "name": "弥生橋",
+    "image": "https://image.xinu.ink/pic/data/214/images/67nd6c8_1760533556590.jpg",
+    "geo": [
+      31.803456,
+      131.472036
+    ],
+    "ep": 14,
+    "s": 1057,
+    "folder": "修学旅行編"
+  },
+  {
+    "id": "67nc97d",
+    "name": "弥生橋",
+    "image": "https://image.xinu.ink/pic/data/214/images/67nc97d_1760533514349.jpg",
+    "geo": [
+      31.802857,
+      131.470746
+    ],
+    "ep": 14,
+    "s": 1005,
+    "folder": "修学旅行編"
+  },
+  {
+    "id": "67ncdiq",
+    "name": "弥生橋",
+    "image": "https://image.xinu.ink/pic/data/214/images/67ncdiq_1760533521689.jpg",
+    "geo": [
+      31.803011,
+      131.470989
+    ],
+    "ep": 14,
+    "s": 1008,
+    "folder": "修学旅行編"
+  },
+  {
+    "id": "67ncnjk",
+    "name": "弥生橋附近",
+    "image": "https://image.xinu.ink/pic/data/214/images/67ncnjk_1760533533520.jpg",
+    "geo": [
+      31.803131,
+      131.46958
+    ],
+    "ep": 14,
+    "s": 987,
+    "folder": "修学旅行編"
+  },
+  {
+    "id": "67n909x",
+    "name": "青島海水浴場",
+    "image": "https://image.xinu.ink/pic/data/214/images/67n909x_1760533361834.jpg",
+    "geo": [
+      31.80855,
+      131.460327
+    ],
+    "ep": 15,
+    "s": 395,
+    "folder": "修学旅行編"
+  },
+  {
+    "id": "g91ju6cxw",
+    "name": "しいのき迎賓館",
+    "image": "https://image.xinu.ink/pic/data/214/images/g91ju6cxw-1703989680365.jpg",
+    "geo": [
+      36.562197,
+      136.658726
+    ],
+    "ep": 8,
+    "mark": "８話",
+    "folder": "金沢市内"
+  },
+  {
+    "id": "g91ju6deo",
+    "name": "しいのき迎賓館",
+    "image": "https://image.xinu.ink/pic/data/214/images/g91ju6deo-1703989737022.jpg",
+    "geo": [
+      36.561997,
+      136.657822
+    ],
+    "ep": 8,
+    "mark": "８話",
+    "folder": "金沢市内"
+  },
+  {
+    "id": "kpx6okcuf",
+    "name": "堅町商店街",
+    "image": "https://image.xinu.ink/pic/data/214/images/kpx6okcuf_1731602855838.jpg",
+    "geo": [
+      36.560082,
+      136.653936
+    ],
+    "ep": 18,
+    "mark": "18話",
+    "folder": "金沢市内"
   }
 ]

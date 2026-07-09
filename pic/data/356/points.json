@@ -339,5 +339,327 @@
       35.3082,
       139.4921
     ]
+  },
+  {
+    "id": "391f1pth",
+    "name": "神奈川県立七里ガ浜高等学校",
+    "image": "https://image.xinu.ink/pic/data/356/images/391f1pth_1743426746134.jpg",
+    "geo": [
+      35.305433,
+      139.513171
+    ],
+    "mark": "片濑高中的原型"
+  },
+  {
+    "id": "391f1pn1",
+    "name": "神奈川県立鎌倉高等学校",
+    "image": "https://image.xinu.ink/pic/data/356/images/391f1pn1_1743426755662.jpg",
+    "geo": [
+      35.308419,
+      139.503901
+    ],
+    "mark": "辻堂学院的原型"
+  },
+  {
+    "id": "4ybzhm8kv",
+    "name": "稚儿渊",
+    "image": "https://image.xinu.ink/pic/data/356/images/4ybzhm8kv.jpg",
+    "geo": [
+      35.29885,
+      139.474265
+    ],
+    "ep": 2,
+    "s": 576
+  },
+  {
+    "id": "4ybowpvax",
+    "name": "江ノ島への橋、東にある砂浜にて",
+    "image": "https://image.xinu.ink/pic/data/356/images/4ybowpvax.jpg",
+    "geo": [
+      35.305795,
+      139.483587
+    ],
+    "ep": 2,
+    "s": 743
+  },
+  {
+    "id": "4yboqijnt",
+    "name": "江ノ島への橋、東にある砂浜にて",
+    "image": "https://image.xinu.ink/pic/data/356/images/4yboqijnt.jpg",
+    "geo": [
+      35.304663,
+      139.482711
+    ],
+    "ep": 2,
+    "s": 745
+  },
+  {
+    "id": "4ybv3e1fa",
+    "name": "江の島​サムエル・​コッキング​苑",
+    "image": "https://image.xinu.ink/pic/data/356/images/4ybv3e1fa.jpg",
+    "geo": [
+      35.299623,
+      139.478605
+    ],
+    "ep": 6,
+    "s": 897
+  },
+  {
+    "id": "4ybq3ix64",
+    "name": "片瀬橋",
+    "image": "https://image.xinu.ink/pic/data/356/images/4ybq3ix64.jpg",
+    "geo": [
+      35.307627,
+      139.483817
+    ],
+    "ep": 6,
+    "s": 1010,
+    "cn": "片濑桥"
+  },
+  {
+    "id": "4ybq8u2xr",
+    "name": "片瀬橋",
+    "image": "https://image.xinu.ink/pic/data/356/images/4ybq8u2xr.jpg",
+    "geo": [
+      35.307565,
+      139.483941
+    ],
+    "ep": 6,
+    "s": 1016,
+    "cn": "片濑桥"
+  },
+  {
+    "id": "4ybqegbus",
+    "name": "片瀬橋",
+    "image": "https://image.xinu.ink/pic/data/356/images/4ybqegbus.jpg",
+    "geo": [
+      35.307781,
+      139.48312
+    ],
+    "ep": 6,
+    "s": 1100,
+    "cn": "片濑桥"
+  },
+  {
+    "id": "4ybl2fk39",
+    "name": "上諏訪神社",
+    "image": "https://image.xinu.ink/pic/data/356/images/4ybl2fk39.jpg",
+    "geo": [
+      35.317649,
+      139.488879
+    ],
+    "ep": 7,
+    "s": 54,
+    "cn": "上诹访神社"
+  },
+  {
+    "id": "4ybk2qbcr",
+    "name": "上諏訪神社",
+    "image": "https://image.xinu.ink/pic/data/356/images/4ybk2qbcr.jpg",
+    "geo": [
+      35.317629,
+      139.488912
+    ],
+    "ep": 7,
+    "s": 55,
+    "cn": "上诹访神社"
+  },
+  {
+    "id": "4ybl9l4v1",
+    "name": "上諏訪神社",
+    "image": "https://image.xinu.ink/pic/data/356/images/4ybl9l4v1.jpg",
+    "geo": [
+      35.317658,
+      139.48888
+    ],
+    "ep": 7,
+    "s": 76,
+    "cn": "上诹访神社"
+  },
+  {
+    "id": "u84p1yzkp",
+    "name": "鎌倉高校前駅",
+    "image": "https://image.xinu.ink/pic/data/356/images/u84p1yzkp_1743413710237.jpg",
+    "geo": [
+      35.306718,
+      139.500564
+    ],
+    "ep": 7,
+    "s": 387
+  },
+  {
+    "id": "u852uzk5p",
+    "name": "鎌倉高校前駅入口",
+    "image": "https://image.xinu.ink/pic/data/356/images/u852uzk5p_1743414526779.jpg",
+    "geo": [
+      35.306705,
+      139.500923
+    ],
+    "ep": 7,
+    "s": 515
+  },
+  {
+    "id": "391f1qkh",
+    "name": "山手卓球場",
+    "image": "https://image.xinu.ink/pic/data/356/images/391f1qkh_1743414727501.jpg",
+    "geo": [
+      35.714261,
+      139.702771
+    ],
+    "ep": 7,
+    "s": 542,
+    "mark": "内部场景"
+  },
+  {
+    "id": "391f1pb8",
+    "name": "ビックカメラ池袋本店パソコン館",
+    "image": "https://image.xinu.ink/pic/data/356/images/391f1pb8_1743427088631.jpg",
+    "geo": [
+      35.731542,
+      139.713588
+    ],
+    "ep": 7,
+    "s": 562,
+    "mark": "中图"
+  },
+  {
+    "id": "391f1qm3",
+    "name": "池袋駅東口",
+    "image": "https://image.xinu.ink/pic/data/356/images/391f1qm3_1743427125334.jpg",
+    "geo": [
+      35.731375,
+      139.712818
+    ],
+    "ep": 7,
+    "s": 562,
+    "mark": "右图"
+  },
+  {
+    "id": "4yc33i259",
+    "name": "十条駅前",
+    "image": "https://image.xinu.ink/pic/data/356/images/4yc33i259.jpg",
+    "geo": [
+      35.760629,
+      139.72141
+    ],
+    "ep": 7,
+    "s": 567
+  },
+  {
+    "id": "4yc3t6u9p",
+    "name": "国立スポーツ科学センターフットサルコート",
+    "image": "https://image.xinu.ink/pic/data/356/images/4yc3t6u9p.jpg",
+    "geo": [
+      35.76776,
+      139.708981
+    ],
+    "ep": 7,
+    "s": 582
+  },
+  {
+    "id": "4yc3x6t8q",
+    "name": "国立スポーツ科学センターフットサルコート",
+    "image": "https://image.xinu.ink/pic/data/356/images/4yc3x6t8q.jpg",
+    "geo": [
+      35.76767,
+      139.709199
+    ],
+    "ep": 7,
+    "s": 586
+  },
+  {
+    "id": "391f1phs",
+    "name": "つるや食堂藤沢店",
+    "image": "https://image.xinu.ink/pic/data/356/images/391f1phs_1743415257110.jpg",
+    "geo": [
+      35.33619,
+      139.489272
+    ],
+    "ep": 7,
+    "s": 603
+  },
+  {
+    "id": "391f1pia",
+    "name": "湘南江の島駅",
+    "image": "https://image.xinu.ink/pic/data/356/images/391f1pia.jpg",
+    "geo": [
+      35.311798,
+      139.487743
+    ],
+    "ep": 7,
+    "s": 626
+  },
+  {
+    "id": "391f1q4f",
+    "name": "大さん橋",
+    "image": "https://image.xinu.ink/pic/data/356/images/391f1q4f_1743426655689.jpg",
+    "geo": [
+      35.451791,
+      139.647732
+    ],
+    "ep": 7,
+    "s": 1272,
+    "cn": "横滨大栈桥"
+  },
+  {
+    "id": "u9b43s828",
+    "name": "下諏訪神社",
+    "image": "https://image.xinu.ink/pic/data/356/images/u9b43s828_1743506088679.jpg",
+    "geo": [
+      35.317299,
+      139.48651
+    ],
+    "ep": 8,
+    "s": 1272,
+    "mark": "ヒーロー見参"
+  },
+  {
+    "id": "391f1pfv",
+    "name": "7話　車",
+    "image": "",
+    "geo": [
+      35.309299,
+      139.545443
+    ]
+  },
+  {
+    "id": "u8aqxco9z",
+    "name": "鎌倉高校駅前",
+    "image": "https://image.xinu.ink/pic/data/356/images/u8aqxco9z_1743426857806.jpg",
+    "geo": [
+      35.306561,
+      139.502093
+    ]
+  },
+  {
+    "id": "4ybp2wtil",
+    "name": "江ノ島への橋、東にある砂浜にて",
+    "image": "https://image.xinu.ink/pic/data/356/images/4ybp2wtil.jpg",
+    "geo": [
+      35.306068,
+      139.483984
+    ],
+    "ep": 11,
+    "s": 1131
+  },
+  {
+    "id": "4ybp7eoie",
+    "name": "江ノ島への橋、東にある砂浜にて",
+    "image": "https://image.xinu.ink/pic/data/356/images/4ybp7eoie.jpg",
+    "geo": [
+      35.306323,
+      139.484192
+    ],
+    "ep": 69,
+    "s": 72
+  },
+  {
+    "id": "391f1pwx",
+    "name": "江の島",
+    "image": "",
+    "geo": [
+      35.302167,
+      139.479933
+    ]
   }
 ]

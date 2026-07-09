@@ -472,5 +472,195 @@
     ],
     "origin": "Anitabi@うに",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kpx6opkrw",
+    "name": "階段",
+    "image": "",
+    "geo": [
+      35.709011,
+      139.756589
+    ],
+    "mark": "1話"
+  },
+  {
+    "id": "kpx6opldn",
+    "name": "芳林公園",
+    "image": "",
+    "geo": [
+      35.701943,
+      139.769933
+    ],
+    "mark": "改装工事でアニメ放送前に消滅です。"
+  },
+  {
+    "id": "kpx6opluc",
+    "name": "ソフマップ",
+    "image": "",
+    "geo": [
+      35.70024,
+      139.771194
+    ],
+    "mark": "9話"
+  },
+  {
+    "id": "kpx6opn6b",
+    "name": "路地",
+    "image": "",
+    "geo": [
+      35.701102,
+      139.769515
+    ],
+    "mark": "9話"
+  },
+  {
+    "id": "kpx6opmmo",
+    "name": "ことりベンチ",
+    "image": "",
+    "geo": [
+      35.544287,
+      139.768876
+    ],
+    "mark": "3F、出発ロビー13話"
+  },
+  {
+    "id": "kpx6opmsi",
+    "name": "展望デッキ",
+    "image": "",
+    "geo": [
+      35.552695,
+      139.788012
+    ],
+    "mark": "13話"
+  },
+  {
+    "id": "kpx6opnwf",
+    "name": "キュアメイドカフェ",
+    "image": "",
+    "geo": [
+      35.70188,
+      139.771229
+    ],
+    "mark": "9話"
+  },
+  {
+    "id": "kpx6opo9a",
+    "name": "お茶の水サンクレール",
+    "image": "https://image.xinu.ink/pic/data/279/images/kpx6opo9a_1746372795658.jpg",
+    "geo": [
+      35.698893,
+      139.76488
+    ],
+    "mark": "2期8話"
+  },
+  {
+    "id": "kpx6opor3",
+    "name": "損保会館前",
+    "image": "",
+    "geo": [
+      35.698009,
+      139.768463
+    ],
+    "mark": "2期8話"
+  },
+  {
+    "id": "knim9ckw2",
+    "name": "国府津海岸",
+    "image": "https://image.xinu.ink/pic/data/279/images/knim9ckw2-1716408349569.jpg",
+    "geo": [
+      35.279846,
+      139.214345
+    ],
+    "ep": "S2.11",
+    "s": 1025,
+    "cn": "国府津海岸"
+  },
+  {
+    "id": "knod3w61f",
+    "name": "神田明神　雨止め",
+    "image": "https://image.xinu.ink/pic/data/279/images/knod3w61f-1716420864070.jpg",
+    "geo": [
+      35.701523,
+      139.767505
+    ],
+    "ep": "S2.1",
+    "s": 1265
+  },
+  {
+    "id": "knoc7ol63",
+    "name": "神田明神",
+    "image": "https://image.xinu.ink/pic/data/279/images/knoc7ol63-1716420800871.jpg",
+    "geo": [
+      35.701459,
+      139.767457
+    ],
+    "ep": "S2.1",
+    "s": 1115
+  },
+  {
+    "id": "knlbeyb59",
+    "name": "神田明神",
+    "image": "https://image.xinu.ink/pic/data/279/images/knlbeyb59-1716416442757.jpg",
+    "geo": [
+      35.701886,
+      139.767809
+    ],
+    "ep": 3,
+    "s": 659
+  },
+  {
+    "id": "knlvq6egt",
+    "name": "男坂の上",
+    "image": "https://image.xinu.ink/pic/data/279/images/knlvq6egt-1716415457681.jpg",
+    "geo": [
+      35.701491,
+      139.767908
+    ],
+    "ep": 2,
+    "s": 741,
+    "cn": "男坂上"
+  },
+  {
+    "id": "knlbeyanx",
+    "name": "男坂",
+    "image": "https://image.xinu.ink/pic/data/279/images/knlbeyanx-1716415361634.jpg",
+    "geo": [
+      35.701451,
+      139.768109
+    ],
+    "ep": 2,
+    "s": 715
+  },
+  {
+    "id": "knlsfktrv",
+    "name": "秋葉原UDX",
+    "image": "https://image.xinu.ink/pic/data/279/images/knlsfktrv-1716415249069.jpg",
+    "geo": [
+      35.698753,
+      139.772556
+    ],
+    "ep": 1,
+    "s": 676
+  },
+  {
+    "id": "knlr8hpjs",
+    "name": "秋葉原UDX",
+    "image": "https://image.xinu.ink/pic/data/279/images/knlr8hpjs-1716415176879.jpg",
+    "geo": [
+      35.699598,
+      139.772493
+    ],
+    "ep": 1,
+    "s": 708
+  },
+  {
+    "id": "d57lrnk",
+    "name": "昌平橋東橋詰広場",
+    "image": "https://image.xinu.ink/pic/data/279/images/d57lrnk-1775623656876.jpg",
+    "geo": [
+      35.69842,
+      139.769187
+    ],
+    "ep": "错觉CROSSROADS 单曲封面"
   }
 ]

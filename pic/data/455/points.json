@@ -1147,5 +1147,246 @@
       35.6662,
       139.714
     ]
+  },
+  {
+    "id": "3ik9kjdw",
+    "name": "新宿駅南口",
+    "image": "https://image.xinu.ink/pic/data/455/images/3ik9kjdw.jpg",
+    "geo": [
+      35.688986,
+      139.699867
+    ],
+    "s": 1241,
+    "folder": "新宿",
+    "origin": "@nekoumi",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+  },
+  {
+    "id": "3ik9kixw",
+    "name": "YUNIKA VISION",
+    "image": "https://image.xinu.ink/pic/data/455/images/3ik9kixw.jpg",
+    "geo": [
+      35.694133,
+      139.700165
+    ],
+    "s": 1921,
+    "folder": "新宿",
+    "origin": "@nekoumi",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+  },
+  {
+    "id": "3ik9kjia",
+    "name": "瀧の自宅付近",
+    "image": "https://image.xinu.ink/pic/data/455/images/3ik9kjia.jpg",
+    "geo": [
+      35.681781,
+      139.725714
+    ],
+    "s": 2280,
+    "folder": "新宿",
+    "origin": "@nekoumi",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+  },
+  {
+    "id": "3ik9kjfn",
+    "name": "四ツ谷駅赤坂口広場前",
+    "image": "https://image.xinu.ink/pic/data/455/images/3ik9kjfn.jpg",
+    "geo": [
+      35.685383,
+      139.729576
+    ],
+    "s": 2299,
+    "folder": "千代田",
+    "origin": "@nekoumi",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+  },
+  {
+    "id": "3ik9kj8m",
+    "name": "信濃町歩道橋",
+    "image": "https://image.xinu.ink/pic/data/455/images/3ik9kj8m.jpg",
+    "geo": [
+      35.679564,
+      139.719834
+    ],
+    "s": 2443,
+    "folder": "新宿",
+    "origin": "@nekoumi",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+  },
+  {
+    "id": "3ik9kj3m",
+    "name": "信濃町歩道橋",
+    "image": "https://image.xinu.ink/pic/data/455/images/3ik9kj3m-1697208876734.jpg",
+    "geo": [
+      35.6795,
+      139.719534
+    ],
+    "s": 2506,
+    "folder": "新宿",
+    "origin": "@nekoumi",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+  },
+  {
+    "id": "3ik9kji7",
+    "name": "東京駅",
+    "image": "https://image.xinu.ink/pic/data/455/images/3ik9kji7.jpg",
+    "geo": [
+      35.681196,
+      139.766881
+    ],
+    "s": 4415,
+    "folder": "千代田",
+    "origin": "@nekoumi",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+  },
+  {
+    "id": "3ik9kiwa",
+    "name": "四ツ谷駅赤坂口",
+    "image": "https://image.xinu.ink/pic/data/455/images/3ik9kiwa.jpg",
+    "geo": [
+      35.685447,
+      139.730089
+    ],
+    "s": 5651,
+    "folder": "千代田",
+    "origin": "@nekoumi",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+  },
+  {
+    "id": "3ik9kj6n",
+    "name": "YUNIKA VISION",
+    "image": "https://image.xinu.ink/pic/data/455/images/3ik9kj6n.jpg",
+    "geo": [
+      35.693873,
+      139.700504
+    ],
+    "s": 5726,
+    "folder": "新宿",
+    "origin": "@nekoumi",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+  },
+  {
+    "id": "3ik9kjdy",
+    "name": "須賀神社入口",
+    "image": "https://image.xinu.ink/pic/data/455/images/3ik9kjdy.jpg",
+    "geo": [
+      35.6855,
+      139.723656
+    ],
+    "s": 5994,
+    "folder": "新宿",
+    "origin": "@nekoumi",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+  },
+  {
+    "id": "35vbiyz",
+    "name": "Ladurée新宿店前",
+    "image": "https://image.xinu.ink/pic/data/455/images/35vbiyz-1753895645377.jpg",
+    "geo": [
+      35.689329,
+      139.700923
+    ],
+    "s": 1231,
+    "folder": "新宿",
+    "origin": "ckrito",
+    "originURL": "https://www.google.com/maps/d/u/0/edit?mid=1_lGB-sWlsYob0oTfYjg0R81vBa4FNj8&usp=sharing"
+  },
+  {
+    "id": "35buf06",
+    "name": "四ツ谷駅赤坂口",
+    "image": "https://image.xinu.ink/pic/data/455/images/35buf06-1753862949197.jpg",
+    "geo": [
+      35.685382,
+      139.730033
+    ],
+    "s": 2302,
+    "folder": "千代田",
+    "origin": "ckrito",
+    "originURL": "https://www.google.com/maps/d/edit?mid=1_lGB-sWlsYob0oTfYjg0R81vBa4FNj8&usp=sharing"
+  },
+  {
+    "id": "35bvmen",
+    "name": "四ツ谷駅赤坂口",
+    "image": "https://image.xinu.ink/pic/data/455/images/35bvmen-1753863003470.jpg",
+    "geo": [
+      35.685438,
+      139.73005
+    ],
+    "s": 2313,
+    "folder": "千代田",
+    "origin": "ckrito",
+    "originURL": "https://www.google.com/maps/d/edit?mid=1_lGB-sWlsYob0oTfYjg0R81vBa4FNj8&usp=sharing"
+  },
+  {
+    "id": "35bsnel",
+    "name": "四ツ谷駅赤坂口",
+    "image": "https://image.xinu.ink/pic/data/455/images/35bsnel-1753862892737.jpg",
+    "geo": [
+      35.685342,
+      139.730021
+    ],
+    "s": 2321,
+    "folder": "千代田",
+    "origin": "ckrito",
+    "originURL": "https://www.google.com/maps/d/edit?mid=1_lGB-sWlsYob0oTfYjg0R81vBa4FNj8&usp=sharing"
+  },
+  {
+    "id": "35bnvjb",
+    "name": "首都高速4号新宿線高架下",
+    "image": "https://image.xinu.ink/pic/data/455/images/35bnvjb-1753862640750.jpg",
+    "geo": [
+      35.679133,
+      139.732862
+    ],
+    "s": 5702,
+    "folder": "千代田",
+    "origin": "ckrito",
+    "originURL": "https://www.google.com/maps/d/edit?mid=1_lGB-sWlsYob0oTfYjg0R81vBa4FNj8&usp=sharing"
+  },
+  {
+    "id": "35v80c1",
+    "name": "新都心歩道橋",
+    "image": "https://image.xinu.ink/pic/data/455/images/35v80c1-1753895476079.jpg",
+    "geo": [
+      35.693339,
+      139.697328
+    ],
+    "s": 5850,
+    "folder": "新宿",
+    "origin": "ckrito",
+    "originURL": "https://www.google.com/maps/d/u/0/edit?mid=1_lGB-sWlsYob0oTfYjg0R81vBa4FNj8&usp=sharing"
+  },
+  {
+    "id": "3ik9kjn3",
+    "name": "須賀神社男坂",
+    "image": "https://image.xinu.ink/pic/data/455/images/3ik9kjn3.jpg",
+    "geo": [
+      35.685082,
+      139.723359
+    ],
+    "s": 6013,
+    "folder": "新宿",
+    "origin": "@nekoumi",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+  },
+  {
+    "id": "7b79p9z",
+    "name": "LABI新宿東口館前",
+    "image": "https://image.xinu.ink/pic/data/455/images/7b79p9z-1762925170420.jpg",
+    "geo": [
+      35.693729,
+      139.700948
+    ],
+    "folder": "新宿"
+  },
+  {
+    "id": "7b7hryy",
+    "name": "須賀神社男坂上",
+    "image": "https://image.xinu.ink/pic/data/455/images/7b7hryy-1762925546286.jpg",
+    "geo": [
+      35.684975,
+      139.72326
+    ],
+    "folder": "新宿"
   }
 ]

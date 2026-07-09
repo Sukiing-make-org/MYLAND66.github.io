@@ -94,5 +94,25 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1QcWLUTFN_WpB4vOjMoaPr6fh42c&ll=35.337438%2C139.54452&z=17"
+  },
+  {
+    "id": "51i53n1h0",
+    "name": "極楽寺駅",
+    "image": "https://image.xinu.ink/pic/data/494/images/51i53n1h0_1672373597883.jpg",
+    "geo": [
+      35.309634,
+      139.52906
+    ],
+    "ep": 3
+  },
+  {
+    "id": "51i53n292",
+    "name": "稲村ケ崎",
+    "image": "",
+    "geo": [
+      35.303233,
+      139.521279
+    ],
+    "ep": 11
   }
 ]

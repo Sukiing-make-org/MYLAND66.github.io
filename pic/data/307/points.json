@@ -152,5 +152,73 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1AQYQvclH8pyMZ9iPKVn-kknfElA&ll=43.876134%2C143.14426&z=17"
+  },
+  {
+    "id": "50ux6a1c9",
+    "name": "JR蟹田駅",
+    "image": "",
+    "geo": [
+      41.038444,
+      140.642885
+    ],
+    "mark": "ゆりてつ1巻舞台"
+  },
+  {
+    "id": "50ux6a1rt",
+    "name": "JR三厩駅",
+    "image": "",
+    "geo": [
+      41.185388,
+      140.443876
+    ],
+    "mark": "ゆりてつ1巻舞台"
+  },
+  {
+    "id": "50ux6a1gt",
+    "name": "竜飛崎",
+    "image": "",
+    "geo": [
+      41.260864,
+      140.342671
+    ],
+    "mark": "ゆりてつ1巻舞台"
+  },
+  {
+    "id": "50ux6a1hq",
+    "name": "青函トンネル記念館",
+    "image": "",
+    "geo": [
+      41.253847,
+      140.346801
+    ],
+    "mark": "ゆりてつ1巻舞台"
+  },
+  {
+    "id": "50v34tg49",
+    "name": "近江鉄道豊郷駅",
+    "image": "https://image.xinu.ink/pic/data/307/images/50v34tg49_1672316456022.jpg",
+    "geo": [
+      35.197741,
+      136.230698
+    ]
+  },
+  {
+    "id": "50v37miwu",
+    "name": "近江鉄道豊郷駅",
+    "image": "https://image.xinu.ink/pic/data/307/images/50v37miwu_1672316460507.jpg",
+    "geo": [
+      35.197742,
+      136.230007
+    ]
+  },
+  {
+    "id": "50ux6a1db",
+    "name": "鉄道博物館",
+    "image": "",
+    "geo": [
+      35.921065,
+      139.618195
+    ],
+    "mark": "02巻10百合/てっぱく舞台"
   }
 ]

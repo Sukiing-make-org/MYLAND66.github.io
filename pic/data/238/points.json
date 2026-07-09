@@ -108,5 +108,25 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1lsdL2SRDPhsb0DKzaJZQuctXBpE&ll=35.06891%2C135.838496&z=17"
+  },
+  {
+    "id": "b1e374ad",
+    "name": "京都御所",
+    "image": "https://image.xinu.ink/pic/data/238/images/b1e374ad_1718877991149.jpg",
+    "geo": [
+      35.024255,
+      135.760728
+    ],
+    "mark": "８話"
+  },
+  {
+    "id": "a0d59bd0",
+    "name": "紫宸殿",
+    "image": "https://image.xinu.ink/pic/data/238/images/a0d59bd0_1718877358317.jpg",
+    "geo": [
+      35.023934,
+      135.762139
+    ],
+    "mark": "９話完全一致は春の一般公開のみ。事前予約では門が邪魔。"
   }
 ]

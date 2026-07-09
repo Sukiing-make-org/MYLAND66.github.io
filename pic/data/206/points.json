@@ -63,5 +63,27 @@
     ],
     "origin": "Anitabi@Xmなのだ",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pvqubvwi3",
+    "name": "Starbucks Coffee-大宮西口店",
+    "image": "https://image.xinu.ink/pic/data/206/images/pvqubvwi3-1731158725529.jpg",
+    "geo": [
+      35.905713,
+      139.621427
+    ],
+    "ep": 3,
+    "s": 272
+  },
+  {
+    "id": "pvrjy0qkc",
+    "name": "東京ＹＷＣＡフィットネスワオ",
+    "image": "https://image.xinu.ink/pic/data/206/images/pvrjy0qkc-1731160317915.jpg",
+    "geo": [
+      35.697656,
+      139.762708
+    ],
+    "ep": 6,
+    "s": 42
   }
 ]

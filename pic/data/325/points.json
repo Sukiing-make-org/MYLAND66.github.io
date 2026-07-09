@@ -117,5 +117,82 @@
       139.8926
     ],
     "originLink": "https://blog.goo.ne.jp/kai881/e/167faef86ed8ab1a7f79da35e4c5c2b6"
+  },
+  {
+    "id": "kp4r2ibvq",
+    "name": "小川町立小川小学校 下里分校",
+    "image": "",
+    "geo": [
+      36.044238,
+      139.284702
+    ]
+  },
+  {
+    "id": "kp4r2ibul",
+    "name": "京王井の頭線 渋谷駅",
+    "image": "",
+    "geo": [
+      35.657959,
+      139.697868
+    ],
+    "mark": "9話"
+  },
+  {
+    "id": "kp4r2ich3",
+    "name": "羽田空港 第一旅客ターミナル",
+    "image": "",
+    "geo": [
+      35.549407,
+      139.779825
+    ],
+    "mark": "13話"
+  },
+  {
+    "id": "bq8ckuf",
+    "name": "ブロック塀",
+    "image": "https://image.xinu.ink/pic/data/325/images/bq8ckuf-1772541133266.jpg",
+    "geo": [
+      35.963661,
+      139.058613
+    ],
+    "ep": 12,
+    "s": 628,
+    "origin": "inosetsumi"
+  },
+  {
+    "id": "bq8m2w3",
+    "name": "光西寺",
+    "image": "https://image.xinu.ink/pic/data/325/images/bq8m2w3-1772541565663.jpg",
+    "geo": [
+      35.96255,
+      139.057946
+    ],
+    "ep": 4,
+    "s": 969,
+    "origin": "inosetsumi"
+  },
+  {
+    "id": "bq8ngpl",
+    "name": "土留",
+    "image": "https://image.xinu.ink/pic/data/325/images/bq8ngpl-1772541917533.jpg",
+    "geo": [
+      35.962334,
+      139.058591
+    ],
+    "ep": 12,
+    "s": 592,
+    "origin": "inosetsumi"
+  },
+  {
+    "id": "bq8v7x0",
+    "name": "石龍山橋立堂付近 三叉路",
+    "image": "https://image.xinu.ink/pic/data/325/images/bq8v7x0-1772542006047.jpg",
+    "geo": [
+      35.961015,
+      139.0604
+    ],
+    "ep": 4,
+    "s": 954,
+    "origin": "inosetsumi"
   }
 ]

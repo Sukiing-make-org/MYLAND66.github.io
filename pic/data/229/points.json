@@ -11,5 +11,514 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1EjVDmeD_RuMkozNXJA2iIssxJR4&ll=35.674912%2C139.809083&z=17"
+  },
+  {
+    "id": "kpx6omd1v",
+    "name": "ポイント1",
+    "image": "https://image.xinu.ink/pic/data/229/images/kpx6omd1v_1744371243824.jpg",
+    "geo": [
+      35.689735,
+      139.835999
+    ],
+    "mark": "大島駅A5出口---スタート時刻：12:22ゴール時刻：15:30",
+    "cn": "大島六丁目"
+  },
+  {
+    "id": "kpx6omda6",
+    "name": "ポイント2",
+    "image": "https://image.xinu.ink/pic/data/229/images/kpx6omda6_1744371171424.jpg",
+    "geo": [
+      35.695366,
+      139.813751
+    ],
+    "mark": "錦糸町 TERMINA＠13:19",
+    "cn": "錦糸町 TERMINA"
+  },
+  {
+    "id": "kpx6omdtj",
+    "name": "ポイント3",
+    "image": "https://image.xinu.ink/pic/data/229/images/kpx6omdtj_1744371191144.jpg",
+    "geo": [
+      35.685303,
+      139.820297
+    ],
+    "mark": "小名木川クローバー橋＠13:55",
+    "cn": "小名木川クローバー橋"
+  },
+  {
+    "id": "kpx6omdyt",
+    "name": "ポイント4",
+    "image": "https://image.xinu.ink/pic/data/229/images/kpx6omdyt_1744371104063.jpg",
+    "geo": [
+      35.683247,
+      139.847519
+    ],
+    "mark": "荒川ロックゲート＠14:35※日曜のため撮影ポイント封鎖",
+    "cn": "荒川ロックゲート"
+  },
+  {
+    "id": "kpx6omeol",
+    "name": "ポイント5",
+    "image": "",
+    "geo": [
+      35.692829,
+      139.847198
+    ],
+    "mark": "小松川公園スポーツ広場もみじ大橋＠14:56",
+    "cn": "もみじ大橋"
+  },
+  {
+    "id": "kpx6omer3",
+    "name": "ポイント6",
+    "image": "https://image.xinu.ink/pic/data/229/images/kpx6omer3_1744371131688.jpg",
+    "geo": [
+      35.690678,
+      139.837738
+    ],
+    "mark": "サンロード中の橋＠15:15",
+    "cn": "サンロード中の橋"
+  },
+  {
+    "id": "kpx6ome4y",
+    "name": "おかしのまちおか",
+    "image": "",
+    "geo": [
+      35.692776,
+      139.837372
+    ],
+    "mark": "チョコレート"
+  },
+  {
+    "id": "kpx6omfa8",
+    "name": "マクドナルド",
+    "image": "",
+    "geo": [
+      35.690076,
+      139.83517
+    ],
+    "mark": "昼食 for 20分出発＠12:44"
+  },
+  {
+    "id": "kpx6omf3b",
+    "name": "この辺で",
+    "image": "",
+    "geo": [
+      35.696197,
+      139.821448
+    ],
+    "mark": "スカイツリーが見えてテンションあがる"
+  },
+  {
+    "id": "kpx6omeuk",
+    "name": "電車とスカイツリー",
+    "image": "",
+    "geo": [
+      35.695975,
+      139.815118
+    ]
+  },
+  {
+    "id": "kpx6omfu4",
+    "name": "散策路",
+    "image": "",
+    "geo": [
+      35.693629,
+      139.819889
+    ]
+  },
+  {
+    "id": "kpx6omfjl",
+    "name": "散策路",
+    "image": "",
+    "geo": [
+      35.685575,
+      139.832209
+    ]
+  },
+  {
+    "id": "kpx6omfzg",
+    "name": "何かの大会？",
+    "image": "",
+    "geo": [
+      35.691866,
+      139.846768
+    ],
+    "mark": "小学生が野球の試合してた"
+  },
+  {
+    "id": "kpx6omgai",
+    "name": "ポイント5’",
+    "image": "https://image.xinu.ink/pic/data/229/images/kpx6omgai_1744371328353.jpg",
+    "geo": [
+      35.674912,
+      139.809083
+    ],
+    "mark": "木場公園",
+    "cn": "木場公園"
+  },
+  {
+    "id": "9mhb3v2",
+    "name": "水闸上",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mhb3v2-1767960736709.jpg",
+    "geo": [
+      35.683048,
+      139.847556
+    ],
+    "ep": 3,
+    "s": 959
+  },
+  {
+    "id": "9mg6kyp",
+    "name": "公园口",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mg6kyp-1767958835775.jpg",
+    "geo": [
+      35.69289,
+      139.847217
+    ],
+    "ep": 1,
+    "s": 1053,
+    "mark": "无人机视角"
+  },
+  {
+    "id": "9mg3yjl",
+    "name": "公园桥口",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mg3yjl-1767958717922.jpg",
+    "geo": [
+      35.692869,
+      139.847227
+    ],
+    "ep": 1,
+    "s": 1035
+  },
+  {
+    "id": "9mfsl1k",
+    "name": "6丁目",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mfsl1k-1767958181735.jpg",
+    "geo": [
+      35.689708,
+      139.835967
+    ],
+    "ep": 1,
+    "s": 401,
+    "mark": "对着右面的人行道拍"
+  },
+  {
+    "id": "9mfqxux",
+    "name": "6丁目",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mfqxux-1767958104487.jpg",
+    "geo": [
+      35.689782,
+      139.836012
+    ],
+    "ep": 1,
+    "s": 362,
+    "mark": "根据动漫视角，右边的人行道拍摄"
+  },
+  {
+    "id": "9mfnnh6",
+    "name": "6丁目",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mfnnh6-1767957974722.jpg",
+    "geo": [
+      35.689673,
+      139.835969
+    ],
+    "ep": 1,
+    "s": 347,
+    "mark": "根据动漫视角，虽然现实不一样了"
+  },
+  {
+    "id": "9mfhyaq",
+    "name": "水闸",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mfhyaq-1767957695857.jpg",
+    "geo": [
+      35.683151,
+      139.847522
+    ],
+    "ep": 1,
+    "s": 30,
+    "mark": "就在水闸下拍摄"
+  },
+  {
+    "id": "9mfcqn4",
+    "name": "大桥",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mfcqn4-1767957442344.jpg",
+    "geo": [
+      35.676197,
+      139.80875
+    ],
+    "ep": 1,
+    "s": 205,
+    "mark": "根据视角还有上文只能放这里了，虽然现实不一样"
+  },
+  {
+    "id": "9mf7lqo",
+    "name": "大桥下",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mf7lqo-1767957223016.jpg",
+    "geo": [
+      35.676152,
+      139.808324
+    ],
+    "ep": 1,
+    "s": 203,
+    "mark": "根据动漫视角以及游戏取景，能拍摄的视角就只有这里，但现实不一样，额额么么么，应该是改编了"
+  },
+  {
+    "id": "9mmy2ci",
+    "name": "水闸下",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mmy2ci-1767970243246.jpg",
+    "geo": [
+      35.683126,
+      139.847839
+    ],
+    "ep": 11,
+    "s": 880
+  },
+  {
+    "id": "9mm4lkl",
+    "name": "水闸",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mm4lkl-1767968842853.jpg",
+    "geo": [
+      35.683364,
+      139.847368
+    ],
+    "ep": 12,
+    "s": 844,
+    "mark": "女主被绑的位置\n"
+  },
+  {
+    "id": "9mn48b3",
+    "name": "桥上",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mn48b3-1767970482648.jpg",
+    "geo": [
+      35.692214,
+      139.847295
+    ],
+    "ep": 9,
+    "s": 440,
+    "mark": "根据动漫取景放的位置"
+  },
+  {
+    "id": "9mm0swt",
+    "name": "桥",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mm0swt-1767968649936.jpg",
+    "geo": [
+      35.68474,
+      139.821023
+    ],
+    "ep": 12,
+    "s": 676,
+    "mark": "这座桥有亭子的只有这个了，后面的房子不一样了"
+  },
+  {
+    "id": "9mh9qti",
+    "name": "水闸",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mh9qti-1767960659825.jpg",
+    "geo": [
+      35.683348,
+      139.8474
+    ],
+    "ep": 3,
+    "s": 885
+  },
+  {
+    "id": "9mfxbbb",
+    "name": "公园下桥口",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mfxbbb-1767958548683.jpg",
+    "geo": [
+      35.692853,
+      139.847244
+    ],
+    "ep": 1,
+    "s": 1111,
+    "mark": "在现实有下坡的位置只有这里，和另一个大桥的取景来比，并且有人上传了位置，考虑南面的公路满足动漫取景还是放这里了，虽然需要的焦段不对"
+  },
+  {
+    "id": "9mfuiz6",
+    "name": "公园楼梯",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mfuiz6-1767958309701.jpg",
+    "geo": [
+      35.692537,
+      139.847452
+    ],
+    "ep": 1,
+    "s": 1031,
+    "mark": "朝这个楼梯拍摄"
+  },
+  {
+    "id": "9mfrwpr",
+    "name": "6丁目",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mfrwpr-1767958153159.jpg",
+    "geo": [
+      35.689718,
+      139.835961
+    ],
+    "ep": 1,
+    "s": 375
+  },
+  {
+    "id": "9mfe8o8",
+    "name": "大桥下",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mfe8o8-1767957520640.jpg",
+    "geo": [
+      35.676181,
+      139.80867
+    ],
+    "ep": 1,
+    "s": 207,
+    "mark": "根据视角只能在男主视角拍摄，虽然现实不一样，emmmm"
+  },
+  {
+    "id": "9mfq1vm",
+    "name": "6丁目",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mfq1vm-1767958064473.jpg",
+    "geo": [
+      35.689653,
+      139.835971
+    ],
+    "ep": 1,
+    "s": 355,
+    "mark": "向左拍摄"
+  },
+  {
+    "id": "9mfgbt9",
+    "name": "水闸口",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mfgbt9-1767957638222.jpg",
+    "geo": [
+      35.683297,
+      139.847629
+    ],
+    "ep": 1,
+    "s": 91,
+    "mark": "根据视角在左拍摄"
+  },
+  {
+    "id": "9mfiyzc",
+    "name": "水闸",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mfiyzc-1767957734218.jpg",
+    "geo": [
+      35.683004,
+      139.847413
+    ],
+    "ep": 1,
+    "s": 17,
+    "mark": "水闸在右边"
+  },
+  {
+    "id": "9mfalhj",
+    "name": "大桥上",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mfalhj-1767957344647.jpg",
+    "geo": [
+      35.675986,
+      139.808769
+    ],
+    "ep": 1,
+    "s": 146,
+    "mark": "现实没有前面的教学楼，根据游戏取景就放这里了，另外的取景没有大桥的样子，emmm，还是改编现实了"
+  },
+  {
+    "id": "9mfl7el",
+    "name": "人行道前",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mfl7el-1767957841175.jpg",
+    "geo": [
+      35.68972,
+      139.835958
+    ],
+    "ep": 1,
+    "s": 344
+  },
+  {
+    "id": "9mfpa1w",
+    "name": "6丁目",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mfpa1w-1767958027544.jpg",
+    "geo": [
+      35.689728,
+      139.835961
+    ],
+    "ep": 1,
+    "s": 351
+  },
+  {
+    "id": "9mhcrpd",
+    "name": "国土​交通省​荒川​下流​河川​事務所​荒川​ロック​ゲート​管理​棟",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mhcrpd-1767960802491.jpg",
+    "geo": [
+      35.683425,
+      139.847722
+    ],
+    "ep": 3,
+    "s": 963,
+    "mark": "按动漫视角加的"
+  },
+  {
+    "id": "9mhdjb2",
+    "name": "公园口",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mhdjb2-1767960840512.jpg",
+    "geo": [
+      35.69288,
+      139.847202
+    ],
+    "ep": 3,
+    "s": 1036,
+    "mark": "根据动漫取景来的，和第一集取景一样的位置"
+  },
+  {
+    "id": "9mhf29h",
+    "name": "购物街",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mhf29h-1767960928335.jpg",
+    "geo": [
+      35.69053,
+      139.837785
+    ],
+    "ep": 3,
+    "s": 1145,
+    "mark": "根据游戏的取景放的位置，除了地面的颜色相同，房子的取景只能说不一样"
+  },
+  {
+    "id": "9mm3498",
+    "name": "桥",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mm3498-1767968758119.jpg",
+    "geo": [
+      35.68519,
+      139.820297
+    ],
+    "ep": 12,
+    "s": 689,
+    "mark": "亭子的对面视角"
+  },
+  {
+    "id": "9mmn093",
+    "name": "6丁目",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mmn093-1767969685113.jpg",
+    "geo": [
+      35.689962,
+      139.835619
+    ],
+    "ep": 11,
+    "s": 1143,
+    "mark": "根据下面的加油站房子推断，只有这个符合了"
+  },
+  {
+    "id": "9mn17h8",
+    "name": "桥下人行道",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mn17h8-1767970339400.jpg",
+    "geo": [
+      35.691952,
+      139.848589
+    ],
+    "ep": 9,
+    "s": 1314,
+    "mark": "根据动漫的取景来的，但问题是现实不一样的，差别太大了另外的一个大桥取景也只有一座不满足"
+  },
+  {
+    "id": "9mn5h5w",
+    "name": "桥下",
+    "image": "https://image.xinu.ink/pic/data/229/images/9mn5h5w-1767970539585.jpg",
+    "geo": [
+      35.692868,
+      139.84725
+    ],
+    "ep": 4,
+    "s": 1213,
+    "mark": "根据动漫应该前面有公路桥，但现实不满足，所以饮料机也应该没有了，或许是别人和我找的位置不对，有确切的位置各位可以自己更正"
   }
 ]

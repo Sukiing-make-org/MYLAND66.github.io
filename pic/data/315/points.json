@@ -2062,5 +2062,2127 @@
     ],
     "origin": "Anitabi@真手凛",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ppuzthtoh",
+    "name": "京阪石山駅",
+    "image": "https://image.xinu.ink/pic/data/315/images/ppuzthtoh-1730697567450.jpg",
+    "geo": [
+      34.979587,
+      135.900189
+    ],
+    "ep": 4,
+    "s": 899
+  },
+  {
+    "id": "q07nsiukg",
+    "name": "京阪石山駅",
+    "image": "https://image.xinu.ink/pic/data/315/images/q07nsiukg-1731508772096.jpg",
+    "geo": [
+      34.979501,
+      135.899917
+    ],
+    "ep": 10,
+    "s": 487
+  },
+  {
+    "id": "q07orw8iv",
+    "name": "京阪石山駅 长椅",
+    "image": "https://image.xinu.ink/pic/data/315/images/q07orw8iv-1731508832782.jpg",
+    "geo": [
+      34.979509,
+      135.899784
+    ],
+    "ep": 10,
+    "s": 493
+  },
+  {
+    "id": "ppv1ufsah",
+    "name": "京阪石山駅",
+    "image": "https://image.xinu.ink/pic/data/315/images/ppv1ufsah-1730697687452.jpg",
+    "geo": [
+      34.979504,
+      135.899846
+    ],
+    "ep": 4,
+    "s": 955
+  },
+  {
+    "id": "ppuxffhjp",
+    "name": "マクドナルド石山駅前店 二楼",
+    "image": "https://image.xinu.ink/pic/data/315/images/ppuxffhjp-1730697429764.jpg",
+    "geo": [
+      34.979222,
+      135.900399
+    ],
+    "ep": 4,
+    "s": 639,
+    "mark": "在多次装修后，内饰已与动画当年发生了很大变化"
+  },
+  {
+    "id": "q1zxz09dy",
+    "name": "瀬田川大橋",
+    "image": "https://image.xinu.ink/pic/data/315/images/q1zxz09dy-1731648704976.jpg",
+    "geo": [
+      34.978126,
+      135.906875
+    ],
+    "ep": 11,
+    "s": 343,
+    "cn": "濑田川大桥"
+  },
+  {
+    "id": "pom9iwws1",
+    "name": "濑田川大桥",
+    "image": "https://image.xinu.ink/pic/data/315/images/pom9iwws1-1730600194361.jpg",
+    "geo": [
+      34.978138,
+      135.907062
+    ],
+    "ep": 3,
+    "s": 167
+  },
+  {
+    "id": "pnnf0nf2w",
+    "name": "瀬田川大橋",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnnf0nf2w-1730524340827.jpg",
+    "geo": [
+      34.978125,
+      135.906783
+    ],
+    "ep": 1,
+    "s": 828
+  },
+  {
+    "id": "q21grxm5d",
+    "name": "瀬田川大橋下",
+    "image": "https://image.xinu.ink/pic/data/315/images/q21grxm5d-1731652026363.jpg",
+    "geo": [
+      34.978118,
+      135.90792
+    ],
+    "ep": 12,
+    "s": 1163
+  },
+  {
+    "id": "kbt34pfzx",
+    "name": "瀬田川大橋下",
+    "image": "https://image.xinu.ink/pic/data/315/images/kbt34pfzx-1729746836462.jpg",
+    "geo": [
+      34.978131,
+      135.907904
+    ],
+    "ep": 12,
+    "s": 905
+  },
+  {
+    "id": "q21examgo",
+    "name": "瀬田川大橋下",
+    "image": "https://image.xinu.ink/pic/data/315/images/q21examgo-1731651911230.jpg",
+    "geo": [
+      34.978133,
+      135.907918
+    ],
+    "ep": 12,
+    "s": 1057
+  },
+  {
+    "id": "q21dbdoeb",
+    "name": "瀬田川大橋下",
+    "image": "https://image.xinu.ink/pic/data/315/images/q21dbdoeb-1731651817487.jpg",
+    "geo": [
+      34.978107,
+      135.907922
+    ],
+    "ep": 12,
+    "s": 885
+  },
+  {
+    "id": "q20by124t",
+    "name": "JR瀬田川橋下",
+    "image": "https://image.xinu.ink/pic/data/315/images/q20by124t-1731649548417.jpg",
+    "geo": [
+      34.980049,
+      135.907423
+    ],
+    "ep": 11,
+    "s": 1100
+  },
+  {
+    "id": "q20cd90z3",
+    "name": "JR瀬田川橋下",
+    "image": "https://image.xinu.ink/pic/data/315/images/q20cd90z3-1731649573096.jpg",
+    "geo": [
+      34.980059,
+      135.907482
+    ],
+    "ep": 11,
+    "s": 1106
+  },
+  {
+    "id": "q20bh56p6",
+    "name": "JR瀬田川橋下",
+    "image": "https://image.xinu.ink/pic/data/315/images/q20bh56p6-1731649522590.jpg",
+    "geo": [
+      34.980215,
+      135.90744
+    ],
+    "ep": 11,
+    "s": 1082
+  },
+  {
+    "id": "q20b5ytjw",
+    "name": "JR瀬田川橋下",
+    "image": "https://image.xinu.ink/pic/data/315/images/q20b5ytjw-1731649503724.jpg",
+    "geo": [
+      34.98019,
+      135.907436
+    ],
+    "ep": 11,
+    "s": 1060
+  },
+  {
+    "id": "pnpdh9iot",
+    "name": "瀬田川川岸",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnpdh9iot-1730528612022.jpg",
+    "geo": [
+      34.976979,
+      135.908178
+    ],
+    "ep": 2,
+    "s": 728
+  },
+  {
+    "id": "j3pvdt7wx",
+    "name": "瀬田川川岸",
+    "image": "https://image.xinu.ink/pic/data/315/images/j3pvdt7wx_1731818488090.jpg",
+    "geo": [
+      34.976838,
+      135.908241
+    ],
+    "ep": 13,
+    "s": 1304,
+    "mark": "2期13话最后的回忆画面"
+  },
+  {
+    "id": "j0uw44b9z",
+    "name": "瀬田川川岸",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw44b9z-1729747629670.jpg",
+    "geo": [
+      34.97684,
+      135.908176
+    ],
+    "ep": 11,
+    "s": 418,
+    "mark": "第11话橡皮艇停靠的地方"
+  },
+  {
+    "id": "q200eutxo",
+    "name": "瀬田川川岸",
+    "image": "https://image.xinu.ink/pic/data/315/images/q200eutxo-1731648851438.jpg",
+    "geo": [
+      34.976841,
+      135.9082
+    ],
+    "ep": 11,
+    "s": 467
+  },
+  {
+    "id": "q07pg2wql",
+    "name": "瀬田川西侧 建筑",
+    "image": "https://image.xinu.ink/pic/data/315/images/q07pg2wql-1731508873731.jpg",
+    "geo": [
+      34.976751,
+      135.908184
+    ],
+    "ep": 10,
+    "s": 495
+  },
+  {
+    "id": "q22p0kml1",
+    "name": "唐橋公園 步行道",
+    "image": "https://image.xinu.ink/pic/data/315/images/q22p0kml1-1731654695258.jpg",
+    "geo": [
+      34.976874,
+      135.908237
+    ],
+    "ep": 13,
+    "s": 1312,
+    "mark": "由背后的建筑位置推理出二人的位置应该在唐桥公园步行道上，靠近广场一侧"
+  },
+  {
+    "id": "pnp7izjmt",
+    "name": "唐橋公園 步行道",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnp7izjmt-1730528247145.jpg",
+    "geo": [
+      34.977578,
+      135.90816
+    ],
+    "ep": 2,
+    "s": 461
+  },
+  {
+    "id": "q07q258gk",
+    "name": "唐橋公園　広場",
+    "image": "https://image.xinu.ink/pic/data/315/images/q07q258gk-1731508910813.jpg",
+    "geo": [
+      34.976751,
+      135.908228
+    ],
+    "ep": 10,
+    "s": 499
+  },
+  {
+    "id": "pnnlxuf0x",
+    "name": "唐桥公园的长椅",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnnlxuf0x-1730524780547.jpg",
+    "geo": [
+      34.977562,
+      135.908293
+    ],
+    "ep": 1,
+    "s": 1090,
+    "cn": "唐桥公园的长椅"
+  },
+  {
+    "id": "q07zkx800",
+    "name": "水門",
+    "image": "https://image.xinu.ink/pic/data/315/images/q07zkx800-1731509488582.jpg",
+    "geo": [
+      34.995525,
+      135.909665
+    ],
+    "ep": 10,
+    "s": 884
+  },
+  {
+    "id": "j0tlhleba",
+    "name": "容輝湯",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0tlhleba-1729831255829.jpg",
+    "geo": [
+      34.974894,
+      135.900125
+    ],
+    "ep": 12,
+    "s": 435,
+    "mark": "12話澡堂的原型地点，容輝湯http://www.shigalife.or.jp/cgi-bin/index.cgi?1333"
+  },
+  {
+    "id": "q216gouy0",
+    "name": "容輝湯",
+    "image": "https://image.xinu.ink/pic/data/315/images/q216gouy0-1731651393504.jpg",
+    "geo": [
+      34.974917,
+      135.900144
+    ],
+    "ep": 12,
+    "s": 676
+  },
+  {
+    "id": "pwvr7uqp5",
+    "name": "檜山神社",
+    "image": "https://image.xinu.ink/pic/data/315/images/pwvr7uqp5-1731247777946.jpg",
+    "geo": [
+      34.974848,
+      135.913537
+    ],
+    "ep": 8,
+    "s": 854
+  },
+  {
+    "id": "q088wzw15",
+    "name": "檜山神社",
+    "image": "https://image.xinu.ink/pic/data/315/images/q088wzw15-1731510052202.jpg",
+    "geo": [
+      34.974841,
+      135.913537
+    ],
+    "ep": 10,
+    "s": 1277
+  },
+  {
+    "id": "q085kircd",
+    "name": "檜山神社",
+    "image": "https://image.xinu.ink/pic/data/315/images/q085kircd-1731509852618.jpg",
+    "geo": [
+      34.974881,
+      135.913535
+    ],
+    "ep": 10,
+    "s": 1068
+  },
+  {
+    "id": "q08665t42",
+    "name": "檜山神社",
+    "image": "https://image.xinu.ink/pic/data/315/images/q08665t42-1731509886766.jpg",
+    "geo": [
+      34.974881,
+      135.913544
+    ],
+    "ep": 10,
+    "s": 1125
+  },
+  {
+    "id": "izr13m6pk",
+    "name": "檜山神社",
+    "image": "https://image.xinu.ink/pic/data/315/images/izr13m6pk-1729830797872.jpg",
+    "geo": [
+      34.974903,
+      135.913534
+    ],
+    "ep": 10,
+    "s": 1048,
+    "mark": "实际上，檜山神社的大小不足以供两个人避雨（不过一个人也不够），第10话勇太和七宫躲雨的场景，第11话开头继续的场景"
+  },
+  {
+    "id": "q086q9k66",
+    "name": "檜山神社",
+    "image": "https://image.xinu.ink/pic/data/315/images/q086q9k66_1731510016437.jpg",
+    "geo": [
+      34.974881,
+      135.913509
+    ],
+    "ep": 10,
+    "s": 1182
+  },
+  {
+    "id": "pomiwwy18",
+    "name": "穴太駅",
+    "image": "https://image.xinu.ink/pic/data/315/images/pomiwwy18-1730600762020.jpg",
+    "geo": [
+      35.055596,
+      135.864765
+    ],
+    "ep": 3,
+    "s": 797
+  },
+  {
+    "id": "oyk0ylbm1",
+    "name": "穴太駅",
+    "image": "https://image.xinu.ink/pic/data/315/images/oyk0ylbm1-1730600730436.jpg",
+    "geo": [
+      35.055593,
+      135.864762
+    ],
+    "ep": 3,
+    "s": 783
+  },
+  {
+    "id": "pomjqwbs4",
+    "name": "穴太駅",
+    "image": "https://image.xinu.ink/pic/data/315/images/pomjqwbs4-1730600814948.jpg",
+    "geo": [
+      35.055595,
+      135.864763
+    ],
+    "ep": 3,
+    "s": 832
+  },
+  {
+    "id": "pqpq22h5b",
+    "name": "穴太駅（傍晚）",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqpq22h5b-1730764461597.jpg",
+    "geo": [
+      35.055618,
+      135.864784
+    ],
+    "ep": 5,
+    "s": 622
+  },
+  {
+    "id": "pqpotk5im",
+    "name": "穴太駅（傍晚）",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqpotk5im-1730764377603.jpg",
+    "geo": [
+      35.055612,
+      135.864779
+    ],
+    "ep": 5,
+    "s": 539
+  },
+  {
+    "id": "pqppag0r3",
+    "name": "穴太駅（傍晚）",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqppag0r3-1730764405359.jpg",
+    "geo": [
+      35.05562,
+      135.864786
+    ],
+    "ep": 5,
+    "s": 545
+  },
+  {
+    "id": "pqpqibqo8",
+    "name": "穴太駅（傍晚）",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqpqibqo8-1730764479511.jpg",
+    "geo": [
+      35.055613,
+      135.86478
+    ],
+    "ep": 5,
+    "s": 625
+  },
+  {
+    "id": "pqppo13b2",
+    "name": "穴太駅（傍晚）",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqppo13b2-1730764429365.jpg",
+    "geo": [
+      35.055615,
+      135.864782
+    ],
+    "ep": 5,
+    "s": 606
+  },
+  {
+    "id": "pqpqx0kag",
+    "name": "穴太駅（傍晚）",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqpqx0kag-1730764505615.jpg",
+    "geo": [
+      35.055623,
+      135.864788
+    ],
+    "ep": 5,
+    "s": 635
+  },
+  {
+    "id": "pqprbhf3k",
+    "name": "穴太駅（傍晚）",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqprbhf3k-1730764531780.jpg",
+    "geo": [
+      35.055626,
+      135.864791
+    ],
+    "ep": 5,
+    "s": 648
+  },
+  {
+    "id": "q1zqruyfl",
+    "name": "桃山南団地（动画原型公寓所在位置）",
+    "image": "https://image.xinu.ink/pic/data/315/images/q1zqruyfl-1731648285787.jpg",
+    "geo": [
+      34.923954,
+      135.786904
+    ],
+    "ep": 11,
+    "s": 207
+  },
+  {
+    "id": "pqqquud58",
+    "name": "桃山南団地（动画原型公寓所在位置）",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqqquud58-1730766677887.jpg",
+    "geo": [
+      34.924515,
+      135.787541
+    ],
+    "ep": 6,
+    "s": 1
+  },
+  {
+    "id": "q202xf2mv",
+    "name": "公寓 单元门口",
+    "image": "https://image.xinu.ink/pic/data/315/images/q202xf2mv-1731649003532.jpg",
+    "geo": [
+      34.924488,
+      135.787825
+    ],
+    "ep": 11,
+    "s": 804
+  },
+  {
+    "id": "pomlerzf1",
+    "name": "公寓 单元门口",
+    "image": "https://image.xinu.ink/pic/data/315/images/pomlerzf1-1730600912544.jpg",
+    "geo": [
+      34.924496,
+      135.787804
+    ],
+    "ep": 3,
+    "s": 846
+  },
+  {
+    "id": "q1zrjwljs",
+    "name": "公寓 单元门口",
+    "image": "https://image.xinu.ink/pic/data/315/images/q1zrjwljs-1731648315378.jpg",
+    "geo": [
+      34.924497,
+      135.787841
+    ],
+    "ep": 11,
+    "s": 213
+  },
+  {
+    "id": "pnnn6x0gb",
+    "name": "公寓 单元门口",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnnn6x0gb-1730524852251.jpg",
+    "geo": [
+      34.924498,
+      135.787823
+    ],
+    "ep": 1,
+    "s": 1270
+  },
+  {
+    "id": "pwvokwzq2",
+    "name": "旧鎌掛小学校大门",
+    "image": "https://image.xinu.ink/pic/data/315/images/pwvokwzq2-1731247607052.jpg",
+    "geo": [
+      34.98832,
+      136.259864
+    ],
+    "ep": 8,
+    "s": 653,
+    "mark": "旧鎌掛小学校其实并没有动画所示的大门，大门应该与左侧房屋一样参考于滋贺县另一所学校，目前还在查证"
+  },
+  {
+    "id": "pqptyv229",
+    "name": "旧町立鎌掛小学校 中庭",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqptyv229-1730764692221.jpg",
+    "geo": [
+      34.98876,
+      136.260047
+    ],
+    "ep": 5,
+    "s": 1064
+  },
+  {
+    "id": "q217g2yvv",
+    "name": "旧町立鎌掛小学校 中庭",
+    "image": "https://image.xinu.ink/pic/data/315/images/q217g2yvv-1731651452640.jpg",
+    "geo": [
+      34.988777,
+      136.260063
+    ],
+    "ep": 12,
+    "s": 694
+  },
+  {
+    "id": "pwvq9ycsr",
+    "name": "旧町立鎌掛小学校 中庭",
+    "image": "https://image.xinu.ink/pic/data/315/images/pwvq9ycsr-1731247709583.jpg",
+    "geo": [
+      34.9888,
+      136.260085
+    ],
+    "ep": 8,
+    "s": 740
+  },
+  {
+    "id": "q22aqqez4",
+    "name": "旧町立鎌掛小学校 中庭",
+    "image": "https://image.xinu.ink/pic/data/315/images/q22aqqez4-1731653839382.jpg",
+    "geo": [
+      34.98858,
+      136.259798
+    ],
+    "ep": 13,
+    "s": 453
+  },
+  {
+    "id": "q22a8hcir",
+    "name": "旧町立鎌掛小学校 中庭",
+    "image": "https://image.xinu.ink/pic/data/315/images/q22a8hcir-1731653810133.jpg",
+    "geo": [
+      34.988559,
+      136.259777
+    ],
+    "ep": 13,
+    "s": 428
+  },
+  {
+    "id": "pwvpszbmf",
+    "name": "旧町立鎌掛小学校 雕像",
+    "image": "https://image.xinu.ink/pic/data/315/images/pwvpszbmf-1731247680658.jpg",
+    "geo": [
+      34.98882,
+      136.260104
+    ],
+    "ep": 8,
+    "s": 688
+  },
+  {
+    "id": "pnpa1bol1",
+    "name": "旧町立鎌掛小学校 日晷",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnpa1bol1-1730528393041.jpg",
+    "geo": [
+      34.988465,
+      136.259951
+    ],
+    "ep": 2,
+    "s": 537
+  },
+  {
+    "id": "q217va2xg",
+    "name": "旧鎌掛小学校 教室走廊",
+    "image": "https://image.xinu.ink/pic/data/315/images/q217va2xg-1731651477748.jpg",
+    "geo": [
+      34.989027,
+      136.260058
+    ],
+    "ep": 12,
+    "s": 728
+  },
+  {
+    "id": "pputgawqu",
+    "name": "旧鎌掛小学校 教室走廊",
+    "image": "https://image.xinu.ink/pic/data/315/images/pputgawqu-1730697180301.jpg",
+    "geo": [
+      34.988836,
+      136.259905
+    ],
+    "ep": 4,
+    "s": 442
+  },
+  {
+    "id": "pwvsvsv60",
+    "name": "旧鎌掛小学校 教室走廊",
+    "image": "https://image.xinu.ink/pic/data/315/images/pwvsvsv60-1731247881446.jpg",
+    "geo": [
+      34.988883,
+      136.259949
+    ],
+    "ep": 8,
+    "s": 913
+  },
+  {
+    "id": "q22bdvi9f",
+    "name": "旧町立鎌掛小学校 走廊处洗手池",
+    "image": "https://image.xinu.ink/pic/data/315/images/q22bdvi9f-1731653868526.jpg",
+    "geo": [
+      34.988825,
+      136.259866
+    ],
+    "ep": 13,
+    "s": 722
+  },
+  {
+    "id": "pwvo2om5l",
+    "name": "旧町立鎌掛小学校 走廊处洗手池",
+    "image": "https://image.xinu.ink/pic/data/315/images/pwvo2om5l-1731247579616.jpg",
+    "geo": [
+      34.988835,
+      136.259874
+    ],
+    "ep": 8,
+    "s": 593
+  },
+  {
+    "id": "pwvnnlivc",
+    "name": "旧町立鎌掛小学校 走廊处洗手池",
+    "image": "https://image.xinu.ink/pic/data/315/images/pwvnnlivc-1731247555256.jpg",
+    "geo": [
+      34.988841,
+      136.259878
+    ],
+    "ep": 8,
+    "s": 619
+  },
+  {
+    "id": "pqpmpzubl",
+    "name": "旧鎌掛小学校 教室",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqpmpzubl-1730764255976.jpg",
+    "geo": [
+      34.988643,
+      136.259803
+    ],
+    "ep": 5,
+    "s": 238
+  },
+  {
+    "id": "pnpcks5fd",
+    "name": "旧鎌掛小学校 教室",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnpcks5fd-1730528546415.jpg",
+    "geo": [
+      34.988637,
+      136.259836
+    ],
+    "ep": 2,
+    "s": 687
+  },
+  {
+    "id": "ppuu0f5ou",
+    "name": "旧鎌掛小学校 教室",
+    "image": "https://image.xinu.ink/pic/data/315/images/ppuu0f5ou-1730697216960.jpg",
+    "geo": [
+      34.988633,
+      136.259796
+    ],
+    "ep": 4,
+    "s": 452
+  },
+  {
+    "id": "pnpbv9yht",
+    "name": "旧鎌掛小学校 教室",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnpbv9yht-1730528504396.jpg",
+    "geo": [
+      34.988645,
+      136.259821
+    ],
+    "ep": 2,
+    "s": 645
+  },
+  {
+    "id": "pnpb4dbog",
+    "name": "旧鎌掛小学校 二楼走廊",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnpb4dbog-1730528459573.jpg",
+    "geo": [
+      34.988591,
+      136.260031
+    ],
+    "ep": 2,
+    "s": 606
+  },
+  {
+    "id": "pomfwivgb",
+    "name": "旧鎌掛小学校 二楼走廊",
+    "image": "https://image.xinu.ink/pic/data/315/images/pomfwivgb-1730600579124.jpg",
+    "geo": [
+      34.988604,
+      136.26004
+    ],
+    "ep": 3,
+    "s": 496
+  },
+  {
+    "id": "pwvbvf6x5",
+    "name": "旧鎌掛小学校 極東魔術昼寝結社の夏",
+    "image": "https://image.xinu.ink/pic/data/315/images/pwvbvf6x5-1731246863683.jpg",
+    "geo": [
+      34.988525,
+      136.259994
+    ],
+    "ep": 8,
+    "s": 1
+  },
+  {
+    "id": "pnp8oayaw",
+    "name": "旧鎌掛小学校 極東魔術昼寝結社の夏",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnp8oayaw-1730528313315.jpg",
+    "geo": [
+      34.988518,
+      136.260005
+    ],
+    "ep": 2,
+    "s": 504
+  },
+  {
+    "id": "pwvp281kj",
+    "name": "旧鎌掛小学校 極東魔術昼寝結社の夏",
+    "image": "https://image.xinu.ink/pic/data/315/images/pwvp281kj-1731247646236.jpg",
+    "geo": [
+      34.988511,
+      136.260003
+    ],
+    "ep": 8,
+    "s": 656
+  },
+  {
+    "id": "pomphxmzi",
+    "name": "旧鎌掛小学校 極東魔術昼寝結社の夏",
+    "image": "https://image.xinu.ink/pic/data/315/images/pomphxmzi-1730601163858.jpg",
+    "geo": [
+      34.988525,
+      136.260011
+    ],
+    "ep": 3,
+    "s": 352
+  },
+  {
+    "id": "pomq0w2qe",
+    "name": "旧鎌掛小学校 極東魔術昼寝結社の夏",
+    "image": "https://image.xinu.ink/pic/data/315/images/pomq0w2qe-1730601192466.jpg",
+    "geo": [
+      34.988527,
+      136.260005
+    ],
+    "ep": 3,
+    "s": 732
+  },
+  {
+    "id": "pomqdl7d2",
+    "name": "旧鎌掛小学校 極東魔術昼寝結社の夏",
+    "image": "https://image.xinu.ink/pic/data/315/images/pomqdl7d2-1730601212756.jpg",
+    "geo": [
+      34.988518,
+      136.260039
+    ],
+    "ep": 3,
+    "s": 734
+  },
+  {
+    "id": "pommjrhm3",
+    "name": "旧鎌掛小学校 極東魔術昼寝結社の夏",
+    "image": "https://image.xinu.ink/pic/data/315/images/pommjrhm3-1730600981977.jpg",
+    "geo": [
+      34.988521,
+      136.259997
+    ],
+    "ep": 3,
+    "s": 894
+  },
+  {
+    "id": "pomm4lu0x",
+    "name": "旧鎌掛小学校 極東魔術昼寝結社の夏",
+    "image": "https://image.xinu.ink/pic/data/315/images/pomm4lu0x-1730600957250.jpg",
+    "geo": [
+      34.988514,
+      136.260015
+    ],
+    "ep": 3,
+    "s": 874
+  },
+  {
+    "id": "q22cu2mpq",
+    "name": "旧鎌掛小学校 極東魔術昼寝結社の夏",
+    "image": "https://image.xinu.ink/pic/data/315/images/q22cu2mpq-1731653958562.jpg",
+    "geo": [
+      34.988502,
+      136.260022
+    ],
+    "ep": 13,
+    "s": 773
+  },
+  {
+    "id": "ppv4oubqu",
+    "name": "旧鎌掛小学校 極東魔術昼寝結社の夏",
+    "image": "https://image.xinu.ink/pic/data/315/images/ppv4oubqu-1730697861991.jpg",
+    "geo": [
+      34.988515,
+      136.26001
+    ],
+    "ep": 4,
+    "s": 1301
+  },
+  {
+    "id": "ppus0qr1m",
+    "name": "旧鎌掛小学校 極東魔術昼寝結社の夏",
+    "image": "https://image.xinu.ink/pic/data/315/images/ppus0qr1m-1730697091532.jpg",
+    "geo": [
+      34.988512,
+      136.260015
+    ],
+    "ep": 4,
+    "s": 415
+  },
+  {
+    "id": "q228p1ia0",
+    "name": "旧鎌掛小学校 極東魔術昼寝結社の夏",
+    "image": "https://image.xinu.ink/pic/data/315/images/q228p1ia0-1731653705561.jpg",
+    "geo": [
+      34.988508,
+      136.26001
+    ],
+    "ep": 13,
+    "s": 15
+  },
+  {
+    "id": "pqpnwfymj",
+    "name": "旧鎌掛小学校 極東魔術昼寝結社の夏",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqpnwfymj-1730764330310.jpg",
+    "geo": [
+      34.988513,
+      136.260017
+    ],
+    "ep": 5,
+    "s": 380
+  },
+  {
+    "id": "pommygyku",
+    "name": "旧鎌掛小学校 極東魔術昼寝結社の夏",
+    "image": "https://image.xinu.ink/pic/data/315/images/pommygyku-1730601006649.jpg",
+    "geo": [
+      34.988516,
+      136.259992
+    ],
+    "ep": 3,
+    "s": 918
+  },
+  {
+    "id": "q4lqzce7m",
+    "name": "旧鎌掛小学校 职员室",
+    "image": "https://image.xinu.ink/pic/data/315/images/q4lqzce7m_1731852897814.jpg",
+    "geo": [
+      34.988649,
+      136.260138
+    ],
+    "ep": 3,
+    "s": 700
+  },
+  {
+    "id": "pqpm458cr",
+    "name": "旧鎌掛小学校 职员室",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqpm458cr-1730764216283.jpg",
+    "geo": [
+      34.988646,
+      136.260135
+    ],
+    "ep": 5,
+    "s": 9
+  },
+  {
+    "id": "ppv429m4u",
+    "name": "旧鎌掛小学校 体育馆",
+    "image": "https://image.xinu.ink/pic/data/315/images/ppv429m4u-1730697817676.jpg",
+    "geo": [
+      34.98903,
+      136.26021
+    ],
+    "ep": 4,
+    "s": 1229
+  },
+  {
+    "id": "ppv3miehb",
+    "name": "旧鎌掛小学校 体育馆",
+    "image": "https://image.xinu.ink/pic/data/315/images/ppv3miehb-1730697793747.jpg",
+    "geo": [
+      34.989006,
+      136.260254
+    ],
+    "ep": 4,
+    "s": 1185
+  },
+  {
+    "id": "pqpvdxwgo",
+    "name": "旧鎌掛小学校 体育馆",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqpvdxwgo-1730764776005.jpg",
+    "geo": [
+      34.989101,
+      136.260077
+    ],
+    "ep": 5,
+    "s": 1250
+  },
+  {
+    "id": "pqps5z1ed",
+    "name": "旧町立鎌掛小学校 运动场",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqps5z1ed-1730764587894.jpg",
+    "geo": [
+      34.989565,
+      136.259743
+    ],
+    "ep": 5,
+    "s": 771,
+    "mark": "现实中体育场西北角并没有大树"
+  },
+  {
+    "id": "ppureojh8",
+    "name": "旧町立鎌掛小学校 运动场",
+    "image": "https://image.xinu.ink/pic/data/315/images/ppureojh8-1730697053908.jpg",
+    "geo": [
+      34.988835,
+      136.259778
+    ],
+    "ep": 4,
+    "s": 23
+  },
+  {
+    "id": "pqpthh258",
+    "name": "旧町立鎌掛小学校 运动场一侧",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqpthh258-1730764661356.jpg",
+    "geo": [
+      34.989239,
+      136.260039
+    ],
+    "ep": 5,
+    "s": 1004
+  },
+  {
+    "id": "pwvmhes4e",
+    "name": "一里山公園",
+    "image": "https://image.xinu.ink/pic/data/315/images/pwvmhes4e-1731247479637.jpg",
+    "geo": [
+      34.984493,
+      135.935875
+    ],
+    "ep": 8,
+    "s": 507
+  },
+  {
+    "id": "pwvhewb4o",
+    "name": "一里山公園",
+    "image": "https://image.xinu.ink/pic/data/315/images/pwvhewb4o-1731247174207.jpg",
+    "geo": [
+      34.984451,
+      135.935846
+    ],
+    "ep": 8,
+    "s": 201
+  },
+  {
+    "id": "pwvw5yc3u",
+    "name": "一里山公園",
+    "image": "https://image.xinu.ink/pic/data/315/images/pwvw5yc3u-1731248066619.jpg",
+    "geo": [
+      34.984483,
+      135.935609
+    ],
+    "ep": 8,
+    "s": 1287
+  },
+  {
+    "id": "pwvmxs5gl",
+    "name": "一里山公園",
+    "image": "https://image.xinu.ink/pic/data/315/images/pwvmxs5gl-1731247507659.jpg",
+    "geo": [
+      34.984463,
+      135.935911
+    ],
+    "ep": 8,
+    "s": 562
+  },
+  {
+    "id": "pwvuiffws",
+    "name": "一里山公園",
+    "image": "https://image.xinu.ink/pic/data/315/images/pwvuiffws-1731247965696.jpg",
+    "geo": [
+      34.984526,
+      135.935701
+    ],
+    "ep": 8,
+    "s": 936
+  },
+  {
+    "id": "pwvjwi060",
+    "name": "一里山公園",
+    "image": "https://image.xinu.ink/pic/data/315/images/pwvjwi060-1731247324618.jpg",
+    "geo": [
+      34.984519,
+      135.936069
+    ],
+    "ep": 8,
+    "s": 326
+  },
+  {
+    "id": "j0uw44bqh",
+    "name": "一里山公園",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw44bqh-1729832403547.jpg",
+    "geo": [
+      34.9845,
+      135.935844
+    ],
+    "ep": 10,
+    "s": 686,
+    "mark": "第8话伪Morisummer净化萨尼亚的场景，第10话七宫坐过的长椅",
+    "cn": "一里山公園 长椅"
+  },
+  {
+    "id": "pwvgtvimp",
+    "name": "一里山公園 长椅",
+    "image": "https://image.xinu.ink/pic/data/315/images/pwvgtvimp-1731247144461.jpg",
+    "geo": [
+      34.984436,
+      135.935812
+    ],
+    "ep": 8,
+    "s": 160
+  },
+  {
+    "id": "pwvly5c6t",
+    "name": "一里山公園 滑梯",
+    "image": "https://image.xinu.ink/pic/data/315/images/pwvly5c6t-1731247450305.jpg",
+    "geo": [
+      34.984299,
+      135.935441
+    ],
+    "ep": 8,
+    "s": 450
+  },
+  {
+    "id": "pwvuz5gxb",
+    "name": "一里山公園 滑梯",
+    "image": "https://image.xinu.ink/pic/data/315/images/pwvuz5gxb-1731247993524.jpg",
+    "geo": [
+      34.984396,
+      135.935654
+    ],
+    "ep": 8,
+    "s": 989
+  },
+  {
+    "id": "j0uw446m3",
+    "name": "一里山公園 滑梯",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw446m3-1729832426970.jpg",
+    "geo": [
+      34.984282,
+      135.935407
+    ],
+    "ep": 10,
+    "s": 744,
+    "mark": "据工作人员所说，滑梯在今年年初已拆除，可惜了（编辑于2024.8.1）"
+  },
+  {
+    "id": "q07vquf8g",
+    "name": "一里山公園 滑梯",
+    "image": "https://image.xinu.ink/pic/data/315/images/q07vquf8g-1731509253592.jpg",
+    "geo": [
+      34.984351,
+      135.935383
+    ],
+    "ep": 10,
+    "s": 762
+  },
+  {
+    "id": "q07uorb1t",
+    "name": "一里山公園 滑梯旁",
+    "image": "https://image.xinu.ink/pic/data/315/images/q07uorb1t-1731509214390.jpg",
+    "geo": [
+      34.984459,
+      135.935304
+    ],
+    "ep": 10,
+    "s": 747
+  },
+  {
+    "id": "q07tg0nql",
+    "name": "一里山公園　グラウンド",
+    "image": "https://image.xinu.ink/pic/data/315/images/q07tg0nql-1731509116163.jpg",
+    "geo": [
+      34.984877,
+      135.934985
+    ],
+    "ep": 10,
+    "s": 742
+  },
+  {
+    "id": "q07gyxyar",
+    "name": "一里山公園　グラウンド",
+    "image": "https://image.xinu.ink/pic/data/315/images/q07gyxyar-1731508360875.jpg",
+    "geo": [
+      34.984752,
+      135.934926
+    ],
+    "ep": 10,
+    "s": 414
+  },
+  {
+    "id": "q07g7h6e6",
+    "name": "一里山公園　グラウンド",
+    "image": "https://image.xinu.ink/pic/data/315/images/q07g7h6e6-1731508315180.jpg",
+    "geo": [
+      34.984686,
+      135.935156
+    ],
+    "ep": 10,
+    "s": 636
+  },
+  {
+    "id": "q08116nws",
+    "name": "一里山公園　グラウンド",
+    "image": "https://image.xinu.ink/pic/data/315/images/q08116nws-1731509576688.jpg",
+    "geo": [
+      34.984785,
+      135.93498
+    ],
+    "ep": 10,
+    "s": 923
+  },
+  {
+    "id": "j0uw44bly",
+    "name": "一里山公園　グラウンド",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw44bly-1729832449463.jpg",
+    "geo": [
+      34.98477,
+      135.935233
+    ],
+    "ep": 10,
+    "s": 924,
+    "mark": "10话的庆典会场"
+  },
+  {
+    "id": "q07l04ht4",
+    "name": "草津市南草津図書館",
+    "image": "https://image.xinu.ink/pic/data/315/images/q07l04ht4-1731508612412.jpg",
+    "geo": [
+      35.00302,
+      135.947523
+    ],
+    "ep": 10,
+    "s": 462,
+    "mark": "这是JR南草津站前购物中心内的南草津图书馆，位于JR南草津站东口出来的南侧，勇太和立花在游泳池后学习的图书馆外观是市立图书馆，内部装饰是这里"
+  },
+  {
+    "id": "pnpzliogd",
+    "name": "京都水族馆 游览厅",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnpzliogd-1730529934200.jpg",
+    "geo": [
+      34.987665,
+      135.747864
+    ],
+    "ep": 2,
+    "s": 878
+  },
+  {
+    "id": "pnpy5oe8z",
+    "name": "京都水族馆 游览厅",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnpy5oe8z-1730529846026.jpg",
+    "geo": [
+      34.987654,
+      135.747854
+    ],
+    "ep": 2,
+    "s": 862
+  },
+  {
+    "id": "pnq5y30ng",
+    "name": "京都水族馆 海豚表演区",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnq5y30ng-1730530329442.jpg",
+    "geo": [
+      34.987571,
+      135.747681
+    ],
+    "ep": 2,
+    "s": 946,
+    "mark": "动画中的表演为现实水族馆上午11.30表演“海豚的体育时间”，不同的是并没有观众互动"
+  },
+  {
+    "id": "pnq3orhmy",
+    "name": "京都水族馆 海豚表演区",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnq3orhmy-1730530194881.jpg",
+    "geo": [
+      34.987571,
+      135.747583
+    ],
+    "ep": 2,
+    "s": 944,
+    "mark": "动画中的表演为现实水族馆上午11.30表演“海豚的体育时间”，不同的是并没有观众互动"
+  },
+  {
+    "id": "pnq6gzrb5",
+    "name": "京都水族馆 海豚表演区",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnq6gzrb5-1730530400571.jpg",
+    "geo": [
+      34.987459,
+      135.747567
+    ],
+    "ep": 2,
+    "s": 956
+  },
+  {
+    "id": "pnq7pi49a",
+    "name": "京都水族馆 海豚表演区",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnq7pi49a-1730530422053.jpg",
+    "geo": [
+      34.987591,
+      135.747565
+    ],
+    "ep": 2,
+    "s": 957
+  },
+  {
+    "id": "pnqexl3cy",
+    "name": "赤野井-1パーキング",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnqexl3cy-1730530865911.jpg",
+    "geo": [
+      35.073811,
+      135.945799
+    ],
+    "ep": 2,
+    "s": 1045
+  },
+  {
+    "id": "j0vkyv3va",
+    "name": "赤野井-1パーキング",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0vkyv3va-1729831140390.jpg",
+    "geo": [
+      35.073795,
+      135.945795
+    ],
+    "ep": 2,
+    "s": 1104,
+    "mark": "2話邪王真眼恋人契約"
+  },
+  {
+    "id": "pnqcqnejz",
+    "name": "赤野井-1パーキング",
+    "image": "https://image.xinu.ink/pic/data/315/images/pnqcqnejz-1730530740570.jpg",
+    "geo": [
+      35.073829,
+      135.945589
+    ],
+    "ep": 2,
+    "s": 1028,
+    "mark": "位于所标地点对岸，并且实际上只有一个风力发电机"
+  },
+  {
+    "id": "l15c8gyxb",
+    "name": "赤野井-1パーキング",
+    "image": "https://image.xinu.ink/pic/data/315/images/l15c8gyxb-1717476546024.jpg",
+    "geo": [
+      35.073816,
+      135.945772
+    ],
+    "ep": 2,
+    "s": 1101
+  },
+  {
+    "id": "pzzwjps72",
+    "name": "赤野井-1パーキング旁 水门",
+    "image": "https://image.xinu.ink/pic/data/315/images/pzzwjps72-1731491888843.jpg",
+    "geo": [
+      35.07377,
+      135.945717
+    ],
+    "ep": 2,
+    "s": 1249
+  },
+  {
+    "id": "q078fqzfc",
+    "name": "枚方公园 六花勇太泳池内位置",
+    "image": "https://image.xinu.ink/pic/data/315/images/q078fqzfc-1731507900584.jpg",
+    "geo": [
+      34.805219,
+      135.637161
+    ],
+    "ep": 10,
+    "s": 228
+  },
+  {
+    "id": "q07cim2gd",
+    "name": "枚方公园 正门",
+    "image": "https://image.xinu.ink/pic/data/315/images/q07cim2gd-1768057132469.jpg",
+    "geo": [
+      34.808561,
+      135.639527
+    ],
+    "ep": 10,
+    "s": 330
+  },
+  {
+    "id": "k1qz0fyon",
+    "name": "関西電力膳所変電所西鉄塔",
+    "image": "https://image.xinu.ink/pic/data/315/images/k1qz0fyon-1729832247034.jpg",
+    "geo": [
+      34.98247,
+      135.885669
+    ],
+    "ep": 11,
+    "s": 855
+  },
+  {
+    "id": "k1r1394h8",
+    "name": "関西電力膳所変電所西鉄塔",
+    "image": "https://image.xinu.ink/pic/data/315/images/k1r1394h8-1729832275544.jpg",
+    "geo": [
+      34.982436,
+      135.885713
+    ],
+    "ep": 11,
+    "s": 881
+  },
+  {
+    "id": "q083q07to",
+    "name": "関西電力膳所変電所西鉄塔",
+    "image": "https://image.xinu.ink/pic/data/315/images/q083q07to-1731509736467.jpg",
+    "geo": [
+      34.982461,
+      135.885683
+    ],
+    "ep": 10,
+    "s": 1023
+  },
+  {
+    "id": "j0uw44b9g",
+    "name": "関西電力膳所変電所西鉄塔",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw44b9g-1729832140306.jpg",
+    "geo": [
+      34.982441,
+      135.885606
+    ],
+    "ep": 11,
+    "s": 797,
+    "mark": "第10话六花怀疑的铁塔，第11话六花挖过的铁塔"
+  },
+  {
+    "id": "q2094j0o3",
+    "name": "園山二丁目 交差点",
+    "image": "https://image.xinu.ink/pic/data/315/images/q2094j0o3-1731649377132.jpg",
+    "geo": [
+      34.979049,
+      135.889615
+    ],
+    "ep": 11,
+    "s": 939
+  },
+  {
+    "id": "j0uw44bdc",
+    "name": "鉄塔",
+    "image": "https://image.xinu.ink/pic/data/315/images/j0uw44bdc-1731649428340.jpg",
+    "geo": [
+      34.979509,
+      135.886588
+    ],
+    "ep": 11,
+    "s": 968,
+    "mark": "因为时间的关系，现实中的部分场景变化较大，但整体场景与动画差异不大"
+  },
+  {
+    "id": "k2ft7hz6u",
+    "name": "鉄塔",
+    "image": "https://image.xinu.ink/pic/data/315/images/k2ft7hz6u-1731649448076.jpg",
+    "geo": [
+      34.979516,
+      135.88661
+    ],
+    "ep": 11,
+    "s": 1026,
+    "mark": "因为时间的关系，现实中的部分场景变化较大，但整体场景与动画差异不大（背景中的两座铁塔是确定这里的关键性证据）"
+  },
+  {
+    "id": "q209meck3",
+    "name": "鉄塔",
+    "image": "https://image.xinu.ink/pic/data/315/images/q209meck3-1731649415089.jpg",
+    "geo": [
+      34.979402,
+      135.886756
+    ],
+    "ep": 11,
+    "s": 966
+  },
+  {
+    "id": "q2080b91g",
+    "name": "铁塔附近的楼梯",
+    "image": "https://image.xinu.ink/pic/data/315/images/q2080b91g-1731649311251.jpg",
+    "geo": [
+      34.982569,
+      135.885164
+    ],
+    "ep": 11,
+    "s": 890
+  },
+  {
+    "id": "pqrce7tvp",
+    "name": "有田ポーセリンパーク",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqrce7tvp-1730767980044.jpg",
+    "geo": [
+      33.165731,
+      129.908267
+    ],
+    "ep": 6,
+    "s": 316,
+    "cn": "有田瓷器公园"
+  },
+  {
+    "id": "pqrbxwtga",
+    "name": "有田​ポーセリンパーク",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqrbxwtga-1730767951928.jpg",
+    "geo": [
+      33.165765,
+      129.908264
+    ],
+    "ep": 6,
+    "s": 308,
+    "cn": "有田瓷器公园"
+  },
+  {
+    "id": "pqrgz6n4d",
+    "name": "有田ポーセリンパーク ",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqrgz6n4d-1730768258774.jpg",
+    "geo": [
+      33.165917,
+      129.908684
+    ],
+    "ep": 6,
+    "s": 327,
+    "cn": "有田瓷器公园"
+  },
+  {
+    "id": "pqri6l3l2",
+    "name": "有田ポーセリンパーク",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqri6l3l2-1730768328028.jpg",
+    "geo": [
+      33.165882,
+      129.908684
+    ],
+    "ep": 6,
+    "s": 346,
+    "cn": "有田瓷器公园"
+  },
+  {
+    "id": "pqrht9i3x",
+    "name": "有田ポーセリンパーク",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqrht9i3x-1730768305877.jpg",
+    "geo": [
+      33.165882,
+      129.90871
+    ],
+    "ep": 6,
+    "s": 334,
+    "cn": "有田瓷器公园"
+  },
+  {
+    "id": "pqriizjnp",
+    "name": "有田ポーセリンパーク",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqriizjnp-1730768348322.jpg",
+    "geo": [
+      33.165875,
+      129.908689
+    ],
+    "ep": 6,
+    "s": 365,
+    "cn": "有田瓷器公园"
+  },
+  {
+    "id": "pqsvam7sc",
+    "name": "吉野ヶ里歴史公園 北内郭主祭殿",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqsvam7sc-1730771298468.jpg",
+    "geo": [
+      33.326869,
+      130.386299
+    ],
+    "ep": 6,
+    "s": 534
+  },
+  {
+    "id": "pqtkxyow7",
+    "name": "温泉酒店中原别庄 门口",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqtkxyow7-1730772855342.jpg",
+    "geo": [
+      31.593012,
+      130.553282
+    ],
+    "ep": 6,
+    "s": 1275,
+    "mark": "在装修后酒店外围加装了一层结构，样式发生了一些变化，原型可以用谷歌地图回年查看到"
+  },
+  {
+    "id": "pqt7lw540",
+    "name": "温泉酒店中原别庄 内景（未做准确位置标注）",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqt7lw540-1730772042178.jpg",
+    "geo": [
+      31.592995,
+      130.553158
+    ],
+    "ep": 6,
+    "s": 571
+  },
+  {
+    "id": "pqt8a07m3",
+    "name": "温泉酒店中原别庄 内景（未做准确位置标注）",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqt8a07m3-1730772082746.jpg",
+    "geo": [
+      31.592985,
+      130.553179
+    ],
+    "ep": 6,
+    "s": 573
+  },
+  {
+    "id": "pqt8luchk",
+    "name": "温泉酒店中原别庄 内景（未做准确位置标注）",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqt8luchk-1730772102627.jpg",
+    "geo": [
+      31.592974,
+      130.553198
+    ],
+    "ep": 6,
+    "s": 577
+  },
+  {
+    "id": "pqtbwcnzq",
+    "name": "温泉酒店中原别庄 内景（未做准确位置标注）",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqtbwcnzq-1730772334749.jpg",
+    "geo": [
+      31.592958,
+      130.553242
+    ],
+    "ep": 6,
+    "s": 793
+  },
+  {
+    "id": "pqtcu4pkr",
+    "name": "温泉酒店中原别庄 内景（未做准确位置标注）",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqtcu4pkr-1730772358959.jpg",
+    "geo": [
+      31.592952,
+      130.55326
+    ],
+    "ep": "EP6",
+    "s": 843
+  },
+  {
+    "id": "pqtfnzmi2",
+    "name": "温泉酒店中原别庄 内景（未做准确位置标注）",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqtfnzmi2-1730772530735.jpg",
+    "geo": [
+      31.592945,
+      130.553278
+    ],
+    "ep": 6,
+    "s": 968
+  },
+  {
+    "id": "pqtg42l4y",
+    "name": "温泉酒店中原别庄 内景（未做准确位置标注）",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqtg42l4y-1730772556241.jpg",
+    "geo": [
+      31.592936,
+      130.553301
+    ],
+    "ep": 6,
+    "s": 1008
+  },
+  {
+    "id": "pqtgkrhfi",
+    "name": "温泉酒店中原别庄 内景（未做准确位置标注）",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqtgkrhfi-1730772593284.jpg",
+    "geo": [
+      31.592926,
+      130.553317
+    ],
+    "ep": 6,
+    "s": 1099
+  },
+  {
+    "id": "pqth1k9sh",
+    "name": "温泉酒店中原别庄 内景（未做准确位置标注）",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqth1k9sh-1730772613070.jpg",
+    "geo": [
+      31.592914,
+      130.553337
+    ],
+    "ep": 6,
+    "s": 1102
+  },
+  {
+    "id": "pqthcaptq",
+    "name": "温泉酒店中原别庄 内景（未做准确位置标注）",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqthcaptq-1730772631796.jpg",
+    "geo": [
+      31.593015,
+      130.55309
+    ],
+    "ep": 6,
+    "s": 1110
+  },
+  {
+    "id": "pqthnf4op",
+    "name": "温泉酒店中原别庄 内景（未做准确位置标注）",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqthnf4op-1730772648935.jpg",
+    "geo": [
+      31.593008,
+      130.553109
+    ],
+    "ep": 6,
+    "s": 1122
+  },
+  {
+    "id": "pqthxia63",
+    "name": "温泉酒店中原别庄 内景（未做准确位置标注）",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqthxia63-1730772698542.jpg",
+    "geo": [
+      31.593001,
+      130.553125
+    ],
+    "ep": 6,
+    "s": 1200
+  },
+  {
+    "id": "pqtiroeuo",
+    "name": "温泉酒店中原别庄 内景（未做准确位置标注）",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqtiroeuo-1730772716655.jpg",
+    "geo": [
+      31.592995,
+      130.553144
+    ],
+    "ep": 6,
+    "s": 1242
+  },
+  {
+    "id": "pqtj28orz",
+    "name": "温泉酒店中原别庄 内景（未做准确位置标注）",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqtj28orz-1730772734317.jpg",
+    "geo": [
+      31.592988,
+      130.553163
+    ],
+    "ep": 6,
+    "s": 1253
+  },
+  {
+    "id": "pqtlzkwrq",
+    "name": "城山公园展望台",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqtlzkwrq-1730772911226.jpg",
+    "geo": [
+      31.596249,
+      130.550033
+    ],
+    "ep": 6,
+    "s": 1269
+  },
+  {
+    "id": "pqtjgulni",
+    "name": "城山公园展望台",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqtjgulni-1730772763281.jpg",
+    "geo": [
+      31.596246,
+      130.549991
+    ],
+    "ep": 6,
+    "s": 1256
+  },
+  {
+    "id": "ida79uor5",
+    "name": "城山展望台",
+    "image": "https://image.xinu.ink/pic/data/315/images/ida79uor5-1729831535832.jpg",
+    "geo": [
+      31.596263,
+      130.550014
+    ],
+    "ep": 7,
+    "s": 1,
+    "cn": "城山公园展望台"
+  },
+  {
+    "id": "idaie1zkd",
+    "name": " 鹿児島県文化センター前",
+    "image": "https://image.xinu.ink/pic/data/315/images/idaie1zkd-1729831514812.jpg",
+    "geo": [
+      31.594466,
+      130.554773
+    ],
+    "ep": 6,
+    "s": 1323,
+    "cn": "鹿儿岛县文化中心路口"
+  },
+  {
+    "id": "pqtxil94p",
+    "name": " 鹿児島県文化センター前",
+    "image": "https://image.xinu.ink/pic/data/315/images/pqtxil94p-1730773616775.jpg",
+    "geo": [
+      31.59448,
+      130.55479
+    ],
+    "ep": 6,
+    "s": 1281,
+    "cn": "鹿儿岛县文化中心路口"
+  },
+  {
+    "id": "ptb4n2pw8",
+    "name": "天文館​むじゃき​BLD",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptb4n2pw8-1730967775242.jpg",
+    "geo": [
+      31.589197,
+      130.55594
+    ],
+    "ep": 7,
+    "s": 10
+  },
+  {
+    "id": "idadupdob",
+    "name": "西郷隆盛銅像",
+    "image": "https://image.xinu.ink/pic/data/315/images/idadupdob-1729831718291.jpg",
+    "geo": [
+      31.595301,
+      130.553564
+    ],
+    "ep": 7,
+    "s": 144,
+    "cn": "西乡隆盛铜像"
+  },
+  {
+    "id": "ptb6qdznd",
+    "name": "鹿児島市中央公民館前",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptb6qdznd-1730967910067.jpg",
+    "geo": [
+      31.595158,
+      130.553934
+    ],
+    "ep": 7,
+    "s": 146
+  },
+  {
+    "id": "ptbehciwi",
+    "name": "城山公园",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptbehciwi-1730968376799.jpg",
+    "geo": [
+      31.596399,
+      130.550031
+    ],
+    "ep": 7,
+    "s": 246
+  },
+  {
+    "id": "ptbf6b25j",
+    "name": "城山公园",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptbf6b25j-1730968459320.jpg",
+    "geo": [
+      31.596463,
+      130.550256
+    ],
+    "ep": 7,
+    "s": 265
+  },
+  {
+    "id": "ptbgf9syh",
+    "name": "城山公园",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptbgf9syh-1730968487161.jpg",
+    "geo": [
+      31.596473,
+      130.550281
+    ],
+    "ep": 7,
+    "s": 270
+  },
+  {
+    "id": "ptbgyipbo",
+    "name": "城山公园",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptbgyipbo-1730968518686.jpg",
+    "geo": [
+      31.596444,
+      130.55024
+    ],
+    "ep": 7,
+    "s": 298
+  },
+  {
+    "id": "ptbhdeka2",
+    "name": "城山公园",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptbhdeka2-1730968545272.jpg",
+    "geo": [
+      31.596492,
+      130.550283
+    ],
+    "ep": 7,
+    "s": 316
+  },
+  {
+    "id": "ptbisr8ra",
+    "name": "城山公园",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptbisr8ra-1730968631775.jpg",
+    "geo": [
+      31.596334,
+      130.549917
+    ],
+    "ep": 7,
+    "s": 342
+  },
+  {
+    "id": "ptbja4cf8",
+    "name": "城山公园",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptbja4cf8-1730968657809.jpg",
+    "geo": [
+      31.596343,
+      130.549944
+    ],
+    "ep": 7,
+    "s": 367
+  },
+  {
+    "id": "ptbjofcrw",
+    "name": "城山公园",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptbjofcrw-1730968685209.jpg",
+    "geo": [
+      31.596359,
+      130.549936
+    ],
+    "ep": 7,
+    "s": 393
+  },
+  {
+    "id": "ptbka2783",
+    "name": "城山公园",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptbka2783-1730968721532.jpg",
+    "geo": [
+      31.596363,
+      130.549959
+    ],
+    "ep": 7,
+    "s": 402
+  },
+  {
+    "id": "k03qfrhc6",
+    "name": "城山公園登山道",
+    "image": "https://image.xinu.ink/pic/data/315/images/k03qfrhc6-1729831785790.jpg",
+    "geo": [
+      31.597477,
+      130.551487
+    ],
+    "ep": 7,
+    "s": 546,
+    "mark": "刚才又走了一段才发现这个地点都是错的\n刚才又走了一段才发现这个地点都是错的"
+  },
+  {
+    "id": "ptbnis50m",
+    "name": "城山公園登山道",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptbnis50m-1730968915050.jpg",
+    "geo": [
+      31.597922,
+      130.552324
+    ],
+    "ep": 7,
+    "s": 502,
+    "mark": "实地探访，稍微有些偏差"
+  },
+  {
+    "id": "ptbmpwq1z",
+    "name": "城山公園登山道",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptbmpwq1z-1730968867744.jpg",
+    "geo": [
+      31.597748,
+      130.551544
+    ],
+    "ep": 7,
+    "s": 490,
+    "mark": "刚才又走了一段才发现这个地点都是错的"
+  },
+  {
+    "id": "ptbmcplyg",
+    "name": "城山公園登山道",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptbmcplyg-1730968843953.jpg",
+    "geo": [
+      31.59778,
+      130.55141
+    ],
+    "ep": 7,
+    "s": 476,
+    "mark": "刚才又走了一段才发现这个地点都是错的"
+  },
+  {
+    "id": "ptbn4bgoq",
+    "name": "城山公園登山道",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptbn4bgoq-1730968889346.jpg",
+    "geo": [
+      31.597695,
+      130.551458
+    ],
+    "ep": 7,
+    "s": 493,
+    "mark": "实地探访，稍微有偏差\n实际视点位置靠后\n刚才又走了一段才发现这个地点都是错的"
+  },
+  {
+    "id": "ptbpgldz8",
+    "name": "薩摩義士碑",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptbpgldz8-1730969032832.jpg",
+    "geo": [
+      31.5996,
+      130.554893
+    ],
+    "ep": 7,
+    "s": 583
+  },
+  {
+    "id": "ptbtvymx3",
+    "name": "西郷​隆盛​南州​洞窟",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptbtvymx3-1730969316504.jpg",
+    "geo": [
+      31.59952,
+      130.55003
+    ],
+    "ep": 7,
+    "s": 687,
+    "cn": "西乡隆盛南州洞窟"
+  },
+  {
+    "id": "k044ppsh5",
+    "name": "城山入口交差点",
+    "image": "https://image.xinu.ink/pic/data/315/images/k044ppsh5-1730969459362.jpg",
+    "geo": [
+      31.598832,
+      130.556418
+    ],
+    "ep": 7,
+    "s": 716
+  },
+  {
+    "id": "ptbxgnlht",
+    "name": "城山入口交差点",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptbxgnlht-1730969515293.jpg",
+    "geo": [
+      31.598835,
+      130.556496
+    ],
+    "ep": 7,
+    "s": 723
+  },
+  {
+    "id": "ptc1emt09",
+    "name": "鹿儿岛中央公园",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptc1emt09-1730969754550.jpg",
+    "geo": [
+      31.594268,
+      130.554288
+    ],
+    "ep": 7,
+    "s": 821,
+    "cn": "鹿儿岛中央公园"
+  },
+  {
+    "id": "ptc6co06b",
+    "name": "鹿児島旧港",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptc6co06b-1730970051480.jpg",
+    "geo": [
+      31.594191,
+      130.563763
+    ],
+    "ep": 7,
+    "s": 876
+  },
+  {
+    "id": "j6tu00ssb",
+    "name": "鹿児島旧港",
+    "image": "https://image.xinu.ink/pic/data/315/images/j6tu00ssb-1729832070198.jpg",
+    "geo": [
+      31.594127,
+      130.563762
+    ],
+    "ep": 7,
+    "s": 892,
+    "mark": "七宫向六花解释并解开误会的地方"
+  },
+  {
+    "id": "j6u06hnuo",
+    "name": "ウォーターフロントパーク",
+    "image": "https://image.xinu.ink/pic/data/315/images/j6u06hnuo-1730970129801.jpg",
+    "geo": [
+      31.592957,
+      130.564161
+    ],
+    "ep": 7,
+    "s": 1179,
+    "mark": "勇太在此送给六花生日礼物，6月12号",
+    "cn": "海滨公园"
+  },
+  {
+    "id": "ptc9jagl7",
+    "name": "海滨公园",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptc9jagl7-1730970242156.jpg",
+    "geo": [
+      31.593089,
+      130.564213
+    ],
+    "ep": 7,
+    "s": 1291
+  },
+  {
+    "id": "ptc8t3p80",
+    "name": "海滨公园",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptc8t3p80-1730970199595.jpg",
+    "geo": [
+      31.593099,
+      130.564218
+    ],
+    "ep": 7,
+    "s": 1185
+  },
+  {
+    "id": "ptc91welg",
+    "name": "海滨公园",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptc91welg-1730970225741.jpg",
+    "geo": [
+      31.593098,
+      130.564235
+    ],
+    "ep": 7,
+    "s": 1255
+  },
+  {
+    "id": "ptc8er8w7",
+    "name": "海滨公园",
+    "image": "https://image.xinu.ink/pic/data/315/images/ptc8er8w7_1730970334656.jpg",
+    "geo": [
+      31.593083,
+      130.564222
+    ],
+    "ep": 7,
+    "s": 1181
   }
 ]

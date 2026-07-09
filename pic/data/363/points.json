@@ -154,5 +154,27 @@
     ],
     "origin": "Anitabi@Xmなのだ",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "oyf1w07an",
+    "name": "Shoo La Rue",
+    "image": "https://image.xinu.ink/pic/data/363/images/oyf1w07an-1728547027772.jpg",
+    "geo": [
+      35.622851,
+      139.424472
+    ],
+    "ep": 1,
+    "s": 15
+  },
+  {
+    "id": "oydt9fed2",
+    "name": "四季の路",
+    "image": "https://image.xinu.ink/pic/data/363/images/oydt9fed2-1728544328185.jpg",
+    "geo": [
+      35.6934,
+      139.703978
+    ],
+    "ep": 1,
+    "s": 154
   }
 ]

@@ -75,5 +75,25 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1baheP7XQ7_n1a69fY92F5dwZuLY&ll=35.660971%2C139.698267&z=17"
+  },
+  {
+    "id": "jizxjejp6",
+    "name": "「神田町10」交差点",
+    "image": "https://image.xinu.ink/pic/data/293/images/jizxjejp6_1713233992399.jpg",
+    "geo": [
+      35.410878,
+      136.758896
+    ],
+    "mark": "６話"
+  },
+  {
+    "id": "jizxjejso",
+    "name": "「神田町10」交差点",
+    "image": "https://image.xinu.ink/pic/data/293/images/jizxjejso_1713233992669.jpg",
+    "geo": [
+      35.410745,
+      136.758676
+    ],
+    "mark": "６話"
   }
 ]

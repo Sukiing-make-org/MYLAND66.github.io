@@ -154,5 +154,55 @@
     ],
     "origin": "Anitabi@AmaiAya",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nyb9zyw5p",
+    "name": "テレコム駅前交差点",
+    "image": "https://image.xinu.ink/pic/data/299/images/nyb9zyw5p_1725717735300.jpg",
+    "geo": [
+      35.616915,
+      139.778219
+    ],
+    "s": 2092
+  },
+  {
+    "id": "nybwafat7",
+    "name": "横浜市立浦島小学校",
+    "image": "https://image.xinu.ink/pic/data/299/images/nybwafat7_1725719044427.jpg",
+    "geo": [
+      35.484336,
+      139.637118
+    ],
+    "s": 2180
+  },
+  {
+    "id": "nybvkkkch",
+    "name": "横浜市立浦島小学校",
+    "image": "https://image.xinu.ink/pic/data/299/images/nybvkkkch_1725719000959.jpg",
+    "geo": [
+      35.484279,
+      139.637038
+    ],
+    "s": 2280
+  },
+  {
+    "id": "nyc2q7q05",
+    "name": "テレコムセンター前交差点",
+    "image": "https://image.xinu.ink/pic/data/299/images/nyc2q7q05_1725719433673.jpg",
+    "geo": [
+      35.618573,
+      139.780334
+    ],
+    "s": 4665
+  },
+  {
+    "id": "nyc6oounx",
+    "name": "都立潮風公園",
+    "image": "https://image.xinu.ink/pic/data/299/images/nyc6oounx_1725719857843.jpg",
+    "geo": [
+      35.622511,
+      139.768126
+    ],
+    "s": 4815
   }
 ]

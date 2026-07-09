@@ -314,5 +314,16 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=166LgiTupEBfRI17zldZsTDT6gjs&ll=35.894196%2C139.630373&z=17"
+  },
+  {
+    "id": "51i53qy7d",
+    "name": "つちのこ舘",
+    "image": "",
+    "geo": [
+      35.638356,
+      137.315068
+    ],
+    "mark": "#04（※背景モデルは実在しないので、参考）",
+    "folder": "#03「こうざん」，#04「さばくちほー」，#05「こはん」"
   }
 ]

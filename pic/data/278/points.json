@@ -371,5 +371,930 @@
       33.6555,
       132.5895
     ]
+  },
+  {
+    "id": "96f4a899",
+    "name": "平城第2団地",
+    "image": "https://image.xinu.ink/pic/data/278/images/96f4a899_1742916542914.jpg",
+    "geo": [
+      34.720264,
+      135.789616
+    ],
+    "ep": 0,
+    "s": 138,
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "eb2e5988",
+    "name": "聖心学園中等教育学校",
+    "image": "https://image.xinu.ink/pic/data/278/images/eb2e5988_1742916559638.jpg",
+    "geo": [
+      34.484119,
+      135.784736
+    ],
+    "ep": 1,
+    "s": 48,
+    "mark": "01話、02話、10話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "1a00c48f",
+    "name": "奈良ホテル",
+    "image": "https://image.xinu.ink/pic/data/278/images/1a00c48f_1742916545499.jpg",
+    "geo": [
+      34.679816,
+      135.834054
+    ],
+    "ep": 1,
+    "s": 215,
+    "mark": "03話、05話、08話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "a9cb62b9",
+    "name": "大和西大寺駅4番のりば",
+    "image": "https://image.xinu.ink/pic/data/278/images/a9cb62b9_1742916548359.jpg",
+    "geo": [
+      34.693793,
+      135.782764
+    ],
+    "ep": 1,
+    "s": 231,
+    "mark": "OP、01話、09話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "3af74e8d",
+    "name": "秋篠川サイクリングロード",
+    "image": "https://image.xinu.ink/pic/data/278/images/3af74e8d_1742916549858.jpg",
+    "geo": [
+      34.690255,
+      135.787035
+    ],
+    "ep": 1,
+    "s": 234,
+    "mark": "OP、09話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "ebcf439e",
+    "name": "サイゼリヤJR奈良三条通り店【閉店】",
+    "image": "https://image.xinu.ink/pic/data/278/images/ebcf439e_1742916571323.jpg",
+    "geo": [
+      34.681899,
+      135.821571
+    ],
+    "ep": 1,
+    "s": 815,
+    "mark": "閉店日/2021年8月23日(月)住所/奈良県奈良市三条町491-1浅川ﾊｰﾍﾞｽﾄﾋﾞﾙ1F",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "af2b618b",
+    "name": "大和西大寺駅5,6番ホーム",
+    "image": "https://image.xinu.ink/pic/data/278/images/af2b618b_1742916582198.jpg",
+    "geo": [
+      34.69381,
+      135.782834
+    ],
+    "ep": 1,
+    "s": 932,
+    "mark": "01話、08話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "90rrf22",
+    "name": "大和西大寺駅4番のりば",
+    "image": "https://image.xinu.ink/pic/data/278/images/90rrf22-1766648021704.jpg",
+    "geo": [
+      34.693734,
+      135.782724
+    ],
+    "ep": 1,
+    "s": 943,
+    "mark": "往南邊的5,6番線看"
+  },
+  {
+    "id": "90ru65e",
+    "name": "大和西大寺駅5,6番ホーム",
+    "image": "https://image.xinu.ink/pic/data/278/images/90ru65e-1766648165971.jpg",
+    "geo": [
+      34.693684,
+      135.782728
+    ],
+    "ep": 1,
+    "s": 953
+  },
+  {
+    "id": "90ruz8q",
+    "name": "大和西大寺駅5,6番ホーム",
+    "image": "https://image.xinu.ink/pic/data/278/images/90ruz8q-1766648189742.jpg",
+    "geo": [
+      34.693684,
+      135.782728
+    ],
+    "ep": 1,
+    "s": 959
+  },
+  {
+    "id": "fc98663d",
+    "name": "秋人自宅",
+    "image": "https://image.xinu.ink/pic/data/278/images/fc98663d_1742916584819.jpg",
+    "geo": [
+      34.48416,
+      135.784165
+    ],
+    "ep": 1,
+    "s": 962,
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "ec578b87",
+    "name": "深田池",
+    "image": "https://image.xinu.ink/pic/data/278/images/ec578b87_1742916587036.jpg",
+    "geo": [
+      34.486312,
+      135.784219
+    ],
+    "ep": 1,
+    "s": 1077,
+    "mark": "01話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "8106ff4e",
+    "name": "平城第2ショッピングセンター",
+    "image": "https://image.xinu.ink/pic/data/278/images/8106ff4e_1742916592489.jpg",
+    "geo": [
+      34.720768,
+      135.789186
+    ],
+    "ep": 1,
+    "s": 1092,
+    "mark": "01話、02話、08話、11話他",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "de6079be",
+    "name": "弁当を買って公園",
+    "image": "https://image.xinu.ink/pic/data/278/images/de6079be_1742916596636.jpg",
+    "geo": [
+      34.720693,
+      135.789136
+    ],
+    "ep": 1,
+    "s": 1101,
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "332877bc",
+    "name": "カーブミラー",
+    "image": "https://image.xinu.ink/pic/data/278/images/332877bc_1742916531917.jpg",
+    "geo": [
+      34.484507,
+      135.792232
+    ],
+    "ep": 2,
+    "s": 84,
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "17d27211",
+    "name": "ピエロの公園",
+    "image": "https://image.xinu.ink/pic/data/278/images/17d27211_1742916611914.jpg",
+    "geo": [
+      34.718695,
+      135.788681
+    ],
+    "ep": 2,
+    "s": 385,
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "4170b0db",
+    "name": "橿原神宮西口第四号踏切周辺",
+    "image": "https://image.xinu.ink/pic/data/278/images/4170b0db_1742916615865.jpg",
+    "geo": [
+      34.484703,
+      135.791753
+    ],
+    "ep": 2,
+    "s": 457,
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "6ed2434a",
+    "name": "橿原神宮前駅駅前広場",
+    "image": "https://image.xinu.ink/pic/data/278/images/6ed2434a_1742916618667.jpg",
+    "geo": [
+      34.483834,
+      135.793673
+    ],
+    "ep": 2,
+    "s": 1219,
+    "mark": "02話、08話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "b96ced98",
+    "name": "よねやメガネ東向商店街",
+    "image": "https://image.xinu.ink/pic/data/278/images/b96ced98_1742916622130.jpg",
+    "geo": [
+      34.682591,
+      135.828732
+    ],
+    "ep": 2,
+    "s": 1250,
+    "mark": "02話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "b4337b37",
+    "name": "ホテル大和路裏手",
+    "image": "https://image.xinu.ink/pic/data/278/images/b4337b37_1742916627449.jpg",
+    "geo": [
+      34.680809,
+      135.832434
+    ],
+    "ep": 3,
+    "s": 121,
+    "mark": "03話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "3b4306c6",
+    "name": "奈良ホテル",
+    "image": "https://image.xinu.ink/pic/data/278/images/3b4306c6_1742916634436.jpg",
+    "geo": [
+      34.68136,
+      135.834365
+    ],
+    "ep": 3,
+    "s": 194,
+    "mark": "03話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "05768c03",
+    "name": "西大寺検車区",
+    "image": "https://image.xinu.ink/pic/data/278/images/05768c03_1742916638649.jpg",
+    "geo": [
+      34.689367,
+      135.786759
+    ],
+    "ep": 3,
+    "s": 597,
+    "mark": "03話、08話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "30c82f33",
+    "name": "大和西大寺駅北口",
+    "image": "https://image.xinu.ink/pic/data/278/images/30c82f33_1742916696754.jpg",
+    "geo": [
+      34.694002,
+      135.783113
+    ],
+    "ep": 3,
+    "mark": "03話、アイドル裁判！ ～迷いながらも君を裁く民～ ED（銃撃現場）",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "25b359f4",
+    "name": "橿原神宮西口第四号踏切",
+    "image": "https://image.xinu.ink/pic/data/278/images/25b359f4_1742916539182.jpg",
+    "geo": [
+      34.484791,
+      135.791195
+    ],
+    "ep": 4,
+    "s": 83,
+    "mark": "CM、PV、02話、08話、11話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "35581e91",
+    "name": "天下一品 東向店",
+    "image": "https://image.xinu.ink/pic/data/278/images/35581e91_1742916705307.jpg",
+    "geo": [
+      34.68224,
+      135.828751
+    ],
+    "ep": 4,
+    "mark": "04話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "b2518582",
+    "name": "カフェレストラン PINOCCHIO",
+    "image": "https://image.xinu.ink/pic/data/278/images/b2518582-1766649125820.jpg",
+    "geo": [
+      34.681912,
+      135.82362
+    ],
+    "ep": 5,
+    "s": 49,
+    "mark": "2015~2017已拆除",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "9a7ebe20",
+    "name": "松田ビル？",
+    "image": "https://image.xinu.ink/pic/data/278/images/9a7ebe20_1742916711797.jpg",
+    "geo": [
+      34.681958,
+      135.822386
+    ],
+    "ep": 5,
+    "mark": "05話、廃墟モデル",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "5955bdde",
+    "name": "浮見堂",
+    "image": "https://image.xinu.ink/pic/data/278/images/5955bdde_1742916713408.jpg",
+    "geo": [
+      34.679527,
+      135.838437
+    ],
+    "ep": 5,
+    "mark": "05話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "ff7be251",
+    "name": "料理旅館 江戸三",
+    "image": "https://image.xinu.ink/pic/data/278/images/ff7be251_1742916717128.jpg",
+    "geo": [
+      34.681526,
+      135.835851
+    ],
+    "ep": 5,
+    "mark": "05話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "22bcb90a",
+    "name": "聖心学園東側三叉路",
+    "image": "https://image.xinu.ink/pic/data/278/images/22bcb90a_1742916721668.jpg",
+    "geo": [
+      34.483018,
+      135.787011
+    ],
+    "ep": 6,
+    "mark": "06話、11話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "3946bbbc",
+    "name": "深田池",
+    "image": "https://image.xinu.ink/pic/data/278/images/3946bbbc_1742916730254.jpg",
+    "geo": [
+      34.486639,
+      135.787313
+    ],
+    "ep": 6,
+    "mark": "06話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "f2d0171e",
+    "name": "平城第2団地",
+    "image": "https://image.xinu.ink/pic/data/278/images/f2d0171e_1742916607286.jpg",
+    "geo": [
+      34.719723,
+      135.788863
+    ],
+    "ep": 7,
+    "s": 893,
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "a2wzg33ef",
+    "name": "猿沢池西側",
+    "image": "https://image.xinu.ink/pic/data/278/images/a2wzg33ef-1726213553770.jpg",
+    "geo": [
+      34.681691,
+      135.830294
+    ],
+    "ep": 7,
+    "s": 1246,
+    "mark": "07話"
+  },
+  {
+    "id": "d49e75ba",
+    "name": "NTT西日本 奈良支店前",
+    "image": "https://image.xinu.ink/pic/data/278/images/d49e75ba_1742916701670.jpg",
+    "geo": [
+      34.681947,
+      135.825793
+    ],
+    "ep": 7,
+    "mark": "07話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "a4bc8476",
+    "name": "下校通り",
+    "image": "https://image.xinu.ink/pic/data/278/images/a4bc8476_1742916734904.jpg",
+    "geo": [
+      34.485318,
+      135.792367
+    ],
+    "ep": 7,
+    "mark": "07話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "cca8f378",
+    "name": "やぐら歯科内科",
+    "image": "https://image.xinu.ink/pic/data/278/images/cca8f378_1742916737428.jpg",
+    "geo": [
+      34.721165,
+      135.792216
+    ],
+    "ep": 7,
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "d1ae6cc9",
+    "name": "椿井市場",
+    "image": "https://image.xinu.ink/pic/data/278/images/d1ae6cc9_1742916739526.jpg",
+    "geo": [
+      34.680509,
+      135.827617
+    ],
+    "ep": 7,
+    "mark": "07話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "88f31e52",
+    "name": "猿沢池西側",
+    "image": "https://image.xinu.ink/pic/data/278/images/88f31e52_1742916747603.jpg",
+    "geo": [
+      34.681539,
+      135.830237
+    ],
+    "ep": 7,
+    "mark": "07話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "23537c84",
+    "name": "三条都パーキング前",
+    "image": "https://image.xinu.ink/pic/data/278/images/23537c84-1766649414875.jpg",
+    "geo": [
+      34.68203,
+      135.821949
+    ],
+    "ep": 7,
+    "s": 45,
+    "mark": "左側多數建築已拆除",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "b9478a50",
+    "name": "上三条町交差点",
+    "image": "https://image.xinu.ink/pic/data/278/images/b9478a50_1742916754370.jpg",
+    "geo": [
+      34.682007,
+      135.826073
+    ],
+    "ep": 7,
+    "mark": "07話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "90u70vy",
+    "name": "橿原神宮前駅北西側",
+    "image": "https://image.xinu.ink/pic/data/278/images/90u70vy-1766652108815.jpg",
+    "geo": [
+      34.485006,
+      135.792697
+    ],
+    "ep": 7,
+    "s": 431,
+    "mark": "往西南看，該建築於2012~2015拆除",
+    "origin": "kennyfs"
+  },
+  {
+    "id": "96753461",
+    "name": "道路標識",
+    "image": "https://image.xinu.ink/pic/data/278/images/96753461_1742916757859.jpg",
+    "geo": [
+      34.484147,
+      135.793457
+    ],
+    "ep": 8,
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "de330f3b",
+    "name": "ベンチ",
+    "image": "https://image.xinu.ink/pic/data/278/images/de330f3b_1742916762464.jpg",
+    "geo": [
+      34.484077,
+      135.793955
+    ],
+    "ep": 8,
+    "mark": "13-17年间逐渐拆除",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "f2c1667e",
+    "name": "橿原神宮前駅駅前",
+    "image": "https://image.xinu.ink/pic/data/278/images/f2c1667e_1742916765843.jpg",
+    "geo": [
+      34.483668,
+      135.793765
+    ],
+    "ep": 8,
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "f17945b3",
+    "name": "西大寺橋東詰",
+    "image": "https://image.xinu.ink/pic/data/278/images/f17945b3_1742916768233.jpg",
+    "geo": [
+      34.693975,
+      135.78665
+    ],
+    "ep": 8,
+    "s": 559,
+    "mark": "08話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "1291a5ff",
+    "name": "猿沢池東側TOMOパーキング興福寺前第2",
+    "image": "https://image.xinu.ink/pic/data/278/images/1291a5ff_1742916770532.jpg",
+    "geo": [
+      34.681398,
+      135.832772
+    ],
+    "ep": 8,
+    "mark": "08話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "71fb2637",
+    "name": "大仏殿交差点",
+    "image": "https://image.xinu.ink/pic/data/278/images/71fb2637_1742916773616.jpg",
+    "geo": [
+      34.683502,
+      135.839966
+    ],
+    "ep": 8,
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "ff558cf5",
+    "name": "ローソン 高の原中央病院店",
+    "image": "https://image.xinu.ink/pic/data/278/images/ff558cf5_1742916777293.jpg",
+    "geo": [
+      34.721463,
+      135.789907
+    ],
+    "ep": 8,
+    "mark": "lawson",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "0573b54b",
+    "name": "橿原神宮前駅ホーム",
+    "image": "https://image.xinu.ink/pic/data/278/images/0573b54b_1742916781395.jpg",
+    "geo": [
+      34.484248,
+      135.794162
+    ],
+    "ep": 8,
+    "mark": "橿原線の2・3番ホーム",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "3ceaa316",
+    "name": "橿原神宮前駅中央改札",
+    "image": "https://image.xinu.ink/pic/data/278/images/3ceaa316_1742916783844.jpg",
+    "geo": [
+      34.483551,
+      135.793762
+    ],
+    "ep": 8,
+    "mark": "08話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "d1475cab",
+    "name": "栗山自宅",
+    "image": "https://image.xinu.ink/pic/data/278/images/d1475cab_1742916601765.jpg",
+    "geo": [
+      34.721013,
+      135.78916
+    ],
+    "ep": 8,
+    "s": 965,
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "cf0c4572",
+    "name": "橿原神宮前駅北西側",
+    "image": "https://image.xinu.ink/pic/data/278/images/cf0c4572_1742916785672.jpg",
+    "geo": [
+      34.484416,
+      135.793185
+    ],
+    "ep": 9,
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "d6bccf91",
+    "name": "久米町子供広場西側",
+    "image": "https://image.xinu.ink/pic/data/278/images/d6bccf91_1742916787492.jpg",
+    "geo": [
+      34.483103,
+      135.789274
+    ],
+    "ep": 9,
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "b258beff",
+    "name": "橿原神宮前駅北西側",
+    "image": "https://image.xinu.ink/pic/data/278/images/b258beff_1742916789140.jpg",
+    "geo": [
+      34.484955,
+      135.792763
+    ],
+    "ep": 10,
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "e2621bd7",
+    "name": "大和西大寺駅南改札口",
+    "image": "https://image.xinu.ink/pic/data/278/images/e2621bd7_1742916790433.jpg",
+    "geo": [
+      34.693731,
+      135.782695
+    ],
+    "ep": 10,
+    "mark": "10話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "a2vpptfp1",
+    "name": "橿原神宮西口第一号踏切",
+    "image": "https://image.xinu.ink/pic/data/278/images/a2vpptfp1-1686580454264.jpg",
+    "geo": [
+      34.485202,
+      135.782864
+    ],
+    "ep": 11,
+    "s": 46,
+    "mark": "11話\n從南側看"
+  },
+  {
+    "id": "a2wzg33e5",
+    "name": "聖心学園東側",
+    "image": "https://image.xinu.ink/pic/data/278/images/a2wzg33e5-1766646301480.jpg",
+    "geo": [
+      34.482945,
+      135.787472
+    ],
+    "ep": 11,
+    "s": 957
+  },
+  {
+    "id": "a40ca473",
+    "name": "聖心学園東側",
+    "image": "https://image.xinu.ink/pic/data/278/images/a40ca473_1742916726063.jpg",
+    "geo": [
+      34.483907,
+      135.785605
+    ],
+    "ep": 11,
+    "mark": "06，11話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "ebaf9e94",
+    "name": "久米河原東交差点",
+    "image": "https://image.xinu.ink/pic/data/278/images/ebaf9e94_1742916792074.jpg",
+    "geo": [
+      34.481868,
+      135.789403
+    ],
+    "ep": 11,
+    "mark": "11話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "2f7469a7",
+    "name": "橿原神宮西口第一号踏切",
+    "image": "https://image.xinu.ink/pic/data/278/images/2f7469a7_1742916793340.jpg",
+    "geo": [
+      34.485631,
+      135.782837
+    ],
+    "ep": 11,
+    "mark": "11話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "bb7da386",
+    "name": "橿原神宮西口第四号踏切南側",
+    "image": "https://image.xinu.ink/pic/data/278/images/bb7da386_1742916794871.jpg",
+    "geo": [
+      34.484552,
+      135.791696
+    ],
+    "ep": 11,
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "4a61afe5",
+    "name": "久米町子供広場",
+    "image": "https://image.xinu.ink/pic/data/278/images/4a61afe5_1742916796955.jpg",
+    "geo": [
+      34.483438,
+      135.789661
+    ],
+    "ep": 11,
+    "mark": "11話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "83ed0e86",
+    "name": "橿原線の1・8番ホーム",
+    "image": "https://image.xinu.ink/pic/data/278/images/83ed0e86_1742916798538.jpg",
+    "geo": [
+      34.484148,
+      135.794321
+    ],
+    "ep": 11,
+    "mark": "秋人が待っている8番のりばは狭軌用の臨時ホーム",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "637919a2",
+    "name": "南都銀行本店",
+    "image": "https://image.xinu.ink/pic/data/278/images/637919a2_1742916799891.jpg",
+    "geo": [
+      34.682018,
+      135.828622
+    ],
+    "ep": 11,
+    "mark": "11話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "50dc94dc",
+    "name": "深田池",
+    "image": "https://image.xinu.ink/pic/data/278/images/50dc94dc_1742916802619.jpg",
+    "geo": [
+      34.486362,
+      135.786057
+    ],
+    "ep": 11,
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "f12a2d4f",
+    "name": "京街道架道橋下",
+    "image": "https://image.xinu.ink/pic/data/278/images/f12a2d4f_1742916804189.jpg",
+    "geo": [
+      34.934719,
+      135.791589
+    ],
+    "ep": 11,
+    "s": 857,
+    "mark": "西側往北邊看",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "db222143",
+    "name": "橿原神宮前駅北西側",
+    "image": "https://image.xinu.ink/pic/data/278/images/db222143_1742916805618.jpg",
+    "geo": [
+      34.485579,
+      135.792166
+    ],
+    "ep": 11,
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "f228bca4",
+    "name": "近鉄スポーツセンター前",
+    "image": "https://image.xinu.ink/pic/data/278/images/f228bca4_1742916807262.jpg",
+    "geo": [
+      34.686559,
+      135.787067
+    ],
+    "ep": 11,
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "ffd297da",
+    "name": "久米交差点",
+    "image": "https://image.xinu.ink/pic/data/278/images/ffd297da_1742916808618.jpg",
+    "geo": [
+      34.482536,
+      135.791815
+    ],
+    "ep": 11,
+    "mark": "11話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "1838cdac",
+    "name": "聖心学園東側",
+    "image": "https://image.xinu.ink/pic/data/278/images/1838cdac_1742916809906.jpg",
+    "geo": [
+      34.483025,
+      135.787284
+    ],
+    "ep": 11,
+    "s": 947,
+    "mark": "11話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "990ebfc4",
+    "name": "西大寺橋西詰",
+    "image": "https://image.xinu.ink/pic/data/278/images/990ebfc4_1742916811729.jpg",
+    "geo": [
+      34.694216,
+      135.78582
+    ],
+    "ep": 11,
+    "s": 1270,
+    "mark": "11話",
+    "origin": "境界の彼方圣地巡礼副本"
+  },
+  {
+    "id": "90quopm",
+    "name": "橿原神宮西口第一号踏切",
+    "image": "https://image.xinu.ink/pic/data/278/images/90quopm-1766646502529.jpg",
+    "geo": [
+      34.485775,
+      135.782827
+    ],
+    "ep": 11,
+    "s": 33
+  },
+  {
+    "id": "90r5hqb",
+    "name": "橿原神宮西口第一号踏切",
+    "image": "https://image.xinu.ink/pic/data/278/images/90r5hqb-1766646998842.jpg",
+    "geo": [
+      34.48556,
+      135.782836
+    ],
+    "ep": 11,
+    "s": 53,
+    "mark": "站在踏切往北看"
+  },
+  {
+    "id": "90t32ar",
+    "name": "平城3号歩行者専用道路 ローソン前",
+    "image": "https://image.xinu.ink/pic/data/278/images/90t32ar-1766650244898.jpg",
+    "geo": [
+      34.721443,
+      135.789913
+    ],
+    "ep": 11,
+    "s": 547
+  },
+  {
+    "id": "90rzu39",
+    "name": "聖心学園東側",
+    "image": "https://image.xinu.ink/pic/data/278/images/90rzu39-1766648414502.jpg",
+    "geo": [
+      34.483443,
+      135.785804
+    ],
+    "ep": 11,
+    "s": 975
+  },
+  {
+    "id": "a2wzg3339",
+    "name": "名古屋市市政資料館",
+    "image": "",
+    "geo": [
+      35.181291,
+      136.910583
+    ]
+  },
+  {
+    "id": "acac528c",
+    "name": "平城第2ショッピングセンター",
+    "image": "https://image.xinu.ink/pic/data/278/images/acac528c_1742916603837.jpg",
+    "geo": [
+      34.720527,
+      135.789098
+    ],
+    "ep": 12,
+    "s": 256,
+    "origin": "境界の彼方圣地巡礼副本"
   }
 ]

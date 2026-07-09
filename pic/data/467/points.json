@@ -294,5 +294,127 @@
     ],
     "origin": "Anitabi@AmaiAya",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "950db516",
+    "name": "Carlsbad",
+    "image": "",
+    "geo": [
+      32.420339,
+      -104.228992
+    ],
+    "ep": "本篇",
+    "mark": "台词中提及的玛丽娜家所在城市。",
+    "cn": "卡尔斯巴德"
+  },
+  {
+    "id": "ku0zdme9e",
+    "name": "Inside the Mummy Cave",
+    "image": "https://image.xinu.ink/pic/data/467/images/ku0zdme9e_1716918525845.jpg",
+    "geo": [
+      36.232279,
+      -109.357387
+    ],
+    "ep": "本篇",
+    "cn": "谢伊峡谷国家纪念地-木乃伊洞遗迹"
+  },
+  {
+    "id": "ku0wbhz6s",
+    "name": "Zion National Park Campground",
+    "image": "https://image.xinu.ink/pic/data/467/images/ku0wbhz6s_1716918322369.jpg",
+    "geo": [
+      37.195593,
+      -112.987798
+    ],
+    "ep": "本篇",
+    "cn": "锡安国家公园-露营地"
+  },
+  {
+    "id": "ku0wtoa5k",
+    "name": "Fire Wave",
+    "image": "https://image.xinu.ink/pic/data/467/images/ku0wtoa5k_1716918346676.jpg",
+    "geo": [
+      36.482684,
+      -114.522169
+    ],
+    "ep": "本篇",
+    "cn": "火焰谷"
+  },
+  {
+    "id": "ku0xi7xbh",
+    "name": "The World's Tallest Thermometer",
+    "image": "https://image.xinu.ink/pic/data/467/images/ku0xi7xbh_1716918483483.jpg",
+    "geo": [
+      35.266637,
+      -116.072526
+    ],
+    "ep": "本篇",
+    "cn": "贝克-世界最高的温度计"
+  },
+  {
+    "id": "ku1004vch",
+    "name": "Coachella Festival (Empire Polo Club)",
+    "image": "https://image.xinu.ink/pic/data/467/images/ku1004vch_1716918545676.jpg",
+    "geo": [
+      33.680911,
+      -116.237198
+    ],
+    "ep": "本篇",
+    "cn": "科切拉谷音乐艺术节（帝国马球俱乐部）"
+  },
+  {
+    "id": "f4dd1599",
+    "name": "Bellagio Hotel & Casino",
+    "image": "",
+    "geo": [
+      36.112946,
+      -115.176507
+    ],
+    "ep": "NextExit",
+    "mark": "DLC NextExit台词中提及地点。"
+  },
+  {
+    "id": "4f679118",
+    "name": "Circus Hotel and Casino",
+    "image": "",
+    "geo": [
+      36.137622,
+      -115.165251
+    ],
+    "ep": "NextExit",
+    "mark": "DLC NextExit台词中提及地点。"
+  },
+  {
+    "id": "fb981dd8",
+    "name": "SAHARA Las Vegas",
+    "image": "",
+    "geo": [
+      36.142355,
+      -115.156723
+    ],
+    "ep": "NextExit",
+    "mark": "DLC NextExit台词中提及地点。"
+  },
+  {
+    "id": "068e059e",
+    "name": "MGM Grand",
+    "image": "",
+    "geo": [
+      36.104115,
+      -115.168444
+    ],
+    "ep": "NextExit",
+    "mark": "DLC NextExit台词中提及地点。"
+  },
+  {
+    "id": "aae7a17e",
+    "name": "Excalibur Hotel & Casino",
+    "image": "",
+    "geo": [
+      36.098797,
+      -115.175431
+    ],
+    "ep": "NextExit",
+    "mark": "DLC NextExit台词中提及地点。"
   }
 ]

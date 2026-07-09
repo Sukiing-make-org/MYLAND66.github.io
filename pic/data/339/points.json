@@ -354,5 +354,1345 @@
     ],
     "origin": "Anitabi@仓上日向",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "gjbfkfn",
+    "name": " クリエイトS・D飯能東町店",
+    "image": "https://image.xinu.ink/pic/data/339/images/gjbfkfn-1783022745076.webp",
+    "geo": [
+      35.855731,
+      139.321863
+    ],
+    "ep": 8,
+    "s": 297,
+    "mark": "原为ヤオコー（Yaoko）饭能店，目前已改为药妆店クリエイトS・D飯能東町店，但建筑轮廓基本一致，Google街景可以看到2019年及以前的YAOKO"
+  },
+  {
+    "id": "gjphcw9",
+    "name": "箕ノ口公園",
+    "image": "https://image.xinu.ink/pic/data/339/images/gjphcw9-1783030533228.webp",
+    "geo": [
+      35.858589,
+      139.309647
+    ],
+    "ep": 8,
+    "s": 376
+  },
+  {
+    "id": "gjp7pyf",
+    "name": "中央公園の遊具",
+    "image": "https://image.xinu.ink/pic/data/339/images/gjp7pyf-1783030312249.webp",
+    "geo": [
+      35.859157,
+      139.311533
+    ],
+    "ep": 8,
+    "s": 378,
+    "mark": "已于20年前后拆除，更换为新的滑梯复合设施"
+  },
+  {
+    "id": "gjyahm7",
+    "name": "飯能駅北口",
+    "image": "https://image.xinu.ink/pic/data/339/images/gjyahm7-1783045574803.webp",
+    "geo": [
+      35.850987,
+      139.320163
+    ],
+    "ep": 8,
+    "s": 679,
+    "cn": "饭能站北口"
+  },
+  {
+    "id": "gjz03ae",
+    "name": "入間川上橋",
+    "image": "https://image.xinu.ink/pic/data/339/images/gjz03ae-1783046548171.webp",
+    "geo": [
+      35.838329,
+      139.347806
+    ],
+    "ep": 8,
+    "s": 680
+  },
+  {
+    "id": "gjzk01a",
+    "name": "池袋駅5・6番線ホーム",
+    "image": "https://image.xinu.ink/pic/data/339/images/gjzk01a-1783048141395.webp",
+    "geo": [
+      35.729726,
+      139.710792
+    ],
+    "ep": 8,
+    "s": 686,
+    "mark": "山手线内环，直梯附近的楼梯",
+    "cn": "池袋站5·6号线月台"
+  },
+  {
+    "id": "gk1i5za",
+    "name": "富士山五合目碑",
+    "image": "https://image.xinu.ink/pic/data/339/images/gk1i5za-1783051257688.webp",
+    "geo": [
+      35.394359,
+      138.732552
+    ],
+    "ep": 9,
+    "s": 133,
+    "mark": "富士苏巴鲁线五合目，海拔2305米，是游客攀爬富士山最热门的起点，巴士信息参见官方网站→https://www.fujisan-climb.jp/zh-CN/comparison-of-routes/#route-yoshida",
+    "folder": "富士スバルライン五合目"
+  },
+  {
+    "id": "gl8zw1l",
+    "name": "富士山憲章 碑",
+    "image": "https://image.xinu.ink/pic/data/339/images/gl8zw1l-1783123782953.webp",
+    "geo": [
+      35.394204,
+      138.733097
+    ],
+    "ep": 9,
+    "s": 158,
+    "mark": "注意此处为富士苏巴鲁线五合目，与真正的“吉田口五合目”不同，后者是仅可徒步到达的传统吉田路线的五合目",
+    "folder": "富士スバルライン五合目"
+  },
+  {
+    "id": "gk2ib8v",
+    "name": "富士山五合目碑",
+    "image": "https://image.xinu.ink/pic/data/339/images/gk2ib8v-1783052419179.webp",
+    "geo": [
+      35.394387,
+      138.732551
+    ],
+    "ep": 9,
+    "s": 161,
+    "folder": "富士スバルライン五合目"
+  },
+  {
+    "id": "gk369mc",
+    "name": "富士山五合目簡易郵便局",
+    "image": "https://image.xinu.ink/pic/data/339/images/gk369mc-1783053531780.webp",
+    "geo": [
+      35.3945,
+      138.733014
+    ],
+    "ep": 9,
+    "s": 167,
+    "folder": "富士スバルライン五合目"
+  },
+  {
+    "id": "glc91v2",
+    "name": "富士山五合目簡易郵便局",
+    "image": "https://image.xinu.ink/pic/data/339/images/glc91v2-1783129288322.webp",
+    "geo": [
+      35.394448,
+      138.73299
+    ],
+    "ep": 9,
+    "s": 176,
+    "folder": "富士スバルライン五合目"
+  },
+  {
+    "id": "gm9s80r",
+    "name": "富士山ホーストレッキング",
+    "image": "https://image.xinu.ink/pic/data/339/images/gm9s80r-1783185568788.webp",
+    "geo": [
+      35.393849,
+      138.733476
+    ],
+    "ep": 9,
+    "s": 177,
+    "folder": "富士スバルライン五合目"
+  },
+  {
+    "id": "gk3uami",
+    "name": "富士山五合目簡易郵便局",
+    "image": "https://image.xinu.ink/pic/data/339/images/gk3uami-1783054654778.webp",
+    "geo": [
+      35.39442,
+      138.733058
+    ],
+    "ep": 9,
+    "s": 184,
+    "mark": "背景为邮局正门",
+    "folder": "富士スバルライン五合目"
+  },
+  {
+    "id": "glbhk3d",
+    "name": "五合園レストハウス",
+    "image": "https://image.xinu.ink/pic/data/339/images/glbhk3d-1783128276428.webp",
+    "geo": [
+      35.394395,
+      138.733098
+    ],
+    "ep": 9,
+    "s": 208,
+    "folder": "富士スバルライン五合目"
+  },
+  {
+    "id": "gm99ta6",
+    "name": "富士山みはらし",
+    "image": "https://image.xinu.ink/pic/data/339/images/gm99ta6-1783184903724.webp",
+    "geo": [
+      35.394365,
+      138.733217
+    ],
+    "ep": 9,
+    "s": 309,
+    "folder": "富士スバルライン五合目"
+  },
+  {
+    "id": "gk5ibnj",
+    "name": "富士山小御嶽神社 社号標",
+    "image": "https://image.xinu.ink/pic/data/339/images/gk5ibnj-1783057500912.webp",
+    "geo": [
+      35.394843,
+      138.73353
+    ],
+    "ep": 9,
+    "s": 318,
+    "folder": "富士スバルライン五合目"
+  },
+  {
+    "id": "gmbq8dv",
+    "name": "富士山五合目こみたけ売店",
+    "image": "https://image.xinu.ink/pic/data/339/images/gmbq8dv-1783189201758.webp",
+    "geo": [
+      35.394188,
+      138.733367
+    ],
+    "ep": 9,
+    "s": 327,
+    "folder": "富士スバルライン五合目"
+  },
+  {
+    "id": "gk5r6lz",
+    "name": "富士山五合目こみたけ売店",
+    "image": "https://image.xinu.ink/pic/data/339/images/gk5r6lz-1783057867133.webp",
+    "geo": [
+      35.394306,
+      138.733293
+    ],
+    "ep": 9,
+    "s": 332,
+    "mark": "小御嶽神社参道入口",
+    "folder": "富士スバルライン五合目"
+  },
+  {
+    "id": "gmckkn9",
+    "name": "富士スバルライン五合目~六合目登山道",
+    "image": "https://image.xinu.ink/pic/data/339/images/gmckkn9-1783190256743.webp",
+    "geo": [
+      35.391737,
+      138.736401
+    ],
+    "ep": 9,
+    "s": 339,
+    "mark": "通过远处栏杆可以确认是此处",
+    "folder": "富士スバルライン五合目",
+    "cn": "富士苏巴鲁线五合目～六合目登山道"
+  },
+  {
+    "id": "gme3c74",
+    "name": "富士スバルライン五合目~六合目登山道",
+    "image": "https://image.xinu.ink/pic/data/339/images/gme3c74-1783192867760.webp",
+    "geo": [
+      35.391631,
+      138.736602
+    ],
+    "ep": 9,
+    "s": 341,
+    "folder": "富士スバルライン五合目",
+    "cn": "富士苏巴鲁线五合目～六合目登山道"
+  },
+  {
+    "id": "gmehtoe",
+    "name": "富士スバルライン五合目~六合目登山道",
+    "image": "https://image.xinu.ink/pic/data/339/images/gmehtoe-1783193552387.webp",
+    "geo": [
+      35.391628,
+      138.736615
+    ],
+    "ep": 9,
+    "s": 343,
+    "folder": "富士スバルライン五合目",
+    "cn": "富士苏巴鲁线五合目～六合目登山道"
+  },
+  {
+    "id": "gmf04u5",
+    "name": "吉田ルート 泉ヶ滝",
+    "image": "https://image.xinu.ink/pic/data/339/images/gmf04u5-1783194335594.webp",
+    "geo": [
+      35.390308,
+      138.741684
+    ],
+    "ep": 9,
+    "s": 349,
+    "mark": "富士登山道（吉田口）指示牌，从此处前往六合目",
+    "folder": "富士スバルライン五合目",
+    "cn": "吉田路线 泉泷"
+  },
+  {
+    "id": "gmga719",
+    "name": "ロックシェルター",
+    "image": "https://image.xinu.ink/pic/data/339/images/gmga719-1783196660189.webp",
+    "geo": [
+      35.385835,
+      138.74584
+    ],
+    "ep": 9,
+    "s": 378,
+    "mark": "岩石庇护所，吉田口六合目附近落石防护设施",
+    "folder": "富士山 吉田口六合目"
+  },
+  {
+    "id": "gmhcjx0",
+    "name": "ロックシェルター",
+    "image": "https://image.xinu.ink/pic/data/339/images/gmhcjx0-1783198763823.webp",
+    "geo": [
+      35.385729,
+      138.745999
+    ],
+    "ep": 9,
+    "s": 381,
+    "mark": "六合目附近岩石庇护所，根据绳索和裂缝应当是第二个孔洞",
+    "folder": "富士山 吉田口六合目"
+  },
+  {
+    "id": "gmhtq8f",
+    "name": "ロックシェルター",
+    "image": "https://image.xinu.ink/pic/data/339/images/gmhtq8f-1783199196837.webp",
+    "geo": [
+      35.385695,
+      138.746422
+    ],
+    "ep": 9,
+    "s": 383,
+    "mark": "六合目附近岩石庇护所",
+    "folder": "富士山 吉田口六合目"
+  },
+  {
+    "id": "gnjxl3i",
+    "name": "富士山安全指導センター",
+    "image": "https://image.xinu.ink/pic/data/339/images/gnjxl3i-1783263073146.webp",
+    "geo": [
+      35.385492,
+      138.746952
+    ],
+    "ep": 9,
+    "s": 384,
+    "mark": "吉田口六合目，海拔2390米",
+    "folder": "富士山 吉田口六合目"
+  },
+  {
+    "id": "gnoanzt",
+    "name": "富士山安全指導センター",
+    "image": "https://image.xinu.ink/pic/data/339/images/gnoanzt-1783270408690.webp",
+    "geo": [
+      35.385373,
+      138.747113
+    ],
+    "ep": 9,
+    "s": 389,
+    "mark": "吉田口六合目碑",
+    "folder": "富士山 吉田口六合目"
+  },
+  {
+    "id": "goxmyr1",
+    "name": "五合五勺 砂ふるい 碑",
+    "image": "https://image.xinu.ink/pic/data/339/images/goxmyr1-1783346600873.webp",
+    "geo": [
+      35.385221,
+      138.747827
+    ],
+    "ep": 9,
+    "s": 397,
+    "mark": "吉田口六合目附近空地，山中湖方向，此处五合五勺是传统吉田路线的记法",
+    "folder": "富士山 吉田口六合目"
+  },
+  {
+    "id": "goxvmot",
+    "name": "五合五勺 砂ふるい 碑",
+    "image": "https://image.xinu.ink/pic/data/339/images/goxvmot-1783346980552.webp",
+    "geo": [
+      35.385224,
+      138.747889
+    ],
+    "ep": 9,
+    "s": 401,
+    "mark": "吉田口六合目附近空地",
+    "folder": "富士山 吉田口六合目"
+  },
+  {
+    "id": "goy15t7",
+    "name": "五合五勺 砂ふるい 碑",
+    "image": "https://image.xinu.ink/pic/data/339/images/goy15t7-1783347223734.webp",
+    "geo": [
+      35.385237,
+      138.747864
+    ],
+    "ep": 9,
+    "s": 423,
+    "mark": "吉田口六合目附近空地，往富士山安全指導センター方向",
+    "folder": "富士山 吉田口六合目"
+  },
+  {
+    "id": "goy7qhy",
+    "name": "五合五勺 砂ふるい 碑",
+    "image": "https://image.xinu.ink/pic/data/339/images/goy7qhy-1783347729673.webp",
+    "geo": [
+      35.385216,
+      138.747706
+    ],
+    "ep": 9,
+    "s": 426,
+    "mark": "吉田口六合目岔路指示牌，此处与传统吉田路线汇合",
+    "folder": "富士山 吉田口六合目"
+  },
+  {
+    "id": "goykkfs",
+    "name": "五合五勺 砂ふるい 碑",
+    "image": "https://image.xinu.ink/pic/data/339/images/goykkfs-1783348161167.webp",
+    "geo": [
+      35.385304,
+      138.747631
+    ],
+    "ep": 9,
+    "s": 432,
+    "mark": "吉田ルート案内板前",
+    "folder": "富士山 吉田口六合目"
+  },
+  {
+    "id": "goyugnp",
+    "name": "五合五勺 砂ふるい 碑",
+    "image": "https://image.xinu.ink/pic/data/339/images/goyugnp-1783348590416.webp",
+    "geo": [
+      35.385218,
+      138.747612
+    ],
+    "ep": 9,
+    "s": 438,
+    "mark": "吉田ルート案内板前",
+    "folder": "富士山 吉田口六合目"
+  },
+  {
+    "id": "goyzcio",
+    "name": "吉田口六合目 付近の登山道",
+    "image": "https://image.xinu.ink/pic/data/339/images/goyzcio-1783348818548.webp",
+    "geo": [
+      35.384908,
+      138.747179
+    ],
+    "ep": 9,
+    "s": 449,
+    "folder": "富士山 吉田口六合目"
+  },
+  {
+    "id": "goz7ch2",
+    "name": "吉田口六合目 付近の登山道",
+    "image": "https://image.xinu.ink/pic/data/339/images/goz7ch2-1783349190902.webp",
+    "geo": [
+      35.384588,
+      138.746989
+    ],
+    "ep": 9,
+    "s": 453,
+    "folder": "富士山 吉田口六合目"
+  },
+  {
+    "id": "gozbeui",
+    "name": "吉田口六合目 付近の登山道",
+    "image": "https://image.xinu.ink/pic/data/339/images/gozbeui-1783349391832.webp",
+    "geo": [
+      35.38452,
+      138.746943
+    ],
+    "ep": 9,
+    "s": 454,
+    "folder": "富士山 吉田口六合目"
+  },
+  {
+    "id": "goziub6",
+    "name": "吉田口七合目 付近の登山道",
+    "image": "https://image.xinu.ink/pic/data/339/images/goziub6-1783349734281.webp",
+    "geo": [
+      35.37963,
+      138.744309
+    ],
+    "ep": 9,
+    "s": 466,
+    "folder": "富士山 吉田口七合目"
+  },
+  {
+    "id": "goztzjx",
+    "name": "花小屋",
+    "image": "https://image.xinu.ink/pic/data/339/images/goztzjx-1783350252576.webp",
+    "geo": [
+      35.379163,
+      138.744326
+    ],
+    "ep": 9,
+    "s": 468,
+    "mark": "吉田口七合目的第一个登山小屋，海拔2700米",
+    "folder": "富士山 吉田口七合目"
+  },
+  {
+    "id": "gp0221i",
+    "name": "花小屋",
+    "image": "https://image.xinu.ink/pic/data/339/images/gp0221i-1783350624920.webp",
+    "geo": [
+      35.379028,
+      138.744445
+    ],
+    "ep": 9,
+    "s": 471,
+    "folder": "富士山 吉田口七合目"
+  },
+  {
+    "id": "gp06xcn",
+    "name": "花小屋",
+    "image": "https://image.xinu.ink/pic/data/339/images/gp06xcn-1783350850787.webp",
+    "geo": [
+      35.379045,
+      138.744455
+    ],
+    "ep": 9,
+    "s": 472,
+    "folder": "富士山 吉田口七合目"
+  },
+  {
+    "id": "gp0brhr",
+    "name": "花小屋",
+    "image": "https://image.xinu.ink/pic/data/339/images/gp0brhr-1783351076745.webp",
+    "geo": [
+      35.379032,
+      138.744467
+    ],
+    "ep": 9,
+    "s": 475,
+    "folder": "富士山 吉田口七合目"
+  },
+  {
+    "id": "e0223642",
+    "name": "花小屋 付近の登山道",
+    "image": "https://image.xinu.ink/pic/data/339/images/e0223642_1783372614653.jpg",
+    "geo": [
+      35.378791,
+      138.74469
+    ],
+    "ep": 9,
+    "s": 481,
+    "folder": "富士山 吉田口七合目"
+  },
+  {
+    "id": "ad1fe0b2",
+    "name": "日の出館",
+    "image": "https://image.xinu.ink/pic/data/339/images/ad1fe0b2_1783372732899.jpg",
+    "geo": [
+      35.378695,
+      138.744382
+    ],
+    "ep": 9,
+    "s": 482,
+    "folder": "富士山 吉田口七合目",
+    "cn": "七合目 日出館"
+  },
+  {
+    "id": "0f590732",
+    "name": "日の出館",
+    "image": "https://image.xinu.ink/pic/data/339/images/0f590732_1783372820276.jpg",
+    "geo": [
+      35.378739,
+      138.744343
+    ],
+    "ep": 9,
+    "s": 483,
+    "folder": "富士山 吉田口七合目",
+    "cn": "七合目 日出館"
+  },
+  {
+    "id": "f144757e",
+    "name": "日の出館",
+    "image": "https://image.xinu.ink/pic/data/339/images/f144757e_1783372947861.jpg",
+    "geo": [
+      35.378793,
+      138.744282
+    ],
+    "ep": 9,
+    "s": 485,
+    "folder": "富士山 吉田口七合目",
+    "cn": "七合目 日出館"
+  },
+  {
+    "id": "2d49d5de",
+    "name": "日の出館",
+    "image": "https://image.xinu.ink/pic/data/339/images/2d49d5de_1783372925082.jpg",
+    "geo": [
+      35.378712,
+      138.744362
+    ],
+    "ep": 9,
+    "s": 488,
+    "folder": "富士山 吉田口七合目",
+    "cn": "七合目 日出館"
+  },
+  {
+    "id": "49d8796c",
+    "name": "七合目 トモエ館",
+    "image": "https://image.xinu.ink/pic/data/339/images/49d8796c_1783373018094.jpg",
+    "geo": [
+      35.37835,
+      138.744105
+    ],
+    "ep": 9,
+    "s": 490,
+    "folder": "富士山 吉田口七合目",
+    "cn": "七合目Tomoe館"
+  },
+  {
+    "id": "0d15db31",
+    "name": "七合目 トモエ館",
+    "image": "https://image.xinu.ink/pic/data/339/images/0d15db31_1783373043915.jpg",
+    "geo": [
+      35.378358,
+      138.744098
+    ],
+    "ep": 9,
+    "s": 497,
+    "folder": "富士山 吉田口七合目",
+    "cn": "七合目Tomoe館"
+  },
+  {
+    "id": "1d6fbd0b",
+    "name": "鎌岩館 付近の登山道",
+    "image": "https://image.xinu.ink/pic/data/339/images/1d6fbd0b_1783373095590.jpg",
+    "geo": [
+      35.377758,
+      138.743796
+    ],
+    "ep": 9,
+    "s": 501,
+    "mark": "小枫学姐登山杖的杖尖套在此掉落",
+    "folder": "富士山 吉田口七合目"
+  },
+  {
+    "id": "89a57a03",
+    "name": "鎌岩館 付近の登山道",
+    "image": "https://image.xinu.ink/pic/data/339/images/89a57a03_1783373171663.jpg",
+    "geo": [
+      35.377766,
+      138.743803
+    ],
+    "ep": 9,
+    "s": 518,
+    "folder": "富士山 吉田口七合目"
+  },
+  {
+    "id": "2ccac1f7",
+    "name": "鳥居荘 付近の登山道",
+    "image": "https://image.xinu.ink/pic/data/339/images/2ccac1f7_1783373192393.jpg",
+    "geo": [
+      35.376901,
+      138.742845
+    ],
+    "ep": 9,
+    "s": 525,
+    "folder": "富士山 吉田口七合目"
+  },
+  {
+    "id": "03ac510c",
+    "name": "鳥居荘 付近の登山道",
+    "image": "https://image.xinu.ink/pic/data/339/images/03ac510c_1783373216612.jpg",
+    "geo": [
+      35.37686,
+      138.742875
+    ],
+    "ep": 9,
+    "s": 532,
+    "folder": "富士山 吉田口七合目"
+  },
+  {
+    "id": "d036e3e2",
+    "name": "鳥居荘",
+    "image": "https://image.xinu.ink/pic/data/339/images/d036e3e2_1783373240292.jpg",
+    "geo": [
+      35.376595,
+      138.74286
+    ],
+    "ep": 9,
+    "s": 533,
+    "folder": "富士山 吉田口七合目"
+  },
+  {
+    "id": "4c4c877d",
+    "name": "鳥居荘~東洋館登山道",
+    "image": "https://image.xinu.ink/pic/data/339/images/4c4c877d_1783373252593.jpg",
+    "geo": [
+      35.37634,
+      138.742813
+    ],
+    "ep": 9,
+    "s": 536,
+    "folder": "富士山 吉田口七合目"
+  },
+  {
+    "id": "d71d5a17",
+    "name": "鳥居荘~東洋館登山道",
+    "image": "https://image.xinu.ink/pic/data/339/images/d71d5a17_1783373272005.jpg",
+    "geo": [
+      35.376317,
+      138.742802
+    ],
+    "ep": 9,
+    "s": 565,
+    "mark": "aoi开始有点恍惚了",
+    "folder": "富士山 吉田口七合目"
+  },
+  {
+    "id": "f88ade37",
+    "name": "鳥居荘~東洋館登山道",
+    "image": "https://image.xinu.ink/pic/data/339/images/f88ade37_1783373295598.jpg",
+    "geo": [
+      35.376328,
+      138.742817
+    ],
+    "ep": 9,
+    "s": 586,
+    "folder": "富士山 吉田口七合目"
+  },
+  {
+    "id": "6c09d374",
+    "name": "東洋館",
+    "image": "https://image.xinu.ink/pic/data/339/images/6c09d374_1783373310780.jpg",
+    "geo": [
+      35.376153,
+      138.742783
+    ],
+    "ep": 9,
+    "s": 609,
+    "mark": "吉田口七合目的最后一个登山小屋",
+    "folder": "富士山 吉田口七合目"
+  },
+  {
+    "id": "d206e367",
+    "name": "東洋館",
+    "image": "https://image.xinu.ink/pic/data/339/images/d206e367_1783373325256.jpg",
+    "geo": [
+      35.375923,
+      138.742953
+    ],
+    "ep": 9,
+    "s": 615,
+    "folder": "富士山 吉田口七合目"
+  },
+  {
+    "id": "4e54ddaf",
+    "name": "東洋館",
+    "image": "https://image.xinu.ink/pic/data/339/images/4e54ddaf_1783373371080.jpg",
+    "geo": [
+      35.375836,
+      138.743
+    ],
+    "ep": 9,
+    "s": 623,
+    "folder": "富士山 吉田口七合目"
+  },
+  {
+    "id": "gpdm4zd",
+    "name": "東洋館",
+    "image": "https://image.xinu.ink/pic/data/339/images/gpdm4zd_1783373397458.jpg",
+    "geo": [
+      35.375854,
+      138.74303
+    ],
+    "ep": 9,
+    "s": 627,
+    "folder": "富士山 吉田口七合目"
+  },
+  {
+    "id": "4561b4dd",
+    "name": "東洋館~太子館登山道",
+    "image": "https://image.xinu.ink/pic/data/339/images/4561b4dd_1783373437549.jpg",
+    "geo": [
+      35.37516,
+      138.742931
+    ],
+    "ep": 9,
+    "s": 668,
+    "folder": "富士山 吉田口七合目"
+  },
+  {
+    "id": "ffead65a",
+    "name": "東洋館~太子館登山道",
+    "image": "https://image.xinu.ink/pic/data/339/images/ffead65a_1783373451672.jpg",
+    "geo": [
+      35.374388,
+      138.74205
+    ],
+    "ep": 9,
+    "s": 692,
+    "folder": "富士山 吉田口七合目"
+  },
+  {
+    "id": "567086d7",
+    "name": "東洋館~太子館登山道",
+    "image": "https://image.xinu.ink/pic/data/339/images/567086d7_1783403170061.jpg",
+    "geo": [
+      35.374361,
+      138.742028
+    ],
+    "ep": 10,
+    "s": 156,
+    "folder": "富士山 吉田口七合目"
+  },
+  {
+    "id": "e7ac0261",
+    "name": "太子館",
+    "image": "https://image.xinu.ink/pic/data/339/images/e7ac0261_1783403192926.jpg",
+    "geo": [
+      35.374139,
+      138.741444
+    ],
+    "ep": 10,
+    "s": 242,
+    "mark": "吉田口八合目第一个登山小屋，海拔3100米，葵因高反和小枫学姐在此提前入住。26年价格为一晚17,000~19,000日元，床位紧俏。",
+    "folder": "富士山 吉田口八合目",
+    "cn": "八合目 太子館"
+  },
+  {
+    "id": "0c1aa922",
+    "name": "本八合目 富士山ホテル",
+    "image": "https://image.xinu.ink/pic/data/339/images/0c1aa922_1783403214124.jpg",
+    "geo": [
+      35.369361,
+      138.738972
+    ],
+    "ep": 10,
+    "s": 567,
+    "mark": "吉田·须走口本八合目所在地的登山小屋，海拔3400米，日向和心夏在此入住。",
+    "folder": "富士山 吉田·须走口本八合目"
+  },
+  {
+    "id": "a4333816",
+    "name": "迎久須志神社",
+    "image": "https://image.xinu.ink/pic/data/339/images/a4333816_1783403227622.jpg",
+    "geo": [
+      35.367011,
+      138.735101
+    ],
+    "ep": 10,
+    "s": 687,
+    "mark": "吉田·须走口九合目所在地，海拔3600米（官方指南为3580米）。",
+    "folder": "富士山 吉田·须走口九合目"
+  },
+  {
+    "id": "1763dc4a",
+    "name": "久須志神社（富士山本宮淺間大社 東北奥宮）",
+    "image": "https://image.xinu.ink/pic/data/339/images/1763dc4a_1783403271322.jpg",
+    "geo": [
+      35.36575,
+      138.732944
+    ],
+    "ep": 11,
+    "s": 174,
+    "mark": "吉田·须走口山顶，海拔3710米。",
+    "folder": "富士山顶"
+  },
+  {
+    "id": "4041ff7b",
+    "name": "清流園 入口",
+    "image": "",
+    "geo": [
+      35.86743,
+      139.255979
+    ],
+    "ep": 13,
+    "mark": "2期13話",
+    "folder": "ヤマノススメ",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "9d91f35e",
+    "name": "黒指バス停付近",
+    "image": "",
+    "geo": [
+      35.857214,
+      139.206629
+    ],
+    "ep": 13,
+    "mark": "2期13話",
+    "folder": "ヤマノススメ",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "e12586bf",
+    "name": "久林バス停",
+    "image": "",
+    "geo": [
+      35.850866,
+      139.201831
+    ],
+    "ep": 13,
+    "mark": "2期13話",
+    "folder": "ヤマノススメ",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "11r9u9v",
+    "name": "霧ヶ峰車山肩駐車場",
+    "image": "https://image.xinu.ink/pic/data/339/images/11r9u9v-1749293774135.jpg",
+    "geo": [
+      36.103988,
+      138.188122
+    ],
+    "ep": 14,
+    "s": 323,
+    "mark": "ep.14 葵和母亲、日向和父亲驱车一起去雾峰（约会还要父母带bushi",
+    "folder": "霧ヶ峰",
+    "cn": "雾峰车山肩停车场"
+  },
+  {
+    "id": "0721e4cc",
+    "name": "白樺湖",
+    "image": "https://image.xinu.ink/pic/data/339/images/0721e4cc_1754323913692.jpg",
+    "geo": [
+      36.103235,
+      138.22997
+    ],
+    "ep": 14,
+    "mark": "2期14話",
+    "folder": "霧ヶ峰",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "9a31f6b7",
+    "name": "霧鐘塔",
+    "image": "https://image.xinu.ink/pic/data/339/images/9a31f6b7_1754323970105.jpg",
+    "geo": [
+      36.094999,
+      138.163462
+    ],
+    "ep": 14,
+    "mark": "2期14話",
+    "folder": "霧ヶ峰",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "680663f7",
+    "name": "奥霧小屋",
+    "image": "https://image.xinu.ink/pic/data/339/images/680663f7_1754323996236.jpg",
+    "geo": [
+      36.121358,
+      138.171465
+    ],
+    "ep": 14,
+    "mark": "2期14話",
+    "folder": "霧ヶ峰",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "bdd64175",
+    "name": "物見岩",
+    "image": "https://image.xinu.ink/pic/data/339/images/bdd64175_1754324011034.jpg",
+    "geo": [
+      36.117887,
+      138.183814
+    ],
+    "ep": 14,
+    "mark": "2期14話",
+    "folder": "霧ヶ峰",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "afecad09",
+    "name": "木道",
+    "image": "https://image.xinu.ink/pic/data/339/images/afecad09_1754324068938.jpg",
+    "geo": [
+      36.108271,
+      138.195321
+    ],
+    "ep": 14,
+    "mark": "2期14話",
+    "folder": "霧ヶ峰",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "36768083",
+    "name": "車山山頂",
+    "image": "https://image.xinu.ink/pic/data/339/images/36768083_1754324052898.jpg",
+    "geo": [
+      36.10317,
+      138.196871
+    ],
+    "ep": 14,
+    "mark": "2期14話",
+    "folder": "霧ヶ峰",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "7if2fw8",
+    "name": "西武池袋線 東飯能2号踏切",
+    "image": "https://image.xinu.ink/pic/data/339/images/7if2fw8-1763361680601.jpg",
+    "geo": [
+      35.855705,
+      139.324576
+    ],
+    "ep": 15,
+    "s": 410,
+    "origin": "谷歌街景",
+    "originURL": "https://www.google.com/maps/@35.8556281,139.3245225,3a,75y,211.91h,87.22t/data=!3m10!1e1!3m8!1s7tc99kB-PTXgzyIYpsINNw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.7768229905424135%26panoid%3D7tc99kB-PTXgzyIYpsINNw%26yaw%3D211.90735302025513!7i16384!8i8192!9m2!1b1!2i28?entry=ttu&g_ep=EgoyMDI1MTExMi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": "b3c87abd",
+    "name": "西口",
+    "image": "https://image.xinu.ink/pic/data/339/images/b3c87abd_1754489929445.jpg",
+    "geo": [
+      36.09131,
+      139.362645
+    ],
+    "ep": 17,
+    "mark": "2期17話",
+    "folder": "武蔵丘​陵​森林​公園",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "3fookll",
+    "name": "西口広場",
+    "image": "https://image.xinu.ink/pic/data/339/images/3fookll_1754489921013.jpg",
+    "geo": [
+      36.091288,
+      139.362628
+    ],
+    "ep": 17,
+    "folder": "武蔵丘​陵​森林​公園"
+  },
+  {
+    "id": "851c20d6",
+    "name": "案内表示",
+    "image": "https://image.xinu.ink/pic/data/339/images/851c20d6_1754489078565.jpg",
+    "geo": [
+      36.091475,
+      139.363064
+    ],
+    "ep": 17,
+    "mark": "2期17話",
+    "folder": "武蔵丘​陵​森林​公園",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "3b4619d2",
+    "name": "げんきもりもり号",
+    "image": "https://image.xinu.ink/pic/data/339/images/3b4619d2_1754489211885.jpg",
+    "geo": [
+      36.092003,
+      139.364154
+    ],
+    "ep": 17,
+    "mark": "2期17話",
+    "folder": "武蔵丘​陵​森林​公園",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "7cef0198",
+    "name": "ピラミッドロープ",
+    "image": "https://image.xinu.ink/pic/data/339/images/7cef0198_1754489230557.jpg",
+    "geo": [
+      36.092521,
+      139.365486
+    ],
+    "ep": 17,
+    "mark": "2期17話",
+    "folder": "武蔵丘​陵​森林​公園",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "bd1fd28b",
+    "name": "斜面ジャンプだい",
+    "image": "https://image.xinu.ink/pic/data/339/images/bd1fd28b_1754489253125.jpg",
+    "geo": [
+      36.092819,
+      139.364307
+    ],
+    "ep": 17,
+    "mark": "2期17話",
+    "folder": "武蔵丘​陵​森林​公園",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "c4d39e6b",
+    "name": "トイレ",
+    "image": "https://image.xinu.ink/pic/data/339/images/c4d39e6b_1754489268309.jpg",
+    "geo": [
+      36.092911,
+      139.364696
+    ],
+    "ep": 17,
+    "mark": "2期17話",
+    "folder": "武蔵丘​陵​森林​公園",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "ed27ea52",
+    "name": "ぶらさがりシーソー",
+    "image": "https://image.xinu.ink/pic/data/339/images/ed27ea52_1754489301413.jpg",
+    "geo": [
+      36.092989,
+      139.364363
+    ],
+    "ep": 17,
+    "mark": "2期17話",
+    "folder": "武蔵丘​陵​森林​公園",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "49181142",
+    "name": "ブランコ滑車",
+    "image": "",
+    "geo": [
+      36.093054,
+      139.363922
+    ],
+    "ep": 17,
+    "mark": "2期17話",
+    "folder": "武蔵丘​陵​森林​公園",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "474d51c5",
+    "name": "ローラー滑り台",
+    "image": "https://image.xinu.ink/pic/data/339/images/474d51c5_1754489334237.jpg",
+    "geo": [
+      36.09206,
+      139.363029
+    ],
+    "ep": 17,
+    "mark": "2期17話",
+    "folder": "武蔵丘​陵​森林​公園",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "ab61da20",
+    "name": "古鎌倉街道",
+    "image": "https://image.xinu.ink/pic/data/339/images/ab61da20_1754489360389.jpg",
+    "geo": [
+      36.089641,
+      139.36661
+    ],
+    "ep": 17,
+    "mark": "2期17話",
+    "folder": "武蔵丘​陵​森林​公園",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "2cf30833",
+    "name": "渓流広場",
+    "image": "https://image.xinu.ink/pic/data/339/images/2cf30833_1754489387589.jpg",
+    "geo": [
+      36.089511,
+      139.369935
+    ],
+    "ep": 17,
+    "mark": "2期17話",
+    "folder": "武蔵丘​陵​森林​公園",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "2ca5c1c9",
+    "name": "記念広場の何か",
+    "image": "https://image.xinu.ink/pic/data/339/images/2ca5c1c9_1754489414174.jpg",
+    "geo": [
+      36.087717,
+      139.369195
+    ],
+    "ep": 17,
+    "mark": "2期17話",
+    "folder": "武蔵丘​陵​森林​公園",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "027930a5",
+    "name": "あざみくぼ橋",
+    "image": "https://image.xinu.ink/pic/data/339/images/027930a5_1754489607934.jpg",
+    "geo": [
+      36.078808,
+      139.367795
+    ],
+    "ep": 17,
+    "mark": "2期17話",
+    "folder": "武蔵丘​陵​森林​公園",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "1a6ab35d",
+    "name": "ぽんぽこマウンテン",
+    "image": "https://image.xinu.ink/pic/data/339/images/1a6ab35d_1754489997461.jpg",
+    "geo": [
+      36.077984,
+      139.369973
+    ],
+    "ep": 17,
+    "mark": "2期17話",
+    "folder": "武蔵丘​陵​森林​公園",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "63df84a7",
+    "name": "展望レストラン",
+    "image": "https://image.xinu.ink/pic/data/339/images/63df84a7_1754489473389.jpg",
+    "geo": [
+      36.075963,
+      139.363799
+    ],
+    "ep": 17,
+    "mark": "2期17話",
+    "folder": "武蔵丘​陵​森林​公園",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "6bdf6698",
+    "name": "南口広場",
+    "image": "https://image.xinu.ink/pic/data/339/images/6bdf6698_1754489512661.jpg",
+    "geo": [
+      36.069071,
+      139.36382
+    ],
+    "ep": 17,
+    "mark": "2期17話",
+    "folder": "武蔵丘​陵​森林​公園",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "3fowq5j",
+    "name": "南口広場 喷泉",
+    "image": "https://image.xinu.ink/pic/data/339/images/3fowq5j_1754489563845.jpg",
+    "geo": [
+      36.069036,
+      139.363802
+    ],
+    "ep": 17,
+    "folder": "武蔵丘​陵​森林​公園"
+  },
+  {
+    "id": "14d8smv",
+    "name": "飯能市中央公園 ",
+    "image": "https://image.xinu.ink/pic/data/339/images/14d8smv-1749451417878.jpg",
+    "geo": [
+      35.85926,
+      139.310846
+    ],
+    "ep": 20,
+    "s": 301,
+    "mark": "心夏的饭能市大冒险！第一个去的地方是饭能市中央公园。",
+    "cn": "饭能市中央公园"
+  },
+  {
+    "id": "14dzeii",
+    "name": "飯能市立博物館西側",
+    "image": "https://image.xinu.ink/pic/data/339/images/14dzeii-1749452619476.jpg",
+    "geo": [
+      35.857554,
+      139.310561
+    ],
+    "ep": 20,
+    "s": 329,
+    "mark": "心夏的饭能大冒险！第二个去得地方是諏訪八幡神社。这是在神社西边博物馆和市民会馆中间的小路上。"
+  },
+  {
+    "id": "14ebxeg",
+    "name": "諏訪八幡神社",
+    "image": "https://image.xinu.ink/pic/data/339/images/14ebxeg-1749453157023.jpg",
+    "geo": [
+      35.85712,
+      139.311257
+    ],
+    "ep": 20,
+    "s": 332,
+    "mark": "心夏的饭能大冒险！第二个去的地方是饭能市诹访八幡神社"
+  },
+  {
+    "id": "14ewh55",
+    "name": "矢久橋東南側",
+    "image": "https://image.xinu.ink/pic/data/339/images/14ewh55-1749454708526.jpg",
+    "geo": [
+      35.847835,
+      139.315873
+    ],
+    "ep": 20,
+    "s": 411,
+    "mark": "心夏的饭能大冒险！kokona顺着入间川向下游走，遇见野营一行人之后的场景"
+  },
+  {
+    "id": "57ecd0cd",
+    "name": "市民会館",
+    "image": "",
+    "geo": [
+      35.858083,
+      139.310278
+    ],
+    "ep": 20,
+    "mark": "2期20話",
+    "folder": "ヤマノススメ",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "e53d268f",
+    "name": "恵比寿神社",
+    "image": "",
+    "geo": [
+      35.857457,
+      139.31119
+    ],
+    "ep": 20,
+    "mark": "2期20話",
+    "folder": "ヤマノススメ",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "3193bf9d",
+    "name": "飯能南高校（撮影地点）",
+    "image": "",
+    "geo": [
+      35.835133,
+      139.328726
+    ],
+    "ep": 20,
+    "mark": "2期20話",
+    "folder": "ヤマノススメ",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "e031b07c",
+    "name": "八高線高架",
+    "image": "",
+    "geo": [
+      35.836461,
+      139.333224
+    ],
+    "ep": 20,
+    "mark": "2期20話",
+    "folder": "ヤマノススメ",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "6ac7744d",
+    "name": "流れ橋（通行不能）",
+    "image": "",
+    "geo": [
+      35.834054,
+      139.339535
+    ],
+    "ep": 20,
+    "mark": "2期20話",
+    "folder": "ヤマノススメ",
+    "origin": "ヤマノススメ"
+  },
+  {
+    "id": "d0d47b9d",
+    "name": "阿須運動公園",
+    "image": "",
+    "geo": [
+      35.832795,
+      139.343323
+    ],
+    "ep": 20,
+    "mark": "2期20話",
+    "folder": "ヤマノススメ",
+    "origin": "ヤマノススメ"
   }
 ]

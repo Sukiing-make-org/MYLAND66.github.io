@@ -778,5 +778,161 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1yOgV1TSTQIyjy_0rwnB7eOfbjKI&ll=35.705382%2C139.616253&z=17"
+  },
+  {
+    "id": "koc6zdyu2",
+    "name": "オーケーストア荻窪店付近",
+    "image": "https://image.xinu.ink/pic/data/205/images/koc6zdyu2_1716474120527.jpg",
+    "geo": [
+      35.700751,
+      139.616862
+    ],
+    "ep": 1,
+    "s": 1035,
+    "mark": "１話"
+  },
+  {
+    "id": "koc9tnl7u",
+    "name": "荻窪駅西口",
+    "image": "https://image.xinu.ink/pic/data/205/images/koc9tnl7u_1716474123386.jpg",
+    "geo": [
+      35.704692,
+      139.619121
+    ],
+    "ep": 2,
+    "s": 1092,
+    "mark": "２話、３話"
+  },
+  {
+    "id": "koc6zdygb",
+    "name": "蚕糸の森公園",
+    "image": "https://image.xinu.ink/pic/data/205/images/koc6zdygb_1716474124869.jpg",
+    "geo": [
+      35.696471,
+      139.656173
+    ],
+    "ep": 4,
+    "s": 982,
+    "mark": "４話"
+  },
+  {
+    "id": "koc6zdywv",
+    "name": "杉並区立中央図書館",
+    "image": "https://image.xinu.ink/pic/data/205/images/koc6zdywv_1716510355257.jpg",
+    "geo": [
+      35.701936,
+      139.627073
+    ],
+    "ep": 9,
+    "s": 254,
+    "mark": "９話"
+  },
+  {
+    "id": "koc6zdyhc",
+    "name": "池袋駅東口",
+    "image": "https://image.xinu.ink/pic/data/205/images/koc6zdyhc_1716510359426.jpg",
+    "geo": [
+      35.730458,
+      139.712488
+    ],
+    "ep": 13,
+    "s": 969,
+    "mark": "13話、22話"
+  },
+  {
+    "id": "koc6zdys8",
+    "name": "ファミリーマート新宿御苑駅前店付近",
+    "image": "https://image.xinu.ink/pic/data/205/images/koc6zdys8_1716510360424.jpg",
+    "geo": [
+      35.688453,
+      139.711829
+    ],
+    "ep": 14,
+    "s": 669,
+    "mark": "14話"
+  },
+  {
+    "id": "koc6zdylo",
+    "name": "東京タワー",
+    "image": "https://image.xinu.ink/pic/data/205/images/koc6zdylo_1716510360668.jpg",
+    "geo": [
+      35.658977,
+      139.745839
+    ],
+    "ep": 15,
+    "s": 1352,
+    "mark": "15話ＥＤ"
+  },
+  {
+    "id": "koc6zdz0x",
+    "name": "池袋駅東口",
+    "image": "https://image.xinu.ink/pic/data/205/images/koc6zdz0x_1716510463252.jpg",
+    "geo": [
+      35.729581,
+      139.712309
+    ],
+    "ep": 17,
+    "s": 960,
+    "mark": "17話"
+  },
+  {
+    "id": "koc6zdyqo",
+    "name": "歩道橋",
+    "image": "https://image.xinu.ink/pic/data/205/images/koc6zdyqo_1716510464558.jpg",
+    "geo": [
+      35.705437,
+      139.619749
+    ],
+    "ep": 21,
+    "s": 955,
+    "mark": "21話"
+  },
+  {
+    "id": "koc6zdyzh",
+    "name": "タウンセブン付近",
+    "image": "https://image.xinu.ink/pic/data/205/images/koc6zdyzh_1716510464928.jpg",
+    "geo": [
+      35.70531,
+      139.619417
+    ],
+    "ep": 21,
+    "s": 961,
+    "mark": "21話"
+  },
+  {
+    "id": "koc6zdyrq",
+    "name": "タウンセブン付近",
+    "image": "https://image.xinu.ink/pic/data/205/images/koc6zdyrq_1716510465130.jpg",
+    "geo": [
+      35.705451,
+      139.619599
+    ],
+    "ep": 21,
+    "s": 964,
+    "mark": "21話"
+  },
+  {
+    "id": "koc6zdybx",
+    "name": "池袋駅東口",
+    "image": "https://image.xinu.ink/pic/data/205/images/koc6zdybx_1716510465877.jpg",
+    "geo": [
+      35.730432,
+      139.712681
+    ],
+    "ep": 22,
+    "s": 763,
+    "mark": "22話"
+  },
+  {
+    "id": "koc6zdyp3",
+    "name": "池袋駅東口",
+    "image": "https://image.xinu.ink/pic/data/205/images/koc6zdyp3_1716510466049.jpg",
+    "geo": [
+      35.730297,
+      139.712614
+    ],
+    "ep": 22,
+    "s": 791,
+    "mark": "22話"
   }
 ]

@@ -569,5 +569,27 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1xiL0gz7DztzX3KeJgo01p88aA7g&ll=33.643983%2C130.705719&z=17"
+  },
+  {
+    "id": "51i535v22",
+    "name": "西ノ浜１",
+    "image": "",
+    "geo": [
+      33.454852,
+      129.974098
+    ],
+    "mark": "勇利が夜、走っていたのは、前後のカットからもこの辺りの海岸沿いの舗装された通路と思われる。"
+  },
+  {
+    "id": "8967dqsto",
+    "name": "Park Guell",
+    "image": "https://image.xinu.ink/pic/data/470/images/8967dqsto-1681430954523.jpg",
+    "geo": [
+      41.413731,
+      2.1528
+    ],
+    "ep": 10,
+    "folder": "海外",
+    "cn": "桂尔公园"
   }
 ]

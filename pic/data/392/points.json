@@ -640,5 +640,36 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1Q3ps6sDCCx6JMANGj2RZIfK7OWhvhvA&ll=35.638092%2C139.70631&z=17"
+  },
+  {
+    "id": "47bc5d5c",
+    "name": "小田急線沿いの道路",
+    "image": "https://image.xinu.ink/pic/data/392/images/47bc5d5c_1716733032351.jpg",
+    "geo": [
+      35.600927,
+      139.503559
+    ],
+    "s": 1321,
+    "cn": "小田急线旁边的坡道"
+  },
+  {
+    "id": "krneo03i4",
+    "name": "おおたかの森病院前",
+    "image": "https://image.xinu.ink/pic/data/392/images/krneo03i4_1716732269006.jpg",
+    "geo": [
+      35.867776,
+      139.930133
+    ],
+    "s": 3453
+  },
+  {
+    "id": "234ec60f",
+    "name": "交差点",
+    "image": "https://image.xinu.ink/pic/data/392/images/234ec60f_1716732829829.jpg",
+    "geo": [
+      35.642332,
+      139.710054
+    ],
+    "s": 4404
   }
 ]

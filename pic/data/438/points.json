@@ -248,5 +248,53 @@
       35.4458,
       139.6473
     ]
+  },
+  {
+    "id": "55erwfuxm",
+    "name": "象の鼻パーク",
+    "image": "https://image.xinu.ink/pic/data/438/images/9.jpg",
+    "geo": [
+      35.448875,
+      139.643577
+    ],
+    "s": 1690,
+    "mark": "文豪野犬DEAD APPLE 剧场版画面？待转移",
+    "cn": "象鼻子公园"
+  },
+  {
+    "id": "55eswg0cj",
+    "name": "象の鼻パーク",
+    "image": "https://image.xinu.ink/pic/data/438/images/4.jpg",
+    "geo": [
+      35.448452,
+      139.643839
+    ],
+    "ep": 4,
+    "s": 1307,
+    "cn": "象鼻子公园"
+  },
+  {
+    "id": "55etuvr9k",
+    "name": "象の鼻パーク",
+    "image": "https://image.xinu.ink/pic/data/438/images/3.jpg",
+    "geo": [
+      35.448463,
+      139.644117
+    ],
+    "ep": 4,
+    "s": 1384,
+    "cn": "象鼻子公园"
+  },
+  {
+    "id": "iggw2owsl",
+    "name": "山下公園",
+    "image": "https://image.xinu.ink/pic/data/438/images/iggw2owsl-1710213814467.jpg",
+    "geo": [
+      35.447763,
+      139.646611
+    ],
+    "ep": 5,
+    "s": 528,
+    "cn": "山下公园"
   }
 ]

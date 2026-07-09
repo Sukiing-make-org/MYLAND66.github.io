@@ -65,5 +65,26 @@
       48.8618,
       2.3352
     ]
+  },
+  {
+    "id": "ozpmm8php",
+    "name": "Arc de Triomphe",
+    "image": "https://image.xinu.ink/pic/data/305/images/ozpmm8php-1728648476789.jpg",
+    "geo": [
+      48.873628,
+      2.295242
+    ],
+    "cn": "凯旋门"
+  },
+  {
+    "id": "ozpt3m9q8",
+    "name": "Jardin du Luxembourg",
+    "image": "https://image.xinu.ink/pic/data/305/images/ozpt3m9q8-1728648857826.jpg",
+    "geo": [
+      48.84701,
+      2.333383
+    ],
+    "mark": "要说明的是,这里其实并没有种植樱花树, 这里cg显示的树是两种颜色, 刚好秋天的时候去的, 这条道路上有两种树,绿色和黄色明确分界了,可能以此为灵感画出来的cg",
+    "cn": "卢森堡公园"
   }
 ]

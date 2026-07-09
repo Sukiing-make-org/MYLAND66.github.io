@@ -452,5 +452,186 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=18VFHDJKlUfHjaKP53d-X5vTbenU&ll=42.471129%2C140.873475&z=17"
+  },
+  {
+    "id": "51i53b6d5",
+    "name": "平岡公園",
+    "image": "",
+    "geo": [
+      43.003545,
+      141.461224
+    ],
+    "mark": "橋",
+    "folder": "1期・2期"
+  },
+  {
+    "id": "51i53b6v9",
+    "name": "平岡公園",
+    "image": "",
+    "geo": [
+      43.006303,
+      141.463681
+    ],
+    "mark": "WORKING!!13話舞台",
+    "folder": "1期・2期"
+  },
+  {
+    "id": "51i53b6xp",
+    "name": "平岡公園　看板（犬）",
+    "image": "",
+    "geo": [
+      43.002413,
+      141.46297
+    ],
+    "folder": "1期・2期"
+  },
+  {
+    "id": "51i53b7qo",
+    "name": "平岡公園　看板（犬、ジンギスカン）",
+    "image": "",
+    "geo": [
+      43.002486,
+      141.463279
+    ],
+    "mark": "WORKING!!13話舞台",
+    "folder": "1期・2期"
+  },
+  {
+    "id": "51i53b877",
+    "name": "平岡公園　ベンチ",
+    "image": "",
+    "geo": [
+      43.007177,
+      141.463735
+    ],
+    "mark": "WORKING!!13話舞台",
+    "folder": "1期・2期"
+  },
+  {
+    "id": "51i53b803",
+    "name": "JR札幌駅ホーム",
+    "image": "",
+    "geo": [
+      43.06861,
+      141.350446
+    ],
+    "mark": "WORKING!!舞台",
+    "folder": "1期・2期"
+  },
+  {
+    "id": "51i53b7n0",
+    "name": "バスターミナル",
+    "image": "https://image.xinu.ink/pic/data/475/images/51i53b7n0_1741447095872.jpg",
+    "geo": [
+      43.067685,
+      141.352348
+    ],
+    "mark": "WORKING!!舞台",
+    "folder": "1期・2期"
+  },
+  {
+    "id": "51i53cctr",
+    "name": "月見橋",
+    "image": "https://image.xinu.ink/pic/data/475/images/51i53cctr_1741444029305.jpg",
+    "geo": [
+      42.965038,
+      141.162558
+    ],
+    "mark": "WORKING!!舞台",
+    "folder": "1期・2期"
+  },
+  {
+    "id": "51i53cdf3",
+    "name": "二見吊橋",
+    "image": "https://image.xinu.ink/pic/data/475/images/51i53cdf3_1741444536688.jpg",
+    "geo": [
+      42.963846,
+      141.158145
+    ],
+    "mark": "WORKING!!舞台",
+    "folder": "1期・2期"
+  },
+  {
+    "id": "51i53cegt",
+    "name": "平岡南公園",
+    "image": "https://image.xinu.ink/pic/data/475/images/51i53cegt_1741442340727.jpg",
+    "geo": [
+      42.991103,
+      141.45421
+    ],
+    "mark": "WORKING'!!3話舞台",
+    "folder": "1期・2期"
+  },
+  {
+    "id": "51i53ce0l",
+    "name": "東光ストア平岡店",
+    "image": "https://image.xinu.ink/pic/data/475/images/51i53ce0l_1741442753768.jpg",
+    "geo": [
+      43.010223,
+      141.454706
+    ],
+    "mark": "WORKING'!!12話舞台",
+    "folder": "1期・2期"
+  },
+  {
+    "id": "51i53cgao",
+    "name": "上野幌西小学校付近交差点",
+    "image": "https://image.xinu.ink/pic/data/475/images/51i53cgao_1730874959305.jpg",
+    "geo": [
+      43.018768,
+      141.471065
+    ],
+    "mark": "最終回",
+    "folder": "3期"
+  },
+  {
+    "id": "51i53chhi",
+    "name": "上野幌西小学校付近交差点",
+    "image": "https://image.xinu.ink/pic/data/475/images/51i53chhi_1730874926450.jpg",
+    "geo": [
+      43.018749,
+      141.471291
+    ],
+    "mark": "最終回",
+    "folder": "3期"
+  },
+  {
+    "id": "51i53cjp9",
+    "name": "円山競技場付近",
+    "image": "https://image.xinu.ink/pic/data/475/images/51i53cjp9_1728461379568.jpg",
+    "geo": [
+      43.055038,
+      141.304176
+    ],
+    "ep": 3,
+    "s": 1121,
+    "mark": "www03",
+    "folder": "WWW.WORKING!!"
+  },
+  {
+    "id": "51i53cj4p",
+    "name": "円山競技場付近",
+    "image": "https://image.xinu.ink/pic/data/475/images/51i53cj4p_1728461154092.jpg",
+    "geo": [
+      43.055209,
+      141.304355
+    ],
+    "ep": 3,
+    "s": 1173,
+    "mark": "www03赤い壁",
+    "folder": "WWW.WORKING!!"
+  },
+  {
+    "id": "51i53cji2",
+    "name": "三角山小",
+    "image": "https://image.xinu.ink/pic/data/475/images/51i53cji2_1728462402159.jpg",
+    "geo": [
+      43.058588,
+      141.297966
+    ],
+    "ep": 10,
+    "s": 363,
+    "mark": "10話",
+    "folder": "WWW.WORKING!!"
   }
 ]

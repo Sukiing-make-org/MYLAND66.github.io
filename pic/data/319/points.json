@@ -81,5 +81,52 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uojqrwq29",
+    "name": "Сталинград",
+    "image": "https://image.xinu.ink/pic/data/319/images/uojqrwq29-1744700512108.jpg",
+    "geo": [
+      48.803027,
+      44.621656
+    ],
+    "mark": "斯大林格勒右侧重生点",
+    "origin": "Gaijing",
+    "cn": "斯大林格勒"
+  },
+  {
+    "id": "dsgvxvo",
+    "name": "Normandy",
+    "image": "https://image.xinu.ink/pic/data/319/images/dsgvxvo-1777030039266.jpg",
+    "geo": [
+      49.24277,
+      -0.87263
+    ],
+    "origin": "Gaijin",
+    "cn": "诺曼底"
+  },
+  {
+    "id": "dtr35ib",
+    "name": "Ладожское озеро",
+    "image": "https://image.xinu.ink/pic/data/319/images/dtr35ib-1777107539985.jpg",
+    "geo": [
+      59.891603,
+      31.26628
+    ],
+    "mark": "游戏内地图包括 姆加 基洛夫斯克 锡尼亚维诺 拉多加湖等地区",
+    "origin": "Gaijin",
+    "cn": "拉多加湖"
+  },
+  {
+    "id": "dy0tw5d",
+    "name": "Cologne",
+    "image": "https://image.xinu.ink/pic/data/319/images/dy0tw5d-1777365769290.jpg",
+    "geo": [
+      50.936274,
+      6.963188
+    ],
+    "mark": "游戏中地图涵盖科隆及周边地区",
+    "origin": "Gaijin",
+    "cn": "科隆"
   }
 ]

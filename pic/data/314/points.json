@@ -252,5 +252,28 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "agrf3a",
+    "name": "大洗シーサイドホテル",
+    "image": "https://image.xinu.ink/pic/data/314/images/agrf3a-1747644845872.jpg",
+    "geo": [
+      36.31362,
+      140.588055
+    ],
+    "s": 1403
+  },
+  {
+    "id": "b30pspt",
+    "name": "大雁塔",
+    "image": "https://image.xinu.ink/pic/data/314/images/b30pspt-1771137573548.jpg",
+    "geo": [
+      34.221148,
+      108.959194
+    ],
+    "ep": "剧场版",
+    "s": 1156,
+    "mark": "剧场版游乐园巷战时一闪而过的大雁塔（乱入",
+    "cn": "大雁塔"
   }
 ]

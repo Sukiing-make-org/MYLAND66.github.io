@@ -315,5 +315,90 @@
     ],
     "origin": "Anitabi@SkyieLovk48",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kjen8ir8l",
+    "name": "京王相模原線-稲城駅",
+    "image": "https://image.xinu.ink/pic/data/354/images/kjen8ir8l-1730636390044.jpg",
+    "geo": [
+      35.635984,
+      139.499347
+    ],
+    "ep": 1,
+    "s": 141,
+    "mark": "甘城站原型，动画中常出现的甘城站以及甘城站前公交站的广场实际是稲城駅和経堂駅前經堂CORTY两处圣地的缝合",
+    "folder": "甘城站区域",
+    "origin": "SkyieLovk48"
+  },
+  {
+    "id": "kpwl1ngfw",
+    "name": "桜ヶ丘カントリークラブ",
+    "image": "https://image.xinu.ink/pic/data/354/images/kpwl1ngfw-1730705791990.jpg",
+    "geo": [
+      35.6413,
+      139.466307
+    ],
+    "ep": 1,
+    "s": 300,
+    "mark": "甘辉正大门位置所在的前方",
+    "folder": "甘城光辉游乐园主园区",
+    "origin": "SkyieLovk48",
+    "cn": "樱丘乡村俱乐部"
+  },
+  {
+    "id": "kpwl1ng56",
+    "name": "桜ヶ丘カントリークラブ",
+    "image": "https://image.xinu.ink/pic/data/354/images/kpwl1ng56_1734497056816.jpg",
+    "geo": [
+      35.6405,
+      139.464714
+    ],
+    "ep": 2,
+    "s": 671,
+    "mark": "动画中的西太丸公交车站，也就是现在甘辉正门的公交车站，离非常有名的圣迹樱丘很近",
+    "folder": "甘城光辉游乐园主园区",
+    "origin": "SkyieLovk48",
+    "cn": "樱丘乡村俱乐部"
+  },
+  {
+    "id": "r2ed59i5w",
+    "name": "世田谷区立赤堤小学校",
+    "image": "https://image.xinu.ink/pic/data/354/images/r2ed59i5w_1734501244186.jpg",
+    "geo": [
+      35.65519,
+      139.637935
+    ],
+    "ep": 8,
+    "s": 333,
+    "folder": "甘城市立高等学校区域",
+    "cn": "世田谷区立赤堤小学校"
+  },
+  {
+    "id": "r2efbdh82",
+    "name": "世田谷区立赤堤小学校",
+    "image": "https://image.xinu.ink/pic/data/354/images/r2efbdh82_1734501339445.jpg",
+    "geo": [
+      35.655419,
+      139.637932
+    ],
+    "ep": 8,
+    "s": 325,
+    "folder": "甘城市立高等学校区域",
+    "cn": "世田谷区立赤堤小学校"
+  },
+  {
+    "id": "pr0rfp3dm",
+    "name": "世田谷区立赤堤小学校",
+    "image": "https://image.xinu.ink/pic/data/354/images/pr0rfp3dm-1730789080006.jpg",
+    "geo": [
+      35.656271,
+      139.637809
+    ],
+    "ep": 8,
+    "s": 1035,
+    "mark": "校舍后，第八话爱意不达的修罗场之地",
+    "folder": "甘城市立高等学校区域",
+    "origin": "SkyieLovk48",
+    "cn": "世田谷区立赤堤小学校"
   }
 ]

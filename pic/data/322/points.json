@@ -76,5 +76,50 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=16Qsq1mlp-oUzGDoxWDHA3Oh0e9I&ll=35.704787%2C139.620722&z=17"
+  },
+  {
+    "id": "2lrp6kn",
+    "name": "鶴岡八幡宮",
+    "image": "https://image.xinu.ink/pic/data/322/images/2lrp6kn_1752680260901.jpg",
+    "geo": [
+      35.32586,
+      139.556282
+    ],
+    "ep": 1,
+    "mark": "#01（ep#03「萩月流出没注意」）"
+  },
+  {
+    "id": "f8d14437",
+    "name": "JR吉祥寺駅 北口",
+    "image": "https://image.xinu.ink/pic/data/322/images/f8d14437_1752680540397.jpg",
+    "geo": [
+      35.703317,
+      139.580223
+    ],
+    "ep": 8,
+    "mark": "#08（ep#25「ストリート・ポエム」）",
+    "origin": "帰宅部活動記録-舞台探訪マップ-"
+  },
+  {
+    "id": "19943999",
+    "name": "青梅街道（都道4号線）",
+    "image": "https://image.xinu.ink/pic/data/322/images/19943999_1752680622141.jpg",
+    "geo": [
+      35.70604,
+      139.618876
+    ],
+    "mark": "#09（ep#29）",
+    "origin": "帰宅部活動記録-舞台探訪マップ-"
+  },
+  {
+    "id": "4475c864",
+    "name": "SEIYU荻窪店＆荻窪タウンセブン",
+    "image": "https://image.xinu.ink/pic/data/322/images/4475c864_1752680630004.jpg",
+    "geo": [
+      35.705371,
+      139.619777
+    ],
+    "mark": "#09（ep#29「華麗なる合宿」）图右招牌",
+    "origin": "帰宅部活動記録-舞台探訪マップ-"
   }
 ]

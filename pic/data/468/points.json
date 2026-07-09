@@ -219,5 +219,129 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1H9u7VCXe3LVmDkbop2IbL-j5IKQ&ll=37.506211%2C140.402387&z=17"
+  },
+  {
+    "id": "dd24c301",
+    "name": "みずいろ公園",
+    "image": "https://image.xinu.ink/pic/data/468/images/dd24c301_1720208083221.jpg",
+    "geo": [
+      37.518219,
+      140.400829
+    ],
+    "ep": 7,
+    "s": 776,
+    "mark": "7話。",
+    "folder": "本宮市"
+  },
+  {
+    "id": "m00f81nki",
+    "name": "駅前大通りスクランブル交差点",
+    "image": "https://image.xinu.ink/pic/data/468/images/m00f81nki_1720209461334.jpg",
+    "geo": [
+      37.398304,
+      140.384747
+    ],
+    "ep": 7,
+    "s": 899,
+    "mark": "左侧建筑为菊屋茶舗，红色招牌对应了鶴我郡山駅前店的「会津」招牌。",
+    "folder": "郡山市"
+  },
+  {
+    "id": "m00o6c5zu",
+    "name": "安達太良神社",
+    "image": "https://image.xinu.ink/pic/data/468/images/m00o6c5zu_1720209460442.jpg",
+    "geo": [
+      37.520767,
+      140.40498
+    ],
+    "ep": 7,
+    "s": 908,
+    "folder": "本宮市"
+  },
+  {
+    "id": "m00omwvup",
+    "name": "安達太良神社",
+    "image": "https://image.xinu.ink/pic/data/468/images/m00omwvup_1720209460766.jpg",
+    "geo": [
+      37.520802,
+      140.404919
+    ],
+    "ep": 7,
+    "s": 911,
+    "folder": "本宮市"
+  },
+  {
+    "id": "bf929464",
+    "name": "安達太良神社",
+    "image": "https://image.xinu.ink/pic/data/468/images/bf929464_1720208083610.jpg",
+    "geo": [
+      37.521088,
+      140.404462
+    ],
+    "ep": 7,
+    "s": 917,
+    "mark": "7話。",
+    "folder": "本宮市"
+  },
+  {
+    "id": "m00ouvxdo",
+    "name": "安達太良神社",
+    "image": "https://image.xinu.ink/pic/data/468/images/m00ouvxdo_1720209459122.jpg",
+    "geo": [
+      37.52111,
+      140.404411
+    ],
+    "ep": 7,
+    "s": 922,
+    "folder": "本宮市"
+  },
+  {
+    "id": "m00qobu1v",
+    "name": "安達太良神社",
+    "image": "https://image.xinu.ink/pic/data/468/images/m00qobu1v_1720209459384.jpg",
+    "geo": [
+      37.52107,
+      140.404415
+    ],
+    "ep": 7,
+    "s": 942,
+    "folder": "本宮市"
+  },
+  {
+    "id": "m00r6htes",
+    "name": "安達太良神社",
+    "image": "https://image.xinu.ink/pic/data/468/images/m00r6htes_1720209459914.jpg",
+    "geo": [
+      37.521103,
+      140.404423
+    ],
+    "ep": 7,
+    "s": 942,
+    "folder": "本宮市"
+  },
+  {
+    "id": "m00qxv2j4",
+    "name": "安達太良神社",
+    "image": "https://image.xinu.ink/pic/data/468/images/m00qxv2j4_1720209459631.jpg",
+    "geo": [
+      37.5211,
+      140.404407
+    ],
+    "ep": 7,
+    "s": 949,
+    "folder": "本宮市"
+  },
+  {
+    "id": "1d83d15e",
+    "name": "本宮駅",
+    "image": "https://image.xinu.ink/pic/data/468/images/1d83d15e_1720208082839.jpg",
+    "geo": [
+      37.514428,
+      140.399491
+    ],
+    "ep": 7,
+    "s": 1082,
+    "mark": "7話。现已改建。",
+    "folder": "本宮市"
   }
 ]

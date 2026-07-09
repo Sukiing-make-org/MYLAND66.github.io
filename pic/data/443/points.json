@@ -485,5 +485,209 @@
     ],
     "origin": "Anitabi@初晨",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "sd63qvwfj",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/443/images/sd63qvwfj_1738166336044.jpg",
+    "geo": [
+      35.011985,
+      135.767875
+    ],
+    "ep": 19,
+    "cn": "京都市役所"
+  },
+  {
+    "id": "sd5j48soy",
+    "name": 27,
+    "image": "https://image.xinu.ink/pic/data/443/images/sd5j48soy_1738165088851.jpg",
+    "geo": [
+      34.985344,
+      135.75831
+    ],
+    "ep": 19,
+    "cn": "京都站"
+  },
+  {
+    "id": "t4aevyneh",
+    "name": "中央大橋",
+    "image": "https://image.xinu.ink/pic/data/443/images/t4aevyneh_1740291558549.jpg",
+    "geo": [
+      35.671047,
+      139.784489
+    ],
+    "ep": 2,
+    "cn": "中央大桥"
+  },
+  {
+    "id": "sd53gi68r",
+    "name": 23,
+    "image": "https://image.xinu.ink/pic/data/443/images/sd53gi68r_1738164141460.jpg",
+    "geo": [
+      35.680671,
+      139.767538
+    ],
+    "ep": 19,
+    "s": 818,
+    "cn": "东京站"
+  },
+  {
+    "id": "sd5lnwlx1",
+    "name": "ホテル​オークラ​京都",
+    "image": "https://image.xinu.ink/pic/data/443/images/sd5lnwlx1_1738165242336.jpg",
+    "geo": [
+      35.011932,
+      135.769256
+    ],
+    "ep": 19
+  },
+  {
+    "id": "sd5mp040c",
+    "name": "ホテル​オークラ​京都",
+    "image": "https://image.xinu.ink/pic/data/443/images/sd5mp040c_1738165305017.jpg",
+    "geo": [
+      35.011761,
+      135.769552
+    ],
+    "ep": 19
+  },
+  {
+    "id": "sd5mzfz5e",
+    "name": "ホテル​オークラ​京都",
+    "image": "https://image.xinu.ink/pic/data/443/images/sd5mzfz5e_1738165322897.jpg",
+    "geo": [
+      35.011469,
+      135.769378
+    ],
+    "ep": 19
+  },
+  {
+    "id": "sd5n2argz",
+    "name": "ホテル​オークラ​京都",
+    "image": "https://image.xinu.ink/pic/data/443/images/sd5n2argz_1738165327023.jpg",
+    "geo": [
+      35.011533,
+      135.769569
+    ],
+    "ep": 19
+  },
+  {
+    "id": "1uetuoh",
+    "name": "鳥居",
+    "image": "https://image.xinu.ink/pic/data/443/images/1uetuoh-1751026045897.jpg",
+    "geo": [
+      35.668336,
+      139.782513
+    ],
+    "folder": "中央区",
+    "origin": "@木研丶",
+    "cn": "鸟居"
+  },
+  {
+    "id": "1ueyai7",
+    "name": "中央大橋",
+    "image": "https://image.xinu.ink/pic/data/443/images/1ueyai7-1751026268530.jpg",
+    "geo": [
+      35.672621,
+      139.783838
+    ],
+    "folder": "中央区",
+    "origin": "@木研丶",
+    "cn": "中央大桥"
+  },
+  {
+    "id": "1uf0sgk",
+    "name": "中央大橋",
+    "image": "https://image.xinu.ink/pic/data/443/images/1uf0sgk-1751026362119.jpg",
+    "geo": [
+      35.671357,
+      139.784571
+    ],
+    "folder": "中央区",
+    "origin": "@木研丶",
+    "cn": "中央大桥"
+  },
+  {
+    "id": "1uf8q1t",
+    "name": "中央区立石川島公園",
+    "image": "https://image.xinu.ink/pic/data/443/images/1uf8q1t-1751026733881.jpg",
+    "geo": [
+      35.67152,
+      139.786012
+    ],
+    "folder": "中央区",
+    "origin": "木研丶",
+    "cn": "中央区立石川島公園"
+  },
+  {
+    "id": "1ufk7gk",
+    "name": "中央大桥",
+    "image": "https://image.xinu.ink/pic/data/443/images/1ufk7gk-1751027286433.jpg",
+    "geo": [
+      35.67261,
+      139.783662
+    ],
+    "folder": "中央区",
+    "origin": "木研丶",
+    "cn": "中央大桥"
+  },
+  {
+    "id": "1ufnsc7",
+    "name": "佃小桥",
+    "image": "https://image.xinu.ink/pic/data/443/images/1ufnsc7-1751027592464.jpg",
+    "geo": [
+      35.667322,
+      139.783339
+    ],
+    "folder": "中央区",
+    "origin": "木研丶",
+    "cn": "佃小桥"
+  },
+  {
+    "id": "1uh02ix",
+    "name": "无",
+    "image": "https://image.xinu.ink/pic/data/443/images/1uh02ix-1751029683084.jpg",
+    "geo": [
+      35.667899,
+      139.782146
+    ],
+    "folder": "中央区",
+    "origin": "木研丶",
+    "cn": "河边"
+  },
+  {
+    "id": "1uh5j8u",
+    "name": "霊岸島検潮所",
+    "image": "https://image.xinu.ink/pic/data/443/images/1uh5j8u-1751029938607.jpg",
+    "geo": [
+      35.672131,
+      139.782611
+    ],
+    "folder": "中央区",
+    "origin": "木研丶",
+    "cn": "水位观测所"
+  },
+  {
+    "id": "1uh798v",
+    "name": "霊岸島検潮所",
+    "image": "https://image.xinu.ink/pic/data/443/images/1uh798v-1751030023573.jpg",
+    "geo": [
+      35.671922,
+      139.783062
+    ],
+    "folder": "中央区",
+    "origin": "木研丶",
+    "cn": "水位观测所"
+  },
+  {
+    "id": "5btfurm",
+    "name": "天童站",
+    "image": "https://image.xinu.ink/pic/data/443/images/5btfurm-1758608846387.jpg",
+    "geo": [
+      38.360049,
+      140.370006
+    ],
+    "ep": 21,
+    "s": 807
   }
 ]

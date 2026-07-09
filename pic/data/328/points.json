@@ -35,5 +35,25 @@
     ],
     "origin": "Anitabi@Zyglisfer",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n9tkaugaf",
+    "name": "莲池潭",
+    "image": "https://image.xinu.ink/pic/data/328/images/n9tkaugaf-1723798416500.jpg",
+    "geo": [
+      22.680055,
+      120.292188
+    ],
+    "cn": "蓮池潭"
+  },
+  {
+    "id": "n9tm3nos7",
+    "name": "龙虎塔",
+    "image": "https://image.xinu.ink/pic/data/328/images/n9tm3nos7-1723798530192.jpg",
+    "geo": [
+      22.680616,
+      120.29176
+    ],
+    "cn": "龍虎塔"
   }
 ]

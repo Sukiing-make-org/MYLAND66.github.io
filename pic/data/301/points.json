@@ -206,5 +206,16 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1MazCvEaEomo8DKLxV_Ki4yYfqGSXsTU&ll=35.454339%2C139.631379&z=17"
+  },
+  {
+    "id": "ko1ulyasp",
+    "name": "夕日山動物園（旭山動物園）",
+    "image": "",
+    "geo": [
+      43.768909,
+      142.482611
+    ],
+    "ep": 30,
+    "mark": "30話（仅对白中提及）"
   }
 ]

@@ -541,5 +541,139 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1jS-KHHjXACM3cJ5veEtNEYg8LXU&ll=35.88595%2C139.783757&z=17"
+  },
+  {
+    "id": "npjre8buc",
+    "name": "1越谷駅 西口",
+    "image": "https://image.xinu.ink/pic/data/477/images/npjre8buc_1725030890265.jpg",
+    "geo": [
+      35.888184,
+      139.78555
+    ],
+    "ep": 2,
+    "folder": "越谷"
+  },
+  {
+    "id": "npjrlqoov",
+    "name": "1越谷駅 西口",
+    "image": "https://image.xinu.ink/pic/data/477/images/npjrlqoov_1725030899217.jpg",
+    "geo": [
+      35.888127,
+      139.785567
+    ],
+    "ep": 2,
+    "folder": "越谷"
+  },
+  {
+    "id": "npjrxy81t",
+    "name": "2東日本橋駅过街天桥",
+    "image": "https://image.xinu.ink/pic/data/477/images/npjrxy81t_1725030921297.jpg",
+    "geo": [
+      35.690238,
+      139.784731
+    ],
+    "ep": 5,
+    "folder": "東京"
+  },
+  {
+    "id": "npjsbztgc",
+    "name": "4居酒屋",
+    "image": "https://image.xinu.ink/pic/data/477/images/npjsbztgc_1725030942812.jpg",
+    "geo": [
+      35.687568,
+      139.78653
+    ],
+    "ep": 1,
+    "folder": "東京"
+  },
+  {
+    "id": "npjsqpvwf",
+    "name": "6越谷站西口信号灯",
+    "image": "https://image.xinu.ink/pic/data/477/images/npjsqpvwf_1725030972760.jpg",
+    "geo": [
+      35.887986,
+      139.784364
+    ],
+    "ep": 2,
+    "folder": "越谷"
+  },
+  {
+    "id": "npjt9nb5d",
+    "name": "8東越谷七丁目しいの木公園",
+    "image": "https://image.xinu.ink/pic/data/477/images/npjt9nb5d_1725031002762.jpg",
+    "geo": [
+      35.890909,
+      139.800651
+    ],
+    "ep": 2,
+    "folder": "越谷"
+  },
+  {
+    "id": "npjtiiqgu",
+    "name": "8東越谷七丁目しいの木公園",
+    "image": "https://image.xinu.ink/pic/data/477/images/npjtiiqgu_1725031013732.jpg",
+    "geo": [
+      35.89091,
+      139.800652
+    ],
+    "ep": 9,
+    "folder": "越谷"
+  },
+  {
+    "id": "npjuuophr",
+    "name": "17埼玉りそな銀行 越谷支店",
+    "image": "https://image.xinu.ink/pic/data/477/images/npjuuophr_1725031095026.jpg",
+    "geo": [
+      35.889024,
+      139.788124
+    ],
+    "ep": 5,
+    "folder": "越谷"
+  },
+  {
+    "id": "4448c878",
+    "name": "27小林老家附近（大体位置）",
+    "image": "",
+    "geo": [
+      36.37701,
+      140.259418
+    ],
+    "folder": "小林家的龙女仆"
+  },
+  {
+    "id": "4i6e38i",
+    "name": "公园口",
+    "image": "https://image.xinu.ink/pic/data/477/images/4i6e38i-1756816676233.jpg",
+    "geo": [
+      35.890145,
+      139.799383
+    ],
+    "ep": 4,
+    "s": 1152,
+    "mark": "面朝着公园次入口"
+  },
+  {
+    "id": "9wn3gvs",
+    "name": "東越谷七丁目しいの木公園",
+    "image": "https://image.xinu.ink/pic/data/477/images/9wn3gvs-1768575113193.jpg",
+    "geo": [
+      35.891009,
+      139.800402
+    ],
+    "ep": "5",
+    "s": "820",
+    "origin": "kennyfs"
+  },
+  {
+    "id": "9wo1bq0",
+    "name": "元荒川沿岸",
+    "image": "https://image.xinu.ink/pic/data/477/images/9wo1bq0-1768576688323.jpg",
+    "geo": [
+      35.888175,
+      139.794233
+    ],
+    "ep": "6",
+    "s": "557",
+    "origin": "kennyfs"
   }
 ]

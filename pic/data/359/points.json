@@ -607,5 +607,165 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "51i528zew",
+    "name": "多摩市桜ヶ丘２丁目Ｂ",
+    "image": "",
+    "geo": [
+      35.637475,
+      139.43941
+    ],
+    "mark": "１話",
+    "folder": "桜ヶ丘"
+  },
+  {
+    "id": "51i528z38",
+    "name": "多摩市桜ヶ丘２丁目Ｅ",
+    "image": "",
+    "geo": [
+      35.637671,
+      139.439271
+    ],
+    "mark": "１話",
+    "folder": "桜ヶ丘"
+  },
+  {
+    "id": "51i5290oy",
+    "name": "海浜幕張駅南口（18話）",
+    "image": "",
+    "geo": [
+      35.647949,
+      140.041239
+    ],
+    "mark": "18話"
+  },
+  {
+    "id": "51i5290u3",
+    "name": "海浜幕張駅北口ペデストリアンデッキ（23話）",
+    "image": "",
+    "geo": [
+      35.649328,
+      140.041252
+    ],
+    "mark": "23話"
+  },
+  {
+    "id": "lwiiyxfrb",
+    "name": "亚瑟王墓",
+    "image": "https://image.xinu.ink/pic/data/359/images/lwiiyxfrb_1719934535797.jpg",
+    "geo": [
+      51.146556,
+      -2.716738
+    ],
+    "ep": 25,
+    "s": 473,
+    "folder": "格拉斯顿伯里修道院"
+  },
+  {
+    "id": "lwimmniwf",
+    "name": "亚瑟王墓",
+    "image": "https://image.xinu.ink/pic/data/359/images/lwimmniwf_1719934755897.jpg",
+    "geo": [
+      51.146587,
+      -2.715067
+    ],
+    "ep": 25,
+    "s": 467,
+    "folder": "格拉斯顿伯里修道院"
+  },
+  {
+    "id": "lwitoqyz4",
+    "name": "亚瑟王墓",
+    "image": "https://image.xinu.ink/pic/data/359/images/lwitoqyz4_1719935193250.jpg",
+    "geo": [
+      51.146738,
+      -2.715037
+    ],
+    "ep": 25,
+    "s": 471,
+    "folder": "格拉斯顿伯里修道院"
+  },
+  {
+    "id": "cxtlaia",
+    "name": "亚瑟王墓",
+    "image": "https://image.xinu.ink/pic/data/359/images/cxtlaia_1775176825547.jpg",
+    "geo": [
+      51.146751,
+      -2.715104
+    ],
+    "ep": 13,
+    "folder": "格拉斯顿伯里修道院"
+  },
+  {
+    "id": "cxtlgt3",
+    "name": "亚瑟王墓",
+    "image": "https://image.xinu.ink/pic/data/359/images/cxtlgt3_1775176833897.jpg",
+    "geo": [
+      51.146727,
+      -2.715142
+    ],
+    "ep": 13,
+    "folder": "格拉斯顿伯里修道院"
+  },
+  {
+    "id": "lwiu9fa6g",
+    "name": "亚瑟王墓",
+    "image": "https://image.xinu.ink/pic/data/359/images/lwiu9fa6g_1719935216397.jpg",
+    "geo": [
+      51.146801,
+      -2.714831
+    ],
+    "ep": 25,
+    "s": 495,
+    "folder": "格拉斯顿伯里修道院"
+  },
+  {
+    "id": "cxtkwui",
+    "name": "亚瑟王墓",
+    "image": "https://image.xinu.ink/pic/data/359/images/cxtkwui_1775176808716.jpg",
+    "geo": [
+      51.146706,
+      -2.714908
+    ],
+    "ep": 13,
+    "folder": "格拉斯顿伯里修道院"
+  },
+  {
+    "id": "cxtl12b",
+    "name": "亚瑟王墓",
+    "image": "https://image.xinu.ink/pic/data/359/images/cxtl12b_1775176814499.jpg",
+    "geo": [
+      51.146726,
+      -2.714908
+    ],
+    "ep": 13,
+    "folder": "格拉斯顿伯里修道院"
+  },
+  {
+    "id": "5bnt6v4",
+    "name": "Glastonbury Abbey",
+    "image": "https://image.xinu.ink/pic/data/359/images/5bnt6v4-1758599470076.jpg",
+    "geo": [
+      51.146712,
+      -2.715084
+    ],
+    "ep": 25,
+    "s": 500,
+    "folder": "格拉斯顿伯里修道院",
+    "cn": "亚瑟王墓"
+  },
+  {
+    "id": "3r4gx9a",
+    "name": "六本木ヒルズ展望台",
+    "image": "https://image.xinu.ink/pic/data/359/images/3r4gx9a-1755181153835.jpg",
+    "geo": [
+      35.660287,
+      139.729276
+    ],
+    "ep": 3,
+    "s": 1161,
+    "mark": "伪螺旋剑发射处",
+    "cn": "六本木新城展望台"
   }
 ]

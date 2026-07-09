@@ -596,5 +596,25 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1vxCTtNdRE5VhB2NhlxjTPGC6N2-eBw0&ll=34.687257%2C135.525855&z=17"
+  },
+  {
+    "id": "imnd295sw",
+    "name": "東村山駅（北多摩デンジャーズ本部）",
+    "image": "",
+    "geo": [
+      35.760471,
+      139.46585
+    ],
+    "folder": "東村山国"
+  },
+  {
+    "id": "imnd2953m",
+    "name": "鈴鹿サーキット（三重モータース本部）",
+    "image": "",
+    "geo": [
+      34.843973,
+      136.540111
+    ],
+    "folder": "愛知三重国"
   }
 ]

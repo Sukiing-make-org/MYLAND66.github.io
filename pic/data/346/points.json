@@ -53,5 +53,24 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1-TvHEe1nhtO1vHjUX8hLLkySXoM&ll=43.068606%2C141.350763&z=17"
+  },
+  {
+    "id": "51i530owg",
+    "name": "函館市旧イギリス領事館",
+    "image": "",
+    "geo": [
+      41.765953,
+      140.710651
+    ]
+  },
+  {
+    "id": "51i530oxx",
+    "name": "旧朝吹山荘（睡鳩荘）",
+    "image": "https://image.xinu.ink/pic/data/346/images/51i530oxx-1746011430740.jpg",
+    "geo": [
+      36.329466,
+      138.597736
+    ],
+    "mark": "湿っ地屋敷"
   }
 ]

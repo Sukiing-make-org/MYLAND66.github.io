@@ -97,5 +97,49 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1vLeEZTknGNBJDMEzgUvKQi3m-WI&ll=35.013533%2C135.674096&z=17"
+  },
+  {
+    "id": "51i536avz",
+    "name": "舞子公園（明石海峡大橋）",
+    "image": "",
+    "geo": [
+      34.630304,
+      135.035966
+    ],
+    "mark": "1話。",
+    "folder": "兵庫県神戸市"
+  },
+  {
+    "id": "51i536bhr",
+    "name": "明石海峡大橋",
+    "image": "",
+    "geo": [
+      34.603524,
+      135.009441
+    ],
+    "mark": "6話。",
+    "folder": "兵庫県神戸市"
+  },
+  {
+    "id": "51i536cek",
+    "name": "多賀の浜海水浴場",
+    "image": "",
+    "geo": [
+      34.470901,
+      134.84014
+    ],
+    "mark": "2話。",
+    "folder": "淡路島"
+  },
+  {
+    "id": "51i536ccy",
+    "name": "慶野松原海岸",
+    "image": "",
+    "geo": [
+      34.34372,
+      134.736918
+    ],
+    "mark": "2話。",
+    "folder": "淡路島"
   }
 ]

@@ -1051,5 +1051,148 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1OcjwvNh_85V6fWhv6R6AK_c0tnQ&ll=35.661197%2C139.698839&z=17"
+  },
+  {
+    "id": "37gd7ru",
+    "name": "小諸市文化センター",
+    "image": "https://image.xinu.ink/pic/data/213/images/37gd7ru.jpg",
+    "geo": [
+      36.311075,
+      138.4389
+    ],
+    "ep": 1,
+    "s": 893
+  },
+  {
+    "id": "37gd7pm",
+    "name": "乙女駅",
+    "image": "https://image.xinu.ink/pic/data/213/images/37gd7pm.jpg",
+    "geo": [
+      36.311146,
+      138.440609
+    ],
+    "ep": 1,
+    "s": 908
+  },
+  {
+    "id": "37gd7py",
+    "name": "相生町交差点",
+    "image": "https://image.xinu.ink/pic/data/213/images/37gd7py.jpg",
+    "geo": [
+      36.327288,
+      138.42299
+    ],
+    "ep": 1,
+    "s": 1108
+  },
+  {
+    "id": "37gd7qd",
+    "name": "芦原中学校",
+    "image": "https://image.xinu.ink/pic/data/213/images/37gd7qd.jpg",
+    "geo": [
+      36.333409,
+      138.414275
+    ],
+    "ep": 3,
+    "s": 232
+  },
+  {
+    "id": "37gd7rj",
+    "name": "県道139号線",
+    "image": "https://image.xinu.ink/pic/data/213/images/37gd7rj.jpg",
+    "geo": [
+      36.30239,
+      138.43842
+    ],
+    "ep": 4,
+    "s": 769
+  },
+  {
+    "id": "37gd7q5",
+    "name": "ニューイースト",
+    "image": "https://image.xinu.ink/pic/data/213/images/37gd7q5.jpg",
+    "geo": [
+      36.340468,
+      138.638105
+    ],
+    "ep": 4,
+    "s": 807
+  },
+  {
+    "id": "37gd7pz",
+    "name": "懐古園入口交差点",
+    "image": "https://image.xinu.ink/pic/data/213/images/37gd7pz.jpg",
+    "geo": [
+      36.329894,
+      138.418937
+    ],
+    "ep": 8,
+    "s": 529
+  },
+  {
+    "id": "37gd7pn",
+    "name": "懐古園入口交差点",
+    "image": "https://image.xinu.ink/pic/data/213/images/37gd7pn.jpg",
+    "geo": [
+      36.329863,
+      138.419328
+    ],
+    "ep": 9,
+    "s": 335
+  },
+  {
+    "id": "37gd7rm",
+    "name": "小諸市文化センター",
+    "image": "https://image.xinu.ink/pic/data/213/images/37gd7rm.jpg",
+    "geo": [
+      36.310087,
+      138.438077
+    ],
+    "ep": 9,
+    "s": 1000
+  },
+  {
+    "id": "37gd7p4",
+    "name": "乙女湖",
+    "image": "https://image.xinu.ink/pic/data/213/images/37gd7p4.jpg",
+    "geo": [
+      36.30981,
+      138.437031
+    ],
+    "ep": 9,
+    "s": 1008
+  },
+  {
+    "id": "37gd7rv",
+    "name": "懐古園 水の手展望台",
+    "image": "https://image.xinu.ink/pic/data/213/images/37gd7rv.jpg",
+    "geo": [
+      36.327232,
+      138.416542
+    ],
+    "ep": 10,
+    "s": 456
+  },
+  {
+    "id": "37gd7pb",
+    "name": "懐古園 水の手展望台",
+    "image": "https://image.xinu.ink/pic/data/213/images/37gd7pb.jpg",
+    "geo": [
+      36.327672,
+      138.416737
+    ],
+    "ep": 11,
+    "s": 515
+  },
+  {
+    "id": "37gd7sa",
+    "name": "芦原中学校",
+    "image": "https://image.xinu.ink/pic/data/213/images/37gd7sa.jpg",
+    "geo": [
+      36.333087,
+      138.413363
+    ],
+    "ep": 12,
+    "s": 1068
   }
 ]
