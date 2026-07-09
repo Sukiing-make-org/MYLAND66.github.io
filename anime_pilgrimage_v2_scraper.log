@@ -30197,3 +30197,2342 @@
 2026-07-08 14:03:49,840 - V2Scraper - INFO - Fixing: 氷の城壁 (ID 6197)
 2026-07-08 14:03:49,840 - V2Scraper - WARNING -   Could not find '氷の城壁' on the new site
 2026-07-08 14:03:49,840 - V2Scraper - INFO - Fixed 0 zero-coordinate points total
+2026-07-09 14:51:24,073 - V2Scraper - INFO - ============================================================
+2026-07-09 14:51:24,073 - V2Scraper - INFO - Anime Pilgrimage V2 Scraper - Starting
+2026-07-09 14:51:24,073 - V2Scraper - INFO - ============================================================
+2026-07-09 14:51:24,073 - V2Scraper - INFO - Fetching anime list from sitemap.xml...
+2026-07-09 14:51:26,281 - V2Scraper - INFO - Sitemap: 286 anime
+2026-07-09 14:51:26,281 - V2Scraper - INFO - Found 286 anime
+2026-07-09 14:51:26,281 - V2Scraper - INFO -   1. Days With My Stepsister (04krYkLnGxdyZnphVjQD)
+2026-07-09 14:51:26,281 - V2Scraper - INFO -   2. Tonikawa (0AvGlAgPpCxpeHIuaJPN)
+2026-07-09 14:51:26,281 - V2Scraper - INFO -   3. Girls Band Cry (0MKV87agZS5NoAaTX6B0)
+2026-07-09 14:51:26,281 - V2Scraper - INFO -   4. Tokyo Revengers (0eav7fRw7FpJyEOwfQKl)
+2026-07-09 14:51:26,281 - V2Scraper - INFO -   5. Jujutsu Kaisen 1 (0krqHxVPwJzgjw4B5AJN)
+2026-07-09 14:51:26,281 - V2Scraper - INFO -   ... and 281 more
+2026-07-09 14:51:26,281 - V2Scraper - INFO - Will scrape 286 anime
+2026-07-09 14:51:26,331 - V2Scraper - INFO - 
+[1/286] Days With My Stepsister (04krYkLnGxdyZnphVjQD)
+2026-07-09 14:51:26,331 - V2Scraper - INFO -   Already exists (ID 6198), checking for updates...
+2026-07-09 14:51:26,332 - V2Scraper - INFO -   Existing points: 21
+2026-07-09 14:51:27,377 - V2Scraper - INFO -   RSC: 21 places (21 total unique)
+2026-07-09 14:51:27,377 - V2Scraper - INFO - Total extracted: 21 places
+2026-07-09 14:51:27,378 - V2Scraper - INFO -   No new points found
+2026-07-09 14:51:27,378 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:51:28,379 - V2Scraper - INFO - 
+[2/286] Tonikawa (0AvGlAgPpCxpeHIuaJPN)
+2026-07-09 14:51:28,379 - V2Scraper - INFO -   Already exists (ID 6199), checking for updates...
+2026-07-09 14:51:28,380 - V2Scraper - INFO -   Existing points: 7
+2026-07-09 14:51:29,225 - V2Scraper - INFO -   RSC: 7 places (7 total unique)
+2026-07-09 14:51:29,225 - V2Scraper - INFO - Total extracted: 7 places
+2026-07-09 14:51:29,225 - V2Scraper - INFO -   No new points found
+2026-07-09 14:51:29,225 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:51:30,226 - V2Scraper - INFO - 
+[3/286] Girls Band Cry (0MKV87agZS5NoAaTX6B0)
+2026-07-09 14:51:30,227 - V2Scraper - INFO -   Already exists (ID 6200), checking for updates...
+2026-07-09 14:51:30,227 - V2Scraper - INFO -   Existing points: 91
+2026-07-09 14:51:31,061 - V2Scraper - INFO -   RSC: 91 places (91 total unique)
+2026-07-09 14:51:31,061 - V2Scraper - INFO - Total extracted: 91 places
+2026-07-09 14:51:31,061 - V2Scraper - INFO -   No new points found
+2026-07-09 14:51:31,061 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:51:32,062 - V2Scraper - INFO - 
+[4/286] Tokyo Revengers (0eav7fRw7FpJyEOwfQKl)
+2026-07-09 14:51:32,063 - V2Scraper - INFO -   Already exists (ID 6201), checking for updates...
+2026-07-09 14:51:32,063 - V2Scraper - INFO -   Existing points: 26
+2026-07-09 14:51:33,047 - V2Scraper - INFO -   RSC: 26 places (26 total unique)
+2026-07-09 14:51:33,047 - V2Scraper - INFO - Total extracted: 26 places
+2026-07-09 14:51:33,047 - V2Scraper - INFO -   No new points found
+2026-07-09 14:51:33,047 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:51:34,049 - V2Scraper - INFO - 
+[5/286] Jujutsu Kaisen 1 (0krqHxVPwJzgjw4B5AJN)
+2026-07-09 14:51:34,049 - V2Scraper - INFO -   Already exists (ID 6202), checking for updates...
+2026-07-09 14:51:34,049 - V2Scraper - INFO -   Existing points: 36
+2026-07-09 14:51:34,800 - V2Scraper - INFO -   RSC: 36 places (36 total unique)
+2026-07-09 14:51:34,801 - V2Scraper - INFO - Total extracted: 36 places
+2026-07-09 14:51:34,801 - V2Scraper - INFO -   No new points found
+2026-07-09 14:51:34,801 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:51:35,802 - V2Scraper - INFO - 
+[6/286] Kaguya Sama S1 (0xrJOK7da7qvAXCrTTJ6)
+2026-07-09 14:51:35,802 - V2Scraper - INFO -   Already exists (ID 6203), checking for updates...
+2026-07-09 14:51:35,803 - V2Scraper - INFO -   Existing points: 15
+2026-07-09 14:51:36,629 - V2Scraper - INFO -   RSC: 15 places (15 total unique)
+2026-07-09 14:51:36,629 - V2Scraper - INFO - Total extracted: 15 places
+2026-07-09 14:51:36,629 - V2Scraper - INFO -   No new points found
+2026-07-09 14:51:36,629 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:51:37,630 - V2Scraper - INFO - 
+[7/286] Wonder Egg Priority (1IcHGFHi8jBaDrG3fSQo)
+2026-07-09 14:51:37,630 - V2Scraper - INFO -   Already exists (ID 6204), checking for updates...
+2026-07-09 14:51:37,631 - V2Scraper - INFO -   Existing points: 39
+2026-07-09 14:51:38,419 - V2Scraper - INFO -   RSC: 39 places (39 total unique)
+2026-07-09 14:51:38,419 - V2Scraper - INFO - Total extracted: 39 places
+2026-07-09 14:51:38,420 - V2Scraper - INFO -   No new points found
+2026-07-09 14:51:38,420 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:51:39,421 - V2Scraper - INFO - 
+[8/286] Mashle 2 (1M3MAFU6v1pvBnx8HHEq)
+2026-07-09 14:51:39,421 - V2Scraper - INFO -   Already exists (ID 6205), checking for updates...
+2026-07-09 14:51:39,422 - V2Scraper - INFO -   Existing points: 8
+2026-07-09 14:51:40,161 - V2Scraper - INFO -   RSC: 8 places (8 total unique)
+2026-07-09 14:51:40,162 - V2Scraper - INFO - Total extracted: 8 places
+2026-07-09 14:51:40,162 - V2Scraper - INFO -   No new points found
+2026-07-09 14:51:40,162 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:51:41,163 - V2Scraper - INFO - 
+[9/286] Sound Euphonium Ensemble Contest Arc (1Y4ZSYLqASYfeZRC4q26)
+2026-07-09 14:51:41,163 - V2Scraper - INFO -   Already exists (ID 6206), checking for updates...
+2026-07-09 14:51:41,164 - V2Scraper - INFO -   Existing points: 4
+2026-07-09 14:51:42,267 - V2Scraper - INFO -   RSC: 4 places (4 total unique)
+2026-07-09 14:51:42,268 - V2Scraper - INFO - Total extracted: 4 places
+2026-07-09 14:51:42,268 - V2Scraper - INFO -   No new points found
+2026-07-09 14:51:42,268 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:51:43,269 - V2Scraper - INFO - 
+[10/286] The Day I Became A God (2Qn88kmQZgyF4hkwvH9V)
+2026-07-09 14:51:43,269 - V2Scraper - INFO -   Already exists (ID 6207), checking for updates...
+2026-07-09 14:51:43,270 - V2Scraper - INFO -   Existing points: 53
+2026-07-09 14:51:44,192 - V2Scraper - INFO -   RSC: 52 places (52 total unique)
+2026-07-09 14:51:44,192 - V2Scraper - INFO - Total extracted: 52 places
+2026-07-09 14:51:44,192 - V2Scraper - INFO -   No new points found
+2026-07-09 14:51:44,192 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:51:45,193 - V2Scraper - INFO - 
+[11/286] Blue Orchestra (2fnFUFrnX38hq4LyHjQ9)
+2026-07-09 14:51:45,193 - V2Scraper - INFO -   Already exists (ID 6208), checking for updates...
+2026-07-09 14:51:45,194 - V2Scraper - INFO -   Existing points: 39
+2026-07-09 14:51:45,941 - V2Scraper - INFO -   RSC: 38 places (38 total unique)
+2026-07-09 14:51:45,941 - V2Scraper - INFO - Total extracted: 38 places
+2026-07-09 14:51:45,941 - V2Scraper - INFO -   No new points found
+2026-07-09 14:51:45,941 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:51:46,943 - V2Scraper - INFO - 
+[12/286] Ssss Dynazenon (2jBMuj47DmkLyXspvbb3)
+2026-07-09 14:51:46,943 - V2Scraper - INFO -   Already exists (ID 6209), checking for updates...
+2026-07-09 14:51:46,943 - V2Scraper - INFO -   Existing points: 18
+2026-07-09 14:51:47,821 - V2Scraper - INFO -   RSC: 18 places (18 total unique)
+2026-07-09 14:51:47,822 - V2Scraper - INFO - Total extracted: 18 places
+2026-07-09 14:51:47,822 - V2Scraper - INFO -   No new points found
+2026-07-09 14:51:47,822 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:51:48,823 - V2Scraper - INFO - 
+[13/286] New Game (3aCI73vQcF1oy3bw17Fl)
+2026-07-09 14:51:48,823 - V2Scraper - INFO -   Already exists (ID 6210), checking for updates...
+2026-07-09 14:51:48,824 - V2Scraper - INFO -   Existing points: 26
+2026-07-09 14:51:49,573 - V2Scraper - INFO -   RSC: 26 places (26 total unique)
+2026-07-09 14:51:49,573 - V2Scraper - INFO - Total extracted: 26 places
+2026-07-09 14:51:49,573 - V2Scraper - INFO -   No new points found
+2026-07-09 14:51:49,573 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:51:50,574 - V2Scraper - INFO - 
+[14/286] Amagami Sister (41qdCtiQIC4yNwpe8kWk)
+2026-07-09 14:51:50,575 - V2Scraper - INFO -   Already exists (ID 6211), checking for updates...
+2026-07-09 14:51:50,575 - V2Scraper - INFO -   Existing points: 49
+2026-07-09 14:51:51,378 - V2Scraper - INFO -   RSC: 48 places (48 total unique)
+2026-07-09 14:51:51,378 - V2Scraper - INFO - Total extracted: 48 places
+2026-07-09 14:51:51,378 - V2Scraper - INFO -   No new points found
+2026-07-09 14:51:51,378 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:51:52,379 - V2Scraper - INFO - 
+[15/286] Blue Period (4Dfm522fI1VWDj56dqkN)
+2026-07-09 14:51:52,380 - V2Scraper - INFO -   Already exists (ID 6212), checking for updates...
+2026-07-09 14:51:52,380 - V2Scraper - INFO -   Existing points: 18
+2026-07-09 14:51:53,090 - V2Scraper - INFO -   RSC: 18 places (18 total unique)
+2026-07-09 14:51:53,090 - V2Scraper - INFO - Total extracted: 18 places
+2026-07-09 14:51:53,091 - V2Scraper - INFO -   No new points found
+2026-07-09 14:51:53,091 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:51:54,092 - V2Scraper - INFO - 
+[16/286] Onimai (4aS0VtqJxde7q4nVBDYT)
+2026-07-09 14:51:54,092 - V2Scraper - INFO -   Already exists (ID 6213), checking for updates...
+2026-07-09 14:51:54,093 - V2Scraper - INFO -   Existing points: 8
+2026-07-09 14:51:55,134 - V2Scraper - INFO -   RSC: 8 places (8 total unique)
+2026-07-09 14:51:55,134 - V2Scraper - INFO - Total extracted: 8 places
+2026-07-09 14:51:55,135 - V2Scraper - INFO -   No new points found
+2026-07-09 14:51:55,135 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:51:56,136 - V2Scraper - INFO - 
+[17/286] Dagashi Kashi 2 (4h4wxGAFDIAIb7Aip05j)
+2026-07-09 14:51:56,136 - V2Scraper - INFO -   Already exists (ID 6214), checking for updates...
+2026-07-09 14:51:56,136 - V2Scraper - INFO -   Existing points: 5
+2026-07-09 14:51:57,162 - V2Scraper - INFO -   RSC: 5 places (5 total unique)
+2026-07-09 14:51:57,162 - V2Scraper - INFO - Total extracted: 5 places
+2026-07-09 14:51:57,163 - V2Scraper - INFO -   No new points found
+2026-07-09 14:51:57,163 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:51:58,164 - V2Scraper - INFO - 
+[18/286] Rent A Girlfriend (4qj55JHEmZFWloUisn7T)
+2026-07-09 14:51:58,164 - V2Scraper - INFO -   Already exists (ID 6215), checking for updates...
+2026-07-09 14:51:58,165 - V2Scraper - INFO -   Existing points: 15
+2026-07-09 14:51:59,038 - V2Scraper - INFO -   RSC: 15 places (15 total unique)
+2026-07-09 14:51:59,038 - V2Scraper - INFO - Total extracted: 15 places
+2026-07-09 14:51:59,038 - V2Scraper - INFO -   No new points found
+2026-07-09 14:51:59,038 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:00,039 - V2Scraper - INFO - 
+[19/286] Lucky Star (4xqBX6umqSEPcn2i8zGp)
+2026-07-09 14:52:00,039 - V2Scraper - INFO -   Already exists (ID 6216), checking for updates...
+2026-07-09 14:52:00,040 - V2Scraper - INFO -   Existing points: 55
+2026-07-09 14:52:00,968 - V2Scraper - INFO -   RSC: 55 places (55 total unique)
+2026-07-09 14:52:00,968 - V2Scraper - INFO - Total extracted: 55 places
+2026-07-09 14:52:00,968 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:00,968 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:01,969 - V2Scraper - INFO - 
+[20/286] Uma Musume Cinderella Gray (5Um0pl2wIvUA1sxLucet)
+2026-07-09 14:52:01,969 - V2Scraper - INFO -   Already exists (ID 6217), checking for updates...
+2026-07-09 14:52:01,970 - V2Scraper - INFO -   Existing points: 47
+2026-07-09 14:52:02,724 - V2Scraper - INFO -   RSC: 47 places (47 total unique)
+2026-07-09 14:52:02,724 - V2Scraper - INFO - Total extracted: 47 places
+2026-07-09 14:52:02,724 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:02,724 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:03,725 - V2Scraper - INFO - 
+[21/286] Insomniacs After School (5WCOHcONptTxTxp5aVEN)
+2026-07-09 14:52:03,725 - V2Scraper - INFO -   Already exists (ID 6218), checking for updates...
+2026-07-09 14:52:03,726 - V2Scraper - INFO -   Existing points: 26
+2026-07-09 14:52:04,628 - V2Scraper - INFO -   RSC: 26 places (26 total unique)
+2026-07-09 14:52:04,628 - V2Scraper - INFO - Total extracted: 26 places
+2026-07-09 14:52:04,628 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:04,628 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:05,629 - V2Scraper - INFO - 
+[22/286] Oregairu Snafu 3 (5vE1eznAXty26eatfkUr)
+2026-07-09 14:52:05,629 - V2Scraper - INFO -   Already exists (ID 6219), checking for updates...
+2026-07-09 14:52:05,629 - V2Scraper - INFO -   Existing points: 30
+2026-07-09 14:52:06,583 - V2Scraper - INFO -   RSC: 30 places (30 total unique)
+2026-07-09 14:52:06,583 - V2Scraper - INFO - Total extracted: 30 places
+2026-07-09 14:52:06,583 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:06,583 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:07,584 - V2Scraper - INFO - 
+[23/286] Love Live Sunshine (6N67DR42EcjHOgapUH3I)
+2026-07-09 14:52:07,585 - V2Scraper - INFO -   Already exists (ID 6220), checking for updates...
+2026-07-09 14:52:07,585 - V2Scraper - INFO -   Existing points: 84
+2026-07-09 14:52:08,487 - V2Scraper - INFO -   RSC: 84 places (84 total unique)
+2026-07-09 14:52:08,487 - V2Scraper - INFO - Total extracted: 84 places
+2026-07-09 14:52:08,487 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:08,487 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:09,488 - V2Scraper - INFO - 
+[24/286] Yuri On Ice (6cTFY0N0Tckm3bOHJzxT)
+2026-07-09 14:52:09,489 - V2Scraper - INFO -   Already exists (ID 6221), checking for updates...
+2026-07-09 14:52:09,489 - V2Scraper - INFO -   Existing points: 21
+2026-07-09 14:52:10,244 - V2Scraper - INFO -   RSC: 21 places (21 total unique)
+2026-07-09 14:52:10,244 - V2Scraper - INFO - Total extracted: 21 places
+2026-07-09 14:52:10,244 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:10,245 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:11,246 - V2Scraper - INFO - 
+[25/286] Whisper Of The Heart (6l6BPuRhgYMBB6cZQmYY)
+2026-07-09 14:52:11,246 - V2Scraper - INFO -   Already exists (ID 6222), checking for updates...
+2026-07-09 14:52:11,246 - V2Scraper - INFO -   Existing points: 8
+2026-07-09 14:52:12,019 - V2Scraper - INFO -   RSC: 8 places (8 total unique)
+2026-07-09 14:52:12,019 - V2Scraper - INFO - Total extracted: 8 places
+2026-07-09 14:52:12,019 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:12,019 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:13,020 - V2Scraper - INFO - 
+[26/286] Death Note (6tJB3K9VJZUzMkqcnP70)
+2026-07-09 14:52:13,020 - V2Scraper - INFO -   Already exists (ID 6223), checking for updates...
+2026-07-09 14:52:13,021 - V2Scraper - INFO -   Existing points: 24
+2026-07-09 14:52:13,753 - V2Scraper - INFO -   RSC: 24 places (24 total unique)
+2026-07-09 14:52:13,753 - V2Scraper - INFO - Total extracted: 24 places
+2026-07-09 14:52:13,754 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:13,754 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:14,755 - V2Scraper - INFO - 
+[27/286] Grand Blue Dreaming 2 (71R457ymVP7fNC5zV87p)
+2026-07-09 14:52:14,755 - V2Scraper - INFO -   Already exists (ID 6224), checking for updates...
+2026-07-09 14:52:14,756 - V2Scraper - INFO -   Existing points: 4
+2026-07-09 14:52:15,485 - V2Scraper - INFO -   RSC: 4 places (4 total unique)
+2026-07-09 14:52:15,485 - V2Scraper - INFO - Total extracted: 4 places
+2026-07-09 14:52:15,485 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:15,485 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:16,486 - V2Scraper - INFO - 
+[28/286] Natsumes Book Of Friends (78Sd6GOolITNMHjhXe7G)
+2026-07-09 14:52:16,486 - V2Scraper - INFO -   Already exists (ID 6225), checking for updates...
+2026-07-09 14:52:16,487 - V2Scraper - INFO -   Existing points: 13
+2026-07-09 14:52:17,359 - V2Scraper - INFO -   RSC: 13 places (13 total unique)
+2026-07-09 14:52:17,359 - V2Scraper - INFO - Total extracted: 13 places
+2026-07-09 14:52:17,359 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:17,359 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:18,360 - V2Scraper - INFO - 
+[29/286] Fate Stay Night Unlimited Blade Works (7Mb8EsEXGlzHao3g6w6M)
+2026-07-09 14:52:18,361 - V2Scraper - INFO -   Already exists (ID 6226), checking for updates...
+2026-07-09 14:52:18,361 - V2Scraper - INFO -   Existing points: 14
+2026-07-09 14:52:19,246 - V2Scraper - INFO -   RSC: 14 places (14 total unique)
+2026-07-09 14:52:19,246 - V2Scraper - INFO - Total extracted: 14 places
+2026-07-09 14:52:19,246 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:19,246 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:20,247 - V2Scraper - INFO - 
+[30/286] Dropout Idol Fruit Tart (7X8GwlsO7iyhgQXDGEcI)
+2026-07-09 14:52:20,247 - V2Scraper - INFO -   Already exists (ID 6227), checking for updates...
+2026-07-09 14:52:20,248 - V2Scraper - INFO -   Existing points: 9
+2026-07-09 14:52:21,249 - V2Scraper - INFO -   RSC: 9 places (9 total unique)
+2026-07-09 14:52:21,249 - V2Scraper - INFO - Total extracted: 9 places
+2026-07-09 14:52:21,249 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:21,249 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:22,250 - V2Scraper - INFO - 
+[31/286] Hokkaido Gals Are Super Adorable (7hci6sBMlfGq4sAIW9hp)
+2026-07-09 14:52:22,250 - V2Scraper - INFO -   Already exists (ID 6228), checking for updates...
+2026-07-09 14:52:22,251 - V2Scraper - INFO -   Existing points: 20
+2026-07-09 14:52:22,977 - V2Scraper - INFO -   RSC: 20 places (20 total unique)
+2026-07-09 14:52:22,977 - V2Scraper - INFO - Total extracted: 20 places
+2026-07-09 14:52:22,978 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:22,978 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:23,979 - V2Scraper - INFO - 
+[32/286] Fireworks 2017 (7i2GVSJGLkEIJoAzrntM)
+2026-07-09 14:52:23,979 - V2Scraper - INFO -   Already exists (ID 6229), checking for updates...
+2026-07-09 14:52:23,980 - V2Scraper - INFO -   Existing points: 7
+2026-07-09 14:52:24,922 - V2Scraper - INFO -   RSC: 7 places (7 total unique)
+2026-07-09 14:52:24,923 - V2Scraper - INFO - Total extracted: 7 places
+2026-07-09 14:52:24,923 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:24,923 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:25,924 - V2Scraper - INFO - 
+[33/286] Tis Time For Torture Princess (7nPtaNBDbDFBWRVv9dvm)
+2026-07-09 14:52:25,924 - V2Scraper - INFO -   Already exists (ID 6230), checking for updates...
+2026-07-09 14:52:25,925 - V2Scraper - INFO -   Existing points: 3
+2026-07-09 14:52:26,824 - V2Scraper - INFO -   RSC: 3 places (3 total unique)
+2026-07-09 14:52:26,825 - V2Scraper - INFO - Total extracted: 3 places
+2026-07-09 14:52:26,825 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:26,825 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:27,826 - V2Scraper - INFO - 
+[34/286] Tari Tari (7uy92cNLDMaXLxP9kiLy)
+2026-07-09 14:52:27,826 - V2Scraper - INFO -   Already exists (ID 6231), checking for updates...
+2026-07-09 14:52:27,827 - V2Scraper - INFO -   Existing points: 50
+2026-07-09 14:52:28,690 - V2Scraper - INFO -   RSC: 49 places (49 total unique)
+2026-07-09 14:52:28,690 - V2Scraper - INFO - Total extracted: 49 places
+2026-07-09 14:52:28,690 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:28,691 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:29,692 - V2Scraper - INFO - 
+[35/286] Steel Ball Run Jojo S Bizarre Adventure 1St Stage (81Yt30qQuWyUxR3evZkx)
+2026-07-09 14:52:29,692 - V2Scraper - INFO -   Already exists (ID 6232), checking for updates...
+2026-07-09 14:52:29,692 - V2Scraper - INFO -   Existing points: 1
+2026-07-09 14:52:30,750 - V2Scraper - INFO -   RSC: 1 places (1 total unique)
+2026-07-09 14:52:30,750 - V2Scraper - INFO - Total extracted: 1 places
+2026-07-09 14:52:30,750 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:30,750 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:31,752 - V2Scraper - INFO - 
+[36/286] Hanasaku Iroha (85RF5tAgykz6goUkarZI)
+2026-07-09 14:52:31,752 - V2Scraper - INFO -   Already exists (ID 6233), checking for updates...
+2026-07-09 14:52:31,753 - V2Scraper - INFO -   Existing points: 48
+2026-07-09 14:52:32,554 - V2Scraper - INFO -   RSC: 48 places (48 total unique)
+2026-07-09 14:52:32,554 - V2Scraper - INFO - Total extracted: 48 places
+2026-07-09 14:52:32,555 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:32,555 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:33,556 - V2Scraper - INFO - 
+[37/286] Apocalypse Hotel (85SdTr9RvljF5f8N0BZ6)
+2026-07-09 14:52:33,556 - V2Scraper - INFO -   Already exists (ID 6234), checking for updates...
+2026-07-09 14:52:33,557 - V2Scraper - INFO -   Existing points: 47
+2026-07-09 14:52:34,311 - V2Scraper - INFO -   RSC: 45 places (45 total unique)
+2026-07-09 14:52:34,311 - V2Scraper - INFO - Total extracted: 45 places
+2026-07-09 14:52:34,311 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:34,311 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:35,312 - V2Scraper - INFO - 
+[38/286] The Fragrant Flower Blooms With Dignity (8qH4apWLfIBDT1mUOPKG)
+2026-07-09 14:52:35,312 - V2Scraper - INFO -   Already exists (ID 6235), checking for updates...
+2026-07-09 14:52:35,313 - V2Scraper - INFO -   Existing points: 40
+2026-07-09 14:52:36,104 - V2Scraper - INFO -   RSC: 40 places (40 total unique)
+2026-07-09 14:52:36,104 - V2Scraper - INFO - Total extracted: 40 places
+2026-07-09 14:52:36,104 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:36,104 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:37,106 - V2Scraper - INFO - 
+[39/286] Zatsutabi That S Journey (8zT7IvWSfgzbUGZLUFkL)
+2026-07-09 14:52:37,106 - V2Scraper - INFO -   Already exists (ID 6236), checking for updates...
+2026-07-09 14:52:37,106 - V2Scraper - INFO -   Existing points: 24
+2026-07-09 14:52:37,935 - V2Scraper - INFO -   RSC: 24 places (24 total unique)
+2026-07-09 14:52:37,935 - V2Scraper - INFO - Total extracted: 24 places
+2026-07-09 14:52:37,935 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:37,935 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:38,936 - V2Scraper - INFO - 
+[40/286] Sound Euphonium Our Promise A Brand New Day (97Fqg7Hq6Y4AIjA1WvNb)
+2026-07-09 14:52:38,936 - V2Scraper - INFO -   Already exists (ID 6237), checking for updates...
+2026-07-09 14:52:38,937 - V2Scraper - INFO -   Existing points: 26
+2026-07-09 14:52:39,989 - V2Scraper - INFO -   RSC: 26 places (26 total unique)
+2026-07-09 14:52:39,990 - V2Scraper - INFO - Total extracted: 26 places
+2026-07-09 14:52:39,990 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:39,990 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:40,991 - V2Scraper - INFO - 
+[41/286] Love Chunibyo Other Delusions Take On Me (9CrfdTfoKGhoPGvKXh4M)
+2026-07-09 14:52:40,991 - V2Scraper - INFO -   Already exists (ID 6238), checking for updates...
+2026-07-09 14:52:40,992 - V2Scraper - INFO -   Existing points: 67
+2026-07-09 14:52:41,941 - V2Scraper - INFO -   RSC: 67 places (67 total unique)
+2026-07-09 14:52:41,941 - V2Scraper - INFO - Total extracted: 67 places
+2026-07-09 14:52:41,942 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:41,942 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:42,943 - V2Scraper - INFO - 
+[42/286] Blue Box (9ZIN8PmoDf4FEvUSDUQB)
+2026-07-09 14:52:42,943 - V2Scraper - INFO -   Already exists (ID 6239), checking for updates...
+2026-07-09 14:52:42,944 - V2Scraper - INFO -   Existing points: 30
+2026-07-09 14:52:43,690 - V2Scraper - INFO -   RSC: 30 places (30 total unique)
+2026-07-09 14:52:43,690 - V2Scraper - INFO - Total extracted: 30 places
+2026-07-09 14:52:43,690 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:43,690 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:44,691 - V2Scraper - INFO - 
+[43/286] The Angel Next Door Spoils Me Rotten 2 (9gKVtw8iZrRzIo45GXAF)
+2026-07-09 14:52:44,692 - V2Scraper - INFO -   Already exists (ID 6240), checking for updates...
+2026-07-09 14:52:44,692 - V2Scraper - INFO -   Existing points: 11
+2026-07-09 14:52:45,850 - V2Scraper - INFO - Total extracted: 0 places
+2026-07-09 14:52:45,851 - V2Scraper - INFO -   No places found on website
+2026-07-09 14:52:45,851 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:46,852 - V2Scraper - INFO - 
+[44/286] Bang Dream (A3z4LwVo0l6qQmaYFKdg)
+2026-07-09 14:52:46,852 - V2Scraper - INFO -   Already exists (ID 6241), checking for updates...
+2026-07-09 14:52:46,853 - V2Scraper - INFO -   Existing points: 18
+2026-07-09 14:52:47,594 - V2Scraper - INFO -   RSC: 18 places (18 total unique)
+2026-07-09 14:52:47,594 - V2Scraper - INFO - Total extracted: 18 places
+2026-07-09 14:52:47,595 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:47,595 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:48,596 - V2Scraper - INFO - 
+[45/286] Dead Dead Demons Dededede Destruction (ABylpzTMQoHclWbCQHSw)
+2026-07-09 14:52:48,596 - V2Scraper - INFO -   Already exists (ID 6242), checking for updates...
+2026-07-09 14:52:48,597 - V2Scraper - INFO -   Existing points: 40
+2026-07-09 14:52:49,443 - V2Scraper - INFO -   RSC: 40 places (40 total unique)
+2026-07-09 14:52:49,443 - V2Scraper - INFO - Total extracted: 40 places
+2026-07-09 14:52:49,443 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:49,443 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:50,444 - V2Scraper - INFO - 
+[46/286] Dandadan 2 (AE4iiD5ynf1anVhFRnw0)
+2026-07-09 14:52:50,444 - V2Scraper - INFO -   Already exists (ID 6243), checking for updates...
+2026-07-09 14:52:50,445 - V2Scraper - INFO -   Existing points: 5
+2026-07-09 14:52:51,335 - V2Scraper - INFO -   RSC: 5 places (5 total unique)
+2026-07-09 14:52:51,335 - V2Scraper - INFO - Total extracted: 5 places
+2026-07-09 14:52:51,335 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:51,335 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:52,337 - V2Scraper - INFO - 
+[47/286] Lycoris Recoil (AHmlbLlbnRJDHFAJLTAQ)
+2026-07-09 14:52:52,337 - V2Scraper - INFO -   Already exists (ID 6244), checking for updates...
+2026-07-09 14:52:52,337 - V2Scraper - INFO -   Existing points: 52
+2026-07-09 14:52:53,217 - V2Scraper - INFO -   RSC: 52 places (52 total unique)
+2026-07-09 14:52:53,217 - V2Scraper - INFO - Total extracted: 52 places
+2026-07-09 14:52:53,217 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:53,217 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:54,219 - V2Scraper - INFO - 
+[48/286] Gridman Universe (AZXMWk8QzkQdJm86FJUl)
+2026-07-09 14:52:54,219 - V2Scraper - INFO -   Already exists (ID 6245), checking for updates...
+2026-07-09 14:52:54,219 - V2Scraper - INFO -   Existing points: 8
+2026-07-09 14:52:55,277 - V2Scraper - INFO -   RSC: 8 places (8 total unique)
+2026-07-09 14:52:55,277 - V2Scraper - INFO - Total extracted: 8 places
+2026-07-09 14:52:55,278 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:55,278 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:56,279 - V2Scraper - INFO - 
+[49/286] Evangelion 3 1 Thrice Upon A Time (Abq0KH3lFo26R6IyQUh1)
+2026-07-09 14:52:56,279 - V2Scraper - INFO -   Already exists (ID 6246), checking for updates...
+2026-07-09 14:52:56,279 - V2Scraper - INFO -   Existing points: 3
+2026-07-09 14:52:57,174 - V2Scraper - INFO -   RSC: 3 places (3 total unique)
+2026-07-09 14:52:57,174 - V2Scraper - INFO - Total extracted: 3 places
+2026-07-09 14:52:57,174 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:57,174 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:58,175 - V2Scraper - INFO - 
+[50/286] The Garden Of Words (ApvypIptXMAXCVFBuk9C)
+2026-07-09 14:52:58,175 - V2Scraper - INFO -   Already exists (ID 6247), checking for updates...
+2026-07-09 14:52:58,176 - V2Scraper - INFO -   Existing points: 14
+2026-07-09 14:52:58,905 - V2Scraper - INFO -   RSC: 13 places (13 total unique)
+2026-07-09 14:52:58,905 - V2Scraper - INFO - Total extracted: 13 places
+2026-07-09 14:52:58,905 - V2Scraper - INFO -   No new points found
+2026-07-09 14:52:58,905 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:52:59,906 - V2Scraper - INFO - 
+[51/286] Turkey (AxyoCcQwwFmQNp75ST6m)
+2026-07-09 14:52:59,906 - V2Scraper - INFO -   Already exists (ID 6248), checking for updates...
+2026-07-09 14:52:59,907 - V2Scraper - INFO -   Existing points: 25
+2026-07-09 14:53:01,213 - V2Scraper - INFO -   RSC: 25 places (25 total unique)
+2026-07-09 14:53:01,214 - V2Scraper - INFO - Total extracted: 25 places
+2026-07-09 14:53:01,214 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:01,214 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:02,215 - V2Scraper - INFO - 
+[52/286] Golden Kamuy (BAaQbAhyA2wlhHJvqvGi)
+2026-07-09 14:53:02,215 - V2Scraper - INFO -   Already exists (ID 6249), checking for updates...
+2026-07-09 14:53:02,216 - V2Scraper - INFO -   Existing points: 8
+2026-07-09 14:53:03,114 - V2Scraper - INFO -   RSC: 7 places (7 total unique)
+2026-07-09 14:53:03,114 - V2Scraper - INFO - Total extracted: 7 places
+2026-07-09 14:53:03,114 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:03,114 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:04,115 - V2Scraper - INFO - 
+[53/286] March Comes In Like A Lion 2 (BSEWzX7gx8CG93Q9jxkg)
+2026-07-09 14:53:04,115 - V2Scraper - INFO -   Already exists (ID 6250), checking for updates...
+2026-07-09 14:53:04,116 - V2Scraper - INFO -   Existing points: 54
+2026-07-09 14:53:05,016 - V2Scraper - INFO - Total extracted: 0 places
+2026-07-09 14:53:05,016 - V2Scraper - INFO -   No places found on website
+2026-07-09 14:53:05,016 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:06,017 - V2Scraper - INFO - 
+[54/286] The Summer Hikaru Died (BbOGxPV5ltaIJGgljwj5)
+2026-07-09 14:53:06,018 - V2Scraper - INFO -   Already exists (ID 6251), checking for updates...
+2026-07-09 14:53:06,018 - V2Scraper - INFO -   Existing points: 28
+2026-07-09 14:53:06,845 - V2Scraper - INFO -   RSC: 27 places (27 total unique)
+2026-07-09 14:53:06,845 - V2Scraper - INFO - Total extracted: 27 places
+2026-07-09 14:53:06,845 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:06,845 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:07,846 - V2Scraper - INFO - 
+[55/286] Bungo Stray Dogs 2 (BrwQNQDWky56Fnmdpz09)
+2026-07-09 14:53:07,846 - V2Scraper - INFO -   Already exists (ID 6252), checking for updates...
+2026-07-09 14:53:07,847 - V2Scraper - INFO -   Existing points: 25
+2026-07-09 14:53:08,606 - V2Scraper - INFO -   RSC: 25 places (25 total unique)
+2026-07-09 14:53:08,607 - V2Scraper - INFO - Total extracted: 25 places
+2026-07-09 14:53:08,607 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:08,607 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:09,608 - V2Scraper - INFO - 
+[56/286] Uncle From Another World (ChNY4S1HnwsoVA8BIxa0)
+2026-07-09 14:53:09,608 - V2Scraper - INFO -   Already exists (ID 6253), checking for updates...
+2026-07-09 14:53:09,609 - V2Scraper - INFO -   Existing points: 3
+2026-07-09 14:53:10,618 - V2Scraper - INFO -   RSC: 3 places (3 total unique)
+2026-07-09 14:53:10,618 - V2Scraper - INFO - Total extracted: 3 places
+2026-07-09 14:53:10,618 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:10,618 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:11,619 - V2Scraper - INFO - 
+[57/286] Oreimo (D2Udeh1YIJW348yYv9Tl)
+2026-07-09 14:53:11,619 - V2Scraper - INFO -   Already exists (ID 6254), checking for updates...
+2026-07-09 14:53:11,619 - V2Scraper - INFO -   Existing points: 39
+2026-07-09 14:53:12,400 - V2Scraper - INFO -   RSC: 38 places (38 total unique)
+2026-07-09 14:53:12,400 - V2Scraper - INFO - Total extracted: 38 places
+2026-07-09 14:53:12,400 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:12,401 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:13,402 - V2Scraper - INFO - 
+[58/286] Oregairu Snafu (DBdW9GogqQh4X5Jz5YJ1)
+2026-07-09 14:53:13,402 - V2Scraper - INFO -   Already exists (ID 6255), checking for updates...
+2026-07-09 14:53:13,402 - V2Scraper - INFO -   Existing points: 16
+2026-07-09 14:53:14,619 - V2Scraper - INFO -   RSC: 16 places (16 total unique)
+2026-07-09 14:53:14,619 - V2Scraper - INFO - Total extracted: 16 places
+2026-07-09 14:53:14,619 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:14,619 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:15,620 - V2Scraper - INFO - 
+[59/286] Flying Witch (DJqlB9ZQhbhKlMlUyBOb)
+2026-07-09 14:53:15,620 - V2Scraper - INFO -   Already exists (ID 6256), checking for updates...
+2026-07-09 14:53:15,621 - V2Scraper - INFO -   Existing points: 36
+2026-07-09 14:53:16,377 - V2Scraper - INFO -   RSC: 36 places (36 total unique)
+2026-07-09 14:53:16,377 - V2Scraper - INFO - Total extracted: 36 places
+2026-07-09 14:53:16,377 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:16,377 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:17,378 - V2Scraper - INFO - 
+[60/286] Yofukashi No Uta 2 (DOBudmYUGamzQcwLtadk)
+2026-07-09 14:53:17,378 - V2Scraper - INFO -   Already exists (ID 6257), checking for updates...
+2026-07-09 14:53:17,379 - V2Scraper - INFO -   Existing points: 47
+2026-07-09 14:53:18,282 - V2Scraper - INFO -   RSC: 46 places (46 total unique)
+2026-07-09 14:53:18,282 - V2Scraper - INFO - Total extracted: 46 places
+2026-07-09 14:53:18,282 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:18,282 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:19,283 - V2Scraper - INFO - 
+[61/286] Beyond The Boundary (DYG61cbESPhK3vp1Zs1D)
+2026-07-09 14:53:19,283 - V2Scraper - INFO -   Already exists (ID 6258), checking for updates...
+2026-07-09 14:53:19,284 - V2Scraper - INFO -   Existing points: 53
+2026-07-09 14:53:20,203 - V2Scraper - INFO -   RSC: 50 places (50 total unique)
+2026-07-09 14:53:20,203 - V2Scraper - INFO - Total extracted: 50 places
+2026-07-09 14:53:20,203 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:20,203 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:21,204 - V2Scraper - INFO - 
+[62/286] March Comes In Like A Lion (Db9UkC3dvNtEle8hAoB9)
+2026-07-09 14:53:21,205 - V2Scraper - INFO -   Already exists (ID 6259), checking for updates...
+2026-07-09 14:53:21,205 - V2Scraper - INFO -   Existing points: 63
+2026-07-09 14:53:22,059 - V2Scraper - INFO -   RSC: 63 places (63 total unique)
+2026-07-09 14:53:22,059 - V2Scraper - INFO - Total extracted: 63 places
+2026-07-09 14:53:22,059 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:22,059 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:23,060 - V2Scraper - INFO - 
+[63/286] Blue Archive (Dmm38vQWI8Dn0oNd1P5v)
+2026-07-09 14:53:23,061 - V2Scraper - INFO -   Already exists (ID 6260), checking for updates...
+2026-07-09 14:53:23,061 - V2Scraper - INFO -   Existing points: 12
+2026-07-09 14:53:23,982 - V2Scraper - INFO -   RSC: 12 places (12 total unique)
+2026-07-09 14:53:23,982 - V2Scraper - INFO - Total extracted: 12 places
+2026-07-09 14:53:23,982 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:23,982 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:24,983 - V2Scraper - INFO - 
+[64/286] You And I Are Polar Opposites Season 2 (Dts24mB9vQ2lpeOlu0sm)
+2026-07-09 14:53:24,983 - V2Scraper - INFO -   Already exists (ID 6798), checking for updates...
+2026-07-09 14:53:24,984 - V2Scraper - INFO -   Existing points: 1
+2026-07-09 14:53:25,748 - V2Scraper - INFO -   RSC: 1 places (1 total unique)
+2026-07-09 14:53:25,748 - V2Scraper - INFO - Total extracted: 1 places
+2026-07-09 14:53:25,748 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:25,748 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:26,749 - V2Scraper - INFO - 
+[65/286] Honey Lemon Soda (EBgnvTrAN9hUEHZPOFpi)
+2026-07-09 14:53:26,750 - V2Scraper - INFO -   Already exists (ID 6261), checking for updates...
+2026-07-09 14:53:26,750 - V2Scraper - INFO -   Existing points: 24
+2026-07-09 14:53:27,629 - V2Scraper - INFO -   RSC: 24 places (24 total unique)
+2026-07-09 14:53:27,629 - V2Scraper - INFO - Total extracted: 24 places
+2026-07-09 14:53:27,629 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:27,629 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:28,631 - V2Scraper - INFO - 
+[66/286] Love Live Superstar (EGvIebIxQ4ZkuYcNWpoQ)
+2026-07-09 14:53:28,631 - V2Scraper - INFO -   Already exists (ID 6262), checking for updates...
+2026-07-09 14:53:28,632 - V2Scraper - INFO -   Existing points: 69
+2026-07-09 14:53:29,425 - V2Scraper - INFO -   RSC: 66 places (66 total unique)
+2026-07-09 14:53:29,426 - V2Scraper - INFO - Total extracted: 66 places
+2026-07-09 14:53:29,426 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:29,426 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:30,427 - V2Scraper - INFO - 
+[67/286] Hyouka (EOXrs8aYwsclgT0TcA91)
+2026-07-09 14:53:30,427 - V2Scraper - INFO -   Already exists (ID 6263), checking for updates...
+2026-07-09 14:53:30,428 - V2Scraper - INFO -   Existing points: 52
+2026-07-09 14:53:31,233 - V2Scraper - INFO -   RSC: 51 places (51 total unique)
+2026-07-09 14:53:31,233 - V2Scraper - INFO - Total extracted: 51 places
+2026-07-09 14:53:31,233 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:31,233 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:32,235 - V2Scraper - INFO - 
+[68/286] Yofukashi No Uta (Elw6prO9MD1CCudCkxzj)
+2026-07-09 14:53:32,235 - V2Scraper - INFO -   Already exists (ID 6264), checking for updates...
+2026-07-09 14:53:32,235 - V2Scraper - INFO -   Existing points: 52
+2026-07-09 14:53:33,123 - V2Scraper - INFO -   RSC: 51 places (51 total unique)
+2026-07-09 14:53:33,123 - V2Scraper - INFO - Total extracted: 51 places
+2026-07-09 14:53:33,123 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:33,123 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:34,124 - V2Scraper - INFO - 
+[69/286] Akane Banashi (F5gBooqJ1oVepAqEaLBS)
+2026-07-09 14:53:34,124 - V2Scraper - INFO -   Already exists (ID 6265), checking for updates...
+2026-07-09 14:53:34,125 - V2Scraper - INFO -   Existing points: 20
+2026-07-09 14:53:34,910 - V2Scraper - INFO - Total extracted: 0 places
+2026-07-09 14:53:34,910 - V2Scraper - INFO -   No places found on website
+2026-07-09 14:53:34,910 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:35,912 - V2Scraper - INFO - 
+[70/286] Horimiya The Missing Pieces (FFkjtVIIFwWbSPpJJgjp)
+2026-07-09 14:53:35,912 - V2Scraper - INFO -   Already exists (ID 6266), checking for updates...
+2026-07-09 14:53:35,912 - V2Scraper - INFO -   Existing points: 16
+2026-07-09 14:53:36,934 - V2Scraper - INFO -   RSC: 16 places (16 total unique)
+2026-07-09 14:53:36,934 - V2Scraper - INFO - Total extracted: 16 places
+2026-07-09 14:53:36,935 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:36,935 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:37,936 - V2Scraper - INFO - 
+[71/286] Belle 2021 (FO7hxjRqpUKQEKF7wpux)
+2026-07-09 14:53:37,936 - V2Scraper - INFO -   Already exists (ID 6267), checking for updates...
+2026-07-09 14:53:37,937 - V2Scraper - INFO -   Existing points: 13
+2026-07-09 14:53:39,018 - V2Scraper - INFO -   RSC: 13 places (13 total unique)
+2026-07-09 14:53:39,018 - V2Scraper - INFO - Total extracted: 13 places
+2026-07-09 14:53:39,018 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:39,018 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:40,019 - V2Scraper - INFO - 
+[72/286] Fate Stay Night Heavens Feel (Frbo1DB6JLFhe7MROo4i)
+2026-07-09 14:53:40,020 - V2Scraper - INFO -   Already exists (ID 6268), checking for updates...
+2026-07-09 14:53:40,020 - V2Scraper - INFO -   Existing points: 19
+2026-07-09 14:53:40,810 - V2Scraper - INFO -   RSC: 19 places (19 total unique)
+2026-07-09 14:53:40,810 - V2Scraper - INFO - Total extracted: 19 places
+2026-07-09 14:53:40,810 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:40,810 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:41,811 - V2Scraper - INFO - 
+[73/286] Durarara (GAQtt96ISTksBTjpxgCk)
+2026-07-09 14:53:41,811 - V2Scraper - INFO -   Already exists (ID 6269), checking for updates...
+2026-07-09 14:53:41,812 - V2Scraper - INFO -   Existing points: 52
+2026-07-09 14:53:42,578 - V2Scraper - INFO -   RSC: 51 places (51 total unique)
+2026-07-09 14:53:42,578 - V2Scraper - INFO - Total extracted: 51 places
+2026-07-09 14:53:42,578 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:42,578 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:43,580 - V2Scraper - INFO - 
+[74/286] Deaimon (GGK68mRHW4OPU8cFrqZJ)
+2026-07-09 14:53:43,580 - V2Scraper - INFO -   Already exists (ID 6270), checking for updates...
+2026-07-09 14:53:43,581 - V2Scraper - INFO -   Existing points: 40
+2026-07-09 14:53:44,330 - V2Scraper - INFO -   RSC: 40 places (40 total unique)
+2026-07-09 14:53:44,331 - V2Scraper - INFO - Total extracted: 40 places
+2026-07-09 14:53:44,331 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:44,331 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:45,332 - V2Scraper - INFO - 
+[75/286] Golden Time (GSbk5qoSrQuK0ngo3dZ5)
+2026-07-09 14:53:45,332 - V2Scraper - INFO -   Already exists (ID 6271), checking for updates...
+2026-07-09 14:53:45,333 - V2Scraper - INFO -   Existing points: 40
+2026-07-09 14:53:46,086 - V2Scraper - INFO -   RSC: 39 places (39 total unique)
+2026-07-09 14:53:46,086 - V2Scraper - INFO - Total extracted: 39 places
+2026-07-09 14:53:46,086 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:46,086 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:47,087 - V2Scraper - INFO - 
+[76/286] Summer Wars (GZaJ97LjywZ1fdsyQbmn)
+2026-07-09 14:53:47,088 - V2Scraper - INFO -   Already exists (ID 6272), checking for updates...
+2026-07-09 14:53:47,088 - V2Scraper - INFO -   Existing points: 5
+2026-07-09 14:53:47,882 - V2Scraper - INFO -   RSC: 5 places (5 total unique)
+2026-07-09 14:53:47,883 - V2Scraper - INFO - Total extracted: 5 places
+2026-07-09 14:53:47,883 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:47,883 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:48,884 - V2Scraper - INFO - 
+[77/286] K On 2 (Gpu7jpmS4b1ZQAtwyAkO)
+2026-07-09 14:53:48,884 - V2Scraper - INFO -   Already exists (ID 6273), checking for updates...
+2026-07-09 14:53:48,885 - V2Scraper - INFO -   Existing points: 52
+2026-07-09 14:53:49,622 - V2Scraper - INFO -   RSC: 51 places (51 total unique)
+2026-07-09 14:53:49,622 - V2Scraper - INFO - Total extracted: 51 places
+2026-07-09 14:53:49,622 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:49,622 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:50,623 - V2Scraper - INFO - 
+[78/286] Another (GvZRe6RQu5McETXnr5eT)
+2026-07-09 14:53:50,624 - V2Scraper - INFO -   Already exists (ID 6274), checking for updates...
+2026-07-09 14:53:50,624 - V2Scraper - INFO -   Existing points: 10
+2026-07-09 14:53:51,538 - V2Scraper - INFO -   RSC: 10 places (10 total unique)
+2026-07-09 14:53:51,538 - V2Scraper - INFO - Total extracted: 10 places
+2026-07-09 14:53:51,538 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:51,538 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:52,540 - V2Scraper - INFO - 
+[79/286] Kaiju No8 2 (H0Kp9SKcNRbV2Z7CoAE5)
+2026-07-09 14:53:52,540 - V2Scraper - INFO -   Already exists (ID 6275), checking for updates...
+2026-07-09 14:53:52,541 - V2Scraper - INFO -   Existing points: 28
+2026-07-09 14:53:53,309 - V2Scraper - INFO -   RSC: 28 places (28 total unique)
+2026-07-09 14:53:53,309 - V2Scraper - INFO - Total extracted: 28 places
+2026-07-09 14:53:53,309 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:53,309 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:54,310 - V2Scraper - INFO - 
+[80/286] Sound Euphonium (HImqnRta69y0Y3Fapb8E)
+2026-07-09 14:53:54,310 - V2Scraper - INFO -   Already exists (ID 6276), checking for updates...
+2026-07-09 14:53:54,311 - V2Scraper - INFO -   Existing points: 29
+2026-07-09 14:53:55,049 - V2Scraper - INFO -   RSC: 29 places (29 total unique)
+2026-07-09 14:53:55,049 - V2Scraper - INFO - Total extracted: 29 places
+2026-07-09 14:53:55,049 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:55,049 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:56,051 - V2Scraper - INFO - 
+[81/286] Persona 5 The Animation (HiZmwfyeRVKgeXXv2605)
+2026-07-09 14:53:56,051 - V2Scraper - INFO -   Already exists (ID 6277), checking for updates...
+2026-07-09 14:53:56,051 - V2Scraper - INFO -   Existing points: 11
+2026-07-09 14:53:56,765 - V2Scraper - INFO -   RSC: 11 places (11 total unique)
+2026-07-09 14:53:56,765 - V2Scraper - INFO - Total extracted: 11 places
+2026-07-09 14:53:56,766 - V2Scraper - INFO -   No new points found
+2026-07-09 14:53:56,766 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:57,767 - V2Scraper - INFO - 
+[82/286] Botan Kamiina Fully Blossoms When Drunk (HzSYskmZll63CrQoqUsU)
+2026-07-09 14:53:57,767 - V2Scraper - INFO -   Already exists (ID 6278), checking for updates...
+2026-07-09 14:53:57,768 - V2Scraper - INFO -   Existing points: 139
+2026-07-09 14:53:58,806 - V2Scraper - INFO - Total extracted: 0 places
+2026-07-09 14:53:58,806 - V2Scraper - INFO -   No places found on website
+2026-07-09 14:53:58,807 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:53:59,808 - V2Scraper - INFO - 
+[83/286] Narenare (Ififqm0dAhXtiSEM5BN0)
+2026-07-09 14:53:59,808 - V2Scraper - INFO -   Already exists (ID 6279), checking for updates...
+2026-07-09 14:53:59,809 - V2Scraper - INFO -   Existing points: 32
+2026-07-09 14:54:00,707 - V2Scraper - INFO -   RSC: 32 places (32 total unique)
+2026-07-09 14:54:00,707 - V2Scraper - INFO - Total extracted: 32 places
+2026-07-09 14:54:00,707 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:00,707 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:01,708 - V2Scraper - INFO - 
+[84/286] Teasing Master Takagi San 3 (IrgbISlZnKp368pmKXQD)
+2026-07-09 14:54:01,708 - V2Scraper - INFO -   Already exists (ID 6280), checking for updates...
+2026-07-09 14:54:01,709 - V2Scraper - INFO -   Existing points: 24
+2026-07-09 14:54:03,035 - V2Scraper - INFO -   RSC: 24 places (24 total unique)
+2026-07-09 14:54:03,035 - V2Scraper - INFO - Total extracted: 24 places
+2026-07-09 14:54:03,035 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:03,035 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:04,037 - V2Scraper - INFO - 
+[85/286] Steins Gate 0 (JUq18FMhazRy8b5gPpNo)
+2026-07-09 14:54:04,037 - V2Scraper - INFO -   Already exists (ID 6281), checking for updates...
+2026-07-09 14:54:04,038 - V2Scraper - INFO -   Existing points: 50
+2026-07-09 14:54:04,776 - V2Scraper - INFO -   RSC: 49 places (49 total unique)
+2026-07-09 14:54:04,777 - V2Scraper - INFO - Total extracted: 49 places
+2026-07-09 14:54:04,777 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:04,777 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:05,778 - V2Scraper - INFO - 
+[86/286] The Disappearance Of Haruhi Suzumiya (JxWl9bqFjbsqZDpaa3Gx)
+2026-07-09 14:54:05,778 - V2Scraper - INFO -   Already exists (ID 6282), checking for updates...
+2026-07-09 14:54:05,779 - V2Scraper - INFO -   Existing points: 30
+2026-07-09 14:54:06,847 - V2Scraper - INFO -   RSC: 28 places (28 total unique)
+2026-07-09 14:54:06,847 - V2Scraper - INFO - Total extracted: 28 places
+2026-07-09 14:54:06,847 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:06,847 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:07,849 - V2Scraper - INFO - 
+[87/286] Medalist (K4PtV2A6cX0Rol3DDh04)
+2026-07-09 14:54:07,849 - V2Scraper - INFO -   Already exists (ID 6283), checking for updates...
+2026-07-09 14:54:07,849 - V2Scraper - INFO -   Existing points: 16
+2026-07-09 14:54:08,565 - V2Scraper - INFO -   RSC: 16 places (16 total unique)
+2026-07-09 14:54:08,565 - V2Scraper - INFO - Total extracted: 16 places
+2026-07-09 14:54:08,565 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:08,565 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:09,566 - V2Scraper - INFO - 
+[88/286] Yuruyuri Summer Vacation (KHL2EcBmiHS2xQGNpVB4)
+2026-07-09 14:54:09,566 - V2Scraper - INFO -   Already exists (ID 6284), checking for updates...
+2026-07-09 14:54:09,567 - V2Scraper - INFO -   Existing points: 25
+2026-07-09 14:54:10,323 - V2Scraper - INFO -   RSC: 25 places (25 total unique)
+2026-07-09 14:54:10,323 - V2Scraper - INFO - Total extracted: 25 places
+2026-07-09 14:54:10,323 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:10,323 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:11,324 - V2Scraper - INFO - 
+[89/286] Lil Miss Vampire Cant Suck Right (KMJWdpqzaXrslclIT0kX)
+2026-07-09 14:54:11,325 - V2Scraper - INFO -   Already exists (ID 6285), checking for updates...
+2026-07-09 14:54:11,325 - V2Scraper - INFO -   Existing points: 2
+2026-07-09 14:54:12,346 - V2Scraper - INFO -   RSC: 2 places (2 total unique)
+2026-07-09 14:54:12,346 - V2Scraper - INFO - Total extracted: 2 places
+2026-07-09 14:54:12,346 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:12,346 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:13,347 - V2Scraper - INFO - 
+[90/286] Tsurune (KMZrhSusXhCwzvMuRW3M)
+2026-07-09 14:54:13,347 - V2Scraper - INFO -   Already exists (ID 6286), checking for updates...
+2026-07-09 14:54:13,348 - V2Scraper - INFO -   Existing points: 23
+2026-07-09 14:54:14,150 - V2Scraper - INFO -   RSC: 23 places (23 total unique)
+2026-07-09 14:54:14,150 - V2Scraper - INFO - Total extracted: 23 places
+2026-07-09 14:54:14,150 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:14,151 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:15,152 - V2Scraper - INFO - 
+[91/286] Kaguya Sama Love Is War Stairway To Adulthood (KxnQIESyd0vWQKYMCCJp)
+2026-07-09 14:54:15,152 - V2Scraper - INFO -   Already exists (ID 6287), checking for updates...
+2026-07-09 14:54:15,152 - V2Scraper - INFO -   Existing points: 4
+2026-07-09 14:54:15,925 - V2Scraper - INFO -   RSC: 4 places (4 total unique)
+2026-07-09 14:54:15,925 - V2Scraper - INFO - Total extracted: 4 places
+2026-07-09 14:54:15,925 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:15,925 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:16,926 - V2Scraper - INFO - 
+[92/286] Shoshimin 2 (L82oXIYdIOrCncmowQ2V)
+2026-07-09 14:54:16,927 - V2Scraper - INFO -   Already exists (ID 6288), checking for updates...
+2026-07-09 14:54:16,927 - V2Scraper - INFO -   Existing points: 65
+2026-07-09 14:54:17,873 - V2Scraper - INFO -   RSC: 64 places (64 total unique)
+2026-07-09 14:54:17,873 - V2Scraper - INFO - Total extracted: 64 places
+2026-07-09 14:54:17,873 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:17,873 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:18,875 - V2Scraper - INFO - 
+[93/286] My Dress Up Darling 2 (L8UKLK889intHfnNZ9oE)
+2026-07-09 14:54:18,875 - V2Scraper - INFO -   Already exists (ID 6289), checking for updates...
+2026-07-09 14:54:18,875 - V2Scraper - INFO -   Existing points: 42
+2026-07-09 14:54:19,618 - V2Scraper - INFO -   RSC: 42 places (42 total unique)
+2026-07-09 14:54:19,618 - V2Scraper - INFO - Total extracted: 42 places
+2026-07-09 14:54:19,618 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:19,619 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:20,620 - V2Scraper - INFO - 
+[94/286] Dusk Beyond The End Of The World (LRAmMCCVn4JZPWGhvTdP)
+2026-07-09 14:54:20,620 - V2Scraper - INFO -   Already exists (ID 6290), checking for updates...
+2026-07-09 14:54:20,621 - V2Scraper - INFO -   Existing points: 28
+2026-07-09 14:54:21,390 - V2Scraper - INFO -   RSC: 28 places (28 total unique)
+2026-07-09 14:54:21,390 - V2Scraper - INFO - Total extracted: 28 places
+2026-07-09 14:54:21,390 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:21,390 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:22,391 - V2Scraper - INFO - 
+[95/286] Yuru Camp 2 (LlBHLckVd9QI0vUhjMJZ)
+2026-07-09 14:54:22,391 - V2Scraper - INFO -   Already exists (ID 6291), checking for updates...
+2026-07-09 14:54:22,393 - V2Scraper - INFO -   Existing points: 144
+2026-07-09 14:54:23,296 - V2Scraper - INFO -   RSC: 142 places (142 total unique)
+2026-07-09 14:54:23,296 - V2Scraper - INFO - Total extracted: 142 places
+2026-07-09 14:54:23,296 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:23,296 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:24,298 - V2Scraper - INFO - 
+[96/286] Chitose Ramune (NQAcuOMJmD4wesKzWtdK)
+2026-07-09 14:54:24,298 - V2Scraper - INFO -   Already exists (ID 6292), checking for updates...
+2026-07-09 14:54:24,299 - V2Scraper - INFO -   Existing points: 41
+2026-07-09 14:54:25,356 - V2Scraper - INFO -   RSC: 40 places (40 total unique)
+2026-07-09 14:54:25,356 - V2Scraper - INFO - Total extracted: 40 places
+2026-07-09 14:54:25,356 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:25,356 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:26,357 - V2Scraper - INFO - 
+[97/286] Ssss Gridman (NShwiqg4RQ8jwlAKDWds)
+2026-07-09 14:54:26,357 - V2Scraper - INFO -   Already exists (ID 6293), checking for updates...
+2026-07-09 14:54:26,358 - V2Scraper - INFO -   Existing points: 15
+2026-07-09 14:54:27,386 - V2Scraper - INFO -   RSC: 15 places (15 total unique)
+2026-07-09 14:54:27,386 - V2Scraper - INFO - Total extracted: 15 places
+2026-07-09 14:54:27,386 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:27,386 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:28,387 - V2Scraper - INFO - 
+[98/286] Weathering With You (NpEZnChVAaNhV5wOpnTr)
+2026-07-09 14:54:28,388 - V2Scraper - INFO -   Already exists (ID 6294), checking for updates...
+2026-07-09 14:54:28,388 - V2Scraper - INFO -   Existing points: 50
+2026-07-09 14:54:29,286 - V2Scraper - INFO -   RSC: 49 places (49 total unique)
+2026-07-09 14:54:29,286 - V2Scraper - INFO - Total extracted: 49 places
+2026-07-09 14:54:29,286 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:29,286 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:30,288 - V2Scraper - INFO - 
+[99/286] One Punch Man 2 (Npz9VOt5R5Nshl8YcBar)
+2026-07-09 14:54:30,288 - V2Scraper - INFO -   Already exists (ID 6295), checking for updates...
+2026-07-09 14:54:30,288 - V2Scraper - INFO -   Existing points: 12
+2026-07-09 14:54:31,360 - V2Scraper - INFO -   RSC: 12 places (12 total unique)
+2026-07-09 14:54:31,360 - V2Scraper - INFO - Total extracted: 12 places
+2026-07-09 14:54:31,360 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:31,360 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:32,361 - V2Scraper - INFO - 
+[100/286] Komi Cant Communicate (NudLgt4nu08ywcI9EayS)
+2026-07-09 14:54:32,361 - V2Scraper - INFO -   Already exists (ID 6296), checking for updates...
+2026-07-09 14:54:32,362 - V2Scraper - INFO -   Existing points: 4
+2026-07-09 14:54:33,496 - V2Scraper - INFO -   RSC: 4 places (4 total unique)
+2026-07-09 14:54:33,496 - V2Scraper - INFO - Total extracted: 4 places
+2026-07-09 14:54:33,496 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:33,496 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:34,497 - V2Scraper - INFO - 
+[101/286] Tamako Market (O787XPKQvn9bJ0uEM197)
+2026-07-09 14:54:34,497 - V2Scraper - INFO -   Already exists (ID 6297), checking for updates...
+2026-07-09 14:54:34,498 - V2Scraper - INFO -   Existing points: 41
+2026-07-09 14:54:35,291 - V2Scraper - INFO -   RSC: 40 places (40 total unique)
+2026-07-09 14:54:35,291 - V2Scraper - INFO - Total extracted: 40 places
+2026-07-09 14:54:35,291 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:35,291 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:36,292 - V2Scraper - INFO - 
+[102/286] 365 Days To The Wedding (OAHs4S1CXAlmcCbu520H)
+2026-07-09 14:54:36,293 - V2Scraper - INFO -   Already exists (ID 6298), checking for updates...
+2026-07-09 14:54:36,293 - V2Scraper - INFO -   Existing points: 48
+2026-07-09 14:54:37,437 - V2Scraper - INFO -   RSC: 48 places (48 total unique)
+2026-07-09 14:54:37,437 - V2Scraper - INFO - Total extracted: 48 places
+2026-07-09 14:54:37,437 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:37,437 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:38,439 - V2Scraper - INFO - 
+[103/286] Summer Pockets (OZ6C0hvndlfhdIAf7sIa)
+2026-07-09 14:54:38,439 - V2Scraper - INFO -   Already exists (ID 6299), checking for updates...
+2026-07-09 14:54:38,440 - V2Scraper - INFO -   Existing points: 65
+2026-07-09 14:54:39,479 - V2Scraper - INFO -   RSC: 65 places (65 total unique)
+2026-07-09 14:54:39,479 - V2Scraper - INFO - Total extracted: 65 places
+2026-07-09 14:54:39,479 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:39,479 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:40,481 - V2Scraper - INFO - 
+[104/286] I Made Friends With The Second Prettiest Girl In My Class (OaKLJatdGQqtkk4SZWdB)
+2026-07-09 14:54:40,481 - V2Scraper - INFO -   Already exists (ID 6300), checking for updates...
+2026-07-09 14:54:40,481 - V2Scraper - INFO -   Existing points: 25
+2026-07-09 14:54:41,490 - V2Scraper - INFO - Total extracted: 0 places
+2026-07-09 14:54:41,490 - V2Scraper - INFO -   No places found on website
+2026-07-09 14:54:41,490 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:42,491 - V2Scraper - INFO - 
+[105/286] Bleach Memories Of Nobody (PKagB1hxt8p8a39k8MVY)
+2026-07-09 14:54:42,491 - V2Scraper - INFO -   Already exists (ID 6301), checking for updates...
+2026-07-09 14:54:42,492 - V2Scraper - INFO -   Existing points: 10
+2026-07-09 14:54:43,519 - V2Scraper - INFO -   RSC: 10 places (10 total unique)
+2026-07-09 14:54:43,519 - V2Scraper - INFO - Total extracted: 10 places
+2026-07-09 14:54:43,519 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:43,519 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:44,521 - V2Scraper - INFO - 
+[106/286] Tamako Love Story (PMFHkoPU1pObVfazDppZ)
+2026-07-09 14:54:44,521 - V2Scraper - INFO -   Already exists (ID 6302), checking for updates...
+2026-07-09 14:54:44,521 - V2Scraper - INFO -   Existing points: 29
+2026-07-09 14:54:45,589 - V2Scraper - INFO -   RSC: 28 places (28 total unique)
+2026-07-09 14:54:45,589 - V2Scraper - INFO - Total extracted: 28 places
+2026-07-09 14:54:45,589 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:45,589 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:46,590 - V2Scraper - INFO - 
+[107/286] Re Zero 2 (PY8lyzbzxH7yFNe0z1kg)
+2026-07-09 14:54:46,590 - V2Scraper - INFO -   Already exists (ID 6303), checking for updates...
+2026-07-09 14:54:46,591 - V2Scraper - INFO -   Existing points: 7
+2026-07-09 14:54:47,794 - V2Scraper - INFO -   RSC: 7 places (7 total unique)
+2026-07-09 14:54:47,795 - V2Scraper - INFO - Total extracted: 7 places
+2026-07-09 14:54:47,795 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:47,795 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:48,796 - V2Scraper - INFO - 
+[108/286] Goodbye Lara (Q5sGWTURXZRsHIhzUbAH)
+2026-07-09 14:54:48,796 - V2Scraper - INFO -   Already exists (ID 6839), checking for updates...
+2026-07-09 14:54:48,797 - V2Scraper - INFO -   Existing points: 1
+2026-07-09 14:54:49,922 - V2Scraper - INFO -   RSC: 1 places (1 total unique)
+2026-07-09 14:54:49,922 - V2Scraper - INFO - Total extracted: 1 places
+2026-07-09 14:54:49,922 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:49,922 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:50,923 - V2Scraper - INFO - 
+[109/286] Shoshimin (QG989BWllZZQ1ZeuErVx)
+2026-07-09 14:54:50,923 - V2Scraper - INFO -   Already exists (ID 6304), checking for updates...
+2026-07-09 14:54:50,924 - V2Scraper - INFO -   Existing points: 58
+2026-07-09 14:54:51,801 - V2Scraper - INFO -   RSC: 58 places (58 total unique)
+2026-07-09 14:54:51,801 - V2Scraper - INFO - Total extracted: 58 places
+2026-07-09 14:54:51,802 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:51,802 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:52,803 - V2Scraper - INFO - 
+[110/286] Slow Loop (QZEqu5MPWKCjeIQD0ChT)
+2026-07-09 14:54:52,803 - V2Scraper - INFO -   Already exists (ID 6305), checking for updates...
+2026-07-09 14:54:52,804 - V2Scraper - INFO -   Existing points: 32
+2026-07-09 14:54:53,543 - V2Scraper - INFO -   RSC: 32 places (32 total unique)
+2026-07-09 14:54:53,543 - V2Scraper - INFO - Total extracted: 32 places
+2026-07-09 14:54:53,543 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:53,543 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:54,545 - V2Scraper - INFO - 
+[111/286] Oregairu Snafu 2 (QdSz4uvUO8xtPQ2YnNCH)
+2026-07-09 14:54:54,545 - V2Scraper - INFO -   Already exists (ID 6306), checking for updates...
+2026-07-09 14:54:54,545 - V2Scraper - INFO -   Existing points: 62
+2026-07-09 14:54:55,296 - V2Scraper - INFO -   RSC: 62 places (62 total unique)
+2026-07-09 14:54:55,296 - V2Scraper - INFO - Total extracted: 62 places
+2026-07-09 14:54:55,296 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:55,296 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:56,297 - V2Scraper - INFO - 
+[112/286] Wash It All Away (QqXeEHTDBJy8XPLbqrrn)
+2026-07-09 14:54:56,298 - V2Scraper - INFO -   Already exists (ID 6307), checking for updates...
+2026-07-09 14:54:56,298 - V2Scraper - INFO -   Existing points: 71
+2026-07-09 14:54:57,243 - V2Scraper - INFO -   RSC: 71 places (71 total unique)
+2026-07-09 14:54:57,244 - V2Scraper - INFO - Total extracted: 71 places
+2026-07-09 14:54:57,244 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:57,244 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:54:58,245 - V2Scraper - INFO - 
+[113/286] Yuruyuri Summer Vacation Plus (R5O9FmDqJMUVD5L3zIo8)
+2026-07-09 14:54:58,245 - V2Scraper - INFO -   Already exists (ID 6308), checking for updates...
+2026-07-09 14:54:58,246 - V2Scraper - INFO -   Existing points: 8
+2026-07-09 14:54:59,742 - V2Scraper - INFO -   RSC: 8 places (8 total unique)
+2026-07-09 14:54:59,742 - V2Scraper - INFO - Total extracted: 8 places
+2026-07-09 14:54:59,742 - V2Scraper - INFO -   No new points found
+2026-07-09 14:54:59,742 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:00,743 - V2Scraper - INFO - 
+[114/286] Initial D Legend 2 (RLpqKpn3ABpw8arWkpWc)
+2026-07-09 14:55:00,743 - V2Scraper - INFO -   Already exists (ID 6309), checking for updates...
+2026-07-09 14:55:00,744 - V2Scraper - INFO -   Existing points: 22
+2026-07-09 14:55:01,893 - V2Scraper - INFO -   RSC: 21 places (21 total unique)
+2026-07-09 14:55:01,893 - V2Scraper - INFO - Total extracted: 21 places
+2026-07-09 14:55:01,893 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:01,893 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:02,894 - V2Scraper - INFO - 
+[115/286] The Angel Next Door Spoils Me Rotten (RPnFHigPkhOePBI3ZpP7)
+2026-07-09 14:55:02,895 - V2Scraper - INFO -   Already exists (ID 6310), checking for updates...
+2026-07-09 14:55:02,895 - V2Scraper - INFO -   Existing points: 8
+2026-07-09 14:55:03,729 - V2Scraper - INFO -   RSC: 8 places (8 total unique)
+2026-07-09 14:55:03,729 - V2Scraper - INFO - Total extracted: 8 places
+2026-07-09 14:55:03,729 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:03,729 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:04,731 - V2Scraper - INFO - 
+[116/286] Iroduku (RawAH4VbfP7uT0pSXQv9)
+2026-07-09 14:55:04,731 - V2Scraper - INFO -   Already exists (ID 6311), checking for updates...
+2026-07-09 14:55:04,732 - V2Scraper - INFO -   Existing points: 76
+2026-07-09 14:55:05,734 - V2Scraper - INFO -   RSC: 75 places (75 total unique)
+2026-07-09 14:55:05,734 - V2Scraper - INFO - Total extracted: 75 places
+2026-07-09 14:55:05,734 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:05,734 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:06,735 - V2Scraper - INFO - 
+[117/286] Ride Your Wave (RdB9u0ObLQdFxMYl4nUx)
+2026-07-09 14:55:06,736 - V2Scraper - INFO -   Already exists (ID 6312), checking for updates...
+2026-07-09 14:55:06,736 - V2Scraper - INFO -   Existing points: 15
+2026-07-09 14:55:07,737 - V2Scraper - INFO -   RSC: 15 places (15 total unique)
+2026-07-09 14:55:07,737 - V2Scraper - INFO - Total extracted: 15 places
+2026-07-09 14:55:07,738 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:07,738 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:08,739 - V2Scraper - INFO - 
+[118/286] Anohana (S2Ck9BmF9DceONFuYdu2)
+2026-07-09 14:55:08,739 - V2Scraper - INFO -   Already exists (ID 6313), checking for updates...
+2026-07-09 14:55:08,740 - V2Scraper - INFO -   Existing points: 36
+2026-07-09 14:55:09,520 - V2Scraper - INFO -   RSC: 36 places (36 total unique)
+2026-07-09 14:55:09,520 - V2Scraper - INFO - Total extracted: 36 places
+2026-07-09 14:55:09,520 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:09,520 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:10,521 - V2Scraper - INFO - 
+[119/286] Star Detective Precure (SLJtXMvLjJFxkt3cKtRL)
+2026-07-09 14:55:10,522 - V2Scraper - INFO -   Already exists (ID 6314), checking for updates...
+2026-07-09 14:55:10,522 - V2Scraper - INFO -   Existing points: 6
+2026-07-09 14:55:11,676 - V2Scraper - INFO -   RSC: 6 places (6 total unique)
+2026-07-09 14:55:11,676 - V2Scraper - INFO - Total extracted: 6 places
+2026-07-09 14:55:11,676 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:11,676 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:12,677 - V2Scraper - INFO - 
+[120/286] Erased (SZ4J7oV1NGtk9EIFlZCO)
+2026-07-09 14:55:12,678 - V2Scraper - INFO -   Already exists (ID 6315), checking for updates...
+2026-07-09 14:55:12,678 - V2Scraper - INFO -   Existing points: 22
+2026-07-09 14:55:13,644 - V2Scraper - INFO -   RSC: 22 places (22 total unique)
+2026-07-09 14:55:13,644 - V2Scraper - INFO - Total extracted: 22 places
+2026-07-09 14:55:13,645 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:13,645 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:14,646 - V2Scraper - INFO - 
+[121/286] The Place Promised In Our Early Days (SvV7FwjDoS2tJiVqx4NA)
+2026-07-09 14:55:14,646 - V2Scraper - INFO -   Already exists (ID 6316), checking for updates...
+2026-07-09 14:55:14,647 - V2Scraper - INFO -   Existing points: 13
+2026-07-09 14:55:15,584 - V2Scraper - INFO -   RSC: 13 places (13 total unique)
+2026-07-09 14:55:15,585 - V2Scraper - INFO - Total extracted: 13 places
+2026-07-09 14:55:15,585 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:15,585 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:16,586 - V2Scraper - INFO - 
+[122/286] Your Lie In April (SxVDZdqsWoda64YFSB5I)
+2026-07-09 14:55:16,586 - V2Scraper - INFO -   Already exists (ID 6317), checking for updates...
+2026-07-09 14:55:16,587 - V2Scraper - INFO -   Existing points: 36
+2026-07-09 14:55:17,595 - V2Scraper - INFO -   RSC: 36 places (36 total unique)
+2026-07-09 14:55:17,595 - V2Scraper - INFO - Total extracted: 36 places
+2026-07-09 14:55:17,595 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:17,595 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:18,596 - V2Scraper - INFO - 
+[123/286] Kaguya Sama S2 (TAaEPRwIJMNDic8UNpyJ)
+2026-07-09 14:55:18,597 - V2Scraper - INFO -   Already exists (ID 6318), checking for updates...
+2026-07-09 14:55:18,597 - V2Scraper - INFO -   Existing points: 6
+2026-07-09 14:55:19,577 - V2Scraper - INFO -   RSC: 6 places (6 total unique)
+2026-07-09 14:55:19,577 - V2Scraper - INFO - Total extracted: 6 places
+2026-07-09 14:55:19,577 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:19,577 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:20,578 - V2Scraper - INFO - 
+[124/286] The Dangers In My Heart 2 (TCBZtniKN2tuT2Mr6sFW)
+2026-07-09 14:55:20,578 - V2Scraper - INFO -   Already exists (ID 6319), checking for updates...
+2026-07-09 14:55:20,579 - V2Scraper - INFO -   Existing points: 42
+2026-07-09 14:55:21,463 - V2Scraper - INFO -   RSC: 41 places (41 total unique)
+2026-07-09 14:55:21,463 - V2Scraper - INFO - Total extracted: 41 places
+2026-07-09 14:55:21,463 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:21,463 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:22,464 - V2Scraper - INFO - 
+[125/286] Gate (TSkvs59be6uQgnRQeRe9)
+2026-07-09 14:55:22,464 - V2Scraper - INFO -   Already exists (ID 6320), checking for updates...
+2026-07-09 14:55:22,465 - V2Scraper - INFO -   Existing points: 28
+2026-07-09 14:55:23,327 - V2Scraper - INFO -   RSC: 27 places (27 total unique)
+2026-07-09 14:55:23,327 - V2Scraper - INFO - Total extracted: 27 places
+2026-07-09 14:55:23,327 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:23,327 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:24,328 - V2Scraper - INFO - 
+[126/286] Style Of Hiroshi Nohara Lunch (TjkYh2MXRiFE4rlWLMtb)
+2026-07-09 14:55:24,328 - V2Scraper - INFO -   Already exists (ID 6321), checking for updates...
+2026-07-09 14:55:24,329 - V2Scraper - INFO -   Existing points: 8
+2026-07-09 14:55:25,276 - V2Scraper - INFO -   RSC: 8 places (8 total unique)
+2026-07-09 14:55:25,276 - V2Scraper - INFO - Total extracted: 8 places
+2026-07-09 14:55:25,276 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:25,276 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:26,277 - V2Scraper - INFO - 
+[127/286] Oomuro Ke Dear Friends (TokTljW8Xuc2zv5zjpL7)
+2026-07-09 14:55:26,278 - V2Scraper - INFO -   Already exists (ID 6322), checking for updates...
+2026-07-09 14:55:26,278 - V2Scraper - INFO -   Existing points: 29
+2026-07-09 14:55:27,205 - V2Scraper - INFO -   RSC: 29 places (29 total unique)
+2026-07-09 14:55:27,205 - V2Scraper - INFO - Total extracted: 29 places
+2026-07-09 14:55:27,205 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:27,205 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:28,207 - V2Scraper - INFO - 
+[128/286] Darling In The Franxx (U4M4jkiANLzkJ3fvBass)
+2026-07-09 14:55:28,207 - V2Scraper - INFO -   Already exists (ID 6323), checking for updates...
+2026-07-09 14:55:28,207 - V2Scraper - INFO -   Existing points: 5
+2026-07-09 14:55:28,934 - V2Scraper - INFO -   RSC: 5 places (5 total unique)
+2026-07-09 14:55:28,934 - V2Scraper - INFO - Total extracted: 5 places
+2026-07-09 14:55:28,934 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:28,934 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:29,936 - V2Scraper - INFO - 
+[129/286] Rascal Does Not Dream Of Santa Claus (UAxl5OxUl27L0betSu5L)
+2026-07-09 14:55:29,936 - V2Scraper - INFO -   Already exists (ID 6324), checking for updates...
+2026-07-09 14:55:29,937 - V2Scraper - INFO -   Existing points: 133
+2026-07-09 14:55:30,709 - V2Scraper - INFO -   RSC: 132 places (132 total unique)
+2026-07-09 14:55:30,709 - V2Scraper - INFO - Total extracted: 132 places
+2026-07-09 14:55:30,709 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:30,710 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:31,711 - V2Scraper - INFO - 
+[130/286] Digimon Adventure Last Evolution Kizuna (UFsJyag2lYH3H0hc2FOR)
+2026-07-09 14:55:31,711 - V2Scraper - INFO -   Already exists (ID 6325), checking for updates...
+2026-07-09 14:55:31,712 - V2Scraper - INFO -   Existing points: 23
+2026-07-09 14:55:32,598 - V2Scraper - INFO -   RSC: 21 places (21 total unique)
+2026-07-09 14:55:32,598 - V2Scraper - INFO - Total extracted: 21 places
+2026-07-09 14:55:32,598 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:32,598 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:33,599 - V2Scraper - INFO - 
+[131/286] Mirai (UVPVcuDouxDp80lD6iDf)
+2026-07-09 14:55:33,599 - V2Scraper - INFO -   Already exists (ID 6326), checking for updates...
+2026-07-09 14:55:33,600 - V2Scraper - INFO -   Existing points: 9
+2026-07-09 14:55:34,684 - V2Scraper - INFO -   RSC: 9 places (9 total unique)
+2026-07-09 14:55:34,684 - V2Scraper - INFO - Total extracted: 9 places
+2026-07-09 14:55:34,684 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:34,684 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:35,685 - V2Scraper - INFO - 
+[132/286] Negative Positive Angler (UXyZMhIozhcciP5RVeEq)
+2026-07-09 14:55:35,686 - V2Scraper - INFO -   Already exists (ID 6327), checking for updates...
+2026-07-09 14:55:35,686 - V2Scraper - INFO -   Existing points: 58
+2026-07-09 14:55:36,574 - V2Scraper - INFO -   RSC: 58 places (58 total unique)
+2026-07-09 14:55:36,574 - V2Scraper - INFO - Total extracted: 58 places
+2026-07-09 14:55:36,574 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:36,574 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:37,575 - V2Scraper - INFO - 
+[133/286] Barakamon (UcdcmZWDPCZiUdYZ6j7t)
+2026-07-09 14:55:37,576 - V2Scraper - INFO -   Already exists (ID 6328), checking for updates...
+2026-07-09 14:55:37,576 - V2Scraper - INFO -   Existing points: 20
+2026-07-09 14:55:38,336 - V2Scraper - INFO -   RSC: 20 places (20 total unique)
+2026-07-09 14:55:38,336 - V2Scraper - INFO - Total extracted: 20 places
+2026-07-09 14:55:38,336 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:38,336 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:39,337 - V2Scraper - INFO - 
+[134/286] Rascal Does Not Dream Of A Dreaming Girl (UnHZjOgLD7JW5aUXBdwc)
+2026-07-09 14:55:39,338 - V2Scraper - INFO -   Already exists (ID 6329), checking for updates...
+2026-07-09 14:55:39,338 - V2Scraper - INFO -   Existing points: 35
+2026-07-09 14:55:40,102 - V2Scraper - INFO -   RSC: 35 places (35 total unique)
+2026-07-09 14:55:40,102 - V2Scraper - INFO - Total extracted: 35 places
+2026-07-09 14:55:40,102 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:40,102 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:41,103 - V2Scraper - INFO - 
+[135/286] Sao Ordinal Scale (Ur5mrwrBPVePfw7X3LNc)
+2026-07-09 14:55:41,103 - V2Scraper - INFO -   Already exists (ID 6330), checking for updates...
+2026-07-09 14:55:41,104 - V2Scraper - INFO -   Existing points: 10
+2026-07-09 14:55:42,021 - V2Scraper - INFO -   RSC: 10 places (10 total unique)
+2026-07-09 14:55:42,021 - V2Scraper - INFO - Total extracted: 10 places
+2026-07-09 14:55:42,021 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:42,021 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:43,023 - V2Scraper - INFO - 
+[136/286] Jujutsu Kaisen 2 (UrP8DF1mot4eA2YfzSJk)
+2026-07-09 14:55:43,023 - V2Scraper - INFO -   Already exists (ID 6331), checking for updates...
+2026-07-09 14:55:43,024 - V2Scraper - INFO -   Existing points: 77
+2026-07-09 14:55:43,858 - V2Scraper - INFO -   RSC: 77 places (77 total unique)
+2026-07-09 14:55:43,859 - V2Scraper - INFO - Total extracted: 77 places
+2026-07-09 14:55:43,859 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:43,859 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:44,860 - V2Scraper - INFO - 
+[137/286] A Place Further Than The Universe (V8ZUeVmlHtP2Wh4scQ77)
+2026-07-09 14:55:44,860 - V2Scraper - INFO -   Already exists (ID 6332), checking for updates...
+2026-07-09 14:55:44,861 - V2Scraper - INFO -   Existing points: 37
+2026-07-09 14:55:45,670 - V2Scraper - INFO -   RSC: 36 places (36 total unique)
+2026-07-09 14:55:45,670 - V2Scraper - INFO - Total extracted: 36 places
+2026-07-09 14:55:45,670 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:45,670 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:46,672 - V2Scraper - INFO - 
+[138/286] Girls Panzer (VD31WwqZ3Ok7A1Fcr892)
+2026-07-09 14:55:46,672 - V2Scraper - INFO -   Already exists (ID 6333), checking for updates...
+2026-07-09 14:55:46,672 - V2Scraper - INFO -   Existing points: 22
+2026-07-09 14:55:47,708 - V2Scraper - INFO -   RSC: 22 places (22 total unique)
+2026-07-09 14:55:47,708 - V2Scraper - INFO - Total extracted: 22 places
+2026-07-09 14:55:47,708 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:47,708 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:48,709 - V2Scraper - INFO - 
+[139/286] My Dress Up Darling (VIQzdK6tzpH3rImWUzQ6)
+2026-07-09 14:55:48,709 - V2Scraper - INFO -   Already exists (ID 6334), checking for updates...
+2026-07-09 14:55:48,710 - V2Scraper - INFO -   Existing points: 35
+2026-07-09 14:55:49,477 - V2Scraper - INFO -   RSC: 35 places (35 total unique)
+2026-07-09 14:55:49,477 - V2Scraper - INFO - Total extracted: 35 places
+2026-07-09 14:55:49,477 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:49,477 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:50,478 - V2Scraper - INFO - 
+[140/286] Blend S (VVAuTlfMEMbesT8lj0Me)
+2026-07-09 14:55:50,478 - V2Scraper - INFO -   Already exists (ID 6335), checking for updates...
+2026-07-09 14:55:50,479 - V2Scraper - INFO -   Existing points: 9
+2026-07-09 14:55:51,206 - V2Scraper - INFO -   RSC: 8 places (8 total unique)
+2026-07-09 14:55:51,206 - V2Scraper - INFO - Total extracted: 8 places
+2026-07-09 14:55:51,206 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:51,206 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:52,207 - V2Scraper - INFO - 
+[141/286] Steins Gate (VYoUbJBIkUiLX3HPYQGl)
+2026-07-09 14:55:52,207 - V2Scraper - INFO -   Already exists (ID 6336), checking for updates...
+2026-07-09 14:55:52,208 - V2Scraper - INFO -   Existing points: 65
+2026-07-09 14:55:53,014 - V2Scraper - INFO -   RSC: 65 places (65 total unique)
+2026-07-09 14:55:53,014 - V2Scraper - INFO - Total extracted: 65 places
+2026-07-09 14:55:53,014 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:53,014 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:54,015 - V2Scraper - INFO - 
+[142/286] Teasing Master Takagi San 2 (VhH877Oq00jh2nXka21n)
+2026-07-09 14:55:54,015 - V2Scraper - INFO -   Already exists (ID 6337), checking for updates...
+2026-07-09 14:55:54,016 - V2Scraper - INFO -   Existing points: 13
+2026-07-09 14:55:54,901 - V2Scraper - INFO -   RSC: 13 places (13 total unique)
+2026-07-09 14:55:54,901 - V2Scraper - INFO - Total extracted: 13 places
+2026-07-09 14:55:54,901 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:54,901 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:55,901 - V2Scraper - INFO - 
+[143/286] Bang Dream Its Mygo (VkynuahKEcbI6q0ygptX)
+2026-07-09 14:55:55,902 - V2Scraper - INFO -   Already exists (ID 6338), checking for updates...
+2026-07-09 14:55:55,902 - V2Scraper - INFO -   Existing points: 35
+2026-07-09 14:55:56,652 - V2Scraper - INFO -   RSC: 34 places (34 total unique)
+2026-07-09 14:55:56,652 - V2Scraper - INFO - Total extracted: 34 places
+2026-07-09 14:55:56,652 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:56,652 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:57,653 - V2Scraper - INFO - 
+[144/286] Touring After The Apocalypse (VwCzosaRb9Xdvs1m8bls)
+2026-07-09 14:55:57,654 - V2Scraper - INFO -   Already exists (ID 6339), checking for updates...
+2026-07-09 14:55:57,655 - V2Scraper - INFO -   Existing points: 109
+2026-07-09 14:55:58,511 - V2Scraper - INFO -   RSC: 107 places (107 total unique)
+2026-07-09 14:55:58,511 - V2Scraper - INFO - Total extracted: 107 places
+2026-07-09 14:55:58,511 - V2Scraper - INFO -   No new points found
+2026-07-09 14:55:58,512 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:55:59,513 - V2Scraper - INFO - 
+[145/286] The Tunnel To Summer The Exit Of Goodbyes (VwGMVFBArqmvYx8g1JQe)
+2026-07-09 14:55:59,513 - V2Scraper - INFO -   Already exists (ID 6340), checking for updates...
+2026-07-09 14:55:59,513 - V2Scraper - INFO -   Existing points: 11
+2026-07-09 14:56:00,587 - V2Scraper - INFO -   RSC: 11 places (11 total unique)
+2026-07-09 14:56:00,588 - V2Scraper - INFO - Total extracted: 11 places
+2026-07-09 14:56:00,588 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:00,588 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:01,589 - V2Scraper - INFO - 
+[146/286] Pseudo Harem (W6Ty1y47SrpzJsnFIiRq)
+2026-07-09 14:56:01,589 - V2Scraper - INFO -   Already exists (ID 6341), checking for updates...
+2026-07-09 14:56:01,590 - V2Scraper - INFO -   Existing points: 19
+2026-07-09 14:56:02,554 - V2Scraper - INFO -   RSC: 19 places (19 total unique)
+2026-07-09 14:56:02,554 - V2Scraper - INFO - Total extracted: 19 places
+2026-07-09 14:56:02,555 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:02,555 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:03,556 - V2Scraper - INFO - 
+[147/286] Tokyo Revengers 3 (WoY91eDNSvhHts6QSPg1)
+2026-07-09 14:56:03,556 - V2Scraper - INFO -   Already exists (ID 6342), checking for updates...
+2026-07-09 14:56:03,557 - V2Scraper - INFO -   Existing points: 23
+2026-07-09 14:56:04,491 - V2Scraper - INFO -   RSC: 23 places (23 total unique)
+2026-07-09 14:56:04,491 - V2Scraper - INFO - Total extracted: 23 places
+2026-07-09 14:56:04,491 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:04,491 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:05,492 - V2Scraper - INFO - 
+[148/286] Jellyfish Cant Swim In The Night (X2oUXyn7fGvGuS50lQCn)
+2026-07-09 14:56:05,493 - V2Scraper - INFO -   Already exists (ID 6343), checking for updates...
+2026-07-09 14:56:05,493 - V2Scraper - INFO -   Existing points: 28
+2026-07-09 14:56:06,441 - V2Scraper - INFO -   RSC: 28 places (28 total unique)
+2026-07-09 14:56:06,442 - V2Scraper - INFO - Total extracted: 28 places
+2026-07-09 14:56:06,442 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:06,442 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:07,443 - V2Scraper - INFO - 
+[149/286] Amagi Brilliant Park (X7iF240giFDBUnldbUVY)
+2026-07-09 14:56:07,443 - V2Scraper - INFO -   Already exists (ID 6344), checking for updates...
+2026-07-09 14:56:07,444 - V2Scraper - INFO -   Existing points: 10
+2026-07-09 14:56:08,381 - V2Scraper - INFO -   RSC: 10 places (10 total unique)
+2026-07-09 14:56:08,382 - V2Scraper - INFO - Total extracted: 10 places
+2026-07-09 14:56:08,382 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:08,382 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:09,383 - V2Scraper - INFO - 
+[150/286] Chainsaw Man (XVRPGfPRg2w1rhg6LbJq)
+2026-07-09 14:56:09,383 - V2Scraper - INFO -   Already exists (ID 6345), checking for updates...
+2026-07-09 14:56:09,384 - V2Scraper - INFO -   Existing points: 4
+2026-07-09 14:56:10,133 - V2Scraper - INFO -   RSC: 4 places (4 total unique)
+2026-07-09 14:56:10,133 - V2Scraper - INFO - Total extracted: 4 places
+2026-07-09 14:56:10,133 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:10,133 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:11,135 - V2Scraper - INFO - 
+[151/286] Maebashi Witches (XWNFKfeivPqVqZv9aN0M)
+2026-07-09 14:56:11,135 - V2Scraper - INFO -   Already exists (ID 6346), checking for updates...
+2026-07-09 14:56:11,136 - V2Scraper - INFO -   Existing points: 61
+2026-07-09 14:56:11,905 - V2Scraper - INFO -   RSC: 61 places (61 total unique)
+2026-07-09 14:56:11,905 - V2Scraper - INFO - Total extracted: 61 places
+2026-07-09 14:56:11,905 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:11,905 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:12,906 - V2Scraper - INFO - 
+[152/286] Kaguya Sama The First Kiss That Never Ends (XdDmRhPxTsVDwlmnjOqZ)
+2026-07-09 14:56:12,906 - V2Scraper - INFO -   Already exists (ID 6347), checking for updates...
+2026-07-09 14:56:12,907 - V2Scraper - INFO -   Existing points: 7
+2026-07-09 14:56:13,725 - V2Scraper - INFO -   RSC: 7 places (7 total unique)
+2026-07-09 14:56:13,725 - V2Scraper - INFO - Total extracted: 7 places
+2026-07-09 14:56:13,725 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:13,725 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:14,726 - V2Scraper - INFO - 
+[153/286] Chihayafuru (XdJHcqKxg3G3TekN1V8K)
+2026-07-09 14:56:14,726 - V2Scraper - INFO -   Already exists (ID 6348), checking for updates...
+2026-07-09 14:56:14,727 - V2Scraper - INFO -   Existing points: 25
+2026-07-09 14:56:15,556 - V2Scraper - INFO -   RSC: 25 places (25 total unique)
+2026-07-09 14:56:15,556 - V2Scraper - INFO - Total extracted: 25 places
+2026-07-09 14:56:15,556 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:15,556 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:16,557 - V2Scraper - INFO - 
+[154/286] Rent A Girlfriend 2 (YBki2zmwelxlOa6u2Y2w)
+2026-07-09 14:56:16,557 - V2Scraper - INFO -   Already exists (ID 6349), checking for updates...
+2026-07-09 14:56:16,558 - V2Scraper - INFO -   Existing points: 30
+2026-07-09 14:56:17,319 - V2Scraper - INFO -   RSC: 29 places (29 total unique)
+2026-07-09 14:56:17,319 - V2Scraper - INFO - Total extracted: 29 places
+2026-07-09 14:56:17,319 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:17,320 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:18,321 - V2Scraper - INFO - 
+[155/286] Bungo Stray Dogs (YCv9qvKperWlZqGCGO9G)
+2026-07-09 14:56:18,321 - V2Scraper - INFO -   Already exists (ID 6350), checking for updates...
+2026-07-09 14:56:18,322 - V2Scraper - INFO -   Existing points: 26
+2026-07-09 14:56:19,123 - V2Scraper - INFO -   RSC: 26 places (26 total unique)
+2026-07-09 14:56:19,123 - V2Scraper - INFO - Total extracted: 26 places
+2026-07-09 14:56:19,123 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:19,124 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:20,125 - V2Scraper - INFO - 
+[156/286] Oshi No Ko (YKzUE2kxQL1P1ur9nflL)
+2026-07-09 14:56:20,125 - V2Scraper - INFO -   Already exists (ID 6351), checking for updates...
+2026-07-09 14:56:20,126 - V2Scraper - INFO -   Existing points: 28
+2026-07-09 14:56:21,017 - V2Scraper - INFO -   RSC: 27 places (27 total unique)
+2026-07-09 14:56:21,017 - V2Scraper - INFO - Total extracted: 27 places
+2026-07-09 14:56:21,017 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:21,018 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:22,019 - V2Scraper - INFO - 
+[157/286] Ruri Rocks (YLZiKMcAArdDWFoFtsY4)
+2026-07-09 14:56:22,019 - V2Scraper - INFO -   Already exists (ID 6352), checking for updates...
+2026-07-09 14:56:22,020 - V2Scraper - INFO -   Existing points: 9
+2026-07-09 14:56:22,872 - V2Scraper - INFO -   RSC: 9 places (9 total unique)
+2026-07-09 14:56:22,872 - V2Scraper - INFO - Total extracted: 9 places
+2026-07-09 14:56:22,872 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:22,872 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:23,873 - V2Scraper - INFO - 
+[158/286] You And I Are Polar Opposites (YXVReUNqOt4ymGmp6Ymh)
+2026-07-09 14:56:23,873 - V2Scraper - INFO -   Already exists (ID 6353), checking for updates...
+2026-07-09 14:56:23,874 - V2Scraper - INFO -   Existing points: 44
+2026-07-09 14:56:24,804 - V2Scraper - INFO - Total extracted: 0 places
+2026-07-09 14:56:24,804 - V2Scraper - INFO -   No places found on website
+2026-07-09 14:56:24,804 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:25,805 - V2Scraper - INFO - 
+[159/286] Free (YfZUuOQaiVpbuWXQXNt3)
+2026-07-09 14:56:25,806 - V2Scraper - INFO -   Already exists (ID 6354), checking for updates...
+2026-07-09 14:56:25,806 - V2Scraper - INFO -   Existing points: 29
+2026-07-09 14:56:26,564 - V2Scraper - INFO -   RSC: 28 places (28 total unique)
+2026-07-09 14:56:26,564 - V2Scraper - INFO - Total extracted: 28 places
+2026-07-09 14:56:26,564 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:26,564 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:27,565 - V2Scraper - INFO - 
+[160/286] The Ramparts Of Ice (YxP1yJDVqlWieMLbNmlQ)
+2026-07-09 14:56:27,565 - V2Scraper - INFO - Scraping: The Ramparts Of Ice -> https://www.animepilgrimage.com/ja/maps/anime/YxP1yJDVqlWieMLbNmlQ/the-ramparts-of-ice
+2026-07-09 14:56:28,146 - V2Scraper - INFO - Total extracted: 0 places
+2026-07-09 14:56:28,146 - V2Scraper - WARNING - No places found for The Ramparts Of Ice
+2026-07-09 14:56:28,146 - V2Scraper - WARNING -   No data for The Ramparts Of Ice
+2026-07-09 14:56:30,148 - V2Scraper - INFO - 
+[161/286] Steins Gate Movie (ZH0zqKiaPk9CiGpashc9)
+2026-07-09 14:56:30,148 - V2Scraper - INFO -   Already exists (ID 6355), checking for updates...
+2026-07-09 14:56:30,149 - V2Scraper - INFO -   Existing points: 25
+2026-07-09 14:56:31,186 - V2Scraper - INFO -   RSC: 25 places (25 total unique)
+2026-07-09 14:56:31,186 - V2Scraper - INFO - Total extracted: 25 places
+2026-07-09 14:56:31,186 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:31,186 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:32,188 - V2Scraper - INFO - 
+[162/286] Digimon Adventure (ZUDKPLIyHJa5yQs8fBcs)
+2026-07-09 14:56:32,188 - V2Scraper - INFO -   Already exists (ID 6356), checking for updates...
+2026-07-09 14:56:32,188 - V2Scraper - INFO -   Existing points: 28
+2026-07-09 14:56:32,916 - V2Scraper - INFO -   RSC: 28 places (28 total unique)
+2026-07-09 14:56:32,916 - V2Scraper - INFO - Total extracted: 28 places
+2026-07-09 14:56:32,916 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:32,916 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:33,917 - V2Scraper - INFO - 
+[163/286] Zom 100 (ZqtTUmgvqV5KPwgxSndw)
+2026-07-09 14:56:33,918 - V2Scraper - INFO -   Already exists (ID 6357), checking for updates...
+2026-07-09 14:56:33,918 - V2Scraper - INFO -   Existing points: 20
+2026-07-09 14:56:34,794 - V2Scraper - INFO -   RSC: 20 places (20 total unique)
+2026-07-09 14:56:34,794 - V2Scraper - INFO - Total extracted: 20 places
+2026-07-09 14:56:34,794 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:34,794 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:35,795 - V2Scraper - INFO - 
+[164/286] Josee The Tiger And The Fish (aDbXS20p1mWrKQDEVsGp)
+2026-07-09 14:56:35,795 - V2Scraper - INFO -   Already exists (ID 6358), checking for updates...
+2026-07-09 14:56:35,796 - V2Scraper - INFO -   Existing points: 50
+2026-07-09 14:56:36,551 - V2Scraper - INFO -   RSC: 49 places (49 total unique)
+2026-07-09 14:56:36,552 - V2Scraper - INFO - Total extracted: 49 places
+2026-07-09 14:56:36,552 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:36,552 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:37,553 - V2Scraper - INFO - 
+[165/286] Yuki Yuna Is A Hero (aP1aVTrFoL1IrIBr5mPu)
+2026-07-09 14:56:37,553 - V2Scraper - INFO -   Already exists (ID 6359), checking for updates...
+2026-07-09 14:56:37,554 - V2Scraper - INFO -   Existing points: 30
+2026-07-09 14:56:38,521 - V2Scraper - INFO -   RSC: 30 places (30 total unique)
+2026-07-09 14:56:38,522 - V2Scraper - INFO - Total extracted: 30 places
+2026-07-09 14:56:38,522 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:38,522 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:39,523 - V2Scraper - INFO - 
+[166/286] Fruits Basket 1 (an4vmYqXjc70Pt2uzo7B)
+2026-07-09 14:56:39,523 - V2Scraper - INFO -   Already exists (ID 6360), checking for updates...
+2026-07-09 14:56:39,524 - V2Scraper - INFO -   Existing points: 35
+2026-07-09 14:56:40,343 - V2Scraper - INFO -   RSC: 35 places (35 total unique)
+2026-07-09 14:56:40,343 - V2Scraper - INFO - Total extracted: 35 places
+2026-07-09 14:56:40,343 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:40,343 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:41,345 - V2Scraper - INFO - 
+[167/286] Tougen Anki (asOr7rG7F3lvkRfna2Ll)
+2026-07-09 14:56:41,345 - V2Scraper - INFO -   Already exists (ID 6361), checking for updates...
+2026-07-09 14:56:41,345 - V2Scraper - INFO -   Existing points: 18
+2026-07-09 14:56:42,050 - V2Scraper - INFO -   RSC: 18 places (18 total unique)
+2026-07-09 14:56:42,050 - V2Scraper - INFO - Total extracted: 18 places
+2026-07-09 14:56:42,051 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:42,051 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:43,052 - V2Scraper - INFO - 
+[168/286] Sound Euphonium 2 (az2BetKCI9giur5x30E0)
+2026-07-09 14:56:43,052 - V2Scraper - INFO -   Already exists (ID 6362), checking for updates...
+2026-07-09 14:56:43,053 - V2Scraper - INFO -   Existing points: 33
+2026-07-09 14:56:43,797 - V2Scraper - INFO -   RSC: 31 places (31 total unique)
+2026-07-09 14:56:43,798 - V2Scraper - INFO - Total extracted: 31 places
+2026-07-09 14:56:43,798 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:43,798 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:44,799 - V2Scraper - INFO - 
+[169/286] Those Snow White Notes (bF9RdGQEUVWNJs47GnWL)
+2026-07-09 14:56:44,799 - V2Scraper - INFO -   Already exists (ID 6363), checking for updates...
+2026-07-09 14:56:44,800 - V2Scraper - INFO -   Existing points: 5
+2026-07-09 14:56:45,653 - V2Scraper - INFO -   RSC: 5 places (5 total unique)
+2026-07-09 14:56:45,653 - V2Scraper - INFO - Total extracted: 5 places
+2026-07-09 14:56:45,653 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:45,654 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:46,655 - V2Scraper - INFO - 
+[170/286] Uzaki Chan Wants To Hang Out (bFRLibDIg7vZl0RKsplj)
+2026-07-09 14:56:46,655 - V2Scraper - INFO -   Already exists (ID 6364), checking for updates...
+2026-07-09 14:56:46,655 - V2Scraper - INFO -   Existing points: 8
+2026-07-09 14:56:47,701 - V2Scraper - INFO -   RSC: 8 places (8 total unique)
+2026-07-09 14:56:47,702 - V2Scraper - INFO - Total extracted: 8 places
+2026-07-09 14:56:47,702 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:47,702 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:48,703 - V2Scraper - INFO - 
+[171/286] Love Chunibyo Other Delusions 2 (bYiMGbhWsrGctQyqWXdr)
+2026-07-09 14:56:48,703 - V2Scraper - INFO -   Already exists (ID 6365), checking for updates...
+2026-07-09 14:56:48,704 - V2Scraper - INFO -   Existing points: 66
+2026-07-09 14:56:49,729 - V2Scraper - INFO -   RSC: 66 places (66 total unique)
+2026-07-09 14:56:49,730 - V2Scraper - INFO - Total extracted: 66 places
+2026-07-09 14:56:49,730 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:49,730 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:50,731 - V2Scraper - INFO - 
+[172/286] Initial D Legend 3 (bfmIPuWLk9usCZzBUOgC)
+2026-07-09 14:56:50,731 - V2Scraper - INFO -   Already exists (ID 6366), checking for updates...
+2026-07-09 14:56:50,732 - V2Scraper - INFO -   Existing points: 32
+2026-07-09 14:56:51,532 - V2Scraper - INFO -   RSC: 32 places (32 total unique)
+2026-07-09 14:56:51,532 - V2Scraper - INFO - Total extracted: 32 places
+2026-07-09 14:56:51,532 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:51,532 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:52,533 - V2Scraper - INFO - 
+[173/286] Love Live 2 (bqcf5pBXd5nYTZrUrMN8)
+2026-07-09 14:56:52,533 - V2Scraper - INFO -   Already exists (ID 6367), checking for updates...
+2026-07-09 14:56:52,534 - V2Scraper - INFO -   Existing points: 32
+2026-07-09 14:56:53,512 - V2Scraper - INFO -   RSC: 30 places (30 total unique)
+2026-07-09 14:56:53,513 - V2Scraper - INFO - Total extracted: 30 places
+2026-07-09 14:56:53,513 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:53,513 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:54,514 - V2Scraper - INFO - 
+[174/286] Oomuro Ke Dear Sisters (cOpLn7qXUh2P78M0fIhs)
+2026-07-09 14:56:54,514 - V2Scraper - INFO -   Already exists (ID 6368), checking for updates...
+2026-07-09 14:56:54,515 - V2Scraper - INFO -   Existing points: 30
+2026-07-09 14:56:55,465 - V2Scraper - INFO -   RSC: 30 places (30 total unique)
+2026-07-09 14:56:55,466 - V2Scraper - INFO - Total extracted: 30 places
+2026-07-09 14:56:55,466 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:55,466 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:56,467 - V2Scraper - INFO - 
+[175/286] Rascal Does Not Dream Of A Sister Venturing Out (dJ4Fiyk6ExLMmNqCnuIL)
+2026-07-09 14:56:56,467 - V2Scraper - INFO -   Already exists (ID 6369), checking for updates...
+2026-07-09 14:56:56,468 - V2Scraper - INFO -   Existing points: 18
+2026-07-09 14:56:57,411 - V2Scraper - INFO -   RSC: 18 places (18 total unique)
+2026-07-09 14:56:57,411 - V2Scraper - INFO - Total extracted: 18 places
+2026-07-09 14:56:57,412 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:57,412 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:56:58,413 - V2Scraper - INFO - 
+[176/286] Elfen Lied (dVXVd9lm3POCaTrhbN8e)
+2026-07-09 14:56:58,413 - V2Scraper - INFO -   Already exists (ID 6370), checking for updates...
+2026-07-09 14:56:58,414 - V2Scraper - INFO -   Existing points: 24
+2026-07-09 14:56:59,176 - V2Scraper - INFO -   RSC: 24 places (24 total unique)
+2026-07-09 14:56:59,177 - V2Scraper - INFO - Total extracted: 24 places
+2026-07-09 14:56:59,177 - V2Scraper - INFO -   No new points found
+2026-07-09 14:56:59,177 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:00,178 - V2Scraper - INFO - 
+[177/286] Her Blue Sky (dfteHvtxljaQQWkj7Kdy)
+2026-07-09 14:57:00,178 - V2Scraper - INFO -   Already exists (ID 6371), checking for updates...
+2026-07-09 14:57:00,179 - V2Scraper - INFO -   Existing points: 18
+2026-07-09 14:57:01,118 - V2Scraper - INFO -   RSC: 18 places (18 total unique)
+2026-07-09 14:57:01,118 - V2Scraper - INFO - Total extracted: 18 places
+2026-07-09 14:57:01,118 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:01,118 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:02,119 - V2Scraper - INFO - 
+[178/286] Your Name (dmrJFiEnWhEOYhhISwFi)
+2026-07-09 14:57:02,120 - V2Scraper - INFO -   Already exists (ID 6372), checking for updates...
+2026-07-09 14:57:02,120 - V2Scraper - INFO -   Existing points: 43
+2026-07-09 14:57:03,060 - V2Scraper - INFO -   RSC: 43 places (43 total unique)
+2026-07-09 14:57:03,060 - V2Scraper - INFO - Total extracted: 43 places
+2026-07-09 14:57:03,060 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:03,060 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:04,061 - V2Scraper - INFO - 
+[179/286] Yaiba (e2eUeiRSW5QyEbEOq8k6)
+2026-07-09 14:57:04,061 - V2Scraper - INFO -   Already exists (ID 6373), checking for updates...
+2026-07-09 14:57:04,062 - V2Scraper - INFO -   Existing points: 51
+2026-07-09 14:57:04,885 - V2Scraper - INFO -   RSC: 51 places (51 total unique)
+2026-07-09 14:57:04,885 - V2Scraper - INFO - Total extracted: 51 places
+2026-07-09 14:57:04,886 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:04,886 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:05,887 - V2Scraper - INFO - 
+[180/286] Needy Girl Overdose (e6Jvn7LM2stwCIRdcYoo)
+2026-07-09 14:57:05,887 - V2Scraper - INFO -   Already exists (ID 6374), checking for updates...
+2026-07-09 14:57:05,888 - V2Scraper - INFO -   Existing points: 6
+2026-07-09 14:57:07,078 - V2Scraper - INFO - Total extracted: 0 places
+2026-07-09 14:57:07,078 - V2Scraper - INFO -   No places found on website
+2026-07-09 14:57:07,078 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:08,079 - V2Scraper - INFO - 
+[181/286] A Whisker Away (eATSGEuD8XRUlDLY55lV)
+2026-07-09 14:57:08,079 - V2Scraper - INFO -   Already exists (ID 6375), checking for updates...
+2026-07-09 14:57:08,080 - V2Scraper - INFO -   Existing points: 33
+2026-07-09 14:57:08,808 - V2Scraper - INFO -   RSC: 33 places (33 total unique)
+2026-07-09 14:57:08,808 - V2Scraper - INFO - Total extracted: 33 places
+2026-07-09 14:57:08,808 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:08,809 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:09,810 - V2Scraper - INFO - 
+[182/286] Bottom Tier Character Tomozaki (eHyev9i9uF8t1YZFk8B7)
+2026-07-09 14:57:09,810 - V2Scraper - INFO -   Already exists (ID 6376), checking for updates...
+2026-07-09 14:57:09,811 - V2Scraper - INFO -   Existing points: 58
+2026-07-09 14:57:10,863 - V2Scraper - INFO -   RSC: 57 places (57 total unique)
+2026-07-09 14:57:10,863 - V2Scraper - INFO - Total extracted: 57 places
+2026-07-09 14:57:10,863 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:10,863 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:11,864 - V2Scraper - INFO - 
+[183/286] Persona 3 (eOFDk1EdVZaxVlVPQHWZ)
+2026-07-09 14:57:11,864 - V2Scraper - INFO -   Already exists (ID 6377), checking for updates...
+2026-07-09 14:57:11,865 - V2Scraper - INFO -   Existing points: 9
+2026-07-09 14:57:12,677 - V2Scraper - INFO -   RSC: 9 places (9 total unique)
+2026-07-09 14:57:12,677 - V2Scraper - INFO - Total extracted: 9 places
+2026-07-09 14:57:12,677 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:12,678 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:13,679 - V2Scraper - INFO - 
+[184/286] Witch Watch (eTYFt3lapy3A9mc0TLED)
+2026-07-09 14:57:13,679 - V2Scraper - INFO -   Already exists (ID 6378), checking for updates...
+2026-07-09 14:57:13,679 - V2Scraper - INFO -   Existing points: 24
+2026-07-09 14:57:14,723 - V2Scraper - INFO -   RSC: 23 places (23 total unique)
+2026-07-09 14:57:14,724 - V2Scraper - INFO - Total extracted: 23 places
+2026-07-09 14:57:14,724 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:14,724 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:15,725 - V2Scraper - INFO - 
+[185/286] Wolf Children (eYYabtope1MjwWUbzTSm)
+2026-07-09 14:57:15,725 - V2Scraper - INFO -   Already exists (ID 6379), checking for updates...
+2026-07-09 14:57:15,726 - V2Scraper - INFO -   Existing points: 19
+2026-07-09 14:57:16,650 - V2Scraper - INFO -   RSC: 19 places (19 total unique)
+2026-07-09 14:57:16,650 - V2Scraper - INFO - Total extracted: 19 places
+2026-07-09 14:57:16,650 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:16,650 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:17,651 - V2Scraper - INFO - 
+[186/286] Ocean Waves (elMjTgqvqmXjY2mYsP97)
+2026-07-09 14:57:17,651 - V2Scraper - INFO -   Already exists (ID 6380), checking for updates...
+2026-07-09 14:57:17,651 - V2Scraper - INFO -   Existing points: 19
+2026-07-09 14:57:18,551 - V2Scraper - INFO -   RSC: 18 places (18 total unique)
+2026-07-09 14:57:18,552 - V2Scraper - INFO - Total extracted: 18 places
+2026-07-09 14:57:18,552 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:18,552 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:19,553 - V2Scraper - INFO - 
+[187/286] Tokyo Revengers 2 (f8AAZWCp5tY6ZpCmYqht)
+2026-07-09 14:57:19,553 - V2Scraper - INFO -   Already exists (ID 6381), checking for updates...
+2026-07-09 14:57:19,554 - V2Scraper - INFO -   Existing points: 28
+2026-07-09 14:57:20,335 - V2Scraper - INFO -   RSC: 28 places (28 total unique)
+2026-07-09 14:57:20,335 - V2Scraper - INFO - Total extracted: 28 places
+2026-07-09 14:57:20,335 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:20,335 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:21,336 - V2Scraper - INFO - 
+[188/286] Oblivion Battery (fLKThLDZdxneAY7q3XXq)
+2026-07-09 14:57:21,337 - V2Scraper - INFO -   Already exists (ID 6382), checking for updates...
+2026-07-09 14:57:21,337 - V2Scraper - INFO -   Existing points: 22
+2026-07-09 14:57:22,122 - V2Scraper - INFO -   RSC: 21 places (21 total unique)
+2026-07-09 14:57:22,122 - V2Scraper - INFO - Total extracted: 21 places
+2026-07-09 14:57:22,122 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:22,122 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:23,124 - V2Scraper - INFO - 
+[189/286] Bocchi The Rock (g2gEzS0je4xmz8DFES7D)
+2026-07-09 14:57:23,124 - V2Scraper - INFO -   Already exists (ID 6383), checking for updates...
+2026-07-09 14:57:23,124 - V2Scraper - INFO -   Existing points: 50
+2026-07-09 14:57:23,869 - V2Scraper - INFO -   RSC: 48 places (48 total unique)
+2026-07-09 14:57:23,869 - V2Scraper - INFO - Total extracted: 48 places
+2026-07-09 14:57:23,869 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:23,869 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:24,871 - V2Scraper - INFO - 
+[190/286] Summer Time Rendering (g9pK7gNqpx18yyjFSqoO)
+2026-07-09 14:57:24,871 - V2Scraper - INFO -   Already exists (ID 6384), checking for updates...
+2026-07-09 14:57:24,871 - V2Scraper - INFO -   Existing points: 9
+2026-07-09 14:57:25,785 - V2Scraper - INFO -   RSC: 9 places (9 total unique)
+2026-07-09 14:57:25,785 - V2Scraper - INFO - Total extracted: 9 places
+2026-07-09 14:57:25,785 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:25,785 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:26,787 - V2Scraper - INFO - 
+[191/286] Yuruyuri 3 (gHpRNAYSCHIMongJ2V81)
+2026-07-09 14:57:26,787 - V2Scraper - INFO -   Already exists (ID 6385), checking for updates...
+2026-07-09 14:57:26,787 - V2Scraper - INFO -   Existing points: 65
+2026-07-09 14:57:27,783 - V2Scraper - INFO -   RSC: 61 places (61 total unique)
+2026-07-09 14:57:27,783 - V2Scraper - INFO - Total extracted: 61 places
+2026-07-09 14:57:27,784 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:27,784 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:28,785 - V2Scraper - INFO - 
+[192/286] Bang Dream 3 (gVF2NS4J6Yu9j3raEFQ8)
+2026-07-09 14:57:28,785 - V2Scraper - INFO -   Already exists (ID 6386), checking for updates...
+2026-07-09 14:57:28,786 - V2Scraper - INFO -   Existing points: 22
+2026-07-09 14:57:29,590 - V2Scraper - INFO -   RSC: 22 places (22 total unique)
+2026-07-09 14:57:29,590 - V2Scraper - INFO - Total extracted: 22 places
+2026-07-09 14:57:29,590 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:29,590 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:30,592 - V2Scraper - INFO - 
+[193/286] Spirited Away (gfatdW6fL22KIsoTUgDj)
+2026-07-09 14:57:30,592 - V2Scraper - INFO -   Already exists (ID 6387), checking for updates...
+2026-07-09 14:57:30,592 - V2Scraper - INFO -   Existing points: 6
+2026-07-09 14:57:31,495 - V2Scraper - INFO -   RSC: 6 places (6 total unique)
+2026-07-09 14:57:31,495 - V2Scraper - INFO - Total extracted: 6 places
+2026-07-09 14:57:31,495 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:31,495 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:32,496 - V2Scraper - INFO - 
+[194/286] The Colors Within (gnhSJEY51xYcpeeuQw0W)
+2026-07-09 14:57:32,497 - V2Scraper - INFO -   Already exists (ID 6388), checking for updates...
+2026-07-09 14:57:32,497 - V2Scraper - INFO -   Existing points: 19
+2026-07-09 14:57:33,462 - V2Scraper - INFO -   RSC: 19 places (19 total unique)
+2026-07-09 14:57:33,462 - V2Scraper - INFO - Total extracted: 19 places
+2026-07-09 14:57:33,462 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:33,462 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:34,463 - V2Scraper - INFO - 
+[195/286] Oshi No Ko 3 (hXT39kYUcusxwt3QStKh)
+2026-07-09 14:57:34,464 - V2Scraper - INFO -   Already exists (ID 6389), checking for updates...
+2026-07-09 14:57:34,464 - V2Scraper - INFO -   Existing points: 36
+2026-07-09 14:57:35,375 - V2Scraper - INFO - Total extracted: 0 places
+2026-07-09 14:57:35,376 - V2Scraper - INFO -   No places found on website
+2026-07-09 14:57:35,376 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:36,377 - V2Scraper - INFO - 
+[196/286] Miss Kobayashis Dragon Maid S (hauIqGQ1sDCVeCPDckoq)
+2026-07-09 14:57:36,377 - V2Scraper - INFO -   Already exists (ID 6390), checking for updates...
+2026-07-09 14:57:36,378 - V2Scraper - INFO -   Existing points: 42
+2026-07-09 14:57:37,324 - V2Scraper - INFO -   RSC: 42 places (42 total unique)
+2026-07-09 14:57:37,324 - V2Scraper - INFO - Total extracted: 42 places
+2026-07-09 14:57:37,324 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:37,324 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:38,325 - V2Scraper - INFO - 
+[197/286] Miss Kobayashis Dragon Maid (hmNbdtY6sluh6dGbGpm3)
+2026-07-09 14:57:38,325 - V2Scraper - INFO -   Already exists (ID 6391), checking for updates...
+2026-07-09 14:57:38,326 - V2Scraper - INFO -   Existing points: 38
+2026-07-09 14:57:39,214 - V2Scraper - INFO -   RSC: 38 places (38 total unique)
+2026-07-09 14:57:39,214 - V2Scraper - INFO - Total extracted: 38 places
+2026-07-09 14:57:39,214 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:39,214 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:40,215 - V2Scraper - INFO - 
+[198/286] The Boy And The Beast (hqPCsA4gKBp9C7fvz7hY)
+2026-07-09 14:57:40,216 - V2Scraper - INFO -   Already exists (ID 6392), checking for updates...
+2026-07-09 14:57:40,216 - V2Scraper - INFO -   Existing points: 27
+2026-07-09 14:57:40,927 - V2Scraper - INFO -   RSC: 27 places (27 total unique)
+2026-07-09 14:57:40,927 - V2Scraper - INFO - Total extracted: 27 places
+2026-07-09 14:57:40,927 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:40,927 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:41,928 - V2Scraper - INFO - 
+[199/286] Uma Musume Pretty Derby 2 (hsFZfXhfP8gdRz84gTye)
+2026-07-09 14:57:41,929 - V2Scraper - INFO -   Already exists (ID 6393), checking for updates...
+2026-07-09 14:57:41,929 - V2Scraper - INFO -   Existing points: 21
+2026-07-09 14:57:42,722 - V2Scraper - INFO -   RSC: 21 places (21 total unique)
+2026-07-09 14:57:42,723 - V2Scraper - INFO - Total extracted: 21 places
+2026-07-09 14:57:42,723 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:42,723 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:43,724 - V2Scraper - INFO - 
+[200/286] The Future Diary (hwW14Gkf0CN9vhzRPbYc)
+2026-07-09 14:57:43,724 - V2Scraper - INFO -   Already exists (ID 6394), checking for updates...
+2026-07-09 14:57:43,725 - V2Scraper - INFO -   Existing points: 29
+2026-07-09 14:57:44,468 - V2Scraper - INFO -   RSC: 28 places (28 total unique)
+2026-07-09 14:57:44,468 - V2Scraper - INFO - Total extracted: 28 places
+2026-07-09 14:57:44,468 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:44,468 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:45,469 - V2Scraper - INFO - 
+[201/286] Yuruyuri 2 (iLiYixvGMH8yz6t05Pq4)
+2026-07-09 14:57:45,469 - V2Scraper - INFO -   Already exists (ID 6395), checking for updates...
+2026-07-09 14:57:45,470 - V2Scraper - INFO -   Existing points: 18
+2026-07-09 14:57:46,376 - V2Scraper - INFO -   RSC: 18 places (18 total unique)
+2026-07-09 14:57:46,376 - V2Scraper - INFO - Total extracted: 18 places
+2026-07-09 14:57:46,376 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:46,376 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:47,377 - V2Scraper - INFO - 
+[202/286] Dagashi Kashi (iQWqPKVd1tNdZsl8aRyC)
+2026-07-09 14:57:47,377 - V2Scraper - INFO -   Already exists (ID 6396), checking for updates...
+2026-07-09 14:57:47,378 - V2Scraper - INFO -   Existing points: 17
+2026-07-09 14:57:48,468 - V2Scraper - INFO -   RSC: 17 places (17 total unique)
+2026-07-09 14:57:48,468 - V2Scraper - INFO - Total extracted: 17 places
+2026-07-09 14:57:48,468 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:48,468 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:49,469 - V2Scraper - INFO - 
+[203/286] Digimon Adventure Tri 1 (idAF9GEfrCSbo8Sbhe0Q)
+2026-07-09 14:57:49,470 - V2Scraper - INFO -   Already exists (ID 6397), checking for updates...
+2026-07-09 14:57:49,470 - V2Scraper - INFO -   Existing points: 23
+2026-07-09 14:57:50,209 - V2Scraper - INFO -   RSC: 23 places (23 total unique)
+2026-07-09 14:57:50,209 - V2Scraper - INFO - Total extracted: 23 places
+2026-07-09 14:57:50,209 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:50,209 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:51,210 - V2Scraper - INFO - 
+[204/286] Kaguya Sama Ultra Romantic (idEzZDys0LEn47JFbEbU)
+2026-07-09 14:57:51,210 - V2Scraper - INFO -   Already exists (ID 6398), checking for updates...
+2026-07-09 14:57:51,211 - V2Scraper - INFO -   Existing points: 7
+2026-07-09 14:57:52,029 - V2Scraper - INFO -   RSC: 7 places (7 total unique)
+2026-07-09 14:57:52,029 - V2Scraper - INFO - Total extracted: 7 places
+2026-07-09 14:57:52,029 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:52,029 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:53,031 - V2Scraper - INFO - 
+[205/286] Grand Blue Dreaming (ioOXlHX29aVhPwnrSHCM)
+2026-07-09 14:57:53,031 - V2Scraper - INFO -   Already exists (ID 6399), checking for updates...
+2026-07-09 14:57:53,031 - V2Scraper - INFO -   Existing points: 12
+2026-07-09 14:57:54,046 - V2Scraper - INFO -   RSC: 12 places (12 total unique)
+2026-07-09 14:57:54,046 - V2Scraper - INFO - Total extracted: 12 places
+2026-07-09 14:57:54,046 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:54,046 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:55,048 - V2Scraper - INFO - 
+[206/286] Mono (ioWpeqYHXVrxmoYR2Q4S)
+2026-07-09 14:57:55,048 - V2Scraper - INFO -   Already exists (ID 6400), checking for updates...
+2026-07-09 14:57:55,049 - V2Scraper - INFO -   Existing points: 181
+2026-07-09 14:57:55,932 - V2Scraper - INFO -   RSC: 175 places (175 total unique)
+2026-07-09 14:57:55,932 - V2Scraper - INFO - Total extracted: 175 places
+2026-07-09 14:57:55,933 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:55,933 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:56,934 - V2Scraper - INFO - 
+[207/286] The Dangers In My Heart (ixBmE5zoDtYosQdmGw6J)
+2026-07-09 14:57:56,934 - V2Scraper - INFO -   Already exists (ID 6401), checking for updates...
+2026-07-09 14:57:56,935 - V2Scraper - INFO -   Existing points: 25
+2026-07-09 14:57:57,737 - V2Scraper - INFO -   RSC: 25 places (25 total unique)
+2026-07-09 14:57:57,737 - V2Scraper - INFO - Total extracted: 25 places
+2026-07-09 14:57:57,737 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:57,737 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:57:58,738 - V2Scraper - INFO - 
+[208/286] The Girl I Like Forgot Her Glasses (jGaml1L9OKXYk9VQrvPz)
+2026-07-09 14:57:58,738 - V2Scraper - INFO -   Already exists (ID 6402), checking for updates...
+2026-07-09 14:57:58,739 - V2Scraper - INFO -   Existing points: 35
+2026-07-09 14:57:59,559 - V2Scraper - INFO -   RSC: 35 places (35 total unique)
+2026-07-09 14:57:59,559 - V2Scraper - INFO - Total extracted: 35 places
+2026-07-09 14:57:59,559 - V2Scraper - INFO -   No new points found
+2026-07-09 14:57:59,559 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:00,560 - V2Scraper - INFO - 
+[209/286] Tatsuki Fujimoto 17 26 (jI8hvq8XTfmHUScW0hkW)
+2026-07-09 14:58:00,560 - V2Scraper - INFO -   Already exists (ID 6403), checking for updates...
+2026-07-09 14:58:00,561 - V2Scraper - INFO -   Existing points: 3
+2026-07-09 14:58:01,635 - V2Scraper - INFO -   RSC: 3 places (3 total unique)
+2026-07-09 14:58:01,635 - V2Scraper - INFO - Total extracted: 3 places
+2026-07-09 14:58:01,635 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:01,635 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:02,636 - V2Scraper - INFO - 
+[210/286] Initial D Legend 1 (jpNvOdNs79m85HRpQLAz)
+2026-07-09 14:58:02,636 - V2Scraper - INFO -   Already exists (ID 6404), checking for updates...
+2026-07-09 14:58:02,637 - V2Scraper - INFO -   Existing points: 24
+2026-07-09 14:58:03,381 - V2Scraper - INFO -   RSC: 24 places (24 total unique)
+2026-07-09 14:58:03,381 - V2Scraper - INFO - Total extracted: 24 places
+2026-07-09 14:58:03,381 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:03,381 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:04,382 - V2Scraper - INFO - 
+[211/286] 25 Dimensional Seduction (jzjmlOooBQ0qHhjdFaAv)
+2026-07-09 14:58:04,382 - V2Scraper - INFO -   Already exists (ID 6405), checking for updates...
+2026-07-09 14:58:04,383 - V2Scraper - INFO -   Existing points: 7
+2026-07-09 14:58:05,463 - V2Scraper - INFO -   RSC: 7 places (7 total unique)
+2026-07-09 14:58:05,463 - V2Scraper - INFO - Total extracted: 7 places
+2026-07-09 14:58:05,463 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:05,463 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:06,465 - V2Scraper - INFO - 
+[212/286] Yuruyuri (k91zDE7m93R6TF1I18ZJ)
+2026-07-09 14:58:06,465 - V2Scraper - INFO -   Already exists (ID 6406), checking for updates...
+2026-07-09 14:58:06,465 - V2Scraper - INFO -   Existing points: 26
+2026-07-09 14:58:07,356 - V2Scraper - INFO -   RSC: 25 places (25 total unique)
+2026-07-09 14:58:07,356 - V2Scraper - INFO - Total extracted: 25 places
+2026-07-09 14:58:07,356 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:07,356 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:08,358 - V2Scraper - INFO - 
+[213/286] Cosmic Princess Kaguya (kCYfe1hDUEETnFuCzdPR)
+2026-07-09 14:58:08,358 - V2Scraper - INFO -   Already exists (ID 6407), checking for updates...
+2026-07-09 14:58:08,358 - V2Scraper - INFO -   Existing points: 27
+2026-07-09 14:58:09,466 - V2Scraper - INFO - Total extracted: 0 places
+2026-07-09 14:58:09,466 - V2Scraper - INFO -   No places found on website
+2026-07-09 14:58:09,466 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:10,467 - V2Scraper - INFO - 
+[214/286] 5 Centimeters Per Second (lC2rLRj6H1qdA3lAth1U)
+2026-07-09 14:58:10,467 - V2Scraper - INFO -   Already exists (ID 6408), checking for updates...
+2026-07-09 14:58:10,468 - V2Scraper - INFO -   Existing points: 39
+2026-07-09 14:58:11,226 - V2Scraper - INFO -   RSC: 39 places (39 total unique)
+2026-07-09 14:58:11,226 - V2Scraper - INFO - Total extracted: 39 places
+2026-07-09 14:58:11,226 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:11,227 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:12,228 - V2Scraper - INFO - 
+[215/286] Love Live (lCHlfVBBuWKfP9fIp0LK)
+2026-07-09 14:58:12,228 - V2Scraper - INFO -   Already exists (ID 6409), checking for updates...
+2026-07-09 14:58:12,229 - V2Scraper - INFO -   Existing points: 25
+2026-07-09 14:58:13,045 - V2Scraper - INFO -   RSC: 25 places (25 total unique)
+2026-07-09 14:58:13,045 - V2Scraper - INFO - Total extracted: 25 places
+2026-07-09 14:58:13,045 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:13,045 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:14,046 - V2Scraper - INFO - 
+[216/286] Food For The Soul (lLRNlBv5PhX1VA137llY)
+2026-07-09 14:58:14,046 - V2Scraper - INFO -   Already exists (ID 6410), checking for updates...
+2026-07-09 14:58:14,047 - V2Scraper - INFO -   Existing points: 84
+2026-07-09 14:58:14,869 - V2Scraper - INFO -   RSC: 83 places (83 total unique)
+2026-07-09 14:58:14,869 - V2Scraper - INFO - Total extracted: 83 places
+2026-07-09 14:58:14,869 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:14,870 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:15,871 - V2Scraper - INFO - 
+[217/286] Look Back (lQ3KSrgoTH8ecdJpYrjU)
+2026-07-09 14:58:15,871 - V2Scraper - INFO -   Already exists (ID 6411), checking for updates...
+2026-07-09 14:58:15,871 - V2Scraper - INFO -   Existing points: 10
+2026-07-09 14:58:16,862 - V2Scraper - INFO -   RSC: 9 places (9 total unique)
+2026-07-09 14:58:16,862 - V2Scraper - INFO - Total extracted: 9 places
+2026-07-09 14:58:16,862 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:16,862 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:17,864 - V2Scraper - INFO - 
+[218/286] The Cat Returns (m6CFZQrjKW65ycCZE0zC)
+2026-07-09 14:58:17,864 - V2Scraper - INFO -   Already exists (ID 6412), checking for updates...
+2026-07-09 14:58:17,864 - V2Scraper - INFO -   Existing points: 4
+2026-07-09 14:58:18,757 - V2Scraper - INFO -   RSC: 4 places (4 total unique)
+2026-07-09 14:58:18,757 - V2Scraper - INFO - Total extracted: 4 places
+2026-07-09 14:58:18,757 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:18,757 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:19,758 - V2Scraper - INFO - 
+[219/286] Hello World (m9AMAEy8Bg0amLLk0fCq)
+2026-07-09 14:58:19,758 - V2Scraper - INFO -   Already exists (ID 6413), checking for updates...
+2026-07-09 14:58:19,759 - V2Scraper - INFO -   Existing points: 9
+2026-07-09 14:58:20,780 - V2Scraper - INFO -   RSC: 9 places (9 total unique)
+2026-07-09 14:58:20,780 - V2Scraper - INFO - Total extracted: 9 places
+2026-07-09 14:58:20,780 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:20,781 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:21,782 - V2Scraper - INFO - 
+[220/286] Bang Dream 2 (mE5p3IdFgsmfqTwMvwbp)
+2026-07-09 14:58:21,782 - V2Scraper - INFO -   Already exists (ID 6414), checking for updates...
+2026-07-09 14:58:21,782 - V2Scraper - INFO -   Existing points: 31
+2026-07-09 14:58:22,496 - V2Scraper - INFO -   RSC: 31 places (31 total unique)
+2026-07-09 14:58:22,496 - V2Scraper - INFO - Total extracted: 31 places
+2026-07-09 14:58:22,496 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:22,496 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:23,497 - V2Scraper - INFO - 
+[221/286] Oshi No Ko 2 (mHMf87KlQmLu2SFtbgaw)
+2026-07-09 14:58:23,497 - V2Scraper - INFO -   Already exists (ID 6415), checking for updates...
+2026-07-09 14:58:23,498 - V2Scraper - INFO -   Existing points: 41
+2026-07-09 14:58:24,244 - V2Scraper - INFO -   RSC: 40 places (40 total unique)
+2026-07-09 14:58:24,244 - V2Scraper - INFO - Total extracted: 40 places
+2026-07-09 14:58:24,245 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:24,245 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:25,246 - V2Scraper - INFO - 
+[222/286] Occultic Nine (mtW7xBzlawzjCvgR7pCQ)
+2026-07-09 14:58:25,246 - V2Scraper - INFO -   Already exists (ID 6416), checking for updates...
+2026-07-09 14:58:25,247 - V2Scraper - INFO -   Existing points: 68
+2026-07-09 14:58:26,021 - V2Scraper - INFO -   RSC: 67 places (67 total unique)
+2026-07-09 14:58:26,021 - V2Scraper - INFO - Total extracted: 67 places
+2026-07-09 14:58:26,021 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:26,021 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:27,022 - V2Scraper - INFO - 
+[223/286] Komi Cant Communicate 2 (n3hNkoBAE9Wr2XL65zWD)
+2026-07-09 14:58:27,023 - V2Scraper - INFO -   Already exists (ID 6417), checking for updates...
+2026-07-09 14:58:27,023 - V2Scraper - INFO -   Existing points: 8
+2026-07-09 14:58:27,755 - V2Scraper - INFO -   RSC: 8 places (8 total unique)
+2026-07-09 14:58:27,755 - V2Scraper - INFO - Total extracted: 8 places
+2026-07-09 14:58:27,755 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:27,755 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:28,756 - V2Scraper - INFO - 
+[224/286] K On (nDcjBFyJt97tX0kT9a3i)
+2026-07-09 14:58:28,756 - V2Scraper - INFO -   Already exists (ID 6418), checking for updates...
+2026-07-09 14:58:28,757 - V2Scraper - INFO -   Existing points: 21
+2026-07-09 14:58:29,446 - V2Scraper - INFO -   RSC: 21 places (21 total unique)
+2026-07-09 14:58:29,447 - V2Scraper - INFO - Total extracted: 21 places
+2026-07-09 14:58:29,447 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:29,447 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:30,448 - V2Scraper - INFO - 
+[225/286] This Monster Wants To Eat Me (nIzGnqp4XULg32euiQJb)
+2026-07-09 14:58:30,448 - V2Scraper - INFO -   Already exists (ID 6419), checking for updates...
+2026-07-09 14:58:30,449 - V2Scraper - INFO -   Existing points: 20
+2026-07-09 14:58:31,337 - V2Scraper - INFO -   RSC: 20 places (20 total unique)
+2026-07-09 14:58:31,337 - V2Scraper - INFO - Total extracted: 20 places
+2026-07-09 14:58:31,337 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:31,337 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:32,338 - V2Scraper - INFO - 
+[226/286] Kill Blue (nKpdjhePk7YAVXq0yOQd)
+2026-07-09 14:58:32,338 - V2Scraper - INFO - Scraping: Kill Blue -> https://www.animepilgrimage.com/ja/maps/anime/nKpdjhePk7YAVXq0yOQd/kill-blue
+2026-07-09 14:58:32,930 - V2Scraper - INFO - Total extracted: 0 places
+2026-07-09 14:58:32,930 - V2Scraper - WARNING - No places found for Kill Blue
+2026-07-09 14:58:32,930 - V2Scraper - WARNING -   No data for Kill Blue
+2026-07-09 14:58:34,933 - V2Scraper - INFO - 
+[227/286] Odd Taxi In The Woods (nZ0gBZUiXs5uFdPh0WWP)
+2026-07-09 14:58:34,933 - V2Scraper - INFO -   Already exists (ID 6420), checking for updates...
+2026-07-09 14:58:34,933 - V2Scraper - INFO -   Existing points: 14
+2026-07-09 14:58:35,699 - V2Scraper - INFO -   RSC: 14 places (14 total unique)
+2026-07-09 14:58:35,699 - V2Scraper - INFO - Total extracted: 14 places
+2026-07-09 14:58:35,699 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:35,699 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:36,700 - V2Scraper - INFO - 
+[228/286] Fate Strange Fake (nlFMm5beeDxjMv1c7pI0)
+2026-07-09 14:58:36,700 - V2Scraper - INFO -   Already exists (ID 6421), checking for updates...
+2026-07-09 14:58:36,701 - V2Scraper - INFO -   Existing points: 13
+2026-07-09 14:58:37,542 - V2Scraper - INFO -   RSC: 13 places (13 total unique)
+2026-07-09 14:58:37,542 - V2Scraper - INFO - Total extracted: 13 places
+2026-07-09 14:58:37,542 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:37,542 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:38,543 - V2Scraper - INFO - 
+[229/286] Teasing Master Takagi San (nuuX3MVLDUkL5Gu82Nn7)
+2026-07-09 14:58:38,544 - V2Scraper - INFO -   Already exists (ID 6422), checking for updates...
+2026-07-09 14:58:38,544 - V2Scraper - INFO -   Existing points: 9
+2026-07-09 14:58:39,425 - V2Scraper - INFO -   RSC: 8 places (8 total unique)
+2026-07-09 14:58:39,425 - V2Scraper - INFO - Total extracted: 8 places
+2026-07-09 14:58:39,425 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:39,425 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:40,426 - V2Scraper - INFO - 
+[230/286] A Silent Voice (o1iBehlCuEJvjTymVXZc)
+2026-07-09 14:58:40,426 - V2Scraper - INFO -   Already exists (ID 6423), checking for updates...
+2026-07-09 14:58:40,427 - V2Scraper - INFO -   Existing points: 33
+2026-07-09 14:58:41,441 - V2Scraper - INFO -   RSC: 33 places (33 total unique)
+2026-07-09 14:58:41,441 - V2Scraper - INFO - Total extracted: 33 places
+2026-07-09 14:58:41,441 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:41,441 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:42,443 - V2Scraper - INFO - 
+[231/286] Tamons B Side (o4I6GJfs1wuWmUMwZdjZ)
+2026-07-09 14:58:42,443 - V2Scraper - INFO -   Already exists (ID 6424), checking for updates...
+2026-07-09 14:58:42,444 - V2Scraper - INFO -   Existing points: 36
+2026-07-09 14:58:43,517 - V2Scraper - INFO - Total extracted: 0 places
+2026-07-09 14:58:43,517 - V2Scraper - INFO -   No places found on website
+2026-07-09 14:58:43,517 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:44,519 - V2Scraper - INFO - 
+[232/286] Jujutsu Kaisen 3 (oZ1ZO0bAf6FpPP7poEve)
+2026-07-09 14:58:44,519 - V2Scraper - INFO -   Already exists (ID 6425), checking for updates...
+2026-07-09 14:58:44,519 - V2Scraper - INFO -   Existing points: 59
+2026-07-09 14:58:45,468 - V2Scraper - INFO -   RSC: 5 places (5 total unique)
+2026-07-09 14:58:45,468 - V2Scraper - INFO - Total extracted: 5 places
+2026-07-09 14:58:45,468 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:45,468 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:46,469 - V2Scraper - INFO - 
+[233/286] Suzume (owwojmBeyqQxduqOgajN)
+2026-07-09 14:58:46,470 - V2Scraper - INFO -   Already exists (ID 6426), checking for updates...
+2026-07-09 14:58:46,470 - V2Scraper - INFO -   Existing points: 35
+2026-07-09 14:58:47,492 - V2Scraper - INFO -   RSC: 33 places (33 total unique)
+2026-07-09 14:58:47,492 - V2Scraper - INFO - Total extracted: 33 places
+2026-07-09 14:58:47,492 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:47,492 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:48,494 - V2Scraper - INFO - 
+[234/286] Ya Boy Kongming (p0GIxz7n8zoq1SbFbrQo)
+2026-07-09 14:58:48,494 - V2Scraper - INFO -   Already exists (ID 6427), checking for updates...
+2026-07-09 14:58:48,495 - V2Scraper - INFO -   Existing points: 12
+2026-07-09 14:58:49,274 - V2Scraper - INFO -   RSC: 12 places (12 total unique)
+2026-07-09 14:58:49,274 - V2Scraper - INFO - Total extracted: 12 places
+2026-07-09 14:58:49,275 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:49,275 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:50,276 - V2Scraper - INFO - 
+[235/286] Bungo Stray Dogs 3 (p8toSNuaJZiLprsI9c16)
+2026-07-09 14:58:50,276 - V2Scraper - INFO -   Already exists (ID 6428), checking for updates...
+2026-07-09 14:58:50,277 - V2Scraper - INFO -   Existing points: 26
+2026-07-09 14:58:51,180 - V2Scraper - INFO -   RSC: 26 places (26 total unique)
+2026-07-09 14:58:51,180 - V2Scraper - INFO - Total extracted: 26 places
+2026-07-09 14:58:51,180 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:51,180 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:52,181 - V2Scraper - INFO - 
+[236/286] Fate Zero (pUYxGiC62sTphT2JvNO7)
+2026-07-09 14:58:52,182 - V2Scraper - INFO -   Already exists (ID 6429), checking for updates...
+2026-07-09 14:58:52,182 - V2Scraper - INFO -   Existing points: 14
+2026-07-09 14:58:53,195 - V2Scraper - INFO -   RSC: 14 places (14 total unique)
+2026-07-09 14:58:53,195 - V2Scraper - INFO - Total extracted: 14 places
+2026-07-09 14:58:53,196 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:53,196 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:54,197 - V2Scraper - INFO - 
+[237/286] My Deer Friend Nokotan (pvWIpj2to4PlwxwvGIDt)
+2026-07-09 14:58:54,197 - V2Scraper - INFO -   Already exists (ID 6430), checking for updates...
+2026-07-09 14:58:54,198 - V2Scraper - INFO -   Existing points: 29
+2026-07-09 14:58:55,215 - V2Scraper - INFO -   RSC: 29 places (29 total unique)
+2026-07-09 14:58:55,215 - V2Scraper - INFO - Total extracted: 29 places
+2026-07-09 14:58:55,215 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:55,215 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:56,216 - V2Scraper - INFO - 
+[238/286] Shikimoris Not Just A Cutie (pwIwjuNHiexM3H66AQM9)
+2026-07-09 14:58:56,217 - V2Scraper - INFO -   Already exists (ID 6431), checking for updates...
+2026-07-09 14:58:56,217 - V2Scraper - INFO -   Existing points: 14
+2026-07-09 14:58:56,917 - V2Scraper - INFO -   RSC: 14 places (14 total unique)
+2026-07-09 14:58:56,917 - V2Scraper - INFO - Total extracted: 14 places
+2026-07-09 14:58:56,917 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:56,917 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:57,919 - V2Scraper - INFO - 
+[239/286] Medalist 2 (q1iKwxit2IQ79ehAO6yX)
+2026-07-09 14:58:57,919 - V2Scraper - INFO -   Already exists (ID 6432), checking for updates...
+2026-07-09 14:58:57,919 - V2Scraper - INFO -   Existing points: 10
+2026-07-09 14:58:58,842 - V2Scraper - INFO -   RSC: 9 places (9 total unique)
+2026-07-09 14:58:58,842 - V2Scraper - INFO - Total extracted: 9 places
+2026-07-09 14:58:58,842 - V2Scraper - INFO -   No new points found
+2026-07-09 14:58:58,842 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:58:59,843 - V2Scraper - INFO - 
+[240/286] Journal With Witch (qlWdNgADWPSHvlOJbvED)
+2026-07-09 14:58:59,843 - V2Scraper - INFO -   Already exists (ID 6433), checking for updates...
+2026-07-09 14:58:59,844 - V2Scraper - INFO -   Existing points: 27
+2026-07-09 14:59:00,709 - V2Scraper - INFO - Total extracted: 0 places
+2026-07-09 14:59:00,710 - V2Scraper - INFO -   No places found on website
+2026-07-09 14:59:00,710 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:01,711 - V2Scraper - INFO - 
+[241/286] The Anthem Of The Heart (qyzxJ6190Ra8ypsZS2j8)
+2026-07-09 14:59:01,711 - V2Scraper - INFO -   Already exists (ID 6434), checking for updates...
+2026-07-09 14:59:01,712 - V2Scraper - INFO -   Existing points: 22
+2026-07-09 14:59:02,787 - V2Scraper - INFO -   RSC: 22 places (22 total unique)
+2026-07-09 14:59:02,787 - V2Scraper - INFO - Total extracted: 22 places
+2026-07-09 14:59:02,788 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:02,788 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:03,789 - V2Scraper - INFO - 
+[242/286] One Punch Man 3 (rC0dQzDQaWadoKRSENAl)
+2026-07-09 14:59:03,789 - V2Scraper - INFO -   Already exists (ID 6435), checking for updates...
+2026-07-09 14:59:03,789 - V2Scraper - INFO -   Existing points: 7
+2026-07-09 14:59:04,497 - V2Scraper - INFO -   RSC: 7 places (7 total unique)
+2026-07-09 14:59:04,497 - V2Scraper - INFO - Total extracted: 7 places
+2026-07-09 14:59:04,498 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:04,498 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:05,499 - V2Scraper - INFO - 
+[243/286] Todays Menu For The Emiya Family (rgtPM7QxaNfCUZQHchHW)
+2026-07-09 14:59:05,499 - V2Scraper - INFO -   Already exists (ID 6436), checking for updates...
+2026-07-09 14:59:05,500 - V2Scraper - INFO -   Existing points: 25
+2026-07-09 14:59:06,316 - V2Scraper - INFO -   RSC: 25 places (25 total unique)
+2026-07-09 14:59:06,316 - V2Scraper - INFO - Total extracted: 25 places
+2026-07-09 14:59:06,316 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:06,316 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:07,317 - V2Scraper - INFO - 
+[244/286] Re Creators (rv19SKFM4rWzGlXZszn4)
+2026-07-09 14:59:07,317 - V2Scraper - INFO -   Already exists (ID 6437), checking for updates...
+2026-07-09 14:59:07,318 - V2Scraper - INFO -   Existing points: 61
+2026-07-09 14:59:08,166 - V2Scraper - INFO -   RSC: 59 places (59 total unique)
+2026-07-09 14:59:08,166 - V2Scraper - INFO - Total extracted: 59 places
+2026-07-09 14:59:08,166 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:08,166 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:09,168 - V2Scraper - INFO - 
+[245/286] Uma Musume Pretty Derby (sUISPT4kapvVtcddq6yf)
+2026-07-09 14:59:09,168 - V2Scraper - INFO -   Already exists (ID 6438), checking for updates...
+2026-07-09 14:59:09,168 - V2Scraper - INFO -   Existing points: 24
+2026-07-09 14:59:10,054 - V2Scraper - INFO -   RSC: 23 places (23 total unique)
+2026-07-09 14:59:10,054 - V2Scraper - INFO - Total extracted: 23 places
+2026-07-09 14:59:10,054 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:10,054 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:11,055 - V2Scraper - INFO - 
+[246/286] Haikyu (sXgYeKOTfssj8ROxSbwR)
+2026-07-09 14:59:11,056 - V2Scraper - INFO -   Already exists (ID 6439), checking for updates...
+2026-07-09 14:59:11,056 - V2Scraper - INFO -   Existing points: 8
+2026-07-09 14:59:11,783 - V2Scraper - INFO -   RSC: 8 places (8 total unique)
+2026-07-09 14:59:11,783 - V2Scraper - INFO - Total extracted: 8 places
+2026-07-09 14:59:11,783 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:11,783 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:12,784 - V2Scraper - INFO - 
+[247/286] The Girl Who Leapt Through Time (seGnO0BqP0oOGxXN0gUK)
+2026-07-09 14:59:12,784 - V2Scraper - INFO -   Already exists (ID 6440), checking for updates...
+2026-07-09 14:59:12,785 - V2Scraper - INFO -   Existing points: 10
+2026-07-09 14:59:13,509 - V2Scraper - INFO -   RSC: 10 places (10 total unique)
+2026-07-09 14:59:13,509 - V2Scraper - INFO - Total extracted: 10 places
+2026-07-09 14:59:13,509 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:13,509 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:14,510 - V2Scraper - INFO - 
+[248/286] Grotesqqque (sly3eyzND9TZP0B7eZYL)
+2026-07-09 14:59:14,511 - V2Scraper - INFO - Scraping: Grotesqqque -> https://www.animepilgrimage.com/ja/maps/anime/sly3eyzND9TZP0B7eZYL/grotesqqque
+2026-07-09 14:59:15,541 - V2Scraper - INFO -   RSC: 5 places (5 total unique)
+2026-07-09 14:59:15,541 - V2Scraper - INFO - Total extracted: 5 places
+2026-07-09 14:59:17,466 - V2Scraper - WARNING -   No cover available for GROTESQQQUE -グロテスク-
+2026-07-09 14:59:17,467 - V2Scraper - INFO - Scraped 5 points for GROTESQQQUE -グロテスク-
+2026-07-09 14:59:19,702 - V2Scraper - INFO -   Saved 5 points
+2026-07-09 14:59:21,704 - V2Scraper - INFO - 
+[249/286] Haruhi 2006 (sqOvtyTGW57hQNbzoXIc)
+2026-07-09 14:59:21,704 - V2Scraper - INFO -   Already exists (ID 6441), checking for updates...
+2026-07-09 14:59:21,705 - V2Scraper - INFO -   Existing points: 38
+2026-07-09 14:59:22,523 - V2Scraper - INFO -   RSC: 38 places (38 total unique)
+2026-07-09 14:59:22,524 - V2Scraper - INFO - Total extracted: 38 places
+2026-07-09 14:59:22,524 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:22,524 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:23,525 - V2Scraper - INFO - 
+[250/286] The Ryuos Work Is Never Done (ssdRxaytUOXCnKw1pcuJ)
+2026-07-09 14:59:23,525 - V2Scraper - INFO -   Already exists (ID 6442), checking for updates...
+2026-07-09 14:59:23,526 - V2Scraper - INFO -   Existing points: 23
+2026-07-09 14:59:24,317 - V2Scraper - INFO -   RSC: 22 places (22 total unique)
+2026-07-09 14:59:24,317 - V2Scraper - INFO - Total extracted: 22 places
+2026-07-09 14:59:24,317 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:24,317 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:25,318 - V2Scraper - INFO - 
+[251/286] Makeine (tCBIn1QbnKWmGX9Qzqhb)
+2026-07-09 14:59:25,318 - V2Scraper - INFO -   Already exists (ID 6443), checking for updates...
+2026-07-09 14:59:25,319 - V2Scraper - INFO -   Existing points: 49
+2026-07-09 14:59:26,163 - V2Scraper - INFO -   RSC: 49 places (49 total unique)
+2026-07-09 14:59:26,163 - V2Scraper - INFO - Total extracted: 49 places
+2026-07-09 14:59:26,164 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:26,164 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:27,165 - V2Scraper - INFO - 
+[252/286] The Quintessential Quintuplets (tiMx5VfV5a62NIXHXaoK)
+2026-07-09 14:59:27,165 - V2Scraper - INFO -   Already exists (ID 6444), checking for updates...
+2026-07-09 14:59:27,166 - V2Scraper - INFO -   Existing points: 4
+2026-07-09 14:59:27,918 - V2Scraper - INFO -   RSC: 4 places (4 total unique)
+2026-07-09 14:59:27,918 - V2Scraper - INFO - Total extracted: 4 places
+2026-07-09 14:59:27,918 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:27,918 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:28,919 - V2Scraper - INFO - 
+[253/286] Otaku Elf (tidwKFuBkmHvw52kmMPD)
+2026-07-09 14:59:28,919 - V2Scraper - INFO -   Already exists (ID 6445), checking for updates...
+2026-07-09 14:59:28,920 - V2Scraper - INFO -   Existing points: 15
+2026-07-09 14:59:29,884 - V2Scraper - INFO -   RSC: 15 places (15 total unique)
+2026-07-09 14:59:29,884 - V2Scraper - INFO - Total extracted: 15 places
+2026-07-09 14:59:29,884 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:29,884 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:30,886 - V2Scraper - INFO - 
+[254/286] Rent A Girlfriend 4 (tqahwveOEhWxs1eBy14Q)
+2026-07-09 14:59:30,886 - V2Scraper - INFO -   Already exists (ID 6446), checking for updates...
+2026-07-09 14:59:30,886 - V2Scraper - INFO -   Existing points: 22
+2026-07-09 14:59:31,934 - V2Scraper - INFO -   RSC: 22 places (22 total unique)
+2026-07-09 14:59:31,934 - V2Scraper - INFO - Total extracted: 22 places
+2026-07-09 14:59:31,934 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:31,934 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:32,935 - V2Scraper - INFO - 
+[255/286] I Want To Eat Your Pancreas (u8g1xEliRDcoyVAiIV4V)
+2026-07-09 14:59:32,935 - V2Scraper - INFO -   Already exists (ID 6447), checking for updates...
+2026-07-09 14:59:32,936 - V2Scraper - INFO -   Existing points: 18
+2026-07-09 14:59:33,887 - V2Scraper - INFO -   RSC: 18 places (18 total unique)
+2026-07-09 14:59:33,887 - V2Scraper - INFO - Total extracted: 18 places
+2026-07-09 14:59:33,887 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:33,887 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:34,888 - V2Scraper - INFO - 
+[256/286] Rascal Does Not Dream Of Bunny Girl Senpai (uNXQN8oaA3SNspSVoc2A)
+2026-07-09 14:59:34,888 - V2Scraper - INFO -   Already exists (ID 6448), checking for updates...
+2026-07-09 14:59:34,889 - V2Scraper - INFO -   Existing points: 56
+2026-07-09 14:59:35,629 - V2Scraper - INFO -   RSC: 56 places (56 total unique)
+2026-07-09 14:59:35,629 - V2Scraper - INFO - Total extracted: 56 places
+2026-07-09 14:59:35,630 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:35,630 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:36,631 - V2Scraper - INFO - 
+[257/286] Saekano (ud97bNQKguOJBycZicFP)
+2026-07-09 14:59:36,631 - V2Scraper - INFO -   Already exists (ID 6449), checking for updates...
+2026-07-09 14:59:36,632 - V2Scraper - INFO -   Existing points: 22
+2026-07-09 14:59:37,393 - V2Scraper - INFO -   RSC: 22 places (22 total unique)
+2026-07-09 14:59:37,393 - V2Scraper - INFO - Total extracted: 22 places
+2026-07-09 14:59:37,393 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:37,393 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:38,394 - V2Scraper - INFO - 
+[258/286] Yuru Camp (uhXFJjbIXDatAdC4MNHj)
+2026-07-09 14:59:38,394 - V2Scraper - INFO -   Already exists (ID 6450), checking for updates...
+2026-07-09 14:59:38,395 - V2Scraper - INFO -   Existing points: 52
+2026-07-09 14:59:39,134 - V2Scraper - INFO -   RSC: 52 places (52 total unique)
+2026-07-09 14:59:39,135 - V2Scraper - INFO - Total extracted: 52 places
+2026-07-09 14:59:39,135 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:39,135 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:40,136 - V2Scraper - INFO - 
+[259/286] Liz And The Blue Bird (umnTfj6nmpKaukejtrbT)
+2026-07-09 14:59:40,136 - V2Scraper - INFO -   Already exists (ID 6451), checking for updates...
+2026-07-09 14:59:40,137 - V2Scraper - INFO -   Existing points: 3
+2026-07-09 14:59:41,149 - V2Scraper - INFO -   RSC: 3 places (3 total unique)
+2026-07-09 14:59:41,149 - V2Scraper - INFO - Total extracted: 3 places
+2026-07-09 14:59:41,149 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:41,149 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:42,151 - V2Scraper - INFO - 
+[260/286] Roshidere (unGiOzgI5kK54nQCTxtm)
+2026-07-09 14:59:42,151 - V2Scraper - INFO -   Already exists (ID 6452), checking for updates...
+2026-07-09 14:59:42,151 - V2Scraper - INFO -   Existing points: 12
+2026-07-09 14:59:42,881 - V2Scraper - INFO -   RSC: 12 places (12 total unique)
+2026-07-09 14:59:42,881 - V2Scraper - INFO - Total extracted: 12 places
+2026-07-09 14:59:42,881 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:42,881 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:43,882 - V2Scraper - INFO - 
+[261/286] You Are Ms Servant (uxyUCyjBZrFMfOdbXCMN)
+2026-07-09 14:59:43,882 - V2Scraper - INFO -   Already exists (ID 6453), checking for updates...
+2026-07-09 14:59:43,883 - V2Scraper - INFO -   Existing points: 15
+2026-07-09 14:59:44,911 - V2Scraper - INFO -   RSC: 15 places (15 total unique)
+2026-07-09 14:59:44,911 - V2Scraper - INFO - Total extracted: 15 places
+2026-07-09 14:59:44,911 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:44,911 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:45,913 - V2Scraper - INFO - 
+[262/286] Saekano 2 (v79L8UZL37LfYiJ5fKEK)
+2026-07-09 14:59:45,913 - V2Scraper - INFO -   Already exists (ID 6454), checking for updates...
+2026-07-09 14:59:45,914 - V2Scraper - INFO -   Existing points: 26
+2026-07-09 14:59:46,852 - V2Scraper - INFO -   RSC: 26 places (26 total unique)
+2026-07-09 14:59:46,852 - V2Scraper - INFO - Total extracted: 26 places
+2026-07-09 14:59:46,853 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:46,853 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:47,854 - V2Scraper - INFO - 
+[263/286] Uma Musume Cinderella Gray 2 (vS5GOKe1V9av8Cxwd5bQ)
+2026-07-09 14:59:47,854 - V2Scraper - INFO -   Already exists (ID 6455), checking for updates...
+2026-07-09 14:59:47,855 - V2Scraper - INFO -   Existing points: 22
+2026-07-09 14:59:48,656 - V2Scraper - INFO -   RSC: 22 places (22 total unique)
+2026-07-09 14:59:48,656 - V2Scraper - INFO - Total extracted: 22 places
+2026-07-09 14:59:48,656 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:48,656 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:49,657 - V2Scraper - INFO - 
+[264/286] Watanare (w0UfKIA3nbV6f8vS4LYc)
+2026-07-09 14:59:49,658 - V2Scraper - INFO -   Already exists (ID 6456), checking for updates...
+2026-07-09 14:59:49,658 - V2Scraper - INFO -   Existing points: 41
+2026-07-09 14:59:50,471 - V2Scraper - INFO -   RSC: 41 places (41 total unique)
+2026-07-09 14:59:50,471 - V2Scraper - INFO - Total extracted: 41 places
+2026-07-09 14:59:50,472 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:50,472 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:51,473 - V2Scraper - INFO - 
+[265/286] Nippon Sangoku (w5KAbfUc7AIQc5Qv4hEM)
+2026-07-09 14:59:51,473 - V2Scraper - INFO -   Already exists (ID 6457), checking for updates...
+2026-07-09 14:59:51,474 - V2Scraper - INFO -   Existing points: 48
+2026-07-09 14:59:52,224 - V2Scraper - INFO -   RSC: 48 places (48 total unique)
+2026-07-09 14:59:52,224 - V2Scraper - INFO - Total extracted: 48 places
+2026-07-09 14:59:52,224 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:52,224 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:53,225 - V2Scraper - INFO - 
+[266/286] Dandadan (wGsUljsg7c7MbgdtzDJD)
+2026-07-09 14:59:53,225 - V2Scraper - INFO -   Already exists (ID 6458), checking for updates...
+2026-07-09 14:59:53,226 - V2Scraper - INFO -   Existing points: 6
+2026-07-09 14:59:53,982 - V2Scraper - INFO -   RSC: 6 places (6 total unique)
+2026-07-09 14:59:53,983 - V2Scraper - INFO - Total extracted: 6 places
+2026-07-09 14:59:53,983 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:53,983 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:54,984 - V2Scraper - INFO - 
+[267/286] Non Non Biyori Vacation (wJXvwG078NOgmusJqTU9)
+2026-07-09 14:59:54,984 - V2Scraper - INFO -   Already exists (ID 6459), checking for updates...
+2026-07-09 14:59:54,985 - V2Scraper - INFO -   Existing points: 18
+2026-07-09 14:59:55,744 - V2Scraper - INFO -   RSC: 18 places (18 total unique)
+2026-07-09 14:59:55,744 - V2Scraper - INFO - Total extracted: 18 places
+2026-07-09 14:59:55,744 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:55,744 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:56,745 - V2Scraper - INFO - 
+[268/286] Sorairo Utility (wNW5AkQ0ZTo4EW3YGois)
+2026-07-09 14:59:56,745 - V2Scraper - INFO -   Already exists (ID 6460), checking for updates...
+2026-07-09 14:59:56,746 - V2Scraper - INFO -   Existing points: 16
+2026-07-09 14:59:57,607 - V2Scraper - INFO -   RSC: 16 places (16 total unique)
+2026-07-09 14:59:57,607 - V2Scraper - INFO - Total extracted: 16 places
+2026-07-09 14:59:57,607 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:57,607 - V2Scraper - INFO -   No updates needed
+2026-07-09 14:59:58,608 - V2Scraper - INFO - 
+[269/286] Horimiya (wRJJ3i3avQIUeZ6PL6ej)
+2026-07-09 14:59:58,609 - V2Scraper - INFO -   Already exists (ID 6461), checking for updates...
+2026-07-09 14:59:58,609 - V2Scraper - INFO -   Existing points: 10
+2026-07-09 14:59:59,525 - V2Scraper - INFO -   RSC: 10 places (10 total unique)
+2026-07-09 14:59:59,525 - V2Scraper - INFO - Total extracted: 10 places
+2026-07-09 14:59:59,525 - V2Scraper - INFO -   No new points found
+2026-07-09 14:59:59,525 - V2Scraper - INFO -   No updates needed
+2026-07-09 15:00:00,527 - V2Scraper - INFO - 
+[270/286] Yuru Camp Movie (wlQ8Ci60loTyVBZV9Xia)
+2026-07-09 15:00:00,527 - V2Scraper - INFO -   Already exists (ID 6462), checking for updates...
+2026-07-09 15:00:00,527 - V2Scraper - INFO -   Existing points: 34
+2026-07-09 15:00:01,455 - V2Scraper - INFO -   RSC: 34 places (34 total unique)
+2026-07-09 15:00:01,455 - V2Scraper - INFO - Total extracted: 34 places
+2026-07-09 15:00:01,455 - V2Scraper - INFO -   No new points found
+2026-07-09 15:00:01,455 - V2Scraper - INFO -   No updates needed
+2026-07-09 15:00:02,457 - V2Scraper - INFO - 
+[271/286] Jujutsu Kaisen 0 (xYGIxEMWtc0UkKtWbp4R)
+2026-07-09 15:00:02,457 - V2Scraper - INFO -   Already exists (ID 6463), checking for updates...
+2026-07-09 15:00:02,457 - V2Scraper - INFO -   Existing points: 7
+2026-07-09 15:00:03,211 - V2Scraper - INFO -   RSC: 7 places (7 total unique)
+2026-07-09 15:00:03,211 - V2Scraper - INFO - Total extracted: 7 places
+2026-07-09 15:00:03,211 - V2Scraper - INFO -   No new points found
+2026-07-09 15:00:03,211 - V2Scraper - INFO -   No updates needed
+2026-07-09 15:00:04,212 - V2Scraper - INFO - 
+[272/286] Takopis Original Sin (xfD3SAgNnScPXtkyEpGo)
+2026-07-09 15:00:04,212 - V2Scraper - INFO -   Already exists (ID 6464), checking for updates...
+2026-07-09 15:00:04,213 - V2Scraper - INFO -   Existing points: 12
+2026-07-09 15:00:05,338 - V2Scraper - INFO -   RSC: 12 places (12 total unique)
+2026-07-09 15:00:05,338 - V2Scraper - INFO - Total extracted: 12 places
+2026-07-09 15:00:05,338 - V2Scraper - INFO -   No new points found
+2026-07-09 15:00:05,338 - V2Scraper - INFO -   No updates needed
+2026-07-09 15:00:06,339 - V2Scraper - INFO - 
+[273/286] Hajime No Ippo Rising (xixXlFp2hrN1lZJu7sSv)
+2026-07-09 15:00:06,339 - V2Scraper - INFO -   Already exists (ID 6465), checking for updates...
+2026-07-09 15:00:06,340 - V2Scraper - INFO -   Existing points: 9
+2026-07-09 15:00:07,079 - V2Scraper - INFO -   RSC: 9 places (9 total unique)
+2026-07-09 15:00:07,079 - V2Scraper - INFO - Total extracted: 9 places
+2026-07-09 15:00:07,080 - V2Scraper - INFO -   No new points found
+2026-07-09 15:00:07,080 - V2Scraper - INFO -   No updates needed
+2026-07-09 15:00:08,081 - V2Scraper - INFO - 
+[274/286] A Sign Of Affection (xn1kUG4nAyilfSbaVrmj)
+2026-07-09 15:00:08,081 - V2Scraper - INFO -   Already exists (ID 6466), checking for updates...
+2026-07-09 15:00:08,082 - V2Scraper - INFO -   Existing points: 40
+2026-07-09 15:00:08,965 - V2Scraper - INFO -   RSC: 40 places (40 total unique)
+2026-07-09 15:00:08,965 - V2Scraper - INFO - Total extracted: 40 places
+2026-07-09 15:00:08,965 - V2Scraper - INFO -   No new points found
+2026-07-09 15:00:08,965 - V2Scraper - INFO -   No updates needed
+2026-07-09 15:00:09,966 - V2Scraper - INFO - 
+[275/286] Nagatoro (xsfrhZD0r2q5twlEitmR)
+2026-07-09 15:00:09,967 - V2Scraper - INFO -   Already exists (ID 6467), checking for updates...
+2026-07-09 15:00:09,967 - V2Scraper - INFO -   Existing points: 16
+2026-07-09 15:00:10,848 - V2Scraper - INFO -   RSC: 16 places (16 total unique)
+2026-07-09 15:00:10,848 - V2Scraper - INFO - Total extracted: 16 places
+2026-07-09 15:00:10,848 - V2Scraper - INFO -   No new points found
+2026-07-09 15:00:10,848 - V2Scraper - INFO -   No updates needed
+2026-07-09 15:00:11,850 - V2Scraper - INFO - 
+[276/286] Sanda (xxMcxs235e04PF89ZQGN)
+2026-07-09 15:00:11,850 - V2Scraper - INFO -   Already exists (ID 6468), checking for updates...
+2026-07-09 15:00:11,850 - V2Scraper - INFO -   Existing points: 4
+2026-07-09 15:00:12,672 - V2Scraper - INFO -   RSC: 4 places (4 total unique)
+2026-07-09 15:00:12,672 - V2Scraper - INFO - Total extracted: 4 places
+2026-07-09 15:00:12,672 - V2Scraper - INFO -   No new points found
+2026-07-09 15:00:12,672 - V2Scraper - INFO -   No updates needed
+2026-07-09 15:00:13,674 - V2Scraper - INFO - 
+[277/286] One Punch Man (y0TAWlKFt6ENfgTZhPMB)
+2026-07-09 15:00:13,674 - V2Scraper - INFO -   Already exists (ID 6469), checking for updates...
+2026-07-09 15:00:13,674 - V2Scraper - INFO -   Existing points: 5
+2026-07-09 15:00:14,553 - V2Scraper - INFO -   RSC: 5 places (5 total unique)
+2026-07-09 15:00:14,554 - V2Scraper - INFO - Total extracted: 5 places
+2026-07-09 15:00:14,554 - V2Scraper - INFO -   No new points found
+2026-07-09 15:00:14,554 - V2Scraper - INFO -   No updates needed
+2026-07-09 15:00:15,555 - V2Scraper - INFO - 
+[278/286] Okitsura (y5w1zYuadN3Ej0cGsH8F)
+2026-07-09 15:00:15,555 - V2Scraper - INFO -   Already exists (ID 6470), checking for updates...
+2026-07-09 15:00:15,556 - V2Scraper - INFO -   Existing points: 46
+2026-07-09 15:00:16,472 - V2Scraper - INFO -   RSC: 46 places (46 total unique)
+2026-07-09 15:00:16,472 - V2Scraper - INFO - Total extracted: 46 places
+2026-07-09 15:00:16,472 - V2Scraper - INFO -   No new points found
+2026-07-09 15:00:16,472 - V2Scraper - INFO -   No updates needed
+2026-07-09 15:00:17,474 - V2Scraper - INFO - 
+[279/286] The Quintessential Quintuplets 2 (yB4LTU7fYemGl2JgldzA)
+2026-07-09 15:00:17,474 - V2Scraper - INFO -   Already exists (ID 6471), checking for updates...
+2026-07-09 15:00:17,474 - V2Scraper - INFO -   Existing points: 15
+2026-07-09 15:00:18,250 - V2Scraper - INFO -   RSC: 15 places (15 total unique)
+2026-07-09 15:00:18,250 - V2Scraper - INFO - Total extracted: 15 places
+2026-07-09 15:00:18,250 - V2Scraper - INFO -   No new points found
+2026-07-09 15:00:18,250 - V2Scraper - INFO -   No updates needed
+2026-07-09 15:00:19,251 - V2Scraper - INFO - 
+[280/286] Teasing Master Takagi San The Movie (yqdSgvWKtN6FDr3vxm3H)
+2026-07-09 15:00:19,251 - V2Scraper - INFO -   Already exists (ID 6472), checking for updates...
+2026-07-09 15:00:19,252 - V2Scraper - INFO -   Existing points: 20
+2026-07-09 15:00:20,310 - V2Scraper - INFO -   RSC: 20 places (20 total unique)
+2026-07-09 15:00:20,311 - V2Scraper - INFO - Total extracted: 20 places
+2026-07-09 15:00:20,311 - V2Scraper - INFO -   No new points found
+2026-07-09 15:00:20,311 - V2Scraper - INFO -   No updates needed
+2026-07-09 15:00:21,312 - V2Scraper - INFO - 
+[281/286] Heavenly Delusion (ywqTqT1hNKINvMHq5TZN)
+2026-07-09 15:00:21,312 - V2Scraper - INFO -   Already exists (ID 6473), checking for updates...
+2026-07-09 15:00:21,313 - V2Scraper - INFO -   Existing points: 30
+2026-07-09 15:00:22,115 - V2Scraper - INFO -   RSC: 30 places (30 total unique)
+2026-07-09 15:00:22,115 - V2Scraper - INFO - Total extracted: 30 places
+2026-07-09 15:00:22,115 - V2Scraper - INFO -   No new points found
+2026-07-09 15:00:22,115 - V2Scraper - INFO -   No updates needed
+2026-07-09 15:00:23,117 - V2Scraper - INFO - 
+[282/286] Rascal Does Not Dream Of A Knapsack Kid (yxxkllavYoNKtdXw1Lez)
+2026-07-09 15:00:23,117 - V2Scraper - INFO -   Already exists (ID 6474), checking for updates...
+2026-07-09 15:00:23,117 - V2Scraper - INFO -   Existing points: 23
+2026-07-09 15:00:23,976 - V2Scraper - INFO -   RSC: 23 places (23 total unique)
+2026-07-09 15:00:23,977 - V2Scraper - INFO - Total extracted: 23 places
+2026-07-09 15:00:23,977 - V2Scraper - INFO -   No new points found
+2026-07-09 15:00:23,977 - V2Scraper - INFO -   No updates needed
+2026-07-09 15:00:24,978 - V2Scraper - INFO - 
+[283/286] Ameku Md Doctor Detective (z30sfzlqpJpiCAeoUi8h)
+2026-07-09 15:00:24,978 - V2Scraper - INFO -   Already exists (ID 6475), checking for updates...
+2026-07-09 15:00:24,979 - V2Scraper - INFO -   Existing points: 8
+2026-07-09 15:00:26,179 - V2Scraper - INFO -   RSC: 8 places (8 total unique)
+2026-07-09 15:00:26,179 - V2Scraper - INFO - Total extracted: 8 places
+2026-07-09 15:00:26,179 - V2Scraper - INFO -   No new points found
+2026-07-09 15:00:26,179 - V2Scraper - INFO -   No updates needed
+2026-07-09 15:00:27,180 - V2Scraper - INFO - 
+[284/286] Love Chunibyo Other Delusions (z7BgNrMdTaMbmYysRMBz)
+2026-07-09 15:00:27,181 - V2Scraper - INFO -   Already exists (ID 6476), checking for updates...
+2026-07-09 15:00:27,181 - V2Scraper - INFO -   Existing points: 46
+2026-07-09 15:00:28,006 - V2Scraper - INFO -   RSC: 45 places (45 total unique)
+2026-07-09 15:00:28,006 - V2Scraper - INFO - Total extracted: 45 places
+2026-07-09 15:00:28,006 - V2Scraper - INFO -   No new points found
+2026-07-09 15:00:28,006 - V2Scraper - INFO -   No updates needed
+2026-07-09 15:00:29,008 - V2Scraper - INFO - 
+[285/286] Tokyo Ghoul (zWadHN3vlTLoK9u1PXoS)
+2026-07-09 15:00:29,008 - V2Scraper - INFO -   Already exists (ID 6477), checking for updates...
+2026-07-09 15:00:29,009 - V2Scraper - INFO -   Existing points: 10
+2026-07-09 15:00:29,949 - V2Scraper - INFO -   RSC: 10 places (10 total unique)
+2026-07-09 15:00:29,950 - V2Scraper - INFO - Total extracted: 10 places
+2026-07-09 15:00:29,950 - V2Scraper - INFO -   No new points found
+2026-07-09 15:00:29,950 - V2Scraper - INFO -   No updates needed
+2026-07-09 15:00:30,951 - V2Scraper - INFO - 
+[286/286] Zombie Land Saga (zpeuh4ic4dDDneypMAZp)
+2026-07-09 15:00:30,951 - V2Scraper - INFO -   Already exists (ID 6478), checking for updates...
+2026-07-09 15:00:30,952 - V2Scraper - INFO -   Existing points: 21
+2026-07-09 15:00:31,847 - V2Scraper - INFO -   RSC: 21 places (21 total unique)
+2026-07-09 15:00:31,847 - V2Scraper - INFO - Total extracted: 21 places
+2026-07-09 15:00:31,847 - V2Scraper - INFO -   No new points found
+2026-07-09 15:00:31,847 - V2Scraper - INFO -   No updates needed
+2026-07-09 15:00:32,848 - V2Scraper - INFO - 
+--- Fixing logo covers ---
+2026-07-09 15:00:32,848 - V2Scraper - INFO - Scanning for logo covers...
+2026-07-09 15:00:34,330 - V2Scraper - INFO - Fixed 0 logo covers
+2026-07-09 15:00:34,331 - V2Scraper - INFO - 
+--- Fixing zero-coordinate points ---
+2026-07-09 15:00:34,331 - V2Scraper - INFO - Scanning for zero-coordinate points...
+2026-07-09 15:00:34,626 - V2Scraper - INFO - Found 17 anime with zero-coordinate points
+2026-07-09 15:00:34,626 - V2Scraper - INFO - Fetching anime list for URL mapping...
+2026-07-09 15:00:34,626 - V2Scraper - INFO - Fetching anime list from sitemap.xml...
+2026-07-09 15:00:35,919 - V2Scraper - INFO - Sitemap: 286 anime
+2026-07-09 15:00:35,919 - V2Scraper - INFO - Found 286 anime
+2026-07-09 15:00:35,920 - V2Scraper - INFO -   1. Days With My Stepsister (04krYkLnGxdyZnphVjQD)
+2026-07-09 15:00:35,920 - V2Scraper - INFO -   2. Tonikawa (0AvGlAgPpCxpeHIuaJPN)
+2026-07-09 15:00:35,920 - V2Scraper - INFO -   3. Girls Band Cry (0MKV87agZS5NoAaTX6B0)
+2026-07-09 15:00:35,920 - V2Scraper - INFO -   4. Tokyo Revengers (0eav7fRw7FpJyEOwfQKl)
+2026-07-09 15:00:35,920 - V2Scraper - INFO -   5. Jujutsu Kaisen 1 (0krqHxVPwJzgjw4B5AJN)
+2026-07-09 15:00:35,920 - V2Scraper - INFO -   ... and 281 more
+2026-07-09 15:00:35,920 - V2Scraper - INFO - Fixing: 无法访问此网站 (ID 5967)
+2026-07-09 15:00:35,921 - V2Scraper - WARNING -   Could not find '无法访问此网站' on the new site
+2026-07-09 15:00:35,921 - V2Scraper - INFO - Fixing: 違国日記 (ID 6133)
+2026-07-09 15:00:35,921 - V2Scraper - WARNING -   Could not find '違国日記' on the new site
+2026-07-09 15:00:35,921 - V2Scraper - INFO - Fixing: 日本三國 (ID 6182)
+2026-07-09 15:00:35,921 - V2Scraper - WARNING -   Could not find '日本三國' on the new site
+2026-07-09 15:00:35,921 - V2Scraper - INFO - Fixing: クラスで２番目に可愛い女の子と友だちになった (ID 6183)
+2026-07-09 15:00:35,921 - V2Scraper - WARNING -   Could not find 'クラスで２番目に可愛い女の子と友だちになった' on the new site
+2026-07-09 15:00:35,921 - V2Scraper - INFO - Fixing: ３月のライオン 第2シリーズ (ID 6184)
+2026-07-09 15:00:35,921 - V2Scraper - WARNING -   Could not find '３月のライオン 第2シリーズ' on the new site
+2026-07-09 15:00:35,921 - V2Scraper - INFO - Fixing: 呪術廻戦 死滅回遊 (ID 6186)
+2026-07-09 15:00:35,921 - V2Scraper - WARNING -   Could not find '呪術廻戦 死滅回遊' on the new site
+2026-07-09 15:00:35,921 - V2Scraper - INFO - Fixing: 【推しの子】第3期 (ID 6187)
+2026-07-09 15:00:35,921 - V2Scraper - WARNING -   Could not find '【推しの子】第3期' on the new site
+2026-07-09 15:00:35,921 - V2Scraper - INFO - Fixing: 多聞くん今どっち!? (ID 6188)
+2026-07-09 15:00:35,921 - V2Scraper - WARNING -   Could not find '多聞くん今どっち!?' on the new site
+2026-07-09 15:00:35,921 - V2Scraper - INFO - Fixing: 姫様“拷問”の時間です (ID 6189)
+2026-07-09 15:00:35,921 - V2Scraper - WARNING -   Could not find '姫様“拷問”の時間です' on the new site
+2026-07-09 15:00:35,921 - V2Scraper - INFO - Fixing: 呪術廻戦 2期 (ID 6190)
+2026-07-09 15:00:35,922 - V2Scraper - WARNING -   Could not find '呪術廻戦 2期' on the new site
+2026-07-09 15:00:35,922 - V2Scraper - INFO - Fixing: 彼女、お借りします 2期 (ID 6191)
+2026-07-09 15:00:35,922 - V2Scraper - WARNING -   Could not find '彼女、お借りします 2期' on the new site
+2026-07-09 15:00:35,922 - V2Scraper - INFO - Fixing: かぐや様は告らせたい ウルトラロマンティック (ID 6192)
+2026-07-09 15:00:35,922 - V2Scraper - WARNING -   Could not find 'かぐや様は告らせたい ウルトラロマンティック' on the new site
+2026-07-09 15:00:35,922 - V2Scraper - INFO - Fixing: ゾン100 ～ゾンビになるまでにしたい100のこと～ (ID 6193)
+2026-07-09 15:00:35,922 - V2Scraper - WARNING -   Could not find 'ゾン100 ～ゾンビになるまでにしたい100のこと～' on the new site
+2026-07-09 15:00:35,922 - V2Scraper - INFO - Fixing: 劇場版 呪術廻戦 0 (ID 6194)
+2026-07-09 15:00:35,922 - V2Scraper - WARNING -   Could not find '劇場版 呪術廻戦 0' on the new site
+2026-07-09 15:00:35,922 - V2Scraper - INFO - Fixing: 東京喰種 (ID 6195)
+2026-07-09 15:00:35,922 - V2Scraper - WARNING -   Could not find '東京喰種' on the new site
+2026-07-09 15:00:35,922 - V2Scraper - INFO - Fixing: 劇場版 ソードアート・オンライン オーディナル・スケール (ID 6196)
+2026-07-09 15:00:35,922 - V2Scraper - WARNING -   Could not find '劇場版 ソードアート・オンライン オーディナル・スケール' on the new site
+2026-07-09 15:00:35,922 - V2Scraper - INFO - Fixing: 氷の城壁 (ID 6197)
+2026-07-09 15:00:35,922 - V2Scraper - WARNING -   Could not find '氷の城壁' on the new site
+2026-07-09 15:00:35,922 - V2Scraper - INFO - Fixed 0 zero-coordinate points total
