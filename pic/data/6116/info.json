@@ -52,9 +52,15 @@
       ]
     }
   ],
-  "pointsLength": 7,
+  "pointsLength": 8,
   "imagesLength": 1,
   "name": "Z.A.T.O. // I Love the World and Everything In It",
   "theme_color": "#f5cce2",
-  "local_id": 6116
+  "local_id": 6116,
+  "cat": "游戏",
+  "geo": [
+    67.505603,
+    64.366352
+  ],
+  "zoom": 14.8
 }

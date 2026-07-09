@@ -746,5 +746,2719 @@
     ],
     "origin": "Anitabi@AmaiAya",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6ba4qeq",
+    "name": "塩美橋",
+    "image": "https://image.xinu.ink/pic/data/940/images/6ba4qeq_1760753194628.jpg",
+    "geo": [
+      33.795569,
+      132.693053
+    ],
+    "ep": 1,
+    "s": 305,
+    "mark": "远处堤防与现实中差异较大。",
+    "folder": "盐美桥",
+    "cn": "盐美桥"
+  },
+  {
+    "id": "6ba56ed",
+    "name": "塩美橋",
+    "image": "https://image.xinu.ink/pic/data/940/images/6ba56ed_1760753216079.jpg",
+    "geo": [
+      33.795548,
+      132.693007
+    ],
+    "ep": 1,
+    "s": 330,
+    "mark": "背后水门为国近川上的水门。",
+    "folder": "盐美桥",
+    "cn": "盐美桥"
+  },
+  {
+    "id": "6cj5pa7",
+    "name": "塩美橋",
+    "image": "https://image.xinu.ink/pic/data/940/images/6cj5pa7_1760828833670.jpg",
+    "geo": [
+      33.795559,
+      132.693063
+    ],
+    "ep": 1,
+    "s": 370,
+    "folder": "盐美桥",
+    "cn": "盐美桥"
+  },
+  {
+    "id": "5jh3dty",
+    "name": "塩美橋",
+    "image": "https://image.xinu.ink/pic/data/940/images/5jh3dty_1760753128823.jpg",
+    "geo": [
+      33.795528,
+      132.693041
+    ],
+    "ep": 1,
+    "s": 435,
+    "mark": "此处背后电线杆与现实一致。",
+    "folder": "盐美桥",
+    "cn": "盐美桥"
+  },
+  {
+    "id": "6cj52i0",
+    "name": "塩美橋",
+    "image": "https://image.xinu.ink/pic/data/940/images/6cj52i0_1760828796402.jpg",
+    "geo": [
+      33.795593,
+      132.693013
+    ],
+    "ep": 1,
+    "s": 440,
+    "mark": "现实中远处的建筑物被去除。",
+    "folder": "盐美桥",
+    "cn": "盐美桥"
+  },
+  {
+    "id": "6b7q3e2",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6b7q3e2_1760749432611.jpg",
+    "geo": [
+      33.764888,
+      132.70448
+    ],
+    "ep": 1,
+    "s": 795,
+    "mark": "动画中是从学校西侧的海边仰望教学楼（左侧为第5教栋、右侧为第4教栋），现实中学校并不临海，实际是从学校西侧的水道仰望教学楼。后续比名子遇袭剧情发生在学校西侧的临海道路上，此为本作对场景的架空设定。",
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6cm1fng",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6cm1fng_1760833661885.jpg",
+    "geo": [
+      33.765184,
+      132.704467
+    ],
+    "ep": 1,
+    "s": 836,
+    "mark": "现实中学校西侧并不临海。中间的教学楼是第4教栋，可从屋顶构造判别。",
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6cm1nk4",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6cm1nk4_1760833670220.jpg",
+    "geo": [
+      33.765167,
+      132.704467
+    ],
+    "ep": 1,
+    "s": 841,
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6clyqeb",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6clyqeb_1760833544769.jpg",
+    "geo": [
+      33.765134,
+      132.704472
+    ],
+    "ep": 1,
+    "s": 1009,
+    "mark": "背景中可以看到第4教栋的外梯、畜产加工室的门和爬梯。",
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6cm0f6y",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6cm0f6y_1760833615481.jpg",
+    "geo": [
+      33.765137,
+      132.704472
+    ],
+    "ep": 1,
+    "s": 1073,
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6cjx790",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6cjx790_1760830103478.jpg",
+    "geo": [
+      33.76406,
+      132.705537
+    ],
+    "ep": 2,
+    "s": 626,
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6cjz8h8",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6cjz8h8_1760830200653.jpg",
+    "geo": [
+      33.764401,
+      132.705052
+    ],
+    "ep": 2,
+    "s": 763,
+    "mark": "伊予农业高中主馆和第2教栋之间的连廊，右侧是学校的网球场。",
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6ck1nde",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6ck1nde_1760830314425.jpg",
+    "geo": [
+      33.764417,
+      132.705054
+    ],
+    "ep": 2,
+    "s": 799,
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6ck1y0s",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6ck1y0s_1760830324245.jpg",
+    "geo": [
+      33.764415,
+      132.70507
+    ],
+    "ep": 2,
+    "s": 803,
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6ck2a40",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6ck2a40_1760830340584.jpg",
+    "geo": [
+      33.764408,
+      132.70504
+    ],
+    "ep": 2,
+    "s": 823,
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6ck257j",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6ck257j_1760830334607.jpg",
+    "geo": [
+      33.764404,
+      132.705069
+    ],
+    "ep": 2,
+    "s": 829,
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6ck2uhr",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6ck2uhr_1760830368200.jpg",
+    "geo": [
+      33.764416,
+      132.705042
+    ],
+    "ep": 2,
+    "s": 853,
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6ck463f",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6ck463f_1760830430971.jpg",
+    "geo": [
+      33.764472,
+      132.705062
+    ],
+    "ep": 2,
+    "s": 868,
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6ck4e6b",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6ck4e6b_1760830438510.jpg",
+    "geo": [
+      33.76446,
+      132.705061
+    ],
+    "ep": 2,
+    "s": 874,
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6ck3l5k",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6ck3l5k_1760830405936.jpg",
+    "geo": [
+      33.764478,
+      132.705116
+    ],
+    "ep": 2,
+    "s": 916,
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6ck417h",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6ck417h_1760830423566.jpg",
+    "geo": [
+      33.764484,
+      132.705064
+    ],
+    "ep": 2,
+    "s": 932,
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6ckmcmv",
+    "name": "ファミリー​マート伊予​灘町​店",
+    "image": "https://image.xinu.ink/pic/data/940/images/6ckrfy0_1760831516929.jpg",
+    "geo": [
+      33.758555,
+      132.700084
+    ],
+    "ep": 2,
+    "s": 1003,
+    "mark": "动画中的画面较难以判断该场景位置，不过漫画第3话对应剧情明确位于此处。",
+    "folder": "全家便利店 伊予​滩町​店",
+    "cn": "全家便利店 伊予​滩町​店"
+  },
+  {
+    "id": "6cksp74",
+    "name": "ファミリー​マート伊予​灘町​店",
+    "image": "https://image.xinu.ink/pic/data/940/images/6cksp74_1760831573604.jpg",
+    "geo": [
+      33.758601,
+      132.699992
+    ],
+    "ep": 2,
+    "s": 1004,
+    "folder": "全家便利店 伊予​滩町​店",
+    "cn": "全家便利店 伊予​滩町​店"
+  },
+  {
+    "id": "6ckt23b",
+    "name": "ファミリー​マート伊予​灘町​店",
+    "image": "https://image.xinu.ink/pic/data/940/images/6ckt23b_1760831595693.jpg",
+    "geo": [
+      33.758596,
+      132.699986
+    ],
+    "ep": 2,
+    "s": 1062,
+    "folder": "全家便利店 伊予​滩町​店",
+    "cn": "全家便利店 伊予​滩町​店"
+  },
+  {
+    "id": "6cku21r",
+    "name": "ファミリー​マート伊予​灘町​店",
+    "image": "https://image.xinu.ink/pic/data/940/images/6cku21r_1760831635538.jpg",
+    "geo": [
+      33.758592,
+      132.700008
+    ],
+    "ep": 2,
+    "s": 1068,
+    "folder": "全家便利店 伊予​滩町​店",
+    "cn": "全家便利店 伊予​滩町​店"
+  },
+  {
+    "id": "6cktszh",
+    "name": "ファミリー​マート伊予​灘町​店",
+    "image": "https://image.xinu.ink/pic/data/940/images/6cktszh_1760831631499.jpg",
+    "geo": [
+      33.758609,
+      132.699976
+    ],
+    "ep": 2,
+    "s": 1078,
+    "folder": "全家便利店 伊予​滩町​店",
+    "cn": "全家便利店 伊予​滩町​店"
+  },
+  {
+    "id": "6cktkwp",
+    "name": "ファミリー​マート伊予​灘町​店",
+    "image": "https://image.xinu.ink/pic/data/940/images/6cktkwp_1760831614502.jpg",
+    "geo": [
+      33.758598,
+      132.699971
+    ],
+    "ep": 2,
+    "s": 1081,
+    "folder": "全家便利店 伊予​滩町​店",
+    "cn": "全家便利店 伊予​滩町​店"
+  },
+  {
+    "id": "6cku7my",
+    "name": "ファミリー​マート伊予​灘町​店",
+    "image": "https://image.xinu.ink/pic/data/940/images/6cku7my_1760831646101.jpg",
+    "geo": [
+      33.758529,
+      132.699968
+    ],
+    "ep": 2,
+    "s": 1096,
+    "folder": "全家便利店 伊予​滩町​店",
+    "cn": "全家便利店 伊予​滩町​店"
+  },
+  {
+    "id": "6gc5d1n",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6gc5d1n_1761058923525.jpg",
+    "geo": [
+      33.764718,
+      132.705002
+    ],
+    "ep": 3,
+    "s": 1157,
+    "mark": "此为学校教学2栋和4栋之间的庭园，比名子身后远处是自行车棚。",
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6gc857d",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6gc857d_1761059052183.jpg",
+    "geo": [
+      33.764739,
+      132.705016
+    ],
+    "ep": 3,
+    "s": 1180,
+    "mark": "向南拍摄，背景是2栋。",
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6gc98cb",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6gc98cb_1761059091896.jpg",
+    "geo": [
+      33.764717,
+      132.705027
+    ],
+    "ep": 3,
+    "s": 1239,
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6gc9lyp",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6gc9lyp_1761059109247.jpg",
+    "geo": [
+      33.764724,
+      132.705022
+    ],
+    "ep": 3,
+    "s": 1261,
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6gcb7sz",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6gcb7sz_1761059185566.jpg",
+    "geo": [
+      33.764733,
+      132.704985
+    ],
+    "ep": 3,
+    "s": 1271,
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6gcc196",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6gcc196_1761059222618.jpg",
+    "geo": [
+      33.76473,
+      132.705036
+    ],
+    "ep": 3,
+    "s": 1276,
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6gcc8sg",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6gcc8sg_1761059231939.jpg",
+    "geo": [
+      33.764727,
+      132.705011
+    ],
+    "ep": 3,
+    "s": 1296,
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6gccqyn",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6gccqyn_1761059257417.jpg",
+    "geo": [
+      33.764727,
+      132.704968
+    ],
+    "ep": 3,
+    "s": 1310,
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6gcd5mo",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6gcd5mo_1761059275879.jpg",
+    "geo": [
+      33.764726,
+      132.705061
+    ],
+    "ep": 3,
+    "s": 1315,
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6j9aks2",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6j9aks2_1761235519557.jpg",
+    "geo": [
+      33.764714,
+      132.705019
+    ],
+    "ep": 4,
+    "s": 191,
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6j99mxf",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6j99mxf_1761235475356.jpg",
+    "geo": [
+      33.764687,
+      132.705011
+    ],
+    "ep": 4,
+    "s": 248,
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6j9ay3p",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6j9ay3p_1761235543508.jpg",
+    "geo": [
+      33.764709,
+      132.705014
+    ],
+    "ep": 4,
+    "s": 311,
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6j9beq7",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6j9beq7_1761235555292.jpg",
+    "geo": [
+      33.764713,
+      132.705053
+    ],
+    "ep": 4,
+    "s": 314,
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6j9mvgm",
+    "name": "伊予農業高等学校",
+    "image": "https://image.xinu.ink/pic/data/940/images/6j9mvgm_1761236114359.jpg",
+    "geo": [
+      33.764021,
+      132.705762
+    ],
+    "ep": 4,
+    "s": 387,
+    "folder": "潮见高中",
+    "cn": "伊予农业高中"
+  },
+  {
+    "id": "6j9ft3c",
+    "name": "五色浜",
+    "image": "https://image.xinu.ink/pic/data/940/images/6j9ft3c_1761235758571.jpg",
+    "geo": [
+      33.756027,
+      132.69286
+    ],
+    "ep": 4,
+    "s": 540,
+    "mark": "向北拍摄",
+    "folder": "五色滨",
+    "cn": "五色滨"
+  },
+  {
+    "id": "6j9gpdp",
+    "name": "五色浜",
+    "image": "https://image.xinu.ink/pic/data/940/images/6j9gpdp_1761235800249.jpg",
+    "geo": [
+      33.756084,
+      132.692871
+    ],
+    "ep": 4,
+    "s": 595,
+    "folder": "五色滨",
+    "cn": "五色滨"
+  },
+  {
+    "id": "6j9i2pn",
+    "name": "五色浜",
+    "image": "https://image.xinu.ink/pic/data/940/images/6j9i2pn_1761235864412.jpg",
+    "geo": [
+      33.75609,
+      132.692925
+    ],
+    "ep": 4,
+    "s": 791,
+    "folder": "五色滨",
+    "cn": "五色滨"
+  },
+  {
+    "id": "6j9bxu6",
+    "name": "五色浜",
+    "image": "https://image.xinu.ink/pic/data/940/images/6j9bxu6_1761235600197.jpg",
+    "geo": [
+      33.756071,
+      132.692757
+    ],
+    "ep": 4,
+    "s": 825,
+    "mark": "https://maps.app.goo.gl/rx3AhhFWBDvU9Tc6A",
+    "folder": "五色滨",
+    "cn": "五色滨"
+  },
+  {
+    "id": "6j9ilxx",
+    "name": "五色浜",
+    "image": "https://image.xinu.ink/pic/data/940/images/6j9ilxx_1761235889000.jpg",
+    "geo": [
+      33.756055,
+      132.692685
+    ],
+    "ep": 4,
+    "s": 833,
+    "folder": "五色滨",
+    "cn": "五色滨"
+  },
+  {
+    "id": "6j9ux10",
+    "name": "ファミリー​マート伊予​灘町​店",
+    "image": "https://image.xinu.ink/pic/data/940/images/6j9ux10_1761236473212.jpg",
+    "geo": [
+      33.758794,
+      132.700234
+    ],
+    "ep": 4,
+    "s": 1157,
+    "mark": "标牌与现实一致，其他部分差别较大。",
+    "folder": "全家便利店 伊予​滩町​店",
+    "cn": "全家便利店 伊予​滩町​店"
+  },
+  {
+    "id": "6x9dg27",
+    "name": "五色姫海浜公園トイレ・シャワー・更衣室",
+    "image": "https://image.xinu.ink/pic/data/940/images/6x9dg27_1762082189917.jpg",
+    "geo": [
+      33.755365,
+      132.694545
+    ],
+    "ep": 5,
+    "s": 335,
+    "folder": "五色滨",
+    "cn": "五色滨海滨公园更衣室"
+  },
+  {
+    "id": "6x9icqu",
+    "name": "五色姫海浜公園トイレ・シャワー・更衣室",
+    "image": "https://image.xinu.ink/pic/data/940/images/6x9icqu_1762082415731.jpg",
+    "geo": [
+      33.755492,
+      132.694606
+    ],
+    "ep": 5,
+    "s": 364,
+    "folder": "五色滨",
+    "cn": "五色滨海滨公园更衣室"
+  },
+  {
+    "id": "6x9nku2",
+    "name": "五色姫海浜公園トイレ・シャワー・更衣室",
+    "image": "https://image.xinu.ink/pic/data/940/images/6x9nku2_1762082659546.jpg",
+    "geo": [
+      33.755511,
+      132.694611
+    ],
+    "ep": 5,
+    "s": 367,
+    "folder": "五色滨",
+    "cn": "五色滨海滨公园更衣室"
+  },
+  {
+    "id": "6x9jq71",
+    "name": "五色姫海浜公園トイレ・シャワー・更衣室",
+    "image": "https://image.xinu.ink/pic/data/940/images/6x9jq71_1762082470690.jpg",
+    "geo": [
+      33.755471,
+      132.694583
+    ],
+    "ep": 5,
+    "s": 380,
+    "folder": "五色滨",
+    "cn": "五色滨海滨公园更衣室"
+  },
+  {
+    "id": "6x9l692",
+    "name": "五色姫海浜公園トイレ・シャワー・更衣室",
+    "image": "https://image.xinu.ink/pic/data/940/images/6x9l692_1762082551492.jpg",
+    "geo": [
+      33.755512,
+      132.694418
+    ],
+    "ep": 5,
+    "s": 393,
+    "folder": "五色滨",
+    "cn": "五色滨海滨公园更衣室"
+  },
+  {
+    "id": "6x9n4bi",
+    "name": "五色姫海浜公園トイレ・シャワー・更衣室",
+    "image": "https://image.xinu.ink/pic/data/940/images/6x9n4bi_1762082630800.jpg",
+    "geo": [
+      33.755534,
+      132.694571
+    ],
+    "ep": 5,
+    "s": 417,
+    "folder": "五色滨",
+    "cn": "五色滨海滨公园更衣室"
+  },
+  {
+    "id": "6x9ncof",
+    "name": "五色姫海浜公園トイレ・シャワー・更衣室",
+    "image": "https://image.xinu.ink/pic/data/940/images/6x9ncof_1762082701794.jpg",
+    "geo": [
+      33.755509,
+      132.694583
+    ],
+    "ep": 5,
+    "s": 441,
+    "folder": "五色滨",
+    "cn": "五色滨海滨公园更衣室"
+  },
+  {
+    "id": "6x9q1cw",
+    "name": "五色姫海浜公園トイレ・シャワー・更衣室",
+    "image": "https://image.xinu.ink/pic/data/940/images/6x9q1cw_1762082762712.jpg",
+    "geo": [
+      33.755505,
+      132.694601
+    ],
+    "ep": 5,
+    "s": 627,
+    "folder": "五色滨",
+    "cn": "五色滨海滨公园更衣室"
+  },
+  {
+    "id": "6x9s6vz",
+    "name": "五色姫海浜公園トイレ・シャワー・更衣室",
+    "image": "https://image.xinu.ink/pic/data/940/images/6x9s6vz_1762082921459.jpg",
+    "geo": [
+      33.755375,
+      132.69423
+    ],
+    "ep": 5,
+    "s": 652,
+    "folder": "五色滨",
+    "cn": "五色滨海滨公园更衣室"
+  },
+  {
+    "id": "6x9ple2",
+    "name": "五色姫海浜公園トイレ・シャワー・更衣室",
+    "image": "https://image.xinu.ink/pic/data/940/images/6x9ple2_1762082757700.jpg",
+    "geo": [
+      33.755503,
+      132.694626
+    ],
+    "ep": 5,
+    "s": 746,
+    "folder": "五色滨",
+    "cn": "五色滨海滨公园更衣室"
+  },
+  {
+    "id": "6x9pgw9",
+    "name": "五色姫海浜公園トイレ・シャワー・更衣室",
+    "image": "https://image.xinu.ink/pic/data/940/images/6x9pgw9_1762082737048.jpg",
+    "geo": [
+      33.755514,
+      132.694593
+    ],
+    "ep": 5,
+    "s": 1021,
+    "folder": "五色滨",
+    "cn": "五色滨海滨公园更衣室"
+  },
+  {
+    "id": "89fyf9g",
+    "name": "五色姫海浜公園トイレ・シャワー・更衣室",
+    "image": "https://image.xinu.ink/pic/data/940/images/89fyf9g_1764995613327.jpg",
+    "geo": [
+      33.755543,
+      132.694628
+    ],
+    "ep": 6,
+    "s": 182,
+    "folder": "五色滨",
+    "cn": "五色滨海滨公园更衣室"
+  },
+  {
+    "id": "89fyu4p",
+    "name": "五色姫海浜公園トイレ・シャワー・更衣室",
+    "image": "https://image.xinu.ink/pic/data/940/images/89fyu4p_1764995626095.jpg",
+    "geo": [
+      33.755509,
+      132.694555
+    ],
+    "ep": 6,
+    "s": 291,
+    "folder": "五色滨",
+    "cn": "五色滨海滨公园更衣室"
+  },
+  {
+    "id": "89g3h9y",
+    "name": "塩美橋",
+    "image": "https://image.xinu.ink/pic/data/940/images/89g3h9y_1764995970587.jpg",
+    "geo": [
+      33.79559,
+      132.693015
+    ],
+    "ep": 6,
+    "s": 622,
+    "folder": "盐美桥",
+    "cn": "盐美桥"
+  },
+  {
+    "id": "89fzizy",
+    "name": "塩美橋",
+    "image": "https://image.xinu.ink/pic/data/940/images/89fzizy_1764995701118.jpg",
+    "geo": [
+      33.795531,
+      132.69304
+    ],
+    "ep": 6,
+    "s": 633,
+    "folder": "盐美桥",
+    "cn": "盐美桥"
+  },
+  {
+    "id": "89gr9v2",
+    "name": "伊予市駅",
+    "image": "https://image.xinu.ink/pic/data/940/images/89gr9v2_1764996977329.jpg",
+    "geo": [
+      33.755539,
+      132.702306
+    ],
+    "ep": 6,
+    "s": 936,
+    "folder": "伊予市站",
+    "cn": "伊予市站"
+  },
+  {
+    "id": "89gsf8j",
+    "name": "伊予市駅",
+    "image": "https://image.xinu.ink/pic/data/940/images/89gsf8j_1764997007476.jpg",
+    "geo": [
+      33.755467,
+      132.702216
+    ],
+    "ep": 6,
+    "s": 939,
+    "folder": "伊予市站",
+    "cn": "伊予市站"
+  },
+  {
+    "id": "89gsnhq",
+    "name": "伊予市駅",
+    "image": "https://image.xinu.ink/pic/data/940/images/89gsnhq_1764997017346.jpg",
+    "geo": [
+      33.755511,
+      132.702194
+    ],
+    "ep": 6,
+    "s": 942,
+    "folder": "伊予市站",
+    "cn": "伊予市站"
+  },
+  {
+    "id": "89gsrn8",
+    "name": "伊予市駅",
+    "image": "https://image.xinu.ink/pic/data/940/images/89gsrn8_1764997023882.jpg",
+    "geo": [
+      33.755513,
+      132.702272
+    ],
+    "ep": 6,
+    "s": 950,
+    "folder": "伊予市站",
+    "cn": "伊予市站"
+  },
+  {
+    "id": "89gsvkn",
+    "name": "伊予市駅",
+    "image": "https://image.xinu.ink/pic/data/940/images/89gsvkn_1764997027897.jpg",
+    "geo": [
+      33.755476,
+      132.702231
+    ],
+    "ep": 6,
+    "s": 951,
+    "folder": "伊予市站",
+    "cn": "伊予市站"
+  },
+  {
+    "id": "89hsidv",
+    "name": "伊予上灘駅",
+    "image": "https://image.xinu.ink/pic/data/940/images/89hsidv_1764998712157.jpg",
+    "geo": [
+      33.683923,
+      132.633118
+    ],
+    "ep": 6,
+    "s": 1128,
+    "folder": "伊予上滩站",
+    "cn": "伊予上滩站"
+  },
+  {
+    "id": "89hqgnm",
+    "name": "伊予上灘駅",
+    "image": "https://image.xinu.ink/pic/data/940/images/89hqgnm_1764998651547.jpg",
+    "geo": [
+      33.683981,
+      132.633031
+    ],
+    "ep": 6,
+    "s": 1132,
+    "folder": "伊予上滩站",
+    "cn": "伊予上滩站"
+  },
+  {
+    "id": "89hw47h",
+    "name": "ふたみシーサイド公園",
+    "image": "https://image.xinu.ink/pic/data/940/images/89hw47h_1764998900635.jpg",
+    "geo": [
+      33.686089,
+      132.63514
+    ],
+    "ep": 6,
+    "s": 1143,
+    "folder": "道の駅ふたみ"
+  },
+  {
+    "id": "89hwzhs",
+    "name": "ふたみシーサイド公園",
+    "image": "https://image.xinu.ink/pic/data/940/images/89hwzhs_1764998904554.jpg",
+    "geo": [
+      33.686029,
+      132.635066
+    ],
+    "ep": 6,
+    "s": 1148,
+    "folder": "道の駅ふたみ"
+  },
+  {
+    "id": "89hxh12",
+    "name": "ふたみシーサイド公園",
+    "image": "https://image.xinu.ink/pic/data/940/images/89hxh12_1764998927122.jpg",
+    "geo": [
+      33.686012,
+      132.635033
+    ],
+    "ep": 6,
+    "s": 1155,
+    "folder": "道の駅ふたみ"
+  },
+  {
+    "id": "89hxqrr",
+    "name": "ふたみシーサイド公園",
+    "image": "https://image.xinu.ink/pic/data/940/images/89hxqrr_1764998936905.jpg",
+    "geo": [
+      33.685994,
+      132.635015
+    ],
+    "ep": 6,
+    "s": 1165,
+    "folder": "道の駅ふたみ"
+  },
+  {
+    "id": "89hxvwi",
+    "name": "ふたみシーサイド公園",
+    "image": "https://image.xinu.ink/pic/data/940/images/89hxvwi_1764998941705.jpg",
+    "geo": [
+      33.685942,
+      132.634888
+    ],
+    "ep": 6,
+    "s": 1173,
+    "folder": "道の駅ふたみ"
+  },
+  {
+    "id": "89hy3er",
+    "name": "ふたみシーサイド公園",
+    "image": "https://image.xinu.ink/pic/data/940/images/89hy3er_1764998953286.jpg",
+    "geo": [
+      33.685912,
+      132.634847
+    ],
+    "ep": 6,
+    "s": 1191,
+    "folder": "道の駅ふたみ"
+  },
+  {
+    "id": "89i3uyq",
+    "name": "ふたみシーサイド公園",
+    "image": "https://image.xinu.ink/pic/data/940/images/89i3uyq_1764999223395.jpg",
+    "geo": [
+      33.685916,
+      132.634825
+    ],
+    "ep": 6,
+    "s": 1197,
+    "folder": "道の駅ふたみ"
+  },
+  {
+    "id": "89i163a",
+    "name": "ふたみシーサイド公園",
+    "image": "https://image.xinu.ink/pic/data/940/images/89i163a_1764999095617.jpg",
+    "geo": [
+      33.685886,
+      132.634805
+    ],
+    "ep": 6,
+    "s": 1203,
+    "folder": "道の駅ふたみ"
+  },
+  {
+    "id": "89i5igw",
+    "name": "ふたみシーサイド公園",
+    "image": "https://image.xinu.ink/pic/data/940/images/89i5igw_1764999300390.jpg",
+    "geo": [
+      33.685532,
+      132.634268
+    ],
+    "ep": 6,
+    "s": 1218,
+    "folder": "道の駅ふたみ"
+  },
+  {
+    "id": "89i5rbj",
+    "name": "道の駅ふたみ",
+    "image": "https://image.xinu.ink/pic/data/940/images/89i5rbj_1764999320586.jpg",
+    "geo": [
+      33.685503,
+      132.634245
+    ],
+    "ep": 6,
+    "s": 1224,
+    "folder": "道の駅ふたみ"
+  },
+  {
+    "id": "89i76q6",
+    "name": "道の駅ふたみ",
+    "image": "https://image.xinu.ink/pic/data/940/images/89i76q6_1764999384961.jpg",
+    "geo": [
+      33.685317,
+      132.634134
+    ],
+    "ep": 6,
+    "s": 1225,
+    "folder": "道の駅ふたみ"
+  },
+  {
+    "id": "89i9dry",
+    "name": "道の駅ふたみ",
+    "image": "https://image.xinu.ink/pic/data/940/images/89i9dry_1764999482279.jpg",
+    "geo": [
+      33.685285,
+      132.633846
+    ],
+    "ep": 6,
+    "s": 1257,
+    "folder": "道の駅ふたみ"
+  },
+  {
+    "id": "89i7whp",
+    "name": "道の駅ふたみ",
+    "image": "https://image.xinu.ink/pic/data/940/images/89i7whp_1764999410601.jpg",
+    "geo": [
+      33.685314,
+      132.634091
+    ],
+    "ep": 6,
+    "s": 1311,
+    "folder": "道の駅ふたみ"
+  },
+  {
+    "id": "89ieawn",
+    "name": "道の駅ふたみ",
+    "image": "https://image.xinu.ink/pic/data/940/images/89ieawn_1764999712528.jpg",
+    "geo": [
+      33.685918,
+      132.634796
+    ],
+    "ep": 7,
+    "s": 8,
+    "folder": "道の駅ふたみ"
+  },
+  {
+    "id": "89ihcaz",
+    "name": "道の駅ふたみ",
+    "image": "https://image.xinu.ink/pic/data/940/images/89ihcaz_1764999858644.jpg",
+    "geo": [
+      33.685675,
+      132.63446
+    ],
+    "ep": 7,
+    "s": 9,
+    "folder": "道の駅ふたみ"
+  },
+  {
+    "id": "89ii8nz",
+    "name": "道の駅ふたみ",
+    "image": "https://image.xinu.ink/pic/data/940/images/89ii8nz_1764999894554.jpg",
+    "geo": [
+      33.684975,
+      132.633241
+    ],
+    "ep": 7,
+    "s": 12,
+    "mark": "背景是停车场的底座，墙上的壁画在现实中也存在。",
+    "folder": "道の駅ふたみ"
+  },
+  {
+    "id": "89ijxev",
+    "name": "道の駅ふたみ",
+    "image": "https://image.xinu.ink/pic/data/940/images/89ijxev_1764999992008.jpg",
+    "geo": [
+      33.684894,
+      132.6331
+    ],
+    "ep": 7,
+    "s": 24,
+    "folder": "道の駅ふたみ"
+  },
+  {
+    "id": "89iksid",
+    "name": "坂道",
+    "image": "https://image.xinu.ink/pic/data/940/images/89iksid_1765000016339.jpg",
+    "geo": [
+      33.684476,
+      132.633495
+    ],
+    "ep": 7,
+    "s": 33,
+    "folder": "道の駅ふたみ",
+    "cn": "坡道"
+  },
+  {
+    "id": "89illch",
+    "name": "道の駅ふたみ",
+    "image": "https://image.xinu.ink/pic/data/940/images/89illch_1765000065584.jpg",
+    "geo": [
+      33.684498,
+      132.633512
+    ],
+    "ep": 7,
+    "s": 47,
+    "folder": "道の駅ふたみ"
+  },
+  {
+    "id": "89inetp",
+    "name": "道の駅ふたみ",
+    "image": "https://image.xinu.ink/pic/data/940/images/89inetp_1765000134582.jpg",
+    "geo": [
+      33.685458,
+      132.632913
+    ],
+    "ep": 7,
+    "s": 62,
+    "folder": "道の駅ふたみ"
+  },
+  {
+    "id": "89insgh",
+    "name": "坂道",
+    "image": "https://image.xinu.ink/pic/data/940/images/89insgh_1765000151959.jpg",
+    "geo": [
+      33.684573,
+      132.633406
+    ],
+    "ep": 7,
+    "s": 86,
+    "folder": "道の駅ふたみ",
+    "cn": "坡道"
+  },
+  {
+    "id": "89ioe7w",
+    "name": "坂道",
+    "image": "https://image.xinu.ink/pic/data/940/images/89ioe7w_1765000183759.jpg",
+    "geo": [
+      33.684478,
+      132.63346
+    ],
+    "ep": 7,
+    "s": 136,
+    "mark": "这里两人所处的位置实际上是没有台阶的坡道。",
+    "folder": "道の駅ふたみ",
+    "cn": "坡道"
+  },
+  {
+    "id": "89ip6bx",
+    "name": "坂道",
+    "image": "https://image.xinu.ink/pic/data/940/images/89ip6bx_1765000215811.jpg",
+    "geo": [
+      33.684488,
+      132.633487
+    ],
+    "ep": 7,
+    "s": 142,
+    "mark": "这里两人所处的位置实际上是没有台阶的坡道。",
+    "folder": "道の駅ふたみ",
+    "cn": "坡道"
+  },
+  {
+    "id": "89jfk2j",
+    "name": "駐輪場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89jfk2j_1765001657882.jpg",
+    "geo": [
+      33.684453,
+      132.633505
+    ],
+    "ep": 7,
+    "s": 252,
+    "mark": "两人避雨的地点现实中是自行车停车场，没有椅子。",
+    "folder": "道の駅ふたみ",
+    "cn": "自行车停车场"
+  },
+  {
+    "id": "89jkjjr",
+    "name": "駐輪場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89jkjjr_1765001678674.jpg",
+    "geo": [
+      33.684462,
+      132.633506
+    ],
+    "ep": 7,
+    "s": 263,
+    "folder": "道の駅ふたみ",
+    "cn": "自行车停车场"
+  },
+  {
+    "id": "89jknpj",
+    "name": "駐輪場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89jknpj_1765001685248.jpg",
+    "geo": [
+      33.684463,
+      132.63349
+    ],
+    "ep": 7,
+    "s": 271,
+    "folder": "道の駅ふたみ",
+    "cn": "自行车停车场"
+  },
+  {
+    "id": "89jl7ap",
+    "name": "駐輪場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89jl7ap_1765001719277.jpg",
+    "geo": [
+      33.684468,
+      132.633502
+    ],
+    "ep": 7,
+    "s": 276,
+    "folder": "道の駅ふたみ",
+    "cn": "自行车停车场"
+  },
+  {
+    "id": "89jlix5",
+    "name": "駐輪場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89jlix5_1765001724788.jpg",
+    "geo": [
+      33.684456,
+      132.633491
+    ],
+    "ep": 7,
+    "s": 293,
+    "folder": "道の駅ふたみ",
+    "cn": "自行车停车场"
+  },
+  {
+    "id": "89jlmvd",
+    "name": "駐輪場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89jlmvd_1765001729317.jpg",
+    "geo": [
+      33.684467,
+      132.633484
+    ],
+    "ep": 7,
+    "s": 313,
+    "folder": "道の駅ふたみ",
+    "cn": "自行车停车场"
+  },
+  {
+    "id": "89jlwz1",
+    "name": "駐輪場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89jlwz1_1765001742140.jpg",
+    "geo": [
+      33.684458,
+      132.633501
+    ],
+    "ep": 7,
+    "s": 347,
+    "folder": "道の駅ふたみ",
+    "cn": "自行车停车场"
+  },
+  {
+    "id": "89jm1mr",
+    "name": "駐輪場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89jm1mr_1765001751324.jpg",
+    "geo": [
+      33.684465,
+      132.633499
+    ],
+    "ep": 7,
+    "s": 350,
+    "folder": "道の駅ふたみ",
+    "cn": "自行车停车场"
+  },
+  {
+    "id": "89jm7dd",
+    "name": "駐輪場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89jm7dd_1765001755105.jpg",
+    "geo": [
+      33.684462,
+      132.633494
+    ],
+    "ep": 7,
+    "s": 353,
+    "folder": "道の駅ふたみ",
+    "cn": "自行车停车场"
+  },
+  {
+    "id": "89jme0t",
+    "name": "駐輪場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89jme0t_1765001768828.jpg",
+    "geo": [
+      33.684472,
+      132.633498
+    ],
+    "ep": 7,
+    "s": 357,
+    "folder": "道の駅ふたみ",
+    "cn": "自行车停车场"
+  },
+  {
+    "id": "89jmmgm",
+    "name": "駐輪場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89jmmgm_1765001775427.jpg",
+    "geo": [
+      33.684469,
+      132.633498
+    ],
+    "ep": 7,
+    "s": 381,
+    "folder": "道の駅ふたみ",
+    "cn": "自行车停车场"
+  },
+  {
+    "id": "89jmpml",
+    "name": "駐輪場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89jmpml_1765001780552.jpg",
+    "geo": [
+      33.684478,
+      132.633485
+    ],
+    "ep": 7,
+    "s": 407,
+    "folder": "道の駅ふたみ",
+    "cn": "自行车停车场"
+  },
+  {
+    "id": "89it0vs",
+    "name": "道の駅ふたみ",
+    "image": "https://image.xinu.ink/pic/data/940/images/89it0vs_1765000394607.jpg",
+    "geo": [
+      33.68534,
+      132.634107
+    ],
+    "ep": 7,
+    "s": 445,
+    "folder": "道の駅ふたみ"
+  },
+  {
+    "id": "89is6n6",
+    "name": "道の駅ふたみ",
+    "image": "https://image.xinu.ink/pic/data/940/images/89is6n6_1765000357242.jpg",
+    "geo": [
+      33.685336,
+      132.634094
+    ],
+    "ep": 7,
+    "s": 446,
+    "mark": "https://maps.app.goo.gl/cWE9afCZqepwExF18",
+    "folder": "道の駅ふたみ"
+  },
+  {
+    "id": "89ivu4a",
+    "name": "道の駅ふたみ",
+    "image": "https://image.xinu.ink/pic/data/940/images/89ivu4a_1765000528154.jpg",
+    "geo": [
+      33.685351,
+      132.634115
+    ],
+    "ep": 7,
+    "s": 454,
+    "folder": "道の駅ふたみ"
+  },
+  {
+    "id": "89iwdru",
+    "name": "道の駅ふたみ",
+    "image": "https://image.xinu.ink/pic/data/940/images/89iwdru_1765000556020.jpg",
+    "geo": [
+      33.68533,
+      132.63411
+    ],
+    "ep": 7,
+    "s": 462,
+    "folder": "道の駅ふたみ"
+  },
+  {
+    "id": "89ix00p",
+    "name": "道の駅ふたみ",
+    "image": "https://image.xinu.ink/pic/data/940/images/89ix00p_1765000580231.jpg",
+    "geo": [
+      33.685347,
+      132.634065
+    ],
+    "ep": 7,
+    "s": 475,
+    "folder": "道の駅ふたみ"
+  },
+  {
+    "id": "89ix831",
+    "name": "道の駅ふたみ",
+    "image": "https://image.xinu.ink/pic/data/940/images/89ix831_1765000591273.jpg",
+    "geo": [
+      33.685389,
+      132.63405
+    ],
+    "ep": 7,
+    "s": 477,
+    "folder": "道の駅ふたみ"
+  },
+  {
+    "id": "89juf03",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89juf03_1765002138837.jpg",
+    "geo": [
+      33.75782,
+      132.701424
+    ],
+    "ep": 9,
+    "s": 370,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89jw06m",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89jw06m_1765002214829.jpg",
+    "geo": [
+      33.757782,
+      132.701376
+    ],
+    "ep": 9,
+    "s": 376,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89jwcdb",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89jwcdb_1765002261933.jpg",
+    "geo": [
+      33.757807,
+      132.701647
+    ],
+    "ep": 9,
+    "s": 381,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89jxh19",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89jxh19_1765002282351.jpg",
+    "geo": [
+      33.757803,
+      132.701675
+    ],
+    "ep": 9,
+    "s": 384,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89jy3y8",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89jy3y8_1765002314252.jpg",
+    "geo": [
+      33.757801,
+      132.701395
+    ],
+    "ep": 9,
+    "s": 388,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89jyjp9",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89jyjp9_1765002332690.jpg",
+    "geo": [
+      33.757785,
+      132.701382
+    ],
+    "ep": 9,
+    "s": 397,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89jyqwu",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89jyqwu_1765002341511.jpg",
+    "geo": [
+      33.75778,
+      132.701389
+    ],
+    "ep": 9,
+    "s": 402,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89jz7me",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89jz7me_1765002365022.jpg",
+    "geo": [
+      33.757807,
+      132.701392
+    ],
+    "ep": 9,
+    "s": 415,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89jzhp4",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89jzhp4_1765002379399.jpg",
+    "geo": [
+      33.757778,
+      132.701383
+    ],
+    "ep": 9,
+    "s": 417,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89jzs3x",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89jzs3x_1765002407237.jpg",
+    "geo": [
+      33.75778,
+      132.701378
+    ],
+    "ep": 9,
+    "s": 419,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89k0ldk",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89k0ldk_1765002488413.jpg",
+    "geo": [
+      33.757768,
+      132.701514
+    ],
+    "ep": 9,
+    "s": 421,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89k22ao",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89k22ao_1765011896016.jpg",
+    "geo": [
+      33.757781,
+      132.701383
+    ],
+    "ep": 9,
+    "s": 450,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89pnsh1",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89pnsh1_1765011912444.jpg",
+    "geo": [
+      33.757781,
+      132.701379
+    ],
+    "ep": 9,
+    "s": 454,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89poay7",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89poay7_1765011931037.jpg",
+    "geo": [
+      33.757785,
+      132.701416
+    ],
+    "ep": 9,
+    "s": 478,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89pog5l",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89pog5l_1765011937626.jpg",
+    "geo": [
+      33.757803,
+      132.701382
+    ],
+    "ep": 9,
+    "s": 488,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89porwa",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89porwa_1765011953861.jpg",
+    "geo": [
+      33.757803,
+      132.70139
+    ],
+    "ep": 9,
+    "s": 503,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89pp14t",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89pp14t_1765011964559.jpg",
+    "geo": [
+      33.757772,
+      132.701409
+    ],
+    "ep": 9,
+    "s": 572,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89pp8oa",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89pp8oa_1765011974764.jpg",
+    "geo": [
+      33.757806,
+      132.701482
+    ],
+    "ep": 9,
+    "s": 589,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89ppcop",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89ppcop_1765011980773.jpg",
+    "geo": [
+      33.757803,
+      132.701393
+    ],
+    "ep": 9,
+    "s": 605,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89ppglo",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89ppglo_1765011985063.jpg",
+    "geo": [
+      33.757785,
+      132.701376
+    ],
+    "ep": 9,
+    "s": 669,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89ppm59",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89ppm59_1765011992129.jpg",
+    "geo": [
+      33.757779,
+      132.701407
+    ],
+    "ep": 9,
+    "s": 730,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89pptw0",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89pptw0_1765012003146.jpg",
+    "geo": [
+      33.757804,
+      132.701387
+    ],
+    "ep": 9,
+    "s": 742,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89ppyk6",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89ppyk6_1765012008504.jpg",
+    "geo": [
+      33.757783,
+      132.701372
+    ],
+    "ep": 9,
+    "s": 851,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89pq3p5",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89pq3p5_1765012015034.jpg",
+    "geo": [
+      33.757767,
+      132.701457
+    ],
+    "ep": 9,
+    "s": 861,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89pq6mo",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89pq6mo_1765012019609.jpg",
+    "geo": [
+      33.757759,
+      132.701493
+    ],
+    "ep": 9,
+    "s": 875,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89pqgce",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89pqgce_1765012033912.jpg",
+    "geo": [
+      33.757826,
+      132.701659
+    ],
+    "ep": 9,
+    "s": 886,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89pqopc",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89pqopc_1765012042149.jpg",
+    "geo": [
+      33.757833,
+      132.701546
+    ],
+    "ep": 9,
+    "s": 890,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89pqt3t",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89pqt3t_1765012056061.jpg",
+    "geo": [
+      33.75783,
+      132.701566
+    ],
+    "ep": 9,
+    "s": 891,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89pr296",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89pr296_1765012060201.jpg",
+    "geo": [
+      33.757841,
+      132.70157
+    ],
+    "ep": 9,
+    "s": 895,
+    "mark": "背景是远处的公园南侧围栏。",
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89prg0r",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89prg0r_1765012076913.jpg",
+    "geo": [
+      33.757834,
+      132.70156
+    ],
+    "ep": 9,
+    "s": 899,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89prjm1",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89prjm1_1765012081877.jpg",
+    "geo": [
+      33.757888,
+      132.701731
+    ],
+    "ep": 9,
+    "s": 902,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89prnp3",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89prnp3_1765012087379.jpg",
+    "geo": [
+      33.757827,
+      132.701585
+    ],
+    "ep": 9,
+    "s": 906,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89prqw3",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89prqw3_1765012091629.jpg",
+    "geo": [
+      33.757794,
+      132.701375
+    ],
+    "ep": 9,
+    "s": 911,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89prxcg",
+    "name": "灘町ポケットパーク",
+    "image": "https://image.xinu.ink/pic/data/940/images/89prxcg_1765012099776.jpg",
+    "geo": [
+      33.757801,
+      132.701461
+    ],
+    "ep": 9,
+    "s": 931,
+    "folder": "灘町ポケットパーク"
+  },
+  {
+    "id": "89qdq2k",
+    "name": "愛媛県立とべ動物園 ペンギン広場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89qdq2k_1765013119168.jpg",
+    "geo": [
+      33.763188,
+      132.791914
+    ],
+    "ep": 9,
+    "s": 986,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 企鹅广场"
+  },
+  {
+    "id": "89qe3kj",
+    "name": "愛媛県立とべ動物園 ペンギン広場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89qe3kj_1765013137327.jpg",
+    "geo": [
+      33.763182,
+      132.791931
+    ],
+    "ep": 9,
+    "s": 995,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 企鹅广场"
+  },
+  {
+    "id": "89qeevl",
+    "name": "愛媛県立とべ動物園 ペンギン広場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89qeevl_1765013150823.jpg",
+    "geo": [
+      33.763076,
+      132.79198
+    ],
+    "ep": 9,
+    "s": 1002,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 企鹅广场"
+  },
+  {
+    "id": "89qffx4",
+    "name": "愛媛県立とべ動物園 ペンギン広場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89qffx4_1765013199399.jpg",
+    "geo": [
+      33.763187,
+      132.791953
+    ],
+    "ep": 9,
+    "s": 1004,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 企鹅广场"
+  },
+  {
+    "id": "89qfqwh",
+    "name": "愛媛県立とべ動物園 ペンギン広場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89qfqwh_1765013213724.jpg",
+    "geo": [
+      33.763173,
+      132.79191
+    ],
+    "ep": 9,
+    "s": 1010,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 企鹅广场"
+  },
+  {
+    "id": "89qg21d",
+    "name": "愛媛県立とべ動物園 ペンギン広場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89qg21d_1765013235407.jpg",
+    "geo": [
+      33.763203,
+      132.791935
+    ],
+    "ep": 9,
+    "s": 1021,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 企鹅广场"
+  },
+  {
+    "id": "89qgl21",
+    "name": "愛媛県立とべ動物園 ペンギン広場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89qgl21_1765013251428.jpg",
+    "geo": [
+      33.763159,
+      132.791932
+    ],
+    "ep": 9,
+    "s": 1037,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 企鹅广场"
+  },
+  {
+    "id": "89qhlsi",
+    "name": "愛媛県立とべ動物園 ペンギン広場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89qhlsi_1765013300989.jpg",
+    "geo": [
+      33.763176,
+      132.791966
+    ],
+    "ep": 9,
+    "s": 1156,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 企鹅广场"
+  },
+  {
+    "id": "89qhx3u",
+    "name": "愛媛県立とべ動物園 ペンギン広場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89qhx3u_1765013314630.jpg",
+    "geo": [
+      33.763184,
+      132.791937
+    ],
+    "ep": 9,
+    "s": 1170,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 企鹅广场"
+  },
+  {
+    "id": "89qia4x",
+    "name": "愛媛県立とべ動物園 ペンギン広場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89qia4x_1765013331021.jpg",
+    "geo": [
+      33.763153,
+      132.79189
+    ],
+    "ep": 9,
+    "s": 1181,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 企鹅广场"
+  },
+  {
+    "id": "89qimxb",
+    "name": "愛媛県立とべ動物園 ペンギン広場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89qimxb_1765013348871.jpg",
+    "geo": [
+      33.763161,
+      132.791909
+    ],
+    "ep": 9,
+    "s": 1194,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 企鹅广场"
+  },
+  {
+    "id": "89qivm5",
+    "name": "愛媛県立とべ動物園 ペンギン広場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89qivm5_1765013357961.jpg",
+    "geo": [
+      33.763169,
+      132.791902
+    ],
+    "ep": 9,
+    "s": 1203,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 企鹅广场"
+  },
+  {
+    "id": "89qj7j7",
+    "name": "愛媛県立とべ動物園 ペンギン広場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89qj7j7_1765013373557.jpg",
+    "geo": [
+      33.763174,
+      132.791925
+    ],
+    "ep": 9,
+    "s": 1212,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 企鹅广场"
+  },
+  {
+    "id": "89qjgdb",
+    "name": "愛媛県立とべ動物園 ペンギン広場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89qjgdb_1765013385368.jpg",
+    "geo": [
+      33.76316,
+      132.791918
+    ],
+    "ep": 9,
+    "s": 1237,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 企鹅广场"
+  },
+  {
+    "id": "89qjuxt",
+    "name": "愛媛県立とべ動物園 ペンギン広場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89qjuxt_1765013405398.jpg",
+    "geo": [
+      33.763166,
+      132.791913
+    ],
+    "ep": 9,
+    "s": 1241,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 企鹅广场"
+  },
+  {
+    "id": "89qkfbo",
+    "name": "愛媛県立とべ動物園 ペンギン広場",
+    "image": "https://image.xinu.ink/pic/data/940/images/89qkfbo_1765013431865.jpg",
+    "geo": [
+      33.763179,
+      132.791906
+    ],
+    "ep": 9,
+    "s": 1283,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 企鹅广场"
+  },
+  {
+    "id": "89zycsw",
+    "name": "愛媛県立とべ動物園",
+    "image": "https://image.xinu.ink/pic/data/940/images/89zycsw_1765029200661.jpg",
+    "geo": [
+      33.763232,
+      132.791863
+    ],
+    "ep": 10,
+    "s": 143,
+    "mark": "未确认，大致在此处。",
+    "folder": "砥部动物园",
+    "cn": "砥部动物园"
+  },
+  {
+    "id": "89zyjvd",
+    "name": "愛媛県立とべ動物園",
+    "image": "https://image.xinu.ink/pic/data/940/images/89zyjvd_1765029206024.jpg",
+    "geo": [
+      33.763222,
+      132.791849
+    ],
+    "ep": 10,
+    "s": 162,
+    "mark": "未确认，大致在此处。",
+    "folder": "砥部动物园",
+    "cn": "砥部动物园"
+  },
+  {
+    "id": "8a0668d",
+    "name": "愛媛県立とべ動物園 アメリカストリート",
+    "image": "https://image.xinu.ink/pic/data/940/images/8a0668d_1765029576809.jpg",
+    "geo": [
+      33.762775,
+      132.793088
+    ],
+    "ep": 10,
+    "s": 419,
+    "mark": "未确认，大致在此处。",
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 美洲区"
+  },
+  {
+    "id": "8a06td5",
+    "name": "愛媛県立とべ動物園 アメリカストリート",
+    "image": "https://image.xinu.ink/pic/data/940/images/8a06td5_1765029592373.jpg",
+    "geo": [
+      33.762739,
+      132.793111
+    ],
+    "ep": 10,
+    "s": 446,
+    "mark": "未确认，大致在此处。",
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 美洲区"
+  },
+  {
+    "id": "8a073y9",
+    "name": "愛媛県立とべ動物園 アメリカストリート",
+    "image": "https://image.xinu.ink/pic/data/940/images/8a073y9_1765029605201.jpg",
+    "geo": [
+      33.762736,
+      132.793065
+    ],
+    "ep": 10,
+    "s": 451,
+    "mark": "未确认，大致在此处。",
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 美洲区"
+  },
+  {
+    "id": "8a0784p",
+    "name": "愛媛県立とべ動物園 アメリカストリート",
+    "image": "https://image.xinu.ink/pic/data/940/images/8a0784p_1765029609962.jpg",
+    "geo": [
+      33.762761,
+      132.793039
+    ],
+    "ep": 10,
+    "s": 474,
+    "mark": "未确认，大致在此处。",
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 美洲区"
+  },
+  {
+    "id": "89ztrlt",
+    "name": "愛媛県立とべ動物園",
+    "image": "https://image.xinu.ink/pic/data/940/images/89ztrlt_1765028994351.jpg",
+    "geo": [
+      33.762918,
+      132.792022
+    ],
+    "ep": 10,
+    "s": 931,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园"
+  },
+  {
+    "id": "89zuan7",
+    "name": "愛媛県立とべ動物園",
+    "image": "https://image.xinu.ink/pic/data/940/images/89zuan7_1765029010982.jpg",
+    "geo": [
+      33.762858,
+      132.792014
+    ],
+    "ep": 10,
+    "s": 1049,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园"
+  },
+  {
+    "id": "89zb8ze",
+    "name": "愛媛県立とべ動物園",
+    "image": "https://image.xinu.ink/pic/data/940/images/89zb8ze_1765028245755.jpg",
+    "geo": [
+      33.764465,
+      132.792063
+    ],
+    "ep": 10,
+    "s": 1082,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 门口道路"
+  },
+  {
+    "id": "89zefvz",
+    "name": "愛媛県立とべ動物園",
+    "image": "https://image.xinu.ink/pic/data/940/images/89zefvz_1765028267112.jpg",
+    "geo": [
+      33.764473,
+      132.79205
+    ],
+    "ep": 10,
+    "s": 1087,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 门口道路"
+  },
+  {
+    "id": "89zejn4",
+    "name": "愛媛県立とべ動物園",
+    "image": "https://image.xinu.ink/pic/data/940/images/89zejn4_1765028271820.jpg",
+    "geo": [
+      33.764502,
+      132.79207
+    ],
+    "ep": 10,
+    "s": 1090,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 门口道路"
+  },
+  {
+    "id": "89zfict",
+    "name": "愛媛県立とべ動物園",
+    "image": "https://image.xinu.ink/pic/data/940/images/89zfict_1765028316765.jpg",
+    "geo": [
+      33.764522,
+      132.792083
+    ],
+    "ep": 10,
+    "s": 1147,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 门口道路"
+  },
+  {
+    "id": "89zfl9s",
+    "name": "愛媛県立とべ動物園",
+    "image": "https://image.xinu.ink/pic/data/940/images/89zfl9s_1765028320761.jpg",
+    "geo": [
+      33.764516,
+      132.792082
+    ],
+    "ep": 10,
+    "s": 1153,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 门口道路"
+  },
+  {
+    "id": "89zfqro",
+    "name": "愛媛県立とべ動物園",
+    "image": "https://image.xinu.ink/pic/data/940/images/89zfqro_1765028328120.jpg",
+    "geo": [
+      33.764527,
+      132.792063
+    ],
+    "ep": 10,
+    "s": 1160,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 门口道路"
+  },
+  {
+    "id": "89zfu60",
+    "name": "愛媛県立とべ動物園",
+    "image": "https://image.xinu.ink/pic/data/940/images/89zfu60_1765028333067.jpg",
+    "geo": [
+      33.764548,
+      132.792091
+    ],
+    "ep": 10,
+    "s": 1167,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 门口道路"
+  },
+  {
+    "id": "89zg84k",
+    "name": "愛媛県立とべ動物園",
+    "image": "https://image.xinu.ink/pic/data/940/images/89zg84k_1765028350373.jpg",
+    "geo": [
+      33.764492,
+      132.792071
+    ],
+    "ep": 10,
+    "s": 1172,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 门口道路"
+  },
+  {
+    "id": "89zgauy",
+    "name": "愛媛県立とべ動物園",
+    "image": "https://image.xinu.ink/pic/data/940/images/89zgauy_1765028354150.jpg",
+    "geo": [
+      33.764572,
+      132.792105
+    ],
+    "ep": 10,
+    "s": 1200,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 门口道路"
+  },
+  {
+    "id": "89zgetv",
+    "name": "愛媛県立とべ動物園",
+    "image": "https://image.xinu.ink/pic/data/940/images/89zgetv_1765028381527.jpg",
+    "geo": [
+      33.764799,
+      132.792254
+    ],
+    "ep": 10,
+    "s": 1222,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 门口道路"
+  },
+  {
+    "id": "89zgzl9",
+    "name": "愛媛県立とべ動物園",
+    "image": "https://image.xinu.ink/pic/data/940/images/89zgzl9_1765028385644.jpg",
+    "geo": [
+      33.764815,
+      132.792285
+    ],
+    "ep": 10,
+    "s": 1232,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 门口道路"
+  },
+  {
+    "id": "89zh3cd",
+    "name": "愛媛県立とべ動物園",
+    "image": "https://image.xinu.ink/pic/data/940/images/89zh3cd_1765028404939.jpg",
+    "geo": [
+      33.764755,
+      132.792198
+    ],
+    "ep": 10,
+    "s": 1244,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 门口道路"
+  },
+  {
+    "id": "89zhhki",
+    "name": "愛媛県立とべ動物園",
+    "image": "https://image.xinu.ink/pic/data/940/images/89zhhki_1765028412595.jpg",
+    "geo": [
+      33.764785,
+      132.79223
+    ],
+    "ep": 10,
+    "s": 1263,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 门口道路"
+  },
+  {
+    "id": "89zhyje",
+    "name": "愛媛県立とべ動物園",
+    "image": "https://image.xinu.ink/pic/data/940/images/89zhyje_1765028431623.jpg",
+    "geo": [
+      33.76479,
+      132.792227
+    ],
+    "ep": 10,
+    "s": 1282,
+    "folder": "砥部动物园",
+    "cn": "砥部动物园 门口道路"
+  },
+  {
+    "id": "9pnd9ah",
+    "name": "道後温泉駅内",
+    "image": "https://image.xinu.ink/pic/data/940/images/9pnd9ah_1768152304274.jpg",
+    "geo": [
+      33.850509,
+      132.78505
+    ],
+    "ep": 13,
+    "s": 231,
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9pnfim9",
+    "name": "道後温泉駅内",
+    "image": "https://image.xinu.ink/pic/data/940/images/9pnfim9_1768152405035.jpg",
+    "geo": [
+      33.85051,
+      132.785067
+    ],
+    "ep": 13,
+    "s": 270,
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9png21b",
+    "name": "道後温泉駅前",
+    "image": "https://image.xinu.ink/pic/data/940/images/9png21b_1768152431011.jpg",
+    "geo": [
+      33.850523,
+      132.785063
+    ],
+    "ep": 13,
+    "s": 275,
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9pnqdji",
+    "name": "道後温泉駅  坊っちゃん列車",
+    "image": "https://image.xinu.ink/pic/data/940/images/9pnqdji_1768152919457.jpg",
+    "geo": [
+      33.850551,
+      132.785046
+    ],
+    "ep": 13,
+    "s": 288,
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9pnrcm6",
+    "name": "道後温泉駅前",
+    "image": "https://image.xinu.ink/pic/data/940/images/9pnrcm6_1768152956938.jpg",
+    "geo": [
+      33.85055,
+      132.785013
+    ],
+    "ep": 13,
+    "s": 299,
+    "mark": "背后的建筑是愛媛​信用金庫​道後​支店。",
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9pnv6lu",
+    "name": "道後温泉駅前",
+    "image": "https://image.xinu.ink/pic/data/940/images/9pnv6lu_1768153134900.jpg",
+    "geo": [
+      33.850515,
+      132.78508
+    ],
+    "ep": 13,
+    "s": 313,
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9pnvn0r",
+    "name": "道後温泉駅前",
+    "image": "https://image.xinu.ink/pic/data/940/images/9pnvn0r_1768153155838.jpg",
+    "geo": [
+      33.850506,
+      132.785059
+    ],
+    "ep": 13,
+    "s": 318,
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9pnx9fj",
+    "name": "​飛鳥​乃​湯泉",
+    "image": "https://image.xinu.ink/pic/data/940/images/9pnx9fj_1768153232950.jpg",
+    "geo": [
+      33.852174,
+      132.784868
+    ],
+    "ep": 13,
+    "s": 324,
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9pnxvn2",
+    "name": "​飛鳥​乃​湯泉",
+    "image": "https://image.xinu.ink/pic/data/940/images/9pnxvn2_1768153297983.jpg",
+    "geo": [
+      33.852174,
+      132.784879
+    ],
+    "ep": 13,
+    "s": 335,
+    "mark": "飞鸟乃​温泉出口处的石碑（伊予湯岡碑）和石桥（つばきはし）。",
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9pnyvp1",
+    "name": "​飛鳥​乃​湯泉",
+    "image": "https://image.xinu.ink/pic/data/940/images/9pnyvp1_1768153308747.jpg",
+    "geo": [
+      33.8522,
+      132.784894
+    ],
+    "ep": 13,
+    "s": 346,
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9po48yx",
+    "name": "道後​温泉​観光​会館",
+    "image": "https://image.xinu.ink/pic/data/940/images/9po48yx_1768153557703.jpg",
+    "geo": [
+      33.850642,
+      132.785376
+    ],
+    "ep": 13,
+    "s": 355,
+    "mark": "背景是道后温泉站和路牌。",
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9po5rxr",
+    "name": "道後温泉駅前",
+    "image": "https://image.xinu.ink/pic/data/940/images/9po5rxr_1768153632614.jpg",
+    "geo": [
+      33.850607,
+      132.785344
+    ],
+    "ep": 13,
+    "s": 381,
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9podkxe",
+    "name": "谷本​蒲鉾​店​道後​店",
+    "image": "https://image.xinu.ink/pic/data/940/images/9podkxe_1768153995393.jpg",
+    "geo": [
+      33.852222,
+      132.786016
+    ],
+    "ep": 13,
+    "s": 410,
+    "mark": "背景是对面的足湯坊ちゃんカフェ。",
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9pof137",
+    "name": "十五万​石 店内",
+    "image": "https://image.xinu.ink/pic/data/940/images/9pof137_1768154060695.jpg",
+    "geo": [
+      33.852132,
+      132.785391
+    ],
+    "ep": 13,
+    "s": 518,
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9pog430",
+    "name": "十五万​石 店内",
+    "image": "https://image.xinu.ink/pic/data/940/images/9pog430_1768154111692.jpg",
+    "geo": [
+      33.852025,
+      132.785367
+    ],
+    "ep": 13,
+    "s": 553,
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9poh58r",
+    "name": "道後​温泉街",
+    "image": "https://image.xinu.ink/pic/data/940/images/9poh58r_1768154160841.jpg",
+    "geo": [
+      33.852025,
+      132.785391
+    ],
+    "ep": 13,
+    "s": 581,
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9poiblj",
+    "name": "道後​温泉街",
+    "image": "https://image.xinu.ink/pic/data/940/images/9poiblj_1768154214506.jpg",
+    "geo": [
+      33.852089,
+      132.78538
+    ],
+    "ep": 13,
+    "s": 673,
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9pohwma",
+    "name": "道後​温泉街",
+    "image": "https://image.xinu.ink/pic/data/940/images/9pohwma_1768154194666.jpg",
+    "geo": [
+      33.852102,
+      132.78538
+    ],
+    "ep": 13,
+    "s": 677,
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9poiynm",
+    "name": "十五万​石 店内",
+    "image": "https://image.xinu.ink/pic/data/940/images/9poiynm_1768154250477.jpg",
+    "geo": [
+      33.852172,
+      132.78539
+    ],
+    "ep": 13,
+    "s": 692,
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9pojf2r",
+    "name": "十五万​石 店内",
+    "image": "https://image.xinu.ink/pic/data/940/images/9pojf2r_1768154265209.jpg",
+    "geo": [
+      33.852161,
+      132.785345
+    ],
+    "ep": 13,
+    "s": 701,
+    "mark": "爱媛县的吉祥物みきゃん。",
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9popspc",
+    "name": "道後​温泉街",
+    "image": "https://image.xinu.ink/pic/data/940/images/9popspc_1768154563167.jpg",
+    "geo": [
+      33.852037,
+      132.785435
+    ],
+    "ep": 13,
+    "s": 1036,
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9popo9r",
+    "name": "道後​温泉街",
+    "image": "https://image.xinu.ink/pic/data/940/images/9popo9r_1768154558405.jpg",
+    "geo": [
+      33.852036,
+      132.785471
+    ],
+    "ep": 13,
+    "s": 1040,
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9pore1l",
+    "name": "からくり時計前",
+    "image": "https://image.xinu.ink/pic/data/940/images/9pore1l_1768154639571.jpg",
+    "geo": [
+      33.850667,
+      132.785449
+    ],
+    "ep": 13,
+    "s": 1242,
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9porv67",
+    "name": "からくり時計前",
+    "image": "https://image.xinu.ink/pic/data/940/images/9porv67_1768154667569.jpg",
+    "geo": [
+      33.850674,
+      132.78544
+    ],
+    "ep": 13,
+    "s": 1247,
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9pot2gx",
+    "name": "放生園｢足湯｣",
+    "image": "https://image.xinu.ink/pic/data/940/images/9pot2gx_1768154715570.jpg",
+    "geo": [
+      33.850669,
+      132.78549
+    ],
+    "ep": 13,
+    "s": 1265,
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9pou73x",
+    "name": "からくり時計前",
+    "image": "https://image.xinu.ink/pic/data/940/images/9pou73x_1768154768363.jpg",
+    "geo": [
+      33.850682,
+      132.785495
+    ],
+    "ep": 13,
+    "s": 1271,
+    "mark": "左为远处石桥边的伊佐爾波神社参道石灯籠\n，右为からくり時計。",
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9pox06o",
+    "name": "からくり時計前",
+    "image": "https://image.xinu.ink/pic/data/940/images/9pox06o_1768154899304.jpg",
+    "geo": [
+      33.850701,
+      132.785496
+    ],
+    "ep": 13,
+    "s": 1286,
+    "mark": "背景是道後製陶社，需长焦。",
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9powa8f",
+    "name": "からくり時計前",
+    "image": "https://image.xinu.ink/pic/data/940/images/9powa8f_1768154865503.jpg",
+    "geo": [
+      33.850678,
+      132.785486
+    ],
+    "ep": 13,
+    "s": 1289,
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9poxhid",
+    "name": "からくり時計前",
+    "image": "https://image.xinu.ink/pic/data/940/images/9poxhid_1768154921571.jpg",
+    "geo": [
+      33.850667,
+      132.785481
+    ],
+    "ep": 13,
+    "s": 1297,
+    "folder": "道後温泉"
+  },
+  {
+    "id": "9pp2bci",
+    "name": "塩美橋",
+    "image": "https://image.xinu.ink/pic/data/940/images/9pp2bci_1768155147288.jpg",
+    "geo": [
+      33.795581,
+      132.692985
+    ],
+    "ep": 13,
+    "s": 1388,
+    "folder": "盐美桥",
+    "cn": "盐美桥"
   }
 ]

@@ -53,5 +53,85 @@
       38.8147,
       141.5629
     ]
+  },
+  {
+    "id": "29yul6u",
+    "name": "GiGO所沢",
+    "image": "https://image.xinu.ink/pic/data/6005/images/29yul6u_1751966693418_c16v9.jpg",
+    "geo": [
+      35.788345,
+      139.471733
+    ],
+    "ep": 1
+  },
+  {
+    "id": "29yusmt",
+    "name": "GiGO所沢",
+    "image": "https://image.xinu.ink/pic/data/6005/images/29yusmt_1751966690683_c16v9.jpg",
+    "geo": [
+      35.788359,
+      139.471706
+    ],
+    "ep": 1
+  },
+  {
+    "id": "29yv259",
+    "name": "GiGO所沢",
+    "image": "https://image.xinu.ink/pic/data/6005/images/29yv259_1751966680459_c16v9.jpg",
+    "geo": [
+      35.788408,
+      139.471859
+    ],
+    "ep": 1
+  },
+  {
+    "id": "ur7jo74a1",
+    "name": "GiGO所沢",
+    "image": "https://image.xinu.ink/pic/data/6005/images/ur7jo74a1_1744908813043_c16v9.jpg",
+    "geo": [
+      35.788359,
+      139.471721
+    ],
+    "ep": 1
+  },
+  {
+    "id": "29ytoku",
+    "name": "フジビル前",
+    "image": "https://image.xinu.ink/pic/data/6005/images/29ytoku_1751966621018_c16v9.jpg",
+    "geo": [
+      35.7874,
+      139.47251
+    ],
+    "ep": 1
+  },
+  {
+    "id": "73arvgv",
+    "name": "はまカフェ（道の駅 大谷海岸）",
+    "image": "https://image.xinu.ink/pic/data/6005/images/73arvgv-1762447332963.jpg",
+    "geo": [
+      38.814751,
+      141.562948
+    ],
+    "ep": 11
+  },
+  {
+    "id": "73awvwm",
+    "name": "道の駅 大谷海岸",
+    "image": "https://image.xinu.ink/pic/data/6005/images/73awvwm-1762447564960.jpg",
+    "geo": [
+      38.814835,
+      141.562359
+    ],
+    "ep": 11
+  },
+  {
+    "id": "73axby9",
+    "name": "道の駅 大谷海岸",
+    "image": "https://image.xinu.ink/pic/data/6005/images/73axby9-1762447587803.jpg",
+    "geo": [
+      38.814827,
+      141.562779
+    ],
+    "ep": 11
   }
 ]

@@ -100,5 +100,39 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3a4tasu",
+    "name": "いずえ",
+    "image": "https://image.xinu.ink/pic/data/6085/images/3a4tasu_1754153451854.jpg",
+    "geo": [
+      34.588007,
+      133.450749
+    ],
+    "ep": 1,
+    "cn": "出部站"
+  },
+  {
+    "id": "3a4tbko",
+    "name": "いずえ",
+    "image": "https://image.xinu.ink/pic/data/6085/images/3a4tbko_1754153463930.jpg",
+    "geo": [
+      34.587992,
+      133.450722
+    ],
+    "ep": 1,
+    "cn": "出部站"
+  },
+  {
+    "id": "3aaoqkr",
+    "name": "Chusei Yumegahara",
+    "image": "https://image.xinu.ink/pic/data/6085/images/3aaoqkr_1754163313784.jpg",
+    "geo": [
+      34.674237,
+      133.539797
+    ],
+    "ep": 2,
+    "mark": "捏他的应该是附近的中世遗迹公园",
+    "cn": "美星天文台附近"
   }
 ]

@@ -492,5 +492,423 @@
     ],
     "origin": "Anitabi@Nakano Prisma",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "t0n504l34",
+    "name": "Kailua Beach",
+    "image": "https://image.xinu.ink/pic/data/926/images/t0n504l34-1740005862735.jpg",
+    "geo": [
+      21.414573,
+      -157.742961
+    ],
+    "ep": "视觉图",
+    "mark": "具体机位有待考证.avi",
+    "folder": "美国夏威夷州檀香山市 Kailua Beach"
+  },
+  {
+    "id": "t491c2uyl",
+    "name": "Waikīkī Beach",
+    "image": "https://image.xinu.ink/pic/data/926/images/t491c2uyl-1740288565490.jpg",
+    "geo": [
+      21.276564,
+      -157.827965
+    ],
+    "ep": "BD封面图",
+    "folder": "美国夏威夷州檀香山市 Royal Hawaiian Hotel"
+  },
+  {
+    "id": "syhbfzrx3",
+    "name": "ユナイテッド・​シネマ​阿久比",
+    "image": "https://image.xinu.ink/pic/data/926/images/syhbfzrx3-1739836415306.jpg",
+    "geo": [
+      34.91865,
+      136.922139
+    ],
+    "ep": 1,
+    "s": 249,
+    "folder": "爱知县​阿久比町"
+  },
+  {
+    "id": "syhexu0hd",
+    "name": "ユナイテッド・​シネマ​阿久比",
+    "image": "https://image.xinu.ink/pic/data/926/images/syhexu0hd-1739836625904.jpg",
+    "geo": [
+      34.918633,
+      136.922144
+    ],
+    "ep": 1,
+    "s": 384,
+    "folder": "爱知县​阿久比町"
+  },
+  {
+    "id": "syhpqvcy5",
+    "name": "中部国際空港",
+    "image": "https://image.xinu.ink/pic/data/926/images/syhpqvcy5-1739837280986.jpg",
+    "geo": [
+      34.862229,
+      136.812952
+    ],
+    "ep": 1,
+    "s": 621,
+    "folder": "爱知县常滑市"
+  },
+  {
+    "id": "t0j2tq379",
+    "name": "Royal Hawaiian Hotel",
+    "image": "https://image.xinu.ink/pic/data/926/images/t0j2tq379-1739996982885.jpg",
+    "geo": [
+      21.2774,
+      -157.829192
+    ],
+    "ep": 1,
+    "s": 699,
+    "folder": "美国夏威夷州檀香山市 Royal Hawaiian Hotel"
+  },
+  {
+    "id": "t0n6wysfy",
+    "name": "Kailua Beach",
+    "image": "https://image.xinu.ink/pic/data/926/images/t0n6wysfy-1740005916387.jpg",
+    "geo": [
+      21.414521,
+      -157.74296
+    ],
+    "ep": 1,
+    "s": 761,
+    "mark": "具体机位有待考证.avi",
+    "folder": "美国夏威夷州檀香山市 Kailua Beach"
+  },
+  {
+    "id": "t0opl1fwr",
+    "name": "Royal Hawaiian Hotel",
+    "image": "https://image.xinu.ink/pic/data/926/images/t0opl1fwr-1740009281929.jpg",
+    "geo": [
+      21.277482,
+      -157.828914
+    ],
+    "ep": 1,
+    "s": 852,
+    "folder": "美国夏威夷州檀香山市 Royal Hawaiian Hotel"
+  },
+  {
+    "id": "t1q2t50k9",
+    "name": "Royal Hawaiian Hotel",
+    "image": "https://image.xinu.ink/pic/data/926/images/t1q2t50k9-1740090625356.jpg",
+    "geo": [
+      21.277413,
+      -157.829274
+    ],
+    "ep": 1,
+    "s": 993,
+    "folder": "美国夏威夷州檀香山市 Royal Hawaiian Hotel"
+  },
+  {
+    "id": "t1rvsjy96",
+    "name": "Kamehameha Suite",
+    "image": "https://image.xinu.ink/pic/data/926/images/t1rvsjy96-1740094508026.jpg",
+    "geo": [
+      21.277099,
+      -157.829036
+    ],
+    "ep": 1,
+    "s": 1112,
+    "folder": "美国夏威夷州檀香山市 Royal Hawaiian Hotel"
+  },
+  {
+    "id": "t1s4hs573",
+    "name": "Kamehameha Suite",
+    "image": "https://image.xinu.ink/pic/data/926/images/t1s4hs573-1740095028753.jpg",
+    "geo": [
+      21.277114,
+      -157.829039
+    ],
+    "ep": 1,
+    "s": 1161,
+    "folder": "美国夏威夷州檀香山市 Royal Hawaiian Hotel"
+  },
+  {
+    "id": "t1s70z4nj",
+    "name": "Kamehameha Suite",
+    "image": "https://image.xinu.ink/pic/data/926/images/t1s70z4nj-1740095180608.jpg",
+    "geo": [
+      21.277129,
+      -157.829034
+    ],
+    "ep": 1,
+    "s": 1185,
+    "folder": "美国夏威夷州檀香山市 Royal Hawaiian Hotel"
+  },
+  {
+    "id": "t1s9juax2",
+    "name": "Kamehameha Suite",
+    "image": "https://image.xinu.ink/pic/data/926/images/t1s9juax2-1740095332931.jpg",
+    "geo": [
+      21.277138,
+      -157.829032
+    ],
+    "ep": 1,
+    "s": 1216,
+    "folder": "美国夏威夷州檀香山市 Royal Hawaiian Hotel"
+  },
+  {
+    "id": "t1sc5trfj",
+    "name": "Historic Garden Suite",
+    "image": "https://image.xinu.ink/pic/data/926/images/t1sc5trfj-1740095482833.jpg",
+    "geo": [
+      21.277238,
+      -157.828892
+    ],
+    "ep": 1,
+    "s": 1315,
+    "folder": "美国夏威夷州檀香山市 Royal Hawaiian Hotel"
+  },
+  {
+    "id": "t1sfq5rw2",
+    "name": "Royal Hawaiian Hotel",
+    "image": "https://image.xinu.ink/pic/data/926/images/t1sfq5rw2-1740095697383.jpg",
+    "geo": [
+      21.277468,
+      -157.828907
+    ],
+    "ep": 1,
+    "s": 1367,
+    "folder": "美国夏威夷州檀香山市 Royal Hawaiian Hotel"
+  },
+  {
+    "id": "t1sma15ed",
+    "name": "Royal Hawaiian Hotel",
+    "image": "https://image.xinu.ink/pic/data/926/images/t1sma15ed-1740096100809.jpg",
+    "geo": [
+      21.277374,
+      -157.829266
+    ],
+    "ep": 1,
+    "s": 1406,
+    "folder": "美国夏威夷州檀香山市 Royal Hawaiian Hotel"
+  },
+  {
+    "id": "t1t06csbm",
+    "name": "Royal Hawaiian Hotel",
+    "image": "https://image.xinu.ink/pic/data/926/images/t1t06csbm-1740096942632.jpg",
+    "geo": [
+      21.277401,
+      -157.829271
+    ],
+    "ep": 2,
+    "s": 20,
+    "folder": "美国夏威夷州檀香山市 Royal Hawaiian Hotel"
+  },
+  {
+    "id": "t1t3kt2in",
+    "name": "Royal Hawaiian Hotel",
+    "image": "https://image.xinu.ink/pic/data/926/images/t1t3kt2in-1740097139807.jpg",
+    "geo": [
+      21.2774,
+      -157.829205
+    ],
+    "ep": 2,
+    "s": 129,
+    "folder": "美国夏威夷州檀香山市 Royal Hawaiian Hotel"
+  },
+  {
+    "id": "t1t4r173k",
+    "name": "Royal Hawaiian Hotel",
+    "image": "https://image.xinu.ink/pic/data/926/images/t1t4r173k-1740097234259.jpg",
+    "geo": [
+      21.277362,
+      -157.829261
+    ],
+    "ep": 2,
+    "s": 138,
+    "folder": "美国夏威夷州檀香山市 Royal Hawaiian Hotel"
+  },
+  {
+    "id": "t1t7am1ht",
+    "name": "Royal Hawaiian Hotel",
+    "image": "https://image.xinu.ink/pic/data/926/images/t1t7am1ht-1740097371194.jpg",
+    "geo": [
+      21.277426,
+      -157.829275
+    ],
+    "ep": 2,
+    "s": 170,
+    "folder": "美国夏威夷州檀香山市 Royal Hawaiian Hotel"
+  },
+  {
+    "id": "t46z974wv",
+    "name": "KCC Saturday Farmers’ Market",
+    "image": "https://image.xinu.ink/pic/data/926/images/t46z974wv-1740284079451.jpg",
+    "geo": [
+      21.269125,
+      -157.80086
+    ],
+    "ep": 2,
+    "s": 733,
+    "folder": "美国夏威夷州檀香山市 KCC Saturday Farmers’ Market"
+  },
+  {
+    "id": "t470m7gd2",
+    "name": "Kamehameha Suite",
+    "image": "https://image.xinu.ink/pic/data/926/images/t470m7gd2-1740284165860.jpg",
+    "geo": [
+      21.277109,
+      -157.829039
+    ],
+    "ep": 2,
+    "s": 779,
+    "folder": "美国夏威夷州檀香山市 Royal Hawaiian Hotel"
+  },
+  {
+    "id": "t47mibm5y",
+    "name": "Lanikai Beach",
+    "image": "https://image.xinu.ink/pic/data/926/images/t47mibm5y-1740285484488.jpg",
+    "geo": [
+      21.391971,
+      -157.714942
+    ],
+    "ep": 2,
+    "s": 823,
+    "mark": "具体机位有待考证.avi",
+    "folder": "美国夏威夷州檀香山市 Lanikai Beach"
+  },
+  {
+    "id": "t47x45ysw",
+    "name": "Lanikai Beach",
+    "image": "https://image.xinu.ink/pic/data/926/images/t47x45ysw-1740286126850.jpg",
+    "geo": [
+      21.391975,
+      -157.714931
+    ],
+    "ep": 2,
+    "s": 1024,
+    "mark": "中间照片 具体机位有待考证.avi",
+    "folder": "美国夏威夷州檀香山市 Lanikai Beach"
+  },
+  {
+    "id": "t47yyz6xx",
+    "name": "グラストニア",
+    "image": "https://image.xinu.ink/pic/data/926/images/t47yyz6xx-1740286238614.jpg",
+    "geo": [
+      35.150195,
+      136.92421
+    ],
+    "ep": 2,
+    "s": 1024,
+    "mark": "右边照片",
+    "folder": "爱知县名古屋市 グラストニア"
+  },
+  {
+    "id": "t487pg79p",
+    "name": "Lanikai Beach",
+    "image": "https://image.xinu.ink/pic/data/926/images/t487pg79p-1740286768069.jpg",
+    "geo": [
+      21.391966,
+      -157.71494
+    ],
+    "ep": 2,
+    "s": 1171,
+    "mark": "具体机位有待考证.avi",
+    "folder": "美国夏威夷州檀香山市 Lanikai Beach"
+  },
+  {
+    "id": "t48eqstxe",
+    "name": "Lanikai Beach",
+    "image": "https://image.xinu.ink/pic/data/926/images/t48eqstxe-1740287194797.jpg",
+    "geo": [
+      21.391971,
+      -157.714943
+    ],
+    "ep": 2,
+    "s": 1326,
+    "mark": "具体机位有待考证.avi",
+    "folder": "美国夏威夷州檀香山市 Lanikai Beach"
+  },
+  {
+    "id": "t48gqypnw",
+    "name": "Lanikai Beach",
+    "image": "https://image.xinu.ink/pic/data/926/images/t48gqypnw-1740287312916.jpg",
+    "geo": [
+      21.391969,
+      -157.714936
+    ],
+    "ep": 2,
+    "s": 1337,
+    "mark": "具体机位有待考证.avi",
+    "folder": "美国夏威夷州檀香山市 Lanikai Beach"
+  },
+  {
+    "id": "t48mtddwu",
+    "name": "Lanikai Beach",
+    "image": "https://image.xinu.ink/pic/data/926/images/t48mtddwu-1740287689160.jpg",
+    "geo": [
+      21.391964,
+      -157.714948
+    ],
+    "ep": 2,
+    "s": 1338,
+    "mark": "具体机位有待考证.avi",
+    "folder": "美国夏威夷州檀香山市 Lanikai Beach"
+  },
+  {
+    "id": "t48o0dhe7",
+    "name": "Lanikai Beach",
+    "image": "https://image.xinu.ink/pic/data/926/images/t48o0dhe7-1740287768289.jpg",
+    "geo": [
+      21.391963,
+      -157.714933
+    ],
+    "ep": 2,
+    "s": 1339,
+    "mark": "具体机位有待考证.avi",
+    "folder": "美国夏威夷州檀香山市 Lanikai Beach"
+  },
+  {
+    "id": "t48p9enq5",
+    "name": "Lanikai Beach",
+    "image": "https://image.xinu.ink/pic/data/926/images/t48p9enq5-1740287832666.jpg",
+    "geo": [
+      21.391962,
+      -157.714944
+    ],
+    "ep": 2,
+    "s": 1340,
+    "mark": "具体机位有待考证.avi",
+    "folder": "美国夏威夷州檀香山市 Lanikai Beach"
+  },
+  {
+    "id": "t48qfhu1f",
+    "name": "Lanikai Beach",
+    "image": "https://image.xinu.ink/pic/data/926/images/t48qfhu1f-1740287899870.jpg",
+    "geo": [
+      21.391962,
+      -157.714939
+    ],
+    "ep": 2,
+    "s": 1341,
+    "mark": "具体机位有待考证.avi",
+    "folder": "美国夏威夷州檀香山市 Lanikai Beach"
+  },
+  {
+    "id": "t48rakuja",
+    "name": "Lanikai Beach",
+    "image": "https://image.xinu.ink/pic/data/926/images/t48rakuja-1740287950908.jpg",
+    "geo": [
+      21.391962,
+      -157.714943
+    ],
+    "ep": 2,
+    "s": 1341,
+    "folder": "美国夏威夷州檀香山市 Lanikai Beach"
+  },
+  {
+    "id": "t48zd7dgn",
+    "name": "中ノ池公園",
+    "image": "https://image.xinu.ink/pic/data/926/images/t48zd7dgn-1740288447539.jpg",
+    "geo": [
+      35.002183,
+      136.894625
+    ],
+    "ep": 2,
+    "s": 1450,
+    "folder": "爱知县东海市 中ノ池公園"
   }
 ]

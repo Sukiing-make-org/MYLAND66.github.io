@@ -47,5 +47,48 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "23xz7q4",
+    "name": "通学路",
+    "image": "https://image.xinu.ink/pic/data/6049/images/23xz7q4_1751602415433_c16v9.jpg",
+    "geo": [
+      35.754052,
+      139.312492
+    ],
+    "ep": 1,
+    "s": 282
+  },
+  {
+    "id": "27yigya",
+    "name": "通学路",
+    "image": "https://image.xinu.ink/pic/data/6049/images/27yigya_1751845163195_c16v9.jpg",
+    "geo": [
+      35.753759,
+      139.313004
+    ],
+    "ep": 1,
+    "s": 290
+  },
+  {
+    "id": "27yb938",
+    "name": "通学路",
+    "image": "https://image.xinu.ink/pic/data/6049/images/27yb938_1751844829305_c16v9.jpg",
+    "geo": [
+      35.753777,
+      139.312954
+    ],
+    "ep": 1,
+    "s": 278
+  },
+  {
+    "id": "26drv3n",
+    "name": "カインズ 青梅インター店",
+    "image": "https://image.xinu.ink/pic/data/6049/images/26drv3n_1751749887988_c16v9.jpg",
+    "geo": [
+      35.793405,
+      139.31621
+    ],
+    "cn": "Cainz Ome Inter"
   }
 ]

@@ -65,12 +65,14 @@
       ]
     }
   ],
-  "pointsLength": 32,
+  "pointsLength": 33,
   "imagesLength": 5,
   "local_id": 932,
   "region": [
     "东京都/東京都",
     "千叶县",
     "冈山县"
-  ]
+  ],
+  "city": "涩谷区",
+  "cat": "剧场版"
 }

@@ -220,5 +220,40 @@
     ],
     "origin": "Anitabi@末日晴空SR",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5i0p2m9",
+    "name": "莵橋神社",
+    "image": "https://image.xinu.ink/pic/data/6052/images/5i0p2m9-1758983866163.jpg",
+    "geo": [
+      36.40641,
+      136.445936
+    ],
+    "ep": 2,
+    "s": 875
+  },
+  {
+    "id": "33mkpc0",
+    "name": "莵橋神社",
+    "image": "https://image.xinu.ink/pic/data/6052/images/33mkpc0-1753760111296.jpg",
+    "geo": [
+      36.406234,
+      136.446516
+    ],
+    "ep": 2,
+    "s": 901,
+    "originURL": "https://www.google.com/maps/place/%E8%8E%B5%E6%A9%8B%E7%A5%9E%E7%A4%BE%E3%83%BB%E3%81%8A%E3%81%99%E3%82%8F%E3%81%95%E3%82%93/@36.4060379,136.4463305,3a,38.1y,349.84h,93.52t/data=!3m7!1e1!3m5!1sYZPTEl9iDQ3W2yj5jF9j0A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.5150463579475684%26panoid%3DYZPTEl9iDQ3W2yj5jF9j0A%26yaw%3D349.8439278789942!7i16384!8i8192!4m6!3m5!1s0x5ff851a7becc7e81:0x58881f6c0947a8dd!8m2!3d36.4062141!4d136.4464638!16s%2Fg%2F1thbwj46?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": "33mzo94",
+    "name": "航空自衛隊 小松基地",
+    "image": "https://image.xinu.ink/pic/data/6052/images/33mzo94-1753760717060.jpg",
+    "geo": [
+      36.390235,
+      136.417651
+    ],
+    "ep": 9,
+    "s": 60,
+    "mark": "仅供参考，请自行决定是否前往拍摄"
   }
 ]

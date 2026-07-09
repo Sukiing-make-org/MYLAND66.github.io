@@ -120,5 +120,78 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "bl6spsh",
+    "name": "平和堂石部店",
+    "image": "https://image.xinu.ink/pic/data/6062/images/bl6spsh_1772236224163.jpg",
+    "geo": [
+      35.010685,
+      136.06048
+    ],
+    "ep": "PV1"
+  },
+  {
+    "id": "goyq1m1",
+    "name": "夢見が丘展望台",
+    "image": "https://image.xinu.ink/pic/data/6062/images/gnqcx75_1783274151983.webp",
+    "geo": [
+      35.051294,
+      135.838827
+    ],
+    "ep": 1,
+    "s": 1300,
+    "mark": "远处的桥是近江大桥，右下角的建筑是プレサンスレジェンド​琵琶湖。如果想要还原这个角度，除航拍以外应当只能爬上宇佐山远望，如此处的展望台，又如https://yamap.com/activities/9046629。",
+    "folder": "宇佐山"
+  },
+  {
+    "id": "gnqo3nx",
+    "name": "平和堂愛知川店",
+    "image": "https://image.xinu.ink/pic/data/6062/images/gnq4k4w_1783273491730.webp",
+    "geo": [
+      35.168049,
+      136.214123
+    ],
+    "ep": 1,
+    "s": 1314,
+    "mark": "平和堂是滋贺本地企业，在滋贺有相当多的分店。滋贺县与湖南省在1983年结为友好地区，因此平和堂也曾在湖南开设多家分店，目前仅余长沙五一广场一家。\nhttps://maps.app.goo.gl/FSoafbBNYsxKKgA3A",
+    "folder": "爱知郡"
+  },
+  {
+    "id": "gnr9qmf",
+    "name": "大津港シンボル緑地公園",
+    "image": "https://image.xinu.ink/pic/data/6062/images/gnr9qmf_1783275703582.webp",
+    "geo": [
+      35.013337,
+      135.865983
+    ],
+    "ep": 1,
+    "s": 1319,
+    "mark": "https://maps.app.goo.gl/XZwKzCozuB3cGxqFA",
+    "folder": "大津港SYMBOL绿地公园"
+  },
+  {
+    "id": "gnrb2x6",
+    "name": "大津港シンボル緑地公園",
+    "image": "https://image.xinu.ink/pic/data/6062/images/gnrb2x6_1783275722102.webp",
+    "geo": [
+      35.013369,
+      135.86591
+    ],
+    "ep": 1,
+    "s": 1323,
+    "folder": "大津港SYMBOL绿地公园"
+  },
+  {
+    "id": "gnrbd5j",
+    "name": "大津港シンボル緑地公園",
+    "image": "https://image.xinu.ink/pic/data/6062/images/gnrbd5j_1783275728835.webp",
+    "geo": [
+      35.013363,
+      135.865905
+    ],
+    "ep": 1,
+    "s": 1339,
+    "folder": "大津港SYMBOL绿地公园"
   }
 ]

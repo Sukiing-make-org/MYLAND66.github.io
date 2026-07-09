@@ -117,5 +117,35 @@
       32.3996,
       119.4371
     ]
+  },
+  {
+    "id": "dfkdm18",
+    "name": "Twenty Four Bridge",
+    "image": "https://image.xinu.ink/pic/data/6167/images/dfkdm18-1776249760224.jpg",
+    "geo": [
+      32.41006,
+      119.411056
+    ],
+    "cn": "二十四桥"
+  },
+  {
+    "id": "dfkemy3",
+    "name": "Twenty Four Bridge",
+    "image": "https://image.xinu.ink/pic/data/6167/images/dfkemy3-1776249805076.jpg",
+    "geo": [
+      32.410079,
+      119.411054
+    ],
+    "cn": "二十四桥"
+  },
+  {
+    "id": "dfl54mw",
+    "name": "slope",
+    "image": "https://image.xinu.ink/pic/data/6167/images/dfl54mw-1776251052815.jpg",
+    "geo": [
+      32.391523,
+      119.433068
+    ],
+    "cn": "柳巷"
   }
 ]

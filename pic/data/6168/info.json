@@ -59,10 +59,16 @@
       ]
     }
   ],
-  "pointsLength": 13,
+  "pointsLength": 17,
   "imagesLength": 6,
   "name": "レプリカだって、恋をする。",
   "name_cn": "复制品的我也会谈恋爱。",
   "theme_color": "#64b2cf",
-  "local_id": 6168
+  "local_id": 6168,
+  "cat": "TV",
+  "geo": [
+    35.126395,
+    138.471236
+  ],
+  "zoom": 10
 }

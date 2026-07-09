@@ -11,5 +11,1088 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "glmevbm",
+    "name": "伊豆大島",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glmevbm_1783146316932.webp",
+    "geo": [
+      34.648905,
+      139.427521
+    ],
+    "ep": 1,
+    "s": 16,
+    "mark": "从南侧上空俯瞰整个伊豆大岛。本作设定中这个岛名为伊豆王岛。",
+    "folder": "伊豆大岛"
+  },
+  {
+    "id": "glmh1ng",
+    "name": "旧波浮小学校",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glmh1ng_1783146497436.webp",
+    "geo": [
+      34.689915,
+      139.439798
+    ],
+    "ep": 1,
+    "s": 25,
+    "mark": "2009年3月31日与另一所学校合并，此校区被废弃。操场旧址现在是对外开放的，后续画面中出现的校门现已不存。",
+    "folder": "旧波浮小学校"
+  },
+  {
+    "id": "glmmngr",
+    "name": "旧波浮小学校",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glmmngr_1783146872528.webp",
+    "geo": [
+      34.690067,
+      139.440071
+    ],
+    "ep": 1,
+    "s": 80,
+    "folder": "旧波浮小学校"
+  },
+  {
+    "id": "glmlky7",
+    "name": "旧波浮小学校",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glmlky7_1783146862118.webp",
+    "geo": [
+      34.690295,
+      139.439711
+    ],
+    "ep": 1,
+    "s": 83,
+    "folder": "旧波浮小学校"
+  },
+  {
+    "id": "glr6d3v",
+    "name": "波浮港",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glr6d3v_1783154478460.webp",
+    "geo": [
+      34.688149,
+      139.438906
+    ],
+    "ep": 1,
+    "s": 95,
+    "folder": "波浮港",
+    "cn": "波浮港"
+  },
+  {
+    "id": "glra6sy",
+    "name": "波浮港",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glra6sy_1783154484737.webp",
+    "geo": [
+      34.688248,
+      139.438779
+    ],
+    "ep": 1,
+    "s": 96,
+    "folder": "波浮港",
+    "cn": "波浮港"
+  },
+  {
+    "id": "glr8ytt",
+    "name": "波浮港 早苗丸",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glr8ytt_1783154447059.webp",
+    "geo": [
+      34.688018,
+      139.439042
+    ],
+    "ep": 1,
+    "s": 100,
+    "mark": "现实中实际存在的船。\nhttps://maps.app.goo.gl/dYCxE9cp3ctLtxHeA",
+    "folder": "波浮港"
+  },
+  {
+    "id": "gln82ht",
+    "name": "波浮港",
+    "image": "https://image.xinu.ink/pic/data/6044/images/gln82ht_1783147677666.webp",
+    "geo": [
+      34.687943,
+      139.439126
+    ],
+    "ep": 1,
+    "s": 104,
+    "folder": "波浮港",
+    "cn": "波浮港"
+  },
+  {
+    "id": "glms5yr",
+    "name": "波浮港",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glms5yr_1783146957884.webp",
+    "geo": [
+      34.687796,
+      139.439473
+    ],
+    "ep": 1,
+    "s": 113,
+    "folder": "波浮港"
+  },
+  {
+    "id": "glmt47o",
+    "name": "波浮港",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glmt47o_1783146970145.webp",
+    "geo": [
+      34.687791,
+      139.439495
+    ],
+    "ep": 1,
+    "s": 114,
+    "folder": "波浮港"
+  },
+  {
+    "id": "glmvgnt",
+    "name": "寺村貸本店",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glmvgnt_1783147085116.webp",
+    "geo": [
+      34.687465,
+      139.439796
+    ],
+    "ep": 1,
+    "s": 119,
+    "mark": "从「Hav Cafe」二楼阳台向下拍摄。",
+    "folder": "波浮港"
+  },
+  {
+    "id": "glmwuby",
+    "name": "寺村貸本店",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glmwuby_1783147348199.webp",
+    "geo": [
+      34.68747,
+      139.439783
+    ],
+    "ep": 1,
+    "s": 121,
+    "mark": "现实中是位于東京都大島町波浮港1番地的「Hav Cafe」，建筑本身为拥有80年以上历史的古民宅，近年被改造为咖啡厅。",
+    "folder": "波浮港"
+  },
+  {
+    "id": "gln1elc",
+    "name": "寺村貸本店",
+    "image": "https://image.xinu.ink/pic/data/6044/images/gln1elc_1783147356164.webp",
+    "geo": [
+      34.687469,
+      139.43977
+    ],
+    "ep": 1,
+    "s": 121,
+    "folder": "波浮港"
+  },
+  {
+    "id": "glmu3b2",
+    "name": "寺村貸本店",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glmu3b2_1783147069583.webp",
+    "geo": [
+      34.687467,
+      139.43976
+    ],
+    "ep": 1,
+    "s": 124,
+    "folder": "波浮港"
+  },
+  {
+    "id": "gln1o91",
+    "name": "寺村貸本店",
+    "image": "https://image.xinu.ink/pic/data/6044/images/gln1o91_1783147368664.webp",
+    "geo": [
+      34.68753,
+      139.439742
+    ],
+    "ep": 1,
+    "s": 128,
+    "folder": "波浮港"
+  },
+  {
+    "id": "gln1tzr",
+    "name": "寺村貸本店",
+    "image": "https://image.xinu.ink/pic/data/6044/images/gln1tzr_1783147377743.webp",
+    "geo": [
+      34.687473,
+      139.439794
+    ],
+    "ep": 1,
+    "s": 137,
+    "folder": "波浮港"
+  },
+  {
+    "id": "glr2rm7",
+    "name": "寺村貸本店",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glr2rm7_1783154138693.webp",
+    "geo": [
+      34.687458,
+      139.439781
+    ],
+    "ep": 1,
+    "s": 268,
+    "folder": "波浮港"
+  },
+  {
+    "id": "gln4iwz",
+    "name": "波浮港",
+    "image": "https://image.xinu.ink/pic/data/6044/images/gln4iwz_1783147713484.webp",
+    "geo": [
+      34.686714,
+      139.438946
+    ],
+    "ep": 1,
+    "s": 332,
+    "folder": "波浮港",
+    "cn": "波浮港"
+  },
+  {
+    "id": "glnaruq",
+    "name": "波浮港",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glnaruq_1783147793432.webp",
+    "geo": [
+      34.686651,
+      139.438835
+    ],
+    "ep": 1,
+    "s": 338,
+    "folder": "波浮港",
+    "cn": "波浮港"
+  },
+  {
+    "id": "glnaymy",
+    "name": "波浮港",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glnaymy_1783147803932.webp",
+    "geo": [
+      34.686664,
+      139.43887
+    ],
+    "ep": 1,
+    "s": 348,
+    "folder": "波浮港",
+    "cn": "波浮港"
+  },
+  {
+    "id": "glnakth",
+    "name": "波浮港",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glnakth_1783147784956.webp",
+    "geo": [
+      34.686683,
+      139.438892
+    ],
+    "ep": 1,
+    "s": 355,
+    "folder": "波浮港",
+    "cn": "波浮港"
+  },
+  {
+    "id": "gln5jqa",
+    "name": "波浮港",
+    "image": "https://image.xinu.ink/pic/data/6044/images/gln5jqa_1783147732782.webp",
+    "geo": [
+      34.686549,
+      139.439102
+    ],
+    "ep": 1,
+    "s": 361,
+    "mark": "https://maps.app.goo.gl/B7KjTU8GEfXzBdvC7",
+    "folder": "波浮港",
+    "cn": "波浮港"
+  },
+  {
+    "id": "glnb55k",
+    "name": "波浮港",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glnb55k_1783147810532.webp",
+    "geo": [
+      34.686668,
+      139.438887
+    ],
+    "ep": 1,
+    "s": 367,
+    "folder": "波浮港",
+    "cn": "波浮港"
+  },
+  {
+    "id": "glnbptm",
+    "name": "波浮港",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glnbptm_1783147849601.webp",
+    "geo": [
+      34.68666,
+      139.438846
+    ],
+    "ep": 1,
+    "s": 371,
+    "mark": "向西拍摄港口另一侧。",
+    "folder": "波浮港",
+    "cn": "波浮港"
+  },
+  {
+    "id": "glnf664",
+    "name": "波浮港漁業協同組合 事務室",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glnf664_1783148069890.webp",
+    "geo": [
+      34.686892,
+      139.439249
+    ],
+    "ep": 1,
+    "s": 377,
+    "mark": "背后有棚子的建筑是波浮港漁業協同組合事務室。",
+    "folder": "波浮港"
+  },
+  {
+    "id": "glndwyt",
+    "name": "波浮港",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glndwyt_1783148005382.webp",
+    "geo": [
+      34.686853,
+      139.43908
+    ],
+    "ep": 1,
+    "s": 382,
+    "folder": "波浮港"
+  },
+  {
+    "id": "glnga6z",
+    "name": "鵜飼商店",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glnga6z_1783148082727.webp",
+    "geo": [
+      34.686599,
+      139.439092
+    ],
+    "ep": 1,
+    "s": 384,
+    "mark": "实名出现的熟食店（惣菜屋）。",
+    "folder": "波浮港"
+  },
+  {
+    "id": "glr0ys8",
+    "name": "平次屋",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glr0ys8_1783154078328.webp",
+    "geo": [
+      34.686894,
+      139.439833
+    ],
+    "ep": 1,
+    "s": 386,
+    "mark": "杂货店，谷歌地图上未收录该店铺。",
+    "folder": "波浮港"
+  },
+  {
+    "id": "glqvndd",
+    "name": "港鮨",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glqvndd_1783153824140.webp",
+    "geo": [
+      34.687088,
+      139.439809
+    ],
+    "ep": 1,
+    "s": 388,
+    "mark": "实名出现的寿司店。",
+    "folder": "波浮港"
+  },
+  {
+    "id": "glr2bxd",
+    "name": "寺村貸本店",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glr2bxd_1783154120434.webp",
+    "geo": [
+      34.687489,
+      139.43979
+    ],
+    "ep": 1,
+    "s": 390,
+    "folder": "波浮港"
+  },
+  {
+    "id": "glr3gyp",
+    "name": "寺村貸本店",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glr3gyp_1783154171666.webp",
+    "geo": [
+      34.687485,
+      139.43979
+    ],
+    "ep": 1,
+    "s": 393,
+    "folder": "波浮港"
+  },
+  {
+    "id": "glr44c4",
+    "name": "寺村貸本店",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glr44c4_1783154203764.webp",
+    "geo": [
+      34.687444,
+      139.439774
+    ],
+    "ep": 1,
+    "s": 395,
+    "folder": "波浮港"
+  },
+  {
+    "id": "glr4l82",
+    "name": "寺村貸本店",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glr4l82_1783154223887.webp",
+    "geo": [
+      34.687478,
+      139.439782
+    ],
+    "ep": 1,
+    "s": 399,
+    "folder": "波浮港"
+  },
+  {
+    "id": "glr50e6",
+    "name": "寺村貸本店",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glr50e6_1783154244088.webp",
+    "geo": [
+      34.687498,
+      139.439757
+    ],
+    "ep": 1,
+    "s": 402,
+    "folder": "波浮港"
+  },
+  {
+    "id": "glr5b3g",
+    "name": "寺村貸本店",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glr5b3g_1783154256910.webp",
+    "geo": [
+      34.687475,
+      139.439765
+    ],
+    "ep": 1,
+    "s": 405,
+    "folder": "波浮港"
+  },
+  {
+    "id": "glr5gsz",
+    "name": "寺村貸本店",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glr5gsz_1783154267081.webp",
+    "geo": [
+      34.687483,
+      139.439769
+    ],
+    "ep": 1,
+    "s": 410,
+    "folder": "波浮港"
+  },
+  {
+    "id": "glrs1py",
+    "name": "踊り子坂",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glrs1py_1783155317837.webp",
+    "geo": [
+      34.686769,
+      139.439773
+    ],
+    "ep": 1,
+    "s": 472,
+    "folder": "踊子坂"
+  },
+  {
+    "id": "glrx8jv",
+    "name": "踊り子坂",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glrx8jv_1783155560737.webp",
+    "geo": [
+      34.686775,
+      139.439886
+    ],
+    "ep": 1,
+    "s": 476,
+    "folder": "踊子坂"
+  },
+  {
+    "id": "glrpb4u",
+    "name": "踊り子坂",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glrpb4u_1783155570658.webp",
+    "geo": [
+      34.686749,
+      139.439961
+    ],
+    "ep": 1,
+    "s": 479,
+    "folder": "踊子坂"
+  },
+  {
+    "id": "glry0gq",
+    "name": "踊り子坂",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glry0gq_1783155600359.webp",
+    "geo": [
+      34.686769,
+      139.439903
+    ],
+    "ep": 1,
+    "s": 480,
+    "folder": "踊子坂"
+  },
+  {
+    "id": "glry9rm",
+    "name": "踊り子坂",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glry9rm_1783155608907.webp",
+    "geo": [
+      34.686761,
+      139.439811
+    ],
+    "ep": 1,
+    "s": 484,
+    "folder": "踊子坂"
+  },
+  {
+    "id": "gls07r2",
+    "name": "踊り子坂",
+    "image": "https://image.xinu.ink/pic/data/6044/images/gls07r2_1783155699784.webp",
+    "geo": [
+      34.686789,
+      139.439783
+    ],
+    "ep": 1,
+    "s": 486,
+    "folder": "踊子坂"
+  },
+  {
+    "id": "glrzpib",
+    "name": "踊り子坂",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glrzpib_1783155688949.webp",
+    "geo": [
+      34.686804,
+      139.439731
+    ],
+    "ep": 1,
+    "s": 488,
+    "folder": "踊子坂"
+  },
+  {
+    "id": "gls0r74",
+    "name": "波浮港",
+    "image": "https://image.xinu.ink/pic/data/6044/images/gls0r74_1783155725123.webp",
+    "geo": [
+      34.686963,
+      139.439468
+    ],
+    "ep": 1,
+    "s": 494,
+    "folder": "波浮港"
+  },
+  {
+    "id": "gls13iv",
+    "name": "波浮港",
+    "image": "https://image.xinu.ink/pic/data/6044/images/gls13iv_1783155740406.webp",
+    "geo": [
+      34.687001,
+      139.439229
+    ],
+    "ep": 1,
+    "s": 503,
+    "folder": "波浮港"
+  },
+  {
+    "id": "gls5qlz",
+    "name": "「波浮の港」歌碑",
+    "image": "https://image.xinu.ink/pic/data/6044/images/gls5qlz_1783155957688.webp",
+    "geo": [
+      34.686683,
+      139.438978
+    ],
+    "ep": 1,
+    "s": 507,
+    "folder": "波浮港"
+  },
+  {
+    "id": "gls59jq",
+    "name": "「波浮の港」歌碑",
+    "image": "https://image.xinu.ink/pic/data/6044/images/gls59jq_1783155934629.webp",
+    "geo": [
+      34.686691,
+      139.438964
+    ],
+    "ep": 1,
+    "s": 511,
+    "folder": "波浮港"
+  },
+  {
+    "id": "gls1w69",
+    "name": "「波浮の港」歌碑",
+    "image": "https://image.xinu.ink/pic/data/6044/images/gls1w69_1783155892716.webp",
+    "geo": [
+      34.686691,
+      139.43898
+    ],
+    "ep": 1,
+    "s": 513,
+    "folder": "波浮港"
+  },
+  {
+    "id": "gls51z8",
+    "name": "「波浮の港」歌碑",
+    "image": "https://image.xinu.ink/pic/data/6044/images/gls51z8_1783155925019.webp",
+    "geo": [
+      34.686691,
+      139.43896
+    ],
+    "ep": 1,
+    "s": 518,
+    "folder": "波浮港"
+  },
+  {
+    "id": "gls5y15",
+    "name": "「波浮の港」歌碑",
+    "image": "https://image.xinu.ink/pic/data/6044/images/gls5y15_1783155966233.webp",
+    "geo": [
+      34.686682,
+      139.438974
+    ],
+    "ep": 1,
+    "s": 524,
+    "folder": "波浮港"
+  },
+  {
+    "id": "gls64gy",
+    "name": "「波浮の港」歌碑",
+    "image": "https://image.xinu.ink/pic/data/6044/images/gls64gy_1783155974509.webp",
+    "geo": [
+      34.686681,
+      139.43897
+    ],
+    "ep": 1,
+    "s": 539,
+    "folder": "波浮港"
+  },
+  {
+    "id": "glscy7j",
+    "name": "踊り子坂",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glscy7j_1783156304821.webp",
+    "geo": [
+      34.686777,
+      139.439816
+    ],
+    "ep": 1,
+    "s": 545,
+    "mark": "右前方的建筑是踊子の里資料館（旧港屋旅館），门口的文字现实中是「みなとや」，动画里改成了「みなと館」。\nhttps://maps.app.goo.gl/EEwbfypVvjBCY5Vk7",
+    "folder": "踊子坂"
+  },
+  {
+    "id": "gls7jg4",
+    "name": "踊り子坂",
+    "image": "https://image.xinu.ink/pic/data/6044/images/gls7jg4_1783156044648.webp",
+    "geo": [
+      34.686593,
+      139.439928
+    ],
+    "ep": 1,
+    "s": 548,
+    "folder": "踊子坂"
+  },
+  {
+    "id": "gls7x3k",
+    "name": "踊り子坂",
+    "image": "https://image.xinu.ink/pic/data/6044/images/gls7x3k_1783156420497.webp",
+    "geo": [
+      34.686165,
+      139.439855
+    ],
+    "ep": 1,
+    "s": 551,
+    "folder": "踊子坂"
+  },
+  {
+    "id": "glsgcm3",
+    "name": "踊り子坂",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glsgcm3_1783156463424.webp",
+    "geo": [
+      34.686213,
+      139.439943
+    ],
+    "ep": 1,
+    "s": 555,
+    "mark": "因缺少实景信息，未确认。",
+    "folder": "踊子坂"
+  },
+  {
+    "id": "glsguel",
+    "name": "踊り子坂",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glsguel_1783156474609.webp",
+    "geo": [
+      34.686312,
+      139.440036
+    ],
+    "ep": 1,
+    "s": 557,
+    "mark": "因缺少实景信息，未确认。",
+    "folder": "踊子坂"
+  },
+  {
+    "id": "glsgza4",
+    "name": "踊り子坂",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glsgza4_1783156481383.webp",
+    "geo": [
+      34.686368,
+      139.440151
+    ],
+    "ep": 1,
+    "s": 558,
+    "mark": "因缺少实景信息，未确认。",
+    "folder": "踊子坂"
+  },
+  {
+    "id": "glsj1h5",
+    "name": "踊り子坂",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glsj1h5_1783156577859.webp",
+    "geo": [
+      34.686356,
+      139.439774
+    ],
+    "ep": 1,
+    "s": 560,
+    "mark": "因缺少实景信息，未确认。",
+    "folder": "踊子坂"
+  },
+  {
+    "id": "glrksqu",
+    "name": "波浮港見晴台",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glrksqu_1783154980373.webp",
+    "geo": [
+      34.687217,
+      139.435672
+    ],
+    "ep": 1,
+    "s": 567,
+    "folder": "波浮港见晴台"
+  },
+  {
+    "id": "glrhz85",
+    "name": "波浮港見晴台",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glrhz85_1783154852023.webp",
+    "geo": [
+      34.687173,
+      139.435659
+    ],
+    "ep": 1,
+    "s": 574,
+    "folder": "波浮港见晴台"
+  },
+  {
+    "id": "glrgtcg",
+    "name": "波浮港見晴台",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glrgtcg_1783154815763.webp",
+    "geo": [
+      34.687159,
+      139.43563
+    ],
+    "ep": 1,
+    "s": 575,
+    "folder": "波浮港见晴台"
+  },
+  {
+    "id": "glskzoi",
+    "name": "波浮港見晴台",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glskzoi_1783156747743.webp",
+    "geo": [
+      34.687196,
+      139.435672
+    ],
+    "ep": 1,
+    "s": 581,
+    "folder": "波浮港见晴台"
+  },
+  {
+    "id": "glsmg3n",
+    "name": "波浮港見晴台",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glsmg3n_1783156736856.webp",
+    "geo": [
+      34.687054,
+      139.435589
+    ],
+    "ep": 1,
+    "s": 587,
+    "mark": "背景是南侧的厕所。",
+    "folder": "波浮港见晴台"
+  },
+  {
+    "id": "gltdjcb",
+    "name": "都立大島高校",
+    "image": "https://image.xinu.ink/pic/data/6044/images/gltdjcb_1783158022725.webp",
+    "geo": [
+      34.765194,
+      139.359647
+    ],
+    "ep": 1,
+    "s": 599,
+    "mark": "动画中出现的高中场景以都立大岛高中为原型，ED中取材协力也列出了都立大岛高中。不过设定上女主就读的高中位于伊豆大岛南侧的波浮港附近。",
+    "folder": "都立大岛高中"
+  },
+  {
+    "id": "gltkam7",
+    "name": "波浮港",
+    "image": "https://image.xinu.ink/pic/data/6044/images/gltkam7_1783158322846.webp",
+    "geo": [
+      34.687912,
+      139.439154
+    ],
+    "ep": 1,
+    "s": 823,
+    "mark": "对面的建筑是「東京都島しょ農林水産総合センター 大島事業所 水産庁舎」。",
+    "folder": "波浮港"
+  },
+  {
+    "id": "glttjti",
+    "name": "岡田港",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glttjti_1783158776033.webp",
+    "geo": [
+      34.78917,
+      139.39188
+    ],
+    "ep": 1,
+    "s": 885,
+    "folder": "冈田港"
+  },
+  {
+    "id": "gltvlqi",
+    "name": "岡田港",
+    "image": "https://image.xinu.ink/pic/data/6044/images/gltvlqi_1783158858802.webp",
+    "geo": [
+      34.789858,
+      139.391497
+    ],
+    "ep": 1,
+    "s": 891,
+    "mark": "根据船的外形和ED中的取材协力，该船只为东海汽船的高速汽船「セブンアイランド結」。根据东海汽船官网的时刻表，从伊豆大岛出发去东京竹芝客运码头的最早一班高速汽船10:20发，从东京回伊豆大岛的最晚一班高度汽船14:00发，单程约1时45分。再晚就只有22:00从东京竹芝客船总站出发、次日早晨6:00抵达伊豆大岛的大型客船。因此安海在COMITIA对老师表示自己打算消磨时间到晚上再坐大型客船回家。",
+    "folder": "冈田港"
+  },
+  {
+    "id": "glty0wd",
+    "name": "岡田港",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glty0wd_1783158974730.webp",
+    "geo": [
+      34.789893,
+      139.39156
+    ],
+    "ep": 1,
+    "s": 895,
+    "folder": "冈田港"
+  },
+  {
+    "id": "gltykw5",
+    "name": "岡田港",
+    "image": "https://image.xinu.ink/pic/data/6044/images/gltykw5_1783158982021.webp",
+    "geo": [
+      34.78994,
+      139.391496
+    ],
+    "ep": 1,
+    "s": 898,
+    "folder": "冈田港"
+  },
+  {
+    "id": "gltyy6c",
+    "name": "岡田港",
+    "image": "https://image.xinu.ink/pic/data/6044/images/gltyy6c_1783158999336.webp",
+    "geo": [
+      34.789911,
+      139.39154
+    ],
+    "ep": 1,
+    "s": 902,
+    "folder": "冈田港"
+  },
+  {
+    "id": "gltz30x",
+    "name": "岡田港",
+    "image": "https://image.xinu.ink/pic/data/6044/images/gltz30x_1783159005817.webp",
+    "geo": [
+      34.790046,
+      139.391365
+    ],
+    "ep": 1,
+    "s": 905,
+    "folder": "冈田港"
+  },
+  {
+    "id": "gltzach",
+    "name": "岡田港",
+    "image": "https://image.xinu.ink/pic/data/6044/images/gltzach_1783159015576.webp",
+    "geo": [
+      34.792649,
+      139.38867
+    ],
+    "ep": 1,
+    "s": 907,
+    "folder": "冈田港"
+  },
+  {
+    "id": "glu6gxl",
+    "name": "セブンアイランド結",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glu6gxl_1783159361574.webp",
+    "geo": [
+      34.790139,
+      139.390954
+    ],
+    "ep": 1,
+    "s": 913,
+    "mark": "根据船的外形和ED中的取材协力，该船只为东海汽船的高速汽船「セブンアイランド結」。",
+    "folder": "冈田港"
+  },
+  {
+    "id": "glul7bw",
+    "name": "竹芝​客船​ターミナル",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glul7bw_1783160316419.webp",
+    "geo": [
+      35.652387,
+      139.762664
+    ],
+    "ep": 1,
+    "s": 937,
+    "mark": "出现在远方的是彩虹大桥和富士电视台总部大楼。\nhttps://maps.app.goo.gl/V7xNWC6FEt5tPueB6",
+    "folder": "竹芝客运码头"
+  },
+  {
+    "id": "glutlad",
+    "name": "竹芝​客船​ターミナル",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glutlad_1783160446333.webp",
+    "geo": [
+      35.654426,
+      139.762821
+    ],
+    "ep": 1,
+    "s": 939,
+    "folder": "竹芝客运码头"
+  },
+  {
+    "id": "gluslhu",
+    "name": "竹芝​客船​ターミナル",
+    "image": "https://image.xinu.ink/pic/data/6044/images/gluslhu_1783160406546.webp",
+    "geo": [
+      35.654444,
+      139.762821
+    ],
+    "ep": 1,
+    "s": 941,
+    "folder": "竹芝客运码头"
+  },
+  {
+    "id": "glux9hf",
+    "name": "竹芝​客船​ターミナル",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glux9hf_1783160889293.webp",
+    "geo": [
+      35.654352,
+      139.762688
+    ],
+    "ep": 1,
+    "s": 945,
+    "folder": "竹芝客运码头"
+  },
+  {
+    "id": "gluugt8",
+    "name": "竹芝駅 改札",
+    "image": "https://image.xinu.ink/pic/data/6044/images/gluugt8_1783160927524.webp",
+    "geo": [
+      35.654114,
+      139.762025
+    ],
+    "ep": 1,
+    "s": 954,
+    "mark": "竹芝站只有一个改札口。安海在此搭乘百合鸥线，约18分钟可抵达东京国际展览中心站。",
+    "folder": "竹芝客运码头"
+  },
+  {
+    "id": "glv8u4y",
+    "name": "東京​ビッグ​サイト 会議棟",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glv8u4y_1783161649415.webp",
+    "geo": [
+      35.630329,
+      139.793618
+    ],
+    "ep": 1,
+    "s": 966,
+    "mark": "东京国际展览中心（东京BIG SIGHT），日本最大的原创同人漫展COMITIA和最大同人漫展Comic Market均在此举行，本作安海前往的是COMITIA。COMITIA在东京一年举办4次，限制只能贩售社团的原创作品，通常禁止cosplay。有很多商业漫画家也会带着自己的原创作品出展COMITIA。动画开播时的最新一届东京COMITIA是2026年6月的COMITIA152。",
+    "folder": "东京国际展览中心"
+  },
+  {
+    "id": "glvjzv1",
+    "name": "東京​ビッグ​サイト ​東​展示​棟",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glvjzv1_1783162161743.webp",
+    "geo": [
+      35.630881,
+      139.796823
+    ],
+    "ep": 1,
+    "s": 969,
+    "mark": "虽然几乎所有作品在提及东京BIG SIGHT时都会以前一个画面的会议栋作为代表，但是那个建筑实际上并不会用来举办漫展，实际举办漫展的是位于其南侧的西展示栋·南展示栋和位于其东侧的东展示栋。CM一般会租用全部展示栋，而COMITIA一般只租用东展示栋，COMITIA152的会场是东1·2·3·8号馆。",
+    "folder": "东京国际展览中心"
+  },
+  {
+    "id": "glvwuej",
+    "name": "東京​ビッグ​サイト ​東​展示​棟",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glvwuej_1783162266517.webp",
+    "geo": [
+      35.630834,
+      139.796744
+    ],
+    "ep": 1,
+    "s": 974,
+    "mark": "安海手中拿着的是COMITIA的场刊「COMITIA GUIDE」，作中出现的是虚构的一届「COMITIA XXX」，场刊封面画师为作中另一角色石龙光。",
+    "folder": "东京国际展览中心"
+  },
+  {
+    "id": "glw05eq",
+    "name": "東京​ビッグ​サイト ​東​展示​棟",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glw05eq_1783162419855.webp",
+    "geo": [
+      35.630713,
+      139.796685
+    ],
+    "ep": 1,
+    "s": 979,
+    "mark": "COMITIA本身不禁止摄影，但是禁止未经许可拍摄他人。\nhttps://www.comitia.co.jp/faq/index.php?mode=faq&id=45",
+    "folder": "东京国际展览中心"
+  },
+  {
+    "id": "glw28bs",
+    "name": "東京​ビッグ​サイト ​東​展示​棟",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glw28bs_1783162518022.webp",
+    "geo": [
+      35.630745,
+      139.796741
+    ],
+    "ep": 1,
+    "s": 1033,
+    "folder": "东京国际展览中心"
+  },
+  {
+    "id": "glw2uar",
+    "name": "東京​ビッグ​サイト ​東​展示​棟",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glw2uar_1783162724859.webp",
+    "geo": [
+      35.63074,
+      139.796823
+    ],
+    "ep": 1,
+    "s": 1058,
+    "folder": "东京国际展览中心"
+  },
+  {
+    "id": "glw75vf",
+    "name": "東京​ビッグ​サイト ​東​展示​棟",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glw75vf_1783162741517.webp",
+    "geo": [
+      35.630681,
+      139.796839
+    ],
+    "ep": 1,
+    "s": 1174,
+    "folder": "东京国际展览中心"
+  },
+  {
+    "id": "glwc0fa",
+    "name": "豊洲大橋",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glwc0fa_1783163001156.webp",
+    "geo": [
+      35.649741,
+      139.78048
+    ],
+    "ep": 1,
+    "s": 1239,
+    "mark": "老师打车带安海前往竹芝码头。左侧远处的建筑物是晴海トリトン オフィスタワー。\nhttps://maps.app.goo.gl/DBHDD3Hncdm5zaLf9",
+    "folder": "丰州大桥"
+  },
+  {
+    "id": "glwghsh",
+    "name": "竹芝​客船​ターミナル",
+    "image": "https://image.xinu.ink/pic/data/6044/images/glwghsh_1783163267666.webp",
+    "geo": [
+      35.652442,
+      139.76269
+    ],
+    "ep": 1,
+    "s": 1245,
+    "mark": "两人应当是乘坐了从东京前往伊豆大岛的14:00发的东海汽船最晚一班高速汽船。",
+    "folder": "竹芝客运码头"
   }
 ]

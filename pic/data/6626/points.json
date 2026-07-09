@@ -5302,5 +5302,155 @@
     ],
     "ep": 185,
     "mark": "在所标位置向西北侧房屋拍摄，以雕像为标志"
+  },
+  {
+    "id": "gpzkslc",
+    "name": "Galleria Alberto Sordi",
+    "image": "https://image.xinu.ink/pic/data/6626/images/gpzkslc-1783410289153.webp",
+    "geo": [
+      41.901082,
+      12.480972
+    ],
+    "ep": 100,
+    "cn": "阿尔贝托·索尔迪拱廊街"
+  },
+  {
+    "id": "gpx28us",
+    "name": "Starbucks（星巴尼圣地）",
+    "image": "https://image.xinu.ink/pic/data/6626/images/gpx28us-1783406060929.webp",
+    "geo": [
+      48.58031,
+      7.749636
+    ],
+    "ep": 186,
+    "mark": "漫画中小镇的Bright Bunny Coffee（星巴尼）原型为现实中的星巴克。漫画中星巴尼的建筑下半部分与此处星巴克房屋一致，上半部分则是拼接自德国罗腾堡的（Romantik Hotel Markusturm）旅馆（详细见159话的地标）"
+  },
+  {
+    "id": "gpx3tzg",
+    "name": "智麻惠桥",
+    "image": "https://image.xinu.ink/pic/data/6626/images/gpx3tzg-1783406134306.webp",
+    "geo": [
+      48.074301,
+      7.359698
+    ],
+    "ep": 186,
+    "mark": "图片需要镜像处理"
+  },
+  {
+    "id": "gq0ibmr",
+    "name": "Place des Six Montagnes Noires",
+    "image": "https://image.xinu.ink/pic/data/6626/images/gq0ibmr-1783411859361.webp",
+    "geo": [
+      48.074249,
+      7.356768
+    ],
+    "ep": 187,
+    "mark": "（图片已镜像处理）所标位置向南拍摄（这张背景图感觉挺久远的，纱路身后还有之前的旋转木马）"
+  },
+  {
+    "id": "gpzvfy0",
+    "name": "Holyrood Abbey",
+    "image": "https://image.xinu.ink/pic/data/6626/images/gpzvfy0-1783410798361.webp",
+    "geo": [
+      55.953148,
+      -3.171443
+    ],
+    "ep": "2026年愚人节活动",
+    "mark": "所标位置为图中箱子的位置"
+  },
+  {
+    "id": "gpv3fvs",
+    "name": "Ross Fountain",
+    "image": "https://image.xinu.ink/pic/data/6626/images/gpv3fvs-1783402766882.webp",
+    "geo": [
+      55.950064,
+      -3.203009
+    ],
+    "ep": 188
+  },
+  {
+    "id": "gpvlo2z",
+    "name": "Dugald Stewart Monument",
+    "image": "https://image.xinu.ink/pic/data/6626/images/gpvlo2z-1783403633539.webp",
+    "geo": [
+      55.954608,
+      -3.184448
+    ],
+    "mark": "所标位置向西偏南方向的司各特纪念塔拍摄"
+  },
+  {
+    "id": "gpv7l74",
+    "name": "Victoria St",
+    "image": "https://image.xinu.ink/pic/data/6626/images/gpv7l74-1783402958407.webp",
+    "geo": [
+      55.948723,
+      -3.193177
+    ],
+    "ep": 188,
+    "mark": "向西拍摄"
+  },
+  {
+    "id": "gpvqr30",
+    "name": "Edinburgh Castle",
+    "image": "https://image.xinu.ink/pic/data/6626/images/gpvqr30-1783403857879.webp",
+    "geo": [
+      55.948547,
+      -3.19867
+    ],
+    "ep": 188,
+    "cn": "爱丁堡城堡"
+  },
+  {
+    "id": "gpvejn2",
+    "name": "Warriston’s Close",
+    "image": "https://image.xinu.ink/pic/data/6626/images/gpvejn2-1783403276049.webp",
+    "geo": [
+      55.950124,
+      -3.190809
+    ],
+    "ep": 188
+  },
+  {
+    "id": "gpvwizz",
+    "name": "Palace of Holyroodhouse",
+    "image": "https://image.xinu.ink/pic/data/6626/images/gpvwizz-1783404143001.webp",
+    "geo": [
+      55.952743,
+      -3.172031
+    ],
+    "ep": 188,
+    "cn": "荷里路德宫"
+  },
+  {
+    "id": "gpwoe18",
+    "name": "Holyrood Abbey",
+    "image": "https://image.xinu.ink/pic/data/6626/images/gpwoe18-1783405410671.webp",
+    "geo": [
+      55.953126,
+      -3.171601
+    ],
+    "ep": 188,
+    "mark": "向东拍摄"
+  },
+  {
+    "id": "gpwqljq",
+    "name": "Holyrood Abbey",
+    "image": "https://image.xinu.ink/pic/data/6626/images/gpwqljq-1783405529343.webp",
+    "geo": [
+      55.953381,
+      -3.17133
+    ],
+    "ep": 188
+  },
+  {
+    "id": "gq6xu58",
+    "name": "Rue du Maroquin",
+    "image": "https://image.xinu.ink/pic/data/6626/images/gq6xu58-1783422670000.webp",
+    "geo": [
+      48.58108,
+      7.750389
+    ],
+    "ep": 186,
+    "mark": "所标位置沿着左排房屋向西北拍摄"
   }
 ]

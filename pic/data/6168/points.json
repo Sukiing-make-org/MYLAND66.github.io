@@ -164,5 +164,51 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "dv967dw",
+    "name": "伊河麻神社",
+    "image": "https://image.xinu.ink/pic/data/6168/images/dv967dw-1777198399241.jpg",
+    "geo": [
+      34.966499,
+      138.38993
+    ],
+    "ep": 3,
+    "s": 1141
+  },
+  {
+    "id": "ebf3woh",
+    "name": "用宗海岸",
+    "image": "https://image.xinu.ink/pic/data/6168/images/ebf3woh-1778175833297.jpg",
+    "geo": [
+      34.919953,
+      138.365844
+    ],
+    "ep": 5,
+    "s": 719
+  },
+  {
+    "id": "fzb6co0",
+    "name": "まかいの牧場",
+    "image": "https://image.xinu.ink/pic/data/6168/images/fzb6co0-1781797208305.jpg",
+    "geo": [
+      35.336517,
+      138.584313
+    ],
+    "ep": 11,
+    "s": 485,
+    "mark": "复制品二人組出游",
+    "cn": "魔界牧场"
+  },
+  {
+    "id": "fzbub2h",
+    "name": "静岡駅北口",
+    "image": "https://image.xinu.ink/pic/data/6168/images/fzbub2h-1781798312977.jpg",
+    "geo": [
+      34.972425,
+      138.387838
+    ],
+    "ep": 11,
+    "s": 157
   }
 ]

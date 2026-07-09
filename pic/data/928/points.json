@@ -792,5 +792,70 @@
     ],
     "origin": "Anitabi@LovelySummer Channel",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p79q0tkca",
+    "name": "夢の大橋",
+    "image": "https://image.xinu.ink/pic/data/928/images/p79q0tkca_1729240699304.jpg",
+    "geo": [
+      35.628678,
+      139.784532
+    ],
+    "ep": 33,
+    "s": 1270,
+    "cn": "梦之大桥"
+  },
+  {
+    "id": "p7ad4p8vg",
+    "name": "喫茶室ルノアール 新宿西口駅前店",
+    "image": "https://image.xinu.ink/pic/data/928/images/p7ad4p8vg_1729242097185.jpg",
+    "geo": [
+      35.688974,
+      139.698147
+    ],
+    "ep": 9,
+    "s": 1107,
+    "cn": "新宿西口附近"
+  },
+  {
+    "id": "ncaab2ih8",
+    "name": "岩海水浴場",
+    "image": "https://image.xinu.ink/pic/data/928/images/ncaab2ih8-1723991680869.jpg",
+    "geo": [
+      35.161769,
+      139.140127
+    ],
+    "ep": 12,
+    "s": 1001
+  },
+  {
+    "id": "p7af055p1",
+    "name": "岩海水浴場",
+    "image": "https://image.xinu.ink/pic/data/928/images/p7af055p1_1729242210543.jpg",
+    "geo": [
+      35.161723,
+      139.140167
+    ],
+    "ep": 1,
+    "s": 202
+  },
+  {
+    "id": "p78xpftxw",
+    "name": "代田橋駅",
+    "image": "https://image.xinu.ink/pic/data/928/images/p78xpftxw_1729238987073.jpg",
+    "geo": [
+      35.670707,
+      139.658611
+    ],
+    "cn": "代田桥站"
+  },
+  {
+    "id": "p790n90zw",
+    "name": "井ノ頭通り",
+    "image": "https://image.xinu.ink/pic/data/928/images/p790n90zw_1729239174248.jpg",
+    "geo": [
+      35.668913,
+      139.665272
+    ]
   }
 ]

@@ -97,9 +97,16 @@
       ]
     }
   ],
-  "pointsLength": 68,
+  "pointsLength": 99,
   "imagesLength": 49,
   "name": "真・三國無双 ORIGINS",
   "name_cn": "真・三国无双 起源",
-  "local_id": 6131
+  "local_id": 6131,
+  "color": "#9e9c8c",
+  "cat": "游戏",
+  "geo": [
+    34.039652,
+    115.01861
+  ],
+  "zoom": 5.7
 }

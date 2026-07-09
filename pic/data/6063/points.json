@@ -50,5 +50,47 @@
     ],
     "origin": "Anitabi@Xmなのだ",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2fwi3b3",
+    "name": "八王子站",
+    "image": "https://image.xinu.ink/pic/data/6063/images/2fwi3b3_1752325502641.jpg",
+    "geo": [
+      35.656854,
+      139.339221
+    ]
+  },
+  {
+    "id": "2zzkt66",
+    "name": "八王子站",
+    "image": "https://image.xinu.ink/pic/data/6063/images/2zzkt66_1753539991833.jpg",
+    "geo": [
+      35.65732,
+      139.339202
+    ],
+    "ep": 5,
+    "s": 656
+  },
+  {
+    "id": "260x95h",
+    "name": "八王子站",
+    "image": "https://image.xinu.ink/pic/data/6063/images/260x95h_1751728382385.jpg",
+    "geo": [
+      35.657404,
+      139.339202
+    ],
+    "ep": 1,
+    "s": 633
+  },
+  {
+    "id": "26c4v3q",
+    "name": "八王子站东",
+    "image": "https://image.xinu.ink/pic/data/6063/images/26c4v3q_1751747146865.jpg",
+    "geo": [
+      35.654015,
+      139.34424
+    ],
+    "ep": 1,
+    "s": 423
   }
 ]

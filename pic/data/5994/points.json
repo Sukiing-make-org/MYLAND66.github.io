@@ -559,5 +559,184 @@
     ],
     "origin": "Anitabi@Niamos!",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "akyaa0f",
+    "name": "绫濑水门",
+    "image": "https://image.xinu.ink/pic/data/5994/images/akyaa0f_1770045935149.jpg",
+    "geo": [
+      35.748233,
+      139.82005
+    ],
+    "ep": 1,
+    "s": 552,
+    "folder": "绫濑水门及堀切桥周边"
+  },
+  {
+    "id": "akysok9",
+    "name": "绫濑水门",
+    "image": "https://image.xinu.ink/pic/data/5994/images/akysok9_1770045984904.jpg",
+    "geo": [
+      35.747981,
+      139.820769
+    ],
+    "ep": 1,
+    "s": 624,
+    "folder": "绫濑水门及堀切桥周边"
+  },
+  {
+    "id": "al1o8sp",
+    "name": "绫濑水门",
+    "image": "https://image.xinu.ink/pic/data/5994/images/al1o8sp_1770050783713.jpg",
+    "geo": [
+      35.747313,
+      139.821163
+    ],
+    "folder": "绫濑水门及堀切桥周边"
+  },
+  {
+    "id": "uvgngk1l5",
+    "name": "御岳橋",
+    "image": "https://image.xinu.ink/pic/data/5994/images/uvgngk1l5-1745242114592.jpg",
+    "geo": [
+      35.800821,
+      139.183073
+    ],
+    "ep": 3,
+    "s": 233,
+    "folder": "御岳橋",
+    "cn": "御岳橋"
+  },
+  {
+    "id": "uvm4s5ug5",
+    "name": "日本橋",
+    "image": "https://image.xinu.ink/pic/data/5994/images/uvm4s5ug5-1745254052518.jpg",
+    "geo": [
+      35.683905,
+      139.774362
+    ],
+    "ep": 7,
+    "s": 109,
+    "mark": "古立特骑士同盟初登场",
+    "folder": "日本桥",
+    "cn": "日本桥"
+  },
+  {
+    "id": "uves4iq5w",
+    "name": "海ほたる",
+    "image": "https://image.xinu.ink/pic/data/5994/images/uves4iq5w-1745238076381.jpg",
+    "geo": [
+      35.46528,
+      139.873054
+    ],
+    "ep": 7,
+    "s": 1341,
+    "folder": "海ほたる"
+  },
+  {
+    "id": "3wyfidz",
+    "name": "鷺ノ宮駅",
+    "image": "https://image.xinu.ink/pic/data/5994/images/3wyfidz-1755533454425.jpg",
+    "geo": [
+      35.722475,
+      139.63808
+    ],
+    "ep": 10,
+    "s": 384
+  },
+  {
+    "id": "3yeax1a",
+    "name": "荻窪地下道",
+    "image": "https://image.xinu.ink/pic/data/5994/images/3yeax1a-1755620598942.jpg",
+    "geo": [
+      35.704629,
+      139.622323
+    ],
+    "ep": 6,
+    "s": 1113,
+    "folder": "荻窪站周边"
+  },
+  {
+    "id": "43xwb7d",
+    "name": "堀切站前立交桥",
+    "image": "https://image.xinu.ink/pic/data/5994/images/43xwb7d-1755955838118.jpg",
+    "geo": [
+      35.742812,
+      139.817872
+    ],
+    "ep": 8,
+    "s": 706,
+    "folder": "绫濑水门及堀切桥周边"
+  },
+  {
+    "id": "43zg7bx",
+    "name": "中野駅",
+    "image": "https://image.xinu.ink/pic/data/5994/images/43zg7bx-1755958422584.jpg",
+    "geo": [
+      35.706208,
+      139.665944
+    ],
+    "ep": 4,
+    "s": 552
+  },
+  {
+    "id": "97qxhbm",
+    "name": "河堤道路上",
+    "image": "https://image.xinu.ink/pic/data/5994/images/97qxhbm_1767070041483.jpg",
+    "geo": [
+      35.748707,
+      139.820309
+    ],
+    "ep": 8,
+    "s": 325,
+    "folder": "绫濑水门及堀切桥周边"
+  },
+  {
+    "id": "aghxi9z",
+    "name": "ラウンドワンスタジアム",
+    "image": "https://image.xinu.ink/pic/data/5994/images/aghxi9z_1769775777780.jpg",
+    "geo": [
+      35.776624,
+      139.678742
+    ],
+    "ep": 8,
+    "s": 660,
+    "folder": "ラウンドワンスタジアム"
+  },
+  {
+    "id": "aghyvr8",
+    "name": "ラウンドワンスタジアム",
+    "image": "https://image.xinu.ink/pic/data/5994/images/aghyvr8_1769775819541.jpg",
+    "geo": [
+      35.77664,
+      139.678657
+    ],
+    "ep": 8,
+    "s": 703,
+    "folder": "ラウンドワンスタジアム"
+  },
+  {
+    "id": "aghv2mc",
+    "name": "ラウンドワンスタジアム",
+    "image": "https://image.xinu.ink/pic/data/5994/images/aghv2mc_1769775681646.jpg",
+    "geo": [
+      35.77659,
+      139.678665
+    ],
+    "ep": 8,
+    "s": 663,
+    "folder": "ラウンドワンスタジアム"
+  },
+  {
+    "id": "aghv3c2",
+    "name": "ラウンドワンスタジアム",
+    "image": "https://image.xinu.ink/pic/data/5994/images/aghv3c2_1769775735599.jpg",
+    "geo": [
+      35.776588,
+      139.678562
+    ],
+    "ep": 8,
+    "s": 667,
+    "folder": "ラウンドワンスタジアム"
   }
 ]

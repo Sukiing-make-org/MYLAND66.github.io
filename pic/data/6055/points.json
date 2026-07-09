@@ -548,5 +548,44 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1tUfhe6lJNN3uVJtgjAKnPb4Sr6VtZeO9&ll=35.714885%2C139.515322&z=17"
+  },
+  {
+    "id": "248b2237",
+    "name": "梶野通り ビニルハウス付近",
+    "image": "",
+    "geo": [
+      35.705268,
+      139.525523
+    ],
+    "mark": "#01",
+    "folder": "OP，1～6話",
+    "origin": "しら",
+    "originURL": "https://riyot.hatenablog.com/entry/2021/05/04/151621"
+  },
+  {
+    "id": "b0b4cba2",
+    "name": "東京ドームシティホール",
+    "image": "",
+    "geo": [
+      35.702934,
+      139.754674
+    ],
+    "mark": "#11",
+    "folder": "7～12話",
+    "origin": "しら",
+    "originURL": "https://riyot.hatenablog.com/entry/2021/05/04/151621"
+  },
+  {
+    "id": "23537b4a",
+    "name": "東京ドームシティ",
+    "image": "",
+    "geo": [
+      35.703404,
+      139.751776
+    ],
+    "mark": "#11",
+    "folder": "7～12話",
+    "origin": "しら",
+    "originURL": "https://riyot.hatenablog.com/entry/2021/05/04/151621"
   }
 ]

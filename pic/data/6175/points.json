@@ -130,5 +130,73 @@
     ],
     "origin": "Anitabi@AmaiAya",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f2kmftn",
+    "name": "川越氷川神社 絵馬トンネル",
+    "image": "https://image.xinu.ink/pic/data/6175/images/f2kmftn_1779817661743.jpg",
+    "geo": [
+      35.927625,
+      139.488448
+    ],
+    "ep": 18,
+    "folder": "川越"
+  },
+  {
+    "id": "f2kmmha",
+    "name": "川越氷川神社 絵馬トンネル",
+    "image": "https://image.xinu.ink/pic/data/6175/images/f2kmmha_1779817670248.jpg",
+    "geo": [
+      35.927626,
+      139.488451
+    ],
+    "ep": 18,
+    "folder": "川越"
+  },
+  {
+    "id": "f312i9v",
+    "name": "川越熊野神社 茅の輪",
+    "image": "https://image.xinu.ink/pic/data/6175/images/f312i9v_1779845283009.jpg",
+    "geo": [
+      35.919121,
+      139.483303
+    ],
+    "ep": 18,
+    "folder": "川越"
+  },
+  {
+    "id": "f5dk6rc",
+    "name": "舞浜アンフィシアター",
+    "image": "https://image.xinu.ink/pic/data/6175/images/f5dk6rc_1779987242477.jpg",
+    "geo": [
+      35.632474,
+      139.888355
+    ],
+    "ep": 30,
+    "folder": "舞浜アンフィシアター"
+  },
+  {
+    "id": "f5dojhk",
+    "name": "六甲高山植物園",
+    "image": "https://image.xinu.ink/pic/data/6175/images/f5dojhk_1779987431029.jpg",
+    "geo": [
+      34.762361,
+      135.241074
+    ],
+    "ep": 31,
+    "mark": "https://maps.app.goo.gl/xmGBU3xMDtouJbh36",
+    "folder": "六甲高山植物园"
+  },
+  {
+    "id": "f5du2sd",
+    "name": "六甲高山植物園",
+    "image": "https://image.xinu.ink/pic/data/6175/images/f5du2sd_1779987675862.jpg",
+    "geo": [
+      34.762295,
+      135.240995
+    ],
+    "ep": 31,
+    "mark": "https://maps.app.goo.gl/vat9oDoESA5czvXw8",
+    "folder": "六甲高山植物园"
   }
 ]

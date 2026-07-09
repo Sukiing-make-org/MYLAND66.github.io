@@ -102,5 +102,49 @@
     ],
     "origin": "Anitabi@Niamos!",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aod4e8l",
+    "name": "港二号橋梁",
+    "image": "https://image.xinu.ink/pic/data/6153/images/aod4e8l_1770254913659.jpg",
+    "geo": [
+      35.453202,
+      139.636083
+    ],
+    "ep": 1,
+    "s": 20
+  },
+  {
+    "id": "aod6is0",
+    "name": "港二号橋梁",
+    "image": "https://image.xinu.ink/pic/data/6153/images/aod6is0_1770254904889.jpg",
+    "geo": [
+      35.453306,
+      139.636097
+    ],
+    "ep": 1,
+    "s": 31
+  },
+  {
+    "id": "aod7bh0",
+    "name": "港二号橋梁",
+    "image": "https://image.xinu.ink/pic/data/6153/images/aod7bh0_1770254894959.jpg",
+    "geo": [
+      35.453321,
+      139.636239
+    ],
+    "ep": 1,
+    "s": 53
+  },
+  {
+    "id": "aodg9yj",
+    "name": "元町 代官坂通り イチカワ理容店付近",
+    "image": "https://image.xinu.ink/pic/data/6153/images/aodg9yj_1770254844428.jpg",
+    "geo": [
+      35.44026,
+      139.64994
+    ],
+    "ep": 1,
+    "s": 1377
   }
 ]

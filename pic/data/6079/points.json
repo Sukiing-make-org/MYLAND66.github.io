@@ -141,5 +141,38 @@
     ],
     "origin": "Anitabi@うに",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3vkbyjd",
+    "name": "横手駅東口総合ラウンジ 観光案内センター",
+    "image": "https://image.xinu.ink/pic/data/6079/images/3vkbyjd-1755449310591.jpg",
+    "geo": [
+      39.310182,
+      140.560736
+    ],
+    "ep": 1,
+    "s": 139
+  },
+  {
+    "id": "3vm3fq2",
+    "name": "蛇の崎橋",
+    "image": "https://image.xinu.ink/pic/data/6079/images/3vm3fq2-1755452267197.jpg",
+    "geo": [
+      39.31836,
+      140.564852
+    ],
+    "ep": 2,
+    "s": 98
+  },
+  {
+    "id": "3vm6cfr",
+    "name": "蛇の崎橋",
+    "image": "https://image.xinu.ink/pic/data/6079/images/3vm6cfr-1755452403131.jpg",
+    "geo": [
+      39.318142,
+      140.564959
+    ],
+    "ep": "3",
+    "s": "35"
   }
 ]

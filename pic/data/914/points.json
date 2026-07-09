@@ -208,5 +208,273 @@
     ],
     "origin": "Anitabi@うに",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "puu3end9s",
+    "name": "田畑",
+    "image": "https://image.xinu.ink/pic/data/914/images/puu3end9s_1731087467638.jpg",
+    "geo": [
+      39.264077,
+      139.973861
+    ],
+    "s": 504,
+    "mark": "这个场景应该位于院内地区，具体不明。\n参见http://ukatensei.blog50.fc2.com/blog-entry-930.html \n[2025/1/8考据]：基本可以断定取景点在这个位置，附近有前面画面出现过的白色小鸟居。",
+    "folder": "仁贺保",
+    "cn": "农田"
+  },
+  {
+    "id": "lfes7hggc",
+    "name": "文林堂書店",
+    "image": "https://image.xinu.ink/pic/data/914/images/lfes7hggc_1731083290191.jpg",
+    "geo": [
+      39.291162,
+      139.963162
+    ],
+    "s": 518,
+    "folder": "仁贺保"
+  },
+  {
+    "id": "pus4mhom2",
+    "name": "セブンイレブン にかほ平沢店",
+    "image": "https://image.xinu.ink/pic/data/914/images/pus4mhom2_1731083210970.jpg",
+    "geo": [
+      39.284424,
+      139.969655
+    ],
+    "s": 1448,
+    "folder": "仁贺保"
+  },
+  {
+    "id": "lffqz6hyc",
+    "name": "セブンイレブン にかほ平沢店",
+    "image": "https://image.xinu.ink/pic/data/914/images/lffqz6hyc_1731083216869.jpg",
+    "geo": [
+      39.284449,
+      139.96975
+    ],
+    "s": 1478,
+    "folder": "仁贺保"
+  },
+  {
+    "id": "pus64n2m6",
+    "name": "セブンイレブン にかほ平沢店",
+    "image": "https://image.xinu.ink/pic/data/914/images/pus64n2m6_1731083233658.jpg",
+    "geo": [
+      39.284495,
+      139.969713
+    ],
+    "s": 1451,
+    "folder": "仁贺保"
+  },
+  {
+    "id": "pus6bfzcu",
+    "name": "セブンイレブン にかほ平沢店",
+    "image": "https://image.xinu.ink/pic/data/914/images/pus6bfzcu_1731083243481.jpg",
+    "geo": [
+      39.284509,
+      139.969707
+    ],
+    "s": 1454,
+    "folder": "仁贺保"
+  },
+  {
+    "id": "pusix6st4",
+    "name": "山形駅前",
+    "image": "https://image.xinu.ink/pic/data/914/images/pusix6st4_1731084012796.jpg",
+    "geo": [
+      38.247685,
+      140.329048
+    ],
+    "s": 1563,
+    "mark": "背景中可以看到山形站前的路牌。",
+    "folder": "山形"
+  },
+  {
+    "id": "lffhffmkp",
+    "name": "鳥海山",
+    "image": "https://image.xinu.ink/pic/data/914/images/lffhffmkp_1731084993041.jpg",
+    "geo": [
+      39.1255,
+      139.88209
+    ],
+    "s": 1628,
+    "mark": "从羽越本線上远望鸟海山。",
+    "folder": "仁贺保"
+  },
+  {
+    "id": "put2ohn2m",
+    "name": "東北芸術工科大学",
+    "image": "https://image.xinu.ink/pic/data/914/images/put2ohn2m_1731085203600.jpg",
+    "geo": [
+      38.218762,
+      140.343837
+    ],
+    "s": 2108,
+    "folder": "東北芸術工科大学"
+  },
+  {
+    "id": "put44kcnq",
+    "name": "東北芸術工科大学",
+    "image": "https://image.xinu.ink/pic/data/914/images/put44kcnq_1731085290696.jpg",
+    "geo": [
+      38.219174,
+      140.343909
+    ],
+    "s": 2408,
+    "folder": "東北芸術工科大学"
+  },
+  {
+    "id": "putgclbgv",
+    "name": "東北芸術工科大学 芸術実習棟2階",
+    "image": "https://image.xinu.ink/pic/data/914/images/putgclbgv_1731086029549.jpg",
+    "geo": [
+      38.217154,
+      140.343765
+    ],
+    "s": 2456,
+    "folder": "東北芸術工科大学"
+  },
+  {
+    "id": "puth522cr",
+    "name": "東北芸術工科大学 芸術実習棟2階",
+    "image": "https://image.xinu.ink/pic/data/914/images/puth522cr_1731086076009.jpg",
+    "geo": [
+      38.217228,
+      140.343781
+    ],
+    "s": 2469,
+    "folder": "東北芸術工科大学"
+  },
+  {
+    "id": "putigxn6t",
+    "name": "東北芸術工科大学 芸術実習棟2階",
+    "image": "https://image.xinu.ink/pic/data/914/images/putigxn6t_1731086155852.jpg",
+    "geo": [
+      38.217169,
+      140.343763
+    ],
+    "s": 2536,
+    "folder": "東北芸術工科大学"
+  },
+  {
+    "id": "puthglgzr",
+    "name": "東北芸術工科大学 芸術実習棟2階",
+    "image": "https://image.xinu.ink/pic/data/914/images/puthglgzr_1731086096988.jpg",
+    "geo": [
+      38.217177,
+      140.343776
+    ],
+    "s": 2550,
+    "folder": "東北芸術工科大学"
+  },
+  {
+    "id": "putj7f5e2",
+    "name": "東北芸術工科大学",
+    "image": "https://image.xinu.ink/pic/data/914/images/putj7f5e2_1731086207384.jpg",
+    "geo": [
+      38.219127,
+      140.34397
+    ],
+    "s": 2578,
+    "folder": "東北芸術工科大学"
+  },
+  {
+    "id": "putjif9jm",
+    "name": "東北芸術工科大学",
+    "image": "https://image.xinu.ink/pic/data/914/images/putjif9jm_1731086222698.jpg",
+    "geo": [
+      38.219124,
+      140.343943
+    ],
+    "s": 2583,
+    "folder": "東北芸術工科大学"
+  },
+  {
+    "id": "putl3th9v",
+    "name": "東北芸術工科大学",
+    "image": "https://image.xinu.ink/pic/data/914/images/putl3th9v_1731086315446.jpg",
+    "geo": [
+      38.219136,
+      140.34396
+    ],
+    "s": 2620,
+    "folder": "東北芸術工科大学"
+  },
+  {
+    "id": "putjt6ipb",
+    "name": "東北芸術工科大学",
+    "image": "https://image.xinu.ink/pic/data/914/images/putjt6ipb_1731086239844.jpg",
+    "geo": [
+      38.219132,
+      140.343917
+    ],
+    "s": 2624,
+    "folder": "東北芸術工科大学"
+  },
+  {
+    "id": "putld0ggq",
+    "name": "東北芸術工科大学",
+    "image": "https://image.xinu.ink/pic/data/914/images/putld0ggq_1731086330210.jpg",
+    "geo": [
+      38.219125,
+      140.343954
+    ],
+    "s": 2632,
+    "folder": "東北芸術工科大学"
+  },
+  {
+    "id": "putm7le39",
+    "name": "東北芸術工科大学",
+    "image": "https://image.xinu.ink/pic/data/914/images/putm7le39_1731086380174.jpg",
+    "geo": [
+      38.219084,
+      140.343958
+    ],
+    "s": 2656,
+    "folder": "東北芸術工科大学"
+  },
+  {
+    "id": "putlyt0gf",
+    "name": "東北芸術工科大学",
+    "image": "https://image.xinu.ink/pic/data/914/images/putlyt0gf_1731086366306.jpg",
+    "geo": [
+      38.219109,
+      140.343968
+    ],
+    "s": 2660,
+    "folder": "東北芸術工科大学"
+  },
+  {
+    "id": "putmqlflu",
+    "name": "東北芸術工科大学",
+    "image": "https://image.xinu.ink/pic/data/914/images/putmqlflu_1731086421272.jpg",
+    "geo": [
+      38.219257,
+      140.343848
+    ],
+    "s": 2670,
+    "folder": "東北芸術工科大学"
+  },
+  {
+    "id": "putn5f5ns",
+    "name": "東北芸術工科大学",
+    "image": "https://image.xinu.ink/pic/data/914/images/putn5f5ns_1731086445232.jpg",
+    "geo": [
+      38.219372,
+      140.343905
+    ],
+    "s": 2674,
+    "folder": "東北芸術工科大学"
+  },
+  {
+    "id": "putnruc5s",
+    "name": "東北芸術工科大学",
+    "image": "https://image.xinu.ink/pic/data/914/images/putnruc5s_1731086475967.jpg",
+    "geo": [
+      38.21942,
+      140.343945
+    ],
+    "s": 2682,
+    "folder": "東北芸術工科大学"
   }
 ]

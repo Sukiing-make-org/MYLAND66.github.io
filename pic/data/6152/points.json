@@ -153,5 +153,17 @@
       35.6303,
       139.7752
     ]
+  },
+  {
+    "id": "d19sqxr",
+    "name": "渋谷センター街",
+    "image": "",
+    "geo": [
+      35.660198,
+      139.699162
+    ],
+    "folder": "渋谷",
+    "origin": "sana",
+    "originURL": "https://www.google.com/maps/d/u/2/edit?mid=1JVnmy7SSJbGWPCCJL3p3JJ_tTdFIyAY&usp=sharing"
   }
 ]

@@ -70,5 +70,83 @@
     ],
     "origin": "Anitabi@AmaiAya",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "eywm4si",
+    "name": "スターバックス コーヒー 狭山市入間川にこにこテラス店",
+    "image": "https://image.xinu.ink/pic/data/6176/images/eywm4si_1779595940538.jpg",
+    "geo": [
+      35.864427,
+      139.40446
+    ],
+    "ep": 4,
+    "folder": "入间川"
+  },
+  {
+    "id": "eywl5jy",
+    "name": "入間川にこにこテラス（河川敷中央公園）",
+    "image": "https://image.xinu.ink/pic/data/6176/images/eywl5jy_1779595901026.jpg",
+    "geo": [
+      35.864184,
+      139.404435
+    ],
+    "ep": 4,
+    "folder": "入间川"
+  },
+  {
+    "id": "eyy576q",
+    "name": "昭代橋",
+    "image": "https://image.xinu.ink/pic/data/6176/images/eyy576q_1779598566069.jpg",
+    "geo": [
+      35.864282,
+      139.405969
+    ],
+    "ep": 10,
+    "folder": "入间川"
+  },
+  {
+    "id": "eyxs5ty",
+    "name": "多摩動物公園",
+    "image": "https://image.xinu.ink/pic/data/6176/images/eyxs5ty_1779597907661.jpg",
+    "geo": [
+      35.649498,
+      139.403777
+    ],
+    "ep": 20,
+    "mark": "背景中的轨道是多摩单轨。",
+    "folder": "多摩动物公园"
+  },
+  {
+    "id": "eyxwysb",
+    "name": "多摩動物公園 昆虫生態園",
+    "image": "https://image.xinu.ink/pic/data/6176/images/eyxwysb_1779598126770.jpg",
+    "geo": [
+      35.650825,
+      139.402696
+    ],
+    "ep": 20,
+    "folder": "多摩动物公园"
+  },
+  {
+    "id": "eyxx9fc",
+    "name": "多摩動物公園 昆虫生態園",
+    "image": "https://image.xinu.ink/pic/data/6176/images/eyxx9fc_1779598135463.jpg",
+    "geo": [
+      35.650802,
+      139.402747
+    ],
+    "ep": 20,
+    "folder": "多摩动物公园"
+  },
+  {
+    "id": "eyxybb6",
+    "name": "多摩動物公園 昆虫生態園",
+    "image": "https://image.xinu.ink/pic/data/6176/images/eyxybb6_1779598198210.jpg",
+    "geo": [
+      35.651135,
+      139.402177
+    ],
+    "ep": 20,
+    "folder": "多摩动物公园"
   }
 ]

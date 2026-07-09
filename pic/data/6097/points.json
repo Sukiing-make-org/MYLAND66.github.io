@@ -801,5 +801,55 @@
     ],
     "origin": "Anitabi@Elm",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5m5k2yh",
+    "name": "喫茶しふぉん",
+    "image": "https://image.xinu.ink/pic/data/6097/images/5m5k2yh_1759501476136.jpg",
+    "geo": [
+      34.775622,
+      137.362918
+    ],
+    "ep": "1卷（第10话）",
+    "s": "P96",
+    "folder": "食物",
+    "originURL": "https://www.instagram.com/p/CQr3S6pjQO2/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    "id": "5m5hsky",
+    "name": "喫茶しふぉん",
+    "image": "https://image.xinu.ink/pic/data/6097/images/5m5hsky_1759501482768.jpg",
+    "geo": [
+      34.775672,
+      137.362989
+    ],
+    "ep": "1卷（第10话）",
+    "s": "P97",
+    "folder": "食物",
+    "originURL": "https://www.instagram.com/p/CQr3S6pjQO2/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    "id": "5oyncby",
+    "name": "駅前",
+    "image": "https://image.xinu.ink/pic/data/6097/images/5oyncby_1759502181260.jpg",
+    "geo": [
+      34.764082,
+      137.382919
+    ],
+    "ep": "2卷（第12话）",
+    "s": "P8",
+    "folder": "交通"
+  },
+  {
+    "id": "5oz1dcx",
+    "name": "駅前",
+    "image": "https://image.xinu.ink/pic/data/6097/images/5oz1dcx_1759502189959.jpg",
+    "geo": [
+      34.763849,
+      137.383093
+    ],
+    "ep": "2卷（第12话）",
+    "s": "P8",
+    "folder": "交通"
   }
 ]

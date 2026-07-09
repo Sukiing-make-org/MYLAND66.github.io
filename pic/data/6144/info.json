@@ -26,9 +26,16 @@
       ]
     }
   ],
-  "pointsLength": 17,
+  "pointsLength": 28,
   "imagesLength": 4,
   "name": "ふたりバス",
   "name_cn": "二人巴士",
-  "local_id": 6144
+  "local_id": 6144,
+  "en": "Futari Bus",
+  "cat": "漫画系列",
+  "geo": [
+    35.208626,
+    135.393454
+  ],
+  "zoom": 18.5
 }

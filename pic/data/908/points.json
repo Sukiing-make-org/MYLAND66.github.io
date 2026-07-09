@@ -195,5 +195,76 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p2gbdfwu8",
+    "name": "鶯谷",
+    "image": "https://image.xinu.ink/pic/data/908/images/p2gbdfwu8_1728863243223.jpg",
+    "geo": [
+      35.720372,
+      139.779005
+    ],
+    "cn": "莺谷站 京滨东北线"
+  },
+  {
+    "id": "p2gymz7kz",
+    "name": "日暮里",
+    "image": "https://image.xinu.ink/pic/data/908/images/p2gymz7kz_1728864645788.jpg",
+    "geo": [
+      35.728894,
+      139.771032
+    ],
+    "cn": "日暮里站东口天桥北"
+  },
+  {
+    "id": "p2jjg7js6",
+    "name": "浅草花やしき",
+    "image": "https://image.xinu.ink/pic/data/908/images/p2jjg7js6_1728870259377.jpg",
+    "geo": [
+      35.715302,
+      139.795008
+    ],
+    "mark": "旋转木马附近",
+    "cn": "游乐园浅草花屋敷"
+  },
+  {
+    "id": "p2jq6wvdj",
+    "name": "東十条",
+    "image": "https://image.xinu.ink/pic/data/908/images/p2jq6wvdj_1728870666197.jpg",
+    "geo": [
+      35.763558,
+      139.727009
+    ],
+    "cn": "东十条站 京滨东北线月台"
+  },
+  {
+    "id": "p2lcp1ij3",
+    "name": "HOTEL SEEDS 鶯谷店",
+    "image": "https://image.xinu.ink/pic/data/908/images/p2lcp1ij3_1728874197249.jpg",
+    "geo": [
+      35.724112,
+      139.776659
+    ]
+  },
+  {
+    "id": "pa5p9m9an",
+    "name": "HOTEL SEEDS 鶯谷店",
+    "image": "https://image.xinu.ink/pic/data/908/images/pa5p9m9an_1729467043923.jpg",
+    "geo": [
+      35.723952,
+      139.777158
+    ]
+  },
+  {
+    "id": "p61l36su4",
+    "name": "東京都立王子總合高等學校",
+    "image": "https://image.xinu.ink/pic/data/908/images/p61l36su4-1729144671438.jpg",
+    "geo": [
+      35.747158,
+      139.731292
+    ],
+    "mark": "初次登场：网络版23话\n校门，入学考试放榜时绚深与夕相遇处",
+    "folder": "東京都立王子總合高等學校",
+    "origin": "书蠹诗魔"
   }
 ]

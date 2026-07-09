@@ -27,7 +27,7 @@
       ]
     }
   ],
-  "pointsLength": 151,
+  "pointsLength": 356,
   "imagesLength": 3,
   "local_id": 944,
   "region": [
@@ -38,5 +38,12 @@
     "與謝郡",
     "賀茂郡",
     "福井縣"
-  ]
+  ],
+  "en": "Food for the Soul",
+  "cat": "TV",
+  "geo": [
+    35.629556,
+    139.259263
+  ],
+  "zoom": 12.4
 }

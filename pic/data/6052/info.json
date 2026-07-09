@@ -122,7 +122,7 @@
       ]
     }
   ],
-  "pointsLength": 17,
+  "pointsLength": 20,
   "imagesLength": 12,
   "name": "ガーリー・エアフォース",
   "name_cn": "飞翔吧！战机少女",
@@ -130,5 +130,12 @@
   "local_id": 6052,
   "region": [
     "石川县"
-  ]
+  ],
+  "en": "Girly Air Force",
+  "cat": "TV",
+  "geo": [
+    36.401707,
+    136.439118
+  ],
+  "zoom": 12.5
 }

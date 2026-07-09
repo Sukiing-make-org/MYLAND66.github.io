@@ -125,7 +125,7 @@
       ]
     }
   ],
-  "pointsLength": 43,
+  "pointsLength": 58,
   "imagesLength": 19,
   "name": "SSSS.DYNAZENON",
   "name_cn": "SSSS.电光机王",
@@ -134,5 +134,12 @@
     "东京都/東京都",
     "千叶县",
     "神奈川縣"
-  ]
+  ],
+  "color": "#2c4481",
+  "cat": "TV",
+  "geo": [
+    35.747145,
+    139.817635
+  ],
+  "zoom": 13.9
 }

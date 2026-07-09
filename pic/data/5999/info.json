@@ -99,7 +99,7 @@
       ]
     }
   ],
-  "pointsLength": 20,
+  "pointsLength": 21,
   "imagesLength": 20,
   "name": "女神のカフェテラス",
   "name_cn": "女神咖啡厅",
@@ -107,5 +107,11 @@
   "local_id": 5999,
   "region": [
     "神奈川縣"
-  ]
+  ],
+  "cat": "TV",
+  "geo": [
+    35.185215,
+    139.648354
+  ],
+  "zoom": 13.3
 }

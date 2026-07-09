@@ -1135,5 +1135,335 @@
       36.3939,
       139.0723
     ]
+  },
+  {
+    "id": "5cot7s7",
+    "name": "大胡駅",
+    "image": "https://image.xinu.ink/pic/data/935/images/5cot7s7_1758661532503.jpg",
+    "geo": [
+      36.412922,
+      139.156363
+    ],
+    "ep": 10,
+    "s": 707,
+    "folder": "大胡",
+    "cn": "大胡站"
+  },
+  {
+    "id": "5cmkydz",
+    "name": "比刀根橋付近",
+    "image": "https://image.xinu.ink/pic/data/935/images/5cmkydz_1758657788099.jpg",
+    "geo": [
+      36.395275,
+      139.070616
+    ],
+    "ep": 5,
+    "s": 824,
+    "folder": "比刀根桥"
+  },
+  {
+    "id": "5cms669",
+    "name": "比刀根橋付近",
+    "image": "https://image.xinu.ink/pic/data/935/images/5cms669_1758658143654.jpg",
+    "geo": [
+      36.395389,
+      139.069571
+    ],
+    "ep": 5,
+    "s": 683,
+    "mark": "蚊子超级多",
+    "folder": "比刀根桥"
+  },
+  {
+    "id": "5cmswdt",
+    "name": "比刀根橋付近",
+    "image": "https://image.xinu.ink/pic/data/935/images/5cmswdt_1758658161124.jpg",
+    "geo": [
+      36.395391,
+      139.069619
+    ],
+    "ep": 5,
+    "s": 676,
+    "mark": "蚊子超级多",
+    "folder": "比刀根桥"
+  },
+  {
+    "id": "5cmugtz",
+    "name": "比刀根橋付近",
+    "image": "https://image.xinu.ink/pic/data/935/images/5cmugtz_1758658231547.jpg",
+    "geo": [
+      36.395382,
+      139.069647
+    ],
+    "ep": 5,
+    "s": 764,
+    "mark": "蚊子超级多",
+    "folder": "比刀根桥"
+  },
+  {
+    "id": "5cmuqdq",
+    "name": "比刀根橋付近",
+    "image": "https://image.xinu.ink/pic/data/935/images/5cmuqdq_1758658244323.jpg",
+    "geo": [
+      36.3954,
+      139.069692
+    ],
+    "ep": 5,
+    "s": 766,
+    "mark": "蚊子超级多",
+    "folder": "比刀根桥"
+  },
+  {
+    "id": "5cmt4yp",
+    "name": "比刀根橋付近",
+    "image": "https://image.xinu.ink/pic/data/935/images/5cmt4yp_1758658178652.jpg",
+    "geo": [
+      36.395406,
+      139.069556
+    ],
+    "ep": 5,
+    "s": 699,
+    "mark": "蚊子超级多",
+    "folder": "比刀根桥"
+  },
+  {
+    "id": "5cmtitl",
+    "name": "比刀根橋付近",
+    "image": "https://image.xinu.ink/pic/data/935/images/5cmtitl_1758658188408.jpg",
+    "geo": [
+      36.395407,
+      139.069579
+    ],
+    "ep": 5,
+    "s": 708,
+    "mark": "蚊子超级多",
+    "folder": "比刀根桥"
+  },
+  {
+    "id": "5cmtrdb",
+    "name": "比刀根橋付近",
+    "image": "https://image.xinu.ink/pic/data/935/images/5cmtrdb_1758658199946.jpg",
+    "geo": [
+      36.39543,
+      139.069584
+    ],
+    "ep": 5,
+    "s": 728,
+    "mark": "蚊子超级多",
+    "folder": "比刀根桥"
+  },
+  {
+    "id": "5cmj3jz",
+    "name": "比刀根橋付近",
+    "image": "https://image.xinu.ink/pic/data/935/images/5cmj3jz_1758657700984.jpg",
+    "geo": [
+      36.395132,
+      139.070583
+    ],
+    "ep": "OP1",
+    "folder": "比刀根桥"
+  },
+  {
+    "id": "5clma5p",
+    "name": "前橋中央イベント広場",
+    "image": "https://image.xinu.ink/pic/data/935/images/5clma5p_1758656334441.jpg",
+    "geo": [
+      36.393096,
+      139.069657
+    ],
+    "ep": 6,
+    "s": 473,
+    "folder": "中央通り"
+  },
+  {
+    "id": "5cojeyj",
+    "name": "前橋市中央児童遊園 るなぱあくLUNA PARK",
+    "image": "https://image.xinu.ink/pic/data/935/images/5cojeyj_1758661076669.jpg",
+    "geo": [
+      36.394985,
+      139.063699
+    ],
+    "ep": "OP1",
+    "cn": "前桥市中央儿童游园 lunapark"
+  },
+  {
+    "id": "5cny8bc",
+    "name": "けやき​ウォーク​前橋（（Keyaki Walk Maebashi））",
+    "image": "https://image.xinu.ink/pic/data/935/images/5cny8bc_1758660088052.jpg",
+    "geo": [
+      36.379675,
+      139.077988
+    ],
+    "ep": 12,
+    "s": 919,
+    "folder": "Keyaki Walk"
+  },
+  {
+    "id": "5cnygq8",
+    "name": "けやき​ウォーク​前橋（（Keyaki Walk Maebashi））",
+    "image": "https://image.xinu.ink/pic/data/935/images/5cnygq8_1758660097839.jpg",
+    "geo": [
+      36.379635,
+      139.077765
+    ],
+    "ep": 12,
+    "s": 904,
+    "folder": "Keyaki Walk"
+  },
+  {
+    "id": "5cnymvo",
+    "name": "けやき​ウォーク​前橋（（Keyaki Walk Maebashi））",
+    "image": "https://image.xinu.ink/pic/data/935/images/5cnymvo_1758660106652.jpg",
+    "geo": [
+      36.379716,
+      139.077727
+    ],
+    "ep": 12,
+    "s": 875,
+    "folder": "Keyaki Walk"
+  },
+  {
+    "id": "5cnyt34",
+    "name": "けやき​ウォーク​前橋（（Keyaki Walk Maebashi））",
+    "image": "https://image.xinu.ink/pic/data/935/images/5cnyt34_1758660114545.jpg",
+    "geo": [
+      36.379746,
+      139.077933
+    ],
+    "ep": 12,
+    "s": 849,
+    "folder": "Keyaki Walk"
+  },
+  {
+    "id": "5cnyz9p",
+    "name": "けやき​ウォーク​前橋（（Keyaki Walk Maebashi））",
+    "image": "https://image.xinu.ink/pic/data/935/images/5cnyz9p_1758660125896.jpg",
+    "geo": [
+      36.379753,
+      139.077811
+    ],
+    "ep": 12,
+    "s": 832,
+    "folder": "Keyaki Walk"
+  },
+  {
+    "id": "5cogwos",
+    "name": "臨江閣",
+    "image": "https://image.xinu.ink/pic/data/935/images/5cogwos_1758660959094.jpg",
+    "geo": [
+      36.395354,
+      139.062413
+    ],
+    "ep": 4,
+    "s": 794,
+    "folder": "临江阁",
+    "cn": "临江阁"
+  },
+  {
+    "id": "5coh7nl",
+    "name": "臨江閣",
+    "image": "https://image.xinu.ink/pic/data/935/images/5coh7nl_1758660972890.jpg",
+    "geo": [
+      36.395349,
+      139.062476
+    ],
+    "ep": 4,
+    "s": 823,
+    "folder": "临江阁",
+    "cn": "临江阁"
+  },
+  {
+    "id": "5cohdmk",
+    "name": "臨江閣",
+    "image": "https://image.xinu.ink/pic/data/935/images/5cohdmk_1758660980069.jpg",
+    "geo": [
+      36.395307,
+      139.062422
+    ],
+    "ep": 4,
+    "s": 855,
+    "folder": "临江阁",
+    "cn": "临江阁"
+  },
+  {
+    "id": "5ckowg5",
+    "name": "ふく成",
+    "image": "https://image.xinu.ink/pic/data/935/images/5ckowg5_1758654647475.jpg",
+    "geo": [
+      36.392489,
+      139.069804
+    ],
+    "ep": "OP1",
+    "folder": "中央通り"
+  },
+  {
+    "id": "5cnb0i7",
+    "name": "前橋文学館",
+    "image": "https://image.xinu.ink/pic/data/935/images/5cnb0i7_1758659025567.jpg",
+    "geo": [
+      36.393964,
+      139.072345
+    ],
+    "ep": 8,
+    "s": 513
+  },
+  {
+    "id": "1ifgxl4",
+    "name": "Marl旁",
+    "image": "https://image.xinu.ink/pic/data/935/images/1ifgxl4-1750301599593.jpg",
+    "geo": [
+      36.39258,
+      139.069462
+    ],
+    "folder": "中央通り"
+  },
+  {
+    "id": "5cnj53e",
+    "name": "前橋大気堂",
+    "image": "https://image.xinu.ink/pic/data/935/images/5cnj53e_1758659383092.jpg",
+    "geo": [
+      36.390114,
+      139.069828
+    ],
+    "ep": 12,
+    "s": 990
+  },
+  {
+    "id": "9tqbjf1",
+    "name": "前橋駅",
+    "image": "https://image.xinu.ink/pic/data/935/images/9tqbjf1-1768399145936.jpg",
+    "geo": [
+      36.383057,
+      139.072477
+    ],
+    "mark": "在前橋駅的宣传海报，同时在前橋駅内有前橋百貨可供购物。"
+  },
+  {
+    "id": "9tsx3qo",
+    "name": "オリオン通り商店街",
+    "image": "https://image.xinu.ink/pic/data/935/images/9tsx3qo-1768403507171.jpg",
+    "geo": [
+      36.392963,
+      139.071103
+    ],
+    "folder": "オリオン通り"
+  },
+  {
+    "id": "9tv8klh",
+    "name": "諏訪橋西詰",
+    "image": "https://image.xinu.ink/pic/data/935/images/9tv8klh-1768407391023.jpg",
+    "geo": [
+      36.393114,
+      139.072637
+    ]
+  },
+  {
+    "id": "9tvh0na",
+    "name": "諏訪橋西詰",
+    "image": "https://image.xinu.ink/pic/data/935/images/9tvh0na-1768407850265.jpg",
+    "geo": [
+      36.393105,
+      139.07264
+    ]
   }
 ]

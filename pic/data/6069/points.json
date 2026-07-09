@@ -162,5 +162,158 @@
       38.1694,
       140.8939
     ]
+  },
+  {
+    "id": "2a29hec",
+    "name": "杜せきのした駅 仙台空港線",
+    "image": "https://image.xinu.ink/pic/data/6069/images/2a29hec_1751994673775_c16v9.jpg",
+    "geo": [
+      38.165401,
+      140.896015
+    ],
+    "ep": 1,
+    "cn": "杜关下站 仙台机场直达线 月台"
+  },
+  {
+    "id": "29yz0ar",
+    "name": "杜せきのした駅  仙台空港線",
+    "image": "https://image.xinu.ink/pic/data/6069/images/29yz0ar_1751966891557_c16v9.jpg",
+    "geo": [
+      38.165401,
+      140.896053
+    ],
+    "ep": 1,
+    "cn": "杜关下站 仙台机场直达线 月台"
+  },
+  {
+    "id": "2a0gwk4",
+    "name": "杜せきのした駅  仙台空港線",
+    "image": "https://image.xinu.ink/pic/data/6069/images/2a0gwk4_1751969383233_c16v9.jpg",
+    "geo": [
+      38.165401,
+      140.89607
+    ],
+    "ep": 1,
+    "cn": "杜关下站 仙台机场直达线 月台"
+  },
+  {
+    "id": "2a0bzbs",
+    "name": "杜せきのした駅 仙台空港線 月台",
+    "image": "https://image.xinu.ink/pic/data/6069/images/2a0bzbs_1751969148390_c16v9.jpg",
+    "geo": [
+      38.165416,
+      140.896012
+    ],
+    "ep": "OP1",
+    "cn": "杜关下站 仙台机场直达线 月台"
+  },
+  {
+    "id": "2a0bcbq",
+    "name": "杜せきのした駅 南天桥",
+    "image": "https://image.xinu.ink/pic/data/6069/images/2a0bcbq_1751969157287_c16v9.jpg",
+    "geo": [
+      38.165163,
+      140.896386
+    ],
+    "ep": "OP1"
+  },
+  {
+    "id": "2a4h8rr",
+    "name": "イオン​モール​名取",
+    "image": "https://image.xinu.ink/pic/data/6069/images/2a4h8rr_1751976111570_c16v9.jpg",
+    "geo": [
+      38.163227,
+      140.894704
+    ],
+    "ep": 1,
+    "cn": "永旺梦乐城名取南"
+  },
+  {
+    "id": "2a290dy",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/6069/images/2a290dy_1751972431456_c16v9.jpg",
+    "geo": [
+      38.163858,
+      140.895612
+    ],
+    "ep": 1,
+    "cn": "FOOD FOREST 永旺梦乐城名取店"
+  },
+  {
+    "id": "2a2i136",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/6069/images/2a2i136_1751972809498_c16v9.jpg",
+    "geo": [
+      38.163838,
+      140.89564
+    ],
+    "ep": 1,
+    "cn": "FOOD FOREST 永旺梦乐城名取店"
+  },
+  {
+    "id": "2a4cplr",
+    "name": 17,
+    "image": "https://image.xinu.ink/pic/data/6069/images/2a4cplr_1751975958606_c16v9.jpg",
+    "geo": [
+      38.163838,
+      140.895612
+    ],
+    "ep": 1,
+    "cn": "FOOD FOREST 永旺梦乐城名取店"
+  },
+  {
+    "id": "2a4cq29",
+    "name": 17,
+    "image": "https://image.xinu.ink/pic/data/6069/images/2a4cq29_1751975959935_c16v9.jpg",
+    "geo": [
+      38.163848,
+      140.895618
+    ],
+    "ep": 1,
+    "cn": "FOOD FOREST 永旺梦乐城名取店"
+  },
+  {
+    "id": "2a4cqgs",
+    "name": 17,
+    "image": "https://image.xinu.ink/pic/data/6069/images/2a4cqgs_1751975965433_c16v9.jpg",
+    "geo": [
+      38.163843,
+      140.8956
+    ],
+    "ep": 1,
+    "cn": "FOOD FOREST 永旺梦乐城名取店"
+  },
+  {
+    "id": "2a4pk3b",
+    "name": 17,
+    "image": "https://image.xinu.ink/pic/data/6069/images/2a4pk3b_1751976498130_c16v9.jpg",
+    "geo": [
+      38.16384,
+      140.895622
+    ],
+    "ep": 1,
+    "cn": "FOOD FOREST 永旺梦乐城名取店"
+  },
+  {
+    "id": "2a4crlw",
+    "name": 17,
+    "image": "https://image.xinu.ink/pic/data/6069/images/2a4crlw_1751976068081_c16v9.jpg",
+    "geo": [
+      38.163853,
+      140.895601
+    ],
+    "ep": 1,
+    "cn": "FOOD FOREST 永旺梦乐城名取店"
+  },
+  {
+    "id": "3wq79rl",
+    "name": "名取市立増田中学校",
+    "image": "https://image.xinu.ink/pic/data/6069/images/3wq79rl-1755519654295.jpg",
+    "geo": [
+      38.170186,
+      140.894019
+    ],
+    "ep": 4,
+    "s": 621
   }
 ]
