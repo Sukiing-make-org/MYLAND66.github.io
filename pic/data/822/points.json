@@ -246,5 +246,124 @@
       35.6333,
       139.7156
     ]
+  },
+  {
+    "id": "5dgzm3h",
+    "name": "ファミリーマート 原町二丁目店",
+    "image": "https://image.xinu.ink/pic/data/822/images/5dgzm3h_1758708861096.jpg",
+    "geo": [
+      35.614009,
+      139.691596
+    ],
+    "ep": 4,
+    "s": 684,
+    "cn": "全家便利店原町二丁目店"
+  },
+  {
+    "id": "v70i883pm",
+    "name": "目黑",
+    "image": "https://image.xinu.ink/pic/data/822/images/v70i883pm-1746148166655.jpg",
+    "geo": [
+      35.6333,
+      139.715641
+    ],
+    "ep": 6,
+    "s": 87
+  },
+  {
+    "id": "5dgykiw",
+    "name": "ファミリーマート 原町二丁目店",
+    "image": "https://image.xinu.ink/pic/data/822/images/5dgykiw_1758708829080.jpg",
+    "geo": [
+      35.614019,
+      139.691625
+    ],
+    "ep": 8,
+    "s": 676,
+    "cn": "全家便利店原町二丁目店"
+  },
+  {
+    "id": "5dh0xsi",
+    "name": "ファミリーマート 原町二丁目店",
+    "image": "https://image.xinu.ink/pic/data/822/images/5dh0xsi_1758708921403.jpg",
+    "geo": [
+      35.614015,
+      139.69166
+    ],
+    "ep": 8,
+    "s": 679,
+    "cn": "全家便利店原町二丁目店"
+  },
+  {
+    "id": "5dh1kz2",
+    "name": "ファミリーマート 原町二丁目店",
+    "image": "https://image.xinu.ink/pic/data/822/images/5dh1kz2_1758708951431.jpg",
+    "geo": [
+      35.614017,
+      139.691678
+    ],
+    "ep": 8,
+    "s": 702,
+    "cn": "全家便利店原町二丁目店"
+  },
+  {
+    "id": "5dh1y62",
+    "name": "ファミリーマート 原町二丁目店",
+    "image": "https://image.xinu.ink/pic/data/822/images/5dh1y62_1758708968779.jpg",
+    "geo": [
+      35.61403,
+      139.691673
+    ],
+    "ep": 8,
+    "s": 728,
+    "cn": "全家便利店原町二丁目店"
+  },
+  {
+    "id": "v70i80006",
+    "name": "目黑不動尊",
+    "image": "https://image.xinu.ink/pic/data/822/images/v70i80006-1746148166652.jpg",
+    "geo": [
+      35.628007,
+      139.708341
+    ],
+    "ep": 12,
+    "s": 87,
+    "cn": "目黑不动尊"
+  },
+  {
+    "id": "5dirmi6",
+    "name": "目黑不動尊",
+    "image": "https://image.xinu.ink/pic/data/822/images/5dirmi6_1758711850579.jpg",
+    "geo": [
+      35.628516,
+      139.708111
+    ],
+    "ep": 12,
+    "s": 262,
+    "cn": "目黑不动尊"
+  },
+  {
+    "id": "5disoun",
+    "name": "目黑不動尊",
+    "image": "https://image.xinu.ink/pic/data/822/images/5disoun_1758711898118.jpg",
+    "geo": [
+      35.628523,
+      139.708186
+    ],
+    "ep": 12,
+    "s": 268,
+    "cn": "目黑不动尊"
+  },
+  {
+    "id": "v70i807fp",
+    "name": "目黑不動尊",
+    "image": "https://image.xinu.ink/pic/data/822/images/v70i807fp-1746148166654.jpg",
+    "geo": [
+      35.628111,
+      139.708278
+    ],
+    "ep": 12,
+    "s": 271,
+    "cn": "目黑不动尊"
   }
 ]

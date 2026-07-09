@@ -504,5 +504,28 @@
       35.7926,
       140.1372
     ]
+  },
+  {
+    "id": "ofxx4vdes",
+    "name": "北総花の丘公園 花と緑の文化館",
+    "image": "https://image.xinu.ink/pic/data/728/images/ofxx4vdes-1727099188496.jpg",
+    "geo": [
+      35.79982,
+      140.123915
+    ],
+    "ep": 2,
+    "s": 36
+  },
+  {
+    "id": "p9l97lqpm",
+    "name": "戸神台１丁目",
+    "image": "https://image.xinu.ink/pic/data/728/images/p9l97lqpm-1729422542512.jpg",
+    "geo": [
+      35.794667,
+      140.119201
+    ],
+    "ep": 4,
+    "s": 891,
+    "cn": "戸神台１丁目"
   }
 ]

@@ -592,5 +592,163 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pp4r2za4j",
+    "name": "鳩森八幡神社",
+    "image": "https://image.xinu.ink/pic/data/830/images/pp4r2za4j_1730640493867.jpg",
+    "geo": [
+      35.677752,
+      139.709432
+    ],
+    "ep": 4,
+    "s": 285,
+    "cn": "鸠森八幡神社"
+  },
+  {
+    "id": "pr70nhhas",
+    "name": "旬喫茶パンエス",
+    "image": "https://image.xinu.ink/pic/data/830/images/pr70nhhas_1730802100468.jpg",
+    "geo": [
+      35.667273,
+      139.703959
+    ],
+    "ep": 3,
+    "s": 478,
+    "origin": "是贝比啊",
+    "originURL": "https://www.bilibili.com/video/BV1zeyDYZERz"
+  },
+  {
+    "id": "pwjf577pb",
+    "name": "外滩",
+    "image": "https://image.xinu.ink/pic/data/830/images/pwjf577pb-1731220937825.jpg",
+    "geo": [
+      31.237365,
+      121.486852
+    ],
+    "ep": 5,
+    "s": 972,
+    "cn": "外滩"
+  },
+  {
+    "id": "pwl1vl51q",
+    "name": "东方明珠电视塔",
+    "image": "https://image.xinu.ink/pic/data/830/images/pwl1vl51q-1731224484756.jpg",
+    "geo": [
+      31.239639,
+      121.495933
+    ],
+    "ep": 5,
+    "s": 925,
+    "cn": "东方明珠电视塔"
+  },
+  {
+    "id": "pwjh24h1l",
+    "name": "豫园",
+    "image": "https://image.xinu.ink/pic/data/830/images/pwjh24h1l-1731221048720.jpg",
+    "geo": [
+      31.22893,
+      121.487435
+    ],
+    "ep": 5,
+    "s": 850,
+    "cn": "豫园"
+  },
+  {
+    "id": "pwkdzz9mp",
+    "name": "豫园",
+    "image": "https://image.xinu.ink/pic/data/830/images/pwkdzz9mp-1731223036636.jpg",
+    "geo": [
+      31.227687,
+      121.486631
+    ],
+    "ep": 5,
+    "s": 857,
+    "cn": "豫园"
+  },
+  {
+    "id": "pwkg42f71",
+    "name": "豫园",
+    "image": "https://image.xinu.ink/pic/data/830/images/pwkg42f71-1731223161889.jpg",
+    "geo": [
+      31.227723,
+      121.487524
+    ],
+    "ep": 5,
+    "s": 876,
+    "cn": "豫园"
+  },
+  {
+    "id": "pwk8489qn",
+    "name": "豫园",
+    "image": "https://image.xinu.ink/pic/data/830/images/pwk8489qn-1731222862420.jpg",
+    "geo": [
+      31.227904,
+      121.487547
+    ],
+    "ep": 5,
+    "s": 883,
+    "cn": "豫园"
+  },
+  {
+    "id": "pwi5cdm12",
+    "name": "田子坊",
+    "image": "https://image.xinu.ink/pic/data/830/images/pwi5cdm12-1731218177046.jpg",
+    "geo": [
+      31.209584,
+      121.463733
+    ],
+    "ep": 5,
+    "mark": "在三号门进去第一个交叉口看向左手边",
+    "origin": "武昌鱼",
+    "cn": "田子坊"
+  },
+  {
+    "id": "pwknvqqjd",
+    "name": "田子坊",
+    "image": "https://image.xinu.ink/pic/data/830/images/pwknvqqjd-1731223748859.jpg",
+    "geo": [
+      31.209735,
+      121.46371
+    ],
+    "ep": 5,
+    "s": 930,
+    "cn": "田子坊"
+  },
+  {
+    "id": "pwkkp4lj9",
+    "name": "田子坊",
+    "image": "https://image.xinu.ink/pic/data/830/images/pwkkp4lj9-1731223477743.jpg",
+    "geo": [
+      31.210388,
+      121.463953
+    ],
+    "ep": 5,
+    "s": 932,
+    "cn": "田子坊"
+  },
+  {
+    "id": "pwkqtzusy",
+    "name": "田子坊",
+    "image": "https://image.xinu.ink/pic/data/830/images/pwkqtzusy-1731223821341.jpg",
+    "geo": [
+      31.209593,
+      121.463761
+    ],
+    "ep": 5,
+    "s": 942,
+    "cn": "田子坊"
+  },
+  {
+    "id": "pwyj35alc",
+    "name": "新天地",
+    "image": "https://image.xinu.ink/pic/data/830/images/pwyj35alc_1731253811561.jpg",
+    "geo": [
+      31.222967,
+      121.470047
+    ],
+    "ep": 6,
+    "s": 594,
+    "folder": "上海周边"
   }
 ]

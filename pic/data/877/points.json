@@ -4440,5 +4440,209 @@
       35.5627,
       135.1867
     ]
+  },
+  {
+    "id": "2vr379n",
+    "name": "羽黒山神社鳥居",
+    "image": "https://image.xinu.ink/pic/data/877/images/2vr379n_1753283870523.jpg",
+    "geo": [
+      37.479363,
+      139.961673
+    ],
+    "ep": 1,
+    "s": 977,
+    "folder": "東山温泉"
+  },
+  {
+    "id": "2vrbu3m",
+    "name": "松島海岸駅",
+    "image": "https://image.xinu.ink/pic/data/877/images/2vrbu3m_1753284276757.jpg",
+    "geo": [
+      38.368381,
+      141.058898
+    ],
+    "ep": 2,
+    "s": 292,
+    "folder": "松島"
+  },
+  {
+    "id": "2vrmo4f",
+    "name": "瑞巌寺の庫裡 門",
+    "image": "https://image.xinu.ink/pic/data/877/images/2vrmo4f_1753285221455.jpg",
+    "geo": [
+      38.372135,
+      141.060388
+    ],
+    "ep": 2,
+    "s": 537,
+    "folder": "松島"
+  },
+  {
+    "id": "2vrrr8k",
+    "name": "うな真石田屋 二階",
+    "image": "https://image.xinu.ink/pic/data/877/images/2vrrr8k_1753285017411.jpg",
+    "geo": [
+      38.370673,
+      141.065433
+    ],
+    "ep": 2,
+    "s": 678,
+    "folder": "松島"
+  },
+  {
+    "id": "1zrfqmc",
+    "name": "潮岬灯台",
+    "image": "https://image.xinu.ink/pic/data/877/images/1zrfqmc-1751349554126.jpg",
+    "geo": [
+      33.437581,
+      135.754792
+    ],
+    "ep": 9,
+    "s": 895,
+    "mark": "日本十六座可以上去参观的灯塔之一",
+    "folder": "串本海岸"
+  },
+  {
+    "id": "1zrhjay",
+    "name": "潮岬灯台",
+    "image": "https://image.xinu.ink/pic/data/877/images/1zrhjay-1751349640929.jpg",
+    "geo": [
+      33.437618,
+      135.754464
+    ],
+    "ep": 9,
+    "s": 899,
+    "folder": "串本海岸"
+  },
+  {
+    "id": "1zrnoln",
+    "name": "本州最南端",
+    "image": "https://image.xinu.ink/pic/data/877/images/1zrnoln-1751349921404.jpg",
+    "geo": [
+      33.435961,
+      135.762252
+    ],
+    "ep": 9,
+    "s": 1016,
+    "folder": "串本海岸"
+  },
+  {
+    "id": "2dzkxq2",
+    "name": "若松屋",
+    "image": "https://image.xinu.ink/pic/data/877/images/2dzkxq2-1752209748568.jpg",
+    "geo": [
+      34.488375,
+      136.707157
+    ],
+    "ep": 7,
+    "s": 253,
+    "folder": "伊勢"
+  },
+  {
+    "id": "2e07fod",
+    "name": "夫婦岩",
+    "image": "https://image.xinu.ink/pic/data/877/images/2e07fod-1752210811976.jpg",
+    "geo": [
+      34.509099,
+      136.788125
+    ],
+    "ep": 7,
+    "s": 856,
+    "folder": "伊勢"
+  },
+  {
+    "id": "2e14inx",
+    "name": "バスタ新宿　C7",
+    "image": "https://image.xinu.ink/pic/data/877/images/2e14inx-1752212336838.jpg",
+    "geo": [
+      35.68825,
+      139.700638
+    ],
+    "ep": 7,
+    "s": 1220
+  },
+  {
+    "id": "2ekp382",
+    "name": "JR大阪駅 桜橋口",
+    "image": "https://image.xinu.ink/pic/data/877/images/2ekp382-1752245221714.jpg",
+    "geo": [
+      34.701372,
+      135.49453
+    ],
+    "ep": 8,
+    "s": 260
+  },
+  {
+    "id": "5ebophg",
+    "name": "もり食堂内",
+    "image": "https://image.xinu.ink/pic/data/877/images/5ebophg-1758760427575.jpg",
+    "geo": [
+      36.649384,
+      140.185347
+    ],
+    "ep": 5,
+    "s": 771,
+    "folder": "那須烏山"
+  },
+  {
+    "id": "5ebp1ls",
+    "name": "もり食堂内",
+    "image": "https://image.xinu.ink/pic/data/877/images/5ebp1ls-1758760437403.jpg",
+    "geo": [
+      36.649384,
+      140.185375
+    ],
+    "ep": 5,
+    "s": 811,
+    "folder": "那須烏山"
+  },
+  {
+    "id": "93ztdvc",
+    "name": "antenna Coffee House",
+    "image": "https://image.xinu.ink/pic/data/877/images/93ztdvc-1766842958589.jpg",
+    "geo": [
+      34.408289,
+      133.199804
+    ],
+    "s": 1171,
+    "mark": "右侧建筑为antenna Coffee House",
+    "folder": "尾道",
+    "cn": "antenna Coffee House 前"
+  },
+  {
+    "id": "941iwm7",
+    "name": "源平合戦総門碑",
+    "image": "https://image.xinu.ink/pic/data/877/images/941iwm7-1766845836551.jpg",
+    "geo": [
+      34.345558,
+      134.122284
+    ],
+    "ep": 3,
+    "s": 645,
+    "folder": "八栗"
+  },
+  {
+    "id": "941jlix",
+    "name": "源平合戦総門碑",
+    "image": "https://image.xinu.ink/pic/data/877/images/941jlix-1766845856994.jpg",
+    "geo": [
+      34.345585,
+      134.122293
+    ],
+    "ep": 3,
+    "s": 642,
+    "folder": "八栗"
+  },
+  {
+    "id": "941m86t",
+    "name": "中村節朗石材",
+    "image": "https://image.xinu.ink/pic/data/877/images/941m86t-1766845981528.jpg",
+    "geo": [
+      34.350766,
+      134.128309
+    ],
+    "ep": 3,
+    "s": 654,
+    "folder": "八栗"
   }
 ]

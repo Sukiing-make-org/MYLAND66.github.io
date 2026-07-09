@@ -322,5 +322,181 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p10p7baan",
+    "name": "維新の道",
+    "image": "https://image.xinu.ink/pic/data/871/images/p10p7baan_1728750959968.jpg",
+    "geo": [
+      34.999443,
+      135.782578
+    ],
+    "ep": 1,
+    "s": 56,
+    "cn": "维新之道"
+  },
+  {
+    "id": "p12hnge5q",
+    "name": "維新の道",
+    "image": "https://image.xinu.ink/pic/data/871/images/p12hnge5q_1728754846836_c16v9.jpg",
+    "geo": [
+      34.999429,
+      135.78271
+    ],
+    "ep": 1,
+    "s": 61,
+    "mark": "可以看出原型与画面左侧类似，但入口处并没有茂密的树林和鸟居",
+    "cn": "维新之道"
+  },
+  {
+    "id": "p13o85t85",
+    "name": "贵船神社",
+    "image": "https://image.xinu.ink/pic/data/871/images/p13o85t85_1728757359865_c16v9.jpg",
+    "geo": [
+      35.121518,
+      135.763102
+    ],
+    "ep": "OP1",
+    "cn": "贵船神社"
+  },
+  {
+    "id": "p5oaxudac",
+    "name": "三条大橋",
+    "image": "https://image.xinu.ink/pic/data/871/images/p5oaxudac_1729115760251_c16v9.jpg",
+    "geo": [
+      35.009035,
+      135.771733
+    ],
+    "ep": 3,
+    "s": 216,
+    "mark": "差不多是从四条大桥北眺的视角",
+    "cn": "三条大桥"
+  },
+  {
+    "id": "p5slj4nif",
+    "name": "三条大橋",
+    "image": "https://image.xinu.ink/pic/data/871/images/p5slj4nif_1729125149311_c16v9.jpg",
+    "geo": [
+      35.009052,
+      135.771865
+    ],
+    "ep": 3,
+    "s": 951,
+    "cn": "三条大桥"
+  },
+  {
+    "id": "p5sm454c9",
+    "name": "三条大橋",
+    "image": "https://image.xinu.ink/pic/data/871/images/p5sm454c9_1729125155259_c16v9.jpg",
+    "geo": [
+      35.009087,
+      135.771752
+    ],
+    "ep": 3,
+    "s": 966,
+    "cn": "三条大桥"
+  },
+  {
+    "id": "p5so8cu55",
+    "name": "三条大橋",
+    "image": "https://image.xinu.ink/pic/data/871/images/p5so8cu55_1729125236665_c16v9.jpg",
+    "geo": [
+      35.009097,
+      135.771826
+    ],
+    "ep": 3,
+    "s": 945,
+    "cn": "三条大桥"
+  },
+  {
+    "id": "p5ocndtxt",
+    "name": "三条大橋",
+    "image": "https://image.xinu.ink/pic/data/871/images/p5ocndtxt_1729115826341_c16v9.jpg",
+    "geo": [
+      35.007101,
+      135.772095
+    ],
+    "ep": 3,
+    "s": 260,
+    "cn": "鸭川东岸 三条大桥南"
+  },
+  {
+    "id": "p5sk6eq0i",
+    "name": "三条大橋",
+    "image": "https://image.xinu.ink/pic/data/871/images/p5sk6eq0i_1729124985435_c16v9.jpg",
+    "geo": [
+      35.008937,
+      135.772081
+    ],
+    "cn": "鸭川东岸 三条大桥南"
+  },
+  {
+    "id": "p5sjg722h",
+    "name": "Fluffy'scafe",
+    "image": "https://image.xinu.ink/pic/data/871/images/p5sjg722h_1729124943885_c16v9.jpg",
+    "geo": [
+      35.005857,
+      135.768233
+    ],
+    "ep": 3,
+    "s": 832
+  },
+  {
+    "id": "p63oagib3",
+    "name": "Fluffy'scafe",
+    "image": "https://image.xinu.ink/pic/data/871/images/p63oagib3_1729149175628.jpg",
+    "geo": [
+      35.005956,
+      135.768227
+    ],
+    "ep": 3,
+    "s": 850
+  },
+  {
+    "id": "p5zepaise",
+    "name": "南神具株式会社",
+    "image": "https://image.xinu.ink/pic/data/871/images/p5zepaise_1729139962143_c16v9.jpg",
+    "geo": [
+      34.96743,
+      135.772296
+    ],
+    "ep": 3,
+    "s": 1169
+  },
+  {
+    "id": "p61gjyy1d",
+    "name": "根上りの松",
+    "image": "https://image.xinu.ink/pic/data/871/images/p61gjyy1d_1729144375438_c16v9.jpg",
+    "geo": [
+      34.966848,
+      135.775374
+    ],
+    "ep": 3,
+    "s": 1065,
+    "cn": "根上りの松附近"
+  },
+  {
+    "id": "p61sxe7bg",
+    "name": "根上りの松",
+    "image": "https://image.xinu.ink/pic/data/871/images/p61sxe7bg_1729145147596.jpg",
+    "geo": [
+      34.966792,
+      135.775401
+    ],
+    "ep": 3,
+    "s": 1089,
+    "cn": "根上りの松附近"
+  },
+  {
+    "id": "p61ssce4y",
+    "name": "根上りの松",
+    "image": "https://image.xinu.ink/pic/data/871/images/p61ssce4y_1729145160961_c16v9.jpg",
+    "geo": [
+      34.966806,
+      135.775398
+    ],
+    "ep": 3,
+    "s": 1074,
+    "cn": "根上りの松附近"
   }
 ]

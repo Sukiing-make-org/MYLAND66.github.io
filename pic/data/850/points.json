@@ -154,5 +154,62 @@
     ],
     "origin": "Anitabi@AmaiAya",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lrlnsc4dr",
+    "name": "友美堂付近階段",
+    "image": "https://image.xinu.ink/pic/data/850/images/lrlnsc4dr_1719549976403.jpg",
+    "geo": [
+      35.704915,
+      139.62325
+    ],
+    "ep": "ED",
+    "s": 24
+  },
+  {
+    "id": "lrlpvrkud",
+    "name": "ラ・コビエ荻窪横の階段",
+    "image": "https://image.xinu.ink/pic/data/850/images/lrlpvrkud_1719549989307.jpg",
+    "geo": [
+      35.703945,
+      139.624989
+    ],
+    "ep": "ED",
+    "s": 26,
+    "mark": "取景地应在旁边的楼梯处"
+  },
+  {
+    "id": "lrm30wnw7",
+    "name": "友美堂付近階段",
+    "image": "https://image.xinu.ink/pic/data/850/images/lrm30wnw7_1719550461979.jpg",
+    "geo": [
+      35.704939,
+      139.623261
+    ],
+    "ep": "ED",
+    "s": 31
+  },
+  {
+    "id": "lrlpw7bcq",
+    "name": "ラ・コビエ荻窪横の階段",
+    "image": "https://image.xinu.ink/pic/data/850/images/lrlpw7bcq_1719549992335.jpg",
+    "geo": [
+      35.703932,
+      139.624985
+    ],
+    "ep": "ED",
+    "s": 49,
+    "mark": "取景地在楼梯处，旧地址是旁边的两栋楼之间的间隙，并无楼梯"
+  },
+  {
+    "id": "lrlkl8stb",
+    "name": "コインパーク ラトラーム荻窪前の自販機",
+    "image": "https://image.xinu.ink/pic/data/850/images/lrlkl8stb_1719549965925.jpg",
+    "geo": [
+      35.706369,
+      139.622988
+    ],
+    "ep": "ED",
+    "s": 64
   }
 ]

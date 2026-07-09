@@ -576,5 +576,95 @@
     ],
     "origin": "@式守都",
     "originLink": "https://maps.app.goo.gl/khxAu4ZwLzTS8Jfg9"
+  },
+  {
+    "id": "oec0ohm2f",
+    "name": "新奥多摩街道入口交差点",
+    "image": "https://image.xinu.ink/pic/data/746/images/oec0ohm2f-1726973206891.jpg",
+    "geo": [
+      35.677303,
+      139.403135
+    ],
+    "ep": 3,
+    "s": 1251,
+    "origin": "@式守都",
+    "originURL": "https://furaba-animeseichi.blog.jp/archives/30207223.html"
+  },
+  {
+    "id": "oed291nf2",
+    "name": "JR中央線日野站",
+    "image": "https://image.xinu.ink/pic/data/746/images/oed291nf2-1726975413346.jpg",
+    "geo": [
+      35.679335,
+      139.394251
+    ],
+    "ep": 3,
+    "s": 362,
+    "origin": "@式守都",
+    "originURL": "https://furaba-animeseichi.blog.jp/archives/30207223.html"
+  },
+  {
+    "id": "oebral76r",
+    "name": "新奥多摩街道入口交差点",
+    "image": "https://image.xinu.ink/pic/data/746/images/oebral76r-1726972581091.jpg",
+    "geo": [
+      35.677493,
+      139.402738
+    ],
+    "ep": 1,
+    "s": 83,
+    "origin": "@式守都",
+    "originURL": "https://furaba-animeseichi.blog.jp/archives/30207223.html"
+  },
+  {
+    "id": "oebieapqj",
+    "name": "RED 日野教室前",
+    "image": "https://image.xinu.ink/pic/data/746/images/oebieapqj-1726972106940.jpg",
+    "geo": [
+      35.677552,
+      139.404813
+    ],
+    "ep": 3,
+    "s": 322,
+    "origin": "@式守都"
+  },
+  {
+    "id": "oep0anrgb",
+    "name": "秩父鉄道長瀞駅",
+    "image": "https://image.xinu.ink/pic/data/746/images/oep0anrgb-1727001452287.jpg",
+    "geo": [
+      36.095109,
+      139.112467
+    ],
+    "ep": 5,
+    "s": 1138,
+    "origin": "@式守都",
+    "originURL": "https://ameblo.jp/sukhoi31/entry-12741752127.html"
+  },
+  {
+    "id": "oergjj441",
+    "name": "子之神社",
+    "image": "https://image.xinu.ink/pic/data/746/images/oergjj441-1727006762447.jpg",
+    "geo": [
+      35.152093,
+      139.131692
+    ],
+    "ep": 6,
+    "s": 1000,
+    "origin": "フラバー@flyingbird1124",
+    "originURL": "https://furaba-animeseichi.blog.jp/archives/cat_412599.html"
+  },
+  {
+    "id": "oeqseejsj",
+    "name": "菅なかよし公園",
+    "image": "https://image.xinu.ink/pic/data/746/images/oeqseejsj-1727005302593.jpg",
+    "geo": [
+      35.63066,
+      139.540554
+    ],
+    "ep": 6,
+    "s": 772,
+    "origin": "フラバー@flyingbird1124",
+    "originURL": "https://furaba-animeseichi.blog.jp/archives/cat_412599.html"
   }
 ]

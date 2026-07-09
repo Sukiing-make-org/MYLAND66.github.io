@@ -216,5 +216,44 @@
       35.8075,
       139.6776
     ]
+  },
+  {
+    "id": "8f2a51bb",
+    "name": "伊香保温泉石段街",
+    "image": "https://image.xinu.ink/pic/data/903/images/8f2a51bb_1734964019740.jpg",
+    "geo": [
+      36.497009,
+      138.916213
+    ],
+    "ep": 12,
+    "s": 747,
+    "folder": "伊香保",
+    "cn": "伊香保温泉石段街"
+  },
+  {
+    "id": "r8biryyrg",
+    "name": "伊香保温泉石段街",
+    "image": "https://image.xinu.ink/pic/data/903/images/r8biryyrg_1734965208895.jpg",
+    "geo": [
+      36.49693,
+      138.916207
+    ],
+    "ep": 12,
+    "s": 748,
+    "folder": "伊香保",
+    "cn": "伊香保温泉石段街"
+  },
+  {
+    "id": "r8blg5pns",
+    "name": "伊香保温泉石段街",
+    "image": "https://image.xinu.ink/pic/data/903/images/r8blg5pns_1734965371038.jpg",
+    "geo": [
+      36.496833,
+      138.916178
+    ],
+    "ep": 12,
+    "s": 759,
+    "folder": "伊香保",
+    "cn": "伊香保温泉石段街"
   }
 ]

@@ -11,5 +11,27 @@
     ],
     "origin": "Anitabi@AmaiAya",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pp5urvxk5",
+    "name": "中野駅",
+    "image": "https://image.xinu.ink/pic/data/904/images/pp5urvxk5_1730642840108.jpg",
+    "geo": [
+      35.706261,
+      139.665775
+    ],
+    "ep": 5,
+    "s": 755
+  },
+  {
+    "id": "pp5v2c51g",
+    "name": "中野駅",
+    "image": "https://image.xinu.ink/pic/data/904/images/pp5v2c51g_1730642855201.jpg",
+    "geo": [
+      35.706279,
+      139.665775
+    ],
+    "ep": 5,
+    "s": 773
   }
 ]

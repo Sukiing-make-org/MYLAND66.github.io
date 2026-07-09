@@ -114,7 +114,7 @@
       ]
     }
   ],
-  "pointsLength": 20,
+  "pointsLength": 32,
   "imagesLength": 9,
   "local_id": 879,
   "region": [
@@ -122,5 +122,6 @@
     "东京都/東京都",
     "广岛县",
     "奈良縣"
-  ]
+  ],
+  "cat": "TV"
 }

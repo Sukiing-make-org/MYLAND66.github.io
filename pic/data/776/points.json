@@ -145,5 +145,26 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "m2kd5u4ix",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/776/images/m2kd5u4ix_1720408730338.jpg",
+    "geo": [
+      35.030401,
+      135.772134
+    ],
+    "cn": "河合桥"
+  },
+  {
+    "id": "fmfzxau",
+    "name": "鯖街道起点いづみ町商店街跡",
+    "image": "https://image.xinu.ink/pic/data/776/images/fmfzxau-1781019396371.jpg",
+    "geo": [
+      35.49518,
+      135.742572
+    ],
+    "ep": "6",
+    "cn": "鯖魚街道起点 泉町商店街"
   }
 ]

@@ -135,5 +135,115 @@
       35.6539,
       139.4778
     ]
+  },
+  {
+    "id": "rnulefh3i",
+    "name": "府中市马场东公园",
+    "image": "https://image.xinu.ink/pic/data/799/images/rnulefh3i-1736182206285.jpg",
+    "geo": [
+      35.674828,
+      139.48103
+    ],
+    "ep": 2,
+    "s": 15,
+    "mark": "该集00：00--04：07都在此处"
+  },
+  {
+    "id": "rnh33c5qx",
+    "name": "大国魂神社",
+    "image": "https://image.xinu.ink/pic/data/799/images/rnh33c5qx-1736152782662.jpg",
+    "geo": [
+      35.669616,
+      139.479099
+    ],
+    "ep": 5,
+    "s": 796
+  },
+  {
+    "id": "rnh5hutx5",
+    "name": "大国魂神社",
+    "image": "https://image.xinu.ink/pic/data/799/images/rnh5hutx5-1736152925171.jpg",
+    "geo": [
+      35.66869,
+      139.479046
+    ],
+    "ep": 5,
+    "s": 821
+  },
+  {
+    "id": "rnh7yqx87",
+    "name": "大国魂神社",
+    "image": "https://image.xinu.ink/pic/data/799/images/rnh7yqx87-1736153095701.jpg",
+    "geo": [
+      35.667394,
+      139.478991
+    ],
+    "ep": 5,
+    "s": 834
+  },
+  {
+    "id": "rnh7cqamu",
+    "name": "大国魂神社",
+    "image": "https://image.xinu.ink/pic/data/799/images/rnh7cqamu-1736153040306.jpg",
+    "geo": [
+      35.667383,
+      139.479003
+    ],
+    "ep": 5,
+    "s": 838
+  },
+  {
+    "id": "rngm9zluy",
+    "name": "府中公園",
+    "image": "https://image.xinu.ink/pic/data/799/images/rngm9zluy-1736151759698.jpg",
+    "geo": [
+      35.676496,
+      139.482627
+    ],
+    "ep": 8,
+    "s": 1038,
+    "mark": "该集16：12--17：52都在此处"
+  },
+  {
+    "id": "uh6g2h9cu",
+    "name": "大国魂神社",
+    "image": "https://image.xinu.ink/pic/data/799/images/uh6g2h9cu-1744122776418.jpg",
+    "geo": [
+      35.667849,
+      139.478928
+    ],
+    "mark": "门口有一模一样的石像"
+  },
+  {
+    "id": "uh6gxui1l",
+    "name": "大国魂神社",
+    "image": "https://image.xinu.ink/pic/data/799/images/uh6gxui1l-1744122816821.jpg",
+    "geo": [
+      35.667909,
+      139.478882
+    ],
+    "mark": "石像旁边，牌子不一定会摆出来"
+  },
+  {
+    "id": "uh6hosj3p",
+    "name": "大国魂神社",
+    "image": "https://image.xinu.ink/pic/data/799/images/uh6hosj3p-1744122861488.jpg",
+    "geo": [
+      35.668174,
+      139.478973
+    ],
+    "mark": "实地考察后只看到有一模一样的小吃摊棚子，没看到有类似石墙的背景。但看动画应该就是在去神社的路上。"
+  },
+  {
+    "id": "6eo57hy",
+    "name": "立飛",
+    "image": "https://image.xinu.ink/pic/data/799/images/6eo57hy-1760958148342.jpg",
+    "geo": [
+      35.714315,
+      139.417135
+    ],
+    "ep": "9",
+    "s": "17:05",
+    "cn": "立飞站"
   }
 ]

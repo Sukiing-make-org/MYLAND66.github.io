@@ -19,10 +19,16 @@
       ]
     }
   ],
-  "pointsLength": 6,
+  "pointsLength": 19,
   "imagesLength": 1,
   "local_id": 883,
   "region": [
     "Los Angeles County"
-  ]
+  ],
+  "cat": "TV",
+  "geo": [
+    34.075912,
+    -118.32053
+  ],
+  "zoom": 14.6
 }

@@ -130,5 +130,66 @@
     ],
     "origin": "Anitabi@Elm",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ua9lzgwri",
+    "name": "笠松競馬場",
+    "image": "https://image.xinu.ink/pic/data/744/images/ua9lzgwri-1743581152617.jpg",
+    "geo": [
+      35.372589,
+      136.7649
+    ],
+    "ep": 2,
+    "s": 30,
+    "folder": "《赛马娘 芦毛灰姑娘》笠松篇"
+  },
+  {
+    "id": "u9lve5yn7",
+    "name": "笠松競馬場",
+    "image": "https://image.xinu.ink/pic/data/744/images/u9lve5yn7-1743531897720.jpg",
+    "geo": [
+      35.370118,
+      136.766484
+    ],
+    "ep": 7,
+    "s": 9,
+    "folder": "《赛马娘 芦毛灰姑娘》笠松篇",
+    "cn": "笠松競馬場"
+  },
+  {
+    "id": "nm04juhu2",
+    "name": "笠松競馬場",
+    "image": "https://image.xinu.ink/pic/data/744/images/nm04juhu2-1724753326047.jpg",
+    "geo": [
+      35.372624,
+      136.766986
+    ],
+    "ep": 15,
+    "s": 28,
+    "mark": "‘北原，我真的赢了呦’‘中央有更适合小栗帽的舞台，去夺取天下吧！小栗帽！’（夹带私货中(~‾▿‾)~）",
+    "folder": "《赛马娘 芦毛灰姑娘》笠松篇",
+    "cn": "笠松競馬場"
+  },
+  {
+    "id": "5c8f8aw",
+    "name": "大井競馬場",
+    "image": "https://image.xinu.ink/pic/data/744/images/5c8f8aw-1758634069467.jpg",
+    "geo": [
+      35.59388,
+      139.74373
+    ],
+    "ep": "9卷（第77R）",
+    "s": "P24"
+  },
+  {
+    "id": "5c8kpuj",
+    "name": "大井競馬場",
+    "image": "https://image.xinu.ink/pic/data/744/images/5c8kpuj-1758634380924.jpg",
+    "geo": [
+      35.591825,
+      139.740804
+    ],
+    "ep": "9卷（第77R）",
+    "s": "P25"
   }
 ]

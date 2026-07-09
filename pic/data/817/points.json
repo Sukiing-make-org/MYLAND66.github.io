@@ -1417,5 +1417,231 @@
     ],
     "origin": "Anitabi@AmaiAya",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "b6jkhphrt",
+    "name": "淡嶋神社",
+    "image": "https://image.xinu.ink/pic/data/817/images/b6jkhphrt_1719598031522.jpg",
+    "geo": [
+      34.273708,
+      135.066591
+    ],
+    "ep": 2,
+    "s": 377
+  },
+  {
+    "id": "lswxm7dqv",
+    "name": "千駄ヶ谷トンネル内",
+    "image": "https://image.xinu.ink/pic/data/817/images/lswxm7dqv_1719652432372.jpg",
+    "geo": [
+      35.675418,
+      139.711592
+    ],
+    "ep": 7,
+    "s": 614
+  },
+  {
+    "id": "d2umj0qdx",
+    "name": "八王子城跡 御主殿の滝",
+    "image": "https://image.xinu.ink/pic/data/817/images/d2umj0qdx_1719634504569.jpg",
+    "geo": [
+      35.651957,
+      139.2566
+    ],
+    "ep": 12,
+    "s": 600
+  },
+  {
+    "id": "lrmpzq7yh",
+    "name": "八王子城跡 御主殿跡",
+    "image": "https://image.xinu.ink/pic/data/817/images/lrmpzq7yh_1719634584191.jpg",
+    "geo": [
+      35.652621,
+      139.256722
+    ],
+    "ep": 12,
+    "s": 1178
+  },
+  {
+    "id": "lsoqqhs4n",
+    "name": "八王子城跡 御主殿跡",
+    "image": "https://image.xinu.ink/pic/data/817/images/lsoqqhs4n_1719634602001.jpg",
+    "geo": [
+      35.65262,
+      139.256594
+    ],
+    "ep": 12,
+    "s": 1265
+  },
+  {
+    "id": "lsp81ibsq",
+    "name": "青梅市多摩川敷",
+    "image": "https://image.xinu.ink/pic/data/817/images/lsp81ibsq_1719635694823.jpg",
+    "geo": [
+      35.77718,
+      139.282738
+    ],
+    "ep": 13,
+    "s": 791
+  },
+  {
+    "id": "lspuz8ggc",
+    "name": "旧吹上隧道南側のカーブミラー",
+    "image": "https://image.xinu.ink/pic/data/817/images/lspuz8ggc_1719637036019.jpg",
+    "geo": [
+      35.815139,
+      139.250319
+    ],
+    "ep": 14,
+    "s": 357,
+    "cn": "旧吹上隧道南侧的凸面镜"
+  },
+  {
+    "id": "lspzkli38",
+    "name": "吹上トンネル",
+    "image": "https://image.xinu.ink/pic/data/817/images/lspzkli38_1719637313216.jpg",
+    "geo": [
+      35.815,
+      139.2505
+    ],
+    "ep": 15,
+    "s": 589,
+    "cn": "旧吹上隧道南侧"
+  },
+  {
+    "id": "e56anyun7",
+    "name": "将門塚",
+    "image": "https://image.xinu.ink/pic/data/817/images/e56anyun7_1719577193390.jpg",
+    "geo": [
+      35.687289,
+      139.762764
+    ],
+    "ep": 16,
+    "s": 793,
+    "mark": "祭祀日本三大怨灵之一平将门首级的冢。",
+    "cn": "平将门首冢"
+  },
+  {
+    "id": "lsm7smqii",
+    "name": "旧岩淵水門前 階段",
+    "image": "https://image.xinu.ink/pic/data/817/images/lsm7smqii_1719629109126.jpg",
+    "geo": [
+      35.786048,
+      139.729956
+    ],
+    "ep": 20,
+    "s": 344,
+    "cn": "旧岩渊水门前 楼梯"
+  },
+  {
+    "id": "f3fl5qx8z",
+    "name": "旧岩淵水門",
+    "image": "https://image.xinu.ink/pic/data/817/images/f3fl5qx8z_1719627056645.jpg",
+    "geo": [
+      35.786118,
+      139.731246
+    ],
+    "ep": 20,
+    "s": 635,
+    "mark": "作品中被称为「旧I水门」，危险等级S。",
+    "cn": "旧岩渊水门"
+  },
+  {
+    "id": "lslxps2ss",
+    "name": "荒川赤水門緑地",
+    "image": "https://image.xinu.ink/pic/data/817/images/lslxps2ss_1719628496121.jpg",
+    "geo": [
+      35.787558,
+      139.731091
+    ],
+    "ep": 20,
+    "s": 818,
+    "cn": "荒川赤水门绿地"
+  },
+  {
+    "id": "lsm22esvh",
+    "name": "旧岩淵水門",
+    "image": "https://image.xinu.ink/pic/data/817/images/lsm22esvh_1719628761821.jpg",
+    "geo": [
+      35.786932,
+      139.730536
+    ],
+    "ep": 20,
+    "s": 1212,
+    "cn": "旧岩渊水门"
+  },
+  {
+    "id": "lsm29ym4j",
+    "name": "旧岩淵水門",
+    "image": "https://image.xinu.ink/pic/data/817/images/lsm29ym4j_1719628777404.jpg",
+    "geo": [
+      35.78665,
+      139.730394
+    ],
+    "ep": 20,
+    "s": 1218,
+    "cn": "旧岩渊水门"
+  },
+  {
+    "id": "lsmdpgt37",
+    "name": "荒川赤水門緑地 西南",
+    "image": "https://image.xinu.ink/pic/data/817/images/lsmdpgt37_1719629460524.jpg",
+    "geo": [
+      35.787103,
+      139.730584
+    ],
+    "ep": 21,
+    "s": 562,
+    "cn": "荒川赤水门绿地 西南"
+  },
+  {
+    "id": "lsmfhti8s",
+    "name": "旧岩淵水門 通路",
+    "image": "https://image.xinu.ink/pic/data/817/images/lsmfhti8s_1719629572087.jpg",
+    "geo": [
+      35.786693,
+      139.730579
+    ],
+    "ep": 21,
+    "s": 685,
+    "cn": "旧岩渊水门 水门通道"
+  },
+  {
+    "id": "lsmg6o3kh",
+    "name": "荒川赤水門緑地",
+    "image": "https://image.xinu.ink/pic/data/817/images/lsmg6o3kh_1719629618519.jpg",
+    "geo": [
+      35.787393,
+      139.73094
+    ],
+    "ep": 21,
+    "s": 802,
+    "cn": "荒川赤水门绿地"
+  },
+  {
+    "id": "lsxm4yl69",
+    "name": "赤羽警察署",
+    "image": "https://image.xinu.ink/pic/data/817/images/lsxm4yl69_1719654025946.jpg",
+    "geo": [
+      35.774193,
+      139.733713
+    ],
+    "ep": 22,
+    "s": 1268,
+    "mark": "拍摄位置在警察署停车场内。"
+  },
+  {
+    "id": "lrqlt8yix",
+    "name": "天ヶ瀬ダム",
+    "image": "https://image.xinu.ink/pic/data/817/images/lrqlt8yix_1719568025620.jpg",
+    "geo": [
+      34.881055,
+      135.827841
+    ],
+    "ep": 25,
+    "s": 464,
+    "mark": "作品中被称为「A水坝」，危险等级A。",
+    "folder": "京都·弑逆桔梗",
+    "cn": "天濑水坝"
   }
 ]

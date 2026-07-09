@@ -264,5 +264,146 @@
     ],
     "origin": "Anitabi@初晨",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5dh2yal",
+    "name": "ファミリーマート 原町二丁目店",
+    "image": "https://image.xinu.ink/pic/data/879/images/5dh2yal_1758709014638.jpg",
+    "geo": [
+      35.613904,
+      139.6916
+    ],
+    "ep": 16,
+    "s": 516,
+    "cn": "全家便利店原町二丁目店"
+  },
+  {
+    "id": "5di44jq",
+    "name": "洗足駅前ふれあい広場",
+    "image": "https://image.xinu.ink/pic/data/879/images/5di44jq_1758710749028.jpg",
+    "geo": [
+      35.610688,
+      139.694625
+    ],
+    "ep": 16,
+    "s": 919
+  },
+  {
+    "id": "1a6lpn3",
+    "name": "洗足駅前ふれあい広場",
+    "image": "https://image.xinu.ink/pic/data/879/images/1a6lpn3-1749804042253.jpg",
+    "geo": [
+      35.610658,
+      139.694627
+    ],
+    "ep": 16,
+    "s": 926
+  },
+  {
+    "id": "5di6oes",
+    "name": "恵比寿スカイウォーク",
+    "image": "https://image.xinu.ink/pic/data/879/images/5di6oes_1758710868462.jpg",
+    "geo": [
+      35.643168,
+      139.712007
+    ],
+    "ep": 17,
+    "s": 821,
+    "cn": "惠比寿skywalk"
+  },
+  {
+    "id": "1a6lpna",
+    "name": "恵比寿ガーデンプレイス",
+    "image": "https://image.xinu.ink/pic/data/879/images/1a6lpna-1749804087397.jpg",
+    "geo": [
+      35.641875,
+      139.714336
+    ],
+    "ep": 17,
+    "s": 853,
+    "mark": "三角",
+    "cn": "惠比寿花园广场"
+  },
+  {
+    "id": "1a6lpnp",
+    "name": "恵比寿ガーデンプレイス",
+    "image": "https://image.xinu.ink/pic/data/879/images/1a6lpnp-1749804087401.jpg",
+    "geo": [
+      35.641913,
+      139.714384
+    ],
+    "ep": 17,
+    "s": 867,
+    "cn": "惠比寿花园广场"
+  },
+  {
+    "id": "5dia4np",
+    "name": "恵比寿ガーデンプレイス",
+    "image": "https://image.xinu.ink/pic/data/879/images/5dia4np_1758711029964.jpg",
+    "geo": [
+      35.641326,
+      139.71385
+    ],
+    "ep": 17,
+    "s": 909,
+    "cn": "惠比寿花园广场"
+  },
+  {
+    "id": "5diada9",
+    "name": "恵比寿ガーデンプレイス",
+    "image": "https://image.xinu.ink/pic/data/879/images/5diada9_1758711040707.jpg",
+    "geo": [
+      35.641311,
+      139.713858
+    ],
+    "ep": 17,
+    "s": 1010,
+    "cn": "惠比寿花园广场"
+  },
+  {
+    "id": "5didis3",
+    "name": "竹下通",
+    "image": "https://image.xinu.ink/pic/data/879/images/5didis3_1758711187133.jpg",
+    "geo": [
+      35.671201,
+      139.704836
+    ],
+    "ep": 19,
+    "s": 1108
+  },
+  {
+    "id": "1a6lpn7",
+    "name": "洗足駅前ふれあい広場",
+    "image": "https://image.xinu.ink/pic/data/879/images/1a6lpn7-1749804119080.jpg",
+    "geo": [
+      35.610702,
+      139.694652
+    ],
+    "ep": 19,
+    "s": 1317,
+    "mark": "在广场中间往洗足站方向看"
+  },
+  {
+    "id": "1a6lpn2",
+    "name": "洗足駅前ふれあい広場",
+    "image": "https://image.xinu.ink/pic/data/879/images/1a6lpn2-1749804119079.jpg",
+    "geo": [
+      35.610661,
+      139.694605
+    ],
+    "ep": 19,
+    "s": 1371,
+    "mark": "在广场中间往停车场方向看"
+  },
+  {
+    "id": "1a6lptf",
+    "name": "洗足駅前ふれあい広場",
+    "image": "https://image.xinu.ink/pic/data/879/images/1a6lptf-1749804042253.jpg",
+    "geo": [
+      35.610675,
+      139.694648
+    ],
+    "ep": 22,
+    "s": 177
   }
 ]

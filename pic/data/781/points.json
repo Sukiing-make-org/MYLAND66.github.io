@@ -153,5 +153,70 @@
       35.2729,
       139.5697
     ]
+  },
+  {
+    "id": "pak2vz9ja",
+    "name": "森戸神社",
+    "image": "https://image.xinu.ink/pic/data/781/images/pak2vz9ja-1729498348694.jpg",
+    "geo": [
+      35.272495,
+      139.569965
+    ],
+    "ep": 6,
+    "s": 896,
+    "mark": "巫女长瀞要前辈洗手",
+    "cn": "森戸神社"
+  },
+  {
+    "id": "pak82kaej",
+    "name": "森戸神社",
+    "image": "https://image.xinu.ink/pic/data/781/images/pak82kaej-1729498655056.jpg",
+    "geo": [
+      35.272609,
+      139.569804
+    ],
+    "ep": 6,
+    "s": 1000,
+    "mark": "长瀞同学当巫女的地方",
+    "cn": "森戸神社"
+  },
+  {
+    "id": "pak9ibrqe",
+    "name": "森戸神社",
+    "image": "https://image.xinu.ink/pic/data/781/images/pak9ibrqe-1729498741892.jpg",
+    "geo": [
+      35.272534,
+      139.570092
+    ],
+    "ep": 6,
+    "s": 1134,
+    "mark": "前辈试图邀请长瀞去参拜",
+    "cn": "森戸神社"
+  },
+  {
+    "id": "pakbwzbrz",
+    "name": "森戸神社",
+    "image": "https://image.xinu.ink/pic/data/781/images/pakbwzbrz-1729498886305.jpg",
+    "geo": [
+      35.272769,
+      139.569765
+    ],
+    "ep": 6,
+    "s": 1251,
+    "mark": "长瀞同学和前辈一起参拜结缘神社",
+    "cn": "森戸神社"
+  },
+  {
+    "id": "pakp0xve5",
+    "name": "ホワイトワールド尾瀬岩鞍",
+    "image": "https://image.xinu.ink/pic/data/781/images/pakp0xve5-1729499680805.jpg",
+    "geo": [
+      36.816788,
+      139.22094
+    ],
+    "ep": 7,
+    "s": 452,
+    "mark": "长瀞同学滑雪处",
+    "cn": "尾濑岩仓白色世界滑雪场"
   }
 ]

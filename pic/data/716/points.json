@@ -310,5 +310,81 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "of0jvo12c",
+    "name": "大宮SONIC CITY",
+    "image": "https://image.xinu.ink/pic/data/716/images/of0jvo12c-1727026547937.jpg",
+    "geo": [
+      35.904782,
+      139.619705
+    ],
+    "ep": 1,
+    "s": 602,
+    "mark": "大宮SONIC CITY的南侧，朝西北方向",
+    "folder": "大宮SONIC CITY"
+  },
+  {
+    "id": "of0m2n8v9",
+    "name": "大宮SONIC CITY",
+    "image": "https://image.xinu.ink/pic/data/716/images/of0m2n8v9-1727026675616.jpg",
+    "geo": [
+      35.904807,
+      139.619697
+    ],
+    "ep": 1,
+    "s": 608,
+    "mark": "大宮SONIC CITY的南侧",
+    "folder": "大宮SONIC CITY"
+  },
+  {
+    "id": "ofykk0uyr",
+    "name": "神田駅北口",
+    "image": "https://image.xinu.ink/pic/data/716/images/ofykk0uyr-1727100655974.jpg",
+    "geo": [
+      35.692461,
+      139.770921
+    ],
+    "ep": 5,
+    "s": 552,
+    "folder": "神田駅"
+  },
+  {
+    "id": "ofymrq6hf",
+    "name": "神田駅北口",
+    "image": "https://image.xinu.ink/pic/data/716/images/ofymrq6hf-1727100737307.jpg",
+    "geo": [
+      35.692396,
+      139.770892
+    ],
+    "ep": 5,
+    "s": 556,
+    "folder": "神田駅"
+  },
+  {
+    "id": "ofjhxpsqx",
+    "name": "北鴻巣駅 駅前公园",
+    "image": "https://image.xinu.ink/pic/data/716/images/ofjhxpsqx-1727067878801.jpg",
+    "geo": [
+      36.085622,
+      139.477716
+    ],
+    "ep": 8,
+    "s": 316,
+    "mark": "駅前公园",
+    "folder": "北鴻巣駅"
+  },
+  {
+    "id": "oezt9trf8",
+    "name": "マリンゲート入口",
+    "image": "https://image.xinu.ink/pic/data/716/images/oezt9trf8-1727025107539.jpg",
+    "geo": [
+      35.339865,
+      139.64558
+    ],
+    "ep": 8,
+    "s": 1179,
+    "mark": "マリンゲート入口往西走，靠近马路口的位置\n坐标：35°20'23.7\"N 139°38'44.0\"E",
+    "folder": "八景島"
   }
 ]

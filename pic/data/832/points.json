@@ -545,5 +545,62 @@
     ],
     "origin": "Anitabi@嵯峨",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "j8p3wnuc3",
+    "name": "民泊​ゲストハウス​吾野​宿&​カフェ​レストラン",
+    "image": "https://image.xinu.ink/pic/data/832/images/j8p3wnuc3-1712425909990.jpg",
+    "geo": [
+      35.910058,
+      139.231224
+    ],
+    "ep": 1,
+    "s": 632
+  },
+  {
+    "id": "k8vkcfb8d",
+    "name": "高麗",
+    "image": "https://image.xinu.ink/pic/data/832/images/k8vkcfb8d_1715261084631.jpg",
+    "geo": [
+      35.881889,
+      139.304675
+    ],
+    "ep": 4,
+    "s": 601,
+    "cn": "高丽"
+  },
+  {
+    "id": "k8w0xislu",
+    "name": "稲荷山公園駅",
+    "image": "https://image.xinu.ink/pic/data/832/images/k8w0xislu_1715262063227.jpg",
+    "geo": [
+      35.845006,
+      139.398033
+    ],
+    "ep": 5,
+    "s": 597,
+    "cn": "稲荷山公园站"
+  },
+  {
+    "id": "k8w1ntasr",
+    "name": "稲荷山公園駅",
+    "image": "https://image.xinu.ink/pic/data/832/images/k8w1ntasr_1715262116221.jpg",
+    "geo": [
+      35.844892,
+      139.398969
+    ],
+    "ep": 5,
+    "s": 1287,
+    "cn": "稲荷山公园站"
+  },
+  {
+    "id": "5fatbxl",
+    "name": "吾野",
+    "image": "https://image.xinu.ink/pic/data/832/images/5fatbxl-1758819427809.jpg",
+    "geo": [
+      35.911706,
+      139.221471
+    ],
+    "ep": 1
   }
 ]

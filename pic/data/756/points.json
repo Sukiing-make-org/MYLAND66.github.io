@@ -268,5 +268,137 @@
       37.6325,
       138.955
     ]
+  },
+  {
+    "id": "k7e4u02p1",
+    "name": "三条ものづくり学校",
+    "image": "",
+    "geo": [
+      37.619171,
+      138.948467
+    ],
+    "mark": "工具マンホールのスタンプがある(マンホールは街中にあります)",
+    "folder": "市内"
+  },
+  {
+    "id": "k7e4u02xa",
+    "name": "鳳食堂",
+    "image": "",
+    "geo": [
+      37.624641,
+      138.94015
+    ],
+    "mark": "ライスインカレーラーメンのお店(他にも提供しているお店があるかも？)",
+    "folder": "市内"
+  },
+  {
+    "id": "k7e4u0308",
+    "name": "三条鍛冶道場",
+    "image": "",
+    "geo": [
+      37.632824,
+      138.953476
+    ],
+    "mark": "ものづくり体験でDo It Yourself!!",
+    "folder": "市内"
+  },
+  {
+    "id": "k7e4u02ql",
+    "name": "三条サカイボウル",
+    "image": "",
+    "geo": [
+      37.62175,
+      138.960231
+    ],
+    "mark": "昔ながらのボウリング場。",
+    "folder": "市内"
+  },
+  {
+    "id": "k7e4u032c",
+    "name": "むじん商店",
+    "image": "",
+    "geo": [
+      37.628607,
+      138.964888
+    ],
+    "mark": "24時間営業の無人販売所。アニメコラボのコーヒーや釘アイスがあります。",
+    "folder": "市内"
+  },
+  {
+    "id": "n58w86gsv",
+    "name": "野積海水浴場",
+    "image": "https://image.xinu.ink/pic/data/756/images/n58w86gsv_1723439951082.jpg",
+    "geo": [
+      37.697316,
+      138.784264
+    ],
+    "ep": 6,
+    "s": 842
+  },
+  {
+    "id": "unnk7wii8",
+    "name": "DIY粉丝基地",
+    "image": "https://image.xinu.ink/pic/data/756/images/unnk7wii8_1744630203016.jpg",
+    "geo": [
+      37.628579,
+      138.964377
+    ],
+    "ep": 2,
+    "s": 779
+  },
+  {
+    "id": "unnkxhswl",
+    "name": "DIY粉丝基地",
+    "image": "https://image.xinu.ink/pic/data/756/images/unnkxhswl_1744630241500.jpg",
+    "geo": [
+      37.628582,
+      138.964376
+    ],
+    "ep": 12,
+    "s": 1323,
+    "mark": "合照可以在此处架子上找到"
+  },
+  {
+    "id": "uno7xlrlu",
+    "name": "树屋",
+    "image": "https://image.xinu.ink/pic/data/756/images/uno7xlrlu_1744631644694.jpg",
+    "geo": [
+      37.632464,
+      138.954644
+    ],
+    "ep": 12,
+    "s": 1311
+  },
+  {
+    "id": "uno8l5t9f",
+    "name": "树屋",
+    "image": "https://image.xinu.ink/pic/data/756/images/uno8l5t9f_1744631672402.jpg",
+    "geo": [
+      37.632477,
+      138.954641
+    ],
+    "ep": 12,
+    "s": 183
+  },
+  {
+    "id": "uno9c1hrh",
+    "name": "图书馆",
+    "image": "",
+    "geo": [
+      37.632169,
+      138.954732
+    ],
+    "mark": "图书馆中特设一处diy角，有摆一些diy相关，馆内摄影需要向前台申请一个摄影许可证，还可以向前台购买diy贴纸"
+  },
+  {
+    "id": "unodf9r69",
+    "name": "カネギフルーツ",
+    "image": "https://image.xinu.ink/pic/data/756/images/unodf9r69_1744631966001.jpg",
+    "geo": [
+      37.628457,
+      138.96509
+    ],
+    "ep": 8,
+    "s": 1153
   }
 ]

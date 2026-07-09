@@ -294,5 +294,50 @@
     ],
     "origin": "Anitabi@AmaiAya",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "r1n687wwk",
+    "name": "춘천댐",
+    "image": "https://image.xinu.ink/pic/data/814/images/r1n687wwk_1734442017215.jpg",
+    "geo": [
+      37.968799,
+      127.668234
+    ],
+    "s": 1016,
+    "cn": "春川大坝"
+  },
+  {
+    "id": "r1n6i6i98",
+    "name": "춘천댐",
+    "image": "https://image.xinu.ink/pic/data/814/images/r1n6i6i98_1734442030483.jpg",
+    "geo": [
+      37.968822,
+      127.668131
+    ],
+    "s": 1041,
+    "cn": "春川大坝"
+  },
+  {
+    "id": "r1qwakidn",
+    "name": "수표교",
+    "image": "https://image.xinu.ink/pic/data/814/images/r1qwakidn_1734450120710.jpg",
+    "geo": [
+      37.568164,
+      126.990159
+    ],
+    "s": 2557,
+    "cn": "水標橋"
+  },
+  {
+    "id": "r1p0kdiy1",
+    "name": "달인꽃배달",
+    "image": "https://image.xinu.ink/pic/data/814/images/r1p0kdiy1_1734446029674.jpg",
+    "geo": [
+      37.562251,
+      126.996138
+    ],
+    "s": 2908,
+    "mark": "名为달인꽃배달（達人花配達）的花店。",
+    "cn": "達人花配達"
   }
 ]

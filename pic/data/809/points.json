@@ -520,5 +520,51 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1IIqSaVZ-MLHSKRcdN1MNFzRFEHEg71o&ll=35.737565%2C139.594692&z=17"
+  },
+  {
+    "id": "lbjberill",
+    "name": "すき家 渋谷南平台店",
+    "image": "https://image.xinu.ink/pic/data/809/images/lbjberill_1718290624427.jpg",
+    "geo": [
+      35.655904,
+      139.696912
+    ],
+    "ep": 1,
+    "s": 283,
+    "folder": "渋谷・原宿"
+  },
+  {
+    "id": "lbjbgneho",
+    "name": "すき家 渋谷南平台店",
+    "image": "https://image.xinu.ink/pic/data/809/images/lbjbgneho_1718290629244.jpg",
+    "geo": [
+      35.655904,
+      139.69691
+    ],
+    "ep": 1,
+    "s": 324,
+    "folder": "渋谷・原宿"
+  },
+  {
+    "id": "35b6e1c7",
+    "name": "長岩医院",
+    "image": "https://image.xinu.ink/pic/data/809/images/35b6e1c7-1734361530559.jpg",
+    "geo": [
+      35.65862,
+      139.698075
+    ],
+    "ep": 3,
+    "s": 938,
+    "folder": "渋谷・原宿"
+  },
+  {
+    "id": "8a2534c9",
+    "name": "ホリプロA館",
+    "image": "",
+    "geo": [
+      35.633212,
+      139.713962
+    ],
+    "folder": "目黒区"
   }
 ]

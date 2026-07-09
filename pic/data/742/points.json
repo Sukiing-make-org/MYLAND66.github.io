@@ -293,5 +293,26 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ptirvgxga",
+    "name": "本宮カフェ",
+    "image": "https://image.xinu.ink/pic/data/742/images/ptirvgxga_1730984432437.jpg",
+    "geo": [
+      36.754036,
+      139.604285
+    ],
+    "ep": 10
+  },
+  {
+    "id": "ptisgbf6y",
+    "name": "本宮カフェ",
+    "image": "https://image.xinu.ink/pic/data/742/images/ptisgbf6y_1730984508141.jpg",
+    "geo": [
+      36.754078,
+      139.604227
+    ],
+    "ep": 10,
+    "mark": "クラムチャウダーパン（面包蛤蜊浓汤）"
   }
 ]

@@ -612,5 +612,283 @@
     ],
     "origin": "Anitabi@AmaiAya",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3yrv6x5d",
+    "name": "岐阜駅",
+    "image": "",
+    "geo": [
+      35.409605,
+      136.7564
+    ],
+    "mark": "岐阜站观光中心内设置有莎拉和小市民的宣传物料"
+  },
+  {
+    "id": "j8kax3ftg",
+    "name": "みんなの森 ぎふメディアコスモス",
+    "image": "https://image.xinu.ink/pic/data/887/images/j8kax3ftg_1713179250024.jpg",
+    "geo": [
+      35.427952,
+      136.759937
+    ],
+    "ep": 1,
+    "s": 797,
+    "cn": "大家的森林 岐阜媒体中心"
+  },
+  {
+    "id": "m1j55vpnf",
+    "name": "高橋尚子ロード",
+    "image": "https://image.xinu.ink/pic/data/887/images/m1j55vpnf_1720329725538.jpg",
+    "geo": [
+      35.436321,
+      136.764481
+    ],
+    "ep": 4,
+    "s": 63,
+    "mark": "身后为长良桥。"
+  },
+  {
+    "id": "m1iokzauu",
+    "name": "劇場通り",
+    "image": "https://image.xinu.ink/pic/data/887/images/m1iokzauu_1720329735904.jpg",
+    "geo": [
+      35.417624,
+      136.758139
+    ],
+    "ep": 4,
+    "s": 1028
+  },
+  {
+    "id": "m1k0dh7yh",
+    "name": "黄金の信長像",
+    "image": "https://image.xinu.ink/pic/data/887/images/m1k0dh7yh_1720329673406.jpg",
+    "geo": [
+      35.410189,
+      136.756917
+    ],
+    "ep": 4,
+    "s": 1222
+  },
+  {
+    "id": "m1i5l4wy1",
+    "name": "金華橋",
+    "image": "https://image.xinu.ink/pic/data/887/images/m1i5l4wy1_1720329729138.jpg",
+    "geo": [
+      35.433533,
+      136.762029
+    ],
+    "ep": 5,
+    "s": 1097,
+    "mark": "面朝北。"
+  },
+  {
+    "id": "j8kax3fgq",
+    "name": "岐阜タンメン 岐阜本店",
+    "image": "https://image.xinu.ink/pic/data/887/images/j8kax3fgq_1713179256993.jpg",
+    "geo": [
+      35.390957,
+      136.802027
+    ],
+    "ep": 6,
+    "s": 684
+  },
+  {
+    "id": "m1jamtvrk",
+    "name": "パチンコななや",
+    "image": "https://image.xinu.ink/pic/data/887/images/m1jamtvrk_1720329737327.jpg",
+    "geo": [
+      35.419106,
+      136.759517
+    ],
+    "ep": 6,
+    "s": 740
+  },
+  {
+    "id": "m1jubbeue",
+    "name": "県道54号線 駅前通り",
+    "image": "https://image.xinu.ink/pic/data/887/images/m1jubbeue_1720329726728.jpg",
+    "geo": [
+      35.414291,
+      136.756933
+    ],
+    "ep": 7,
+    "s": 739,
+    "mark": "建筑为岐阜ステーションビル。制作组进行了镜像处理。"
+  },
+  {
+    "id": "m1igla2k6",
+    "name": "笠松競馬場",
+    "image": "https://image.xinu.ink/pic/data/887/images/m1igla2k6_1720329674461.jpg",
+    "geo": [
+      35.369401,
+      136.765961
+    ],
+    "ep": 7,
+    "s": 917
+  },
+  {
+    "id": "m1ii1m7zs",
+    "name": "笠松競馬場",
+    "image": "https://image.xinu.ink/pic/data/887/images/m1ii1m7zs_1720329674828.jpg",
+    "geo": [
+      35.372442,
+      136.765235
+    ],
+    "ep": 7,
+    "s": 932
+  },
+  {
+    "id": "m1ii81fv4",
+    "name": "笠松競馬場",
+    "image": "https://image.xinu.ink/pic/data/887/images/m1ii81fv4_1720329675060.jpg",
+    "geo": [
+      35.372369,
+      136.76525
+    ],
+    "ep": 7,
+    "s": 934
+  },
+  {
+    "id": "m1ijdipw0",
+    "name": "笠松競馬場スタンド",
+    "image": "https://image.xinu.ink/pic/data/887/images/m1ijdipw0_1720329674151.jpg",
+    "geo": [
+      35.372688,
+      136.766499
+    ],
+    "ep": 7,
+    "s": 1234
+  },
+  {
+    "id": "m1i2g9tq0",
+    "name": "金華橋下",
+    "image": "https://image.xinu.ink/pic/data/887/images/m1i2g9tq0_1720329729799.jpg",
+    "geo": [
+      35.434209,
+      136.761216
+    ],
+    "ep": 7,
+    "s": 1379
+  },
+  {
+    "id": "m1i06f336",
+    "name": "みんなの森 ぎふメディアコスモス",
+    "image": "https://image.xinu.ink/pic/data/887/images/m1i06f336_1720329732185.jpg",
+    "geo": [
+      35.427619,
+      136.759921
+    ],
+    "ep": 8,
+    "cn": "大家的森林 岐阜媒体中心"
+  },
+  {
+    "id": "m1i1svbqa",
+    "name": "岐阜市役所",
+    "image": "https://image.xinu.ink/pic/data/887/images/m1i1svbqa_1720329734119.jpg",
+    "geo": [
+      35.425841,
+      136.759597
+    ],
+    "ep": 8,
+    "s": 1197
+  },
+  {
+    "id": "m1iasqw76",
+    "name": "スーパーマーケットバロー 都通店",
+    "image": "https://image.xinu.ink/pic/data/887/images/m1iasqw76_1720329675760.jpg",
+    "geo": [
+      35.419486,
+      136.746317
+    ],
+    "ep": 9,
+    "s": 1403
+  },
+  {
+    "id": "m1ij16xxd",
+    "name": "笠松競馬場スタンド",
+    "image": "https://image.xinu.ink/pic/data/887/images/m1ij16xxd_1720329673872.jpg",
+    "geo": [
+      35.372793,
+      136.766873
+    ],
+    "ep": 10,
+    "s": 558
+  },
+  {
+    "id": "m1i8lxhgu",
+    "name": "世界淡水魚園水族館 アクア・トト ぎふ",
+    "image": "https://image.xinu.ink/pic/data/887/images/m1i8lxhgu_1720329675293.jpg",
+    "geo": [
+      35.371425,
+      136.810456
+    ],
+    "ep": 11,
+    "s": 562
+  },
+  {
+    "id": "m1ia41wtg",
+    "name": "オアシスホイール",
+    "image": "https://image.xinu.ink/pic/data/887/images/m1ia41wtg_1720329675528.jpg",
+    "geo": [
+      35.37091,
+      136.812863
+    ],
+    "ep": 11,
+    "s": 596
+  },
+  {
+    "id": "m1i2txrd1",
+    "name": "金華橋下",
+    "image": "https://image.xinu.ink/pic/data/887/images/m1i2txrd1_1720329730475.jpg",
+    "geo": [
+      35.434345,
+      136.761242
+    ],
+    "ep": 11,
+    "s": 1204
+  },
+  {
+    "id": "m1jken8yn",
+    "name": "岐阜市民会館",
+    "image": "https://image.xinu.ink/pic/data/887/images/m1jken8yn_1720329747044.jpg",
+    "geo": [
+      35.42542,
+      136.758039
+    ],
+    "ep": 12,
+    "s": 617
+  },
+  {
+    "id": "m1i0sj0id",
+    "name": "みんなの森 ぎふメディアコスモス",
+    "image": "https://image.xinu.ink/pic/data/887/images/m1i0sj0id_1720329732956.jpg",
+    "geo": [
+      35.427488,
+      136.759888
+    ],
+    "ep": 12,
+    "s": 1364,
+    "cn": "大家的森林 岐阜媒体中心"
+  },
+  {
+    "id": "m1hzccbzb",
+    "name": "金神社",
+    "image": "https://image.xinu.ink/pic/data/887/images/m1hzccbzb_1720329727386.jpg",
+    "geo": [
+      35.4162,
+      136.757563
+    ],
+    "ep": 12,
+    "s": 1370
+  },
+  {
+    "id": "u3yqwbmoc",
+    "name": "岐阜城",
+    "image": "",
+    "geo": [
+      35.433909,
+      136.782083
+    ],
+    "mark": "岐阜城内设置有莎拉的宣传物料"
   }
 ]

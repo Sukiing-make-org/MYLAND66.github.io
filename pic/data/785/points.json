@@ -577,5 +577,123 @@
     ],
     "origin": "Anitabi@Xmなのだ",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "oi34v7in2",
+    "name": "ランブリングストリート",
+    "image": "https://image.xinu.ink/pic/data/785/images/oi34v7in2-1727267258275.jpg",
+    "geo": [
+      35.658862,
+      139.695399
+    ],
+    "ep": 4,
+    "s": 752,
+    "folder": "渋谷",
+    "origin": "@Xmなのだ"
+  },
+  {
+    "id": "oi3918g5j",
+    "name": "Taco Bell タコベル 渋谷道玄坂店/道玄坂小路",
+    "image": "https://image.xinu.ink/pic/data/785/images/oi3918g5j-1727267583173.jpg",
+    "geo": [
+      35.660026,
+      139.697693
+    ],
+    "ep": 1,
+    "s": 106,
+    "folder": "渋谷",
+    "origin": "@Xmなのだ"
+  },
+  {
+    "id": "ojditv9at",
+    "name": "ごちとん 代々木本店",
+    "image": "https://image.xinu.ink/pic/data/785/images/ojditv9at-1727368271944.jpg",
+    "geo": [
+      35.682612,
+      139.702351
+    ],
+    "ep": 5,
+    "s": 437,
+    "folder": "代々木",
+    "origin": "@Xmなのだ"
+  },
+  {
+    "id": "ojdort7yt",
+    "name": "ポニーキャニオン代々木スタジオ",
+    "image": "https://image.xinu.ink/pic/data/785/images/ojdort7yt-1727368622117.jpg",
+    "geo": [
+      35.682061,
+      139.702909
+    ],
+    "ep": 5,
+    "s": 570,
+    "folder": "代々木",
+    "origin": "@Xmなのだ"
+  },
+  {
+    "id": "oje1o1s3f",
+    "name": "ファミリーマート 代々木駅西店",
+    "image": "https://image.xinu.ink/pic/data/785/images/oje1o1s3f-1727369373188.jpg",
+    "geo": [
+      35.682165,
+      139.701873
+    ],
+    "ep": 7,
+    "s": 602,
+    "folder": "代々木",
+    "origin": "@Xmなのだ"
+  },
+  {
+    "id": "oje93h310",
+    "name": "渋谷スクランブル交差点",
+    "image": "https://image.xinu.ink/pic/data/785/images/oje93h310-1727369943195.jpg",
+    "geo": [
+      35.659406,
+      139.700542
+    ],
+    "ep": 7,
+    "s": 1106,
+    "folder": "渋谷",
+    "origin": "@Xmなのだ"
+  },
+  {
+    "id": "ojegraefu",
+    "name": "SHIBUYA TSUTAYA",
+    "image": "https://image.xinu.ink/pic/data/785/images/ojegraefu-1727370311410.jpg",
+    "geo": [
+      35.659781,
+      139.700174
+    ],
+    "ep": 7,
+    "s": 1182,
+    "folder": "渋谷",
+    "origin": "@Xmなのだ"
+  },
+  {
+    "id": "ojelxbuhu",
+    "name": "SHIBUYA TSUTAYA",
+    "image": "https://image.xinu.ink/pic/data/785/images/ojelxbuhu-1727370610612.jpg",
+    "geo": [
+      35.659808,
+      139.70015
+    ],
+    "ep": 7,
+    "s": 1270,
+    "folder": "渋谷",
+    "origin": "@Xmなのだ"
+  },
+  {
+    "id": "ojesg5xhc",
+    "name": "DESEO mini with VILLAGE VANGUARD",
+    "image": "https://image.xinu.ink/pic/data/785/images/ojesg5xhc-1727370990851.jpg",
+    "geo": [
+      35.658307,
+      139.695587
+    ],
+    "ep": 7,
+    "s": 1022,
+    "mark": "牌子是银色的，就在门口往右点的位置",
+    "folder": "渋谷",
+    "origin": "@Xmなのだ"
   }
 ]

@@ -162,5 +162,29 @@
     ],
     "origin": "Anitabi@neko林喵可",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n9w9hv8nb",
+    "name": "能登空港",
+    "image": "https://image.xinu.ink/pic/data/787/images/n9w9hv8nb_1723808868818.jpg",
+    "geo": [
+      37.297741,
+      136.961387
+    ],
+    "ep": "EP9",
+    "s": 224,
+    "cn": "能登空港"
+  },
+  {
+    "id": "n9wgnecxi",
+    "name": "能登空港",
+    "image": "https://image.xinu.ink/pic/data/787/images/n9wgnecxi-1723804749697.jpg",
+    "geo": [
+      37.297777,
+      136.961435
+    ],
+    "ep": "EP9",
+    "s": 241,
+    "cn": "能登空港"
   }
 ]

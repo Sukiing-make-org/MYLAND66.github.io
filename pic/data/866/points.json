@@ -2132,5 +2132,3880 @@
     ],
     "origin": "紫荆7x",
     "originLink": "https://bbs.nga.cn/read.php?tid=45059067"
+  },
+  {
+    "id": "rdwnsmwzk",
+    "name": "池袋駅東口交差点",
+    "image": "https://image.xinu.ink/pic/data/866/images/rdwnsmwzk_1735403114067.jpg",
+    "geo": [
+      35.730467,
+      139.712725
+    ],
+    "ep": 1,
+    "s": 7,
+    "mark": "画面中为马路西侧，右侧可见池袋站26号出入口。请在马路东侧拍摄。\n路中交通岛可拍斑马线跟车站牌子，对面就是33号口红绿灯。",
+    "folder": "池袋东口"
+  },
+  {
+    "id": "tqa3j",
+    "name": "池袋駅東口交差点",
+    "image": "https://image.xinu.ink/pic/data/866/images/tqa3j_1747060295931.jpg",
+    "geo": [
+      35.730311,
+      139.713067
+    ],
+    "ep": 1,
+    "s": 14,
+    "mark": "祥子雨中穿过池袋站前人流的画面。画面右侧为池袋站34号出入口，左上为楽園池袋店的广告牌。拍摄点位比较刁钻，需要紧贴三桐ビル西南角才能看到，可根据画面中消火栓、東京メトロ站牌以及后方的西武池袋大楼确认具体方位。",
+    "folder": "池袋东口"
+  },
+  {
+    "id": "rdx2pw1ni",
+    "name": "サウンドスタジオノア池袋店前",
+    "image": "https://image.xinu.ink/pic/data/866/images/rdx2pw1ni_1735403953063.jpg",
+    "geo": [
+      35.733842,
+      139.716925
+    ],
+    "ep": 1,
+    "s": 170,
+    "mark": "サウンドスタジオノア池袋店前方的盲道旁边的井盖，拥有数秒特写。",
+    "folder": "サウンドスタジオノア池袋店"
+  },
+  {
+    "id": "rdxek99uf",
+    "name": "Heathrow Airport Terminal 5",
+    "image": "https://image.xinu.ink/pic/data/866/images/rdxek99uf_1735404657243.jpg",
+    "geo": [
+      51.472581,
+      -0.486732
+    ],
+    "ep": 1,
+    "s": 191,
+    "mark": "该场景窗外可见机场跑道和另一个航站楼，可知此处并非前面出现的T5航站楼西侧的D区。大概可在T5航站楼东侧拍摄。",
+    "folder": "英国",
+    "cn": "希思罗机场T5航站楼"
+  },
+  {
+    "id": "rdxekq0mt",
+    "name": "Heathrow Airport Terminal 5",
+    "image": "https://image.xinu.ink/pic/data/866/images/rdxekq0mt_1735404678763.jpg",
+    "geo": [
+      51.472581,
+      -0.48684
+    ],
+    "ep": 1,
+    "s": 198,
+    "mark": "该场景窗外可见机场跑道和另一个航站楼，可知此处并非前面出现的T5航站楼西侧的D区。大概可在T5航站楼东侧拍摄。",
+    "folder": "英国",
+    "cn": "希思罗机场T5航站楼"
+  },
+  {
+    "id": "rdy7pfex4",
+    "name": "サンシャイン前交差点",
+    "image": "https://image.xinu.ink/pic/data/866/images/rdy7pfex4_1735406416013.jpg",
+    "geo": [
+      35.729084,
+      139.717089
+    ],
+    "ep": 1,
+    "s": 1316,
+    "folder": "RiNG周边"
+  },
+  {
+    "id": "rdy3flbht",
+    "name": "サンシャイン前交差点",
+    "image": "https://image.xinu.ink/pic/data/866/images/rdy3flbht_1735406357493.jpg",
+    "geo": [
+      35.729079,
+      139.71709
+    ],
+    "ep": 1,
+    "s": 1320,
+    "mark": "位于路口东南角。背景中可见首都高速5号池袋線的支柱，右侧为タイムズステーション池袋的停车场。",
+    "folder": "Sunshine City"
+  },
+  {
+    "id": "rdzrc6zhz",
+    "name": "コニカミノルタ プラネタリウム満天 in Sunshine City",
+    "image": "https://image.xinu.ink/pic/data/866/images/rdzrc6zhz_1735409779463.jpg",
+    "geo": [
+      35.728844,
+      139.719789
+    ],
+    "ep": 2,
+    "s": 1235,
+    "folder": "星象仪馆「满天」",
+    "cn": "柯尼卡美能达星象仪馆「满天」"
+  },
+  {
+    "id": "rdzr3merc",
+    "name": "コニカミノルタ プラネタリウム満天 in Sunshine City",
+    "image": "https://image.xinu.ink/pic/data/866/images/rdzr3merc_1735409769783.jpg",
+    "geo": [
+      35.728869,
+      139.719872
+    ],
+    "ep": 2,
+    "s": 1244,
+    "folder": "星象仪馆「满天」",
+    "cn": "柯尼卡美能达星象仪馆「满天」"
+  },
+  {
+    "id": "re1g89ytz",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/re1g89ytz_1735413461792.jpg",
+    "geo": [
+      35.729805,
+      139.718553
+    ],
+    "ep": 2,
+    "s": 1270,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "re01er0qx",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/re01er0qx_1735410432861.jpg",
+    "geo": [
+      35.729838,
+      139.717998
+    ],
+    "ep": 2,
+    "s": 1287,
+    "mark": "需要从较高的地方拍摄，建议在此处。",
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "re02h95it",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/re02h95it_1735410453718.jpg",
+    "geo": [
+      35.729821,
+      139.71852
+    ],
+    "ep": 2,
+    "s": 1288,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "re044pdjy",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/re044pdjy_1735410554201.jpg",
+    "geo": [
+      35.729875,
+      139.718411
+    ],
+    "ep": 2,
+    "s": 1303,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "re09ejrm2",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/re09ejrm2_1735410872165.jpg",
+    "geo": [
+      35.729825,
+      139.718521
+    ],
+    "ep": 2,
+    "s": 1309,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "re0fhchhu",
+    "name": "千登世小橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/re0fhchhu_1735411247846.jpg",
+    "geo": [
+      35.718731,
+      139.713769
+    ],
+    "ep": 3,
+    "s": 238,
+    "folder": "千登世桥",
+    "cn": "千登世小桥"
+  },
+  {
+    "id": "re0g7lvpd",
+    "name": "千登世小橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/re0g7lvpd_1735411284029.jpg",
+    "geo": [
+      35.718744,
+      139.713748
+    ],
+    "ep": 3,
+    "s": 246,
+    "folder": "千登世桥",
+    "cn": "千登世小桥"
+  },
+  {
+    "id": "re0h4ub9i",
+    "name": "千登世小橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/re0h4ub9i_1735411369304.jpg",
+    "geo": [
+      35.718728,
+      139.713779
+    ],
+    "ep": 3,
+    "s": 275,
+    "mark": "背景可见目白1丁目7-18的佐藤ビル。",
+    "folder": "千登世桥",
+    "cn": "千登世小桥"
+  },
+  {
+    "id": "re0q5wntw",
+    "name": "鬼子母神前停留場",
+    "image": "https://image.xinu.ink/pic/data/866/images/re0q5wntw_1735411944169.jpg",
+    "geo": [
+      35.720007,
+      139.714742
+    ],
+    "ep": 3,
+    "s": 471,
+    "mark": "都电荒川线车站，此处是路线东侧的早稻田方向站点。设定上离灯家最近的车站，月之森（原型为日本女大）也在这附近。所以灯与月之森在读的角色经常出现在这。",
+    "folder": "鬼子母神前"
+  },
+  {
+    "id": "re0wlkgn1",
+    "name": "千登世歩道橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/re0wlkgn1_1735412274523.jpg",
+    "geo": [
+      35.720835,
+      139.712842
+    ],
+    "ep": 3,
+    "s": 739,
+    "folder": "千登世步道桥",
+    "cn": "千登世步道桥"
+  },
+  {
+    "id": "re0x9ju0u",
+    "name": "千登世歩道橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/re0x9ju0u_1735412314936.jpg",
+    "geo": [
+      35.720837,
+      139.712841
+    ],
+    "ep": 3,
+    "s": 746,
+    "folder": "千登世步道桥",
+    "cn": "千登世步道桥"
+  },
+  {
+    "id": "re0xq0l55",
+    "name": "千登世歩道橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/re0xq0l55_1735412342501.jpg",
+    "geo": [
+      35.720836,
+      139.712839
+    ],
+    "ep": 3,
+    "s": 753,
+    "folder": "千登世步道桥",
+    "cn": "千登世步道桥"
+  },
+  {
+    "id": "re0yf5ime",
+    "name": "カラオケ​館​池袋​東口​本店",
+    "image": "https://image.xinu.ink/pic/data/866/images/re0yf5ime_1735412384750.jpg",
+    "geo": [
+      35.729741,
+      139.713965
+    ],
+    "ep": 3,
+    "s": 781,
+    "mark": "后续出现的店内大堂场景与现实不一致，故不在此添加相应地标。日间房费720円/h，自助饮料费660円可选，沙锤摇铃一楼电梯口自取，问了店员没有剧中那种构造的房间。邦的歌基本都有，包括sumimi那首，无CRYCHIC的歌，MV是统一的三次元模板，不过有企鹅ver可选",
+    "folder": "RiNG周边"
+  },
+  {
+    "id": "re12cwglt",
+    "name": "千登世小橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/re12cwglt_1735412623975.jpg",
+    "geo": [
+      35.718723,
+      139.713789
+    ],
+    "ep": 3,
+    "s": 1045,
+    "mark": "桥南侧面朝东。",
+    "folder": "千登世桥",
+    "cn": "千登世小桥"
+  },
+  {
+    "id": "re12q17z0",
+    "name": "千登世小橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/re12q17z0_1735412645171.jpg",
+    "geo": [
+      35.718725,
+      139.713785
+    ],
+    "ep": 3,
+    "s": 1047,
+    "mark": "桥南侧面朝南。",
+    "folder": "千登世桥",
+    "cn": "千登世小桥"
+  },
+  {
+    "id": "re1cn7nej",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/re1cn7nej_1735413247058.jpg",
+    "geo": [
+      35.729825,
+      139.718514
+    ],
+    "ep": 4,
+    "s": 60,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "re1ceu6v0",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/re1ceu6v0_1735413236542.jpg",
+    "geo": [
+      35.729829,
+      139.718503
+    ],
+    "ep": 4,
+    "s": 77,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "re1hsjnee",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/re1hsjnee_1735413556827.jpg",
+    "geo": [
+      35.729799,
+      139.718415
+    ],
+    "ep": 4,
+    "s": 179,
+    "mark": "这张图严格来说是从栏杆外的空中拍摄的，不要轻易挑战。",
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "re1isuff3",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/re1isuff3_1735413617034.jpg",
+    "geo": [
+      35.729816,
+      139.71851
+    ],
+    "ep": 4,
+    "s": 184,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "re1j5y7dm",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/re1j5y7dm_1735413639367.jpg",
+    "geo": [
+      35.729769,
+      139.718632
+    ],
+    "ep": 4,
+    "s": 195,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "idmkglz4e",
+    "name": "富士見坂",
+    "image": "https://image.xinu.ink/pic/data/866/images/idmkglz4e_1735414294771.jpg",
+    "geo": [
+      35.716651,
+      139.717749
+    ],
+    "ep": 4,
+    "s": 401,
+    "mark": "素世追祥子的坂道，左侧可以看到一条岔路，即为ED中素世所在的日无坂。这里在邦邦之前的动画里也出现过。虽然方向不太对，不过设定上似乎变成了羽丘学生上下学的必经之路，灯上学和祥子放学的时候都曾经过此处。",
+    "folder": "富士见坂"
+  },
+  {
+    "id": "re222i2ar",
+    "name": "富士見坂",
+    "image": "https://image.xinu.ink/pic/data/866/images/re222i2ar_1735414782175.jpg",
+    "geo": [
+      35.716538,
+      139.717668
+    ],
+    "ep": 4,
+    "s": 402,
+    "mark": "背景为爬满植物的民宅的围墙。",
+    "folder": "富士见坂"
+  },
+  {
+    "id": "re22bqsx6",
+    "name": "富士見坂",
+    "image": "https://image.xinu.ink/pic/data/866/images/re22bqsx6_1735414797259.jpg",
+    "geo": [
+      35.71653,
+      139.717663
+    ],
+    "ep": 4,
+    "s": 404,
+    "mark": "背景为爬满植物的民宅的围墙。",
+    "folder": "富士见坂"
+  },
+  {
+    "id": "re2470gy3",
+    "name": "富士見坂",
+    "image": "https://image.xinu.ink/pic/data/866/images/re2470gy3_1735414945660.jpg",
+    "geo": [
+      35.716482,
+      139.717628
+    ],
+    "ep": 4,
+    "s": 418,
+    "mark": "背景为爬满植物的民宅的院门。此处为私宅，不建议拍照。",
+    "folder": "富士见坂"
+  },
+  {
+    "id": "re256u8un",
+    "name": "富士見坂",
+    "image": "https://image.xinu.ink/pic/data/866/images/re256u8un_1735415045327.jpg",
+    "geo": [
+      35.716466,
+      139.717616
+    ],
+    "ep": 4,
+    "s": 424,
+    "mark": "此处祥子背后的房子已经于2025年6月拆除。",
+    "folder": "富士见坂"
+  },
+  {
+    "id": "re25u2wun",
+    "name": "富士見坂",
+    "image": "https://image.xinu.ink/pic/data/866/images/re25u2wun_1735415020153.jpg",
+    "geo": [
+      35.716225,
+      139.717435
+    ],
+    "ep": 4,
+    "s": 432,
+    "folder": "富士见坂"
+  },
+  {
+    "id": "re2im3dvd",
+    "name": "オーク東池袋ビル",
+    "image": "https://image.xinu.ink/pic/data/866/images/re2im3dvd_1735415786745.jpg",
+    "geo": [
+      35.729717,
+      139.714747
+    ],
+    "ep": 4,
+    "s": 1085,
+    "mark": "与RiNG的原型Max Live隔了一条斑马线的大楼，ABZ-MARK在现实中是ABC-MART，BUSINESS LEATHER则与现实同名。",
+    "folder": "RiNG周边"
+  },
+  {
+    "id": "re3jidzs0",
+    "name": "千登世歩道橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/re3jidzs0_1735418127548.jpg",
+    "geo": [
+      35.720838,
+      139.712839
+    ],
+    "ep": 4,
+    "s": 1128,
+    "folder": "千登世步道桥",
+    "cn": "千登世步道桥"
+  },
+  {
+    "id": "re3jrwd2a",
+    "name": "千登世歩道橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/re3jrwd2a_1735418035770.jpg",
+    "geo": [
+      35.720837,
+      139.712837
+    ],
+    "ep": 4,
+    "s": 1141,
+    "folder": "千登世步道桥",
+    "cn": "千登世步道桥"
+  },
+  {
+    "id": "re3jzgflx",
+    "name": "千登世歩道橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/re3jzgflx_1735418044402.jpg",
+    "geo": [
+      35.720838,
+      139.712841
+    ],
+    "ep": 4,
+    "s": 1158,
+    "folder": "千登世步道桥",
+    "cn": "千登世步道桥"
+  },
+  {
+    "id": "re3d6ihag",
+    "name": "千登世歩道橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/re3d6ihag_1735417647271.jpg",
+    "geo": [
+      35.720751,
+      139.712946
+    ],
+    "ep": 4,
+    "s": 1170,
+    "mark": "千登世步道桥旁边的建筑为换成了更北侧的建筑，详见下一条。",
+    "folder": "千登世步道桥",
+    "cn": "千登世步道桥"
+  },
+  {
+    "id": "re45n98w4",
+    "name": "鬼子母神前踏切",
+    "image": "https://image.xinu.ink/pic/data/866/images/re45n98w4_1735419356461.jpg",
+    "geo": [
+      35.720188,
+      139.714887
+    ],
+    "ep": 5,
+    "s": 727,
+    "mark": "背景中的车站方向牌应该是早稻田方向，这里大概是制作组失误。",
+    "folder": "鬼子母神前"
+  },
+  {
+    "id": "re4gvsrf3",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/re4gvsrf3_1735420042768.jpg",
+    "geo": [
+      35.729877,
+      139.718128
+    ],
+    "ep": 5,
+    "s": 753,
+    "mark": "黑色的柱子是主要参照物，",
+    "folder": "Sunshine City",
+    "cn": "Sunshine City"
+  },
+  {
+    "id": "re4ih71sz",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/re4ih71sz_1735420162851.jpg",
+    "geo": [
+      35.729886,
+      139.718146
+    ],
+    "ep": 5,
+    "s": 826,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City"
+  },
+  {
+    "id": "re4jatcn6",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/re4jatcn6_1735420177317.jpg",
+    "geo": [
+      35.729877,
+      139.718142
+    ],
+    "ep": 5,
+    "s": 849,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City"
+  },
+  {
+    "id": "re4ji369r",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/re4ji369r_1735420190834.jpg",
+    "geo": [
+      35.729881,
+      139.718133
+    ],
+    "ep": 5,
+    "s": 866,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City"
+  },
+  {
+    "id": "re4lnwddb",
+    "name": "豊島区立東池袋中央公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/re4lnwddb_1735420325171.jpg",
+    "geo": [
+      35.730072,
+      139.718638
+    ],
+    "ep": 5,
+    "s": 887,
+    "folder": "东池袋中央公园",
+    "cn": "丰岛区立东池袋中央公园"
+  },
+  {
+    "id": "re4mnvplg",
+    "name": "豊島区立東池袋中央公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/re4mnvplg_1735420380867.jpg",
+    "geo": [
+      35.730127,
+      139.718685
+    ],
+    "ep": 5,
+    "s": 897,
+    "folder": "东池袋中央公园",
+    "cn": "丰岛区立东池袋中央公园"
+  },
+  {
+    "id": "re4n1zcvi",
+    "name": "豊島区立東池袋中央公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/re4n1zcvi_1735420404597.jpg",
+    "geo": [
+      35.730114,
+      139.718678
+    ],
+    "ep": 5,
+    "s": 897,
+    "folder": "东池袋中央公园",
+    "cn": "丰岛区立东池袋中央公园"
+  },
+  {
+    "id": "re4nbe9tx",
+    "name": "豊島区立東池袋中央公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/re4nbe9tx_1735420420118.jpg",
+    "geo": [
+      35.730109,
+      139.718676
+    ],
+    "ep": 5,
+    "s": 906,
+    "folder": "东池袋中央公园",
+    "cn": "丰岛区立东池袋中央公园"
+  },
+  {
+    "id": "re4nmo42a",
+    "name": "豊島区立東池袋中央公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/re4nmo42a_1735420439613.jpg",
+    "geo": [
+      35.730085,
+      139.718661
+    ],
+    "ep": 5,
+    "s": 915,
+    "folder": "东池袋中央公园",
+    "cn": "丰岛区立东池袋中央公园"
+  },
+  {
+    "id": "re4nym6vz",
+    "name": "豊島区立東池袋中央公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/re4nym6vz_1735420459337.jpg",
+    "geo": [
+      35.73009,
+      139.718665
+    ],
+    "ep": 5,
+    "s": 916,
+    "folder": "东池袋中央公园",
+    "cn": "丰岛区立东池袋中央公园"
+  },
+  {
+    "id": "re4o477qt",
+    "name": "豊島区立東池袋中央公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/re4o477qt_1735420468581.jpg",
+    "geo": [
+      35.730121,
+      139.718684
+    ],
+    "ep": 5,
+    "s": 918,
+    "folder": "东池袋中央公园",
+    "cn": "丰岛区立东池袋中央公园"
+  },
+  {
+    "id": "re4ochatk",
+    "name": "豊島区立東池袋中央公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/re4ochatk_1735420485255.jpg",
+    "geo": [
+      35.730079,
+      139.718657
+    ],
+    "ep": 5,
+    "s": 919,
+    "folder": "东池袋中央公园",
+    "cn": "丰岛区立东池袋中央公园"
+  },
+  {
+    "id": "re4olncdc",
+    "name": "豊島区立東池袋中央公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/re4olncdc_1735420509885.jpg",
+    "geo": [
+      35.730087,
+      139.718644
+    ],
+    "ep": 5,
+    "s": 929,
+    "folder": "东池袋中央公园",
+    "cn": "丰岛区立东池袋中央公园"
+  },
+  {
+    "id": "re4p202er",
+    "name": "豊島区立東池袋中央公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/re4p202er_1735420525173.jpg",
+    "geo": [
+      35.730085,
+      139.718652
+    ],
+    "ep": 5,
+    "s": 931,
+    "folder": "东池袋中央公园",
+    "cn": "丰岛区立东池袋中央公园"
+  },
+  {
+    "id": "re4pbrzmp",
+    "name": "豊島区立東池袋中央公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/re4pbrzmp_1735420541904.jpg",
+    "geo": [
+      35.7301,
+      139.718579
+    ],
+    "ep": 5,
+    "s": 937,
+    "folder": "东池袋中央公园",
+    "cn": "丰岛区立东池袋中央公园"
+  },
+  {
+    "id": "re4r29svq",
+    "name": "豊島区立東池袋中央公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/re4r29svq_1735420651385.jpg",
+    "geo": [
+      35.730263,
+      139.718507
+    ],
+    "ep": 5,
+    "s": 940,
+    "mark": "灯牵着爱音逃走时经过的写着公园注意事项的牌子。",
+    "folder": "东池袋中央公园",
+    "cn": "丰岛区立东池袋中央公园"
+  },
+  {
+    "id": "re58eng3u",
+    "name": "サンシャイン​水族館",
+    "image": "https://image.xinu.ink/pic/data/866/images/re58eng3u_1735421701875.jpg",
+    "geo": [
+      35.729325,
+      139.720169
+    ],
+    "ep": 5,
+    "s": 952,
+    "mark": "企鹅水箱位于楼顶北侧。",
+    "folder": "Sunshine水族馆",
+    "cn": "Sunshine水族馆"
+  },
+  {
+    "id": "re4y3imrm",
+    "name": "サンシャイン​水族館",
+    "image": "https://image.xinu.ink/pic/data/866/images/re4y3imrm_1735421616963.jpg",
+    "geo": [
+      35.729314,
+      139.720151
+    ],
+    "ep": 5,
+    "s": 956,
+    "folder": "Sunshine水族馆",
+    "cn": "Sunshine水族馆"
+  },
+  {
+    "id": "re59006yv",
+    "name": "サンシャイン​水族館",
+    "image": "https://image.xinu.ink/pic/data/866/images/re59006yv_1735421734486.jpg",
+    "geo": [
+      35.729322,
+      139.720161
+    ],
+    "ep": 5,
+    "s": 960,
+    "folder": "Sunshine水族馆",
+    "cn": "Sunshine水族馆"
+  },
+  {
+    "id": "re57t8zdl",
+    "name": "サンシャイン​水族館",
+    "image": "https://image.xinu.ink/pic/data/866/images/re57t8zdl_1735421886025.jpg",
+    "geo": [
+      35.729285,
+      139.720147
+    ],
+    "ep": 5,
+    "s": 969,
+    "mark": "水族馆晚八点打烊，但根据现场贴的通知企鹅池七点就会结束营业",
+    "folder": "Sunshine水族馆",
+    "cn": "Sunshine水族馆"
+  },
+  {
+    "id": "re5bsogmg",
+    "name": "サンシャイン​水族館",
+    "image": "https://image.xinu.ink/pic/data/866/images/re5bsogmg_1735421960648.jpg",
+    "geo": [
+      35.729309,
+      139.720164
+    ],
+    "ep": 5,
+    "s": 970,
+    "folder": "Sunshine水族馆",
+    "cn": "Sunshine水族馆"
+  },
+  {
+    "id": "re597pofd",
+    "name": "サンシャイン​水族館",
+    "image": "https://image.xinu.ink/pic/data/866/images/re597pofd_1735421751576.jpg",
+    "geo": [
+      35.729309,
+      139.720171
+    ],
+    "ep": 5,
+    "s": 1193,
+    "folder": "Sunshine水族馆",
+    "cn": "Sunshine水族馆"
+  },
+  {
+    "id": "re5aitdxr",
+    "name": "サンシャイン​水族館",
+    "image": "https://image.xinu.ink/pic/data/866/images/re5aitdxr_1735421833259.jpg",
+    "geo": [
+      35.729319,
+      139.720151
+    ],
+    "ep": 5,
+    "s": 1216,
+    "folder": "Sunshine水族馆",
+    "cn": "Sunshine水族馆"
+  },
+  {
+    "id": "re5cy5vaj",
+    "name": "サンシャイン​水族館",
+    "image": "https://image.xinu.ink/pic/data/866/images/re5cy5vaj_1735421971674.jpg",
+    "geo": [
+      35.72931,
+      139.720153
+    ],
+    "ep": 5,
+    "s": 1222,
+    "folder": "Sunshine水族馆",
+    "cn": "Sunshine水族馆"
+  },
+  {
+    "id": "re5dipe83",
+    "name": "サンシャイン​水族館",
+    "image": "https://image.xinu.ink/pic/data/866/images/re5dipe83_1735422011938.jpg",
+    "geo": [
+      35.729314,
+      139.720159
+    ],
+    "ep": 5,
+    "s": 1227,
+    "folder": "Sunshine水族馆",
+    "cn": "Sunshine水族馆"
+  },
+  {
+    "id": "re5drayei",
+    "name": "サンシャイン​水族館",
+    "image": "https://image.xinu.ink/pic/data/866/images/re5drayei_1735422019345.jpg",
+    "geo": [
+      35.729316,
+      139.720146
+    ],
+    "ep": 5,
+    "s": 1242,
+    "folder": "Sunshine水族馆",
+    "cn": "Sunshine水族馆"
+  },
+  {
+    "id": "re5d7xc8d",
+    "name": "サンシャイン​水族館",
+    "image": "https://image.xinu.ink/pic/data/866/images/re5d7xc8d_1735421997881.jpg",
+    "geo": [
+      35.729311,
+      139.720147
+    ],
+    "ep": 5,
+    "s": 1277,
+    "folder": "Sunshine水族馆",
+    "cn": "Sunshine水族馆"
+  },
+  {
+    "id": "re5dv9unm",
+    "name": "サンシャイン​水族館",
+    "image": "https://image.xinu.ink/pic/data/866/images/re5dv9unm_1735422029900.jpg",
+    "geo": [
+      35.729329,
+      139.720167
+    ],
+    "ep": 5,
+    "s": 1288,
+    "folder": "Sunshine水族馆",
+    "cn": "Sunshine水族馆"
+  },
+  {
+    "id": "re5ex4v2k",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/re5ex4v2k_1735422089508.jpg",
+    "geo": [
+      35.729825,
+      139.718507
+    ],
+    "ep": 5,
+    "s": 1292,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "onj2lnlym",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/onj2lnlym_1735421299449.jpg",
+    "geo": [
+      35.729839,
+      139.718486
+    ],
+    "ep": 5,
+    "s": 1303,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "re5facrff",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/re5facrff_1735422113285.jpg",
+    "geo": [
+      35.729833,
+      139.718496
+    ],
+    "ep": 5,
+    "s": 1312,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "rekm67qnl",
+    "name": "ロッテリア 池袋東口店",
+    "image": "https://image.xinu.ink/pic/data/866/images/rekm67qnl_1735455639404.jpg",
+    "geo": [
+      35.729588,
+      139.71413
+    ],
+    "ep": 6,
+    "s": 951,
+    "folder": "池袋东口"
+  },
+  {
+    "id": "rel8jsey9",
+    "name": "鬼子母神前停留場",
+    "image": "https://image.xinu.ink/pic/data/866/images/rel8jsey9_1735456534627.jpg",
+    "geo": [
+      35.720173,
+      139.714876
+    ],
+    "ep": 6,
+    "s": 979,
+    "folder": "鬼子母神前"
+  },
+  {
+    "id": "relg8xszn",
+    "name": "面影橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/relg8xszn_1735457002297.jpg",
+    "geo": [
+      35.713162,
+      139.71419
+    ],
+    "ep": 6,
+    "s": 995,
+    "folder": "面影桥"
+  },
+  {
+    "id": "relghceim",
+    "name": "面影橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/relghceim_1735457018339.jpg",
+    "geo": [
+      35.71331,
+      139.71417
+    ],
+    "ep": 6,
+    "s": 1003,
+    "folder": "面影桥"
+  },
+  {
+    "id": "relvvglhz",
+    "name": "千登世歩道橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/relvvglhz_1735457943322.jpg",
+    "geo": [
+      35.720817,
+      139.712761
+    ],
+    "ep": 8,
+    "s": 394,
+    "folder": "千登世步道桥",
+    "cn": "千登世步道桥"
+  },
+  {
+    "id": "relv746xd",
+    "name": "千登世歩道橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/relv746xd_1735457902788.jpg",
+    "geo": [
+      35.720749,
+      139.71278
+    ],
+    "ep": 8,
+    "s": 397,
+    "folder": "千登世步道桥",
+    "cn": "千登世步道桥"
+  },
+  {
+    "id": "re3t1to3f",
+    "name": "高松灯家",
+    "image": "https://image.xinu.ink/pic/data/866/images/re3t1to3f_1735418592334.jpg",
+    "geo": [
+      35.72119,
+      139.712589
+    ],
+    "ep": 8,
+    "s": 405,
+    "mark": "动画设定中位于步道桥西侧，现实中步道桥西侧不存在这一建筑。从一楼的药局的名字「やまずう〇薬局」可以判断其现实原型为一楼有「うずらやま薬局」的目白邸苑。",
+    "folder": "千登世步道桥"
+  },
+  {
+    "id": "relwft7mt",
+    "name": "コニカミノルタ プラネタリウム満天 in Sunshine City",
+    "image": "https://image.xinu.ink/pic/data/866/images/relwft7mt_1735457990193.jpg",
+    "geo": [
+      35.728835,
+      139.719804
+    ],
+    "ep": 8,
+    "s": 534,
+    "folder": "星象仪馆",
+    "cn": "柯尼卡美能达星象仪馆「满天」"
+  },
+  {
+    "id": "relxhz5eq",
+    "name": "コニカミノルタ プラネタリウム満天 in Sunshine City",
+    "image": "https://image.xinu.ink/pic/data/866/images/relxhz5eq_1735458048838.jpg",
+    "geo": [
+      35.728861,
+      139.719866
+    ],
+    "ep": 8,
+    "s": 544,
+    "folder": "星象仪馆",
+    "cn": "柯尼卡美能达星象仪馆「满天」"
+  },
+  {
+    "id": "relxvgopl",
+    "name": "コニカミノルタ プラネタリウム満天 in Sunshine City",
+    "image": "https://image.xinu.ink/pic/data/866/images/relxvgopl_1735458077764.jpg",
+    "geo": [
+      35.728866,
+      139.719877
+    ],
+    "ep": 8,
+    "s": 541,
+    "folder": "星象仪馆",
+    "cn": "柯尼卡美能达星象仪馆「满天」"
+  },
+  {
+    "id": "rely9jnph",
+    "name": "コニカミノルタ プラネタリウム満天 in Sunshine City",
+    "image": "https://image.xinu.ink/pic/data/866/images/rely9jnph_1735458087506.jpg",
+    "geo": [
+      35.728864,
+      139.719872
+    ],
+    "ep": 8,
+    "s": 547,
+    "mark": "从星象仪馆入口处向外拍摄。",
+    "folder": "星象仪馆",
+    "cn": "柯尼卡美能达星象仪馆「满天」"
+  },
+  {
+    "id": "idmkglyxq",
+    "name": "食と緑の空中庭園",
+    "image": "https://image.xinu.ink/pic/data/866/images/idmkglyxq_1735458165685.jpg",
+    "geo": [
+      35.729759,
+      139.711878
+    ],
+    "ep": 8,
+    "s": 558,
+    "mark": "祥子与初华碰头的地方，动画里看起来还挺大的，实际上有点角度欺诈。直接从西武百货本馆上到9层，再往小桥看的角度还可以看到revue的塔，双厨狂喜。",
+    "folder": "西武池袋空中庭园",
+    "cn": "西武池袋空中庭园"
+  },
+  {
+    "id": "rem0pf0td",
+    "name": "食と緑の空中庭園",
+    "image": "https://image.xinu.ink/pic/data/866/images/rem0pf0td_1735458278619.jpg",
+    "geo": [
+      35.72976,
+      139.711909
+    ],
+    "ep": 8,
+    "s": 562,
+    "folder": "西武池袋空中庭园",
+    "cn": "西武池袋空中庭园"
+  },
+  {
+    "id": "rem1rfxc2",
+    "name": "食と緑の空中庭園",
+    "image": "https://image.xinu.ink/pic/data/866/images/rem1rfxc2_1735458301896.jpg",
+    "geo": [
+      35.729777,
+      139.711858
+    ],
+    "ep": 8,
+    "s": 568,
+    "folder": "西武池袋空中庭园",
+    "cn": "西武池袋空中庭园"
+  },
+  {
+    "id": "rem1xe9ka",
+    "name": "食と緑の空中庭園",
+    "image": "https://image.xinu.ink/pic/data/866/images/rem1xe9ka_1735458310405.jpg",
+    "geo": [
+      35.729754,
+      139.711856
+    ],
+    "ep": 8,
+    "s": 586,
+    "folder": "西武池袋空中庭园",
+    "cn": "西武池袋空中庭园"
+  },
+  {
+    "id": "rem23oywx",
+    "name": "食と緑の空中庭園",
+    "image": "https://image.xinu.ink/pic/data/866/images/rem23oywx_1735458319796.jpg",
+    "geo": [
+      35.729743,
+      139.711893
+    ],
+    "ep": 8,
+    "s": 608,
+    "mark": "花园位于九楼，如果从池袋东口站进先左转去直梯，坐到八楼后找扶梯到九楼，路上有一定的指示标识(空中庭园/鹤仙园)4月22日起庭院施工，只能远远看到桥，工事结束时间未知",
+    "folder": "西武池袋空中庭园",
+    "cn": "西武池袋空中庭园"
+  },
+  {
+    "id": "rem2ekeq2",
+    "name": "食と緑の空中庭園",
+    "image": "https://image.xinu.ink/pic/data/866/images/rem2ekeq2_1735458337853.jpg",
+    "geo": [
+      35.729746,
+      139.711872
+    ],
+    "ep": 8,
+    "s": 626,
+    "folder": "西武池袋空中庭园",
+    "cn": "西武池袋空中庭园"
+  },
+  {
+    "id": "rem345sip",
+    "name": "食と緑の空中庭園",
+    "image": "https://image.xinu.ink/pic/data/866/images/rem345sip_1735458381525.jpg",
+    "geo": [
+      35.729753,
+      139.711875
+    ],
+    "ep": 8,
+    "s": 662,
+    "folder": "西武池袋空中庭园",
+    "cn": "西武池袋空中庭园"
+  },
+  {
+    "id": "rem3avkvb",
+    "name": "食と緑の空中庭園",
+    "image": "https://image.xinu.ink/pic/data/866/images/rem3avkvb_1735458392816.jpg",
+    "geo": [
+      35.729757,
+      139.711866
+    ],
+    "ep": 8,
+    "s": 693,
+    "folder": "西武池袋空中庭园",
+    "cn": "西武池袋空中庭园"
+  },
+  {
+    "id": "rem2zx369",
+    "name": "食と緑の空中庭園",
+    "image": "https://image.xinu.ink/pic/data/866/images/rem2zx369_1735458374810.jpg",
+    "geo": [
+      35.72975,
+      139.711889
+    ],
+    "ep": 8,
+    "s": 696,
+    "folder": "西武池袋空中庭园",
+    "cn": "西武池袋空中庭园"
+  },
+  {
+    "id": "rem4gim01",
+    "name": "富士見坂",
+    "image": "https://image.xinu.ink/pic/data/866/images/rem4gim01_1735458495553.jpg",
+    "geo": [
+      35.716594,
+      139.717712
+    ],
+    "ep": 8,
+    "s": 983,
+    "folder": "富士见坂"
+  },
+  {
+    "id": "rem81k1ui",
+    "name": "飛鳥山停留場",
+    "image": "https://image.xinu.ink/pic/data/866/images/rem81k1ui_1735458679092.jpg",
+    "geo": [
+      35.750251,
+      139.737392
+    ],
+    "ep": 8,
+    "s": 1001,
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "idmkglz3a",
+    "name": "大谷美術館",
+    "image": "https://image.xinu.ink/pic/data/866/images/idmkglz3a_1735458716570.jpg",
+    "geo": [
+      35.742995,
+      139.745736
+    ],
+    "ep": 8,
+    "s": 1019,
+    "mark": "丰川家的可能原型。",
+    "folder": "丰川家",
+    "cn": "大谷美术馆（旧古河邸）"
+  },
+  {
+    "id": "rem97j4sq",
+    "name": "大谷美術館",
+    "image": "https://image.xinu.ink/pic/data/866/images/rem97j4sq_1735458749508.jpg",
+    "geo": [
+      35.74292,
+      139.745803
+    ],
+    "ep": 8,
+    "s": 1023,
+    "folder": "丰川家",
+    "cn": "大谷美术馆（旧古河邸）"
+  },
+  {
+    "id": "remdk5pno",
+    "name": "飛鳥山公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/remdk5pno_1735459012444.jpg",
+    "geo": [
+      35.750429,
+      139.738188
+    ],
+    "ep": 8,
+    "s": 1030,
+    "mark": "背景中可见井字形喷泉。",
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "remeq5wwm",
+    "name": "飛鳥山公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/remeq5wwm_1735459085079.jpg",
+    "geo": [
+      35.750427,
+      139.738178
+    ],
+    "ep": 8,
+    "s": 1053,
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "remdr3yws",
+    "name": "飛鳥山公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/remdr3yws_1735459025541.jpg",
+    "geo": [
+      35.750485,
+      139.738201
+    ],
+    "ep": 8,
+    "s": 1039,
+    "mark": "背景中的建筑物是位于南侧的公厕。",
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "remg0gexw",
+    "name": "飛鳥山公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/remg0gexw_1735459161910.jpg",
+    "geo": [
+      35.750411,
+      139.738183
+    ],
+    "ep": 8,
+    "s": 1069,
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "remgbwmrs",
+    "name": "飛鳥山公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/remgbwmrs_1735459181348.jpg",
+    "geo": [
+      35.750614,
+      139.737982
+    ],
+    "ep": 8,
+    "s": 1077,
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "remgm5i07",
+    "name": "飛鳥山公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/remgm5i07_1735459213137.jpg",
+    "geo": [
+      35.75042,
+      139.738186
+    ],
+    "ep": 8,
+    "s": 1095,
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "remh6ar4m",
+    "name": "飛鳥山公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/remh6ar4m_1735459230989.jpg",
+    "geo": [
+      35.750467,
+      139.738198
+    ],
+    "ep": 8,
+    "s": 1104,
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "idmkglzdx",
+    "name": "飛鳥山公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/idmkglzdx_1735459242761.jpg",
+    "geo": [
+      35.750462,
+      139.738159
+    ],
+    "ep": 8,
+    "s": 1109,
+    "mark": "素世拉住祥子下跪的地方。顺带一提在飞鸟山公园香澄与阿妙也有次灵魂对撞，属于是公用圣地。",
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "remhtfb1m",
+    "name": "飛鳥山公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/remhtfb1m_1735459270486.jpg",
+    "geo": [
+      35.750479,
+      139.7382
+    ],
+    "ep": 8,
+    "s": 1121,
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "remi8mkbu",
+    "name": "飛鳥山公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/remi8mkbu_1735459297135.jpg",
+    "geo": [
+      35.750413,
+      139.738184
+    ],
+    "ep": 8,
+    "s": 1139,
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "remijsacw",
+    "name": "飛鳥山公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/remijsacw_1735459316104.jpg",
+    "geo": [
+      35.750455,
+      139.738195
+    ],
+    "ep": 8,
+    "s": 1148,
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "remirzk9x",
+    "name": "飛鳥山公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/remirzk9x_1735459327990.jpg",
+    "geo": [
+      35.750458,
+      139.738196
+    ],
+    "ep": 8,
+    "s": 1152,
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "remj56s4j",
+    "name": "飛鳥山公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/remj56s4j_1735459350260.jpg",
+    "geo": [
+      35.750435,
+      139.738185
+    ],
+    "ep": 8,
+    "s": 1170,
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "remjpdbb0",
+    "name": "飛鳥山公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/remjpdbb0_1735459385902.jpg",
+    "geo": [
+      35.750438,
+      139.738163
+    ],
+    "ep": 8,
+    "s": 1179,
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "remjzpu3b",
+    "name": "飛鳥山公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/remjzpu3b_1735459401990.jpg",
+    "geo": [
+      35.750404,
+      139.738181
+    ],
+    "ep": 8,
+    "s": 1186,
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "remkezorh",
+    "name": "飛鳥山公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/remkezorh_1735459430326.jpg",
+    "geo": [
+      35.750768,
+      139.738246
+    ],
+    "ep": 8,
+    "s": 1196,
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "remkya9q0",
+    "name": "飛鳥山公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/remkya9q0_1735459468670.jpg",
+    "geo": [
+      35.750476,
+      139.7382
+    ],
+    "ep": 8,
+    "s": 1213,
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "remm7q2ey",
+    "name": "飛鳥山公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/remm7q2ey_1735459538647.jpg",
+    "geo": [
+      35.750424,
+      139.738171
+    ],
+    "ep": 8,
+    "s": 1230,
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "remmmp1tz",
+    "name": "飛鳥山公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/remmmp1tz_1735459561605.jpg",
+    "geo": [
+      35.750424,
+      139.738182
+    ],
+    "ep": 8,
+    "s": 1239,
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "remmtxf1x",
+    "name": "飛鳥山公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/remmtxf1x_1735459572972.jpg",
+    "geo": [
+      35.750421,
+      139.738177
+    ],
+    "ep": 8,
+    "s": 1246,
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "remnvnm4n",
+    "name": "飛鳥山公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/remnvnm4n_1735459646097.jpg",
+    "geo": [
+      35.750414,
+      139.738172
+    ],
+    "ep": 8,
+    "s": 1250,
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "remojdwco",
+    "name": "飛鳥山公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/remojdwco_1735459677280.jpg",
+    "geo": [
+      35.750416,
+      139.738178
+    ],
+    "ep": 8,
+    "s": 1252,
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "remopcw4s",
+    "name": "飛鳥山公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/remopcw4s_1735459686309.jpg",
+    "geo": [
+      35.750424,
+      139.738175
+    ],
+    "ep": 8,
+    "s": 1255,
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "removcn0b",
+    "name": "飛鳥山公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/removcn0b_1735459696115.jpg",
+    "geo": [
+      35.750419,
+      139.738177
+    ],
+    "ep": 8,
+    "s": 1260,
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "remp0gci3",
+    "name": "飛鳥山公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/remp0gci3_1735459704823.jpg",
+    "geo": [
+      35.75042,
+      139.738175
+    ],
+    "ep": 8,
+    "s": 1264,
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "rempjmpsa",
+    "name": "飛鳥山公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/rempjmpsa_1735459737024.jpg",
+    "geo": [
+      35.750418,
+      139.738175
+    ],
+    "ep": 8,
+    "s": 1284,
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "remq2p6pc",
+    "name": "飛鳥山公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/remq2p6pc_1735459770134.jpg",
+    "geo": [
+      35.750389,
+      139.738171
+    ],
+    "ep": 8,
+    "s": 1288,
+    "folder": "飞鸟山公园"
+  },
+  {
+    "id": "remtzaz51",
+    "name": "素世家",
+    "image": "https://image.xinu.ink/pic/data/866/images/remtzaz51_1735460023188.jpg",
+    "geo": [
+      35.658852,
+      139.729421
+    ],
+    "ep": 9,
+    "s": 36,
+    "mark": "动画中出现的素世家内装与六本木ヒルズレジデンスB棟的最高层户型「ペントハウス」也完全一致。价格据说接近十亿日元。",
+    "folder": "素世家"
+  },
+  {
+    "id": "ren64ttyl",
+    "name": "千登世歩道橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/ren64ttyl_1735460748259.jpg",
+    "geo": [
+      35.72081,
+      139.712763
+    ],
+    "ep": 9,
+    "s": 606,
+    "folder": "千登世步道桥",
+    "cn": "千登世步道桥"
+  },
+  {
+    "id": "ren6yxuab",
+    "name": "千登世歩道橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/ren6yxuab_1735460791120.jpg",
+    "geo": [
+      35.720846,
+      139.712876
+    ],
+    "ep": 9,
+    "s": 614,
+    "folder": "千登世步道桥",
+    "cn": "千登世步道桥"
+  },
+  {
+    "id": "ren8843ne",
+    "name": "面影橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/ren8843ne_1735460866978.jpg",
+    "geo": [
+      35.713156,
+      139.714137
+    ],
+    "ep": 9,
+    "s": 654,
+    "folder": "面影桥"
+  },
+  {
+    "id": "ren8hqkye",
+    "name": "面影橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/ren8hqkye_1735460925530.jpg",
+    "geo": [
+      35.713242,
+      139.714225
+    ],
+    "ep": 9,
+    "s": 659,
+    "folder": "面影桥"
+  },
+  {
+    "id": "ren9s1fcy",
+    "name": "鬼子母神前停留場",
+    "image": "https://image.xinu.ink/pic/data/866/images/ren9s1fcy_1735460973209.jpg",
+    "geo": [
+      35.720193,
+      139.714905
+    ],
+    "ep": 9,
+    "s": 711,
+    "mark": "灯和爱音位于路线西侧的三之轮桥方向站台。",
+    "folder": "鬼子母神前"
+  },
+  {
+    "id": "rencnch4c",
+    "name": "鬼子母神前停留場",
+    "image": "https://image.xinu.ink/pic/data/866/images/rencnch4c_1735461134353.jpg",
+    "geo": [
+      35.720089,
+      139.714705
+    ],
+    "ep": 9,
+    "s": 715,
+    "mark": "因施工原因谷歌地图导航的千登世桥路线被封，需要从成人桥与千登世桥中间的路口上坡前往电车站，施工预计25.5.31结束",
+    "folder": "鬼子母神前"
+  },
+  {
+    "id": "rencu4a6z",
+    "name": "鬼子母神前停留場",
+    "image": "https://image.xinu.ink/pic/data/866/images/rencu4a6z_1735461145496.jpg",
+    "geo": [
+      35.720174,
+      139.714769
+    ],
+    "ep": 9,
+    "s": 724,
+    "folder": "鬼子母神前"
+  },
+  {
+    "id": "rend7with",
+    "name": "鬼子母神前停留場",
+    "image": "https://image.xinu.ink/pic/data/866/images/rend7with_1735461168750.jpg",
+    "geo": [
+      35.720164,
+      139.714773
+    ],
+    "ep": 9,
+    "s": 729,
+    "folder": "鬼子母神前"
+  },
+  {
+    "id": "idmkglzgl",
+    "name": "鬼子母神前停留場",
+    "image": "https://image.xinu.ink/pic/data/866/images/idmkglzgl_1735461278362.jpg",
+    "geo": [
+      35.720111,
+      139.714827
+    ],
+    "ep": 9,
+    "s": 736,
+    "mark": "设定上离灯家最近的车站，附近还有月之森的原型日本女子大学。所以灯和月之森在读的角色都经常出现在这里，立希也经常陪灯坐车到这里并送她回家。",
+    "folder": "鬼子母神前"
+  },
+  {
+    "id": "renfm89kj",
+    "name": "鬼子母神前停留場",
+    "image": "https://image.xinu.ink/pic/data/866/images/renfm89kj_1735461313658.jpg",
+    "geo": [
+      35.720166,
+      139.714765
+    ],
+    "ep": 9,
+    "s": 740,
+    "folder": "鬼子母神前"
+  },
+  {
+    "id": "renfs7bhl",
+    "name": "鬼子母神前停留場",
+    "image": "https://image.xinu.ink/pic/data/866/images/renfs7bhl_1735461323482.jpg",
+    "geo": [
+      35.72017,
+      139.714773
+    ],
+    "ep": 9,
+    "s": 743,
+    "folder": "鬼子母神前"
+  },
+  {
+    "id": "reng2u46z",
+    "name": "鬼子母神前停留場",
+    "image": "https://image.xinu.ink/pic/data/866/images/reng2u46z_1735461342862.jpg",
+    "geo": [
+      35.720116,
+      139.71483
+    ],
+    "ep": 9,
+    "s": 748,
+    "folder": "鬼子母神前"
+  },
+  {
+    "id": "renghf8x7",
+    "name": "鬼子母神前停留場",
+    "image": "https://image.xinu.ink/pic/data/866/images/renghf8x7_1735461371220.jpg",
+    "geo": [
+      35.72012,
+      139.714831
+    ],
+    "ep": 9,
+    "s": 751,
+    "folder": "鬼子母神前"
+  },
+  {
+    "id": "rengvm2xb",
+    "name": "鬼子母神前停留場",
+    "image": "https://image.xinu.ink/pic/data/866/images/rengvm2xb_1735461389774.jpg",
+    "geo": [
+      35.720113,
+      139.71482
+    ],
+    "ep": 9,
+    "s": 755,
+    "folder": "鬼子母神前"
+  },
+  {
+    "id": "renh1j32p",
+    "name": "鬼子母神前停留場",
+    "image": "https://image.xinu.ink/pic/data/866/images/renh1j32p_1735461400369.jpg",
+    "geo": [
+      35.720109,
+      139.714824
+    ],
+    "ep": 9,
+    "s": 762,
+    "folder": "鬼子母神前"
+  },
+  {
+    "id": "renk4ofs0",
+    "name": "早稲田停留場",
+    "image": "https://image.xinu.ink/pic/data/866/images/renk4ofs0_1735461586922.jpg",
+    "geo": [
+      35.711815,
+      139.719036
+    ],
+    "ep": 9,
+    "s": 776,
+    "folder": "都电荒川线"
+  },
+  {
+    "id": "renjis686",
+    "name": "早稲田停留場",
+    "image": "https://image.xinu.ink/pic/data/866/images/renjis686_1735461572577.jpg",
+    "geo": [
+      35.711819,
+      139.719004
+    ],
+    "ep": 9,
+    "s": 802,
+    "folder": "都电荒川线"
+  },
+  {
+    "id": "rennnrj4h",
+    "name": "千登世小橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/rennnrj4h_1735461812165.jpg",
+    "geo": [
+      35.718807,
+      139.713823
+    ],
+    "ep": 9,
+    "s": 811,
+    "mark": "在桥北拍摄桥南。",
+    "folder": "千登世桥",
+    "cn": "千登世小桥"
+  },
+  {
+    "id": "renqkz0u9",
+    "name": "千登世小橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/renqkz0u9_1735461979460.jpg",
+    "geo": [
+      35.718763,
+      139.71375
+    ],
+    "ep": 9,
+    "s": 813,
+    "folder": "千登世桥",
+    "cn": "千登世小桥"
+  },
+  {
+    "id": "renr0ovr3",
+    "name": "千登世小橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/renr0ovr3_1735462003692.jpg",
+    "geo": [
+      35.718758,
+      139.713762
+    ],
+    "ep": 9,
+    "s": 825,
+    "folder": "千登世桥",
+    "cn": "千登世小桥"
+  },
+  {
+    "id": "renr9uhvt",
+    "name": "千登世小橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/renr9uhvt_1735462018229.jpg",
+    "geo": [
+      35.718754,
+      139.713769
+    ],
+    "ep": 9,
+    "s": 831,
+    "folder": "千登世桥",
+    "cn": "千登世小桥"
+  },
+  {
+    "id": "renuiwqr7",
+    "name": "富士見坂",
+    "image": "https://image.xinu.ink/pic/data/866/images/renuiwqr7_1735462224528.jpg",
+    "geo": [
+      35.715748,
+      139.717066
+    ],
+    "ep": 10,
+    "s": 50,
+    "folder": "富士见坂",
+    "cn": "富士见坂"
+  },
+  {
+    "id": "reolj0pyd",
+    "name": "富士見坂",
+    "image": "https://image.xinu.ink/pic/data/866/images/reolj0pyd_1735463849986.jpg",
+    "geo": [
+      35.715867,
+      139.717152
+    ],
+    "ep": 10,
+    "s": 51,
+    "folder": "富士见坂",
+    "cn": "富士见坂"
+  },
+  {
+    "id": "reol1mx3p",
+    "name": "コニカミノルタ プラネタリウム満天 in Sunshine City",
+    "image": "https://image.xinu.ink/pic/data/866/images/reol1mx3p_1735463819619.jpg",
+    "geo": [
+      35.728824,
+      139.719794
+    ],
+    "ep": 10,
+    "s": 171,
+    "mark": "达到商场4楼平台后直接前往后面的大楼入口，乘直梯到屋上。注意商场办展览时会把两馆与展览放在一张指示牌上引导，但实际并不在一个地方，不要被误导了。星象馆放送一场约50分钟，可借用英文同声翻译器，但日语知名声优与AI英语对比下好像这个(指翻译器)不需要了",
+    "folder": "星象仪馆「满天」",
+    "cn": "柯尼卡美能达星象仪馆「满天」"
+  },
+  {
+    "id": "reomkjsf4",
+    "name": "コニカミノルタ プラネタリウム満天 in Sunshine City",
+    "image": "https://image.xinu.ink/pic/data/866/images/reomkjsf4_1735463913129.jpg",
+    "geo": [
+      35.72883,
+      139.719793
+    ],
+    "ep": 10,
+    "s": 181,
+    "folder": "星象仪馆「满天」",
+    "cn": "柯尼卡美能达星象仪馆「满天」"
+  },
+  {
+    "id": "reonp7obq",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/reonp7obq_1735463993708.jpg",
+    "geo": [
+      35.729868,
+      139.718423
+    ],
+    "ep": 10,
+    "s": 208,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "reooltti6",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/reooltti6_1735464040173.jpg",
+    "geo": [
+      35.729744,
+      139.718577
+    ],
+    "ep": 10,
+    "s": 209,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "reoqonbmu",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/reoqonbmu_1735464176198.jpg",
+    "geo": [
+      35.729792,
+      139.718594
+    ],
+    "ep": 10,
+    "s": 230,
+    "mark": "灯和初华坐在楼梯最高层的部分。",
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "reorn9qth",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/reorn9qth_1735464217907.jpg",
+    "geo": [
+      35.729733,
+      139.718573
+    ],
+    "ep": 10,
+    "s": 233,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "reortryt7",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/reortryt7_1735464228905.jpg",
+    "geo": [
+      35.729749,
+      139.718589
+    ],
+    "ep": 10,
+    "s": 238,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "reovt2eap",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/reovt2eap_1735464484446.jpg",
+    "geo": [
+      35.729753,
+      139.718571
+    ],
+    "ep": 10,
+    "s": 262,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "reowfav7s",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/reowfav7s_1735464507512.jpg",
+    "geo": [
+      35.729742,
+      139.718569
+    ],
+    "ep": 10,
+    "s": 267,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "reowqwc9u",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/reowqwc9u_1735464526163.jpg",
+    "geo": [
+      35.729742,
+      139.718573
+    ],
+    "ep": 10,
+    "s": 273,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "oniyon1xi",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/oniyon1xi_1735464532861.jpg",
+    "geo": [
+      35.729746,
+      139.718584
+    ],
+    "ep": 10,
+    "s": 275,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "ji2n1dw04",
+    "name": "素世家",
+    "image": "https://image.xinu.ink/pic/data/866/images/ji2n1dw04-1713160685446.jpg",
+    "geo": [
+      35.659162,
+      139.728971
+    ],
+    "ep": 10,
+    "s": 918,
+    "mark": "Soyo家，六本木​ヒルズ​レジデンス​B​棟。没几年就从小破房子换成超级塔楼顶层，Soyo妈，实际商业超人！",
+    "folder": "素世家"
+  },
+  {
+    "id": "rep6o812w",
+    "name": "素世家",
+    "image": "https://image.xinu.ink/pic/data/866/images/rep6o812w_1735465126311.jpg",
+    "geo": [
+      35.658876,
+      139.729398
+    ],
+    "ep": 10,
+    "s": 933,
+    "folder": "素世家"
+  },
+  {
+    "id": "repf02ovy",
+    "name": "池袋駅東口前",
+    "image": "https://image.xinu.ink/pic/data/866/images/repf02ovy_1735465630266.jpg",
+    "geo": [
+      35.729833,
+      139.713221
+    ],
+    "ep": 11,
+    "s": 622,
+    "folder": "池袋东口"
+  },
+  {
+    "id": "repfds16n",
+    "name": "池袋駅東口前",
+    "image": "https://image.xinu.ink/pic/data/866/images/repfds16n_1735465653307.jpg",
+    "geo": [
+      35.729784,
+      139.713205
+    ],
+    "ep": 11,
+    "s": 633,
+    "folder": "池袋东口"
+  },
+  {
+    "id": "repga8qkr",
+    "name": "池袋駅35番出入口",
+    "image": "https://image.xinu.ink/pic/data/866/images/repga8qkr_1735465707821.jpg",
+    "geo": [
+      35.729828,
+      139.713111
+    ],
+    "ep": 11,
+    "s": 642,
+    "mark": "背景中的「3」是GIGO 3号馆的标识。",
+    "folder": "池袋东口"
+  },
+  {
+    "id": "reph238ot",
+    "name": "池袋駅35番出入口",
+    "image": "https://image.xinu.ink/pic/data/866/images/reph238ot_1735465755300.jpg",
+    "geo": [
+      35.729827,
+      139.713132
+    ],
+    "ep": 11,
+    "s": 643,
+    "folder": "池袋东口"
+  },
+  {
+    "id": "repha4bsz",
+    "name": "池袋駅35番出入口",
+    "image": "https://image.xinu.ink/pic/data/866/images/repha4bsz_1735465768124.jpg",
+    "geo": [
+      35.729842,
+      139.713143
+    ],
+    "ep": 11,
+    "s": 648,
+    "folder": "池袋东口"
+  },
+  {
+    "id": "repi4hrgq",
+    "name": "池袋駅35番出入口",
+    "image": "https://image.xinu.ink/pic/data/866/images/repi4hrgq_1735465821484.jpg",
+    "geo": [
+      35.729831,
+      139.713133
+    ],
+    "ep": 11,
+    "s": 655,
+    "mark": "背景为「池袋駅東口」公交站的站亭，爱音挡住的地方其实有一个电话亭。",
+    "folder": "池袋东口"
+  },
+  {
+    "id": "idmkglyza",
+    "name": "池袋駅35番出入口",
+    "image": "https://image.xinu.ink/pic/data/866/images/idmkglyza_1735465884264.jpg",
+    "geo": [
+      35.729868,
+      139.713145
+    ],
+    "ep": 11,
+    "s": 668,
+    "mark": "池袋站35号口。爱音创造「Soyorin」昵称的地方。",
+    "folder": "池袋东口"
+  },
+  {
+    "id": "repocfuh3",
+    "name": "池袋駅35番出入口",
+    "image": "https://image.xinu.ink/pic/data/866/images/repocfuh3_1735466196491.jpg",
+    "geo": [
+      35.729846,
+      139.713145
+    ],
+    "ep": 11,
+    "s": 670,
+    "mark": "背景是位于35号口和公交站之间的电话亭。",
+    "folder": "池袋东口"
+  },
+  {
+    "id": "repltqo6y",
+    "name": "池袋駅35番出入口",
+    "image": "https://image.xinu.ink/pic/data/866/images/repltqo6y_1735466059764.jpg",
+    "geo": [
+      35.729845,
+      139.713155
+    ],
+    "ep": 11,
+    "s": 672,
+    "folder": "池袋东口"
+  },
+  {
+    "id": "idmkglzer",
+    "name": "西川口Live House Hearts",
+    "image": "https://image.xinu.ink/pic/data/866/images/idmkglzer_1735466352738.jpg",
+    "geo": [
+      35.815931,
+      139.707886
+    ],
+    "ep": 11,
+    "s": 693,
+    "mark": "要乐奈的奶奶曾经经营的Live House SPACE的原型。",
+    "folder": "SPACE"
+  },
+  {
+    "id": "reptsxka2",
+    "name": "素世家",
+    "image": "https://image.xinu.ink/pic/data/866/images/reptsxka2_1735466529593.jpg",
+    "geo": [
+      35.65888,
+      139.729472
+    ],
+    "ep": 11,
+    "s": 973,
+    "mark": "虽然基本上不可能亲自前往，但是在谷歌地图上是能看到这栋楼四角的天台的。",
+    "folder": "素世家"
+  },
+  {
+    "id": "req2gcrxp",
+    "name": "東口五差路交差点",
+    "image": "https://image.xinu.ink/pic/data/866/images/req2gcrxp_1735467055745.jpg",
+    "geo": [
+      35.729582,
+      139.714079
+    ],
+    "ep": 12,
+    "s": 1113,
+    "folder": "池袋东口"
+  },
+  {
+    "id": "req2ws18i",
+    "name": "東口五差路交差点",
+    "image": "https://image.xinu.ink/pic/data/866/images/req2ws18i_1735467079063.jpg",
+    "geo": [
+      35.729563,
+      139.714107
+    ],
+    "ep": 12,
+    "s": 1115,
+    "folder": "池袋东口"
+  },
+  {
+    "id": "reqj1lhau",
+    "name": "鬼子母神前停留場",
+    "image": "https://image.xinu.ink/pic/data/866/images/reqj1lhau_1735468053313.jpg",
+    "geo": [
+      35.720154,
+      139.714861
+    ],
+    "ep": 13,
+    "s": 265,
+    "folder": "鬼子母神前"
+  },
+  {
+    "id": "reqkkwjnh",
+    "name": "千登世歩道橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/reqkkwjnh_1735468150780.jpg",
+    "geo": [
+      35.720831,
+      139.712813
+    ],
+    "ep": 13,
+    "s": 273,
+    "folder": "千登世步道桥",
+    "cn": "千登世步道桥"
+  },
+  {
+    "id": "reql0xng3",
+    "name": "千登世歩道橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/reql0xng3_1735468174499.jpg",
+    "geo": [
+      35.72084,
+      139.712852
+    ],
+    "ep": 13,
+    "s": 287,
+    "folder": "千登世步道桥",
+    "cn": "千登世步道桥"
+  },
+  {
+    "id": "reqlbvozx",
+    "name": "千登世歩道橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/reqlbvozx_1735468190308.jpg",
+    "geo": [
+      35.720833,
+      139.712822
+    ],
+    "ep": 13,
+    "s": 292,
+    "folder": "千登世步道桥",
+    "cn": "千登世步道桥"
+  },
+  {
+    "id": "reqlsdzq7",
+    "name": "千登世歩道橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/reqlsdzq7_1735468217301.jpg",
+    "geo": [
+      35.720834,
+      139.712827
+    ],
+    "ep": 13,
+    "s": 313,
+    "folder": "千登世步道桥",
+    "cn": "千登世步道桥"
+  },
+  {
+    "id": "rerb7he88",
+    "name": "サンシャイン前交差点",
+    "image": "https://image.xinu.ink/pic/data/866/images/rerb7he88_1735469824482.jpg",
+    "geo": [
+      35.729225,
+      139.716904
+    ],
+    "ep": 13,
+    "s": 442,
+    "mark": "向东拍摄。画面中左侧大楼是サンシャイン60，右侧大楼是タイムズステーション池袋。",
+    "folder": "Sunshine City"
+  },
+  {
+    "id": "reqmg3n02",
+    "name": "サンシャイン​水族館",
+    "image": "https://image.xinu.ink/pic/data/866/images/reqmg3n02_1735468261433.jpg",
+    "geo": [
+      35.729291,
+      139.720131
+    ],
+    "ep": 13,
+    "s": 480,
+    "folder": "Sunshine水族馆",
+    "cn": "Sunshine水族馆"
+  },
+  {
+    "id": "reqpdln9z",
+    "name": "サンシャイン​水族館",
+    "image": "https://image.xinu.ink/pic/data/866/images/reqpdln9z_1735468438217.jpg",
+    "geo": [
+      35.729311,
+      139.72016
+    ],
+    "ep": 13,
+    "s": 508,
+    "mark": "背景是洗手池。",
+    "folder": "Sunshine水族馆",
+    "cn": "Sunshine水族馆"
+  },
+  {
+    "id": "reqqa5mdn",
+    "name": "サンシャイン​水族館",
+    "image": "https://image.xinu.ink/pic/data/866/images/reqqa5mdn_1735468489455.jpg",
+    "geo": [
+      35.729324,
+      139.72015
+    ],
+    "ep": 13,
+    "s": 509,
+    "folder": "Sunshine水族馆",
+    "cn": "Sunshine水族馆"
+  },
+  {
+    "id": "reqn2divt",
+    "name": "サンシャイン​水族館",
+    "image": "https://image.xinu.ink/pic/data/866/images/reqn2divt_1735468295292.jpg",
+    "geo": [
+      35.729331,
+      139.720117
+    ],
+    "ep": 13,
+    "s": 518,
+    "folder": "Sunshine水族馆",
+    "cn": "Sunshine水族馆"
+  },
+  {
+    "id": "reqnd8mrt",
+    "name": "サンシャイン​水族館",
+    "image": "https://image.xinu.ink/pic/data/866/images/reqnd8mrt_1735468313088.jpg",
+    "geo": [
+      35.729323,
+      139.720142
+    ],
+    "ep": 13,
+    "s": 524,
+    "folder": "Sunshine水族馆",
+    "cn": "Sunshine水族馆"
+  },
+  {
+    "id": "reqnkbd9j",
+    "name": "サンシャイン​水族館",
+    "image": "https://image.xinu.ink/pic/data/866/images/reqnkbd9j_1735468324874.jpg",
+    "geo": [
+      35.72933,
+      139.720159
+    ],
+    "ep": 13,
+    "s": 534,
+    "folder": "Sunshine水族馆",
+    "cn": "Sunshine水族馆"
+  },
+  {
+    "id": "reqnt1xyf",
+    "name": "サンシャイン​水族館",
+    "image": "https://image.xinu.ink/pic/data/866/images/reqnt1xyf_1735468339753.jpg",
+    "geo": [
+      35.729305,
+      139.72015
+    ],
+    "ep": 13,
+    "s": 541,
+    "folder": "Sunshine水族馆",
+    "cn": "Sunshine水族馆"
+  },
+  {
+    "id": "reqwl4u2u",
+    "name": "サンシャイン​シティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/reqwl4u2u_1735468875830.jpg",
+    "geo": [
+      35.729601,
+      139.718574
+    ],
+    "ep": 13,
+    "s": 558,
+    "mark": "面向东南侧拍摄，可通过右侧筒状结构定位。",
+    "folder": "Sunshine City",
+    "cn": "Sunshine City"
+  },
+  {
+    "id": "rer00mt37",
+    "name": "サンシャイン​シティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/rer00mt37_1735469078514.jpg",
+    "geo": [
+      35.729588,
+      139.718596
+    ],
+    "ep": 13,
+    "s": 561,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City"
+  },
+  {
+    "id": "rer0iuv8r",
+    "name": "サンシャイン​シティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/rer0iuv8r_1735469120179.jpg",
+    "geo": [
+      35.729747,
+      139.718651
+    ],
+    "ep": 13,
+    "s": 564,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "rer1dggff",
+    "name": "サンシャイン​シティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/rer1dggff_1735469162412.jpg",
+    "geo": [
+      35.729752,
+      139.71863
+    ],
+    "ep": 13,
+    "s": 573,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "rer25ntbw",
+    "name": "サンシャイン​シティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/rer25ntbw_1735469226997.jpg",
+    "geo": [
+      35.729745,
+      139.718636
+    ],
+    "ep": 13,
+    "s": 609,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "rer2n7v51",
+    "name": "サンシャイン​シティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/rer2n7v51_1735469242418.jpg",
+    "geo": [
+      35.729759,
+      139.718631
+    ],
+    "ep": 13,
+    "s": 587,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "rer36ix85",
+    "name": "サンシャイン​シティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/rer36ix85_1735469271833.jpg",
+    "geo": [
+      35.72975,
+      139.718635
+    ],
+    "ep": 13,
+    "s": 627,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "rer3jjtus",
+    "name": "サンシャイン​シティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/rer3jjtus_1735469291640.jpg",
+    "geo": [
+      35.729754,
+      139.718635
+    ],
+    "ep": 13,
+    "s": 630,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "rer5236w0",
+    "name": "サンシャイン​シティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/rer5236w0_1735469397632.jpg",
+    "geo": [
+      35.729889,
+      139.718301
+    ],
+    "ep": 13,
+    "s": 659,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "idmkglz38",
+    "name": "千登世橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/idmkglz38_1735407493401.jpg",
+    "geo": [
+      35.719011,
+      139.713795
+    ],
+    "ep": "ED",
+    "s": 24,
+    "mark": "嵌在千登世桥北侧小路旁边防护网上的木头。2025年9月10日此木头已被市政移除，原因未知。",
+    "folder": "千登世桥",
+    "cn": "千登世桥附近"
+  },
+  {
+    "id": "idmkglz03",
+    "name": "神田川南",
+    "image": "https://image.xinu.ink/pic/data/866/images/idmkglz03_1735407096860.jpg",
+    "geo": [
+      35.714578,
+      139.711787
+    ],
+    "ep": "ED",
+    "s": 54,
+    "mark": "ED中灯所在的位置。",
+    "folder": "神田川两岸"
+  },
+  {
+    "id": "idmkglza4",
+    "name": "豊島区立南池袋第二公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/idmkglza4_1735406890044.jpg",
+    "geo": [
+      35.722571,
+      139.717003
+    ],
+    "ep": "ED",
+    "s": 66,
+    "mark": "ED中爱音所在的位置。在公园沙坑内向西北方向的公园入口拍摄。现实中的沙坑确实有这些玩具。",
+    "folder": "南池袋第二公园"
+  },
+  {
+    "id": "idmkglzhk",
+    "name": "早稻田22号踏切",
+    "image": "https://image.xinu.ink/pic/data/866/images/idmkglzhk_1735407499020.jpg",
+    "geo": [
+      35.722933,
+      139.71699
+    ],
+    "ep": "ED",
+    "s": 83,
+    "mark": "早稻田22号踏切，向北拍摄。",
+    "folder": "都电荒川线"
+  },
+  {
+    "id": "idmkglz9p",
+    "name": "サンシャイン60通り交差点",
+    "image": "https://image.xinu.ink/pic/data/866/images/idmkglz9p_1735492614277.jpg",
+    "geo": [
+      35.730183,
+      139.71666
+    ],
+    "ep": "宣传图",
+    "mark": "动画主视觉图之一。实际上远处的高楼会被高架桥挡住。",
+    "folder": "RiNG周边"
+  },
+  {
+    "id": "reuixe7k4",
+    "name": "千登世歩道橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/reuixe7k4_1735492630586.jpg",
+    "geo": [
+      35.720791,
+      139.712962
+    ],
+    "ep": "宣传图",
+    "mark": "动画BD上卷封面图。",
+    "folder": "千登世步道桥",
+    "cn": "千登世步道桥"
+  },
+  {
+    "id": "ret076tyc",
+    "name": "日無坂",
+    "image": "https://image.xinu.ink/pic/data/866/images/ret076tyc_1735492654885.jpg",
+    "geo": [
+      35.71659,
+      139.717753
+    ],
+    "ep": "宣传图",
+    "mark": "动画BD上下卷同时购入特典收纳BOX插图，右侧被素世挡住的房子就是动画里她追祥子时很显眼的被植物覆盖的房子。",
+    "folder": "富士见坂"
+  },
+  {
+    "id": "reuvob3ld",
+    "name": "サンシャイン60通り交差点",
+    "image": "https://image.xinu.ink/pic/data/866/images/reuvob3ld_1735492691446.jpg",
+    "geo": [
+      35.730361,
+      139.716992
+    ],
+    "ep": "宣传图",
+    "mark": "动画剧场版下篇四周目特典。",
+    "folder": "RiNG周边"
+  },
+  {
+    "id": "retoahhhx",
+    "name": "サンシャイン60通り交差点",
+    "image": "https://image.xinu.ink/pic/data/866/images/retoahhhx_1735475731068.jpg",
+    "geo": [
+      35.730186,
+      139.716705
+    ],
+    "ep": "宣传图",
+    "mark": "MyGO!!!!! 1st LIVE「僕たちはここで叫ぶ」宣传图。",
+    "folder": "RiNG周边"
+  },
+  {
+    "id": "revbul51m",
+    "name": "神宮通りのガード下",
+    "image": "https://image.xinu.ink/pic/data/866/images/revbul51m_1735478500626.jpg",
+    "geo": [
+      35.66341,
+      139.701457
+    ],
+    "ep": "名無声",
+    "s": 29,
+    "folder": "涩谷"
+  },
+  {
+    "id": "revc0ait9",
+    "name": "神宮通りのガード下",
+    "image": "https://image.xinu.ink/pic/data/866/images/revc0ait9_1735478519720.jpg",
+    "geo": [
+      35.663434,
+      139.701543
+    ],
+    "ep": "名無声",
+    "s": 32,
+    "folder": "涩谷"
+  },
+  {
+    "id": "revguw02p",
+    "name": "宮下第2歩道橋前",
+    "image": "https://image.xinu.ink/pic/data/866/images/revguw02p_1735478803796.jpg",
+    "geo": [
+      35.662822,
+      139.702111
+    ],
+    "ep": "名無声",
+    "s": 43,
+    "folder": "涩谷"
+  },
+  {
+    "id": "revjx08yk",
+    "name": "渋谷スクランブル交差点",
+    "image": "https://image.xinu.ink/pic/data/866/images/revjx08yk_1735479006921.jpg",
+    "geo": [
+      35.659466,
+      139.700575
+    ],
+    "ep": "名無声",
+    "s": 61,
+    "folder": "涩谷"
+  },
+  {
+    "id": "revkxdrly",
+    "name": "渋谷パルコ屋上",
+    "image": "https://image.xinu.ink/pic/data/866/images/revkxdrly_1735479115994.jpg",
+    "geo": [
+      35.662083,
+      139.698358
+    ],
+    "ep": "名無声",
+    "s": 70,
+    "mark": "大致是在涩谷PARCO，背景建筑是住友不動産渋谷ビル。",
+    "folder": "涩谷"
+  },
+  {
+    "id": "revou8brb",
+    "name": "宇田川町10丁目の階段",
+    "image": "https://image.xinu.ink/pic/data/866/images/revou8brb_1735479304060.jpg",
+    "geo": [
+      35.662679,
+      139.697199
+    ],
+    "ep": "名無声",
+    "s": 110,
+    "folder": "涩谷"
+  },
+  {
+    "id": "revpo7eoe",
+    "name": "宮下第2歩道橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/revpo7eoe_1735479353267.jpg",
+    "geo": [
+      35.663242,
+      139.702246
+    ],
+    "ep": "名無声",
+    "s": 118,
+    "folder": "涩谷"
+  },
+  {
+    "id": "revxikuhk",
+    "name": "渋谷スクランブル交差点",
+    "image": "https://image.xinu.ink/pic/data/866/images/revxikuhk_1735479958584.jpg",
+    "geo": [
+      35.659422,
+      139.700426
+    ],
+    "ep": "名無声",
+    "s": 226,
+    "folder": "涩谷"
+  },
+  {
+    "id": "revxjeg03",
+    "name": "渋谷スクランブル交差点",
+    "image": "https://image.xinu.ink/pic/data/866/images/revxjeg03_1735479977866.jpg",
+    "geo": [
+      35.659398,
+      139.700529
+    ],
+    "ep": "名無声",
+    "s": 227,
+    "folder": "涩谷"
+  },
+  {
+    "id": "revxkexwh",
+    "name": "渋谷スクランブル交差点",
+    "image": "https://image.xinu.ink/pic/data/866/images/revxkexwh_1735479871769.jpg",
+    "geo": [
+      35.659476,
+      139.700603
+    ],
+    "ep": "名無声",
+    "s": 228,
+    "folder": "涩谷"
+  },
+  {
+    "id": "revxh95j0",
+    "name": "渋谷スクランブル交差点",
+    "image": "https://image.xinu.ink/pic/data/866/images/revxh95j0_1735479907092.jpg",
+    "geo": [
+      35.659543,
+      139.700524
+    ],
+    "ep": "名無声",
+    "s": 228,
+    "folder": "涩谷"
+  },
+  {
+    "id": "revxhxphd",
+    "name": "渋谷スクランブル交差点",
+    "image": "https://image.xinu.ink/pic/data/866/images/revxhxphd_1735479919259.jpg",
+    "geo": [
+      35.659512,
+      139.70042
+    ],
+    "ep": "名無声",
+    "s": 229,
+    "folder": "涩谷"
+  },
+  {
+    "id": "rew2a9kek",
+    "name": "渋谷スクランブル交差点",
+    "image": "https://image.xinu.ink/pic/data/866/images/rew2a9kek_1735480133772.jpg",
+    "geo": [
+      35.659519,
+      139.699706
+    ],
+    "ep": "名無声",
+    "s": 250,
+    "folder": "涩谷"
+  },
+  {
+    "id": "rettjady5",
+    "name": "サンシャイン60通り交差点",
+    "image": "https://image.xinu.ink/pic/data/866/images/rettjady5_1735494913261.jpg",
+    "geo": [
+      35.730318,
+      139.716749
+    ],
+    "ep": "音一会",
+    "mark": "MyGO!!!!! 2nd Single「音一会」封面。几个人站在路口北侧的斑马线上，远处可以看到写着「王子」的路牌。",
+    "folder": "RiNG周边"
+  },
+  {
+    "id": "rg4k4855u",
+    "name": "サンシャインシティ アネックス",
+    "image": "https://image.xinu.ink/pic/data/866/images/rg4k4855u_1735577115469.jpg",
+    "geo": [
+      35.730637,
+      139.717715
+    ],
+    "ep": "音一会",
+    "s": 2,
+    "mark": "中左素世照片拍摄点。背景为サンシャインシティ アネックス。",
+    "folder": "Sunshine City"
+  },
+  {
+    "id": "rg4rnsrlc",
+    "name": "サンシャインシティ アネックス",
+    "image": "https://image.xinu.ink/pic/data/866/images/rg4rnsrlc_1735577441885.jpg",
+    "geo": [
+      35.729943,
+      139.717509
+    ],
+    "ep": "音一会",
+    "s": 46,
+    "mark": "中间只有腿的照片的拍摄点。",
+    "folder": "Sunshine City"
+  },
+  {
+    "id": "rewly7sxy",
+    "name": "首都高速道路高架下",
+    "image": "https://image.xinu.ink/pic/data/866/images/rewly7sxy_1735481302431.jpg",
+    "geo": [
+      35.729361,
+      139.717443
+    ],
+    "ep": "音一会",
+    "s": 49,
+    "mark": "左侧照片拍摄点。",
+    "folder": "Sunshine City"
+  },
+  {
+    "id": "rewojzpi0",
+    "name": "首都高速道路高架下",
+    "image": "https://image.xinu.ink/pic/data/866/images/rewojzpi0_1735481511445.jpg",
+    "geo": [
+      35.730659,
+      139.716699
+    ],
+    "ep": "音一会",
+    "s": 64,
+    "folder": "RiNG周边"
+  },
+  {
+    "id": "rg4hff6jf",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/rg4hff6jf_1735576804858.jpg",
+    "geo": [
+      35.729879,
+      139.718476
+    ],
+    "ep": "音一会",
+    "s": 123,
+    "mark": "左上素世背影照片拍摄点。",
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "rg4vu2zy0",
+    "name": "首都高速道路高架下",
+    "image": "https://image.xinu.ink/pic/data/866/images/rg4vu2zy0_1735577777729.jpg",
+    "geo": [
+      35.730059,
+      139.71665
+    ],
+    "ep": "音一会",
+    "s": 123,
+    "mark": "左上乐奈照片拍摄点。需要用长焦拍摄马路对面，可通过消火栓的标识定位。",
+    "folder": "RiNG周边"
+  },
+  {
+    "id": "rg4iraan6",
+    "name": "東池袋公園付近",
+    "image": "https://image.xinu.ink/pic/data/866/images/rg4iraan6_1735576884783.jpg",
+    "geo": [
+      35.731501,
+      139.718261
+    ],
+    "ep": "音一会",
+    "s": 133,
+    "mark": "左侧背影照片拍摄点。",
+    "folder": "RiNG周边",
+    "cn": "东池袋公园附近"
+  },
+  {
+    "id": "rewvclbmx",
+    "name": "サンシャイン60",
+    "image": "https://image.xinu.ink/pic/data/866/images/rewvclbmx_1735481864181.jpg",
+    "geo": [
+      35.729302,
+      139.717065
+    ],
+    "ep": "碧天伴走",
+    "s": 0,
+    "folder": "Sunshine City"
+  },
+  {
+    "id": "rewykvh83",
+    "name": "豊島区立東池袋中央公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/rewykvh83_1735482051877.jpg",
+    "geo": [
+      35.730119,
+      139.718572
+    ],
+    "ep": "碧天伴走",
+    "s": 33,
+    "folder": "东池袋中央公园"
+  },
+  {
+    "id": "rex1e3ahj",
+    "name": "雑司が谷みみずく公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/rex1e3ahj_1735482271307.jpg",
+    "geo": [
+      35.721836,
+      139.714136
+    ],
+    "ep": "碧天伴走",
+    "s": 41,
+    "folder": "鬼子母神前"
+  },
+  {
+    "id": "rex3e6lrn",
+    "name": "首都高速道路高架下",
+    "image": "https://image.xinu.ink/pic/data/866/images/rex1e3ahj_1735482271307.jpg",
+    "geo": [
+      35.726478,
+      139.717967
+    ],
+    "ep": "碧天伴走",
+    "s": 41,
+    "mark": "サン浜名旁边的道路。",
+    "folder": "东池袋"
+  },
+  {
+    "id": "rex4pbzja",
+    "name": "豊島区立東池袋中央公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/rex4pbzja_1735482422820.jpg",
+    "geo": [
+      35.730176,
+      139.718526
+    ],
+    "ep": "碧天伴走",
+    "s": 69,
+    "folder": "东池袋中央公园"
+  },
+  {
+    "id": "rex5s16pl",
+    "name": "サンシャイン​シティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/rex5s16pl_1735482497953.jpg",
+    "geo": [
+      35.729736,
+      139.718675
+    ],
+    "ep": "碧天伴走",
+    "s": 76,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "rex6y94fb",
+    "name": "サンシャイン​シティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/rex6y94fb_1735482560598.jpg",
+    "geo": [
+      35.72974,
+      139.718665
+    ],
+    "ep": "碧天伴走",
+    "s": 78,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "rex7apan7",
+    "name": "サンシャイン​シティ",
+    "image": "https://image.xinu.ink/pic/data/866/images/rex7apan7_1735482581041.jpg",
+    "geo": [
+      35.729763,
+      139.718618
+    ],
+    "ep": "碧天伴走",
+    "s": 89,
+    "folder": "Sunshine City",
+    "cn": "Sunshine City西北台阶"
+  },
+  {
+    "id": "rexuj10up",
+    "name": "代々木公園野外ステージ",
+    "image": "https://image.xinu.ink/pic/data/866/images/rexuj10up_1735484041175.jpg",
+    "geo": [
+      35.667158,
+      139.69668
+    ],
+    "ep": "碧天伴走",
+    "s": 208,
+    "folder": "代代木公园野外舞台"
+  },
+  {
+    "id": "rezsxiszz",
+    "name": "サンシャイン60通り",
+    "image": "https://image.xinu.ink/pic/data/866/images/rezsxiszz_1735488293300.jpg",
+    "geo": [
+      35.729547,
+      139.714226
+    ],
+    "ep": "詩超絆",
+    "s": 71,
+    "folder": "RiNG周边"
+  },
+  {
+    "id": "rezwadrc6",
+    "name": "千登世小橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/rezwadrc6_1735488495885.jpg",
+    "geo": [
+      35.718823,
+      139.713841
+    ],
+    "ep": "詩超絆",
+    "s": 91,
+    "mark": "向北拍摄。",
+    "folder": "千登世桥",
+    "cn": "千登世小桥"
+  },
+  {
+    "id": "rezzpjrhx",
+    "name": "千登世橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/rezzpjrhx_1735488768584.jpg",
+    "geo": [
+      35.718869,
+      139.71345
+    ],
+    "ep": "詩超絆",
+    "s": 95,
+    "mark": "向南拍摄。",
+    "folder": "千登世桥",
+    "cn": "千登世桥"
+  },
+  {
+    "id": "rf0q9smts",
+    "name": "サンシャイン60通り",
+    "image": "https://image.xinu.ink/pic/data/866/images/rf0q9smts_1735490257680.jpg",
+    "geo": [
+      35.729998,
+      139.715796
+    ],
+    "ep": "歌いましょう鳴らしましょう",
+    "s": 4,
+    "mark": "道路中间的地砖。",
+    "folder": "RiNG周边",
+    "cn": "Sunshine60通"
+  },
+  {
+    "id": "rf0o93wox",
+    "name": "サンシャイン60通り",
+    "image": "https://image.xinu.ink/pic/data/866/images/rf0o93wox_1735490157843.jpg",
+    "geo": [
+      35.729958,
+      139.715718
+    ],
+    "ep": "歌いましょう鳴らしましょう",
+    "s": 5,
+    "mark": "向西拍摄，可通过路灯定位。",
+    "folder": "RiNG周边",
+    "cn": "Sunshine60通"
+  },
+  {
+    "id": "rf0r4cveo",
+    "name": "サンシャイン60通り",
+    "image": "https://image.xinu.ink/pic/data/866/images/rf0r4cveo_1735490312189.jpg",
+    "geo": [
+      35.729895,
+      139.715466
+    ],
+    "ep": "歌いましょう鳴らしましょう",
+    "s": 6,
+    "folder": "RiNG周边",
+    "cn": "Sunshine60通"
+  },
+  {
+    "id": "rf0i0qht5",
+    "name": "サンシャイン60通り",
+    "image": "https://image.xinu.ink/pic/data/866/images/rf0i0qht5_1735489830160.jpg",
+    "geo": [
+      35.729821,
+      139.715172
+    ],
+    "ep": "歌いましょう鳴らしましょう",
+    "s": 6,
+    "mark": "向东拍摄。PV中隐约可以看到「高価買取」的招牌。",
+    "folder": "RiNG周边",
+    "cn": "Sunshine60通"
+  },
+  {
+    "id": "rf0jw247p",
+    "name": "サンシャイン60通り",
+    "image": "https://image.xinu.ink/pic/data/866/images/rf0jw247p_1735489871168.jpg",
+    "geo": [
+      35.729842,
+      139.715249
+    ],
+    "ep": "歌いましょう鳴らしましょう",
+    "s": 7,
+    "mark": "向西拍摄。远处建筑为エス・エイチ・ワン。",
+    "folder": "RiNG周边",
+    "cn": "Sunshine60通"
+  },
+  {
+    "id": "rf1lzc4ri",
+    "name": "池袋サンシャイン60通り店",
+    "image": "https://image.xinu.ink/pic/data/866/images/rf1lzc4ri_1735492292522.jpg",
+    "geo": [
+      35.730208,
+      139.716395
+    ],
+    "ep": "歌いましょう鳴らしましょう",
+    "s": 82,
+    "mark": "背景中可以看到池袋サンシャイン60通り店门口的施工围墙的拐角。",
+    "folder": "RiNG周边"
+  },
+  {
+    "id": "rf1oz76fg",
+    "name": "池袋サンシャイン60通り店",
+    "image": "https://image.xinu.ink/pic/data/866/images/rf1oz76fg_1735492356251.jpg",
+    "geo": [
+      35.730213,
+      139.716409
+    ],
+    "ep": "歌いましょう鳴らしましょう",
+    "s": 95,
+    "mark": "背景中可以看到池袋サンシャイン60通り店门口的施工围墙的末端。",
+    "folder": "RiNG周边"
+  },
+  {
+    "id": "rf1b4cft0",
+    "name": "東京​電子​専門学校",
+    "image": "https://image.xinu.ink/pic/data/866/images/rf1b4cft0_1735491520332.jpg",
+    "geo": [
+      35.731469,
+      139.716965
+    ],
+    "ep": "歌いましょう鳴らしましょう",
+    "s": 89,
+    "folder": "RiNG周边",
+    "cn": "东京电子专门学校前步道桥"
+  },
+  {
+    "id": "rf1be0twl",
+    "name": "東池袋公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/rf1be0twl_1735491541046.jpg",
+    "geo": [
+      35.731609,
+      139.717541
+    ],
+    "ep": "歌いましょう鳴らしましょう",
+    "s": 93,
+    "folder": "RiNG周边",
+    "cn": "东池袋公园"
+  },
+  {
+    "id": "rf1deejku",
+    "name": "都電",
+    "image": "https://image.xinu.ink/pic/data/866/images/rf1deejku_1735491691820.jpg",
+    "geo": [
+      35.72537,
+      139.720394
+    ],
+    "ep": "歌いましょう鳴らしましょう",
+    "s": 98,
+    "folder": "RiNG周边"
+  },
+  {
+    "id": "rf1jfc9gp",
+    "name": "K-BOOKS",
+    "image": "https://image.xinu.ink/pic/data/866/images/rf1jfc9gp_1735492028744.jpg",
+    "geo": [
+      35.730582,
+      139.718179
+    ],
+    "ep": "歌いましょう鳴らしましょう",
+    "s": 102,
+    "folder": "RiNG周边"
+  },
+  {
+    "id": "rf2n6vv21",
+    "name": "首都高速道路高架下",
+    "image": "https://image.xinu.ink/pic/data/866/images/rf1wfkdnu_1735492815020.jpg",
+    "geo": [
+      35.729258,
+      139.717747
+    ],
+    "ep": "処救生",
+    "s": 26,
+    "folder": "Sunshine City"
+  },
+  {
+    "id": "rf2nq7xqx",
+    "name": "首都高速道路高架下",
+    "image": "https://image.xinu.ink/pic/data/866/images/rf1x54gvw_1735492850638.jpg",
+    "geo": [
+      35.729318,
+      139.717643
+    ],
+    "ep": "処救生",
+    "s": 31,
+    "folder": "Sunshine City"
+  },
+  {
+    "id": "rf2or1zto",
+    "name": "高田二丁目歩道橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/rf203jml1_1735493032948.jpg",
+    "geo": [
+      35.716311,
+      139.712203
+    ],
+    "ep": "処救生",
+    "s": 55,
+    "folder": "高田二丁目步道桥"
+  },
+  {
+    "id": "rf2pxy9lg",
+    "name": "東池袋四丁目停留場",
+    "image": "https://image.xinu.ink/pic/data/866/images/rf22oyugy_1735493334626.jpg",
+    "geo": [
+      35.725171,
+      139.720045
+    ],
+    "ep": "処救生",
+    "s": 66,
+    "mark": "车站旁边，高架下方的小路。",
+    "folder": "都电荒川线"
+  },
+  {
+    "id": "rf2qr15cc",
+    "name": "高田二丁目歩道橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/rf28uq5lq_1735493567810.jpg",
+    "geo": [
+      35.716448,
+      139.712472
+    ],
+    "ep": "処救生",
+    "s": 78,
+    "mark": "可以看到天桥后的「江原運送」大楼和招牌。",
+    "folder": "高田二丁目步道桥"
+  },
+  {
+    "id": "rf2r7bgjv",
+    "name": "高田二丁目歩道橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/rf298vmyc_1735493581025.jpg",
+    "geo": [
+      35.716443,
+      139.712471
+    ],
+    "ep": "処救生",
+    "s": 78,
+    "folder": "高田二丁目步道桥"
+  },
+  {
+    "id": "rf2rk04r3",
+    "name": "高田二丁目歩道橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/rf2awxh9x_1735493682118.jpg",
+    "geo": [
+      35.716244,
+      139.712203
+    ],
+    "ep": "処救生",
+    "s": 79,
+    "folder": "高田二丁目步道桥"
+  },
+  {
+    "id": "rf2s74yp8",
+    "name": "高田二丁目歩道橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/rf2csd6b4_1735493795495.jpg",
+    "geo": [
+      35.716239,
+      139.71222
+    ],
+    "ep": "処救生",
+    "s": 87,
+    "folder": "高田二丁目步道桥"
+  },
+  {
+    "id": "rf2sqdpn7",
+    "name": "高田二丁目歩道橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/rf2dljb4a_1735493845710.jpg",
+    "geo": [
+      35.716239,
+      139.712214
+    ],
+    "ep": "処救生",
+    "s": 155,
+    "folder": "高田二丁目步道桥"
+  },
+  {
+    "id": "rf2t8ncnl",
+    "name": "東池袋四丁目停留場",
+    "image": "https://image.xinu.ink/pic/data/866/images/rf2f56k0e_1735493940297.jpg",
+    "geo": [
+      35.725397,
+      139.7205
+    ],
+    "ep": "処救生",
+    "s": 190,
+    "mark": "向站台出入口的方向。",
+    "folder": "都电荒川线"
+  },
+  {
+    "id": "rf2sjk2wo",
+    "name": "高田二丁目歩道橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/rf2ccz0z7_1735493900501.jpg",
+    "geo": [
+      35.716348,
+      139.712473
+    ],
+    "ep": "処救生",
+    "s": 193,
+    "folder": "高田二丁目步道桥"
+  },
+  {
+    "id": "ubl84c0v0",
+    "name": "富士見坂",
+    "image": "https://image.xinu.ink/pic/data/866/images/ubl84c0v0-1743684893317.jpg",
+    "geo": [
+      35.716451,
+      139.717604
+    ],
+    "ep": 4,
+    "s": 423,
+    "folder": "富士见坂"
+  },
+  {
+    "id": "ubn744y71",
+    "name": "千登世小桥",
+    "image": "https://image.xinu.ink/pic/data/866/images/ubn744y71-1743689051470.jpg",
+    "geo": [
+      35.718736,
+      139.713761
+    ],
+    "ep": 3,
+    "s": 1297,
+    "mark": "周边的施工预计持续到令和7年（2025年）6月下旬，想看到花与绿植的可以考虑在这之后再来巡礼\n26.7.4施工还是没完成",
+    "folder": "千登世桥"
+  },
+  {
+    "id": "54myv51",
+    "name": "一色海岸",
+    "image": "https://image.xinu.ink/pic/data/866/images/54myv51-1758174792210.jpg",
+    "geo": [
+      35.26404,
+      139.576086
+    ],
+    "ep": "エガクミライ",
+    "s": 21,
+    "mark": "画面左侧可见一色ロイヤルビーチ沙滩俱乐部（夏季限定）",
+    "folder": "一色海岸",
+    "origin": "一色海岸",
+    "cn": "一色海岸"
+  },
+  {
+    "id": "54r8jql",
+    "name": "芝崎海岸",
+    "image": "https://image.xinu.ink/pic/data/866/images/54r8jql-1758181985790.jpg",
+    "geo": [
+      35.266098,
+      139.568535
+    ],
+    "ep": "エガクミライ",
+    "s": 91,
+    "folder": "芝崎海岸",
+    "origin": "芝崎海岸"
+  },
+  {
+    "id": "54rz5ea",
+    "name": "鐙摺児童遊園",
+    "image": "https://image.xinu.ink/pic/data/866/images/54rz5ea-1758183134377.jpg",
+    "geo": [
+      35.283688,
+      139.568854
+    ],
+    "ep": "エガクミライ",
+    "s": 156,
+    "folder": "鐙摺児童遊園",
+    "origin": "鐙摺児童遊園"
+  },
+  {
+    "id": "54s0jy6",
+    "name": "鐙摺児童遊園",
+    "image": "https://image.xinu.ink/pic/data/866/images/54s0jy6-1758183189213.jpg",
+    "geo": [
+      35.283697,
+      139.568962
+    ],
+    "ep": "エガクミライ",
+    "s": 177,
+    "folder": "鐙摺児童遊園",
+    "origin": "鐙摺児童遊園"
+  },
+  {
+    "id": "54sfwz9",
+    "name": "一色海岸",
+    "image": "https://image.xinu.ink/pic/data/866/images/54sfwz9-1758183924126.jpg",
+    "geo": [
+      35.263882,
+      139.576359
+    ],
+    "ep": "エガクミライ",
+    "s": 94,
+    "folder": "一色海岸",
+    "origin": "一色海岸"
+  },
+  {
+    "id": "54sl8z7",
+    "name": "芝崎海岸",
+    "image": "https://image.xinu.ink/pic/data/866/images/54sl8z7-1758184173104.jpg",
+    "geo": [
+      35.266174,
+      139.569249
+    ],
+    "ep": "エガクミライ",
+    "s": 121,
+    "mark": "在石壁的最西侧",
+    "folder": "芝崎海岸",
+    "origin": "芝崎海岸"
+  },
+  {
+    "id": "54usu41",
+    "name": "一色海岸",
+    "image": "https://image.xinu.ink/pic/data/866/images/54usu41-1758187879792.jpg",
+    "geo": [
+      35.264642,
+      139.575668
+    ],
+    "ep": "エガクミライ",
+    "s": 161,
+    "mark": "猫猫在看排水渠流出的水",
+    "folder": "一色海岸",
+    "origin": "一色海岸"
+  },
+  {
+    "id": "54uuko1",
+    "name": "葉山港防波堤赤灯台（葉山港A防波堤灯台）",
+    "image": "https://image.xinu.ink/pic/data/866/images/54uuko1-1758187972406.jpg",
+    "geo": [
+      35.283211,
+      139.565977
+    ],
+    "ep": "エガクミライ",
+    "s": 162,
+    "folder": "叶山港",
+    "origin": "葉山港防波堤赤灯台"
+  },
+  {
+    "id": "54uwz2d",
+    "name": "芝崎海岸",
+    "image": "https://image.xinu.ink/pic/data/866/images/54uwz2d-1758188070629.jpg",
+    "geo": [
+      35.266141,
+      139.569075
+    ],
+    "ep": "エガクミライ",
+    "s": 163,
+    "mark": "此标点处排水孔相对更密集",
+    "folder": "芝崎海岸",
+    "origin": "芝崎海岸"
+  },
+  {
+    "id": "54vdbcj",
+    "name": "芝崎海岸",
+    "image": "https://image.xinu.ink/pic/data/866/images/54vdbcj-1758188850805.jpg",
+    "geo": [
+      35.267273,
+      139.567543
+    ],
+    "ep": "エガクミライ",
+    "s": 166,
+    "folder": "芝崎海岸",
+    "origin": "芝崎海岸"
+  },
+  {
+    "id": "54vq00q",
+    "name": "渚橋交差点",
+    "image": "https://image.xinu.ink/pic/data/866/images/54vq00q-1758189415743.jpg",
+    "geo": [
+      35.286765,
+      139.574277
+    ],
+    "ep": "エガクミライ",
+    "s": 171,
+    "mark": "素世拍摄大家",
+    "folder": "渚橋",
+    "origin": "渚橋"
+  },
+  {
+    "id": "54vrkdl",
+    "name": "葉山港防波堤赤灯台（葉山港A防波堤灯台）",
+    "image": "https://image.xinu.ink/pic/data/866/images/54vrkdl-1758189500844.jpg",
+    "geo": [
+      35.283473,
+      139.565558
+    ],
+    "ep": "エガクミライ",
+    "s": 173,
+    "folder": "叶山港",
+    "origin": "葉山港防波堤赤灯台"
+  },
+  {
+    "id": "54vy17o",
+    "name": "真名瀬（バス）",
+    "image": "https://image.xinu.ink/pic/data/866/images/54vy17o-1758189839295.jpg",
+    "geo": [
+      35.270372,
+      139.571089
+    ],
+    "ep": "エガクミライ",
+    "s": 174,
+    "mark": "真名濑巴士站通往海滩的楼梯",
+    "folder": "真名瀬",
+    "origin": "真名瀬",
+    "cn": "真名濑巴士站"
+  },
+  {
+    "id": "54wsain",
+    "name": "逗子海岸ウォーターパーク",
+    "image": "https://image.xinu.ink/pic/data/866/images/54wsain-1758191221660.jpg",
+    "geo": [
+      35.292048,
+      139.572956
+    ],
+    "ep": "エガクミライ",
+    "s": 175,
+    "mark": "通往逗子海岸水上公园的小隧道内视角/2026-2-27现地补充：在此桥下北侧有完全一致的墙面",
+    "folder": "逗子海岸",
+    "origin": "逗子海岸",
+    "cn": "逗子海岸水上公园"
+  },
+  {
+    "id": "54xuclp",
+    "name": "葉山港防波堤赤灯台（葉山港A防波堤灯台）",
+    "image": "https://image.xinu.ink/pic/data/866/images/54xuclp-1758192991931.jpg",
+    "geo": [
+      35.283177,
+      139.565884
+    ],
+    "ep": "エガクミライ",
+    "s": 177,
+    "folder": "叶山港",
+    "origin": "葉山港防波堤赤灯台"
+  },
+  {
+    "id": "54xsc6j",
+    "name": "芝崎海岸",
+    "image": "https://image.xinu.ink/pic/data/866/images/54xsc6j-1758192899637.jpg",
+    "geo": [
+      35.268001,
+      139.568009
+    ],
+    "ep": "エガクミライ",
+    "s": 176,
+    "folder": "芝崎海岸",
+    "origin": "芝崎海岸"
+  },
+  {
+    "id": "57au326",
+    "name": "バーゴラ（葉山公園）",
+    "image": "https://image.xinu.ink/pic/data/866/images/57au326-1758335779503.jpg",
+    "geo": [
+      35.258524,
+      139.579511
+    ],
+    "ep": "エガクミライ",
+    "s": 73,
+    "mark": "叶山公园凉棚北侧桌子",
+    "folder": "葉山公園",
+    "cn": "叶山公园凉棚"
+  },
+  {
+    "id": "57azo6s",
+    "name": "バーゴラ（葉山公園）",
+    "image": "https://image.xinu.ink/pic/data/866/images/57azo6s-1758336019598.jpg",
+    "geo": [
+      35.258519,
+      139.579533
+    ],
+    "ep": "エガクミライ",
+    "s": 73,
+    "mark": "立希阻挡爱音偷拍",
+    "folder": "葉山公園",
+    "cn": "叶山公园凉棚"
+  },
+  {
+    "id": "57b3qi5",
+    "name": "バーゴラ（葉山公園）",
+    "image": "https://image.xinu.ink/pic/data/866/images/57b3qi5-1758336286754.jpg",
+    "geo": [
+      35.25851,
+      139.579516
+    ],
+    "ep": "エガクミライ",
+    "s": 73,
+    "folder": "葉山公園",
+    "cn": "叶山公园凉棚"
+  },
+  {
+    "id": "57d847m",
+    "name": "バーゴラ（葉山公園）",
+    "image": "https://image.xinu.ink/pic/data/866/images/57d847m-1758339777346.jpg",
+    "geo": [
+      35.258533,
+      139.579589
+    ],
+    "ep": "エガクミライ",
+    "s": 77,
+    "mark": "叶山公园凉棚地板东北角",
+    "folder": "葉山公園",
+    "cn": "叶山公园凉棚"
+  },
+  {
+    "id": "57desrm",
+    "name": "一色海岸",
+    "image": "https://image.xinu.ink/pic/data/866/images/57desrm-1758340079518.jpg",
+    "geo": [
+      35.264071,
+      139.576367
+    ],
+    "ep": "エガクミライ",
+    "s": 19,
+    "mark": "爱音身后即为潮騷小道",
+    "folder": "一色海岸",
+    "origin": "一色海岸"
+  },
+  {
+    "id": "58zud6w",
+    "name": "一色海岸",
+    "image": "https://image.xinu.ink/pic/data/866/images/58zud6w-1758438205288.jpg",
+    "geo": [
+      35.263878,
+      139.576342
+    ],
+    "ep": "エガクミライ",
+    "s": 104,
+    "folder": "一色海岸",
+    "origin": "一色海岸"
+  },
+  {
+    "id": "58ysmcp",
+    "name": "あじさい公園",
+    "image": "https://image.xinu.ink/pic/data/866/images/58ysmcp-1758436439829.jpg",
+    "geo": [
+      35.270277,
+      139.575849
+    ],
+    "ep": "エガクミライ",
+    "s": 85,
+    "mark": "根据官网照片比对发现树叶和枝干较为一致，需要进一步确认",
+    "folder": "紫阳花公园",
+    "cn": "紫阳花公园"
+  },
+  {
+    "id": "58z9z1y",
+    "name": "一色海岸",
+    "image": "https://image.xinu.ink/pic/data/866/images/58z9z1y-1758437306651.jpg",
+    "geo": [
+      35.263628,
+      139.576772
+    ],
+    "ep": "エガクミライ",
+    "s": 75,
+    "mark": "远处礁石为芝崎海岸对出的礁石",
+    "folder": "一色海岸"
+  },
+  {
+    "id": "58zdcpt",
+    "name": "一色海岸",
+    "image": "https://image.xinu.ink/pic/data/866/images/58zdcpt-1758437415968.jpg",
+    "geo": [
+      35.263466,
+      139.576755
+    ],
+    "ep": "エガクミライ",
+    "s": 76,
+    "folder": "一色海岸"
+  },
+  {
+    "id": "58zsaj8",
+    "name": "一色海岸",
+    "image": "https://image.xinu.ink/pic/data/866/images/58zsaj8-1758438120774.jpg",
+    "geo": [
+      35.263585,
+      139.576546
+    ],
+    "ep": "エガクミライ",
+    "s": 84,
+    "folder": "一色海岸"
+  },
+  {
+    "id": "592dufx",
+    "name": "小磯の鼻",
+    "image": "https://image.xinu.ink/pic/data/866/images/592dufx-1758442475624.jpg",
+    "geo": [
+      35.260363,
+      139.576384
+    ],
+    "ep": "エガクミライ",
+    "s": 203,
+    "mark": "实际去的地方与MV里暗示的完全相反",
+    "folder": "小磯の鼻"
+  },
+  {
+    "id": "gj16rgp",
+    "name": "鬼子母神前停留場",
+    "image": "https://image.xinu.ink/pic/data/866/images/gj16rgp-1782989775274.webp",
+    "geo": [
+      35.720081,
+      139.7148
+    ],
+    "ep": "证命赞歌",
+    "s": 113,
+    "mark": "站在鬼子母神前站三之轮桥方面站台向北拍摄。远景高楼从左至右分别为Brillia Tower池袋、被挡住的Sunshin 60、刚建好的グランドシティタワー池袋和プラウドタワー池袋。",
+    "folder": "鬼子母神前",
+    "origin": "橡树酱",
+    "cn": "鬼子母神前站"
+  },
+  {
+    "id": "gj1fa7b",
+    "name": "富士見坂",
+    "image": "https://image.xinu.ink/pic/data/866/images/gj1fa7b-1782990192563.webp",
+    "geo": [
+      35.716638,
+      139.717753
+    ],
+    "ep": "证命赞歌",
+    "s": 116,
+    "mark": "黄昏时刻站在标记点位置向南拍摄。",
+    "folder": "富士见坂",
+    "origin": "橡树酱",
+    "cn": "富士见坂"
+  },
+  {
+    "id": "gj1nzol",
+    "name": "千登世歩道橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/gj1nzol-1782990534409.webp",
+    "geo": [
+      35.720719,
+      139.712969
+    ],
+    "ep": "证命赞歌",
+    "s": 119,
+    "mark": "黄昏时段站在标记点向北拍摄，此处就是翻新后加高护栏的成人桥。",
+    "folder": "千登世步道桥",
+    "origin": "橡树酱",
+    "cn": "千登世步道桥"
+  },
+  {
+    "id": "gj1ty2d",
+    "name": "面影橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/gj1ty2d-1782990838707.webp",
+    "geo": [
+      35.713362,
+      139.714336
+    ],
+    "ep": "证命赞歌",
+    "s": 121,
+    "mark": "黄昏时段站在桥北标记点向南拍摄。画面左下可见面影桥牌匾。远处路口就是都电荒川线车站。",
+    "folder": "面影桥",
+    "origin": "橡树酱",
+    "cn": "面影桥"
+  },
+  {
+    "id": "gj1zb8r",
+    "name": "サンシャイン前交差点",
+    "image": "https://image.xinu.ink/pic/data/866/images/gj1zb8r-1782991138279.webp",
+    "geo": [
+      35.729219,
+      139.717269
+    ],
+    "ep": "证命赞歌",
+    "s": 124,
+    "mark": "白天时站在标记点位置向北拍摄，匝道桥墩十分醒目。画面右侧是Sunshine 60。",
+    "folder": "サンシャイン前交差点",
+    "origin": "橡树酱"
+  },
+  {
+    "id": "gj2d4qu",
+    "name": "池袋駅東口交差点",
+    "image": "https://image.xinu.ink/pic/data/866/images/gj2d4qu-1782991729025.webp",
+    "geo": [
+      35.730544,
+      139.712574
+    ],
+    "ep": "证命赞歌",
+    "s": 126,
+    "mark": "白天站在标记点向东拍摄，画面左侧建筑为ソフマップ池袋店，中间为池袋伊藤ビル，右侧为ヒューリック​池​袋​駅​前​ビル。",
+    "folder": "池袋駅東口交差点",
+    "origin": "橡树酱",
+    "cn": "池袋站东口路口"
+  },
+  {
+    "id": "gj35o3q",
+    "name": "目白台二丁目交叉点",
+    "image": "https://image.xinu.ink/pic/data/866/images/gj35o3q-1782993144988.webp",
+    "geo": [
+      35.716882,
+      139.717868
+    ],
+    "ep": "证命赞歌",
+    "s": 107,
+    "mark": "黄昏时段站在标记点位置向北拍摄，可根据画面中消防栓标牌定位。",
+    "folder": "目白台二丁目路口",
+    "origin": "橡树酱",
+    "cn": "目白台二丁目交叉点"
+  },
+  {
+    "id": "gj0fr7n",
+    "name": "千登世小橋",
+    "image": "https://image.xinu.ink/pic/data/866/images/gj0fr7n-1782988505884.webp",
+    "geo": [
+      35.718747,
+      139.71378
+    ],
+    "ep": "证命赞歌",
+    "s": 110,
+    "mark": "黄昏时段站在千登世小桥南侧向北拍摄。画面最左侧黄色建筑物为SZビル雑司が谷；中部为都电荒川线轨道；远景高楼从左到右分别为Brilla Tower池袋、被挡住一半的Sunshine 60、刚刚建好的グランドシティタワー池袋以及プラウドタワー池袋和最右侧的プラウドタワー東池袋。",
+    "folder": "千登世桥",
+    "origin": "橡树酱",
+    "cn": "千登世小桥"
+  },
+  {
+    "id": "gkdxuol",
+    "name": "七里ヶ浜海岸",
+    "image": "https://image.xinu.ink/pic/data/866/images/gkdxuol-1783071653694.webp",
+    "geo": [
+      35.303694,
+      139.516649
+    ],
+    "ep": "宣传图",
+    "mark": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」宣传图。栏杆细节略有不同，例如现实中颜色为白色而非宣传图中黑色，并且是直接安装在地面上而不是马路牙上。逗子沿岸有大量类似路段，仅供参考。",
+    "folder": "LIVE/活动场地",
+    "origin": "橡树酱",
+    "cn": "七里浜海岸"
+  },
+  {
+    "id": "gouebbu",
+    "name": "小磯の鼻",
+    "image": "https://image.xinu.ink/pic/data/866/images/gouebbu-1783341134975.webp",
+    "geo": [
+      35.260322,
+      139.57642
+    ],
+    "ep": "エガクミライ",
+    "s": 208,
+    "mark": "黄昏时站在标记点位置向南拍摄。爱音背后为虚化的長者ヶ崎石壁。画面右侧露出的礁石可帮助定位。",
+    "folder": "小磯の鼻",
+    "origin": "橡树酱"
+  },
+  {
+    "id": "gou86bh",
+    "name": "小磯の鼻",
+    "image": "https://image.xinu.ink/pic/data/866/images/gou86bh-1783340836788.webp",
+    "geo": [
+      35.26036,
+      139.576439
+    ],
+    "ep": "エガクミライ",
+    "s": 205,
+    "mark": "黄昏时站在标记点位置向西拍摄。MV画面中左下角为富士山，如果现地天气够好，理论上可以复刻。",
+    "folder": "小磯の鼻",
+    "origin": "橡树酱"
+  },
+  {
+    "id": "gooyb7d",
+    "name": "一色海岸北侧石滩",
+    "image": "https://image.xinu.ink/pic/data/866/images/gooyb7d-1783332155117.webp",
+    "geo": [
+      35.265474,
+      139.572835
+    ],
+    "ep": "エガクミライ",
+    "s": 164,
+    "mark": "对比了小磯の鼻和森戸大明神社附近的类似石滩，还是此处最为相似。有待实地确认。",
+    "folder": "一色海岸",
+    "origin": "橡树酱",
+    "cn": "一色海岸北侧石滩"
   }
 ]

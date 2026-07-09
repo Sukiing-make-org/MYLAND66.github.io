@@ -298,5 +298,65 @@
     ],
     "origin": "Anitabi@绪山真寻",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qjw6yry57",
+    "name": "中村桥",
+    "image": "https://image.xinu.ink/pic/data/810/images/qjw6yry57_1733051649295.jpg",
+    "geo": [
+      35.736666,
+      139.638014
+    ],
+    "ep": 5,
+    "s": 212,
+    "cn": "中村桥站南口"
+  },
+  {
+    "id": "ql4c2ib79",
+    "name": "中村橋步道橋",
+    "image": "https://image.xinu.ink/pic/data/810/images/ql4c2ib79_1733147195973.jpg",
+    "geo": [
+      35.736133,
+      139.638181
+    ],
+    "ep": 7,
+    "s": 935,
+    "cn": "中村桥步行天桥"
+  },
+  {
+    "id": "qjviy0bsk",
+    "name": "能登屋旅館 第一駐車場",
+    "image": "https://image.xinu.ink/pic/data/810/images/qjviy0bsk_1733049663072.jpg",
+    "geo": [
+      38.570897,
+      140.529529
+    ],
+    "ep": 12,
+    "s": 58,
+    "cn": "能登屋旅館 第一停车场"
+  },
+  {
+    "id": "qjvljvwdu",
+    "name": "県道188号",
+    "image": "https://image.xinu.ink/pic/data/810/images/qjvljvwdu_1733049811824.jpg",
+    "geo": [
+      38.570432,
+      140.53039
+    ],
+    "ep": 12,
+    "s": 328,
+    "cn": "県道188号"
+  },
+  {
+    "id": "qjvptk0bb",
+    "name": "県道188号",
+    "image": "https://image.xinu.ink/pic/data/810/images/qjvptk0bb_1733050091696.jpg",
+    "geo": [
+      38.570428,
+      140.530289
+    ],
+    "ep": 12,
+    "s": 318,
+    "cn": "県道188号"
   }
 ]

@@ -263,5 +263,35 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1tp7aSvKbrzTP2AGawYT2MiZNxJTbEdM&ll=32.745434%2C129.868374&z=17"
+  },
+  {
+    "id": "5e96882c",
+    "name": "博多駅入口",
+    "image": "",
+    "geo": [
+      33.590254,
+      130.419658
+    ],
+    "folder": "福岡市"
+  },
+  {
+    "id": "a9ea8725",
+    "name": "博多駅構内",
+    "image": "",
+    "geo": [
+      33.589838,
+      130.420699
+    ],
+    "folder": "福岡市"
+  },
+  {
+    "id": "gitzlbh",
+    "name": "掲示板",
+    "image": "https://image.xinu.ink/pic/data/844/images/gitzlbh-1782977653817.webp",
+    "geo": [
+      32.730916,
+      129.865017
+    ],
+    "s": "61：40"
   }
 ]

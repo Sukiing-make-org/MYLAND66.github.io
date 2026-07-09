@@ -309,5 +309,52 @@
       35.6402,
       139.6986
     ]
+  },
+  {
+    "id": "n82bwmfqb",
+    "name": "ガスの科学館横",
+    "image": "https://image.xinu.ink/pic/data/882/images/n82bwmfqb-1723660752303.jpg",
+    "geo": [
+      35.652312,
+      139.791753
+    ],
+    "mark": "作画方向错误。"
+  },
+  {
+    "id": "m6irtwkd9",
+    "name": "IHI ​STAGE ​AROUND ​TOKYO",
+    "image": "https://image.xinu.ink/pic/data/882/images/m6irtwkd9_1720718714796.jpg",
+    "geo": [
+      35.647446,
+      139.785685
+    ],
+    "ep": 13,
+    "s": 1323,
+    "origin": "@iscream",
+    "cn": "IHI STAGE AROUND TOKYO"
+  },
+  {
+    "id": "n82aijsid",
+    "name": "豊洲埠頭前交差点付近",
+    "image": "https://image.xinu.ink/pic/data/882/images/n82aijsid-1723660677038.jpg",
+    "geo": [
+      35.653546,
+      139.795146
+    ],
+    "ep": 14,
+    "s": 527,
+    "origin": "@Zyglisfer"
+  },
+  {
+    "id": "ou6c4yzar",
+    "name": "荒立神社",
+    "image": "https://image.xinu.ink/pic/data/882/images/ou6c4yzar-1728214605851.jpg",
+    "geo": [
+      32.71179,
+      131.316825
+    ],
+    "ep": 24,
+    "s": 1095,
+    "origin": "@有馬カナ"
   }
 ]

@@ -47,7 +47,7 @@
       ]
     }
   ],
-  "pointsLength": 32,
+  "pointsLength": 62,
   "imagesLength": 5,
   "local_id": 888,
   "region": [
@@ -58,5 +58,11 @@
     "倫敦市",
     "朗达卡嫩塔夫",
     "奧斯陸"
-  ]
+  ],
+  "cat": "TV",
+  "geo": [
+    51.505551,
+    -0.109166
+  ],
+  "zoom": 12.3
 }

@@ -186,5 +186,37 @@
     ],
     "origin": "Anitabi@AmaiAya",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nbz7zv0et",
+    "name": "諏訪大社 上社前宮",
+    "image": "https://image.xinu.ink/pic/data/854/images/nbz7zv0et_1723967452722.jpg",
+    "geo": [
+      35.99258,
+      138.134495
+    ],
+    "ep": 4,
+    "s": 525
+  },
+  {
+    "id": "nbzcydgvj",
+    "name": "諏訪大社 上社前宮",
+    "image": "https://image.xinu.ink/pic/data/854/images/nbzcydgvj_1723967746299.jpg",
+    "geo": [
+      35.992615,
+      138.134559
+    ],
+    "ep": 7,
+    "s": 246
+  },
+  {
+    "id": "mv7z1l85w",
+    "name": "乙事諏訪神社",
+    "image": "",
+    "geo": [
+      35.91441,
+      138.26645
+    ],
+    "mark": "漫画中诹访大社本殿原型。"
   }
 ]

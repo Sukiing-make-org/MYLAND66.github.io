@@ -227,5 +227,46 @@
       35.4016,
       139.3424
     ]
+  },
+  {
+    "id": "oma4pfy59",
+    "name": "すしや通り",
+    "image": "https://image.xinu.ink/pic/data/831/images/oma4pfy59-1727595970733.jpg",
+    "geo": [
+      35.711582,
+      139.79304
+    ],
+    "ep": 3,
+    "s": 609,
+    "folder": "浅草",
+    "cn": "寿司屋大街"
+  },
+  {
+    "id": "omdqq6s9g",
+    "name": "秋葉原UDX",
+    "image": "https://image.xinu.ink/pic/data/831/images/omdqq6s9g-1727603805484.jpg",
+    "geo": [
+      35.70033,
+      139.772824
+    ],
+    "ep": 8,
+    "s": 869,
+    "mark": "星尾灯看天空的天台",
+    "folder": "秋叶原",
+    "cn": "秋叶原UDX"
+  },
+  {
+    "id": "omdf0p2bl",
+    "name": "秋葉原UDX",
+    "image": "https://image.xinu.ink/pic/data/831/images/omdf0p2bl-1727603098501.jpg",
+    "geo": [
+      35.700592,
+      139.772669
+    ],
+    "ep": 8,
+    "s": 120,
+    "mark": "秋叶原UDX，被宇佐美医生用作据点，也是不灭教团剧情的中心地点。图中为UDX大楼下的一座天桥，这座天桥也通往真流杀死星留美的天台。",
+    "folder": "秋叶原",
+    "cn": "秋叶原UDX"
   }
 ]

@@ -116,5 +116,28 @@
       36.2655,
       120.3775
     ]
+  },
+  {
+    "id": "lr851eod4",
+    "name": "United Nations Secretariat Building",
+    "image": "https://image.xinu.ink/pic/data/739/images/lr851eod4_1719520100164.jpg",
+    "geo": [
+      40.749424,
+      -73.967727
+    ],
+    "ep": 1,
+    "s": 457,
+    "cn": "联合政府总部大楼"
+  },
+  {
+    "id": "lr8jtuevh",
+    "name": "联合国大楼前",
+    "image": "https://image.xinu.ink/pic/data/739/images/lr8jtuevh_1719520991467.jpg",
+    "geo": [
+      40.74958,
+      -73.969474
+    ],
+    "ep": 1,
+    "s": 2510
   }
 ]

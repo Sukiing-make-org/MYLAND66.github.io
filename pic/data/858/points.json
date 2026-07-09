@@ -581,5 +581,31 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nyas9lk3b",
+    "name": "花園神社",
+    "image": "https://image.xinu.ink/pic/data/858/images/nyas9lk3b-1725716745040.jpg",
+    "geo": [
+      35.69346,
+      139.705429
+    ],
+    "ep": 6,
+    "s": 1085,
+    "folder": "S01EP06",
+    "origin": "@JELEE"
+  },
+  {
+    "id": "lmi2fzaq0",
+    "name": "宮下公園",
+    "image": "https://image.xinu.ink/pic/data/858/images/lmi2fzaq0_1719149911317.jpg",
+    "geo": [
+      35.660243,
+      139.701625
+    ],
+    "ep": 12,
+    "s": 590,
+    "folder": "S01EP12",
+    "cn": "宫下公园"
   }
 ]

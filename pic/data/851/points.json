@@ -152,5 +152,25 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1-ChEIODNKCUNU3Zs3zinND66JH5Z7t0&ll=35.693556%2C139.808969&z=17"
+  },
+  {
+    "id": "ilz8d7v23",
+    "name": "駒形高校（位置）",
+    "image": "",
+    "geo": [
+      35.705302,
+      139.802951
+    ],
+    "mark": "位置原型：墨田区立本所中学校"
+  },
+  {
+    "id": "ilz8d7vaa",
+    "name": "志岐間邸（位置）",
+    "image": "",
+    "geo": [
+      35.694682,
+      139.807989
+    ],
+    "mark": "位置原型：東京都墨田区緑４丁目"
   }
 ]

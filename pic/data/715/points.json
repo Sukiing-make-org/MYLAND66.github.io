@@ -108,5 +108,49 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1aOKQNQ_mfactSI06XS5vwqepRcbvSJM&ll=35.443076%2C139.644137&z=17"
+  },
+  {
+    "id": "f1a88509",
+    "name": "红砖仓库",
+    "image": "https://image.xinu.ink/pic/data/715/images/f1a88509-1728336380762.jpg",
+    "geo": [
+      35.452389,
+      139.643139
+    ],
+    "mark": "“湾边约会”活动 一花觉醒后卡面",
+    "folder": "ベイサイドデート"
+  },
+  {
+    "id": "3a96241e",
+    "name": "运河公园西侧景色",
+    "image": "https://image.xinu.ink/pic/data/715/images/3a96241e-1728337619000.jpg",
+    "geo": [
+      35.453377,
+      139.637823
+    ],
+    "mark": "“湾边约会”活动 全员合照",
+    "folder": "ベイサイドデート"
+  },
+  {
+    "id": "ovqaoqv24",
+    "name": "红砖仓库",
+    "image": "https://image.xinu.ink/pic/data/715/images/ovqaoqv24-1728336453218.jpg",
+    "geo": [
+      35.452393,
+      139.643166
+    ],
+    "mark": "“湾边约会”活动 一花背景",
+    "folder": "ベイサイドデート"
+  },
+  {
+    "id": "ovql77s6t",
+    "name": "みなとみらいぷかり桟橋",
+    "image": "https://image.xinu.ink/pic/data/715/images/ovql77s6t-1728337076784.jpg",
+    "geo": [
+      35.458285,
+      139.638122
+    ],
+    "mark": "“湾边约会”活动 三玖背景",
+    "folder": "ベイサイドデート"
   }
 ]

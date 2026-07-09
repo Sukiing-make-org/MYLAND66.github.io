@@ -898,5 +898,52 @@
     ],
     "origin": "Anitabi@うに",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rriqsn2od",
+    "name": "具志川ビーチ",
+    "image": "https://image.xinu.ink/pic/data/885/images/rriqsn2od_1736469845458.jpg",
+    "geo": [
+      26.363987,
+      127.872874
+    ],
+    "folder": "うるま市 具志川海岸"
+  },
+  {
+    "id": "tlv6ckz5e",
+    "name": "具志川ビーチ",
+    "image": "https://image.xinu.ink/pic/data/885/images/tlv6ckz5e-1741669021207.jpg",
+    "geo": [
+      26.366156,
+      127.873113
+    ],
+    "ep": 1,
+    "s": 244,
+    "folder": "うるま市 具志川海岸"
+  },
+  {
+    "id": "tlx1sp911",
+    "name": "与那城総合公園",
+    "image": "https://image.xinu.ink/pic/data/885/images/tlx1sp911_1741673035976.jpg",
+    "geo": [
+      26.32811,
+      127.905438
+    ],
+    "ep": 3,
+    "s": 898,
+    "mark": "与那城（よなしろ）",
+    "folder": "うるま市 南部"
+  },
+  {
+    "id": "tlw0fv1s3",
+    "name": "具志川公民館",
+    "image": "https://image.xinu.ink/pic/data/885/images/tlw0fv1s3_1741670950070.jpg",
+    "geo": [
+      26.358334,
+      127.870157
+    ],
+    "ep": 6,
+    "s": 1021,
+    "folder": "うるま市"
   }
 ]

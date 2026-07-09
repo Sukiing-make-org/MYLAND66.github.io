@@ -247,5 +247,53 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ovsucpclr",
+    "name": "早明浦ダム",
+    "image": "https://image.xinu.ink/pic/data/766/images/ovsucpclr_1728341955450.jpg",
+    "geo": [
+      33.757457,
+      133.550643
+    ],
+    "mark": "登场地点：第六话1p",
+    "cn": "早明浦大坝"
+  },
+  {
+    "id": "ovqibopig",
+    "name": "ガスト高知野市町店",
+    "image": "https://image.xinu.ink/pic/data/766/images/ovqibopig_1728336869014.jpg",
+    "geo": [
+      33.561395,
+      133.69774
+    ]
+  },
+  {
+    "id": "ovqn6d9x9",
+    "name": "はりまや橋",
+    "image": "https://image.xinu.ink/pic/data/766/images/ovqn6d9x9_1728337166861.jpg",
+    "geo": [
+      33.559942,
+      133.542664
+    ],
+    "cn": "播磨屋桥"
+  },
+  {
+    "id": "ovt5cgli7",
+    "name": "すた​みな​太郎​南国​バイパス​店",
+    "image": "https://image.xinu.ink/pic/data/766/images/ovt5cgli7_1728342614905.jpg",
+    "geo": [
+      33.568049,
+      133.6207
+    ]
+  },
+  {
+    "id": "ovtbm29wh",
+    "name": "大川筋​武家​屋敷​資料館",
+    "image": "https://image.xinu.ink/pic/data/766/images/ovtbm29wh_1728342996476.jpg",
+    "geo": [
+      33.565382,
+      133.535242
+    ]
   }
 ]
