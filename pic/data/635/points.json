@@ -227,5 +227,42 @@
     ],
     "origin": "Anitabi@AmaiAya",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "llej8lw4e",
+    "name": "Maltby Street Market (The Ropewalk)",
+    "image": "https://image.xinu.ink/pic/data/635/images/llej8lw4e_1719063872660.jpg",
+    "geo": [
+      51.499309,
+      -0.075614
+    ],
+    "ep": 0,
+    "s": 623,
+    "mark": "背景左侧店铺为Little Bird（已关停），右侧写着cafe的店铺为St. John Bakery。",
+    "cn": "莫尔特比街市场 (The Ropewalk)"
+  },
+  {
+    "id": "llhgcn8kq",
+    "name": "Big Ben",
+    "image": "https://image.xinu.ink/pic/data/635/images/llhgcn8kq_1719070347669.jpg",
+    "geo": [
+      51.500703,
+      -0.124571
+    ],
+    "ep": 13,
+    "s": 665,
+    "mark": "时钟塔原型。",
+    "cn": "大本钟"
+  },
+  {
+    "id": "llet1ma1k",
+    "name": "Druid St",
+    "image": "",
+    "geo": [
+      51.499569,
+      -0.074959
+    ],
+    "mark": "埃尔梅罗二世居住地。动画中的取景地是位于铁道另一侧的Ropewalk。",
+    "cn": "德鲁伊街"
   }
 ]

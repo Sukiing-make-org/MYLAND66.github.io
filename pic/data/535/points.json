@@ -771,5 +771,79 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1V6vg2k48HH1I1yi1of4BP3ufB2O-MTtb&ll=35.299363%2C139.475596&z=17"
+  },
+  {
+    "id": "51i53xklg",
+    "name": "鎌倉駅東口",
+    "image": "https://image.xinu.ink/pic/data/535/images/51i53xklg_1672367645789.jpg",
+    "geo": [
+      35.319333,
+      139.551074
+    ],
+    "mark": "ちらりと映った鎌倉駅東口。八幡宮や小町通りに行く際にはこちらになります。",
+    "folder": "TVアニメ 『みにとじ』"
+  },
+  {
+    "id": "51i53xl42",
+    "name": "由比ヶ浜海岸",
+    "image": "https://image.xinu.ink/pic/data/535/images/51i53xl42_1672367658541.jpg",
+    "geo": [
+      35.309033,
+      139.544872
+    ],
+    "folder": "TVアニメ 『みにとじ』"
+  },
+  {
+    "id": "51i53xlrq",
+    "name": "段葛（二の鳥居）",
+    "image": "https://image.xinu.ink/pic/data/535/images/51i53xlrq_1672367671485.jpg",
+    "geo": [
+      35.31984,
+      139.552534
+    ],
+    "folder": "OP ｢この番組はうら若き公務員たちの提供でお送りいたします｣"
+  },
+  {
+    "id": "51i53xlsx",
+    "name": "西口時計台（三角公園）",
+    "image": "https://image.xinu.ink/pic/data/535/images/51i53xlsx_1672367672562.jpg",
+    "geo": [
+      35.319323,
+      139.550027
+    ],
+    "mark": "TVアニメ版第1話で綾小路の生徒がいた場所と同じ。",
+    "folder": "OP ｢この番組はうら若き公務員たちの提供でお送りいたします｣"
+  },
+  {
+    "id": "51i53xmah",
+    "name": "片瀬東浜海岸",
+    "image": "https://image.xinu.ink/pic/data/535/images/51i53xmah_1672367673939.jpg",
+    "geo": [
+      35.306907,
+      139.484726
+    ],
+    "folder": "OP ｢この番組はうら若き公務員たちの提供でお送りいたします｣"
+  },
+  {
+    "id": "51i53xnf6",
+    "name": "鎌倉駅東口",
+    "image": "https://image.xinu.ink/pic/data/535/images/51i53xnf6_1672367680952.jpg",
+    "geo": [
+      35.319069,
+      139.550727
+    ],
+    "mark": "コミック1巻 第3話 p80 可奈美と舞衣が鎌倉に降りたった場所。来ちゃったね、鎌倉！  ちなみに、地元民は東口の事を″表口″。西口の事を″裏口″と呼びます。  ※デートの際″裏口の三角公園に待ち合わせ！″というのが常套句です。",
+    "folder": "コミック"
+  },
+  {
+    "id": "51i53xojo",
+    "name": "折紙家？（鶴岡八幡宮）",
+    "image": "",
+    "geo": [
+      35.326124,
+      139.556423
+    ],
+    "mark": "鶴岡八幡宮が折紙家のモデルではないかと思われる。※詳しくは自身のblogの『刀使ノ巫女』聖地2話の方で記述してあるので気になった方は見てください。",
+    "folder": "その他"
   }
 ]

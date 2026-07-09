@@ -817,5 +817,755 @@
     ],
     "origin": "Anitabi@a748786757",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "muj1urmnw",
+    "name": "JR日野春駅（中央線）",
+    "image": "https://image.xinu.ink/pic/data/682/images/muj1urmnw_1722600051080.jpg",
+    "geo": [
+      35.790565,
+      138.394401
+    ],
+    "ep": 1,
+    "s": 5,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "ngvklp6l9",
+    "name": "JR日野春駅（中央線）雪",
+    "image": "https://image.xinu.ink/pic/data/682/images/ngvklp6l9_1724351323498.jpg",
+    "geo": [
+      35.790062,
+      138.394365
+    ],
+    "ep": 10,
+    "s": 253,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "ngv4l1ng4",
+    "name": "釜無川橋",
+    "image": "https://image.xinu.ink/pic/data/682/images/ngv4l1ng4_1724350350003.jpg",
+    "geo": [
+      35.788667,
+      138.387073
+    ],
+    "ep": 9,
+    "s": 1355,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "ngvhpqhh5",
+    "name": "釜無川橋",
+    "image": "https://image.xinu.ink/pic/data/682/images/ngvhpqhh5_1724351142759.jpg",
+    "geo": [
+      35.788637,
+      138.387082
+    ],
+    "ep": 10,
+    "s": 102,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "muk2sucx4",
+    "name": "スーパーおの",
+    "image": "https://image.xinu.ink/pic/data/682/images/muk2sucx4_1722602296216.jpg",
+    "geo": [
+      35.784853,
+      138.378818
+    ],
+    "ep": 1,
+    "s": 38,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "ngvj2ke7r",
+    "name": "県営住宅日野春団地",
+    "image": "https://image.xinu.ink/pic/data/682/images/ngvj2ke7r_1724351224633.jpg",
+    "geo": [
+      35.790475,
+      138.392358
+    ],
+    "ep": 10,
+    "s": 151,
+    "mark": "向西北角拍摄",
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "ngvbqky2i",
+    "name": "釜無川橋",
+    "image": "https://image.xinu.ink/pic/data/682/images/ngvbqky2i_1724350783681.jpg",
+    "geo": [
+      35.788491,
+      138.386766
+    ],
+    "ep": 10,
+    "s": 9,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "ngvbvh089",
+    "name": "釜無川橋",
+    "image": "https://image.xinu.ink/pic/data/682/images/ngvbvh089_1724350789932.jpg",
+    "geo": [
+      35.788491,
+      138.386767
+    ],
+    "ep": 10,
+    "s": 6,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "mui8dsf8m",
+    "name": "牧原交差点",
+    "image": "https://image.xinu.ink/pic/data/682/images/mui8dsf8m_1722598268267.jpg",
+    "geo": [
+      35.785447,
+      138.381687
+    ],
+    "ep": 2,
+    "s": 683,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "ngv3chk56",
+    "name": "牧原交差点",
+    "image": "https://image.xinu.ink/pic/data/682/images/ngv3chk56_1724350278935.jpg",
+    "geo": [
+      35.785483,
+      138.381784
+    ],
+    "ep": 9,
+    "s": 1334,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "ngv3thjz4",
+    "name": "牧原交差点",
+    "image": "https://image.xinu.ink/pic/data/682/images/ngv3thjz4_1724350303574.jpg",
+    "geo": [
+      35.785483,
+      138.381803
+    ],
+    "ep": 9,
+    "s": 1338,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "mui8n6v7l",
+    "name": "北杜市立武川中学校",
+    "image": "https://image.xinu.ink/pic/data/682/images/mui8n6v7l_1722598283904.jpg",
+    "geo": [
+      35.784665,
+      138.372929
+    ],
+    "ep": 1,
+    "s": 311,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "muji2tawk",
+    "name": "北杜市立武川中学校",
+    "image": "https://image.xinu.ink/pic/data/682/images/muji2tawk_1722601032879.jpg",
+    "geo": [
+      35.78456,
+      138.373431
+    ],
+    "ep": 1,
+    "s": 249,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "muji5v8zc",
+    "name": "北杜市立武川中学校",
+    "image": "https://image.xinu.ink/pic/data/682/images/muji5v8zc_1722601037893.jpg",
+    "geo": [
+      35.784592,
+      138.373396
+    ],
+    "ep": 1,
+    "s": 253,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "muji9255a",
+    "name": "北杜市立武川中学校",
+    "image": "https://image.xinu.ink/pic/data/682/images/muji9255a_1722601042529.jpg",
+    "geo": [
+      35.784562,
+      138.37334
+    ],
+    "ep": 1,
+    "s": 255,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "mujlwuwd0",
+    "name": "北杜市立武川中学校前交叉口",
+    "image": "https://image.xinu.ink/pic/data/682/images/mujlwuwd0_1722601265500.jpg",
+    "geo": [
+      35.783868,
+      138.373075
+    ],
+    "ep": 1,
+    "s": 216,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "ngsgik1v8",
+    "name": "北杜市立武川中学校前交叉口",
+    "image": "https://image.xinu.ink/pic/data/682/images/ngsgik1v8_1724344564012.jpg",
+    "geo": [
+      35.78386,
+      138.372327
+    ],
+    "ep": 7,
+    "s": 6,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "mujuf3pxt",
+    "name": "KUMA’S FACTORY",
+    "image": "https://image.xinu.ink/pic/data/682/images/mujuf3pxt_1722601778473.jpg",
+    "geo": [
+      35.788045,
+      138.357161
+    ],
+    "ep": 1,
+    "s": 421,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "mujurb46h",
+    "name": "KUMA’S FACTORY",
+    "image": "https://image.xinu.ink/pic/data/682/images/mujurb46h_1722601797924.jpg",
+    "geo": [
+      35.787948,
+      138.357302
+    ],
+    "ep": 1,
+    "s": 448,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "mujv22f2j",
+    "name": "KUMA’S FACTORY",
+    "image": "https://image.xinu.ink/pic/data/682/images/mujv22f2j_1722601817531.jpg",
+    "geo": [
+      35.787781,
+      138.357557
+    ],
+    "ep": 1,
+    "s": 473,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "mujvahp82",
+    "name": "KUMA’S FACTORY",
+    "image": "https://image.xinu.ink/pic/data/682/images/mujvahp82_1722601833010.jpg",
+    "geo": [
+      35.787815,
+      138.357549
+    ],
+    "ep": 1,
+    "s": 496,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "mui8rj3ji",
+    "name": "KUMA’S FACTORY",
+    "image": "https://image.xinu.ink/pic/data/682/images/mui8rj3ji_1722598290845.jpg",
+    "geo": [
+      35.787968,
+      138.357365
+    ],
+    "ep": 1,
+    "s": 383,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "muk5v9jed",
+    "name": "セブン-イレブン 北杜武川店",
+    "image": "https://image.xinu.ink/pic/data/682/images/muk5v9jed_1722602469460.jpg",
+    "geo": [
+      35.781507,
+      138.389537
+    ],
+    "ep": 1,
+    "s": 1099,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "muk5xl5lf",
+    "name": "セブン-イレブン 北杜武川店",
+    "image": "https://image.xinu.ink/pic/data/682/images/muk5xl5lf_1722602474133.jpg",
+    "geo": [
+      35.781493,
+      138.389538
+    ],
+    "ep": 1,
+    "s": 1062,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "muk5zcjjh",
+    "name": "セブン-イレブン 北杜武川店",
+    "image": "https://image.xinu.ink/pic/data/682/images/muk5zcjjh_1722602476713.jpg",
+    "geo": [
+      35.781479,
+      138.389538
+    ],
+    "ep": 1,
+    "s": 1048,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "mui9ddud2",
+    "name": "コメリハード＆グリーン武川店",
+    "image": "https://image.xinu.ink/pic/data/682/images/mui9ddud2_1722598327455.jpg",
+    "geo": [
+      35.780589,
+      138.391048
+    ],
+    "ep": 3,
+    "s": 1013,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "mui9jfwsn",
+    "name": "スーパーやまと跡（作中：スーパーむかわ）",
+    "image": "https://image.xinu.ink/pic/data/682/images/mui9jfwsn_1722598337885.jpg",
+    "geo": [
+      35.78094,
+      138.390842
+    ],
+    "ep": 2,
+    "s": 1304,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "mul5qwq7m",
+    "name": "スーパーやまと跡（作中：スーパーむかわ）",
+    "image": "https://image.xinu.ink/pic/data/682/images/mul5qwq7m_1722604642045.jpg",
+    "geo": [
+      35.781375,
+      138.389626
+    ],
+    "ep": 2,
+    "s": 1248,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "nguxayq0s",
+    "name": "梨北農業協同組合 武川支店",
+    "image": "https://image.xinu.ink/pic/data/682/images/nguxayq0s_1724349908513.jpg",
+    "geo": [
+      35.784546,
+      138.382724
+    ],
+    "ep": 9,
+    "s": 1094,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "nguxgxoo2",
+    "name": "梨北農業協同組合 武川支店",
+    "image": "https://image.xinu.ink/pic/data/682/images/nguxgxoo2_1724349919138.jpg",
+    "geo": [
+      35.78467,
+      138.382598
+    ],
+    "ep": 9,
+    "s": 1107,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "mujx5lfcf",
+    "name": "北杜市役所",
+    "image": "https://image.xinu.ink/pic/data/682/images/mujx5lfcf_1722601944472.jpg",
+    "geo": [
+      35.776391,
+      138.423658
+    ],
+    "ep": 1,
+    "s": 550,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "mui9xpx1w",
+    "name": "北杜市役所",
+    "image": "https://image.xinu.ink/pic/data/682/images/mui9xpx1w_1722598361989.jpg",
+    "geo": [
+      35.776344,
+      138.423651
+    ],
+    "ep": 1,
+    "s": 562,
+    "folder": "山梨県北杜市"
+  },
+  {
+    "id": "muiaa1kgq",
+    "name": "穴山橋",
+    "image": "https://image.xinu.ink/pic/data/682/images/muiaa1kgq_1722598382715.jpg",
+    "geo": [
+      35.761023,
+      138.404252
+    ],
+    "ep": 4,
+    "s": 545,
+    "folder": "山梨県韮崎市"
+  },
+  {
+    "id": "muiadm8fu",
+    "name": "旧甲州街道・塩崎駅入口付近",
+    "image": "https://image.xinu.ink/pic/data/682/images/muiadm8fu_1722598388396.jpg",
+    "geo": [
+      35.68613,
+      138.488958
+    ],
+    "ep": 4,
+    "s": 1050,
+    "folder": "山梨県甲斐市"
+  },
+  {
+    "id": "muiaggtak",
+    "name": "竜王西小学校北交差点付近",
+    "image": "https://image.xinu.ink/pic/data/682/images/muiaggtak_1722598393330.jpg",
+    "geo": [
+      35.640107,
+      138.517165
+    ],
+    "ep": 7,
+    "s": 508,
+    "folder": "山梨県甲斐市"
+  },
+  {
+    "id": "muialnsdt",
+    "name": "千松橋",
+    "image": "https://image.xinu.ink/pic/data/682/images/muialnsdt_1722598401882.jpg",
+    "geo": [
+      35.682013,
+      138.534665
+    ],
+    "ep": 4,
+    "s": 553,
+    "folder": "山梨県甲府市"
+  },
+  {
+    "id": "muiap2a5c",
+    "name": "和田峠 みはらし広場",
+    "image": "https://image.xinu.ink/pic/data/682/images/muiap2a5c_1722598407813.jpg",
+    "geo": [
+      35.69836,
+      138.561508
+    ],
+    "ep": 5,
+    "s": 26,
+    "folder": "山梨県甲府市"
+  },
+  {
+    "id": "mul9ky1cy",
+    "name": "山梨県立甲府第一高等学校",
+    "image": "https://image.xinu.ink/pic/data/682/images/mul9ky1cy_1722604870574.jpg",
+    "geo": [
+      35.676732,
+      138.563637
+    ],
+    "ep": 4,
+    "s": 740,
+    "folder": "山梨県甲府市",
+    "origin": "つればし",
+    "originURL": "http://tsurebashi.blog123.fc2.com/blog-entry-502.html"
+  },
+  {
+    "id": "mul97r672",
+    "name": "アップガレージ",
+    "image": "https://image.xinu.ink/pic/data/682/images/mul97r672_1722604848869.jpg",
+    "geo": [
+      35.609578,
+      138.518644
+    ],
+    "ep": 4,
+    "s": 996,
+    "folder": "山梨県中央市"
+  },
+  {
+    "id": "ngdncqf5i",
+    "name": "富士山须走口五合目",
+    "image": "https://image.xinu.ink/pic/data/682/images/ngdncqf5i_1724312333068.jpg",
+    "geo": [
+      35.366002,
+      138.778674
+    ],
+    "ep": 6,
+    "s": 749,
+    "folder": "富士山"
+  },
+  {
+    "id": "ngdo0ahsd",
+    "name": "富士山须走口五合目",
+    "image": "https://image.xinu.ink/pic/data/682/images/ngdo0ahsd_1724312343871.jpg",
+    "geo": [
+      35.36601,
+      138.778664
+    ],
+    "ep": 6,
+    "s": 741,
+    "folder": "富士山"
+  },
+  {
+    "id": "nge1lfbbt",
+    "name": "唐ヶ原",
+    "image": "https://image.xinu.ink/pic/data/682/images/nge1lfbbt_1724313165525.jpg",
+    "geo": [
+      35.313807,
+      139.330806
+    ],
+    "ep": 6,
+    "s": 844,
+    "folder": "東海道"
+  },
+  {
+    "id": "nge4lwjw8",
+    "name": "湘南大桥",
+    "image": "https://image.xinu.ink/pic/data/682/images/nge4lwjw8_1724313347294.jpg",
+    "geo": [
+      35.317899,
+      139.367495
+    ],
+    "ep": 6,
+    "s": 850,
+    "folder": "東海道"
+  },
+  {
+    "id": "nge4z6c6e",
+    "name": "湘南大桥",
+    "image": "https://image.xinu.ink/pic/data/682/images/nge4z6c6e_1724313370648.jpg",
+    "geo": [
+      35.319771,
+      139.374119
+    ],
+    "ep": 6,
+    "s": 854,
+    "folder": "東海道"
+  },
+  {
+    "id": "ngercr6qv",
+    "name": "七里ヶ浜",
+    "image": "https://image.xinu.ink/pic/data/682/images/ngercr6qv_1724314724683.jpg",
+    "geo": [
+      35.30498,
+      139.511105
+    ],
+    "ep": 6,
+    "s": 885,
+    "folder": "镰仓"
+  },
+  {
+    "id": "ngervy1pm",
+    "name": "七里ヶ浜",
+    "image": "https://image.xinu.ink/pic/data/682/images/ngervy1pm_1724314753375.jpg",
+    "geo": [
+      35.304973,
+      139.511132
+    ],
+    "ep": 6,
+    "s": 888,
+    "mark": "位置不确定",
+    "folder": "镰仓"
+  },
+  {
+    "id": "nges39wxa",
+    "name": "七里ヶ浜",
+    "image": "https://image.xinu.ink/pic/data/682/images/nges39wxa_1724314765811.jpg",
+    "geo": [
+      35.304965,
+      139.511159
+    ],
+    "ep": 6,
+    "s": 895,
+    "folder": "镰仓"
+  },
+  {
+    "id": "nges6cb58",
+    "name": "七里ヶ浜",
+    "image": "https://image.xinu.ink/pic/data/682/images/nges6cb58_1724314769375.jpg",
+    "geo": [
+      35.304954,
+      139.511192
+    ],
+    "ep": 6,
+    "s": 896,
+    "folder": "镰仓"
+  },
+  {
+    "id": "nges8npa3",
+    "name": "七里ヶ浜",
+    "image": "https://image.xinu.ink/pic/data/682/images/nges8npa3_1724314774013.jpg",
+    "geo": [
+      35.304943,
+      139.51122
+    ],
+    "ep": 6,
+    "s": 911,
+    "mark": "堤坝上的矩形印记非常好找",
+    "folder": "镰仓"
+  },
+  {
+    "id": "ngesre0gs",
+    "name": "七里ヶ浜",
+    "image": "https://image.xinu.ink/pic/data/682/images/ngesre0gs_1724314805531.jpg",
+    "geo": [
+      35.304928,
+      139.511252
+    ],
+    "ep": 6,
+    "s": 922,
+    "folder": "镰仓"
+  },
+  {
+    "id": "ngfab7bdw",
+    "name": "旭日丘",
+    "image": "https://image.xinu.ink/pic/data/682/images/ngfab7bdw_1724315867292.jpg",
+    "geo": [
+      35.407436,
+      138.876089
+    ],
+    "ep": 6,
+    "s": 567,
+    "folder": "富士山"
+  },
+  {
+    "id": "ngfc45a34",
+    "name": "道の駅すばしり",
+    "image": "https://image.xinu.ink/pic/data/682/images/ngfc45a34_1724315976140.jpg",
+    "geo": [
+      35.362646,
+      138.858863
+    ],
+    "ep": 6,
+    "s": 666,
+    "folder": "富士山"
+  },
+  {
+    "id": "ngfd665fx",
+    "name": "道の駅すばしり",
+    "image": "https://image.xinu.ink/pic/data/682/images/ngfd665fx_1724316038934.jpg",
+    "geo": [
+      35.362617,
+      138.85892
+    ],
+    "ep": 6,
+    "s": 618,
+    "mark": "不精确",
+    "folder": "富士山"
+  },
+  {
+    "id": "ngfdhazuq",
+    "name": "道の駅すばしり",
+    "image": "https://image.xinu.ink/pic/data/682/images/ngfdhazuq_1724316059237.jpg",
+    "geo": [
+      35.362599,
+      138.858952
+    ],
+    "ep": 6,
+    "s": 656,
+    "folder": "富士山"
+  },
+  {
+    "id": "ngfg3x8p6",
+    "name": "箱根湯本駅",
+    "image": "https://image.xinu.ink/pic/data/682/images/ngfg3x8p6_1724316226024.jpg",
+    "geo": [
+      35.232521,
+      139.102968
+    ],
+    "ep": 6,
+    "s": 765,
+    "folder": "東海道"
+  },
+  {
+    "id": "ngfn3ytwt",
+    "name": "KKR​鎌倉​わか​みや",
+    "image": "https://image.xinu.ink/pic/data/682/images/ngfn3ytwt_1724316643427.jpg",
+    "geo": [
+      35.310945,
+      139.543888
+    ],
+    "ep": 6,
+    "s": 1148,
+    "folder": "镰仓",
+    "origin": "聖地巡礼のススメ",
+    "originURL": "https://seichijunrei-susume.com/supercub_seichilist02/"
+  },
+  {
+    "id": "ngfkmm6ju",
+    "name": "KKR​鎌倉​わか​みや",
+    "image": "https://image.xinu.ink/pic/data/682/images/ngfkmm6ju_1724316491545.jpg",
+    "geo": [
+      35.310953,
+      139.543909
+    ],
+    "ep": 6,
+    "s": 954,
+    "folder": "镰仓",
+    "origin": "聖地巡礼のススメ",
+    "originURL": "https://seichijunrei-susume.com/supercub_seichilist02/"
+  },
+  {
+    "id": "ngfkpao4z",
+    "name": "KKR​鎌倉​わか​みや",
+    "image": "https://image.xinu.ink/pic/data/682/images/ngfkpao4z_1724316494042.jpg",
+    "geo": [
+      35.310948,
+      139.543929
+    ],
+    "ep": 6,
+    "s": 971,
+    "folder": "镰仓",
+    "origin": "聖地巡礼のススメ",
+    "originURL": "https://seichijunrei-susume.com/supercub_seichilist02/"
+  },
+  {
+    "id": "ngfkqjico",
+    "name": "KKR​鎌倉​わか​みや",
+    "image": "https://image.xinu.ink/pic/data/682/images/ngfkqjico_1724316496160.jpg",
+    "geo": [
+      35.310941,
+      139.543949
+    ],
+    "ep": 6,
+    "s": 995,
+    "folder": "镰仓",
+    "origin": "聖地巡礼のススメ",
+    "originURL": "https://seichijunrei-susume.com/supercub_seichilist02/"
+  },
+  {
+    "id": "ngfzfo7tn",
+    "name": "朝比奈峠",
+    "image": "https://image.xinu.ink/pic/data/682/images/ngfzfo7tn_1724317390155.jpg",
+    "geo": [
+      35.329155,
+      139.589231
+    ],
+    "ep": 6,
+    "s": 1230,
+    "folder": "镰仓",
+    "origin": "聖地巡礼のススメ",
+    "originURL": "https://seichijunrei-susume.com/supercub_seichilist02/"
+  },
+  {
+    "id": "ngfzst7zj",
+    "name": "朝比奈峠",
+    "image": "https://image.xinu.ink/pic/data/682/images/ngfzst7zj_1724317408348.jpg",
+    "geo": [
+      35.329152,
+      139.589236
+    ],
+    "ep": 6,
+    "s": 1239,
+    "folder": "镰仓",
+    "origin": "聖地巡礼のススメ",
+    "originURL": "https://seichijunrei-susume.com/supercub_seichilist02/"
   }
 ]

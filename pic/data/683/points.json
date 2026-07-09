@@ -623,5 +623,60 @@
     ],
     "origin": "Anitabi@AmaiAya",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "d2f6e190",
+    "name": "原宿駅東口",
+    "image": "https://image.xinu.ink/pic/data/683/images/d2f6e190_1719541888035.jpg",
+    "geo": [
+      35.670017,
+      139.702466
+    ],
+    "ep": 3,
+    "s": 83
+  },
+  {
+    "id": "lrfo3p7jf",
+    "name": "原宿駅東口",
+    "image": "https://image.xinu.ink/pic/data/683/images/lrfo3p7jf_1719541888423.jpg",
+    "geo": [
+      35.669948,
+      139.702675
+    ],
+    "ep": 3,
+    "s": 95
+  },
+  {
+    "id": "lrfuy01me",
+    "name": "原宿アルタ前",
+    "image": "https://image.xinu.ink/pic/data/683/images/lrfuy01me_1719541891702.jpg",
+    "geo": [
+      35.671291,
+      139.704322
+    ],
+    "ep": 3,
+    "s": 162
+  },
+  {
+    "id": "lrgoo7cve",
+    "name": "龍生堂薬局新宿店前",
+    "image": "https://image.xinu.ink/pic/data/683/images/lrgoo7cve_1719541894749.jpg",
+    "geo": [
+      35.693218,
+      139.702406
+    ],
+    "ep": 5,
+    "s": 756
+  },
+  {
+    "id": "lrhbas0au",
+    "name": "竜ノ口渓谷 八木山橋",
+    "image": "https://image.xinu.ink/pic/data/683/images/lrhbas0au_1719541915749.jpg",
+    "geo": [
+      38.249622,
+      140.851453
+    ],
+    "ep": 22,
+    "s": 663
   }
 ]

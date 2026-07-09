@@ -240,5 +240,52 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1GxymYQxQxfejGt7r7z-AC4eT1Y-msN2J&ll=35.336843%2C139.647712&z=17"
+  },
+  {
+    "id": "6b420f49",
+    "name": "観音崎バス停",
+    "image": "",
+    "geo": [
+      35.257735,
+      139.74121
+    ],
+    "folder": "#01～06",
+    "origin": "スローループ-舞台探訪マップ-"
+  },
+  {
+    "id": "e3a249bd",
+    "name": "BerryPark in FISH ON！ 王禅寺",
+    "image": "",
+    "geo": [
+      35.590642,
+      139.522951
+    ],
+    "mark": "#03",
+    "folder": "#01～06",
+    "origin": "スローループ-舞台探訪マップ-"
+  },
+  {
+    "id": "23756e1c",
+    "name": "つり幸",
+    "image": "",
+    "geo": [
+      35.517156,
+      139.725088
+    ],
+    "mark": "#05",
+    "folder": "#01～06",
+    "origin": "スローループ-舞台探訪マップ-"
+  },
+  {
+    "id": "a6ed24c9",
+    "name": "横浜・八景島シーパラダイス シーボート",
+    "image": "",
+    "geo": [
+      35.336476,
+      139.646886
+    ],
+    "mark": "#07",
+    "folder": "#01～06",
+    "origin": "スローループ-舞台探訪マップ-"
   }
 ]

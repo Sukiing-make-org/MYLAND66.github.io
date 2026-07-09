@@ -1441,5 +1441,151 @@
     ],
     "origin": "Anitabi@うに",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "sfaue5tjt",
+    "name": "まほう屋入口の石段",
+    "image": "https://image.xinu.ink/pic/data/601/images/sfaue5tjt-1738333391246.jpg",
+    "geo": [
+      32.732263,
+      129.870728
+    ],
+    "ep": 1,
+    "s": 855,
+    "mark": "在2023年左右石阶右侧新建了住宅，导致右侧的小树林和石墙已经消失。",
+    "cn": "魔法屋入口的石阶"
+  },
+  {
+    "id": "sfavcmo6p",
+    "name": "まほう屋入口の石段",
+    "image": "https://image.xinu.ink/pic/data/601/images/sfavcmo6p-1738333451626.jpg",
+    "geo": [
+      32.732253,
+      129.870594
+    ],
+    "ep": 24,
+    "s": 977,
+    "mark": "在2023年左右石阶的图中左侧新建了住宅，导致图中左侧的小树林和石墙已经消失。",
+    "cn": "魔法屋入口的石阶"
+  },
+  {
+    "id": "6yww0dq",
+    "name": "Knowle House Close",
+    "image": "",
+    "geo": [
+      50.287906,
+      -3.77659
+    ],
+    "mark": "（预标点，稍后补图）琥珀留学的学校原型"
+  },
+  {
+    "id": "cj64b0y",
+    "name": "出雲近隣公園 亭子",
+    "image": "https://image.xinu.ink/pic/data/601/images/cj64b0y-1774290879533.jpg",
+    "geo": [
+      32.72918,
+      129.874232
+    ],
+    "ep": 2,
+    "s": 53
+  },
+  {
+    "id": "cj64qbe",
+    "name": "出雲近隣公園 亭子",
+    "image": "https://image.xinu.ink/pic/data/601/images/cj64qbe-1774290900572.jpg",
+    "geo": [
+      32.729169,
+      129.87421
+    ],
+    "ep": 1,
+    "s": 1279
+  },
+  {
+    "id": "cj651wn",
+    "name": "出雲近隣公園 亭子",
+    "image": "https://image.xinu.ink/pic/data/601/images/cj651wn-1774290915684.jpg",
+    "geo": [
+      32.729182,
+      129.874158
+    ],
+    "ep": 2,
+    "s": 235
+  },
+  {
+    "id": "cj65jsj",
+    "name": "出雲近隣公園 亭子",
+    "image": "https://image.xinu.ink/pic/data/601/images/cj65jsj-1774290936842.jpg",
+    "geo": [
+      32.729222,
+      129.874185
+    ],
+    "ep": 2,
+    "s": 180
+  },
+  {
+    "id": "cj67h9u",
+    "name": "出雲近隣公園 亭子",
+    "image": "https://image.xinu.ink/pic/data/601/images/cj67h9u-1774291026897.jpg",
+    "geo": [
+      32.729207,
+      129.874384
+    ],
+    "ep": 2,
+    "s": 153
+  },
+  {
+    "id": "cj68rvl",
+    "name": "出雲近隣公園 亭子",
+    "image": "https://image.xinu.ink/pic/data/601/images/cj68rvl-1774291090160.jpg",
+    "geo": [
+      32.729106,
+      129.874267
+    ],
+    "ep": 1,
+    "s": 1264
+  },
+  {
+    "id": "cj6fc5r",
+    "name": "魚市橋",
+    "image": "https://image.xinu.ink/pic/data/601/images/cj6fc5r-1774291394166.jpg",
+    "geo": [
+      32.74745,
+      129.880782
+    ],
+    "ep": 9,
+    "s": 445
+  },
+  {
+    "id": "cj6j9lc",
+    "name": "石橋駅",
+    "image": "https://image.xinu.ink/pic/data/601/images/cj6j9lc-1774291579202.jpg",
+    "geo": [
+      32.734296,
+      129.872437
+    ],
+    "ep": 9,
+    "s": 660
+  },
+  {
+    "id": "cj6jmha",
+    "name": "石橋駅",
+    "image": "https://image.xinu.ink/pic/data/601/images/cj6jmha-1774291593368.jpg",
+    "geo": [
+      32.734319,
+      129.872365
+    ],
+    "ep": 9,
+    "s": 639
+  },
+  {
+    "id": "cj75urf",
+    "name": "水辺の森公園（石のベンチ）",
+    "image": "https://image.xinu.ink/pic/data/601/images/cj75urf-1774292631598.jpg",
+    "geo": [
+      32.739797,
+      129.868517
+    ],
+    "ep": 10,
+    "s": 313
   }
 ]

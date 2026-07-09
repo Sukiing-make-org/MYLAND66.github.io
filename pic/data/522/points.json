@@ -2326,5 +2326,38 @@
     ],
     "origin": "Anitabi@うに",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kqasxq3s5",
+    "name": "イルカの海",
+    "image": "https://image.xinu.ink/pic/data/522/images/kqasxq3s5-1716626425101.jpg",
+    "geo": [
+      35.019524,
+      138.89562
+    ],
+    "ep": 4,
+    "s": 1151
+  },
+  {
+    "id": "2dhp2ui",
+    "name": "西伊豆スカイライン土肥駐車場",
+    "image": "https://image.xinu.ink/pic/data/522/images/2dhp2ui-1752179704686.jpg",
+    "geo": [
+      34.934651,
+      138.831628
+    ],
+    "ep": 10,
+    "s": 1264
+  },
+  {
+    "id": "2dhpxfz",
+    "name": "西伊豆スカイライン土肥駐車場",
+    "image": "https://image.xinu.ink/pic/data/522/images/2dhpxfz-1752179742922.jpg",
+    "geo": [
+      34.934667,
+      138.831728
+    ],
+    "ep": 10,
+    "s": 1263
   }
 ]

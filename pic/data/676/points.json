@@ -357,5 +357,40 @@
       43.055,
       141.3145
     ]
+  },
+  {
+    "id": "npioll3nv",
+    "name": "14加斯玛广场酒店",
+    "image": "https://image.xinu.ink/pic/data/676/images/npioll3nv_1725028541907.jpg",
+    "geo": [
+      43.052223,
+      141.355448
+    ],
+    "ep": 4,
+    "s": 392,
+    "mark": "玻璃幕墙在建筑北侧"
+  },
+  {
+    "id": "npipdsbim",
+    "name": "15北海道神宫",
+    "image": "https://image.xinu.ink/pic/data/676/images/npipdsbim_1725028587379.jpg",
+    "geo": [
+      43.054242,
+      141.310536
+    ],
+    "ep": 4,
+    "s": 923,
+    "mark": "北海道神社第三鸟居"
+  },
+  {
+    "id": "npipta025",
+    "name": "18缆车站",
+    "image": "https://image.xinu.ink/pic/data/676/images/npipta025_1725028612683.jpg",
+    "geo": [
+      43.031535,
+      141.333127
+    ],
+    "ep": 9,
+    "s": 381
   }
 ]

@@ -790,5 +790,57 @@
       24.3882,
       124.2372
     ]
+  },
+  {
+    "id": "4sd1mksmf",
+    "name": "OP 霞ケ関東緑地",
+    "image": "",
+    "geo": [
+      35.922696,
+      139.453043
+    ]
+  },
+  {
+    "id": "4sd1mku0s",
+    "name": "3# 日乃本帆布前",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mku0s.jpg",
+    "geo": [
+      35.92327,
+      139.483721
+    ],
+    "ep": 3,
+    "s": 901
+  },
+  {
+    "id": "4sd1mkulb",
+    "name": "3# 鶴ケ岡四丁目",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkulb.jpg",
+    "geo": [
+      35.868539,
+      139.499893
+    ],
+    "ep": 3,
+    "s": 936
+  },
+  {
+    "id": "4sd1mkwkq",
+    "name": "4# 宇宙飛行士養成棟",
+    "image": "https://image.xinu.ink/pic/data/645/images/4sd1mkwkq.jpg",
+    "geo": [
+      36.067143,
+      140.127424
+    ],
+    "ep": 4,
+    "s": 750
+  },
+  {
+    "id": "4sd1mky4y",
+    "name": "4# 地図と測量の科学館",
+    "image": "",
+    "geo": [
+      36.103882,
+      140.085631
+    ],
+    "ep": 4
   }
 ]

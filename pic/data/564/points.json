@@ -186,5 +186,45 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1tGFyH0fu1bvrw4KDgYVv-nOKoWda8A7A&ll=36.744907%2C137.013108&z=17"
+  },
+  {
+    "id": "kpx6ojjd4",
+    "name": "中洲",
+    "image": "https://image.xinu.ink/pic/data/564/images/kpx6ojjd4-1722150926024.jpg",
+    "geo": [
+      33.591462,
+      130.406907
+    ],
+    "folder": "福岡市"
+  },
+  {
+    "id": "mot6uc1dd",
+    "name": "ヒルトン​福岡​シーホーク",
+    "image": "https://image.xinu.ink/pic/data/564/images/mot6uc1dd_1722152064854.jpg",
+    "geo": [
+      33.594726,
+      130.359185
+    ],
+    "folder": "福岡市"
+  },
+  {
+    "id": "kpx6ojjoa",
+    "name": "高岡市民病院",
+    "image": "",
+    "geo": [
+      36.75606,
+      137.028942
+    ],
+    "folder": "高岡"
+  },
+  {
+    "id": "kpx6ojkfa",
+    "name": "守山城跡",
+    "image": "",
+    "geo": [
+      36.787183,
+      137.009394
+    ],
+    "folder": "高岡"
   }
 ]

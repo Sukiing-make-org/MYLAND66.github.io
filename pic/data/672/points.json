@@ -1557,5 +1557,109 @@
     ],
     "origin": "Anitabi@MikiEteRiRi",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2v1u4vl",
+    "name": "武甲山コース",
+    "image": "https://image.xinu.ink/pic/data/672/images/2v1u4vl-1753241462300.jpg",
+    "geo": [
+      35.94273,
+      139.105671
+    ],
+    "ep": 5,
+    "s": 942,
+    "folder": "武甲山",
+    "cn": "武甲山コース"
+  },
+  {
+    "id": "2vfzt3p",
+    "name": "武甲山コース",
+    "image": "https://image.xinu.ink/pic/data/672/images/2vfzt3p-1753265253371.jpg",
+    "geo": [
+      35.943624,
+      139.105453
+    ],
+    "ep": 5,
+    "s": 993,
+    "folder": "武甲山",
+    "cn": "武甲山コース"
+  },
+  {
+    "id": "2vg1xoz",
+    "name": "武甲山の不動滝",
+    "image": "https://image.xinu.ink/pic/data/672/images/2vg1xoz-1753265336686.jpg",
+    "geo": [
+      35.944383,
+      139.104693
+    ],
+    "ep": 5,
+    "s": 1050,
+    "folder": "武甲山",
+    "cn": "武甲山の不動滝"
+  },
+  {
+    "id": "2vgaovf",
+    "name": "武甲山御嶽神社",
+    "image": "https://image.xinu.ink/pic/data/672/images/2vgaovf-1753265750205.jpg",
+    "geo": [
+      35.951142,
+      139.097697
+    ],
+    "ep": 5,
+    "s": 1145,
+    "folder": "武甲山",
+    "cn": "武甲山御嶽神社"
+  },
+  {
+    "id": "2vgbarg",
+    "name": "武甲山御嶽神社",
+    "image": "https://image.xinu.ink/pic/data/672/images/2vgbarg-1753265775437.jpg",
+    "geo": [
+      35.951139,
+      139.097829
+    ],
+    "ep": 5,
+    "s": 1146,
+    "folder": "武甲山",
+    "cn": "武甲山御嶽神社"
+  },
+  {
+    "id": "2vgdxz8",
+    "name": "武甲山第一展望所",
+    "image": "https://image.xinu.ink/pic/data/672/images/2vgdxz8-1753265901369.jpg",
+    "geo": [
+      35.951705,
+      139.097764
+    ],
+    "ep": 5,
+    "s": 1157,
+    "folder": "武甲山",
+    "cn": "武甲山第一展望所"
+  },
+  {
+    "id": "2vggw9s",
+    "name": "武甲山展望所",
+    "image": "https://image.xinu.ink/pic/data/672/images/2vggw9s-1753266039925.jpg",
+    "geo": [
+      35.951842,
+      139.097592
+    ],
+    "ep": 5,
+    "s": 1169,
+    "folder": "武甲山",
+    "cn": "武甲山展望所"
+  },
+  {
+    "id": "2vghfw2",
+    "name": "武甲山展望所",
+    "image": "https://image.xinu.ink/pic/data/672/images/2vghfw2-1753266063472.jpg",
+    "geo": [
+      35.951831,
+      139.097576
+    ],
+    "ep": 5,
+    "s": 1194,
+    "folder": "武甲山",
+    "cn": "武甲山展望所"
   }
 ]

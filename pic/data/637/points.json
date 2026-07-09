@@ -209,5 +209,43 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1OCtVZAXzcam51D_pcOY0Ps5eGjQuNEOE&ll=35.564438%2C139.654107&z=17"
+  },
+  {
+    "id": "39rws3p6",
+    "name": "新丸子駅ホーム",
+    "image": "",
+    "geo": [
+      35.580594,
+      139.661931
+    ]
+  },
+  {
+    "id": "39rws385",
+    "name": "多摩川河川敷",
+    "image": "https://image.xinu.ink/pic/data/637/images/39rws385.jpg",
+    "geo": [
+      35.576671,
+      139.672928
+    ],
+    "ep": 2,
+    "s": 1166
+  },
+  {
+    "id": "39rws31w",
+    "name": "丸子橋",
+    "image": "https://image.xinu.ink/pic/data/637/images/39rws31w.jpg",
+    "geo": [
+      35.583911,
+      139.665972
+    ]
+  },
+  {
+    "id": "39rws34m",
+    "name": "丸子橋",
+    "image": "https://image.xinu.ink/pic/data/637/images/39rws34m.jpg",
+    "geo": [
+      35.584801,
+      139.667854
+    ]
   }
 ]

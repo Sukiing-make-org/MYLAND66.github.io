@@ -578,5 +578,73 @@
       1.3047,
       103.8319
     ]
+  },
+  {
+    "id": "ujfkqai73",
+    "name": "南極・​北極​科学館",
+    "image": "https://image.xinu.ink/pic/data/545/images/ujfkqai73-1744299364960.jpg",
+    "geo": [
+      35.711755,
+      139.40957
+    ],
+    "ep": 3,
+    "s": 1198
+  },
+  {
+    "id": "ujflcdr1j",
+    "name": "南極・​北極​科学館",
+    "image": "https://image.xinu.ink/pic/data/545/images/ujflcdr1j-1744299420346.jpg",
+    "geo": [
+      35.711755,
+      139.40957
+    ],
+    "ep": 3,
+    "s": 1228
+  },
+  {
+    "id": "ujflxth24",
+    "name": "南極・​北極​科学館",
+    "image": "https://image.xinu.ink/pic/data/545/images/ujflxth24-1744299441007.jpg",
+    "geo": [
+      35.711755,
+      139.40957
+    ],
+    "ep": 3,
+    "s": 1241
+  },
+  {
+    "id": "ujfmganic",
+    "name": "南極・​北極​科学館",
+    "image": "https://image.xinu.ink/pic/data/545/images/ujfmganic-1744299477414.jpg",
+    "geo": [
+      35.711755,
+      139.40957
+    ],
+    "ep": 3,
+    "s": 1246
+  },
+  {
+    "id": "ujfn9stzq",
+    "name": "南極・​北極​科学館",
+    "image": "https://image.xinu.ink/pic/data/545/images/ujfn9stzq-1744299516910.jpg",
+    "geo": [
+      35.711755,
+      139.40957
+    ],
+    "ep": 3,
+    "s": 1272
+  },
+  {
+    "id": "8fkxcpbgz",
+    "name": "昭和基地",
+    "image": "https://image.xinu.ink/pic/data/545/images/8fkxcpbgz-1681933151361.jpg",
+    "geo": [
+      -69.003635,
+      39.581747
+    ],
+    "ep": 10,
+    "s": 686,
+    "folder": "南极",
+    "cn": "昭和基地"
   }
 ]

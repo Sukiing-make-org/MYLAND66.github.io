@@ -61,5 +61,29 @@
     ],
     "origin": "Anitabi@Xmなのだ",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "bot4n7z",
+    "name": "三井アウトレットパーク 入間",
+    "image": "https://image.xinu.ink/pic/data/533/images/bot4n7z-1772455081036.jpg",
+    "geo": [
+      35.810077,
+      139.379643
+    ],
+    "ep": 13,
+    "s": 388,
+    "mark": "谷歌实景图只有定点，应该是在这"
+  },
+  {
+    "id": "bosyacu",
+    "name": "三井アウトレットパーク 入間",
+    "image": "https://image.xinu.ink/pic/data/533/images/bosyacu-1772455020701.jpg",
+    "geo": [
+      35.810252,
+      139.378409
+    ],
+    "ep": 13,
+    "s": 12,
+    "mark": "俯瞰图"
   }
 ]

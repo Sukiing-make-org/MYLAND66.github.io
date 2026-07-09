@@ -327,5 +327,28 @@
       35.6682,
       139.4848
     ]
+  },
+  {
+    "id": "8mcyw96",
+    "name": "京都競馬場",
+    "image": "https://image.xinu.ink/pic/data/528/images/8mcyw96_1765776664594.jpg",
+    "geo": [
+      34.905866,
+      135.727573
+    ],
+    "mark": "鸟瞰",
+    "folder": "京都競馬場",
+    "cn": "京都赛马场"
+  },
+  {
+    "id": "af4wqye",
+    "name": "東京レースコース",
+    "image": "https://image.xinu.ink/pic/data/528/images/af4wqye-1769693461008.jpg",
+    "geo": [
+      35.665619,
+      139.483958
+    ],
+    "ep": "1",
+    "cn": "东京竞马场"
   }
 ]

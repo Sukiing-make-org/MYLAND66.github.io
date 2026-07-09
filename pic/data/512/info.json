@@ -15,10 +15,13 @@
       ]
     }
   ],
-  "pointsLength": 1,
+  "pointsLength": 3,
   "imagesLength": 1,
   "local_id": 512,
   "region": [
     "贵溪市"
-  ]
+  ],
+  "city": "江西省",
+  "color": "#026cf3",
+  "cat": "WEB"
 }

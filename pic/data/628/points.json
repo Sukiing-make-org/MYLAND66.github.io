@@ -158,5 +158,46 @@
     ],
     "origin": "Anitabi@耿耿-げん",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "rm3i9h6o0",
+    "name": "ゆうゆう橋",
+    "image": "https://image.xinu.ink/pic/data/628/images/rm3i9h6o0-1736044874466.jpg",
+    "geo": [
+      35.622185,
+      139.422464
+    ],
+    "mark": "ed 画面 ゆうゆう橋上"
+  },
+  {
+    "id": "rm4uhmywf",
+    "name": "環二通り",
+    "image": "https://image.xinu.ink/pic/data/628/images/rm4uhmywf-1736047777831.jpg",
+    "geo": [
+      35.663772,
+      139.759328
+    ],
+    "mark": "ed画面  "
+  },
+  {
+    "id": "rm59uv2gw",
+    "name": "パークホテル 東京",
+    "image": "https://image.xinu.ink/pic/data/628/images/rm59uv2gw-1736048707316.jpg",
+    "geo": [
+      35.662959,
+      139.759386
+    ],
+    "mark": "ed画面 ",
+    "cn": "东京帕克酒店"
+  },
+  {
+    "id": "rnegnkkgy",
+    "name": "东京帕克酒店",
+    "image": "https://image.xinu.ink/pic/data/628/images/rnegnkkgy-1736147082628.jpg",
+    "geo": [
+      35.663002,
+      139.759355
+    ],
+    "mark": "ed画面\n乱丢垃圾警告（"
   }
 ]

@@ -163,5 +163,33 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1vZYxWYQiyWLLN9rDdYUWW7_wrKQZBeVL&ll=35.681761%2C139.796857&z=17"
+  },
+  {
+    "id": "51i51p6qy",
+    "name": "走るピエール",
+    "image": "https://image.xinu.ink/pic/data/521/images/51i51p6qy_1672372919195.jpg",
+    "geo": [
+      35.678315,
+      139.789571
+    ],
+    "folder": "門前仲町"
+  },
+  {
+    "id": "51i51p9fy",
+    "name": "武蔵小金井駅南口",
+    "image": "",
+    "geo": [
+      35.70091,
+      139.507114
+    ]
+  },
+  {
+    "id": "51i51p9iz",
+    "name": "本町カツラ公園",
+    "image": "",
+    "geo": [
+      35.700192,
+      139.503422
+    ]
   }
 ]

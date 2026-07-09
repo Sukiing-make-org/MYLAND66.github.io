@@ -1565,5 +1565,238 @@
     ],
     "origin": "Anitabi@AmaiAya",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "lt7llgxk7",
+    "name": "御幸公園交差点",
+    "image": "https://image.xinu.ink/pic/data/646/images/lt7llgxk7_1719675656610.jpg",
+    "geo": [
+      35.55167,
+      139.694475
+    ],
+    "ep": 4
+  },
+  {
+    "id": "lt050zpcs",
+    "name": "ゲストハウス糸屋 フリースペース",
+    "image": "https://image.xinu.ink/pic/data/646/images/lt050zpcs_1719659472115.jpg",
+    "geo": [
+      35.030102,
+      135.745323
+    ],
+    "ep": 39,
+    "mark": "https://kyoto-itoya.com/room/index.html#free",
+    "folder": "ゲストハウス糸屋"
+  },
+  {
+    "id": "lrtt0ubs3",
+    "name": "国道1号南侧民宅",
+    "image": "https://image.xinu.ink/pic/data/646/images/lrtt0ubs3_1719594688873.jpg",
+    "geo": [
+      34.990832,
+      135.844399
+    ],
+    "ep": 46,
+    "mark": "https://maps.app.goo.gl/bwjJ1CDWZcfWzSSs6",
+    "folder": "国道1号"
+  },
+  {
+    "id": "lrurqk9xe",
+    "name": "国道1号",
+    "image": "https://image.xinu.ink/pic/data/646/images/lrurqk9xe_1719569431255.jpg",
+    "geo": [
+      34.991483,
+      135.846992
+    ],
+    "ep": 48,
+    "mark": "面朝南，两个高台之间。",
+    "folder": "国道1号"
+  },
+  {
+    "id": "lrubfardt",
+    "name": "国道1号",
+    "image": "https://image.xinu.ink/pic/data/646/images/lrubfardt_1719569825525.jpg",
+    "geo": [
+      34.992024,
+      135.848738
+    ],
+    "ep": 49,
+    "mark": "面朝西，左侧可以看到村松石材的建筑。",
+    "folder": "国道1号"
+  },
+  {
+    "id": "lrueuq287",
+    "name": "国道1号",
+    "image": "https://image.xinu.ink/pic/data/646/images/lrueuq287_1719569882904.jpg",
+    "geo": [
+      34.992106,
+      135.849045
+    ],
+    "ep": 49,
+    "mark": "面朝北。",
+    "folder": "国道1号"
+  },
+  {
+    "id": "lsvxfxlpj",
+    "name": "竹屋町通",
+    "image": "https://image.xinu.ink/pic/data/646/images/lsvxfxlpj_1719661149396.jpg",
+    "geo": [
+      35.015749,
+      135.750116
+    ],
+    "ep": 54,
+    "folder": "京都御所附近道路"
+  },
+  {
+    "id": "lsvxymn5j",
+    "name": "竹屋町通",
+    "image": "https://image.xinu.ink/pic/data/646/images/lsvxymn5j_1719661168083.jpg",
+    "geo": [
+      35.015778,
+      135.751317
+    ],
+    "ep": 54,
+    "folder": "京都御所附近道路"
+  },
+  {
+    "id": "lsvwi71r9",
+    "name": "竹屋町通",
+    "image": "https://image.xinu.ink/pic/data/646/images/lsvwi71r9_1719661157925.jpg",
+    "geo": [
+      35.015932,
+      135.747495
+    ],
+    "ep": 54,
+    "folder": "京都御所附近道路"
+  },
+  {
+    "id": "lsvx54qnm",
+    "name": "竹屋町通",
+    "image": "https://image.xinu.ink/pic/data/646/images/lsvx54qnm_1719661164872.jpg",
+    "geo": [
+      35.015835,
+      135.750014
+    ],
+    "ep": 55,
+    "folder": "京都御所附近道路"
+  },
+  {
+    "id": "lso8i76aa",
+    "name": "首塚大明神 鳥居",
+    "image": "https://image.xinu.ink/pic/data/646/images/lso8i76aa_1719633526112.jpg",
+    "geo": [
+      34.98686,
+      135.638908
+    ],
+    "ep": 55,
+    "folder": "首冢大明神",
+    "cn": "首冢大明神 鸟居"
+  },
+  {
+    "id": "lsvz7r60l",
+    "name": "船岡山公園 広場",
+    "image": "https://image.xinu.ink/pic/data/646/images/lsvyxq073_1719661212314.jpg",
+    "geo": [
+      35.039755,
+      135.741884
+    ],
+    "ep": 57,
+    "folder": "船冈山公园",
+    "cn": "船冈山公园 广场"
+  },
+  {
+    "id": "ly3flcq8z",
+    "name": "寺町通 下御霊神社前",
+    "image": "https://image.xinu.ink/pic/data/646/images/ly3flcq8z_1720058405893.jpg",
+    "geo": [
+      35.016945,
+      135.767288
+    ],
+    "ep": 62,
+    "folder": "下御灵神社"
+  },
+  {
+    "id": "v8tztunw8",
+    "name": "神代家",
+    "image": "https://image.xinu.ink/pic/data/646/images/v8tztunw8_1746289861114.jpg",
+    "geo": [
+      35.032019,
+      135.772102
+    ],
+    "ep": 65,
+    "mark": "https://maps.app.goo.gl/1vbK1fbMMULLQEWX9",
+    "folder": "神代家",
+    "cn": "神代家"
+  },
+  {
+    "id": "v8sycbq0j",
+    "name": "神代家",
+    "image": "https://image.xinu.ink/pic/data/646/images/v8sycbq0j_1746289799851.jpg",
+    "geo": [
+      35.031488,
+      135.771849
+    ],
+    "ep": 65,
+    "mark": "现实原型为旧三井家下鴨別邸。",
+    "folder": "神代家",
+    "cn": "神代家"
+  },
+  {
+    "id": "v8u246ujr",
+    "name": "神代家",
+    "image": "https://image.xinu.ink/pic/data/646/images/v8u246ujr_1746290008836.jpg",
+    "geo": [
+      35.031696,
+      135.771757
+    ],
+    "ep": 65,
+    "folder": "神代家",
+    "cn": "神代家"
+  },
+  {
+    "id": "v8uh0l860",
+    "name": "神代家",
+    "image": "https://image.xinu.ink/pic/data/646/images/v8uh0l860_1746290902009.jpg",
+    "geo": [
+      35.03191,
+      135.772154
+    ],
+    "ep": 66,
+    "folder": "神代家",
+    "cn": "神代家"
+  },
+  {
+    "id": "v8uihi4yr",
+    "name": "神代家",
+    "image": "https://image.xinu.ink/pic/data/646/images/v8uihi4yr_1746290981388.jpg",
+    "geo": [
+      35.031913,
+      135.772117
+    ],
+    "ep": 66,
+    "folder": "神代家",
+    "cn": "神代家"
+  },
+  {
+    "id": "pmvxzkvxf",
+    "name": "下鴨神社 御手洗池",
+    "image": "https://image.xinu.ink/pic/data/646/images/pmvxzkvxf_1730464541060.jpg",
+    "geo": [
+      35.03895,
+      135.773391
+    ],
+    "ep": 66,
+    "folder": "下鸭神社"
+  },
+  {
+    "id": "v8ump74dc",
+    "name": "晴明神社",
+    "image": "https://image.xinu.ink/pic/data/646/images/v8ump74dc_1746291352179.jpg",
+    "geo": [
+      35.02773,
+      135.751136
+    ],
+    "ep": 66,
+    "folder": "晴明神社"
   }
 ]

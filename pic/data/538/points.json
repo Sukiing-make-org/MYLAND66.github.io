@@ -317,5 +317,75 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1YSLKYDtt8UJkLHlnB54pPE4ezJg&ll=35.748994%2C139.765225&z=17"
+  },
+  {
+    "id": "4ui7mhfur",
+    "name": "レストラン・ブラジル",
+    "image": "",
+    "geo": [
+      36.260565,
+      139.407144
+    ],
+    "mark": "群馬県邑楽郡大泉町西小泉５丁目５−３ season2 第4話 ブラジル料理 (http://oishiinaa.blog.fc2.com/blog-entry-54.html)"
+  },
+  {
+    "id": "4ui7mhg76",
+    "name": "珍々",
+    "image": "",
+    "geo": [
+      35.738178,
+      139.880238
+    ],
+    "mark": "東京都江戸川区西小岩４丁目９−２０ season2 第6話 中華料理、麻婆豆腐 (http://oishiinaa.blog.fc2.com/blog-entry-62.html)"
+  },
+  {
+    "id": "4ui7mhfvv",
+    "name": "タイ国料理ライカノ",
+    "image": "",
+    "geo": [
+      35.749286,
+      139.803468
+    ],
+    "mark": "東京都足立区千住2-62 ラ・フェットビル　１Ｆseason2 第11話 タイ料理 (http://oishiinaa.blog.fc2.com/blog-entry-98.html)"
+  },
+  {
+    "id": "4ui7mhg1r",
+    "name": "わさび園 かどや",
+    "image": "",
+    "geo": [
+      34.794064,
+      138.935292
+    ],
+    "mark": "静岡県賀茂郡河津町梨本３７１−１ season3 第3話　わさび丼 (http://qanda.wimnum.com/archives/513)"
+  },
+  {
+    "id": "4ui7mhfvc",
+    "name": "炭火焼鳥椿",
+    "image": "",
+    "geo": [
+      35.720612,
+      139.780514
+    ],
+    "mark": "渡辺ビル〒110-0003 東京都台東区根岸１丁目１ seasoon3 第8話 炭火焼鳥　名物ハムカツ (http://qanda.wimnum.com/archives/605)"
+  },
+  {
+    "id": "4ui7mhg5m",
+    "name": "峠の茶屋 蔵",
+    "image": "",
+    "geo": [
+      37.133366,
+      138.562353
+    ],
+    "mark": "新潟県十日町市儀明２１７−１ season3 第11話 五目釜飯 (http://qanda.wimnum.com/archives/692)"
+  },
+  {
+    "id": "4ui7mhg77",
+    "name": "だるまや",
+    "image": "",
+    "geo": [
+      35.609426,
+      139.735702
+    ],
+    "mark": "東京都品川区南品川６丁目１１−２８ season3 第12話 イワシ料理 (http://qanda.wimnum.com/archives/705)"
   }
 ]

@@ -296,5 +296,28 @@
     ],
     "origin": "Anitabi@Lucifer Jiang",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "39zlm49j",
+    "name": "多摩川 南側堤防",
+    "image": "https://image.xinu.ink/pic/data/642/images/39zlm49j.jpg",
+    "geo": [
+      35.652221,
+      139.453206
+    ],
+    "ep": 3,
+    "s": 1333,
+    "mark": "3,12話"
+  },
+  {
+    "id": "utgsghjho",
+    "name": "武蔵小山商店街 パルム",
+    "image": "https://image.xinu.ink/pic/data/642/images/utgsghjho-1745085705897.jpg",
+    "geo": [
+      35.619476,
+      139.703804
+    ],
+    "ep": "第5集",
+    "cn": "武藏小山商店街"
   }
 ]

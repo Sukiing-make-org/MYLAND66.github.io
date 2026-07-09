@@ -289,5 +289,41 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4gf3ns9",
+    "name": "仙台駅",
+    "image": "https://image.xinu.ink/pic/data/700/images/4gf3ns9_1756710370958.jpg",
+    "geo": [
+      38.260618,
+      140.881261
+    ],
+    "ep": 7,
+    "s": 436,
+    "folder": "仙台"
+  },
+  {
+    "id": "4gfcnee",
+    "name": "仙台駅",
+    "image": "https://image.xinu.ink/pic/data/700/images/4gfcnee_1756710816521.jpg",
+    "geo": [
+      38.260628,
+      140.881115
+    ],
+    "ep": 1,
+    "s": 431,
+    "folder": "仙台"
+  },
+  {
+    "id": "4gfpjc4",
+    "name": "青葉通",
+    "image": "https://image.xinu.ink/pic/data/700/images/4gfpjc4_1756711326983.jpg",
+    "geo": [
+      38.260833,
+      140.88048
+    ],
+    "ep": 1,
+    "s": 699,
+    "folder": "仙台"
   }
 ]

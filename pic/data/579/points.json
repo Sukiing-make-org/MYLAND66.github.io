@@ -634,5 +634,362 @@
     ],
     "origin": "Anitabi@AmaiAya",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "n4q74y1jv",
+    "name": "喫煙所",
+    "image": "https://image.xinu.ink/pic/data/579/images/n4q74y1jv_1723399252777.jpg",
+    "geo": [
+      35.391489,
+      136.852047
+    ],
+    "ep": 1,
+    "s": 824
+  },
+  {
+    "id": "n4q7zy2vl",
+    "name": "喫煙所",
+    "image": "https://image.xinu.ink/pic/data/579/images/n4q7zy2vl_1723399303845.jpg",
+    "geo": [
+      35.391479,
+      136.852093
+    ],
+    "ep": 1,
+    "s": 856
+  },
+  {
+    "id": "n4r8yxhna",
+    "name": "送電塔",
+    "image": "https://image.xinu.ink/pic/data/579/images/n4r8yxhna_1723401546831.jpg",
+    "geo": [
+      35.398746,
+      136.87046
+    ],
+    "ep": 1,
+    "s": 1076
+  },
+  {
+    "id": "n4qgol97v",
+    "name": "北地区案内図",
+    "image": "https://image.xinu.ink/pic/data/579/images/n4qgol97v_1723399829647.jpg",
+    "geo": [
+      35.398695,
+      136.87234
+    ],
+    "ep": 1,
+    "s": 1433,
+    "mark": "左侧建筑为第1格纳库。"
+  },
+  {
+    "id": "n4qj66eai",
+    "name": "飛行隊指揮所",
+    "image": "https://image.xinu.ink/pic/data/579/images/n4qj66eai_1723400021579.jpg",
+    "geo": [
+      35.397968,
+      136.870114
+    ],
+    "ep": 2,
+    "s": 61,
+    "mark": "左侧建筑为飞行队指挥所，右侧建筑为整备队厅舍。"
+  },
+  {
+    "id": "n4qo03a83",
+    "name": "飛行開発実験団司令部",
+    "image": "https://image.xinu.ink/pic/data/579/images/n4qo03a83_1723400493268.jpg",
+    "geo": [
+      35.398953,
+      136.871706
+    ],
+    "ep": 2,
+    "s": 320
+  },
+  {
+    "id": "n4qq7qd3p",
+    "name": "北地区案内図",
+    "image": "https://image.xinu.ink/pic/data/579/images/n4qq7qd3p_1723400418639.jpg",
+    "geo": [
+      35.398718,
+      136.8724
+    ],
+    "ep": 2,
+    "s": 355
+  },
+  {
+    "id": "n4q2zkz9u",
+    "name": "隊員食堂",
+    "image": "https://image.xinu.ink/pic/data/579/images/n4q2zkz9u_1723400504599.jpg",
+    "geo": [
+      35.390827,
+      136.850692
+    ],
+    "ep": 2,
+    "s": 416
+  },
+  {
+    "id": "n4qwjo5nu",
+    "name": "駐輪場",
+    "image": "https://image.xinu.ink/pic/data/579/images/n4qwjo5nu_1723400809749.jpg",
+    "geo": [
+      35.398388,
+      136.870495
+    ],
+    "ep": 2,
+    "s": 891,
+    "mark": "右侧建筑为整备队厅舍。"
+  },
+  {
+    "id": "n4qw80ipm",
+    "name": "駐輪場",
+    "image": "https://image.xinu.ink/pic/data/579/images/n4qw80ipm_1723400803119.jpg",
+    "geo": [
+      35.398427,
+      136.870496
+    ],
+    "ep": 2,
+    "s": 911
+  },
+  {
+    "id": "n4r1aaaxy",
+    "name": "岐阜基地新北門",
+    "image": "https://image.xinu.ink/pic/data/579/images/n4r1aaaxy_1723401085438.jpg",
+    "geo": [
+      35.399297,
+      136.866706
+    ],
+    "ep": 2,
+    "s": 915
+  },
+  {
+    "id": "n4rgg2na7",
+    "name": "管制塔",
+    "image": "https://image.xinu.ink/pic/data/579/images/n4rgg2na7_1723401992339.jpg",
+    "geo": [
+      35.398109,
+      136.868312
+    ],
+    "ep": 2,
+    "s": 1093
+  },
+  {
+    "id": "n4rddlyj0",
+    "name": "飛行開発実験団司令部",
+    "image": "https://image.xinu.ink/pic/data/579/images/n4rddlyj0_1723401805641.jpg",
+    "geo": [
+      35.399122,
+      136.871671
+    ],
+    "ep": 2,
+    "s": 1329
+  },
+  {
+    "id": "n4rj8i9zs",
+    "name": "岐阜基地北門内",
+    "image": "https://image.xinu.ink/pic/data/579/images/n4rj8i9zs_1723402165407.jpg",
+    "geo": [
+      35.397655,
+      136.873074
+    ],
+    "ep": 3,
+    "s": 597
+  },
+  {
+    "id": "n5gh8cy37",
+    "name": "岐阜基地滑走路",
+    "image": "https://image.xinu.ink/pic/data/579/images/n5gh8cy37_1723456476021.jpg",
+    "geo": [
+      35.393769,
+      136.874821
+    ],
+    "ep": 3,
+    "s": 1163
+  },
+  {
+    "id": "n4sctfiqh",
+    "name": "隊員クラブ はなの舞",
+    "image": "https://image.xinu.ink/pic/data/579/images/n4sctfiqh_1723403947583.jpg",
+    "geo": [
+      35.388007,
+      136.852241
+    ],
+    "ep": 3,
+    "s": 1303
+  },
+  {
+    "id": "n4sf8rhhz",
+    "name": "待機室「マンボウ」",
+    "image": "https://image.xinu.ink/pic/data/579/images/n4sf8rhhz_1723404136533.jpg",
+    "geo": [
+      35.398221,
+      136.870142
+    ],
+    "ep": 4,
+    "s": 259,
+    "mark": "https://www.mod.go.jp/asdf/adtw/adm/topics/hisomaso/hisomaso_adtw01.html#&gid=1&pid=14"
+  },
+  {
+    "id": "n5gedrl2m",
+    "name": "隊員クラブ はなの舞",
+    "image": "https://image.xinu.ink/pic/data/579/images/n5gedrl2m_1723456312126.jpg",
+    "geo": [
+      35.388108,
+      136.852117
+    ],
+    "ep": 4,
+    "s": 704
+  },
+  {
+    "id": "n4t9j971m",
+    "name": "駐輪場",
+    "image": "https://image.xinu.ink/pic/data/579/images/n4t9j971m_1723405927825.jpg",
+    "geo": [
+      35.398521,
+      136.8705
+    ],
+    "ep": 5,
+    "s": 276
+  },
+  {
+    "id": "n4t3dw6rx",
+    "name": "隊員食堂前",
+    "image": "https://image.xinu.ink/pic/data/579/images/n4t3dw6rx_1723405561097.jpg",
+    "geo": [
+      35.390446,
+      136.850691
+    ],
+    "ep": 5,
+    "s": 442
+  },
+  {
+    "id": "n4t53rrft",
+    "name": "隊員食堂前",
+    "image": "https://image.xinu.ink/pic/data/579/images/n4t53rrft_1723405657515.jpg",
+    "geo": [
+      35.390427,
+      136.850786
+    ],
+    "ep": 5,
+    "s": 469
+  },
+  {
+    "id": "n4swc9ejd",
+    "name": "Gifu Base Exchange",
+    "image": "https://image.xinu.ink/pic/data/579/images/n4swc9ejd_1723405128891.jpg",
+    "geo": [
+      35.390412,
+      136.851735
+    ],
+    "ep": 6,
+    "s": 180
+  },
+  {
+    "id": "n4w5rkzst",
+    "name": "飛行開発実験団司令部",
+    "image": "https://image.xinu.ink/pic/data/579/images/n4w5rkzst_1723412260911.jpg",
+    "geo": [
+      35.398887,
+      136.8719
+    ],
+    "ep": 7,
+    "s": 412
+  },
+  {
+    "id": "n5foa7i6i",
+    "name": "喫煙所",
+    "image": "https://image.xinu.ink/pic/data/579/images/n5foa7i6i_1723454707773.jpg",
+    "geo": [
+      35.391477,
+      136.852067
+    ],
+    "ep": 7,
+    "s": 749,
+    "mark": "电影票为ムビチケ。"
+  },
+  {
+    "id": "n4vnplt7k",
+    "name": "岐阜基地北門内",
+    "image": "https://image.xinu.ink/pic/data/579/images/n4vnplt7k_1723411137548.jpg",
+    "geo": [
+      35.399283,
+      136.873316
+    ],
+    "ep": 7,
+    "s": 799
+  },
+  {
+    "id": "n4voye1u0",
+    "name": "岐阜基地北門内",
+    "image": "https://image.xinu.ink/pic/data/579/images/n4voye1u0_1723411212268.jpg",
+    "geo": [
+      35.398585,
+      136.873272
+    ],
+    "ep": 7,
+    "s": 800
+  },
+  {
+    "id": "n5hiss6ua",
+    "name": "隊員食堂前",
+    "image": "https://image.xinu.ink/pic/data/579/images/n5hiss6ua_1723458753498.jpg",
+    "geo": [
+      35.39063,
+      136.850479
+    ],
+    "ep": 8,
+    "s": 7
+  },
+  {
+    "id": "n5hjae8r7",
+    "name": "隊員食堂前",
+    "image": "https://image.xinu.ink/pic/data/579/images/n5hjae8r7_1723458765106.jpg",
+    "geo": [
+      35.390586,
+      136.850544
+    ],
+    "ep": 8,
+    "s": 29
+  },
+  {
+    "id": "n5dddspfi",
+    "name": "第7格納庫後",
+    "image": "https://image.xinu.ink/pic/data/579/images/n5dddspfi_1723449697509.jpg",
+    "geo": [
+      35.398911,
+      136.866347
+    ],
+    "ep": 9,
+    "s": 1087
+  },
+  {
+    "id": "n5eqo1i92",
+    "name": "岐阜基地内道路",
+    "image": "https://image.xinu.ink/pic/data/579/images/n5eqo1i92_1723452676470.jpg",
+    "geo": [
+      35.397933,
+      136.861498
+    ],
+    "ep": 10,
+    "s": 1115
+  },
+  {
+    "id": "n5evclfq0",
+    "name": "岐阜基地滑走路",
+    "image": "https://image.xinu.ink/pic/data/579/images/n5evclfq0_1723452981029.jpg",
+    "geo": [
+      35.393881,
+      136.872136
+    ],
+    "ep": 11,
+    "s": 199
+  },
+  {
+    "id": "n4v4yiiby",
+    "name": "新湊大橋",
+    "image": "https://image.xinu.ink/pic/data/579/images/n4v4yiiby_1723410014881.jpg",
+    "geo": [
+      36.777093,
+      137.112515
+    ],
+    "ep": 11,
+    "s": 1140
   }
 ]

@@ -103,5 +103,59 @@
     ],
     "origin": "Anitabi@LovelySummer Channel",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "gcrzo37",
+    "name": "【关于私有地无断侵入的提醒】",
+    "image": "",
+    "geo": [
+      34.909953,
+      135.816183
+    ],
+    "mark": "京都府立菟道高校严禁访客在未经许可的情况下进入校园，敬请巡礼者留意。"
+  },
+  {
+    "id": "nrfpmgbqw",
+    "name": "莵道高等学校附近",
+    "image": "https://image.xinu.ink/pic/data/540/images/nrfpmgbqw-1725178827551.jpg",
+    "geo": [
+      34.908106,
+      135.815236
+    ],
+    "s": 4999
+  },
+  {
+    "id": "nrfqfd61k",
+    "name": "莵道高等学校附近",
+    "image": "https://image.xinu.ink/pic/data/540/images/nrfqfd61k-1725178855693.jpg",
+    "geo": [
+      34.90808,
+      135.815205
+    ],
+    "s": 4999
+  },
+  {
+    "id": "4xuzlvx",
+    "name": 10,
+    "image": "https://image.xinu.ink/pic/data/540/images/4xuzlvx_1757764914871.jpg",
+    "geo": [
+      34.874169,
+      135.766355
+    ],
+    "s": 395,
+    "mark": "（补点）这里原先的标点似乎消失了",
+    "cn": "宇治淀线"
+  },
+  {
+    "id": "4xv06yh",
+    "name": 10,
+    "image": "https://image.xinu.ink/pic/data/540/images/4xv06yh_1757764941570.jpg",
+    "geo": [
+      34.874126,
+      135.766568
+    ],
+    "s": 397,
+    "mark": "（补点）这里原先的标点似乎消失了",
+    "cn": "宇治淀线"
   }
 ]

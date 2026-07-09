@@ -712,5 +712,189 @@
     ],
     "origin": "Anitabi@Xmなのだ",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "pkay0z2t0",
+    "name": "葛西臨海公園駅",
+    "image": "https://image.xinu.ink/pic/data/649/images/pkay0z2t0-1730262168262.jpg",
+    "geo": [
+      35.644083,
+      139.861892
+    ],
+    "ep": 1,
+    "s": 558,
+    "folder": "葛西临海公园"
+  },
+  {
+    "id": "39ekvblp",
+    "name": "中高浜公園前",
+    "image": "https://image.xinu.ink/pic/data/649/images/39ekvblp.jpg",
+    "geo": [
+      35.621947,
+      140.067837
+    ],
+    "ep": 4,
+    "s": 1082
+  },
+  {
+    "id": "206lp0o",
+    "name": "MAX COFFEE自販機",
+    "image": "https://image.xinu.ink/pic/data/649/images/206lp0o-1751375014843.jpg",
+    "geo": [
+      35.687009,
+      139.991029
+    ],
+    "ep": 4,
+    "s": 506,
+    "mark": "目前（2026/3/14）北馆全面装修中，进不去",
+    "folder": "千叶",
+    "origin": "木研丶",
+    "cn": "MAX COFFEE自販機"
+  },
+  {
+    "id": "2071oyz",
+    "name": "千葉市 高洲コミュニティセンター",
+    "image": "https://image.xinu.ink/pic/data/649/images/2071oyz-1751375804108.jpg",
+    "geo": [
+      35.627213,
+      140.070891
+    ],
+    "folder": "千叶",
+    "origin": "木研丶",
+    "cn": "千葉市 高洲コミュニティセンター"
+  },
+  {
+    "id": "2074tei",
+    "name": "中高浜公園前",
+    "image": "https://image.xinu.ink/pic/data/649/images/2074tei-1751375943677.jpg",
+    "geo": [
+      35.621821,
+      140.067966
+    ],
+    "origin": "木研丶",
+    "cn": "中高浜公園前"
+  },
+  {
+    "id": "205fhuo",
+    "name": "葛西臨海公園駅",
+    "image": "https://image.xinu.ink/pic/data/649/images/205fhuo-1751373061983.jpg",
+    "geo": [
+      35.644217,
+      139.861736
+    ],
+    "folder": "葛西临海公园",
+    "origin": "木研丶",
+    "cn": "葛西临海公园站"
+  },
+  {
+    "id": "g2q0f3i",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/649/images/g2q0f3i_1782003560857.jpg",
+    "geo": [
+      35.620073,
+      140.068628
+    ],
+    "ep": 4,
+    "s": 514,
+    "mark": "和雪乃妈对线的地方，校长办公室旁边，一个拐角处【仅学园祭期间开放，平日不法侵入最高三年拘禁，请文明巡礼】",
+    "folder": "稻毛高",
+    "cn": "会客室"
+  },
+  {
+    "id": "g2q38wm",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/649/images/g2q38wm_1782003633044.jpg",
+    "geo": [
+      35.620247,
+      140.068374
+    ],
+    "ep": 4,
+    "s": 739,
+    "mark": "【仅学园祭期间开放，平日不法侵入最高三年拘禁，请文明巡礼】",
+    "folder": "稻毛高",
+    "cn": "南侧二楼走廊"
+  },
+  {
+    "id": "g2q5w92",
+    "name": "连廊",
+    "image": "https://image.xinu.ink/pic/data/649/images/g2q5w92_1782003789075.jpg",
+    "geo": [
+      35.620484,
+      140.068291
+    ],
+    "ep": 5,
+    "s": 538,
+    "mark": "二人坐在南侧而不是北侧【仅学园祭期间开放，平日不法侵入最高三年拘禁，请文明巡礼】",
+    "folder": "稻毛高"
+  },
+  {
+    "id": "g2qrp39",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/649/images/g2qrp39_1782004788365.jpg",
+    "geo": [
+      35.620086,
+      140.068619
+    ],
+    "ep": 4,
+    "s": 536,
+    "mark": "【仅学园祭期间开放，平日不法侵入最高三年拘禁，请文明巡礼】",
+    "folder": "稻毛高",
+    "cn": "会客室"
+  },
+  {
+    "id": "g2qfduy",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/649/images/g2qfduy_1782004284550.jpg",
+    "geo": [
+      35.620189,
+      140.068842
+    ],
+    "ep": 10,
+    "s": 1176,
+    "mark": "当然是楼内的东门，出门下去就是正门【仅学园祭期间开放，平日不法侵入最高三年拘禁，请文明巡礼】",
+    "folder": "稻毛高",
+    "cn": "东门附近"
+  },
+  {
+    "id": "g2qlc6b",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/649/images/g2qlc6b_1782004506026.jpg",
+    "geo": [
+      35.620096,
+      140.069014
+    ],
+    "ep": 10,
+    "s": 1213,
+    "mark": "【仅学园祭期间开放，平日不法侵入最高三年拘禁，请文明巡礼】",
+    "folder": "稻毛高",
+    "cn": "东门台阶"
+  },
+  {
+    "id": "g2qnoru",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/649/images/g2qnoru_1782004644048.jpg",
+    "geo": [
+      35.620913,
+      140.067877
+    ],
+    "ep": 10,
+    "s": 2,
+    "mark": "【仅学园祭期间开放，平日不法侵入最高三年拘禁，请文明巡礼】",
+    "folder": "稻毛高",
+    "cn": "体育馆"
+  },
+  {
+    "id": "g2qukpf",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/649/images/g2qukpf_1782004955191.jpg",
+    "geo": [
+      35.620323,
+      140.068476
+    ],
+    "ep": 7,
+    "s": 1015,
+    "mark": "这里并没有椅子【仅学园祭期间开放，平日不法侵入最高三年拘禁，请文明巡礼】",
+    "folder": "稻毛高",
+    "cn": "长椅"
   }
 ]

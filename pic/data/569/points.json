@@ -738,5 +738,27 @@
     ],
     "origin": "Anitabi",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "px46du73f",
+    "name": "高城駅前",
+    "image": "https://image.xinu.ink/pic/data/569/images/px46du73f_1731266096961.jpg",
+    "geo": [
+      33.243,
+      131.654833
+    ],
+    "ep": "Audio3",
+    "folder": "大分"
+  },
+  {
+    "id": "px480e9qu",
+    "name": "高城駅",
+    "image": "https://image.xinu.ink/pic/data/569/images/px480e9qu_1731266197922.jpg",
+    "geo": [
+      33.242742,
+      131.655464
+    ],
+    "ep": "Audio3",
+    "folder": "大分"
   }
 ]

@@ -583,5 +583,30 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1j5_m2Y05Hxauef1JtT3AKyzjw2U&ll=35.700462%2C139.742954&z=17"
+  },
+  {
+    "id": "ms7p9i3ld",
+    "name": "川越線旁",
+    "image": "https://image.xinu.ink/pic/data/515/images/ms7p9i3ld-1722418620998.jpg",
+    "geo": [
+      35.915597,
+      139.472529
+    ],
+    "ep": 12,
+    "s": 1305
+  },
+  {
+    "id": "skt28dytw",
+    "name": "本能寺",
+    "image": "https://image.xinu.ink/pic/data/515/images/skt28dytw-1738764882334.jpg",
+    "geo": [
+      35.010354,
+      135.767894
+    ],
+    "ep": 4,
+    "s": 1188,
+    "mark": "第四話19:48.",
+    "folder": "京都",
+    "cn": "本能寺"
   }
 ]

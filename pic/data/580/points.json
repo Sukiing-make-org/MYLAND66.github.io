@@ -239,5 +239,45 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3chq7dx",
+    "name": "高戸橋",
+    "image": "https://image.xinu.ink/pic/data/580/images/3chq7dx_1754296089618.jpg",
+    "geo": [
+      35.714852,
+      139.711705
+    ],
+    "s": 5953
+  },
+  {
+    "id": "3chq60w",
+    "name": "高戸橋",
+    "image": "https://image.xinu.ink/pic/data/580/images/3chq60w_1754296095592.jpg",
+    "geo": [
+      35.714729,
+      139.711639
+    ],
+    "s": 5956
+  },
+  {
+    "id": "3chc72o",
+    "name": "池袋东口北",
+    "image": "https://image.xinu.ink/pic/data/580/images/3chc72o_1754295548379.jpg",
+    "geo": [
+      35.730613,
+      139.712573
+    ],
+    "s": 6621
+  },
+  {
+    "id": "3cgzbjs",
+    "name": "銀星前",
+    "image": "https://image.xinu.ink/pic/data/580/images/3cgzbjs_1754294837310.jpg",
+    "geo": [
+      35.702301,
+      139.770067
+    ],
+    "s": 1413
   }
 ]

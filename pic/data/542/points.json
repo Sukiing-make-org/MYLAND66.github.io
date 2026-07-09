@@ -775,5 +775,88 @@
     ],
     "origin": "Anitabi@AmaiAya",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1e20dfde",
+    "name": "Lubyanka",
+    "image": "",
+    "geo": [
+      55.759848,
+      37.627882
+    ],
+    "mark": "红线控制的车站，被用作集中营。",
+    "folder": "莫斯科地铁",
+    "origin": "MatDS2002",
+    "originURL": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/",
+    "cn": "卢比扬卡站"
+  },
+  {
+    "id": "e2e2e430",
+    "name": "Arbatskaya=Aleksandrovskiy sad=Polis",
+    "image": "",
+    "geo": [
+      55.752385,
+      37.608655
+    ],
+    "mark": "组成波利斯核心的四个站点之一。",
+    "folder": "莫斯科地铁",
+    "origin": "MatDS2002",
+    "originURL": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/",
+    "cn": "亚历山大公园站"
+  },
+  {
+    "id": "90558a79",
+    "name": "1st posible Aurora location",
+    "image": "",
+    "geo": [
+      55.862925,
+      37.684263
+    ],
+    "origin": "MatDS2002",
+    "originURL": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "59c29448",
+    "name": "2nd posible Aurora location",
+    "image": "",
+    "geo": [
+      55.78579,
+      37.649152
+    ],
+    "origin": "MatDS2002",
+    "originURL": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "edc75eb0",
+    "name": "3rd posible Aurora location",
+    "image": "",
+    "geo": [
+      55.671033,
+      37.727724
+    ],
+    "origin": "MatDS2002",
+    "originURL": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "27379d45",
+    "name": "Pechatniki-Metro conection to Depo/3rd location Aurora",
+    "image": "",
+    "geo": [
+      55.693711,
+      37.726505
+    ],
+    "origin": "MatDS2002",
+    "originURL": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
+  },
+  {
+    "id": "d65e6126",
+    "name": "4th posible Aurora location?",
+    "image": "",
+    "geo": [
+      55.760601,
+      37.72707
+    ],
+    "origin": "MatDS2002",
+    "originURL": "https://www.reddit.com/r/metro/comments/16d9h1c/metro_artyom_journey_throughout_2033_last_light/"
   }
 ]

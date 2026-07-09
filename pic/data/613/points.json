@@ -437,5 +437,27 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1GCBvRu3EASESDqodmYFdnGHd7LxF3iPc&ll=35.621351%2C139.612964&z=17"
+  },
+  {
+    "id": "5c3u3gqsf",
+    "name": "清明学園途中 #05",
+    "image": "https://image.xinu.ink/pic/data/613/images/5c3u3gqsf_1673197551222.jpg",
+    "geo": [
+      35.591482,
+      139.685168
+    ],
+    "ep": 5,
+    "s": 1258
+  },
+  {
+    "id": "5c3u3gr1n",
+    "name": "練馬区立南が丘中学校 #08",
+    "image": "https://image.xinu.ink/pic/data/613/images/5c3u3gr1n_1673197574215.jpg",
+    "geo": [
+      35.734793,
+      139.613474
+    ],
+    "ep": 8,
+    "s": 923
   }
 ]

@@ -677,5 +677,117 @@
     ],
     "origin": "Anitabi@うに",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3dvn8hj",
+    "name": "河口湖大橋",
+    "image": "https://image.xinu.ink/pic/data/632/images/3dvn8hj-1754379923873.jpg",
+    "geo": [
+      35.511053,
+      138.763674
+    ],
+    "ep": 3,
+    "s": 442,
+    "mark": "不要站在马路上拍摄，拍摄的话请站在另一边人行道"
+  },
+  {
+    "id": "3dvqws1",
+    "name": "河口湖大橋",
+    "image": "https://image.xinu.ink/pic/data/632/images/3dvqws1-1754380089274.jpg",
+    "geo": [
+      35.511936,
+      138.764387
+    ],
+    "ep": 3,
+    "s": 29
+  },
+  {
+    "id": "3dwvoy7",
+    "name": "たぬき茶屋外のベンチ",
+    "image": "https://image.xinu.ink/pic/data/632/images/3dwvoy7-1754381992472.jpg",
+    "geo": [
+      35.503504,
+      138.777124
+    ],
+    "ep": 5,
+    "s": 176
+  },
+  {
+    "id": "3dx1bo8",
+    "name": "兎と狸の塑像",
+    "image": "https://image.xinu.ink/pic/data/632/images/3dx1bo8-1754382254704.jpg",
+    "geo": [
+      35.503503,
+      138.777191
+    ],
+    "ep": 5,
+    "s": 140
+  },
+  {
+    "id": "3dyus8w",
+    "name": "鳴沢氷穴チケット売り場",
+    "image": "https://image.xinu.ink/pic/data/632/images/3dyus8w-1754385317329.jpg",
+    "geo": [
+      35.475271,
+      138.666893
+    ],
+    "ep": 10
+  },
+  {
+    "id": "3dyvl0v",
+    "name": "鳴沢氷穴チケット売り場",
+    "image": "https://image.xinu.ink/pic/data/632/images/3dyvl0v-1754385343690.jpg",
+    "geo": [
+      35.475313,
+      138.667065
+    ],
+    "ep": 10,
+    "s": 132
+  },
+  {
+    "id": "3e0cadj",
+    "name": "高岡和食処",
+    "image": "https://image.xinu.ink/pic/data/632/images/3e0cadj-1754387806342.jpg",
+    "geo": [
+      35.869484,
+      138.342626
+    ],
+    "ep": 13,
+    "s": 372,
+    "mark": "志摩凛同款套餐：天ぷら定食（竹）1000円＋税"
+  },
+  {
+    "id": "3e1nfdq",
+    "name": "入笠牧場",
+    "image": "https://image.xinu.ink/pic/data/632/images/3e1nfdq-1754390004998.jpg",
+    "geo": [
+      35.892608,
+      138.161593
+    ],
+    "ep": 13,
+    "s": 507,
+    "mark": "志摩凛最终前往的露营场"
+  },
+  {
+    "id": "3e1p6pb",
+    "name": "入笠牧場",
+    "image": "https://image.xinu.ink/pic/data/632/images/3e1p6pb-1754390088269.jpg",
+    "geo": [
+      35.893408,
+      138.161466
+    ],
+    "ep": 13,
+    "s": 510
+  },
+  {
+    "id": "3e1piqz",
+    "name": "入笠牧場",
+    "image": "https://image.xinu.ink/pic/data/632/images/3e1piqz-1754390103058.jpg",
+    "geo": [
+      35.89348,
+      138.161294
+    ],
+    "ep": 13,
+    "s": 582
   }
 ]

@@ -360,5 +360,108 @@
       35.7028,
       139.4109
     ]
+  },
+  {
+    "id": "l0mq5u8ic",
+    "name": "Sakurano 桜乃",
+    "image": "https://image.xinu.ink/pic/data/629/images/l0mq5u8ic-1717436129760.jpg",
+    "geo": [
+      35.701503,
+      139.412372
+    ],
+    "ep": 2,
+    "s": 1342,
+    "mark": "超炮T ED部分，地点在CINEMA·TWO和Sakurano 中间\n地址：2 Chome-42-23 Akebonocho, Tachikawa, Tokyo 190-0012, Japan",
+    "folder": "立川市",
+    "cn": "Sakurano 桜乃"
+  },
+  {
+    "id": "pshht7u3v",
+    "name": "中央労働金庫 立川支店",
+    "image": "https://image.xinu.ink/pic/data/629/images/pshht7u3v-1730903276776.jpg",
+    "geo": [
+      35.701245,
+      139.413784
+    ],
+    "ep": 5,
+    "s": 1328,
+    "mark": "路边的石墩（？）就在银行旁边",
+    "folder": "立川市"
+  },
+  {
+    "id": "pshrdv7in",
+    "name": "中央労働金庫 立川支店",
+    "image": "https://image.xinu.ink/pic/data/629/images/pshrdv7in-1730903849995.jpg",
+    "geo": [
+      35.701394,
+      139.41376
+    ],
+    "ep": 12,
+    "s": 1338,
+    "mark": "银行外的马路口，参考物是背景里的外墙",
+    "folder": "立川市"
+  },
+  {
+    "id": "oxqw2d30d",
+    "name": "Recinte Modernista de Sant Pau",
+    "image": "https://image.xinu.ink/pic/data/629/images/oxqw2d30d-1728494453347.jpg",
+    "geo": [
+      41.411779,
+      2.174904
+    ],
+    "ep": 21,
+    "s": 1401,
+    "mark": "超炮T, ed动画中的一卡, 位于圣保罗医院内, 进去需要购买门票(16欧), 该地点位于游览的出口处",
+    "folder": "圣保罗医院",
+    "cn": "圣保罗医院"
+  },
+  {
+    "id": "oxqyx4vka",
+    "name": "Recinte Modernista de Sant Pau",
+    "image": "https://image.xinu.ink/pic/data/629/images/oxqyx4vka-1728494611080.jpg",
+    "geo": [
+      41.411822,
+      2.174821
+    ],
+    "ep": 24,
+    "s": 1391,
+    "mark": "超炮T, ed动画中的一卡, 位于圣保罗医院内, 进去需要购买门票(16欧), 该地点位于游览出口处上方的壁画雕塑",
+    "folder": "圣保罗医院",
+    "cn": "圣保罗医院"
+  },
+  {
+    "id": "ptl4overt",
+    "name": "浮くかたち－赤 / 垂",
+    "image": "https://image.xinu.ink/pic/data/629/images/ptl4overt-1730989551321.jpg",
+    "geo": [
+      35.70141,
+      139.413631
+    ],
+    "ep": 2,
+    "s": 1337,
+    "mark": "位置就在浮くかたち－赤 / 垂的上方"
+  },
+  {
+    "id": "puo8ec62b",
+    "name": "中央労働金庫 立川支店",
+    "image": "https://image.xinu.ink/pic/data/629/images/puo8ec62b-1731074673331.jpg",
+    "geo": [
+      35.701361,
+      139.414156
+    ],
+    "ep": 4,
+    "s": 1327,
+    "mark": "劳动金库外路边的石柱"
+  },
+  {
+    "id": "puok2s717",
+    "name": "Regis Tachikawa高松町",
+    "image": "https://image.xinu.ink/pic/data/629/images/puok2s717-1731075367822.jpg",
+    "geo": [
+      35.704366,
+      139.418111
+    ],
+    "ep": 1,
+    "s": 758
   }
 ]

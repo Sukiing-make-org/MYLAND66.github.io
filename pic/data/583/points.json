@@ -652,5 +652,83 @@
     ],
     "origin": "Anitabi@うに",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kre5cnaft",
+    "name": "やば珈琲店店内",
+    "image": "https://image.xinu.ink/pic/data/583/images/kre5cnaft-1716712070579.jpg",
+    "geo": [
+      35.101055,
+      138.858139
+    ],
+    "s": 585
+  },
+  {
+    "id": "kre3nmtku",
+    "name": "やば珈琲店店内",
+    "image": "https://image.xinu.ink/pic/data/583/images/kre3nmtku-1716711974351.jpg",
+    "geo": [
+      35.101085,
+      138.858155
+    ],
+    "s": 654
+  },
+  {
+    "id": "krfu1sh0o",
+    "name": "Stazione di Venezia Santa Lucia",
+    "image": "https://image.xinu.ink/pic/data/583/images/krfu1sh0o-1716715742802.jpg",
+    "geo": [
+      45.440787,
+      12.321628
+    ],
+    "s": 2037,
+    "folder": "威尼斯",
+    "originURL": "https://animestari.com/lovelive/2019/01/21/post-3588/#i-27"
+  },
+  {
+    "id": "krg9w0dly",
+    "name": "Palazzo Contarini del Bovolo",
+    "image": "https://image.xinu.ink/pic/data/583/images/krg9w0dly-1716716698199.jpg",
+    "geo": [
+      45.434815,
+      12.334563
+    ],
+    "s": 2184,
+    "folder": "威尼斯",
+    "originURL": "https://animestari.com/lovelive/2019/01/21/post-3588/#i-27"
+  },
+  {
+    "id": "krgagak9q",
+    "name": "Palazzo Contarini del Bovolo",
+    "image": "https://image.xinu.ink/pic/data/583/images/krgagak9q-1716716733404.jpg",
+    "geo": [
+      45.434798,
+      12.334562
+    ],
+    "s": 2193,
+    "folder": "威尼斯",
+    "originURL": "https://animestari.com/lovelive/2019/01/21/post-3588/#i-27"
+  },
+  {
+    "id": "krgb01fk8",
+    "name": "Palazzo Contarini del Bovolo",
+    "image": "https://image.xinu.ink/pic/data/583/images/krgb01fk8-1716716779682.jpg",
+    "geo": [
+      45.434792,
+      12.334562
+    ],
+    "s": 2201,
+    "folder": "威尼斯",
+    "originURL": "https://animestari.com/lovelive/2019/01/21/post-3588/#i-27"
+  },
+  {
+    "id": "krvg2yp5y",
+    "name": "三の浦総合案内所",
+    "image": "https://image.xinu.ink/pic/data/583/images/krvg2yp5y-1716749723796.jpg",
+    "geo": [
+      35.01752,
+      138.89341
+    ],
+    "s": 5380
   }
 ]

@@ -395,5 +395,27 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1qG3gVJC928ejuD1ewe7xNlKXjcIxnpE&ll=33.890661%2C136.104367&z=17"
+  },
+  {
+    "id": "eby8u5574",
+    "name": "入鹿小学校前",
+    "image": "https://image.xinu.ink/pic/data/597/images/eby8u5574_1698575382763.jpg",
+    "geo": [
+      33.877318,
+      135.928001
+    ],
+    "mark": "Vol.2 p145、156",
+    "folder": "徒然日和 MAP"
+  },
+  {
+    "id": "eby8u54ma",
+    "name": "記念通り",
+    "image": "https://image.xinu.ink/pic/data/597/images/eby8u54ma_1698575386133.jpg",
+    "geo": [
+      33.891993,
+      136.104415
+    ],
+    "mark": "Vol.3 p11",
+    "folder": "徒然日和 MAP"
   }
 ]

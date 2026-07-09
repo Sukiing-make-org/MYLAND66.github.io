@@ -1180,5 +1180,821 @@
       34.9891,
       135.7667
     ]
+  },
+  {
+    "id": "nuawmnlox",
+    "name": "西知多総合病院",
+    "image": "https://image.xinu.ink/pic/data/660/images/nuawmnlox-1725403465474.jpg",
+    "geo": [
+      34.998877,
+      136.898827
+    ],
+    "ep": 1,
+    "s": 455,
+    "folder": "爱知县东海市 西知多综合病院"
+  },
+  {
+    "id": "nw89abhf6",
+    "name": "清水の舞台 西南角",
+    "image": "https://image.xinu.ink/pic/data/660/images/nw89abhf6_1725652557957_cblack.jpg",
+    "geo": [
+      34.994637,
+      135.784969
+    ],
+    "ep": 1,
+    "s": 491,
+    "folder": "京都府京都市 清水寺"
+  },
+  {
+    "id": "nhv50npjt",
+    "name": "京都駅ビル 大階段",
+    "image": "https://image.xinu.ink/pic/data/660/images/nhv50npjt-1724428775435.jpg",
+    "geo": [
+      34.985732,
+      135.757811
+    ],
+    "ep": 1,
+    "s": 664,
+    "folder": "京都府京都市 京都站",
+    "cn": "京都站大楼梯"
+  },
+  {
+    "id": "nhv3fmldc",
+    "name": "京都駅ビル 大階段",
+    "image": "https://image.xinu.ink/pic/data/660/images/nhv3fmldc-1724428687454.jpg",
+    "geo": [
+      34.985713,
+      135.75792
+    ],
+    "ep": 1,
+    "s": 731,
+    "folder": "京都府京都市 京都站",
+    "cn": "京都站大楼梯"
+  },
+  {
+    "id": "owu8d32jm",
+    "name": "ザ・​ライオンズミッドキャピタルタワー",
+    "image": "https://image.xinu.ink/pic/data/660/images/owu8d32jm_1728544664377_c16v9.jpg",
+    "geo": [
+      35.134994,
+      136.909818
+    ],
+    "ep": 1,
+    "s": 953,
+    "folder": "爱知县名古屋市 狮子中京大厦"
+  },
+  {
+    "id": "oxvwsnux8",
+    "name": "ザ・​ライオンズミッドキャピタルタワー",
+    "image": "https://image.xinu.ink/pic/data/660/images/oxvwsnux8_1728544681002_c16v9.jpg",
+    "geo": [
+      35.134953,
+      136.909809
+    ],
+    "ep": 2,
+    "s": 23,
+    "folder": "爱知县名古屋市 狮子中京大厦"
+  },
+  {
+    "id": "oxvygk7c1",
+    "name": "ザ・​ライオンズミッドキャピタルタワー",
+    "image": "https://image.xinu.ink/pic/data/660/images/oxvygk7c1_1728544684878_c16v9.jpg",
+    "geo": [
+      35.134962,
+      136.909815
+    ],
+    "ep": 2,
+    "s": 588,
+    "folder": "爱知县名古屋市 狮子中京大厦"
+  },
+  {
+    "id": "oxw5spzwa",
+    "name": "ザ・​ライオンズミッドキャピタルタワー",
+    "image": "https://image.xinu.ink/pic/data/660/images/oxw5spzwa_1728544694243_c16v9.jpg",
+    "geo": [
+      35.134966,
+      136.909817
+    ],
+    "ep": 2,
+    "s": 727,
+    "folder": "爱知县名古屋市 狮子中京大厦"
+  },
+  {
+    "id": "oxwad7iik",
+    "name": "京都站大楼梯",
+    "image": "https://image.xinu.ink/pic/data/660/images/oxwad7iik_1728544700791_c16v9.jpg",
+    "geo": [
+      34.985711,
+      135.757897
+    ],
+    "ep": 2,
+    "s": 1005,
+    "folder": "京都府京都市 京都站"
+  },
+  {
+    "id": "oxwzhbd5i",
+    "name": "ThePeninsula东京",
+    "image": "https://image.xinu.ink/pic/data/660/images/oxwzhbd5i_1728696754815_c16v9.jpg",
+    "geo": [
+      35.674663,
+      139.760678
+    ],
+    "ep": 2,
+    "s": 1163,
+    "folder": "东京都千代田区"
+  },
+  {
+    "id": "51i51w8dp",
+    "name": "中ノ池公園",
+    "image": "https://image.xinu.ink/pic/data/660/images/51i51w8dp-1725406904231.jpg",
+    "geo": [
+      35.002106,
+      136.894416
+    ],
+    "ep": 2,
+    "s": 1306,
+    "folder": "爱知县东海市 中之池公园"
+  },
+  {
+    "id": "oxx2xp5q6",
+    "name": "中ノ池公園",
+    "image": "https://image.xinu.ink/pic/data/660/images/oxx2xp5q6_1728696758363_c16v9.jpg",
+    "geo": [
+      35.002112,
+      136.894357
+    ],
+    "ep": 3,
+    "s": 200,
+    "folder": "爱知县东海市 中之池公园"
+  },
+  {
+    "id": "1rw9d5r",
+    "name": "中ノ池公園",
+    "image": "https://image.xinu.ink/pic/data/660/images/1rw9d5r-1750873939168.jpg",
+    "geo": [
+      35.002111,
+      136.894383
+    ],
+    "ep": 3,
+    "s": 205,
+    "folder": "爱知县东海市 中之池公园"
+  },
+  {
+    "id": "oxx7j6dxm",
+    "name": "ThePeninsula东京",
+    "image": "https://image.xinu.ink/pic/data/660/images/oxx7j6dxm_1728696763545_c16v9.jpg",
+    "geo": [
+      35.674682,
+      139.760684
+    ],
+    "ep": 3,
+    "s": 597,
+    "folder": "东京都千代田区"
+  },
+  {
+    "id": "oxx9ef8wg",
+    "name": "中ノ池公園",
+    "image": "https://image.xinu.ink/pic/data/660/images/oxx9ef8wg_1728696767411_c16v9.jpg",
+    "geo": [
+      35.002102,
+      136.894435
+    ],
+    "ep": 3,
+    "s": 665,
+    "folder": "爱知县东海市 中之池公园"
+  },
+  {
+    "id": "oxxc8abih",
+    "name": "ThePeninsula东京",
+    "image": "https://image.xinu.ink/pic/data/660/images/oxxc8abih_1728696771657_c16v9.jpg",
+    "geo": [
+      35.674686,
+      139.76068
+    ],
+    "ep": 3,
+    "s": 771,
+    "folder": "东京都千代田区"
+  },
+  {
+    "id": "oxxzgwimq",
+    "name": "日本福祉大学 東海キャンパス 后侧的门",
+    "image": "https://image.xinu.ink/pic/data/660/images/oxxzgwimq-1728509881180.jpg",
+    "geo": [
+      35.021491,
+      136.888145
+    ],
+    "ep": 3,
+    "s": 1133,
+    "folder": "爱知县东海市 日本福祉大学"
+  },
+  {
+    "id": "oxy1q72ka",
+    "name": "ザ・​ライオンズミッドキャピタルタワー",
+    "image": "https://image.xinu.ink/pic/data/660/images/oxy1q72ka-1728510019646.jpg",
+    "geo": [
+      35.134967,
+      136.909802
+    ],
+    "ep": 3,
+    "s": 1234,
+    "folder": "爱知县名古屋市 狮子中京大厦"
+  },
+  {
+    "id": "oxyegncuo",
+    "name": "太田川駅西広場（大屋根広場）",
+    "image": "https://image.xinu.ink/pic/data/660/images/oxyegncuo-1728510808910.jpg",
+    "geo": [
+      35.020546,
+      136.891943
+    ],
+    "ep": 4,
+    "s": 366,
+    "folder": "爱知县东海市 太田川站"
+  },
+  {
+    "id": "oxyhbch73",
+    "name": "遠東國際大飯店",
+    "image": "https://image.xinu.ink/pic/data/660/images/oxyhbch73-1728510959646.jpg",
+    "geo": [
+      25.026281,
+      121.549458
+    ],
+    "ep": 4,
+    "s": 553,
+    "folder": "中国台湾省台北市"
+  },
+  {
+    "id": "nxgwwc5sd",
+    "name": "太田川站 西侧的天桥",
+    "image": "https://image.xinu.ink/pic/data/660/images/nxgwwc5sd-1725651609434.jpg",
+    "geo": [
+      35.020515,
+      136.892219
+    ],
+    "ep": 4,
+    "s": 639,
+    "folder": "爱知县东海市 太田川站"
+  },
+  {
+    "id": "oxyng6p73",
+    "name": "ザ・​ライオンズミッドキャピタルタワー",
+    "image": "https://image.xinu.ink/pic/data/660/images/oxyng6p73-1728511333721.jpg",
+    "geo": [
+      35.134939,
+      136.909806
+    ],
+    "ep": 4,
+    "s": 816,
+    "folder": "爱知县名古屋市 狮子中京大厦"
+  },
+  {
+    "id": "oxyoguq2e",
+    "name": "ザ・​ライオンズミッドキャピタルタワー",
+    "image": "https://image.xinu.ink/pic/data/660/images/oxyoguq2e_1728696787157_c16v9.jpg",
+    "geo": [
+      35.134935,
+      136.909802
+    ],
+    "ep": 4,
+    "s": 943,
+    "folder": "爱知县名古屋市 狮子中京大厦"
+  },
+  {
+    "id": "oxzb99wq3",
+    "name": "日本福祉大東海キャンパス 天台",
+    "image": "https://image.xinu.ink/pic/data/660/images/oxzb99wq3_1728696792583_c16v9.jpg",
+    "geo": [
+      35.022115,
+      136.889001
+    ],
+    "ep": 5,
+    "s": 24,
+    "folder": "爱知县东海市 日本福祉大学"
+  },
+  {
+    "id": "oxzhybbqu",
+    "name": "ソラト太田川",
+    "image": "https://image.xinu.ink/pic/data/660/images/oxzhybbqu_1728696830770_c16v9.jpg",
+    "geo": [
+      35.019678,
+      136.89353
+    ],
+    "ep": 5,
+    "s": 1109,
+    "folder": "爱知县东海市 太田川站"
+  },
+  {
+    "id": "oxzlw8sza",
+    "name": "スターバックスコーヒー ラスパ太田川店",
+    "image": "https://image.xinu.ink/pic/data/660/images/oxzlw8sza_1728696840509_c16v9.jpg",
+    "geo": [
+      35.020656,
+      136.89247
+    ],
+    "ep": 6,
+    "s": 9,
+    "folder": "爱知县东海市 太田川站"
+  },
+  {
+    "id": "oxznf9mjx",
+    "name": "日本​福祉​大​東海​キャンパス",
+    "image": "https://image.xinu.ink/pic/data/660/images/oxznf9mjx_1728696843127_c16v9.jpg",
+    "geo": [
+      35.022173,
+      136.889125
+    ],
+    "ep": 6,
+    "s": 69,
+    "folder": "爱知县东海市 日本福祉大学"
+  },
+  {
+    "id": "oxzvoo1dj",
+    "name": "太田川駅西広場（大屋根広場）",
+    "image": "https://image.xinu.ink/pic/data/660/images/oxzvoo1dj_1728696849930_c16v9.jpg",
+    "geo": [
+      35.02071,
+      136.891899
+    ],
+    "ep": 6,
+    "s": 691,
+    "folder": "爱知县东海市 太田川站"
+  },
+  {
+    "id": "oy01ll3b8",
+    "name": "ザ・​ライオンズミッドキャピタルタワー",
+    "image": "https://image.xinu.ink/pic/data/660/images/oy01ll3b8_1728696860028_c16v9.jpg",
+    "geo": [
+      35.134909,
+      136.909823
+    ],
+    "ep": 7,
+    "s": 0,
+    "folder": "爱知县名古屋市 狮子中京大厦"
+  },
+  {
+    "id": "oy03tfpgb",
+    "name": "お化け屋敷",
+    "image": "https://image.xinu.ink/pic/data/660/images/oy03tfpgb_1728696864629_c16v9.jpg",
+    "geo": [
+      35.030913,
+      136.731841
+    ],
+    "ep": 7,
+    "s": 12,
+    "folder": "三重县桑名市"
+  },
+  {
+    "id": "oy05btwj4",
+    "name": "大観覧車オーロラ",
+    "image": "https://image.xinu.ink/pic/data/660/images/oy05btwj4_1728544822989_c16v9.jpg",
+    "geo": [
+      35.029892,
+      136.733785
+    ],
+    "ep": 7,
+    "s": 15,
+    "folder": "三重县桑名市"
+  },
+  {
+    "id": "oy0g2wgr2",
+    "name": "虎岩​交流​センター",
+    "image": "https://image.xinu.ink/pic/data/660/images/oy0g2wgr2_1728696870629_c16v9.jpg",
+    "geo": [
+      35.477749,
+      137.868347
+    ],
+    "ep": 7,
+    "s": 985,
+    "folder": "长野县饭田市"
+  },
+  {
+    "id": "oy0hnebdx",
+    "name": "虎岩​交流​センター",
+    "image": "https://image.xinu.ink/pic/data/660/images/oy0hnebdx_1728696873631_c16v9.jpg",
+    "geo": [
+      35.477744,
+      137.868352
+    ],
+    "ep": 7,
+    "s": 1115,
+    "folder": "长野县饭田市"
+  },
+  {
+    "id": "ovs00ad6r",
+    "name": "牛窓オリーブ園幸福の鐘",
+    "image": "https://image.xinu.ink/pic/data/660/images/ovs00ad6r-1728340123329.jpg",
+    "geo": [
+      34.6257,
+      134.155736
+    ],
+    "ep": 8,
+    "s": 957,
+    "folder": "冈山县濑户内市"
+  },
+  {
+    "id": "oy0m1bo0r",
+    "name": "虎岩​交流​センター",
+    "image": "https://image.xinu.ink/pic/data/660/images/oy0m1bo0r_1728696876618_c16v9.jpg",
+    "geo": [
+      35.477791,
+      137.868381
+    ],
+    "ep": 8,
+    "s": 1382,
+    "folder": "长野县饭田市"
+  },
+  {
+    "id": "ovs218f6o",
+    "name": "牛窓オリーブ園幸福の鐘",
+    "image": "https://image.xinu.ink/pic/data/660/images/ovs218f6o-1728340245753.jpg",
+    "geo": [
+      34.625695,
+      134.155735
+    ],
+    "ep": 8,
+    "s": 1417,
+    "folder": "冈山县濑户内市"
+  },
+  {
+    "id": "oy0o5az1z",
+    "name": "牛窓オリーブ園幸福の鐘",
+    "image": "https://image.xinu.ink/pic/data/660/images/oy0o5az1z_1728544813407_c16v9.jpg",
+    "geo": [
+      34.625694,
+      134.155736
+    ],
+    "ep": 9,
+    "s": 194,
+    "folder": "冈山县濑户内市"
+  },
+  {
+    "id": "nhv3cusf5",
+    "name": "京都駅ビル 大階段",
+    "image": "https://image.xinu.ink/pic/data/660/images/nhv3cusf5-1724428658078.jpg",
+    "geo": [
+      34.985883,
+      135.757585
+    ],
+    "ep": 10,
+    "s": 246,
+    "mark": "OP画面",
+    "folder": "京都府京都市 京都站",
+    "cn": "京都站大楼梯"
+  },
+  {
+    "id": "oy16oylux",
+    "name": "ユナイテッド・​シネマ​阿久比",
+    "image": "https://image.xinu.ink/pic/data/660/images/oy16oylux_1728696882615_c16v9.jpg",
+    "geo": [
+      34.918644,
+      136.92205
+    ],
+    "ep": 10,
+    "s": 987,
+    "folder": "爱知县阿久比町"
+  },
+  {
+    "id": "oy23ff9tc",
+    "name": "日本福祉大東海キャンパス",
+    "image": "https://image.xinu.ink/pic/data/660/images/oy23ff9tc_1728696889033_c16v9.jpg",
+    "geo": [
+      35.021262,
+      136.88848
+    ],
+    "ep": 10,
+    "s": 1214,
+    "folder": "爱知县东海市 日本福祉大学"
+  },
+  {
+    "id": "oy2dzvjt9",
+    "name": "JR京都站 中央口",
+    "image": "https://image.xinu.ink/pic/data/660/images/oy2dzvjt9_1728696902464_c16v9.jpg",
+    "geo": [
+      34.986161,
+      135.758796
+    ],
+    "ep": 11,
+    "s": 309,
+    "folder": "京都府京都市 京都站"
+  },
+  {
+    "id": "oy2gxgvj1",
+    "name": "清水寺本堂",
+    "image": "https://image.xinu.ink/pic/data/660/images/oy2gxgvj1_1728696899868_c16v9.jpg",
+    "geo": [
+      34.994701,
+      135.785226
+    ],
+    "ep": 11,
+    "s": 321,
+    "mark": "路人手上书的封面",
+    "folder": "京都府京都市 清水寺"
+  },
+  {
+    "id": "oy2rpkc96",
+    "name": "伏见稻荷大社御膳谷奉拜所",
+    "image": "https://image.xinu.ink/pic/data/660/images/oy2rpkc96_1728696922814_c16v9.jpg",
+    "geo": [
+      34.96953,
+      135.783613
+    ],
+    "ep": 11,
+    "s": 558,
+    "folder": "京都府京都市 伏见稻荷大社"
+  },
+  {
+    "id": "oy2uoqrgb",
+    "name": "清水寺本堂",
+    "image": "https://image.xinu.ink/pic/data/660/images/oy2uoqrgb_1728544810128_c16v9.jpg",
+    "geo": [
+      34.994699,
+      135.785222
+    ],
+    "ep": 11,
+    "s": 775,
+    "mark": "路人手上的书的封面",
+    "folder": "京都府京都市 清水寺"
+  },
+  {
+    "id": "oy37jpwt5",
+    "name": "JR京都站 中央口",
+    "image": "https://image.xinu.ink/pic/data/660/images/oy37jpwt5_1728544806096_c16v9.jpg",
+    "geo": [
+      34.986163,
+      135.758789
+    ],
+    "ep": 11,
+    "s": 969,
+    "folder": "京都府京都市 京都站"
+  },
+  {
+    "id": "mbfq4ybp1",
+    "name": "清水寺本堂",
+    "image": "https://image.xinu.ink/pic/data/660/images/mbfq4ybp1-1721103908614.jpg",
+    "geo": [
+      34.994704,
+      135.785219
+    ],
+    "ep": 11,
+    "s": 1105,
+    "folder": "京都府京都市 清水寺",
+    "cn": "清水寺本堂"
+  },
+  {
+    "id": "nhv84blor",
+    "name": "清水寺本堂南侧门口",
+    "image": "https://image.xinu.ink/pic/data/660/images/nhv84blor-1724428939321.jpg",
+    "geo": [
+      34.994635,
+      135.785106
+    ],
+    "ep": 11,
+    "s": 1128,
+    "folder": "京都府京都市 清水寺"
+  },
+  {
+    "id": "nhv8lfzpd",
+    "name": "清水寺本堂南侧门口",
+    "image": "https://image.xinu.ink/pic/data/660/images/nhv8lfzpd-1724428968438.jpg",
+    "geo": [
+      34.994636,
+      135.785092
+    ],
+    "ep": 11,
+    "s": 1144,
+    "folder": "京都府京都市 清水寺"
+  },
+  {
+    "id": "nhv9bun7h",
+    "name": "清水の舞台 东南角",
+    "image": "https://image.xinu.ink/pic/data/660/images/nhv9bun7h-1724429009801.jpg",
+    "geo": [
+      34.994644,
+      135.785122
+    ],
+    "ep": 11,
+    "s": 1178,
+    "folder": "京都府京都市 清水寺"
+  },
+  {
+    "id": "nhvae5rsj",
+    "name": "清水寺",
+    "image": "https://image.xinu.ink/pic/data/660/images/nhvae5rsj-1724429083916.jpg",
+    "geo": [
+      34.994748,
+      135.785094
+    ],
+    "ep": 11,
+    "s": 1324,
+    "mark": "卖护身符的地方",
+    "folder": "京都府京都市 清水寺"
+  },
+  {
+    "id": "oy3d41pbr",
+    "name": "京都丽嘉皇家酒店",
+    "image": "https://image.xinu.ink/pic/data/660/images/oy3d41pbr_1728544803202_c16v9.jpg",
+    "geo": [
+      34.985925,
+      135.75276
+    ],
+    "ep": 12,
+    "s": 3,
+    "folder": "京都府京都市 京都丽嘉皇家酒店"
+  },
+  {
+    "id": "nw9iyynfx",
+    "name": "子安塔 东南方向的三岔路口",
+    "image": "https://image.xinu.ink/pic/data/660/images/nw9iyynfx_1725652511042_c16v9.jpg",
+    "geo": [
+      34.992763,
+      135.785349
+    ],
+    "ep": 12,
+    "s": 160,
+    "mark": "动画里作了镜像处理",
+    "folder": "京都府京都市 清水寺"
+  },
+  {
+    "id": "oy3i5s6qk",
+    "name": "清水の舞台 西南角",
+    "image": "https://image.xinu.ink/pic/data/660/images/oy3i5s6qk_1728544798787_c16v9.jpg",
+    "geo": [
+      34.994642,
+      135.784969
+    ],
+    "ep": 12,
+    "s": 160,
+    "folder": "京都府京都市 清水寺"
+  },
+  {
+    "id": "qlh6xchu3",
+    "name": "清水の舞台 西南角",
+    "image": "https://image.xinu.ink/pic/data/660/images/qlh6xchu3-1733175203370.jpg",
+    "geo": [
+      34.994636,
+      135.784971
+    ],
+    "ep": 12,
+    "s": 163,
+    "folder": "京都府京都市 清水寺"
+  },
+  {
+    "id": "oy3jq8w3m",
+    "name": "清水寺本堂",
+    "image": "https://image.xinu.ink/pic/data/660/images/oy3jq8w3m_1728544795828_c16v9.jpg",
+    "geo": [
+      34.994739,
+      135.785094
+    ],
+    "ep": 12,
+    "s": 163,
+    "mark": "卖护身符的地方",
+    "folder": "京都府京都市 清水寺"
+  },
+  {
+    "id": "oy3l6jyox",
+    "name": "清水寺本堂",
+    "image": "https://image.xinu.ink/pic/data/660/images/oy3l6jyox_1728544792821_c16v9.jpg",
+    "geo": [
+      34.994738,
+      135.785087
+    ],
+    "ep": 12,
+    "s": 167,
+    "mark": "卖护身符的地方",
+    "folder": "京都府京都市 清水寺"
+  },
+  {
+    "id": "oy3h97q6f",
+    "name": "京都站大楼梯",
+    "image": "https://image.xinu.ink/pic/data/660/images/oy3h97q6f_1728544788905_c16v9.jpg",
+    "geo": [
+      34.985718,
+      135.757887
+    ],
+    "ep": 12,
+    "s": 168,
+    "folder": "京都府京都市 京都站"
+  },
+  {
+    "id": "nw9ma98nz",
+    "name": "子安塔 东南方向的三岔路口",
+    "image": "https://image.xinu.ink/pic/data/660/images/nw9ma98nz_1725652507201_c16v9.jpg",
+    "geo": [
+      34.992752,
+      135.785306
+    ],
+    "ep": 12,
+    "s": 266,
+    "folder": "京都府京都市 清水寺"
+  },
+  {
+    "id": "oy3omw48v",
+    "name": "京都丽嘉皇家酒店",
+    "image": "https://image.xinu.ink/pic/data/660/images/oy3omw48v_1728696912730_c16v9.jpg",
+    "geo": [
+      34.985924,
+      135.752759
+    ],
+    "ep": 12,
+    "s": 272,
+    "folder": "京都府京都市 京都丽嘉皇家酒店"
+  },
+  {
+    "id": "ovpyi0pv1",
+    "name": "京都丽嘉皇家酒店",
+    "image": "https://image.xinu.ink/pic/data/660/images/ovpyi0pv1-1728335677581.jpg",
+    "geo": [
+      34.985961,
+      135.75275
+    ],
+    "ep": 12,
+    "s": 485,
+    "folder": "京都府京都市 京都丽嘉皇家酒店"
+  },
+  {
+    "id": "oy3t4dd5g",
+    "name": "清水寺本堂",
+    "image": "https://image.xinu.ink/pic/data/660/images/oy3t4dd5g_1728544779277_c16v9.jpg",
+    "geo": [
+      34.9947,
+      135.785225
+    ],
+    "ep": 12,
+    "s": 545,
+    "mark": "武田手上的书的封面",
+    "folder": "京都府京都市 清水寺"
+  },
+  {
+    "id": "oy44cgbjs",
+    "name": "扮装写真館",
+    "image": "https://image.xinu.ink/pic/data/660/images/oy44cgbjs_1728544763393_c16v9.jpg",
+    "geo": [
+      35.016181,
+      135.707581
+    ],
+    "ep": 12,
+    "s": 774,
+    "folder": "京都府京都市 东映太秦映画村"
+  },
+  {
+    "id": "o6rnjc48h",
+    "name": "日本橋",
+    "image": "https://image.xinu.ink/pic/data/660/images/o6rnjc48h-1726380275622.jpg",
+    "geo": [
+      35.015736,
+      135.707741
+    ],
+    "ep": 12,
+    "s": 1022,
+    "folder": "京都府京都市 东映太秦映画村"
+  },
+  {
+    "id": "o6rgogimo",
+    "name": "中村座",
+    "image": "https://image.xinu.ink/pic/data/660/images/o6rgogimo-1726379857605.jpg",
+    "geo": [
+      35.016554,
+      135.707659
+    ],
+    "ep": 12,
+    "s": 1028,
+    "folder": "京都府京都市 东映太秦映画村"
+  },
+  {
+    "id": "ovniypnlq",
+    "name": "长屋门对面的座位",
+    "image": "https://image.xinu.ink/pic/data/660/images/ovniypnlq-1728330455919.jpg",
+    "geo": [
+      35.016792,
+      135.707786
+    ],
+    "ep": 12,
+    "s": 1284,
+    "folder": "京都府京都市 东映太秦映画村"
+  },
+  {
+    "id": "oy4hfq4of",
+    "name": "京都丽嘉皇家酒店",
+    "image": "https://image.xinu.ink/pic/data/660/images/oy4hfq4of_1728544753323_c16v9.jpg",
+    "geo": [
+      34.98599,
+      135.752745
+    ],
+    "ep": 12,
+    "s": 1355,
+    "folder": "京都府京都市 京都丽嘉皇家酒店"
+  },
+  {
+    "id": "ovs40h3fq",
+    "name": "牛窓オリーブ園幸福の鐘",
+    "image": "https://image.xinu.ink/pic/data/660/images/ovs40h3fq-1728340370098.jpg",
+    "geo": [
+      34.625693,
+      134.155735
+    ],
+    "ep": 12,
+    "s": 1404,
+    "folder": "冈山县濑户内市"
   }
 ]

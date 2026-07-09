@@ -12,5 +12,20 @@
     ],
     "origin": "膨胀的豆制品（杜中平）",
     "originLink": "https://map.yahoo.co.jp/place?lat=35.71894&lon=139.61534&zoom=17&maptype=satellite"
+  },
+  {
+    "id": "dc6c37kvm",
+    "name": "リブリ·ドルチェ",
+    "image": "https://image.xinu.ink/pic/data/648/images/dc6c37kvm-1695771857208.jpg",
+    "geo": [
+      35.71894,
+      139.614329
+    ],
+    "ep": 2,
+    "s": "79",
+    "mark": "東京都杉並区清水3丁目31-12",
+    "origin": "膨胀的豆制品（杜中平）",
+    "originURL": "https://map.yahoo.co.jp/place?lat=35.71894&lon=139.61433&zoom=17&maptype=satellite",
+    "cn": "利布里·多尔斯"
   }
 ]

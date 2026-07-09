@@ -647,5 +647,868 @@
       35.6542,
       139.7922
     ]
+  },
+  {
+    "id": "ofycy8zu5",
+    "name": "マクセル アクアパーク品川",
+    "image": "https://image.xinu.ink/pic/data/606/images/ofycy8zu5_1727100156843.jpg",
+    "geo": [
+      35.628355,
+      139.73547
+    ],
+    "ep": 13,
+    "s": 622
+  },
+  {
+    "id": "mngw4jn5c",
+    "name": "新堀茜通り西武池袋線踏み切り",
+    "image": "https://image.xinu.ink/pic/data/606/images/mngw4jn5c-1722484374667.jpg",
+    "geo": [
+      35.769747,
+      139.52459
+    ],
+    "mark": "清濑站附近的踏切比较多，可以借助超市ozam定位，这个踏切是ozam一南一北两个踏切中北边的那个，动画中的镜头是自西向东拍的。",
+    "folder": "第二集",
+    "origin": "@電気予報",
+    "cn": "西武池袋线清濑站附近踏切"
+  },
+  {
+    "id": "skw289afm",
+    "name": "星野ハイツ",
+    "image": "https://image.xinu.ink/pic/data/606/images/skw289afm_1738771391504.jpg",
+    "geo": [
+      35.750627,
+      139.598694
+    ],
+    "ep": 8,
+    "s": 990
+  },
+  {
+    "id": "skw2db5tk",
+    "name": "星野ハイツ",
+    "image": "https://image.xinu.ink/pic/data/606/images/skw2db5tk_1738771399977.jpg",
+    "geo": [
+      35.750498,
+      139.598774
+    ],
+    "ep": 8,
+    "s": 1017
+  },
+  {
+    "id": "skw8d06mk",
+    "name": "マクドナルド\n中村橋​店",
+    "image": "https://image.xinu.ink/pic/data/606/images/skw8d06mk_1738771767081.jpg",
+    "geo": [
+      35.73611,
+      139.638396
+    ],
+    "ep": 8,
+    "s": 623
+  },
+  {
+    "id": "skw8jmo77",
+    "name": "マクドナルド\n中村橋​店",
+    "image": "https://image.xinu.ink/pic/data/606/images/skw8jmo77_1738771772619.jpg",
+    "geo": [
+      35.73608,
+      139.638584
+    ],
+    "ep": 8,
+    "s": 400
+  },
+  {
+    "id": "ofyf2dfqq",
+    "name": 4,
+    "image": "https://image.xinu.ink/pic/data/606/images/ofyf2dfqq_1727100269634.jpg",
+    "geo": [
+      35.628293,
+      139.735385
+    ],
+    "cn": "售票处"
+  },
+  {
+    "id": "ofyh4uavg",
+    "name": 7,
+    "image": "https://image.xinu.ink/pic/data/606/images/ofyh4uavg_1727100392615.jpg",
+    "geo": [
+      35.628256,
+      139.735218
+    ],
+    "ep": 13,
+    "s": 703,
+    "cn": "品川水族馆内部"
+  },
+  {
+    "id": "ofyhh989a",
+    "name": 7,
+    "image": "https://image.xinu.ink/pic/data/606/images/ofyhh989a_1727100406446.jpg",
+    "geo": [
+      35.628257,
+      139.735177
+    ],
+    "ep": 13,
+    "s": 715,
+    "cn": "品川水族馆内部"
+  },
+  {
+    "id": "ofyhy2a1t",
+    "name": 7,
+    "image": "https://image.xinu.ink/pic/data/606/images/ofyhy2a1t_1727100434621.jpg",
+    "geo": [
+      35.628256,
+      139.735267
+    ],
+    "ep": 13,
+    "s": 709,
+    "cn": "品川水族馆内部"
+  },
+  {
+    "id": "ofyl10vwa",
+    "name": "マクセル​アクア​パーク​品川",
+    "image": "https://image.xinu.ink/pic/data/606/images/ofyl10vwa_1727100619409.jpg",
+    "geo": [
+      35.628387,
+      139.735202
+    ],
+    "ep": 13,
+    "s": 1034,
+    "cn": "麦克赛尔品川王子大饭店水族馆"
+  },
+  {
+    "id": "ofyl8nyxj",
+    "name": "マクセル​アクア​パーク​品川",
+    "image": "https://image.xinu.ink/pic/data/606/images/ofyl8nyxj_1727100639425.jpg",
+    "geo": [
+      35.628351,
+      139.735125
+    ],
+    "ep": 13,
+    "s": 1069,
+    "cn": "麦克赛尔品川王子大饭店水族馆"
+  },
+  {
+    "id": "ofyllsiio",
+    "name": "マクセル​アクア​パーク​品川",
+    "image": "https://image.xinu.ink/pic/data/606/images/ofyllsiio_1727100653673.jpg",
+    "geo": [
+      35.628382,
+      139.735123
+    ],
+    "ep": 13,
+    "s": 1071,
+    "cn": "麦克赛尔品川王子大饭店水族馆"
+  },
+  {
+    "id": "ofymsrf8g",
+    "name": "マクセル​アクア​パーク​品川",
+    "image": "https://image.xinu.ink/pic/data/606/images/ofymsrf8g_1727100725684.jpg",
+    "geo": [
+      35.628256,
+      139.735035
+    ],
+    "ep": 13,
+    "s": 1277,
+    "cn": "麦克赛尔品川王子大饭店水族馆"
+  },
+  {
+    "id": "ofynh42m7",
+    "name": "マクセル​アクア​パーク​品川",
+    "image": "https://image.xinu.ink/pic/data/606/images/ofynh42m7_1727100766814.jpg",
+    "geo": [
+      35.628257,
+      139.735004
+    ],
+    "ep": 13,
+    "s": 1148,
+    "cn": "麦克赛尔品川王子大饭店水族馆"
+  },
+  {
+    "id": "ofynpxw0v",
+    "name": "マクセル​アクア​パーク​品川",
+    "image": "https://image.xinu.ink/pic/data/606/images/ofynpxw0v_1727100781992.jpg",
+    "geo": [
+      35.628257,
+      139.735315
+    ],
+    "ep": 13,
+    "s": 1142,
+    "cn": "麦克赛尔品川王子大饭店水族馆"
+  },
+  {
+    "id": "ofyjft77p",
+    "name": "マクセル​アクア​パーク​品川",
+    "image": "https://image.xinu.ink/pic/data/606/images/ofyjft77p_1727100524729.jpg",
+    "geo": [
+      35.628392,
+      139.73524
+    ],
+    "ep": 13,
+    "s": 950,
+    "cn": "麦克赛尔品川王子大饭店水族馆"
+  },
+  {
+    "id": "ofyjn47s8",
+    "name": "マクセル​アクア​パーク​品川",
+    "image": "https://image.xinu.ink/pic/data/606/images/ofyjn47s8_1727100540417.jpg",
+    "geo": [
+      35.628357,
+      139.735157
+    ],
+    "ep": 13,
+    "s": 953,
+    "cn": "麦克赛尔品川王子大饭店水族馆"
+  },
+  {
+    "id": "ofyk99o01",
+    "name": "マクセル​アクア​パーク​品川",
+    "image": "https://image.xinu.ink/pic/data/606/images/ofyk99o01_1727100573625.jpg",
+    "geo": [
+      35.628363,
+      139.73524
+    ],
+    "ep": 13,
+    "s": 976,
+    "cn": "麦克赛尔品川王子大饭店水族馆"
+  },
+  {
+    "id": "ofyki7niz",
+    "name": "マクセル​アクア​パーク​品川",
+    "image": "https://image.xinu.ink/pic/data/606/images/ofyki7niz_1727100603238.jpg",
+    "geo": [
+      35.628361,
+      139.7352
+    ],
+    "ep": 13,
+    "s": 982,
+    "cn": "麦克赛尔品川王子大饭店水族馆"
+  },
+  {
+    "id": "ofygblesj",
+    "name": 6,
+    "image": "https://image.xinu.ink/pic/data/606/images/ofygblesj_1727100341746.jpg",
+    "geo": [
+      35.628259,
+      139.734958
+    ],
+    "ep": 13,
+    "s": 685,
+    "cn": "品川水族馆内部"
+  },
+  {
+    "id": "9mq68na",
+    "name": "石神井町4-25",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mq68na-1767975617764.jpg",
+    "geo": [
+      35.748557,
+      139.601544
+    ],
+    "ep": 2,
+    "s": 531,
+    "mark": "来源xhs"
+  },
+  {
+    "id": "9mqpph1",
+    "name": "踏切",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mqpph1-1767976521476.jpg",
+    "geo": [
+      35.769762,
+      139.524686
+    ],
+    "ep": 5,
+    "s": 602,
+    "mark": "根据动漫视角，这里没问题，后面的红房子"
+  },
+  {
+    "id": "9mqqps8",
+    "name": "踏切",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mqqps8-1767976574673.jpg",
+    "geo": [
+      35.769779,
+      139.524693
+    ],
+    "ep": 5,
+    "s": 612,
+    "mark": "根据动漫上下文"
+  },
+  {
+    "id": "9mqujbk",
+    "name": "拐角",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mqujbk-1767976751196.jpg",
+    "geo": [
+      35.748248,
+      139.602654
+    ],
+    "ep": 5,
+    "s": 623,
+    "mark": "向右拍摄"
+  },
+  {
+    "id": "9mqvna2",
+    "name": "拐角",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mqvna2-1767976806204.jpg",
+    "geo": [
+      35.748311,
+      139.602548
+    ],
+    "ep": 5,
+    "s": 643,
+    "mark": "向北拍摄，就在这里四个方向拍摄"
+  },
+  {
+    "id": "9mqww1u",
+    "name": "拐角",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mqww1u-1767976864523.jpg",
+    "geo": [
+      35.748215,
+      139.60252
+    ],
+    "ep": 5,
+    "s": 696,
+    "mark": "向左"
+  },
+  {
+    "id": "9mqxqr2",
+    "name": "拐角",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mqxqr2-1767976904523.jpg",
+    "geo": [
+      35.748249,
+      139.6026
+    ],
+    "ep": 5,
+    "s": 699
+  },
+  {
+    "id": "9mqzp3o",
+    "name": "小川ビル",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mqzp3o-1767976988799.jpg",
+    "geo": [
+      35.77045,
+      139.519236
+    ],
+    "ep": 5,
+    "s": 1198,
+    "mark": "虽然是家门口拍的，但现实不符合，还有可爱呢"
+  },
+  {
+    "id": "9mseco8",
+    "name": "人行道",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mseco8-1767979356684.jpg",
+    "geo": [
+      35.750555,
+      139.598734
+    ],
+    "ep": 8,
+    "s": 1001,
+    "mark": "向右拍摄"
+  },
+  {
+    "id": "9msfpwg",
+    "name": "人行道",
+    "image": "https://image.xinu.ink/pic/data/606/images/9msfpwg-1767979420011.jpg",
+    "geo": [
+      35.750446,
+      139.598657
+    ],
+    "ep": 8,
+    "s": 1037,
+    "mark": "向北拍摄"
+  },
+  {
+    "id": "9msh6ls",
+    "name": "踏切",
+    "image": "https://image.xinu.ink/pic/data/606/images/9msh6ls-1767979484606.jpg",
+    "geo": [
+      35.769761,
+      139.524638
+    ],
+    "ep": 9,
+    "s": 947,
+    "mark": "后面的房子"
+  },
+  {
+    "id": "9msi0na",
+    "name": "踏切",
+    "image": "https://image.xinu.ink/pic/data/606/images/9msi0na-1767979540165.jpg",
+    "geo": [
+      35.769769,
+      139.524653
+    ],
+    "ep": 8,
+    "s": 954,
+    "mark": "后面的建筑，还有前后文"
+  },
+  {
+    "id": "9msjgeu",
+    "name": "踏切",
+    "image": "https://image.xinu.ink/pic/data/606/images/9msjgeu-1767979595003.jpg",
+    "geo": [
+      35.769757,
+      139.524619
+    ],
+    "ep": 8,
+    "s": 957,
+    "mark": "根据之前的人说法这个位置不是这个踏切，但根据上下文应该放这里，但这个位置是错误的"
+  },
+  {
+    "id": "9msra1g",
+    "name": "人行道",
+    "image": "https://image.xinu.ink/pic/data/606/images/9msra1g-1767979955277.jpg",
+    "geo": [
+      35.736164,
+      139.63825
+    ],
+    "ep": 8,
+    "s": 585,
+    "mark": "根据动漫取景视角，加上只有左面的高楼多，向左拍摄最合适，但其实差别挺大，可以各位更正一下"
+  },
+  {
+    "id": "9msthmx",
+    "name": "人行道",
+    "image": "https://image.xinu.ink/pic/data/606/images/9msthmx-1767980064283.jpg",
+    "geo": [
+      35.736151,
+      139.638416
+    ],
+    "ep": 8,
+    "s": 640,
+    "mark": "向右"
+  },
+  {
+    "id": "9msu5fg",
+    "name": "人行道",
+    "image": "https://image.xinu.ink/pic/data/606/images/9msu5fg-1767980092987.jpg",
+    "geo": [
+      35.736151,
+      139.638399
+    ],
+    "ep": 8,
+    "s": 634,
+    "mark": "向左"
+  },
+  {
+    "id": "9msv05h",
+    "name": "人行道",
+    "image": "https://image.xinu.ink/pic/data/606/images/9msv05h-1767980134323.jpg",
+    "geo": [
+      35.736202,
+      139.63838
+    ],
+    "ep": 8,
+    "s": 653,
+    "mark": "低视角拍摄"
+  },
+  {
+    "id": "9msvulj",
+    "name": "人行道",
+    "image": "https://image.xinu.ink/pic/data/606/images/9msvulj-1767980175470.jpg",
+    "geo": [
+      35.736206,
+      139.638379
+    ],
+    "ep": 8,
+    "s": 654,
+    "mark": "可以平常视角拍摄"
+  },
+  {
+    "id": "9mt6ii9",
+    "name": "踏切",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mt6ii9-1767980664746.jpg",
+    "geo": [
+      35.76971,
+      139.524624
+    ],
+    "ep": 6,
+    "s": 775,
+    "mark": "红房子"
+  },
+  {
+    "id": "9mtcvi2",
+    "name": "理发店",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mtcvi2-1767980967732.jpg",
+    "geo": [
+      35.762486,
+      139.531978
+    ],
+    "ep": 8,
+    "s": 134
+  },
+  {
+    "id": "9mtdo4w",
+    "name": "理发店",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mtdo4w-1767981002378.jpg",
+    "geo": [
+      35.762527,
+      139.531909
+    ],
+    "ep": 8,
+    "s": 145,
+    "mark": "根据动漫取景思路放的位置"
+  },
+  {
+    "id": "9mu7r13",
+    "name": "拐角",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mu7r13-1767982405935.jpg",
+    "geo": [
+      35.748242,
+      139.602573
+    ],
+    "ep": 12,
+    "s": 724,
+    "mark": "对着拐角拍"
+  },
+  {
+    "id": "9mu8l9m",
+    "name": "拐角",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mu8l9m-1767982443000.jpg",
+    "geo": [
+      35.748282,
+      139.602564
+    ],
+    "ep": 12,
+    "s": 730,
+    "mark": "向北"
+  },
+  {
+    "id": "9mu99nn",
+    "name": "拐角",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mu99nn-1767982480817.jpg",
+    "geo": [
+      35.748238,
+      139.602551
+    ],
+    "ep": 12,
+    "s": 735,
+    "mark": "向左，我家还蛮大的，你要不要来玩一玩"
+  },
+  {
+    "id": "9muae01",
+    "name": "拐角",
+    "image": "https://image.xinu.ink/pic/data/606/images/9muae01-1767982527173.jpg",
+    "geo": [
+      35.748245,
+      139.602596
+    ],
+    "ep": 12,
+    "s": 732,
+    "mark": "对着拐角，谁知道你是1啊，我还想当一呢"
+  },
+  {
+    "id": "9mubtwy",
+    "name": "拐角",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mubtwy-1767982592184.jpg",
+    "geo": [
+      35.748264,
+      139.602564
+    ],
+    "ep": 12,
+    "s": 747,
+    "mark": "向北"
+  },
+  {
+    "id": "9muchb0",
+    "name": "拐角",
+    "image": "https://image.xinu.ink/pic/data/606/images/9muchb0-1767982624855.jpg",
+    "geo": [
+      35.748201,
+      139.602596
+    ],
+    "ep": 12,
+    "s": 793,
+    "mark": "向北"
+  },
+  {
+    "id": "9muhwgg",
+    "name": "站前",
+    "image": "https://image.xinu.ink/pic/data/606/images/9muhwgg-1767982891178.jpg",
+    "geo": [
+      35.272614,
+      136.262769
+    ],
+    "ep": 12,
+    "s": 1153,
+    "mark": "无人机视角"
+  },
+  {
+    "id": "9muh5gr",
+    "name": "站前",
+    "image": "https://image.xinu.ink/pic/data/606/images/9muh5gr-1767982845212.jpg",
+    "geo": [
+      35.272547,
+      136.262908
+    ],
+    "ep": 12,
+    "s": 1149,
+    "mark": "学姐你这个大笨蛋"
+  },
+  {
+    "id": "9mujds0",
+    "name": "站前",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mujds0-1767982946403.jpg",
+    "geo": [
+      35.272558,
+      136.262772
+    ],
+    "ep": 8,
+    "mark": "刚开始"
+  },
+  {
+    "id": "9mulq2a",
+    "name": "站内",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mulq2a-1767983059476.jpg",
+    "geo": [
+      35.272264,
+      136.263267
+    ],
+    "ep": 8,
+    "s": "0.39"
+  },
+  {
+    "id": "9mumg2x",
+    "name": "站内",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mumg2x-1767983090514.jpg",
+    "geo": [
+      35.272236,
+      136.263256
+    ],
+    "ep": 8,
+    "s": 116,
+    "mark": "我有女朋友，你没有"
+  },
+  {
+    "id": "9muuhxr",
+    "name": "跑道",
+    "image": "https://image.xinu.ink/pic/data/606/images/9muuhxr-1767983465281.jpg",
+    "geo": [
+      35.265836,
+      136.25042
+    ],
+    "ep": 10,
+    "s": 885,
+    "mark": "这个位置不正确喵，但根据取景只能放一起了，有人找到正确的位置请更正"
+  },
+  {
+    "id": "9muycm5",
+    "name": "跑道",
+    "image": "https://image.xinu.ink/pic/data/606/images/9muycm5-1767983646849.jpg",
+    "geo": [
+      35.265938,
+      136.250199
+    ],
+    "ep": 10,
+    "s": 911
+  },
+  {
+    "id": "9muw9oi",
+    "name": "跑道",
+    "image": "https://image.xinu.ink/pic/data/606/images/9muw9oi-1767983553746.jpg",
+    "geo": [
+      35.265798,
+      136.250451
+    ],
+    "ep": 10,
+    "s": 902,
+    "mark": "虽然右面的河道有一个高楼，但不满足动漫，还是放一起给个时间"
+  },
+  {
+    "id": "9mvkbfb",
+    "name": "踏切",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mvkbfb-1767984669531.jpg",
+    "geo": [
+      35.769743,
+      139.524518
+    ],
+    "ep": 12,
+    "s": 666,
+    "mark": "这个位置和前面的理由一样"
+  },
+  {
+    "id": "9mvlhbh",
+    "name": "踏切",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mvlhbh-1767984725871.jpg",
+    "geo": [
+      35.769736,
+      139.524519
+    ],
+    "ep": 12,
+    "s": 673,
+    "mark": "不正确，理由同上"
+  },
+  {
+    "id": "9mvijvo",
+    "name": "フォルトゥーナ​石神井​公園",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mvijvo-1767984587421.jpg",
+    "geo": [
+      35.747769,
+      139.602347
+    ],
+    "ep": 12,
+    "s": 654,
+    "mark": "同样不正确"
+  },
+  {
+    "id": "9mvjoy4",
+    "name": "踏切",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mvjoy4-1767984640414.jpg",
+    "geo": [
+      35.769706,
+      139.524601
+    ],
+    "ep": 12,
+    "s": 683
+  },
+  {
+    "id": "9mvmcjc",
+    "name": "踏切",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mvmcjc-1767984767159.jpg",
+    "geo": [
+      35.769756,
+      139.524632
+    ],
+    "ep": 12,
+    "s": 719,
+    "mark": "没问题这个方向的位置"
+  },
+  {
+    "id": "9mvnq7b",
+    "name": "拐角",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mvnq7b-1767984828831.jpg",
+    "geo": [
+      35.748252,
+      139.602566
+    ],
+    "ep": 12,
+    "s": 720,
+    "mark": "根据动漫取景思路，懒了"
+  },
+  {
+    "id": "9mwhocu",
+    "name": "桥下",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mwhocu-1767986234222.jpg",
+    "geo": [
+      35.259742,
+      136.259844
+    ],
+    "ep": 6,
+    "s": 810,
+    "mark": "最后一张了，累了喵，还有一些点位没有找到，比如跑步的位置，另一个视角的踏切，第10集的问喜欢颜色的水果店，反光镜一些小的点，剩下的就交给后面的人了喵，加油各位，我要去找其他动漫的了，不然没时间了"
+  },
+  {
+    "id": "9mpcol5",
+    "name": "踏切",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mpcol5-1767974247243.jpg",
+    "geo": [
+      35.769743,
+      139.524552
+    ],
+    "ep": 1,
+    "s": 1001,
+    "mark": "根据实景我认为是不符合动漫，但xhs上的巡礼是这里，而且根据前面的人提供的说法，这个取景是两部分构成所以各位也可以找一找"
+  },
+  {
+    "id": "9mp4527",
+    "name": "咖啡店",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mp4527-1767973840804.jpg",
+    "geo": [
+      35.770458,
+      139.519253
+    ],
+    "ep": 3,
+    "s": 549,
+    "mark": "在人家门口干嘛呢"
+  },
+  {
+    "id": "9mp0ww9",
+    "name": "公园",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mp0ww9-1767973684511.jpg",
+    "geo": [
+      35.65412,
+      139.79225
+    ],
+    "ep": 3,
+    "s": 455,
+    "mark": "这个位置不准确"
+  },
+  {
+    "id": "9mozzru",
+    "name": "公园",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mozzru-1767973646302.jpg",
+    "geo": [
+      35.654135,
+      139.792191
+    ],
+    "ep": 3,
+    "s": 460,
+    "mark": "这个位置不准确"
+  },
+  {
+    "id": "9moyl67",
+    "name": "公园",
+    "image": "https://image.xinu.ink/pic/data/606/images/9moyl67-1767973583864.jpg",
+    "geo": [
+      35.654197,
+      139.792138
+    ],
+    "ep": 3,
+    "s": 514,
+    "mark": "在这个公园应该都可以拍，现实就是右面的高楼修好了"
+  },
+  {
+    "id": "9mo29jy",
+    "name": "踏切",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mo29jy-1767972073174.jpg",
+    "geo": [
+      35.769755,
+      139.524626
+    ],
+    "ep": 2,
+    "s": 644,
+    "mark": "虽然挺不好判断的，但右后面的房子符合动漫的取景，而且满足动漫的取景思路，但不一定正确"
+  },
+  {
+    "id": "9mnrjb3",
+    "name": "踏切",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mnrjb3-1767971583410.jpg",
+    "geo": [
+      35.769791,
+      139.524539
+    ],
+    "ep": 2,
+    "s": 592,
+    "mark": "那个铁路红绿灯满足"
+  },
+  {
+    "id": "9mnwtkx",
+    "name": "踏切",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mnwtkx-1767971822296.jpg",
+    "geo": [
+      35.769757,
+      139.52464
+    ],
+    "ep": 2,
+    "s": 659,
+    "mark": "根据动漫的位置，以及上下文，位置就应该在这里，然后后面的房子走向挺像的，大概没错"
+  },
+  {
+    "id": "9moom0n",
+    "name": "lalapart",
+    "image": "https://image.xinu.ink/pic/data/606/images/9moom0n-1767973150427.jpg",
+    "geo": [
+      35.655236,
+      139.794043
+    ],
+    "ep": 3,
+    "s": 359
+  },
+  {
+    "id": "9mnyv93",
+    "name": "踏切",
+    "image": "https://image.xinu.ink/pic/data/606/images/9mnyv93-1767971911002.jpg",
+    "geo": [
+      35.769749,
+      139.524604
+    ],
+    "ep": 2,
+    "s": 654,
+    "mark": "根据后面的那个突起的房子可以推出来，但前面的和动漫不一样，还有左面的房子走向也挺合适"
   }
 ]

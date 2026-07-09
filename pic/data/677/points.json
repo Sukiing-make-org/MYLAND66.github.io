@@ -587,5 +587,35 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aaofz13",
+    "name": "大宮駅",
+    "image": "https://image.xinu.ink/pic/data/677/images/aaofz13_1769483677207.jpg",
+    "geo": [
+      35.906611,
+      139.623202
+    ],
+    "ep": 5
+  },
+  {
+    "id": "aaotzjy",
+    "name": "まいばすけっと 与野本町駅東店",
+    "image": "https://image.xinu.ink/pic/data/677/images/aaotzjy_1769483705350.jpg",
+    "geo": [
+      35.88194,
+      139.63009
+    ],
+    "ep": 8
+  },
+  {
+    "id": "aak0iko",
+    "name": "東岩槻駅",
+    "image": "https://image.xinu.ink/pic/data/677/images/aak0iko_1769483718356.jpg",
+    "geo": [
+      35.96312,
+      139.7118
+    ],
+    "ep": 8
   }
 ]

@@ -576,5 +576,27 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1MQNdvrVVP8wk0iDD5R1QRQ34-Cf_0ahm&ll=33.149588%2C130.303469&z=17"
+  },
+  {
+    "id": "2a0dvgr",
+    "name": "伊東玄朴旧宅",
+    "image": "https://image.xinu.ink/pic/data/670/images/2a0dvgr-1751969228941.jpg",
+    "geo": [
+      33.355944,
+      130.364201
+    ],
+    "ep": 8,
+    "s": 232
+  },
+  {
+    "id": "2a7sk9b",
+    "name": "浜崎海岸公園",
+    "image": "https://image.xinu.ink/pic/data/670/images/2a7sk9b-1751981696000.jpg",
+    "geo": [
+      33.451515,
+      130.03728
+    ],
+    "ep": 11,
+    "s": 256
   }
 ]

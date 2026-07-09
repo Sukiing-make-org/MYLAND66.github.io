@@ -553,5 +553,17 @@
     ],
     "origin": "Anitabi@K",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "hstu97qem",
+    "name": "纽约公共图书馆",
+    "image": "https://image.xinu.ink/pic/data/572/images/hstu97qem_1708361532547.jpg",
+    "geo": [
+      40.752843,
+      -73.981304
+    ],
+    "ep": 12,
+    "s": 859,
+    "folder": "曼哈顿中城"
   }
 ]

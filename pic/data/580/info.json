@@ -20,10 +20,16 @@
       ]
     }
   ],
-  "pointsLength": 19,
+  "pointsLength": 23,
   "imagesLength": 1,
   "local_id": 580,
   "region": [
     "东京都/東京都"
-  ]
+  ],
+  "cat": "剧场版",
+  "geo": [
+    35.699134,
+    139.738114
+  ],
+  "zoom": 11.9
 }

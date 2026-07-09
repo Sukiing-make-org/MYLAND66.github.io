@@ -785,5 +785,106 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "l749ceoqt",
+    "name": "聖蹟桜ヶ丘駅前",
+    "image": "https://image.xinu.ink/pic/data/589/images/l749ceoqt_1717944368962.jpg",
+    "geo": [
+      35.649817,
+      139.448644
+    ],
+    "cn": "圣迹樱丘站前"
+  },
+  {
+    "id": "l07s5krhi",
+    "name": "いろは坂",
+    "image": "https://image.xinu.ink/pic/data/589/images/l07s5krhi_1717403765515.jpg",
+    "geo": [
+      35.646082,
+      139.445667
+    ],
+    "mark": "【お散歩サンライト】大崎甘奈",
+    "folder": "アルストロメリア",
+    "cn": "伊吕波坂"
+  },
+  {
+    "id": "l74c6ykxu",
+    "name": "いろは坂桜公園",
+    "image": "https://image.xinu.ink/pic/data/589/images/l74c6ykxu_1717944566080.jpg",
+    "geo": [
+      35.64576,
+      139.445026
+    ],
+    "mark": "【オフデーゲーム】西城 樹里",
+    "folder": "放課後クライマックスガールズ",
+    "cn": "伊吕波坂樱公园"
+  },
+  {
+    "id": "l1lgm7sr5",
+    "name": "渋谷センター街（旧HMV前）",
+    "image": "https://image.xinu.ink/pic/data/589/images/l1lgm7sr5-1717511755719.jpg",
+    "geo": [
+      35.660057,
+      139.699803
+    ],
+    "mark": "通用背景 夜",
+    "cn": "涩谷中央街（旧HMV前）"
+  },
+  {
+    "id": "l74cg79au",
+    "name": "いろは坂桜公園",
+    "image": "https://image.xinu.ink/pic/data/589/images/l74cg79au_1717944619493.jpg",
+    "geo": [
+      35.645907,
+      139.445008
+    ],
+    "mark": "【君・空・我・空】幽谷 霧子",
+    "folder": "アンティーカ",
+    "cn": "伊吕波坂樱公园"
+  },
+  {
+    "id": "l74qs389y",
+    "name": "いろは坂頂上付近",
+    "image": "https://image.xinu.ink/pic/data/589/images/l74qs389y_1717945439005.jpg",
+    "geo": [
+      35.643748,
+      139.444741
+    ],
+    "folder": "アンティーカ",
+    "cn": "伊吕波坂终点附近"
+  },
+  {
+    "id": "l74staffl",
+    "name": "東京スカイツリー",
+    "image": "https://image.xinu.ink/pic/data/589/images/l74staffl_1717945563533.jpg",
+    "geo": [
+      35.709792,
+      139.81072
+    ],
+    "folder": "アンティーカ",
+    "cn": "东京晴空塔"
+  },
+  {
+    "id": "l72b7r75h",
+    "name": "お台場海浜公園",
+    "image": "https://image.xinu.ink/pic/data/589/images/l72b7r75h_1717940131026.jpg",
+    "geo": [
+      35.629928,
+      139.773939
+    ],
+    "folder": "放課後クライマックスガールズ",
+    "cn": "御台场海滨公园"
+  },
+  {
+    "id": "l73wq0s9d",
+    "name": "神宮前5丁目地先",
+    "image": "https://image.xinu.ink/pic/data/589/images/l73wq0s9d_1717943611625.jpg",
+    "geo": [
+      35.666865,
+      139.70701
+    ],
+    "mark": "【それなら目をつぶりましょう】三峰 結華",
+    "folder": "アンティーカ"
   }
 ]

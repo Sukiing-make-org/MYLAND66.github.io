@@ -349,5 +349,49 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1YcaAKojEZ-Kx3_6rTLc_NGmWgp-kzJb6&ll=35.643293%2C139.443619&z=17"
+  },
+  {
+    "id": "3a4ufzn4",
+    "name": "鶴渡公園",
+    "image": "https://image.xinu.ink/pic/data/584/images/3a4ufzn4.jpg",
+    "geo": [
+      35.568553,
+      139.72495
+    ],
+    "ep": 1,
+    "s": 13
+  },
+  {
+    "id": "3a4ufzcv",
+    "name": "鶴渡公園",
+    "image": "https://image.xinu.ink/pic/data/584/images/3a4ufzcv.jpg",
+    "geo": [
+      35.568556,
+      139.724593
+    ],
+    "ep": 1,
+    "s": 19
+  },
+  {
+    "id": "3a4ufz7g",
+    "name": "高円寺 純情商店街",
+    "image": "https://image.xinu.ink/pic/data/584/images/3a4ufz7g.jpg",
+    "geo": [
+      35.707236,
+      139.649876
+    ],
+    "ep": 1,
+    "s": 141
+  },
+  {
+    "id": "3a4ufzph",
+    "name": "霞ヶ関橋南",
+    "image": "https://image.xinu.ink/pic/data/584/images/3a4ufzph.jpg",
+    "geo": [
+      35.647347,
+      139.446923
+    ],
+    "ep": 1,
+    "s": 709
   }
 ]

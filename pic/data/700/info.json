@@ -17,10 +17,16 @@
       ]
     }
   ],
-  "pointsLength": 23,
+  "pointsLength": 26,
   "imagesLength": 1,
   "local_id": 700,
   "region": [
     "宫城县"
-  ]
+  ],
+  "cat": "TV",
+  "geo": [
+    38.2607,
+    140.881567
+  ],
+  "zoom": 15.7
 }

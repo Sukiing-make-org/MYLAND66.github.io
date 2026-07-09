@@ -635,5 +635,53 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1IYkYHgxObQ5v5QjKkv75C_twuRST0mdR&ll=35.632338%2C139.257945&z=17"
+  },
+  {
+    "id": "dc9a5e24",
+    "name": "OP 高尾山 男坂",
+    "image": "https://image.xinu.ink/pic/data/614/images/dc9a5e24_1719897140481.jpg",
+    "geo": [
+      35.628492,
+      139.251806
+    ],
+    "ep": 9,
+    "s": 161,
+    "folder": "Re:ステージ！ ドリームデイズ♪"
+  },
+  {
+    "id": "3219c0f7",
+    "name": "4話 高尾山1号路",
+    "image": "https://image.xinu.ink/pic/data/614/images/3219c0f7_1719897155108.jpg",
+    "geo": [
+      35.634437,
+      139.260001
+    ],
+    "ep": 4,
+    "s": 978,
+    "folder": "Re:ステージ！ ドリームデイズ♪"
+  },
+  {
+    "id": "e3c228f2",
+    "name": "4話 高尾山1号路",
+    "image": "https://image.xinu.ink/pic/data/614/images/e3c228f2_1719897156126.jpg",
+    "geo": [
+      35.634999,
+      139.261206
+    ],
+    "ep": 4,
+    "s": 1032,
+    "folder": "Re:ステージ！ ドリームデイズ♪"
+  },
+  {
+    "id": "efff0b77",
+    "name": "6話 府中の森公園",
+    "image": "https://image.xinu.ink/pic/data/614/images/efff0b77_1719897157924.jpg",
+    "geo": [
+      35.675213,
+      139.491975
+    ],
+    "ep": 6,
+    "s": 590,
+    "folder": "Re:ステージ！ ドリームデイズ♪"
   }
 ]

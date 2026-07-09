@@ -290,5 +290,67 @@
       35.6893,
       139.6917
     ]
+  },
+  {
+    "id": "5ja9ns8lu",
+    "name": "端岛",
+    "image": "https://image.xinu.ink/pic/data/592/images/5ja9ns8lu-1673760540086.jpg",
+    "geo": [
+      32.62613,
+      129.737912
+    ],
+    "ep": 1,
+    "s": 304,
+    "originURL": "https://www.nicovideo.jp/watch/sm35116905"
+  },
+  {
+    "id": "5jaw6czxe",
+    "name": "端島",
+    "image": "https://image.xinu.ink/pic/data/592/images/5jaw6czxe-1673761593258.jpg",
+    "geo": [
+      32.626238,
+      129.736573
+    ],
+    "ep": 2,
+    "s": 681,
+    "originURL": "https://www.nicovideo.jp/watch/sm35116905",
+    "cn": "端岛"
+  },
+  {
+    "id": "5jbqt5mo7",
+    "name": "長崎港​フェリー​ターミナル",
+    "image": "https://image.xinu.ink/pic/data/592/images/5jbqt5mo7_1673763357961.jpg",
+    "geo": [
+      32.745691,
+      129.868335
+    ],
+    "ep": 3,
+    "s": 438,
+    "originURL": "https://www.nicovideo.jp/watch/sm35158405",
+    "cn": "长崎港轮渡码头"
+  },
+  {
+    "id": "5jj2f2pt4",
+    "name": "黒部ダム (Kurobe Dam)",
+    "image": "https://image.xinu.ink/pic/data/592/images/5jj2f2pt4-1673779226535.jpg",
+    "geo": [
+      36.566484,
+      137.662022
+    ],
+    "ep": 8,
+    "s": 1093,
+    "originURL": "https://www.nicovideo.jp/watch/sm35907249"
+  },
+  {
+    "id": "5jj6tw66k",
+    "name": "黒部ダム (Kurobe Dam)",
+    "image": "https://image.xinu.ink/pic/data/592/images/5jj6tw66k-1673779500871.jpg",
+    "geo": [
+      36.56623,
+      137.664571
+    ],
+    "ep": 8,
+    "s": 1303,
+    "originURL": "https://www.nicovideo.jp/watch/sm35907249"
   }
 ]

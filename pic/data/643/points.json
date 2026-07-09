@@ -419,5 +419,33 @@
       35.8867,
       139.7973
     ]
+  },
+  {
+    "id": "9xn7eas",
+    "name": "越ヶ谷２丁目",
+    "image": "https://image.xinu.ink/pic/data/643/images/9xn7eas-1768635754314.jpg",
+    "geo": [
+      35.889655,
+      139.790173
+    ],
+    "ep": 10,
+    "s": 727,
+    "mark": "往西南看",
+    "folder": "越谷",
+    "origin": "kennyfs"
+  },
+  {
+    "id": "9xjjn8l",
+    "name": "巡邏路線",
+    "image": "https://image.xinu.ink/pic/data/643/images/9xjjn8l-1768629605896.jpg",
+    "geo": [
+      35.886731,
+      139.796536
+    ],
+    "ep": 4,
+    "s": 522,
+    "mark": "往北邊河的方向看",
+    "folder": "越谷",
+    "origin": "kennyfs"
   }
 ]

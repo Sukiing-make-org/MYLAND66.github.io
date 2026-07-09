@@ -626,5 +626,29 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1tH-CwELGkteeeMBbJcfdWi3ZVDn_a33j&ll=35.703183%2C139.752048&z=17"
+  },
+  {
+    "id": "da58ebd5",
+    "name": "日本武道館",
+    "image": "",
+    "geo": [
+      35.693371,
+      139.749758
+    ],
+    "ep": 8,
+    "folder": "渋谷、麻布十番ほか",
+    "origin": "こみっくがーるず-舞台探訪マップ-"
+  },
+  {
+    "id": "1b1df52b",
+    "name": "ロックハート城",
+    "image": "",
+    "geo": [
+      36.63109,
+      138.988357
+    ],
+    "ep": 10,
+    "folder": "其他",
+    "origin": "こみっくがーるず-舞台探訪マップ-"
   }
 ]

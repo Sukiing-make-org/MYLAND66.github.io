@@ -433,5 +433,41 @@
     ],
     "origin": "Anitabi",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "upjwo9",
+    "name": "マクドナルド 西武新宿駅前店4F",
+    "image": "https://image.xinu.ink/pic/data/639/images/upjwo9-1748867289346.jpg",
+    "geo": [
+      35.6942,
+      139.700603
+    ],
+    "ep": 1,
+    "s": 690,
+    "cn": "麦当劳 西武新宿站前店4层"
+  },
+  {
+    "id": "upnpoe",
+    "name": "マクドナルド 西武新宿駅前店4F",
+    "image": "https://image.xinu.ink/pic/data/639/images/upnpoe-1748867460429.jpg",
+    "geo": [
+      35.694196,
+      139.700612
+    ],
+    "ep": 1,
+    "s": 625,
+    "cn": "麦当劳西武新宿站前店4层"
+  },
+  {
+    "id": "uppoc5",
+    "name": "マクドナルド 西武新宿駅前店4F",
+    "image": "https://image.xinu.ink/pic/data/639/images/uppoc5-1748867564629.jpg",
+    "geo": [
+      35.694199,
+      139.700625
+    ],
+    "ep": 1,
+    "s": 691,
+    "cn": "麦当劳 西武新宿站前店4层"
   }
 ]
