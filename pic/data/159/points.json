@@ -928,5 +928,274 @@
     ],
     "ep": 2,
     "s": 364
+  },
+  {
+    "id": "guhe03u",
+    "name": "ほり川",
+    "image": "https://image.xinu.ink/pic/data/159/images/guhe03u-1783682074710.webp",
+    "geo": [
+      34.346492,
+      132.910485
+    ]
+  },
+  {
+    "id": "guhfo0j",
+    "name": "竹の茶屋 いっぷく",
+    "image": "https://image.xinu.ink/pic/data/159/images/guhfo0j-1783682143720.webp",
+    "geo": [
+      34.34798,
+      132.909586
+    ],
+    "ep": 2
+  },
+  {
+    "id": "guhhbtt",
+    "name": "憧憬の広場",
+    "image": "https://image.xinu.ink/pic/data/159/images/guhhbtt-1783682222401.webp",
+    "geo": [
+      34.34742,
+      132.910073
+    ],
+    "ep": 1
+  },
+  {
+    "id": "guhiznl",
+    "name": "茶房ゆかり",
+    "image": "https://image.xinu.ink/pic/data/159/images/guhiznl-1783682303143.webp",
+    "geo": [
+      34.347111,
+      132.9102
+    ],
+    "ep": 4
+  },
+  {
+    "id": "guhklzj",
+    "name": "照蓮寺",
+    "image": "https://image.xinu.ink/pic/data/159/images/guhklzj-1783682374798.webp",
+    "geo": [
+      34.34856,
+      132.909739
+    ],
+    "ep": 1
+  },
+  {
+    "id": "guhmgoq",
+    "name": "おかかえ地蔵",
+    "image": "https://image.xinu.ink/pic/data/159/images/guhmgoq-1783682492364.webp",
+    "geo": [
+      34.347994,
+      132.910732
+    ]
+  },
+  {
+    "id": "guhmvdw",
+    "name": "西方寺",
+    "image": "https://image.xinu.ink/pic/data/159/images/guhmvdw-1783682524082.webp",
+    "geo": [
+      34.346609,
+      132.91108
+    ],
+    "ep": 11
+  },
+  {
+    "id": "guhqpji",
+    "name": "西方寺普明閣",
+    "image": "https://image.xinu.ink/pic/data/159/images/guhqpji-1783682656679.webp",
+    "geo": [
+      34.346551,
+      132.911362
+    ],
+    "ep": 8
+  },
+  {
+    "id": "guhr8ov",
+    "name": "旧笠井邸",
+    "image": "https://image.xinu.ink/pic/data/159/images/guhr8ov-1783682693970.webp",
+    "geo": [
+      34.345401,
+      132.912078
+    ],
+    "ep": 12
+  },
+  {
+    "id": "guht98u",
+    "name": "石の高燈籠",
+    "image": "https://image.xinu.ink/pic/data/159/images/guht98u-1783682796168.webp",
+    "geo": [
+      34.177517,
+      132.868414
+    ],
+    "ep": 4
+  },
+  {
+    "id": "guhuhd8",
+    "name": "御手洗おみあげ屋",
+    "image": "https://image.xinu.ink/pic/data/159/images/guhuhd8-1783682836885.webp",
+    "geo": [
+      34.176406,
+      132.868152
+    ],
+    "ep": 10
+  },
+  {
+    "id": "guhvj50",
+    "name": "歴史の見える丘公園（ベンチ）",
+    "image": "https://image.xinu.ink/pic/data/159/images/guhvj50-1783682883089.webp",
+    "geo": [
+      34.176416,
+      132.866387
+    ],
+    "ep": 10
+  },
+  {
+    "id": "guhwimm",
+    "name": "歴史の見える丘公園展望台",
+    "image": "https://image.xinu.ink/pic/data/159/images/guhwimm-1783682930020.webp",
+    "geo": [
+      34.177021,
+      132.865978
+    ],
+    "ep": 11
+  },
+  {
+    "id": "guhxh6o",
+    "name": "歴史の見える丘公園（道中）",
+    "image": "https://image.xinu.ink/pic/data/159/images/guhxh6o-1783682976674.webp",
+    "geo": [
+      34.177309,
+      132.866095
+    ],
+    "ep": 6
+  },
+  {
+    "id": "guhz3tj",
+    "name": "のどか亭（御手洗七卿落遺跡）",
+    "image": "https://image.xinu.ink/pic/data/159/images/guhz3tj-1783683052176.webp",
+    "geo": [
+      34.179918,
+      132.868164
+    ],
+    "ep": 4
+  },
+  {
+    "id": "gui0k81",
+    "name": "新光時計店",
+    "image": "https://image.xinu.ink/pic/data/159/images/gui0k81-1783683128635.webp",
+    "geo": [
+      34.179405,
+      132.867124
+    ],
+    "ep": 4
+  },
+  {
+    "id": "gui1ntx",
+    "name": "乙女座外観",
+    "image": "https://image.xinu.ink/pic/data/159/images/gui1ntx-1783683175328.webp",
+    "geo": [
+      34.179592,
+      132.867473
+    ],
+    "ep": 4
+  },
+  {
+    "id": "gui2ecm",
+    "name": " 乙女座",
+    "image": "https://image.xinu.ink/pic/data/159/images/gui2ecm-1783683207313.webp",
+    "geo": [
+      34.179745,
+      132.867391
+    ],
+    "ep": 11
+  },
+  {
+    "id": "gui3d8m",
+    "name": "竹原港",
+    "image": "https://image.xinu.ink/pic/data/159/images/gui3d8m-1783683255190.webp",
+    "geo": [
+      34.33199,
+      132.916697
+    ],
+    "ep": 3,
+    "mark": "高速船已停运"
+  },
+  {
+    "id": "gui5eah",
+    "name": "竹原駅ホーム",
+    "image": "https://image.xinu.ink/pic/data/159/images/gui5eah-1783683422298.webp",
+    "geo": [
+      34.339312,
+      132.910022
+    ],
+    "ep": 5
+  },
+  {
+    "id": "gui5paa",
+    "name": "竹原駅ホーム",
+    "image": "https://image.xinu.ink/pic/data/159/images/gui5paa-1783683431114.webp",
+    "geo": [
+      34.339371,
+      132.910401
+    ],
+    "ep": 1
+  },
+  {
+    "id": "gui91oy",
+    "name": "杏竹館",
+    "image": "https://image.xinu.ink/pic/data/159/images/gui91oy-1783683527175.webp",
+    "geo": [
+      34.342837,
+      132.910575
+    ],
+    "ep": 2
+  },
+  {
+    "id": "guia49q",
+    "name": "ももねこ様神社",
+    "image": "https://image.xinu.ink/pic/data/159/images/guia49q-1783683565329.webp",
+    "geo": [
+      34.340958,
+      132.910452
+    ],
+    "ep": 5
+  },
+  {
+    "id": "guic64n",
+    "name": " 道の駅前",
+    "image": "https://image.xinu.ink/pic/data/159/images/guic64n-1783683658570.webp",
+    "geo": [
+      34.343256,
+      132.912438
+    ],
+    "ep": 5
+  },
+  {
+    "id": "guif969",
+    "name": "野外劇場",
+    "image": "https://image.xinu.ink/pic/data/159/images/guif969-1783683801241.webp",
+    "geo": [
+      34.337604,
+      132.931847
+    ],
+    "ep": 4
+  },
+  {
+    "id": "guiggdg",
+    "name": "憩いの広場",
+    "image": "https://image.xinu.ink/pic/data/159/images/guiggdg-1783683863658.webp",
+    "geo": [
+      34.336784,
+      132.928526
+    ],
+    "ep": 8
+  },
+  {
+    "id": "guih622",
+    "name": "呉線沿い(バンブー・ジョイ・ハイランド)",
+    "image": "https://image.xinu.ink/pic/data/159/images/guih622-1783683901022.webp",
+    "geo": [
+      34.33996,
+      132.928495
+    ],
+    "ep": 4
   }
 ]
