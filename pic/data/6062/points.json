@@ -193,5 +193,30 @@
     "ep": 1,
     "s": 1339,
     "folder": "大津港SYMBOL绿地公园"
+  },
+  {
+    "id": "gt9wos1",
+    "name": "湖岸",
+    "image": "https://image.xinu.ink/pic/data/6062/images/gt9wos1_1783609077047.webp",
+    "geo": [
+      34.991532,
+      135.895657
+    ],
+    "ep": 1,
+    "s": 1304,
+    "mark": "远处的圆筒形建筑是膳所浄水場。",
+    "folder": "湖岸"
+  },
+  {
+    "id": "gt9zwe1",
+    "name": "湖岸",
+    "image": "https://image.xinu.ink/pic/data/6062/images/gt9zwe1_1783609182025.webp",
+    "geo": [
+      34.991542,
+      135.89568
+    ],
+    "ep": 1,
+    "s": 1307,
+    "folder": "湖岸"
   }
 ]
