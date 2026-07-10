@@ -1,130 +1,36 @@
-name: Remove Origin Arrays
-
+name: Deploy index.json Static Asset to index-cdn Worker
 on:
-  # Run every 5 days
-  schedule:
-    - cron: '0 0 */5 * *'
-  # Allow manual triggering
+  push:
+    branches: [ main ]
+    paths:
+      - index.json
   workflow_dispatch:
 
 jobs:
-  remove-origin-arrays:
+  deploy:
     runs-on: ubuntu-latest
-    outputs:
-      changes_pushed: ${{ steps.commit_changes.outputs.changes_pushed }}
-
     steps:
-      - name: Check for running workflows
-        id: check_workflows
-        uses: actions/github-script@v6
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const owner = context.repo.owner;
-            const repo = context.repo.repo;
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-            // Get all running workflows
-            const runningWorkflows = await github.rest.actions.listWorkflowRunsForRepo({
-              owner,
-              repo,
-              status: 'in_progress'
-            });
+      - name: Install wrangler latest
+        run: npm install -g wrangler@latest
 
-            // Filter out the current workflow
-            const otherRunningWorkflows = runningWorkflows.data.workflow_runs.filter(
-              run => run.id !== context.runId
-            );
+      - name: Generate minimal worker script
+        run: echo 'export default {async fetch(req, env){return env.ASSETS.fetch(req);}};' > worker-index.js
 
-            if (otherRunningWorkflows.length > 0) {
-              console.log('Other workflows are currently running. Cancelling this workflow.');
-              core.setFailed('Other workflows are currently running. Please try again later.');
-              return false;
-            }
-
-            console.log('No other workflows are running. Proceeding with execution.');
-            return true;
-
-      - name: Free disk space
-        if: steps.check_workflows.outputs.result == 'true'
+      - name: Create static folder and copy json
         run: |
-          sudo swapoff -a && sudo rm -f /mnt/swapfile
-          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /usr/local/.ghcup
-          sudo rm -rf /usr/share/swift /usr/local/share/powershell /usr/local/share/boost
-          sudo rm -rf /usr/local/share/chromium /usr/share/miniconda /opt/microsoft /usr/local/graalvm
-          sudo rm -rf /opt/hostedtoolcache/CodeQL /opt/hostedtoolcache/go /opt/hostedtoolcache/node
-          sudo rm -rf /opt/hostedtoolcache/Ruby /opt/hostedtoolcache/PyPy
-          sudo rm -rf /opt/az /opt/google /usr/local/sqlpackage
-          sudo rm -rf /usr/share/kotlinc /usr/share/gradle-* /usr/share/sbt /usr/share/ri
-          sudo rm -rf /usr/local/n /usr/local/julia* /usr/share/az_diag /usr/share/az_*
-          sudo rm -rf /home/linuxbrew /usr/local/.rustup /usr/local/.cargo /usr/local/share/vcpkg
-          sudo rm -rf /usr/local/share/edge_driver /usr/local/share/gecko_driver /usr/local/share/chromedriver-linux64
-          sudo rm -rf /usr/local/lib/heroku /opt/pipx /snap
-          sudo rm -rf /usr/share/doc/* /usr/share/man/* /var/lib/apt/lists/* /var/cache/debconf
-          sudo snap remove --purge lxd 2>/dev/null || true
-          sudo snap remove --purge core20 2>/dev/null || true
-          sudo snap remove --purge snapd 2>/dev/null || true
-          docker image prune --all --force || true
-          sudo apt-get remove -y '^dotnet-.*' '^llvm-.*' '^clang-.*' 'php.*' '^mongodb-.*' '^mysql-.*' azure-cli firefox microsoft-edge-stable powershell mono-devel apache2 nginx mercurial xvfb --fix-missing 2>/dev/null || true
-          sudo apt-get autoremove -y 2>/dev/null || true
-          sudo apt-get clean
-          rm -rf ~/.cache/pip ~/.npm ~/.cache/yarn ~/.gradle/caches ~/.m2/repository
+          mkdir -p static
+          cp index.json static/index.json
 
-      - name: Checkout repository
-        if: steps.check_workflows.outputs.result == 'true'
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0  # Fetch all history for proper git operations
-          token: ${{ secrets.PAT }}  # 使用个人访问令牌进行身份验证
-
-      - name: Set up Python
-        if: steps.check_workflows.outputs.result == 'true'
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-
-      - name: Install dependencies
-        if: steps.check_workflows.outputs.result == 'true'
+      - name: Deploy Worker index-cdn
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
         run: |
-          python -m pip install --upgrade pip
-          pip install requests
-
-      - name: Configure Git
-        if: steps.check_workflows.outputs.result == 'true'
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-
-      - name: Commit and push changes
-        if: steps.check_workflows.outputs.result == 'true'
-        id: commit_changes
-        run: |
-          # Check if there are any changes
-          if [[ -n $(git status --porcelain) ]]; then
-            git add -A
-            git commit -m "移除索引文件中的origin和originURL数组: $(date +'%Y-%m-%d')"
-            # 使用个人访问令牌进行推送，确保有足够的权限
-            git push https://${{ secrets.PAT }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
-            echo "changes_pushed=true" >> $GITHUB_OUTPUT
-          else
-            echo "没有需要提交的更改"
-            echo "changes_pushed=false" >> $GITHUB_OUTPUT
-          fi
-
-  # Trigger mirror sync after removing origin arrays
-  trigger-mirror-sync:
-    needs: remove-origin-arrays
-    runs-on: ubuntu-latest
-    if: ${{ needs.remove-origin-arrays.outputs.changes_pushed == 'true' }}  # Only run if changes were pushed
-
-    steps:
-      - name: Trigger mirror sync workflow
-        uses: actions/github-script@v6
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            await github.rest.actions.createWorkflowDispatch({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              workflow_id: 'sync_mirror_repositories.yml',
-              ref: 'main'  # or your default branch
-            })
+          wrangler deploy \
+            --name index-cdn \
+            --compatibility-date 2026-07-01 \
+            --assets static \
+            worker-index.js
