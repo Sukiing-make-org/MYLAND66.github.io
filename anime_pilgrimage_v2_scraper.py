@@ -117,6 +117,7 @@ class AnimePilgrimageV2Scraper:
         self._img_session.headers.update({
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
             "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Referer": "https://www.animepilgrimage.com/",
         })
 
     def _get_selenium_driver(self):
@@ -316,9 +317,9 @@ class AnimePilgrimageV2Scraper:
             # Unescape the RSC payload (double-escaped JSON)
             u = payload.replace('\\"', '"').replace('\\\\', '\\')
 
-            # Find all geo entries
+            # Find all geo entries (match both old format with @type and new format without)
             geo_iter = re.finditer(
-                r'"geo"\s*:\s*\{"latitude"\s*:\s*(-?\d+\.?\d*)\s*,\s*"longitude"\s*:\s*(-?\d+\.?\d*)\}',
+                r'"geo"\s*:\s*\{(?:"@type"\s*:\s*"GeoCoordinates"\s*,\s*)?"latitude"\s*:\s*(-?\d+\.?\d*)\s*,\s*"longitude"\s*:\s*(-?\d+\.?\d*)\}',
                 u
             )
 
@@ -393,7 +394,7 @@ class AnimePilgrimageV2Scraper:
         """Fallback: extract geo data directly from raw HTML."""
         places = []
         for m in re.finditer(
-            r'"geo"\s*:\s*\{"latitude"\s*:\s*(-?\d+\.?\d*)\s*,\s*"longitude"\s*:\s*(-?\d+\.?\d*)\}',
+            r'"geo"\s*:\s*\{(?:"@type"\s*:\s*"GeoCoordinates"\s*,\s*)?"latitude"\s*:\s*(-?\d+\.?\d*)\s*,\s*"longitude"\s*:\s*(-?\d+\.?\d*)\}',
             html
         ):
             lat = float(m.group(1))
@@ -871,14 +872,15 @@ class AnimePilgrimageV2Scraper:
         return False
 
     def fix_invalid_episodes(self):
-        """Scan all points.json files and clear ep values that match TRAILER/PV/CM/OTHERS patterns.
+        """Scan all points.json files and clear ep values that match TRAILER/OTHERS patterns.
 
+        PV, CM, OP, ED are valid video types and will NOT be cleared.
         This corrects data saved by the old scraper before the TRAILER filtering was added.
 
         Returns:
             int: Total number of ep values corrected
         """
-        self.logger.info("Scanning for invalid episode types (TRAILER/PV/CM/OTHERS)...")
+        self.logger.info("Scanning for invalid episode types (TRAILER/OTHERS)...")
 
         fixed_total = 0
 
@@ -919,6 +921,88 @@ class AnimePilgrimageV2Scraper:
 
         self.logger.info(f"Fixed {fixed_total} invalid episode values")
         return fixed_total
+
+    # ── Fix missing covers ──────────────────────────────────────
+
+    def fix_missing_covers(self, max_fix=0):
+        """Fix covers for anime from animepilgrimage.com that are missing 1.jpg.
+
+        Only checks anime in pa_anime_id.txt. Only fixes when images/1.jpg does not exist.
+
+        Args:
+            max_fix: Max number of covers to fix (0 = unlimited)
+
+        Returns:
+            int: Number of covers fixed
+        """
+        self.logger.info("Scanning for missing covers (animepilgrimage mapped only)...")
+
+        anime_id_map = self._load_anime_id_map()
+        if not anime_id_map:
+            self.logger.info("No anime in pa_anime_id.txt, nothing to fix")
+            return 0
+
+        fixed = 0
+        for local_id, anime_id in anime_id_map.items():
+            folder = self.base_dir / str(local_id)
+            if not folder.is_dir():
+                continue
+
+            cover_path = folder / "images" / "1.jpg"
+
+            # Skip if 1.jpg already exists
+            if cover_path.exists():
+                continue
+
+            info_path = folder / "info.json"
+            anime_title = ""
+            if info_path.exists():
+                with open(info_path, "r", encoding="utf-8") as f:
+                    anime_title = json.load(f).get("title", "")
+
+            self.logger.info(f"  ID {local_id}: missing 1.jpg for '{anime_title}' (anime_id={anime_id})")
+
+            # Download cover from CDN
+            images_folder = folder / "images"
+            images_folder.mkdir(parents=True, exist_ok=True)
+            new_cover = ""
+            for ext in [".webp", ".jpg", ".jpeg", ".png", ".avif", ""]:
+                cdn_url = f"{CDN_BASE}/anime/{anime_id}{ext}"
+                if self._download_image(cdn_url, cover_path):
+                    new_cover = f"{IMG_BASE}/{local_id}/images/1.jpg"
+                    self.logger.info(f"    Downloaded: {cdn_url}")
+                    break
+
+            if new_cover:
+                # Update info.json
+                if info_path.exists():
+                    with open(info_path, "r", encoding="utf-8") as f:
+                        info_data = json.load(f)
+                    info_data["cover"] = new_cover
+                    with open(info_path, "w", encoding="utf-8") as f:
+                        json.dump(info_data, f, ensure_ascii=False, indent=2)
+
+                # Update index.json
+                for idx_path in [self.base_dir / "index.json", Path("index.json")]:
+                    if idx_path.exists():
+                        with open(idx_path, "r", encoding="utf-8") as f:
+                            idx = json.load(f)
+                        if local_id in idx:
+                            idx[local_id]["cover"] = new_cover
+                            with open(idx_path, "w", encoding="utf-8") as f:
+                                json.dump(idx, f, ensure_ascii=False, indent=2)
+
+                fixed += 1
+            else:
+                self.logger.warning(f"    Failed to download cover from CDN")
+
+            if max_fix > 0 and fixed >= max_fix:
+                break
+
+            time.sleep(1)
+
+        self.logger.info(f"Fixed {fixed} missing covers")
+        return fixed
 
     # ── Fix logo covers ─────────────────────────────────────────
 
@@ -1562,10 +1646,7 @@ class AnimePilgrimageV2Scraper:
     def _download_image(self, url, save_path, retries=3):
         for attempt in range(retries):
             try:
-                headers = {}
-                if "posts/" in url or "/posts/" in url:
-                    headers["Referer"] = "https://www.animepilgrimage.com/"
-                resp = self._img_session.get(url, timeout=20, headers=headers)
+                resp = self._img_session.get(url, timeout=20)
                 if resp.status_code == 200 and len(resp.content) > 500:
                     # Check if this is the logo
                     file_hash = hashlib.md5(resp.content).hexdigest()
@@ -1680,9 +1761,12 @@ class AnimePilgrimageV2Scraper:
             # Fix zero coordinates and logo covers if requested
             fixed_count = 0
             fixed_covers = 0
+            fixed_missing_covers = 0
             backfilled_count = 0
             fixed_episodes = 0
             if fix_coords:
+                self.logger.info("\n--- Fixing missing covers ---")
+                fixed_missing_covers = self.fix_missing_covers()
                 self.logger.info("\n--- Fixing logo covers ---")
                 fixed_covers = self.fix_logo_covers()
                 self.logger.info("\n--- Fixing zero-coordinate points ---")
@@ -1699,7 +1783,7 @@ class AnimePilgrimageV2Scraper:
                 "new_anime": new_anime,
                 "updated_anime": updated_anime,
                 "fixed_coords": fixed_count,
-                "fixed_covers": fixed_covers,
+                "fixed_covers": fixed_covers + fixed_missing_covers,
                 "fixed_episodes": fixed_episodes,
                 "backfilled_images": backfilled_count,
                 "total_scraped": len(results),
@@ -1726,7 +1810,9 @@ def main():
     parser.add_argument("--only-backfill", action="store_true", default=False,
                         help="Only backfill missing images, skip scraping")
     parser.add_argument("--only-fix-episodes", action="store_true", default=False,
-                        help="Only fix invalid episode types (TRAILER/PV/CM)")
+                        help="Only fix invalid episode types (TRAILER/OTHERS)")
+    parser.add_argument("--only-fix-covers", action="store_true", default=False,
+                        help="Only fix missing covers by matching names and downloading from CDN")
     parser.add_argument("--use-selenium", action="store_true", default=False,
                         help="Use Selenium for fetching pages (handles Cloudflare)")
     args = parser.parse_args()
@@ -1749,6 +1835,11 @@ def main():
     if args.only_fix_episodes:
         fixed = scraper.fix_invalid_episodes()
         print(f"\nFixed {fixed} invalid episode values.")
+        sys.exit(0 if fixed >= 0 else 1)
+
+    if args.only_fix_covers:
+        fixed = scraper.fix_missing_covers()
+        print(f"\nFixed {fixed} missing covers.")
         sys.exit(0 if fixed >= 0 else 1)
 
     result = scraper.run(
