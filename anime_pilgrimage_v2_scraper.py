@@ -201,13 +201,14 @@ class AnimePilgrimageV2Scraper:
         s = s.replace('\\n', '\n').replace('\\t', '\t')
         return s
 
-    def _extract_places_from_html(self, html):
+    def _extract_places_from_html(self, html, anime_id=""):
         """Extract all place/marker objects from the HTML page.
 
         Tries multiple data sources in order:
         1. JSON-LD structured data (Schema.org TouristAttraction + GeoCoordinates)
         2. RSC __next_f.push() payloads with geo data
         3. Raw regex on the full HTML for geo patterns
+        4. API fallback for user-uploaded posts
 
         Returns a list of dicts with: name_ja, name_en, lat, lng, ep, type, image, etc.
         """
@@ -244,6 +245,17 @@ class AnimePilgrimageV2Scraper:
                     places.append(p)
             if raw_places:
                 self.logger.info(f"  Raw HTML: {len(raw_places)} places")
+
+        # ── Strategy 4: API fallback for user-uploaded posts ─────
+        if anime_id:
+            api_places = self._fetch_posts_from_api(anime_id)
+            for p in api_places:
+                key = (round(p["lat"], 5), round(p["lng"], 5))
+                if key not in seen_coords:
+                    seen_coords.add(key)
+                    places.append(p)
+            if api_places:
+                self.logger.info(f"  API: {len(api_places)} user-uploaded places ({len(places)} total unique)")
 
         self.logger.info(f"Total extracted: {len(places)} places")
         return places
@@ -433,6 +445,72 @@ class AnimePilgrimageV2Scraper:
                 "scene_timestamp_sec": "",
             })
         return places
+
+    def _fetch_posts_from_api(self, anime_id):
+        """Fetch user-uploaded posts from the animepilgrimage API.
+
+        Args:
+            anime_id: The anime ID on animepilgrimage.com
+
+        Returns:
+            list of dicts with place data, or empty list on failure
+        """
+        if not anime_id:
+            return []
+        api_url = f"https://api.animepilgrimage.com/posts/anime/{anime_id}"
+        try:
+            resp = self.session.get(api_url, timeout=15)
+            if resp.status_code != 200:
+                self.logger.debug(f"Posts API returned {resp.status_code} for {anime_id}")
+                return []
+            posts = resp.json()
+            if not isinstance(posts, list):
+                return []
+            places = []
+            for post in posts:
+                geo = post.get("geo", {})
+                lat = float(geo.get("latitude", 0) or geo.get("_latitude", 0) or 0)
+                lng = float(geo.get("longitude", 0) or geo.get("_longitude", 0) or 0)
+                if lat == 0 and lng == 0:
+                    continue
+                name = post.get("name", "") or ""
+                image = post.get("image", "") or ""
+                ep = post.get("ep", None)
+                ep_str = str(ep) if ep is not None else ""
+                ep_type = post.get("type", "") or ""
+                places.append({
+                    "place_id": post.get("id", "") or post.get("postId", ""),
+                    "name_ja": name,
+                    "name_en": name,
+                    "lat": lat,
+                    "lng": lng,
+                    "ep": ep_str,
+                    "type": ep_type,
+                    "image": image,
+                    "title_ja": "",
+                    "title_en": "",
+                    "anime_id": post.get("animeId", ""),
+                    "anime_slug": post.get("animeSlug", ""),
+                    "street_view_url": "",
+                    "scene_timestamp_sec": str(post.get("sceneTimestampSec", "")) if post.get("sceneTimestampSec") else "",
+                    "is_post": True,
+                    "user_id": post.get("userId", ""),
+                })
+            if places:
+                self.logger.info(f"  Posts API: {len(places)} user-uploaded places")
+            return places
+        except Exception as e:
+            self.logger.debug(f"Posts API error for {anime_id}: {e}")
+            return []
+
+    def _is_invalid_episode_type(self, ep_type):
+        """Check if the type is a non-episode type (trailer, etc.) that should not have an episode number.
+
+        Returns True for TRAILER and OTHERS types.
+        PV, CM, OP, ED, etc. are valid and should be kept.
+        """
+        invalid_types = {"TRAILER", "OTHERS"}
+        return (ep_type or "").upper() in invalid_types
 
     # ── Anime list scraping ───────────────────────────────────────
 
@@ -633,7 +711,8 @@ class AnimePilgrimageV2Scraper:
             return None
 
         # Extract places from RSC payloads
-        places = self._extract_places_from_html(html)
+        anime_id = anime_info.get("anime_id", "")
+        places = self._extract_places_from_html(html, anime_id=anime_id)
         if not places:
             self.logger.warning(f"No places found for {anime_info['title']}")
             return None
@@ -681,7 +760,10 @@ class AnimePilgrimageV2Scraper:
             # Build episode string
             ep_str = place["ep"] or ""
             if place["type"] and place["type"] != "EP":
-                ep_str = place["type"] + (ep_str if ep_str else "")
+                if self._is_invalid_episode_type(place["type"]):
+                    ep_str = ""
+                else:
+                    ep_str = place["type"] + (ep_str if ep_str else "")
 
             point = {
                 "id": f"{local_folder_id}-{i}",
@@ -767,6 +849,77 @@ class AnimePilgrimageV2Scraper:
 
     # ── Fix zero-coordinate points ────────────────────────────────
 
+    # ── Fix invalid episode types ────────────────────────────────
+
+    def _is_ep_invalid(self, ep_str):
+        """Check if an ep string contains a TRAILER/OTHERS prefix that should be cleared.
+
+        Matches patterns like: TRAILER1, TRAILER, OTHERS, etc.
+        PV, CM, OP, ED are valid and should NOT be cleared.
+        """
+        if not ep_str:
+            return False
+        ep_str = str(ep_str)
+        ep_upper = ep_str.strip().upper()
+        # Direct match
+        if ep_upper in {"TRAILER", "OTHERS"}:
+            return True
+        # Prefix match: TRAILER1, TRAILER2, etc.
+        for prefix in ["TRAILER", "OTHERS"]:
+            if ep_upper.startswith(prefix) and (len(ep_upper) == len(prefix) or ep_upper[len(prefix):].isdigit()):
+                return True
+        return False
+
+    def fix_invalid_episodes(self):
+        """Scan all points.json files and clear ep values that match TRAILER/PV/CM/OTHERS patterns.
+
+        This corrects data saved by the old scraper before the TRAILER filtering was added.
+
+        Returns:
+            int: Total number of ep values corrected
+        """
+        self.logger.info("Scanning for invalid episode types (TRAILER/PV/CM/OTHERS)...")
+
+        fixed_total = 0
+
+        for folder in sorted(self.base_dir.glob("*")):
+            if not folder.is_dir() or not folder.name.isdigit():
+                continue
+            local_id = folder.name
+            points_path = folder / "points.json"
+            if not points_path.exists():
+                continue
+
+            with open(points_path, "r", encoding="utf-8") as f:
+                pts_data = json.load(f)
+            existing_points = pts_data if isinstance(pts_data, list) else pts_data.get("points", [])
+
+            changed = False
+            for pt in existing_points:
+                ep = pt.get("ep", "")
+                if ep and self._is_ep_invalid(ep):
+                    self.logger.info(f"  ID {local_id}: clearing invalid ep \"{ep}\" for point \"{pt.get('name', '?')}\"")
+                    pt["ep"] = ""
+                    changed = True
+                    fixed_total += 1
+
+            if changed:
+                with open(points_path, "w", encoding="utf-8") as f:
+                    json.dump({"points": existing_points}, f, ensure_ascii=False, indent=2)
+
+                # Update index.json
+                for idx_path in [self.base_dir / "index.json", Path("index.json")]:
+                    if idx_path.exists():
+                        with open(idx_path, "r", encoding="utf-8") as f:
+                            idx = json.load(f)
+                        if local_id in idx:
+                            idx[local_id]["points"] = existing_points
+                            with open(idx_path, "w", encoding="utf-8") as f:
+                                json.dump(idx, f, ensure_ascii=False, indent=2)
+
+        self.logger.info(f"Fixed {fixed_total} invalid episode values")
+        return fixed_total
+
     # ── Fix logo covers ─────────────────────────────────────────
 
     def fix_logo_covers(self):
@@ -835,6 +988,159 @@ class AnimePilgrimageV2Scraper:
 
         self.logger.info(f"Fixed {fixed} logo covers")
         return fixed
+
+    def backfill_missing_images(self, max_fix=0):
+        """Scan database for points with missing images and try to download them.
+
+        For each anime with missing images:
+        1. Fetch the anime page from animepilgrimage.com
+        2. Extract image URLs from RSC payloads and API
+        3. Match points by coordinates and download missing images
+
+        Args:
+            max_fix: Max number of anime to fix (0 = unlimited)
+
+        Returns:
+            int: Total number of images fixed
+        """
+        self.logger.info("Scanning for points with missing images...")
+
+        anime_id_map = self._load_anime_id_map()
+        fixed_total = 0
+        anime_fixed = 0
+
+        for folder in sorted(self.base_dir.glob("*")):
+            if not folder.is_dir() or not folder.name.isdigit():
+                continue
+            local_id = folder.name
+            points_path = folder / "points.json"
+            if not points_path.exists():
+                continue
+
+            with open(points_path, "r", encoding="utf-8") as f:
+                pts_data = json.load(f)
+            existing_points = pts_data if isinstance(pts_data, list) else pts_data.get("points", [])
+
+            # Find points with missing images
+            missing_indices = [
+                i for i, pt in enumerate(existing_points)
+                if not pt.get("image")
+            ]
+            if not missing_indices:
+                continue
+
+            # Get anime_id from pa_anime_id.txt
+            anime_id = anime_id_map.get(local_id, "")
+            if not anime_id:
+                self.logger.info(f"  ID {local_id}: {len(missing_indices)} missing images, but no anime_id")
+                continue
+
+            self.logger.info(f"  ID {local_id}: {len(missing_indices)} missing images (anime_id={anime_id})")
+
+            # Fetch the anime page
+            url = f"https://www.animepilgrimage.com/ja/maps/anime/{anime_id}"
+            html = self._get(url)
+            if not html:
+                self.logger.warning(f"    Failed to fetch {url}")
+                continue
+
+            # Try to get the slug from pa_anime_id.txt or sitemap
+            slug = ""
+            slug_match = re.search(rf'/{anime_id}/([a-z0-9-]+)', html)
+            if slug_match:
+                slug = slug_match.group(1)
+                url = f"https://www.animepilgrimage.com/ja/maps/anime/{anime_id}/{slug}"
+                if url != f"https://www.animepilgrimage.com/ja/maps/anime/{anime_id}":
+                    html = self._get(url)
+
+            places = self._extract_places_from_html(html, anime_id=anime_id)
+            if not places:
+                self.logger.warning(f"    No places found on website")
+                continue
+
+            # Match existing points to website places by coordinates
+            images_folder = folder / "images"
+            fixed_count = 0
+
+            for idx in missing_indices:
+                pt = existing_points[idx]
+                geo = pt.get("geo", [])
+                if len(geo) != 2:
+                    continue
+
+                # Find matching place by coordinates (rounded to 4 decimals)
+                best_match = None
+                for place in places:
+                    if (round(place["lat"], 4) == round(geo[0], 4) and
+                            round(place["lng"], 4) == round(geo[1], 4)):
+                        best_match = place
+                        break
+
+                # Fallback: match by name
+                if not best_match:
+                    pt_name = pt.get("name", "")
+                    for place in places:
+                        place_name = place.get("name_ja", "") or place.get("name_en", "")
+                        if pt_name and place_name and (pt_name == place_name or
+                                pt_name in place_name or place_name in pt_name):
+                            best_match = place
+                            break
+
+                if not best_match or not best_match.get("image"):
+                    continue
+
+                # Download image
+                cdn_url = f"{CDN_BASE}/{best_match['image']}"
+                img_filename = f"{local_id}-{idx+1}.jpg"
+                img_path = images_folder / img_filename
+                if self._download_image(cdn_url, img_path):
+                    img_url = f"{IMG_BASE}/{local_id}/images/{img_filename}"
+                    existing_points[idx]["image"] = img_url
+                    fixed_count += 1
+                    self.logger.info(f"    Fixed image for point '{pt.get('name', idx)}'")
+
+            if fixed_count > 0:
+                # Save updated points
+                with open(points_path, "w", encoding="utf-8") as f:
+                    json.dump({"points": existing_points}, f, ensure_ascii=False, indent=2)
+
+                # Update info.json
+                info_path = folder / "info.json"
+                if info_path.exists():
+                    with open(info_path, "r", encoding="utf-8") as f:
+                        info_data = json.load(f)
+                    # Update cover if missing
+                    if not info_data.get("cover") or "og-default" in info_data.get("cover", ""):
+                        cover_path = images_folder / "1.jpg"
+                        for ext in [".webp", ".jpg", ".jpeg", ".png", ".avif", ""]:
+                            cdn_cover = f"{CDN_BASE}/anime/{anime_id}{ext}"
+                            if self._download_image(cdn_cover, cover_path):
+                                info_data["cover"] = f"{IMG_BASE}/{local_id}/images/1.jpg"
+                                self.logger.info(f"    Fixed cover: {cdn_cover}")
+                                break
+                    with open(info_path, "w", encoding="utf-8") as f:
+                        json.dump(info_data, f, ensure_ascii=False, indent=2)
+
+                # Update index.json
+                index_path = self.base_dir / "index.json"
+                if index_path.exists():
+                    with open(index_path, "r", encoding="utf-8") as f:
+                        index_data = json.load(f)
+                    if local_id in index_data:
+                        index_data[local_id]["points"] = existing_points
+                        with open(index_path, "w", encoding="utf-8") as f:
+                            json.dump(index_data, f, ensure_ascii=False, indent=2)
+
+                fixed_total += fixed_count
+                anime_fixed += 1
+
+            time.sleep(2)
+
+            if max_fix > 0 and anime_fixed >= max_fix:
+                break
+
+        self.logger.info(f"Backfilled {fixed_total} images across {anime_fixed} anime")
+        return fixed_total
 
     def fix_zero_coordinate_points(self, max_fix=0):
         """Scan database for [0,0] points and re-scrape them from the new site."""
@@ -913,7 +1219,7 @@ class AnimePilgrimageV2Scraper:
                 if not detail_html:
                     continue
 
-                places = self._extract_places_from_html(detail_html)
+                places = self._extract_places_from_html(detail_html, anime_id=matched.get("anime_id", ""))
                 if not places:
                     self.logger.warning(f"  No places found for {anime_name}")
                     continue
@@ -1099,7 +1405,7 @@ class AnimePilgrimageV2Scraper:
             self.logger.error(f"  Failed to fetch {anime_info['url']}")
             return None
 
-        places = self._extract_places_from_html(html)
+        places = self._extract_places_from_html(html, anime_id=anime_id)
         if not places:
             self.logger.info(f"  No places found on website")
             return None
@@ -1109,6 +1415,51 @@ class AnimePilgrimageV2Scraper:
         next_idx = len(existing_points) + 1
         images_folder = folder_path / "images"
 
+        # Build lookup: website places by coordinates for correction
+        places_by_coord = {}
+        for place in places:
+            coord_key = (round(place["lat"], 5), round(place["lng"], 5))
+            places_by_coord[coord_key] = place
+
+        # First pass: correct existing points' ep and missing images
+        corrected_count = 0
+        for i, pt in enumerate(existing_points):
+            geo = pt.get("geo", [])
+            if len(geo) != 2:
+                continue
+            coord_key = (round(geo[0], 5), round(geo[1], 5))
+            matched_place = places_by_coord.get(coord_key)
+            if not matched_place:
+                continue
+
+            # Correct invalid ep values (TRAILER/PV/CM/OTHERS)
+            old_ep = pt.get("ep", "")
+            need_fix_ep = False
+            if old_ep and self._is_ep_invalid(old_ep):
+                need_fix_ep = True
+            # Also fix if website shows invalid type but local has non-empty ep
+            elif old_ep and matched_place.get("type") and self._is_invalid_episode_type(matched_place["type"]):
+                need_fix_ep = True
+
+            if need_fix_ep:
+                existing_points[i]["ep"] = ""
+                self.logger.info(f"  Corrected ep \"{old_ep}\" -> \"\" for point \"{pt.get('name', '?')}\"")
+                corrected_count += 1
+
+            # Re-download missing images
+            if not pt.get("image") and matched_place.get("image"):
+                cdn_url = f"{CDN_BASE}/{matched_place['image']}"
+                img_filename = f"{local_id}-{i+1}.jpg"
+                img_path = images_folder / img_filename
+                if self._download_image(cdn_url, img_path):
+                    existing_points[i]["image"] = f"{IMG_BASE}/{local_id}/images/{img_filename}"
+                    self.logger.info(f"  Downloaded missing image for point \"{pt.get('name', '?')}\"")
+                    corrected_count += 1
+
+        if corrected_count > 0:
+            self.logger.info(f"  Corrected {corrected_count} existing point issues")
+
+        # Second pass: find new points (not in existing set)
         for place in places:
             coord_key = (round(place["lat"], 5), round(place["lng"], 5))
             if coord_key in existing_coords:
@@ -1135,7 +1486,10 @@ class AnimePilgrimageV2Scraper:
 
             ep_str = place["ep"] or ""
             if place["type"] and place["type"] != "EP":
-                ep_str = place["type"] + (ep_str if ep_str else "")
+                if self._is_invalid_episode_type(place["type"]):
+                    ep_str = ""
+                else:
+                    ep_str = place["type"] + (ep_str if ep_str else "")
 
             new_point = {
                 "id": f"{local_id}-{next_idx}",
@@ -1148,13 +1502,14 @@ class AnimePilgrimageV2Scraper:
             existing_coords.add(coord_key)
             next_idx += 1
 
-        if not new_points:
-            self.logger.info(f"  No new points found")
+        if not new_points and corrected_count == 0:
+            self.logger.info(f"  No new points or corrections needed")
             return None
 
-        self.logger.info(f"  Found {len(new_points)} new points!")
+        if new_points:
+            self.logger.info(f"  Found {len(new_points)} new points!")
 
-        # Merge and save
+        # Merge and save (corrected existing_points + new points)
         all_points = existing_points + new_points
         with open(points_path, "w", encoding="utf-8") as f:
             json.dump({"points": all_points}, f, ensure_ascii=False, indent=2)
@@ -1201,12 +1556,16 @@ class AnimePilgrimageV2Scraper:
             "local_id": local_id,
             "anime_data": anime_data,
             "new_points_count": len(new_points),
+            "corrected_count": corrected_count,
         }
 
     def _download_image(self, url, save_path, retries=3):
         for attempt in range(retries):
             try:
-                resp = self._img_session.get(url, timeout=20)
+                headers = {}
+                if "posts/" in url or "/posts/" in url:
+                    headers["Referer"] = "https://www.animepilgrimage.com/"
+                resp = self._img_session.get(url, timeout=20, headers=headers)
                 if resp.status_code == 200 and len(resp.content) > 500:
                     # Check if this is the logo
                     file_hash = hashlib.md5(resp.content).hexdigest()
@@ -1226,18 +1585,19 @@ class AnimePilgrimageV2Scraper:
                 if attempt < retries - 1:
                     time.sleep(3 * (attempt + 1))
                 else:
-                    self.logger.warning(f"Image download failed after {retries} attempts: {url} ({e})")
+                    self.logger.warning(f"Image download failed after {retries} attempts: {url} ({e}")
         return False
 
     # ── Main run ──────────────────────────────────────────────────
 
-    def run(self, auto_mode=True, max_anime=5, fix_coords=False):
+    def run(self, auto_mode=True, max_anime=5, fix_coords=False, backfill_images=False):
         """Main entry point.
 
         Args:
             auto_mode: Always True for V2 (no manual mode)
             max_anime: Max anime to scrape
             fix_coords: Also fix existing zero-coordinate points
+            backfill_images: Also backfill missing images
 
         Returns:
             dict with results, or False on error
@@ -1279,13 +1639,21 @@ class AnimePilgrimageV2Scraper:
                     self.logger.info(f"  Already exists (ID {existing_local_id}), checking for updates...")
                     update_result = self.update_existing_anime(anime_info, existing_local_id)
                     if update_result:
+                        new_pts = update_result.get("new_points_count", 0)
+                        corrected = update_result.get("corrected_count", 0)
                         updated_anime.append({
                             "name": anime_info["title"],
                             "id": existing_local_id,
-                            "new_points": update_result["new_points_count"],
+                            "new_points": new_pts,
+                            "corrected": corrected,
                         })
                         results.append(update_result)
-                        self.logger.info(f"  ✅ Added {update_result['new_points_count']} new points")
+                        parts = []
+                        if new_pts:
+                            parts.append(f"+{new_pts} new points")
+                        if corrected:
+                            parts.append(f"{corrected} corrected")
+                        self.logger.info(f"  ✅ {', '.join(parts) if parts else 'No changes'}")
                     else:
                         self.logger.info(f"  No updates needed")
                     time.sleep(1)
@@ -1312,11 +1680,19 @@ class AnimePilgrimageV2Scraper:
             # Fix zero coordinates and logo covers if requested
             fixed_count = 0
             fixed_covers = 0
+            backfilled_count = 0
+            fixed_episodes = 0
             if fix_coords:
                 self.logger.info("\n--- Fixing logo covers ---")
                 fixed_covers = self.fix_logo_covers()
                 self.logger.info("\n--- Fixing zero-coordinate points ---")
                 fixed_count = self.fix_zero_coordinate_points()
+                self.logger.info("\n--- Fixing invalid episode types ---")
+                fixed_episodes = self.fix_invalid_episodes()
+
+            if backfill_images:
+                self.logger.info("\n--- Backfilling missing images ---")
+                backfilled_count = self.backfill_missing_images()
 
             # Return results
             return {
@@ -1324,6 +1700,8 @@ class AnimePilgrimageV2Scraper:
                 "updated_anime": updated_anime,
                 "fixed_coords": fixed_count,
                 "fixed_covers": fixed_covers,
+                "fixed_episodes": fixed_episodes,
+                "backfilled_images": backfilled_count,
                 "total_scraped": len(results),
             }
 
@@ -1342,7 +1720,13 @@ def main():
     parser.add_argument("--max-anime", type=int, default=99999)
     parser.add_argument("--base-dir", type=str, default=BASE_DIR)
     parser.add_argument("--fix-coords", action="store_true", default=False)
+    parser.add_argument("--backfill", action="store_true", default=False,
+                        help="Backfill missing images for existing points")
     parser.add_argument("--only-fix-coords", action="store_true", default=False)
+    parser.add_argument("--only-backfill", action="store_true", default=False,
+                        help="Only backfill missing images, skip scraping")
+    parser.add_argument("--only-fix-episodes", action="store_true", default=False,
+                        help="Only fix invalid episode types (TRAILER/PV/CM)")
     parser.add_argument("--use-selenium", action="store_true", default=False,
                         help="Use Selenium for fetching pages (handles Cloudflare)")
     args = parser.parse_args()
@@ -1357,10 +1741,21 @@ def main():
         print(f"\nFixed {fixed} zero-coordinate points.")
         sys.exit(0 if fixed >= 0 else 1)
 
+    if args.only_backfill:
+        fixed = scraper.backfill_missing_images()
+        print(f"\nBackfilled {fixed} missing images.")
+        sys.exit(0 if fixed >= 0 else 1)
+
+    if args.only_fix_episodes:
+        fixed = scraper.fix_invalid_episodes()
+        print(f"\nFixed {fixed} invalid episode values.")
+        sys.exit(0 if fixed >= 0 else 1)
+
     result = scraper.run(
         auto_mode=True,
         max_anime=args.max_anime,
         fix_coords=args.fix_coords,
+        backfill_images=args.backfill,
     )
 
     if result:
