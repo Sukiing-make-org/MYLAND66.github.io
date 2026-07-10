@@ -1,0 +1,44 @@
+{
+  "points": [
+    {
+      "id": "6917-1",
+      "name": "MUFG Stadium",
+      "image": "https://image.xinu.ink/pic/data/6917/images/6917-1.jpg",
+      "ep": "8",
+      "geo": [
+        35.677772,
+        139.714545
+      ]
+    },
+    {
+      "id": "6917-2",
+      "name": "Miyashita Park",
+      "image": "https://image.xinu.ink/pic/data/6917/images/6917-2.jpg",
+      "ep": "9",
+      "geo": [
+        35.661902,
+        139.701807
+      ]
+    },
+    {
+      "id": "6917-3",
+      "name": "Zenrinmon Gate",
+      "image": "https://image.xinu.ink/pic/data/6917/images/6917-3.jpg",
+      "ep": "10",
+      "geo": [
+        35.443078,
+        139.644068
+      ]
+    },
+    {
+      "id": "6917-4",
+      "name": "Cup Noodles Museum",
+      "image": "https://image.xinu.ink/pic/data/6917/images/6917-4.jpg",
+      "ep": "10",
+      "geo": [
+        35.455435,
+        139.638423
+      ]
+    }
+  ]
+}
