@@ -27,6 +27,9 @@ Anitabi Web Updater - 增量巡礼点爬虫
   # 仅扫描对比不下载 (dry-run)
   python anitabi_web_updater.py --batch --dry-run
 
+  # 修复之前抓取失败的封面图 (bgm-api/sukicdn 占位封面)
+  python anitabi_web_updater.py --repair-covers
+
   # 指定 Chrome / chromedriver 路径
   python anitabi_web_updater.py --batch --chrome-path /path/to/chrome --driver-path /path/to/chromedriver
 """
@@ -339,6 +342,17 @@ class AnitabiWebScraper:
             return None
         if not data.get("points"):
             return None
+        # 封面图可能是 blob URL (Vue SPA 通过 createObjectURL 显示), 需要获取真实 CDN URL
+        cover = (data.get("info") or {}).get("cover", "")
+        if cover and cover.startswith("blob:"):
+            bangumi_id = (data.get("info") or {}).get("id")
+            if bangumi_id:
+                real_cover = self._fetch_real_cover_url(int(bangumi_id))
+                if real_cover:
+                    data["info"]["cover"] = real_cover
+                    logger.info("封面 blob URL 已替换为真实 URL: %s", real_cover)
+                else:
+                    logger.warning("封面为 blob URL 且无法获取真实 URL (bangumiId=%s)", bangumi_id)
         return data
 
     def _extract_via_dom(self) -> Optional[Dict]:
@@ -456,15 +470,38 @@ class AnitabiWebScraper:
     # 图片下载 (通过浏览器 canvas 绕过 Cloudflare)
     # ----------------------------------------------------------------------------
 
+    @staticmethod
+    def _is_blob_url(url: str) -> bool:
+        return url.startswith("blob:")
+
+    @staticmethod
+    def _needs_cover_localization(cover: str) -> bool:
+        """检测封面是否尚未本地化 (仍为外部 URL, 需要下载并替换为本地 URL)
+
+        已本地化的封面指向 image.xinu.ink, 未本地化的指向外部 CDN:
+        - https://bgm-api.anitabi.cn/img/pic/cover/l/93/79/440095_HJh7H.jpg
+        - https://sukicdn.suki.ing/img/pic/cover/l/93/79/440095_HJh7H.jpg?cdn=7
+        - https://img-tc.anitabi.cn/user/0/bangumi/440095/cover.jpg
+        - blob:... (浏览器临时 URL)
+        """
+        if not cover:
+            return False  # 空封面无法下载, 跳过
+        if "xinu.ink" in cover:
+            return False  # 已本地化
+        return True
+
     def _image_url_from_path(self, image_path: str) -> Optional[str]:
         """把 point.image 相对路径映射到 CDN 完整 URL
 
         /images/points/51/xxx.jpg        -> https://img-tc.anitabi.cn/points/51/xxx.jpg
         /images/user/0/bangumi/51/...jpg -> https://img-tc.anitabi.cn/user/0/bangumi/51/...jpg
         已经是完整 URL 则原样返回
+        blob: URL 也原样返回 (由 download_image 的 blob 处理逻辑下载)
         """
         if not image_path:
             return None
+        if image_path.startswith("blob:"):
+            return image_path
         if image_path.startswith("http://") or image_path.startswith("https://"):
             return image_path
         # 去掉查询参数
@@ -474,6 +511,57 @@ class AnitabiWebScraper:
         if not path.startswith("/"):
             path = "/" + path
         return f"{IMG_CDN}{path}"
+
+    def _image_filename_from_url(self, cdn_url: str) -> str:
+        """从 CDN URL 提取文件名 (去查询参数); blob URL 生成 hash 文件名"""
+        if self._is_blob_url(cdn_url):
+            import hashlib
+            return f"blob_{hashlib.md5(cdn_url.encode()).hexdigest()[:12]}.jpg"
+        path = urlparse(cdn_url).path
+        return os.path.basename(path) or "image.jpg"
+
+    def _download_blob_image(self, blob_url: str, save_path: Path) -> bool:
+        """通过浏览器 fetch 直接读取 blob URL 的二进制数据并保存"""
+        if save_path.exists() and save_path.stat().st_size > 0:
+            return True
+        save_path.parent.mkdir(parents=True, exist_ok=True)
+        driver = self.get_driver()
+        try:
+            result = driver.execute_async_script(
+                """
+                var done = arguments[arguments.length-1];
+                var blobUrl = arguments[0];
+                fetch(blobUrl)
+                    .then(function(r) { return r.arrayBuffer(); })
+                    .then(function(buf) {
+                        var bytes = new Uint8Array(buf);
+                        var binary = '';
+                        for (var i = 0; i < bytes.byteLength; i++) {
+                            binary += String.fromCharCode(bytes[i]);
+                        }
+                        done({ok: true, data: btoa(binary), size: bytes.byteLength});
+                    })
+                    .catch(function(e) {
+                        done({ok: false, err: e.toString()});
+                    });
+                """,
+                blob_url,
+            )
+        except WebDriverException as e:
+            logger.debug("blob fetch 异常 %s: %s", blob_url, e)
+            return False
+
+        if result and result.get("ok") and result.get("data"):
+            try:
+                raw = base64.b64decode(result["data"])
+                if raw and len(raw) > 100:
+                    with open(save_path, "wb") as f:
+                        f.write(raw)
+                    logger.debug("图片已保存(blob) %s (%d bytes)", save_path.name, len(raw))
+                    return True
+            except Exception as e:
+                logger.debug("blob 解码失败 %s: %s", blob_url, e)
+        return False
 
     def _download_image_requests(self, image_url: str, save_path: Path) -> bool:
         """通过 requests 直接下载图片 (适用于非 Cloudflare 的 CDN, 如封面图)"""
@@ -501,10 +589,14 @@ class AnitabiWebScraper:
         return False
 
     def download_image(self, image_url: str, save_path: Path) -> bool:
-        """下载图片: 优先浏览器 canvas (绕过 Cloudflare), 失败则回退 requests"""
+        """下载图片: blob URL 用 fetch, 其它优先浏览器 canvas (绕过 Cloudflare), 失败则回退 requests"""
         if save_path.exists() and save_path.stat().st_size > 0:
             return True
         save_path.parent.mkdir(parents=True, exist_ok=True)
+
+        # blob URL: 通过浏览器 fetch 直接读取二进制 (同源, 无需 CORS)
+        if self._is_blob_url(image_url):
+            return self._download_blob_image(image_url, save_path)
 
         # 策略1: 浏览器 canvas (适用于 img-tc.anitabi.cn 等 Cloudflare 保护的 CDN)
         if self._driver is not None:
@@ -559,6 +651,35 @@ class AnitabiWebScraper:
         logger.warning("图片下载失败 %s (canvas + requests 均失败)", image_url)
         return False
 
+    def _fetch_real_cover_url(self, bangumi_id: int) -> Optional[str]:
+        """当 window.mapApp.bangumi.cover 为 blob URL 时, 通过浏览器内 fetch API 获取真实封面 URL"""
+        driver = self.get_driver()
+        try:
+            result = driver.execute_async_script(
+                """
+                var done = arguments[arguments.length-1];
+                var id = arguments[0];
+                fetch('https://www.anitabi.cn/api/bangumi/' + id + '/lite')
+                    .then(function(r) { return r.ok ? r.json() : null; })
+                    .then(function(data) {
+                        if (data && data.cover && !data.cover.startsWith('blob:')) {
+                            done(data.cover);
+                        } else {
+                            done(null);
+                        }
+                    })
+                    .catch(function() { done(null); });
+                """,
+                bangumi_id,
+            )
+        except WebDriverException as e:
+            logger.debug("获取真实封面 URL 失败 bangumiId=%s: %s", bangumi_id, e)
+            return None
+        if result and isinstance(result, str) and not result.startswith("blob:"):
+            logger.debug("获取到真实封面 URL: %s", result)
+            return result
+        return None
+
     # ----------------------------------------------------------------------------
     # 本地数据读写
     # ----------------------------------------------------------------------------
@@ -604,11 +725,6 @@ class AnitabiWebScraper:
 
     def _local_image_url(self, local_id: str, filename: str) -> str:
         return f"{LOCAL_IMG_PREFIX}/{local_id}/images/{filename}"
-
-    def _image_filename_from_url(self, cdn_url: str) -> str:
-        """从 CDN URL 提取文件名 (去查询参数)"""
-        path = urlparse(cdn_url).path
-        return os.path.basename(path) or "image.jpg"
 
     def load_points(self, local_id: str) -> List[Dict]:
         path = self.base_dir / str(local_id) / "points.json"
@@ -739,6 +855,93 @@ class AnitabiWebScraper:
                 repaired += 1
                 logger.info("[%s] 补下图片: %s", local_id, filename)
         return repaired
+
+    def repair_covers(self, dry_run: bool = False) -> Dict:
+        """修复未本地化的封面图
+
+        扫描所有本地番剧的 info.json, 找到 cover 仍为外部 URL (非 image.xinu.ink)
+        的条目, 直接下载封面图片并替换为本地化 URL。
+
+        降级机制: 若现有 URL 下载失败, 通过浏览器 fetch 调用 anitabi API
+        获取另一张封面 URL 再试。
+        """
+        results = {"scanned": 0, "need_repair": 0, "repaired": 0, "failed": 0, "details": []}
+        bangumi_list = self.scan_local_bangumi()
+        if not bangumi_list:
+            logger.warning("未找到任何本地番剧")
+            return results
+
+        # 初始化浏览器 (img-tc.anitabi.cn 等 CDN 可能需要 canvas 下载绕过 Cloudflare;
+        # 降级到 API 获取封面时也需要浏览器 fetch)
+        self.get_driver()
+
+        for local_id, bangumi_id in bangumi_list:
+            results["scanned"] += 1
+            info = self.load_info(local_id)
+            cover = info.get("cover", "")
+
+            if not self._needs_cover_localization(cover):
+                continue
+
+            results["need_repair"] += 1
+            title = info.get("cn") or info.get("title") or info.get("name") or f"bangumi_{bangumi_id}"
+            logger.info("[%s] 封面未本地化: %s (bangumiId=%s, %s)", local_id, cover, bangumi_id, title)
+
+            if dry_run:
+                results["details"].append({
+                    "local_id": local_id, "bangumi_id": bangumi_id,
+                    "title": title, "old_cover": cover, "status": "dry_run",
+                })
+                continue
+
+            images_dir = self.base_dir / str(local_id) / "images"
+            images_dir.mkdir(parents=True, exist_ok=True)
+
+            # 策略1: 直接下载现有封面 URL
+            downloaded = False
+            cover_filename = os.path.basename(urlparse(cover).path) or "cover.jpg"
+            cover_path = images_dir / cover_filename
+
+            if self.download_image(cover, cover_path):
+                downloaded = True
+                logger.info("[%s] 封面已修复(直接下载): %s", local_id, cover)
+            else:
+                # 策略2: 降级 — 通过 API 获取另一张封面 URL 再试
+                logger.info("[%s] 直接下载失败, 尝试从 API 获取封面 (bangumiId=%s)", local_id, bangumi_id)
+                api_cover = self._fetch_real_cover_url(bangumi_id)
+                if api_cover and api_cover != cover:
+                    api_filename = os.path.basename(urlparse(api_cover).path) or "cover.jpg"
+                    api_path = images_dir / api_filename
+                    if self.download_image(api_cover, api_path):
+                        downloaded = True
+                        cover_filename = api_filename
+                        logger.info("[%s] 封面已修复(API降级): %s", local_id, api_cover)
+                    else:
+                        logger.warning("[%s] API 降级下载也失败: %s", local_id, api_cover)
+                else:
+                    logger.warning("[%s] API 未返回不同的封面 URL", local_id)
+
+            if downloaded:
+                info["cover"] = self._local_image_url(local_id, cover_filename)
+                self.save_info(local_id, info)
+                results["repaired"] += 1
+                results["details"].append({
+                    "local_id": local_id, "bangumi_id": bangumi_id,
+                    "title": title, "status": "repaired",
+                    "cover": self._local_image_url(local_id, cover_filename),
+                })
+            else:
+                results["failed"] += 1
+                results["details"].append({
+                    "local_id": local_id, "bangumi_id": bangumi_id,
+                    "title": title, "status": "download_failed",
+                })
+
+        logger.info(
+            "封面修复完成: 扫描 %d, 需修复 %d, 成功 %d, 失败 %d",
+            results["scanned"], results["need_repair"], results["repaired"], results["failed"],
+        )
+        return results
 
     # ----------------------------------------------------------------------------
     # 单番剧增量更新
@@ -886,8 +1089,12 @@ class AnitabiWebScraper:
         # 网页的 id 应等于 info.id; 不覆盖 local_id
         if web_info:
             for k in ("cn", "en", "title", "city", "color", "cover", "cat", "geo", "zoom", "modified"):
-                if web_info.get(k) is not None and not info.get(k):
-                    info[k] = web_info[k]
+                val = web_info.get(k)
+                if val is not None and not info.get(k):
+                    # 跳过 blob URL (封面解析失败时不应存储无效 URL)
+                    if isinstance(val, str) and val.startswith("blob:"):
+                        continue
+                    info[k] = val
                     info_updated = True
         # 更新点数统计
         info["pointsLength"] = len(combined)
@@ -1116,6 +1323,15 @@ class AnitabiWebScraper:
             return None
         if not data or not data.get("points"):
             return None
+        # 封面图可能是 blob URL, 需要获取真实 CDN URL
+        cover = (data.get("info") or {}).get("cover", "")
+        if cover and cover.startswith("blob:"):
+            real_cover = self._fetch_real_cover_url(int(bangumi_id))
+            if real_cover:
+                data["info"]["cover"] = real_cover
+                logger.info("封面 blob URL 已替换为真实 URL: %s (bangumiId=%s)", real_cover, bangumi_id)
+            else:
+                logger.warning("封面为 blob URL 且无法获取真实 URL (bangumiId=%s)", bangumi_id)
         return data
 
     def get_next_local_id(self) -> int:
@@ -1213,7 +1429,10 @@ class AnitabiWebScraper:
         # 封面图: 下载并替换为本地 URL
         cover = web_info.get("cover", "")
         if cover:
-            cover_filename = os.path.basename(urlparse(cover).path) or "cover.jpg"
+            if self._is_blob_url(cover):
+                cover_filename = "cover.jpg"
+            else:
+                cover_filename = os.path.basename(urlparse(cover).path) or "cover.jpg"
             cover_path = images_dir / cover_filename
             if self.download_image(cover, cover_path):
                 info["cover"] = self._local_image_url(local_id, cover_filename)
@@ -1517,14 +1736,15 @@ def main():
     parser.add_argument("--chrome-path", help="Chrome 二进制路径")
     parser.add_argument("--driver-path", help="chromedriver 路径")
     parser.add_argument("--no-regenerate-index", action="store_true", help="跳过 index.json 重新生成")
+    parser.add_argument("--repair-covers", action="store_true", help="修复之前抓取失败的封面图 (bgm-api/sukicdn 占位封面)")
     parser.add_argument("--no-lock", action="store_true", help="跳过锁文件检查 (调试用)")
     parser.add_argument("-v", "--verbose", action="store_true", help="详细日志")
     args = parser.parse_args()
 
     setup_logging(verbose=args.verbose)
 
-    if not args.batch and not args.local_id and not args.discover:
-        parser.error("请指定 --discover / --batch / --local-id 之一")
+    if not args.batch and not args.local_id and not args.discover and not args.repair_covers:
+        parser.error("请指定 --discover / --batch / --local-id / --repair-covers 之一")
 
     base_dir = Path(args.base_dir)
 
@@ -1586,6 +1806,26 @@ def main():
                 sys.exit(1)
             res = scraper.update_bangumi(int(bid), args.local_id, dry_run=args.dry_run)
             print(json.dumps(res, ensure_ascii=False, indent=2))
+        elif args.repair_covers:
+            # 修复封面模式
+            results = scraper.repair_covers(dry_run=args.dry_run)
+            print("-" * 60)
+            print(f"封面修复: 扫描 {results['scanned']} 部, 需修复 {results['need_repair']} 部")
+            print(f"  修复成功: {results['repaired']} 部")
+            print(f"  修复失败: {results['failed']} 部")
+            if results["details"]:
+                print("  详情:")
+                for d in results["details"]:
+                    status = d["status"]
+                    title = d.get("title", "")
+                    lid = d["local_id"]
+                    bid = d["bangumi_id"]
+                    if status == "repaired":
+                        print(f"    [{lid}] bangumiId={bid} {title}: ✓ {d.get('cover', '')}")
+                    elif status == "dry_run":
+                        print(f"    [{lid}] bangumiId={bid} {title}: 待修复")
+                    else:
+                        print(f"    [{lid}] bangumiId={bid} {title}: ✗ {status}")
         else:
             results = scraper.batch_update(
                 only_local_id=args.local_id if args.local_id else None,
