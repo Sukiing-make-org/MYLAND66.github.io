@@ -476,12 +476,13 @@ class AnitabiWebScraper:
 
     @staticmethod
     def _needs_cover_localization(cover: str) -> bool:
-        """检测封面是否尚未本地化 (仍为外部 URL, 需要下载并替换为本地 URL)
+        """检测封面是否尚未本地化 (仍为外部 URL 或相对路径, 需要下载并替换为本地 URL)
 
-        已本地化的封面指向 image.xinu.ink, 未本地化的指向外部 CDN:
+        已本地化的封面指向 image.xinu.ink, 未本地化的包括:
         - https://bgm-api.anitabi.cn/img/pic/cover/l/93/79/440095_HJh7H.jpg
         - https://sukicdn.suki.ing/img/pic/cover/l/93/79/440095_HJh7H.jpg?cdn=7
-        - https://img-tc.anitabi.cn/user/0/bangumi/440095/cover.jpg
+        - https://img-tc.anitabi.cn/bangumi/59632.jpg
+        - /images/bangumi/59632.jpg (相对路径)
         - blob:... (浏览器临时 URL)
         """
         if not cover:
@@ -897,14 +898,17 @@ class AnitabiWebScraper:
             images_dir = self.base_dir / str(local_id) / "images"
             images_dir.mkdir(parents=True, exist_ok=True)
 
-            # 策略1: 直接下载现有封面 URL
+            # 相对路径 (如 /images/bangumi/59632.jpg) 先转为完整 CDN URL
+            download_url = self._image_url_from_path(cover) or cover
+
+            # 策略1: 直接下载封面 URL
             downloaded = False
-            cover_filename = os.path.basename(urlparse(cover).path) or "cover.jpg"
+            cover_filename = os.path.basename(urlparse(download_url).path) or "cover.jpg"
             cover_path = images_dir / cover_filename
 
-            if self.download_image(cover, cover_path):
+            if self.download_image(download_url, cover_path):
                 downloaded = True
-                logger.info("[%s] 封面已修复(直接下载): %s", local_id, cover)
+                logger.info("[%s] 封面已修复(直接下载): %s", local_id, download_url)
             else:
                 # 策略2: 降级 — 通过 API 获取另一张封面 URL 再试
                 logger.info("[%s] 直接下载失败, 尝试从 API 获取封面 (bangumiId=%s)", local_id, bangumi_id)
