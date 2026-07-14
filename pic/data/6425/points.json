@@ -589,6 +589,46 @@
         35.64412,
         139.85719
       ]
+    },
+    {
+      "id": "6425-60",
+      "name": "合衆国最高裁判所",
+      "image": "https://image.xinu.ink/pic/data/6425/images/6425-60.jpg",
+      "ep": "OP1",
+      "geo": [
+        38.890597,
+        -77.005336
+      ]
+    },
+    {
+      "id": "6425-61",
+      "name": "東京大学",
+      "image": "https://image.xinu.ink/pic/data/6425/images/6425-61.jpg",
+      "ep": "OP1",
+      "geo": [
+        35.71237,
+        139.760868
+      ]
+    },
+    {
+      "id": "6425-62",
+      "name": "東京大学",
+      "image": "https://image.xinu.ink/pic/data/6425/images/6425-62.jpg",
+      "ep": "OP1",
+      "geo": [
+        35.713194,
+        139.760955
+      ]
+    },
+    {
+      "id": "6425-63",
+      "name": "SHIBUYA SKY",
+      "image": "https://image.xinu.ink/pic/data/6425/images/6425-63.jpg",
+      "ep": "OP1",
+      "geo": [
+        35.658837,
+        139.702025
+      ]
     }
   ]
 }
