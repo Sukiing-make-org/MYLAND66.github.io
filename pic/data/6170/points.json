@@ -1127,5 +1127,44 @@
     "ep": 1,
     "mark": "东广场北侧的天桥",
     "folder": "大宮公園 "
+  },
+  {
+    "id": "h061vti",
+    "name": "金井森の丘公園",
+    "image": "https://image.xinu.ink/pic/data/6170/images/h061vti-1784025837707.webp",
+    "geo": [
+      35.577962,
+      139.46481
+    ],
+    "ep": 10,
+    "s": "105",
+    "folder": "金井森の丘公園",
+    "origin": "钰"
+  },
+  {
+    "id": "h064opu",
+    "name": "金井森の丘公園",
+    "image": "https://image.xinu.ink/pic/data/6170/images/h064opu-1784025953594.webp",
+    "geo": [
+      35.57787,
+      139.464931
+    ],
+    "ep": 10,
+    "s": "99",
+    "folder": "金井森の丘公園",
+    "origin": "钰"
+  },
+  {
+    "id": "h0665te",
+    "name": "金井森の丘公園",
+    "image": "https://image.xinu.ink/pic/data/6170/images/h0665te-1784026029080.webp",
+    "geo": [
+      35.577954,
+      139.464984
+    ],
+    "ep": 10,
+    "s": "214",
+    "folder": "金井森の丘公園",
+    "origin": "钰"
   }
 ]

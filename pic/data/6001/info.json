@@ -25,12 +25,20 @@
       ]
     }
   ],
-  "pointsLength": 10,
+  "pointsLength": 11,
   "imagesLength": 2,
   "name": "ハミダシクリエイティブ",
   "name_cn": "常轨脱离Creative",
   "local_id": 6001,
   "region": [
     "东京都/東京都"
-  ]
+  ],
+  "city": "町田市",
+  "color": "#95756a",
+  "cat": "TV",
+  "geo": [
+    35.541893,
+    139.455584
+  ],
+  "zoom": 15.1
 }

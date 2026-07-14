@@ -12213,5 +12213,25 @@
     "s": 214,
     "folder": "静冈市~川根本町",
     "origin": "masa_a3"
+  },
+  {
+    "id": "gxcpxdz",
+    "name": "山梨県笛吹市石和町",
+    "image": "https://image.xinu.ink/pic/data/834/images/gxcpxdz-1783855769643.webp",
+    "geo": [
+      35.65789,
+      138.647048
+    ],
+    "ep": "Episode10"
+  },
+  {
+    "id": "gxd170y",
+    "name": "駅前甚六公園",
+    "image": "https://image.xinu.ink/pic/data/834/images/gxd170y-1783856185503.webp",
+    "geo": [
+      35.671411,
+      138.742833
+    ],
+    "ep": "Episode10"
   }
 ]

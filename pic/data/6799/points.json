@@ -114,5 +114,15 @@
     "mark": "营业时间见链接的官网，校外人员也能用餐，可用交通卡、信用卡、现金支付",
     "folder": "OP",
     "originURL": "https://www.univcoop.jp/tumsat/time/"
+  },
+  {
+    "id": "gzujn4b",
+    "name": "東京海洋大学 二号館",
+    "image": "https://image.xinu.ink/pic/data/6799/images/gzujn4b-1784006558453.webp",
+    "geo": [
+      35.666395,
+      139.792386
+    ],
+    "ep": "第2话开头"
   }
 ]

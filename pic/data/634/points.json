@@ -10,5 +10,49 @@
       34.7214,
       135.3615
     ]
+  },
+  {
+    "id": "gvbsh8l",
+    "name": "富士北麓球場",
+    "image": "https://image.xinu.ink/pic/data/634/images/gvbsh8l-1783733154663.webp",
+    "geo": [
+      35.452568,
+      138.76581
+    ],
+    "ep": "32",
+    "s": "07：20"
+  },
+  {
+    "id": "gvc1prs",
+    "name": "山日YBS球場",
+    "image": "https://image.xinu.ink/pic/data/634/images/gvc1prs-1783733562974.webp",
+    "geo": [
+      35.623622,
+      138.584687
+    ],
+    "ep": "32",
+    "s": "09：:00"
+  },
+  {
+    "id": "gz6l3vk",
+    "name": "埼玉市营浦和球场",
+    "image": "https://image.xinu.ink/pic/data/634/images/gz6l3vk-1783966303685.webp",
+    "geo": [
+      35.870014,
+      139.658555
+    ],
+    "ep": "23",
+    "s": "04:35"
+  },
+  {
+    "id": "gz6xl1x",
+    "name": "前桥市民​球場",
+    "image": "https://image.xinu.ink/pic/data/634/images/gz6xl1x-1783966843727.webp",
+    "geo": [
+      36.378093,
+      139.159834
+    ],
+    "ep": "23",
+    "s": "13:51"
   }
 ]
