@@ -1,0 +1,125 @@
+[
+  {
+    "id": "h0lq6n6",
+    "name": "京成電鉄 江戸川駅",
+    "image": "https://image.xinu.ink/pic/data/6930/images/h0lq6n6-1784052324749.webp",
+    "geo": [
+      35.737651,
+      139.896162
+    ],
+    "s": 28,
+    "mark": "开篇的车站是京成本线江户川站，背后的铁桥是成田空港方向，星街所在的站台是上野方向",
+    "cn": "京成本线江户川站"
+  },
+  {
+    "id": "h0jsi1m",
+    "name": "マルナカ新土庄店　駐車場",
+    "image": "https://image.xinu.ink/pic/data/6930/images/h0jsi1m-1784048947978.webp",
+    "geo": [
+      34.476703,
+      134.17978
+    ],
+    "s": 102,
+    "mark": "1:42",
+    "folder": "小豆岛"
+  },
+  {
+    "id": "h0jxjor",
+    "name": "MiNoRiGELATO ミノリジェラート",
+    "image": "https://image.xinu.ink/pic/data/6930/images/h0jxjor-1784049155064.webp",
+    "geo": [
+      34.479577,
+      134.298531
+    ],
+    "s": 107,
+    "mark": "1:47",
+    "folder": "小豆岛"
+  },
+  {
+    "id": "h0k1kje",
+    "name": "土庄中",
+    "image": "https://image.xinu.ink/pic/data/6930/images/h0k1kje-1784049394218.webp",
+    "geo": [
+      34.486306,
+      134.192035
+    ],
+    "s": 109,
+    "mark": "1:49 学校场所，严禁擅自闯入",
+    "folder": "小豆岛",
+    "cn": "土庄中学校 教室"
+  },
+  {
+    "id": "h0ki1fn",
+    "name": "土庄中学校 操场",
+    "image": "https://image.xinu.ink/pic/data/6930/images/h0ki1fn-1784050126157.webp",
+    "geo": [
+      34.486087,
+      134.193344
+    ],
+    "s": 153,
+    "mark": "2:33 学校场所，严禁擅自闯入",
+    "folder": "小豆岛"
+  },
+  {
+    "id": "h0ku6c9",
+    "name": "岬の分教場（二十四​の​瞳​映画​村）",
+    "image": "https://image.xinu.ink/pic/data/6930/images/h0ku6c9-1784050684154.webp",
+    "geo": [
+      34.452194,
+      134.28604
+    ],
+    "s": 151,
+    "mark": "2:31",
+    "folder": "小豆岛"
+  },
+  {
+    "id": "h0l078b",
+    "name": "エンジェルロードの丘(展望台)",
+    "image": "https://image.xinu.ink/pic/data/6930/images/h0l078b-1784050955970.webp",
+    "geo": [
+      34.477871,
+      134.18893
+    ],
+    "s": 185,
+    "mark": "3:05",
+    "folder": "小豆岛"
+  },
+  {
+    "id": "h0l7q3z",
+    "name": "永代橋",
+    "image": "https://image.xinu.ink/pic/data/6930/images/h0l7q3z-1784051316246.webp",
+    "geo": [
+      34.485953,
+      134.187007
+    ],
+    "s": 190,
+    "mark": "3:10",
+    "folder": "小豆岛",
+    "cn": "土庄町永代橋"
+  },
+  {
+    "id": "h0laigt",
+    "name": "オリーブ公園 ギリシャ風車付近",
+    "image": "https://image.xinu.ink/pic/data/6930/images/h0laigt-1784051441016.webp",
+    "geo": [
+      34.471531,
+      134.27253
+    ],
+    "s": 193,
+    "mark": "3:13",
+    "folder": "小豆岛"
+  },
+  {
+    "id": "h0n1eoq",
+    "name": "Каинды",
+    "image": "https://image.xinu.ink/pic/data/6930/images/h0n1eoq-1784054377865.webp",
+    "geo": [
+      42.986435,
+      78.465464
+    ],
+    "ep": "174",
+    "mark": "阿拉木图郊外，天山深处的一个堰塞湖",
+    "folder": "中亚",
+    "cn": "卡因迪湖"
+  }
+]
