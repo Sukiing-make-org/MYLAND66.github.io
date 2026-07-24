@@ -934,5 +934,26 @@
     "ep": 22,
     "s": 791,
     "mark": "22話"
+  },
+  {
+    "id": "h1bc3yc",
+    "name": "Sanshi-no-mori Park 蚕糸の森公園",
+    "image": "https://image.xinu.ink/pic/data/205/images/h1bc3yc-1784095201259.webp",
+    "geo": [
+      35.69643,
+      139.656236
+    ],
+    "ep": "4",
+    "cn": "蚕糸の森公園"
+  },
+  {
+    "id": "h1bxo05",
+    "name": "かえる公園",
+    "image": "https://image.xinu.ink/pic/data/205/images/h1bxo05-1784096172645.webp",
+    "geo": [
+      35.700418,
+      139.657233
+    ],
+    "cn": "かえる公園"
   }
 ]

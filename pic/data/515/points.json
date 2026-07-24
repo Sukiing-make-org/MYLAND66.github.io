@@ -608,5 +608,93 @@
     "mark": "第四話19:48.",
     "folder": "京都",
     "cn": "本能寺"
+  },
+  {
+    "id": "h89qh86",
+    "name": "1 Chome Nakaharacho",
+    "image": "https://image.xinu.ink/pic/data/515/images/h89qh86-1784515901867.webp",
+    "geo": [
+      35.91396,
+      139.481973
+    ],
+    "ep": 1,
+    "s": "510",
+    "folder": "本川越站周边",
+    "origin": "钰"
+  },
+  {
+    "id": "h89w5m3",
+    "name": "1 Chome Nakaharacho",
+    "image": "https://image.xinu.ink/pic/data/515/images/h89w5m3-1784516007025.webp",
+    "geo": [
+      35.915511,
+      139.483251
+    ],
+    "ep": 10,
+    "s": "210"
+  },
+  {
+    "id": "h8iu3mu",
+    "name": "吉野園",
+    "image": "https://image.xinu.ink/pic/data/515/images/h8iu3mu-1784531079058.webp",
+    "geo": [
+      35.915358,
+      139.483218
+    ],
+    "ep": 10,
+    "s": "210",
+    "mark": "此处才是动漫中吉野園的取景地，另一处标注错误",
+    "origin": "钰"
+  },
+  {
+    "id": "h8izte0",
+    "name": "吉野園",
+    "image": "https://image.xinu.ink/pic/data/515/images/h8izte0-1784531319033.webp",
+    "geo": [
+      35.915488,
+      139.483305
+    ],
+    "ep": 10,
+    "s": "215",
+    "origin": "钰"
+  },
+  {
+    "id": "h8j7qv7",
+    "name": "熊野神社",
+    "image": "https://image.xinu.ink/pic/data/515/images/h8j7qv7-1784531671035.webp",
+    "geo": [
+      35.919044,
+      139.483639
+    ],
+    "ep": 1,
+    "s": "1009",
+    "folder": "熊野神社",
+    "origin": "钰"
+  },
+  {
+    "id": "h8j9v7w",
+    "name": "熊野神社",
+    "image": "https://image.xinu.ink/pic/data/515/images/h8j9v7w-1784531762125.webp",
+    "geo": [
+      35.919114,
+      139.483655
+    ],
+    "ep": 3,
+    "s": "85",
+    "folder": "熊野神社",
+    "origin": "钰"
+  },
+  {
+    "id": "h8jeowa",
+    "name": "熊野神社",
+    "image": "https://image.xinu.ink/pic/data/515/images/h8jeowa-1784532000406.webp",
+    "geo": [
+      35.919099,
+      139.483442
+    ],
+    "ep": 3,
+    "s": "924",
+    "folder": "熊野神社",
+    "origin": "钰"
   }
 ]

@@ -43,9 +43,16 @@
       ]
     }
   ],
-  "pointsLength": 6,
+  "pointsLength": 7,
   "imagesLength": 4,
   "name": "プリズム輪舞曲",
   "name_cn": "棱镜恋曲",
-  "local_id": 6146
+  "local_id": 6146,
+  "city": "欧洲",
+  "cat": "WEB",
+  "geo": [
+    53.364099,
+    -1.854517
+  ],
+  "zoom": 5.6
 }
