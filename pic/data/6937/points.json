@@ -1,0 +1,102 @@
+[
+  {
+    "id": "hd1nyml",
+    "name": "(株)​信楽​陶苑​たぬき​村",
+    "image": "https://image.xinu.ink/pic/data/6937/images/hd1nyml-1784804675581.webp",
+    "geo": [
+      34.913978,
+      136.077154
+    ],
+    "ep": "5",
+    "cn": "信楽​陶苑 狸子村"
+  },
+  {
+    "id": "hd1v3hx",
+    "name": "宮乃温泉",
+    "image": "https://image.xinu.ink/pic/data/6937/images/hd1v3hx-1784804853558.webp",
+    "geo": [
+      34.925761,
+      136.156044
+    ],
+    "ep": "07",
+    "cn": "宮乃温泉"
+  },
+  {
+    "id": "hd26mnt",
+    "name": "信楽陶苑",
+    "image": "https://image.xinu.ink/pic/data/6937/images/hd26mnt-1784805429133.webp",
+    "geo": [
+      34.9145,
+      136.077073
+    ],
+    "ep": "06",
+    "s": "05",
+    "origin": "ネイト",
+    "cn": "信楽陶苑 狸子村"
+  },
+  {
+    "id": "hd29htq",
+    "name": "宮乃温泉",
+    "image": "https://image.xinu.ink/pic/data/6937/images/hd29htq-1784805531369.webp",
+    "geo": [
+      34.925766,
+      136.156054
+    ],
+    "ep": "07",
+    "s": "03",
+    "origin": "ネイト",
+    "cn": "宮乃温泉"
+  },
+  {
+    "id": "hd2g1n4",
+    "name": "メタセコイア並木",
+    "image": "https://image.xinu.ink/pic/data/6937/images/hd2g1n4-1784805842027.webp",
+    "geo": [
+      35.487331,
+      136.037316
+    ],
+    "ep": "10",
+    "s": "07",
+    "origin": "ネイト",
+    "cn": "水杉大道"
+  },
+  {
+    "id": "hd2ipoh",
+    "name": "並木​カフェ​メタセコイア",
+    "image": "https://image.xinu.ink/pic/data/6937/images/hd2ipoh-1784805999901.webp",
+    "geo": [
+      35.471786,
+      136.036573
+    ],
+    "ep": "10",
+    "s": "09",
+    "origin": "ネイト",
+    "cn": "行道树咖啡厅"
+  },
+  {
+    "id": "hd2n09z",
+    "name": "県立​琵琶湖​博物館",
+    "image": "https://image.xinu.ink/pic/data/6937/images/hd2n09z-1784806176852.webp",
+    "geo": [
+      35.074133,
+      135.934863
+    ],
+    "ep": "12",
+    "s": "01",
+    "origin": "ネイト",
+    "cn": "琵琶湖博物馆"
+  },
+  {
+    "id": "hd2pbog",
+    "name": "琵琶湖博物館水族展示室",
+    "image": "https://image.xinu.ink/pic/data/6937/images/hd2pbog-1784806276966.webp",
+    "geo": [
+      35.07481,
+      135.935586
+    ],
+    "ep": "13",
+    "s": "08",
+    "origin": "ネイト",
+    "cn": "琵琶湖博物館水族展示室"
+  }
+]
