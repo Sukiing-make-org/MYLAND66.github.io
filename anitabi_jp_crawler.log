@@ -4411,3 +4411,1321 @@
 2026-07-13 09:12:28,585 - AniTabiJP - INFO -   '夏へのトンネル、さよならの出口' already in index.json (different source), skipping
 2026-07-13 09:12:30,588 - AniTabiJP - INFO - Done! New: 0, Updated: 0
 2026-07-13 09:12:30,588 - AniTabiJP - INFO - Lock file removed
+2026-07-27 09:41:47,304 - AniTabiJP - INFO - ============================================================
+2026-07-27 09:41:47,304 - AniTabiJP - INFO - AniTabi.jp Crawler - Starting
+2026-07-27 09:41:47,304 - AniTabiJP - INFO - Mode: update
+2026-07-27 09:41:47,304 - AniTabiJP - INFO - ============================================================
+2026-07-27 09:41:47,305 - AniTabiJP - INFO - Fetching works list from /works (paginated) ...
+2026-07-27 09:41:48,245 - AniTabiJP - INFO -   Page 1: 34 works (34 new, 34 total)
+2026-07-27 09:41:49,650 - AniTabiJP - INFO -   Page 2: 34 works (20 new, 54 total)
+2026-07-27 09:41:51,007 - AniTabiJP - INFO -   Page 3: 34 works (23 new, 77 total)
+2026-07-27 09:41:52,374 - AniTabiJP - INFO -   Page 4: 34 works (22 new, 99 total)
+2026-07-27 09:41:53,729 - AniTabiJP - INFO -   Page 5: 34 works (24 new, 123 total)
+2026-07-27 09:41:55,397 - AniTabiJP - INFO -   Page 6: 34 works (22 new, 145 total)
+2026-07-27 09:41:57,725 - AniTabiJP - INFO -   Page 7: 34 works (24 new, 169 total)
+2026-07-27 09:41:59,133 - AniTabiJP - INFO -   Page 8: 34 works (24 new, 193 total)
+2026-07-27 09:42:00,581 - AniTabiJP - INFO -   Page 9: 34 works (24 new, 217 total)
+2026-07-27 09:42:02,040 - AniTabiJP - INFO -   Page 10: 34 works (24 new, 241 total)
+2026-07-27 09:42:03,426 - AniTabiJP - INFO -   Page 11: 33 works (23 new, 264 total)
+2026-07-27 09:42:04,789 - AniTabiJP - INFO -   Page 12: 33 works (23 new, 287 total)
+2026-07-27 09:42:06,143 - AniTabiJP - INFO -   Page 13: 28 works (18 new, 305 total)
+2026-07-27 09:42:07,367 - AniTabiJP - INFO -   Page 14: 12 works (2 new, 307 total)
+2026-07-27 09:42:09,147 - AniTabiJP - INFO -   Page 15: 10 works (0 new, 307 total)
+2026-07-27 09:42:10,357 - AniTabiJP - INFO -   Page 16: 10 works (0 new, 307 total)
+2026-07-27 09:42:11,359 - AniTabiJP - INFO - Found 307 works across 16 pages
+2026-07-27 09:42:11,359 - AniTabiJP - INFO - Update mode: 253 new works out of 307
+2026-07-27 09:42:11,359 - AniTabiJP - INFO - Will process 253 works
+2026-07-27 09:42:11,459 - AniTabiJP - INFO - 
+[1/253] Work 1: 君の名は。
+2026-07-27 09:42:11,459 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/1
+2026-07-27 09:42:13,224 - AniTabiJP - INFO - Work 1: '君の名は。' - 11 spots
+2026-07-27 09:42:13,638 - AniTabiJP - INFO -   '君の名は。' already in index.json (different source), skipping
+2026-07-27 09:42:15,641 - AniTabiJP - INFO - 
+[2/253] Work 2: 鬼滅の刃
+2026-07-27 09:42:15,641 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/2
+2026-07-27 09:42:17,431 - AniTabiJP - INFO - Work 2: '鬼滅の刃' - 19 spots
+2026-07-27 09:42:17,841 - AniTabiJP - INFO -   '鬼滅の刃' already in index.json (different source), skipping
+2026-07-27 09:42:19,844 - AniTabiJP - INFO - 
+[3/253] Work 3: 聲の形
+2026-07-27 09:42:19,844 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/3
+2026-07-27 09:42:21,631 - AniTabiJP - INFO - Work 3: '聲の形' - 11 spots
+2026-07-27 09:42:22,042 - AniTabiJP - INFO -   '聲の形' already in index.json (different source), skipping
+2026-07-27 09:42:24,044 - AniTabiJP - INFO - 
+[4/253] Work 5: あの日見た花の名前を僕達はまだ知らない。
+2026-07-27 09:42:24,044 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/5
+2026-07-27 09:42:27,056 - AniTabiJP - INFO - Work 5: 'あの日見た花の名前を僕達はまだ知らない。' - 23 spots
+2026-07-27 09:42:27,463 - AniTabiJP - INFO -   'あの日見た花の名前を僕達はまだ知らない。' already in index.json (different source), skipping
+2026-07-27 09:42:29,465 - AniTabiJP - INFO - 
+[5/253] Work 6: スラムダンク
+2026-07-27 09:42:29,465 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/6
+2026-07-27 09:42:31,269 - AniTabiJP - INFO - Work 6: 'スラムダンク' - 15 spots
+2026-07-27 09:42:31,644 - AniTabiJP - INFO -   'スラムダンク' already in index.json (different source), skipping
+2026-07-27 09:42:33,644 - AniTabiJP - INFO - 
+[6/253] Work 7: 天気の子
+2026-07-27 09:42:33,644 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/7
+2026-07-27 09:42:34,083 - AniTabiJP - INFO - Work 7: '天気の子' - 10 spots
+2026-07-27 09:42:34,466 - AniTabiJP - INFO -   '天気の子' already in index.json (different source), skipping
+2026-07-27 09:42:36,468 - AniTabiJP - INFO - 
+[7/253] Work 8: 進撃の巨人
+2026-07-27 09:42:36,468 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/8
+2026-07-27 09:42:37,018 - AniTabiJP - INFO - Work 8: '進撃の巨人' - 10 spots
+2026-07-27 09:42:37,413 - AniTabiJP - INFO -   '進撃の巨人' already in index.json (different source), skipping
+2026-07-27 09:42:39,415 - AniTabiJP - INFO - 
+[8/253] Work 9: ハイキュー!!
+2026-07-27 09:42:39,415 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/9
+2026-07-27 09:42:39,987 - AniTabiJP - INFO - Work 9: 'ハイキュー!!' - 10 spots
+2026-07-27 09:42:40,358 - AniTabiJP - INFO -   'ハイキュー!!' already in index.json (different source), skipping
+2026-07-27 09:42:42,360 - AniTabiJP - INFO - 
+[9/253] Work 10: Re:ゼロから始める異世界生活
+2026-07-27 09:42:42,360 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/10
+2026-07-27 09:42:42,924 - AniTabiJP - INFO - Work 10: 'Re:ゼロから始める異世界生活' - 10 spots
+2026-07-27 09:42:43,306 - AniTabiJP - INFO -   'Re:ゼロから始める異世界生活' already in index.json (different source), skipping
+2026-07-27 09:42:45,308 - AniTabiJP - INFO - 
+[10/253] Work 11: ゆるキャン△
+2026-07-27 09:42:45,309 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/11
+2026-07-27 09:42:47,102 - AniTabiJP - INFO - Work 11: 'ゆるキャン△' - 12 spots
+2026-07-27 09:42:47,496 - AniTabiJP - INFO -   'ゆるキャン△' already in index.json (different source), skipping
+2026-07-27 09:42:49,498 - AniTabiJP - INFO - 
+[11/253] Work 12: 呪術廻戦
+2026-07-27 09:42:49,498 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/12
+2026-07-27 09:42:50,082 - AniTabiJP - INFO - Work 12: '呪術廻戦' - 10 spots
+2026-07-27 09:42:50,418 - AniTabiJP - INFO -   '呪術廻戦' already in index.json (different source), skipping
+2026-07-27 09:42:52,421 - AniTabiJP - INFO - 
+[12/253] Work 14: 新世紀エヴァンゲリオン
+2026-07-27 09:42:52,421 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/14
+2026-07-27 09:42:54,331 - AniTabiJP - INFO - Work 14: '新世紀エヴァンゲリオン' - 11 spots
+2026-07-27 09:42:54,630 - AniTabiJP - INFO -   '新世紀エヴァンゲリオン' already in index.json (different source), skipping
+2026-07-27 09:42:56,632 - AniTabiJP - INFO - 
+[13/253] Work 15: 千と千尋の神隠し
+2026-07-27 09:42:56,632 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/15
+2026-07-27 09:42:57,035 - AniTabiJP - INFO - Work 15: '千と千尋の神隠し' - 8 spots
+2026-07-27 09:42:57,348 - AniTabiJP - INFO -   '千と千尋の神隠し' already in index.json (different source), skipping
+2026-07-27 09:42:59,350 - AniTabiJP - INFO - 
+[14/253] Work 16: ぼっち・ざ・ろっく！
+2026-07-27 09:42:59,351 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/16
+2026-07-27 09:43:01,133 - AniTabiJP - INFO - Work 16: 'ぼっち・ざ・ろっく！' - 12 spots
+2026-07-27 09:43:01,460 - AniTabiJP - INFO -   'ぼっち・ざ・ろっく！' already in index.json (different source), skipping
+2026-07-27 09:43:03,462 - AniTabiJP - INFO - 
+[15/253] Work 17: 響け！ユーフォニアム
+2026-07-27 09:43:03,462 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/17
+2026-07-27 09:43:03,859 - AniTabiJP - INFO - Work 17: '響け！ユーフォニアム' - 8 spots
+2026-07-27 09:43:04,155 - AniTabiJP - INFO -   '響け！ユーフォニアム' already in index.json (different source), skipping
+2026-07-27 09:43:06,157 - AniTabiJP - INFO - 
+[16/253] Work 18: らき☆すた
+2026-07-27 09:43:06,157 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/18
+2026-07-27 09:43:06,715 - AniTabiJP - INFO - Work 18: 'らき☆すた' - 7 spots
+2026-07-27 09:43:07,042 - AniTabiJP - INFO -   'らき☆すた' already in index.json (different source), skipping
+2026-07-27 09:43:09,044 - AniTabiJP - INFO - 
+[17/253] Work 19: ラブライブ！サンシャイン!!
+2026-07-27 09:43:09,044 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/19
+2026-07-27 09:43:10,147 - AniTabiJP - INFO - Work 19: 'ラブライブ！サンシャイン!!' - 10 spots
+2026-07-27 09:43:10,485 - AniTabiJP - INFO -   'ラブライブ！サンシャイン!!' already in index.json (different source), skipping
+2026-07-27 09:43:12,487 - AniTabiJP - INFO - 
+[18/253] Work 20: ゾンビランドサガ
+2026-07-27 09:43:12,487 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/20
+2026-07-27 09:43:12,890 - AniTabiJP - INFO - Work 20: 'ゾンビランドサガ' - 10 spots
+2026-07-27 09:43:13,192 - AniTabiJP - INFO -   'ゾンビランドサガ' already in index.json (different source), skipping
+2026-07-27 09:43:15,194 - AniTabiJP - INFO - 
+[19/253] Work 21: 氷菓
+2026-07-27 09:43:15,194 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/21
+2026-07-27 09:43:15,742 - AniTabiJP - INFO - Work 21: '氷菓' - 9 spots
+2026-07-27 09:43:16,047 - AniTabiJP - INFO -   '氷菓' already in index.json (different source), skipping
+2026-07-27 09:43:18,050 - AniTabiJP - INFO - 
+[20/253] Work 22: サマーウォーズ
+2026-07-27 09:43:18,050 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/22
+2026-07-27 09:43:19,822 - AniTabiJP - INFO - Work 22: 'サマーウォーズ' - 11 spots
+2026-07-27 09:43:20,165 - AniTabiJP - INFO -   'サマーウォーズ' already in index.json (different source), skipping
+2026-07-27 09:43:22,168 - AniTabiJP - INFO - 
+[21/253] Work 24: となりのトトロ
+2026-07-27 09:43:22,168 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/24
+2026-07-27 09:43:22,583 - AniTabiJP - INFO - Work 24: 'となりのトトロ' - 9 spots
+2026-07-27 09:43:22,870 - AniTabiJP - INFO -   'となりのトトロ' already in index.json (different source), skipping
+2026-07-27 09:43:24,872 - AniTabiJP - INFO - 
+[22/253] Work 25: 耳をすませば
+2026-07-27 09:43:24,873 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/25
+2026-07-27 09:43:25,430 - AniTabiJP - INFO - Work 25: '耳をすませば' - 10 spots
+2026-07-27 09:43:25,732 - AniTabiJP - INFO -   '耳をすませば' already in index.json (different source), skipping
+2026-07-27 09:43:27,734 - AniTabiJP - INFO - 
+[23/253] Work 26: ガールズ&amp;パンツァー
+2026-07-27 09:43:27,735 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/26
+2026-07-27 09:43:28,280 - AniTabiJP - INFO - Work 26: 'ガールズ&パンツァー' - 10 spots
+2026-07-27 09:43:28,591 - AniTabiJP - INFO -   'ガールズ&パンツァー' already in index.json (different source), skipping
+2026-07-27 09:43:30,593 - AniTabiJP - INFO - 
+[24/253] Work 27: クレヨンしんちゃん
+2026-07-27 09:43:30,593 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/27
+2026-07-27 09:43:32,363 - AniTabiJP - INFO - Work 27: 'クレヨンしんちゃん' - 13 spots
+2026-07-27 09:43:32,692 - AniTabiJP - INFO -   'クレヨンしんちゃん' already in index.json (different source), skipping
+2026-07-27 09:43:34,694 - AniTabiJP - INFO - 
+[25/253] Work 29: 名探偵コナン
+2026-07-27 09:43:34,694 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/29
+2026-07-27 09:43:36,502 - AniTabiJP - INFO - Work 29: '名探偵コナン' - 19 spots
+2026-07-27 09:43:36,794 - AniTabiJP - INFO -   '名探偵コナン' already in index.json (different source), skipping
+2026-07-27 09:43:38,796 - AniTabiJP - INFO - 
+[26/253] Work 30: ヴァイオレット・エヴァーガーデン
+2026-07-27 09:43:38,796 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/30
+2026-07-27 09:43:39,205 - AniTabiJP - INFO - Work 30: 'ヴァイオレット・エヴァーガーデン' - 2 spots
+2026-07-27 09:43:39,512 - AniTabiJP - INFO -   'ヴァイオレット・エヴァーガーデン' already in index.json (different source), skipping
+2026-07-27 09:43:41,514 - AniTabiJP - INFO - 
+[27/253] Work 31: 四月は君の嘘
+2026-07-27 09:43:41,515 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/31
+2026-07-27 09:43:43,285 - AniTabiJP - INFO - Work 31: '四月は君の嘘' - 13 spots
+2026-07-27 09:43:43,606 - AniTabiJP - INFO -   '四月は君の嘘' already in index.json (different source), skipping
+2026-07-27 09:43:45,608 - AniTabiJP - INFO - 
+[28/253] Work 32: ダンダダン
+2026-07-27 09:43:45,608 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/32
+2026-07-27 09:43:46,034 - AniTabiJP - INFO - Work 32: 'ダンダダン' - 1 spots
+2026-07-27 09:43:46,334 - AniTabiJP - INFO -   'ダンダダン' already in index.json (different source), skipping
+2026-07-27 09:43:48,336 - AniTabiJP - INFO - 
+[29/253] Work 34: 【推しの子】
+2026-07-27 09:43:48,336 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/34
+2026-07-27 09:43:48,740 - AniTabiJP - INFO - Work 34: '【推しの子】' - 8 spots
+2026-07-27 09:43:49,043 - AniTabiJP - INFO -   '【推しの子】' already in index.json (different source), skipping
+2026-07-27 09:43:51,046 - AniTabiJP - INFO - 
+[30/253] Work 35: SPY×FAMILY
+2026-07-27 09:43:51,046 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/35
+2026-07-27 09:43:51,252 - AniTabiJP - INFO - JSON-LD had no spots for work 35, parsing HTML cards
+2026-07-27 09:43:51,445 - AniTabiJP - INFO - Work 35: 'SPY×FAMILY' - 0 spots
+2026-07-27 09:43:51,445 - AniTabiJP - INFO -   No spots for work 35, skipping
+2026-07-27 09:43:53,448 - AniTabiJP - INFO - 
+[31/253] Work 36: 葬送のフリーレン
+2026-07-27 09:43:53,448 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/36
+2026-07-27 09:43:53,996 - AniTabiJP - INFO - Work 36: '葬送のフリーレン' - 7 spots
+2026-07-27 09:43:54,324 - AniTabiJP - INFO -   '葬送のフリーレン' already in index.json (different source), skipping
+2026-07-27 09:43:56,326 - AniTabiJP - INFO - 
+[32/253] Work 37: 涼宮ハルヒの憂鬱
+2026-07-27 09:43:56,326 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/37
+2026-07-27 09:43:56,881 - AniTabiJP - INFO - Work 37: '涼宮ハルヒの憂鬱' - 9 spots
+2026-07-27 09:43:57,172 - AniTabiJP - INFO -   '涼宮ハルヒの憂鬱' already in index.json (different source), skipping
+2026-07-27 09:43:59,174 - AniTabiJP - INFO - 
+[33/253] Work 38: ラブライブ!
+2026-07-27 09:43:59,175 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/38
+2026-07-27 09:43:59,590 - AniTabiJP - INFO - Work 38: 'ラブライブ!' - 10 spots
+2026-07-27 09:43:59,892 - AniTabiJP - INFO -   'ラブライブ!' already in index.json (different source), skipping
+2026-07-27 09:44:01,894 - AniTabiJP - INFO - 
+[34/253] Work 39: 花咲くいろは
+2026-07-27 09:44:01,895 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/39
+2026-07-27 09:44:02,309 - AniTabiJP - INFO - Work 39: '花咲くいろは' - 8 spots
+2026-07-27 09:44:02,654 - AniTabiJP - INFO -   '花咲くいろは' already in index.json (different source), skipping
+2026-07-27 09:44:04,656 - AniTabiJP - INFO - 
+[35/253] Work 40: けいおん!
+2026-07-27 09:44:04,656 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/40
+2026-07-27 09:44:05,214 - AniTabiJP - INFO - Work 40: 'けいおん!' - 10 spots
+2026-07-27 09:44:05,502 - AniTabiJP - INFO -   'けいおん!' already in index.json (different source), skipping
+2026-07-27 09:44:07,504 - AniTabiJP - INFO - 
+[36/253] Work 41: CLANNAD
+2026-07-27 09:44:07,505 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/41
+2026-07-27 09:44:07,916 - AniTabiJP - INFO - Work 41: 'CLANNAD' - 9 spots
+2026-07-27 09:44:08,219 - AniTabiJP - INFO -   'CLANNAD' already in index.json (different source), skipping
+2026-07-27 09:44:10,221 - AniTabiJP - INFO - 
+[37/253] Work 42: true tears
+2026-07-27 09:44:10,222 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/42
+2026-07-27 09:44:10,628 - AniTabiJP - INFO - Work 42: 'true tears' - 10 spots
+2026-07-27 09:44:10,938 - AniTabiJP - INFO -   'true tears' already in index.json (different source), skipping
+2026-07-27 09:44:12,940 - AniTabiJP - INFO - 
+[38/253] Work 43: 薬屋のひとりごと
+2026-07-27 09:44:12,940 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/43
+2026-07-27 09:44:13,147 - AniTabiJP - INFO - JSON-LD had no spots for work 43, parsing HTML cards
+2026-07-27 09:44:13,341 - AniTabiJP - INFO - Work 43: '薬屋のひとりごと' - 0 spots
+2026-07-27 09:44:13,341 - AniTabiJP - INFO -   No spots for work 43, skipping
+2026-07-27 09:44:15,344 - AniTabiJP - INFO - 
+[39/253] Work 44: 俺だけレベルアップな件
+2026-07-27 09:44:15,344 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/44
+2026-07-27 09:44:15,749 - AniTabiJP - INFO - Work 44: '俺だけレベルアップな件' - 4 spots
+2026-07-27 09:44:16,114 - AniTabiJP - INFO -   '俺だけレベルアップな件' already in index.json (different source), skipping
+2026-07-27 09:44:18,116 - AniTabiJP - INFO - 
+[40/253] Work 46: 東京リベンジャーズ
+2026-07-27 09:44:18,117 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/46
+2026-07-27 09:44:18,529 - AniTabiJP - INFO - Work 46: '東京リベンジャーズ' - 10 spots
+2026-07-27 09:44:18,833 - AniTabiJP - INFO -   '東京リベンジャーズ' already in index.json (different source), skipping
+2026-07-27 09:44:20,835 - AniTabiJP - INFO - 
+[41/253] Work 47: もののけ姫
+2026-07-27 09:44:20,835 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/47
+2026-07-27 09:44:21,256 - AniTabiJP - INFO - Work 47: 'もののけ姫' - 8 spots
+2026-07-27 09:44:21,569 - AniTabiJP - INFO -   'もののけ姫' already in index.json (different source), skipping
+2026-07-27 09:44:23,571 - AniTabiJP - INFO - 
+[42/253] Work 48: 魔女の宅急便
+2026-07-27 09:44:23,571 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/48
+2026-07-27 09:44:23,985 - AniTabiJP - INFO - Work 48: '魔女の宅急便' - 7 spots
+2026-07-27 09:44:24,317 - AniTabiJP - INFO -   '魔女の宅急便' already in index.json (different source), skipping
+2026-07-27 09:44:26,319 - AniTabiJP - INFO - 
+[43/253] Work 49: 風立ちぬ
+2026-07-27 09:44:26,319 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/49
+2026-07-27 09:44:26,747 - AniTabiJP - INFO - Work 49: '風立ちぬ' - 7 spots
+2026-07-27 09:44:27,058 - AniTabiJP - INFO -   '風立ちぬ' already in index.json (different source), skipping
+2026-07-27 09:44:29,060 - AniTabiJP - INFO - 
+[44/253] Work 51: すずめの戸締まり
+2026-07-27 09:44:29,060 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/51
+2026-07-27 09:44:29,501 - AniTabiJP - INFO - Work 51: 'すずめの戸締まり' - 8 spots
+2026-07-27 09:44:29,817 - AniTabiJP - INFO -   'すずめの戸締まり' already in index.json (different source), skipping
+2026-07-27 09:44:31,819 - AniTabiJP - INFO - 
+[45/253] Work 54: アオのハコ
+2026-07-27 09:44:31,819 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/54
+2026-07-27 09:44:32,226 - AniTabiJP - INFO - Work 54: 'アオのハコ' - 3 spots
+2026-07-27 09:44:32,567 - AniTabiJP - INFO -   'アオのハコ' already in index.json (different source), skipping
+2026-07-27 09:44:34,569 - AniTabiJP - INFO - 
+[46/253] Work 55: 宇宙よりも遠い場所
+2026-07-27 09:44:34,570 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/55
+2026-07-27 09:44:34,978 - AniTabiJP - INFO - Work 55: '宇宙よりも遠い場所' - 10 spots
+2026-07-27 09:44:35,277 - AniTabiJP - INFO -   '宇宙よりも遠い場所' already in index.json (different source), skipping
+2026-07-27 09:44:37,279 - AniTabiJP - INFO - 
+[47/253] Work 56: サマータイムレンダ
+2026-07-27 09:44:37,279 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/56
+2026-07-27 09:44:37,691 - AniTabiJP - INFO - Work 56: 'サマータイムレンダ' - 8 spots
+2026-07-27 09:44:38,011 - AniTabiJP - INFO -   'サマータイムレンダ' already in index.json (different source), skipping
+2026-07-27 09:44:40,013 - AniTabiJP - INFO - 
+[48/253] Work 57: のんのんびより
+2026-07-27 09:44:40,013 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/57
+2026-07-27 09:44:40,431 - AniTabiJP - INFO - Work 57: 'のんのんびより' - 5 spots
+2026-07-27 09:44:40,764 - AniTabiJP - INFO -   'のんのんびより' already in index.json (different source), skipping
+2026-07-27 09:44:42,766 - AniTabiJP - INFO - 
+[49/253] Work 58: 夏目友人帳
+2026-07-27 09:44:42,767 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/58
+2026-07-27 09:44:43,338 - AniTabiJP - INFO - Work 58: '夏目友人帳' - 10 spots
+2026-07-27 09:44:43,626 - AniTabiJP - INFO -   '夏目友人帳' already in index.json (different source), skipping
+2026-07-27 09:44:45,628 - AniTabiJP - INFO - 
+[50/253] Work 59: コードギアス 反逆のルルーシュ
+2026-07-27 09:44:45,629 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/59
+2026-07-27 09:44:46,069 - AniTabiJP - INFO - Work 59: 'コードギアス 反逆のルルーシュ' - 2 spots
+2026-07-27 09:44:46,371 - AniTabiJP - INFO -   'コードギアス 反逆のルルーシュ' already in index.json (different source), skipping
+2026-07-27 09:44:48,373 - AniTabiJP - INFO - 
+[51/253] Work 60: STEINS;GATE
+2026-07-27 09:44:48,373 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/60
+2026-07-27 09:44:48,790 - AniTabiJP - INFO - Work 60: 'STEINS;GATE' - 9 spots
+2026-07-27 09:44:49,101 - AniTabiJP - INFO -   'STEINS;GATE' already in index.json (different source), skipping
+2026-07-27 09:44:51,104 - AniTabiJP - INFO - 
+[52/253] Work 62: Angel Beats!
+2026-07-27 09:44:51,104 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/62
+2026-07-27 09:44:51,518 - AniTabiJP - INFO - Work 62: 'Angel Beats!' - 3 spots
+2026-07-27 09:44:51,839 - AniTabiJP - INFO -   'Angel Beats!' already in index.json (different source), skipping
+2026-07-27 09:44:53,841 - AniTabiJP - INFO - 
+[53/253] Work 63: 銀魂
+2026-07-27 09:44:53,841 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/63
+2026-07-27 09:44:54,247 - AniTabiJP - INFO - Work 63: '銀魂' - 6 spots
+2026-07-27 09:44:54,540 - AniTabiJP - INFO -   '銀魂' already in index.json (different source), skipping
+2026-07-27 09:44:56,542 - AniTabiJP - INFO - 
+[54/253] Work 65: ちはやふる
+2026-07-27 09:44:56,542 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/65
+2026-07-27 09:44:56,952 - AniTabiJP - INFO - Work 65: 'ちはやふる' - 8 spots
+2026-07-27 09:44:57,254 - AniTabiJP - INFO -   'ちはやふる' already in index.json (different source), skipping
+2026-07-27 09:44:59,256 - AniTabiJP - INFO - 
+[55/253] Work 66: おジャ魔女どれみ
+2026-07-27 09:44:59,257 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/66
+2026-07-27 09:44:59,663 - AniTabiJP - INFO - Work 66: 'おジャ魔女どれみ' - 3 spots
+2026-07-27 09:45:00,003 - AniTabiJP - INFO -   'おジャ魔女どれみ' already in index.json (different source), skipping
+2026-07-27 09:45:02,005 - AniTabiJP - INFO - 
+[56/253] Work 67: デジモンアドベンチャー
+2026-07-27 09:45:02,005 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/67
+2026-07-27 09:45:02,420 - AniTabiJP - INFO - Work 67: 'デジモンアドベンチャー' - 10 spots
+2026-07-27 09:45:02,729 - AniTabiJP - INFO -   'デジモンアドベンチャー' already in index.json (different source), skipping
+2026-07-27 09:45:04,732 - AniTabiJP - INFO - 
+[57/253] Work 68: 頭文字D
+2026-07-27 09:45:04,732 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/68
+2026-07-27 09:45:05,269 - AniTabiJP - INFO - Work 68: '頭文字D' - 10 spots
+2026-07-27 09:45:05,567 - AniTabiJP - INFO -   '頭文字D' already in index.json (different source), skipping
+2026-07-27 09:45:07,569 - AniTabiJP - INFO - 
+[58/253] Work 69: 弱虫ペダル
+2026-07-27 09:45:07,569 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/69
+2026-07-27 09:45:07,925 - AniTabiJP - WARNING - Request error (attempt 1): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-07-27 09:45:11,715 - AniTabiJP - INFO - Work 69: '弱虫ペダル' - 9 spots
+2026-07-27 09:45:12,032 - AniTabiJP - INFO -   '弱虫ペダル' already in index.json (different source), skipping
+2026-07-27 09:45:14,035 - AniTabiJP - INFO - 
+[59/253] Work 71: 文豪ストレイドッグス
+2026-07-27 09:45:14,035 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/71
+2026-07-27 09:45:14,661 - AniTabiJP - INFO - Work 71: '文豪ストレイドッグス' - 10 spots
+2026-07-27 09:45:14,958 - AniTabiJP - INFO -   '文豪ストレイドッグス' already in index.json (different source), skipping
+2026-07-27 09:45:16,960 - AniTabiJP - INFO - 
+[60/253] Work 72: 言の葉の庭
+2026-07-27 09:45:16,960 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/72
+2026-07-27 09:45:17,369 - AniTabiJP - INFO - Work 72: '言の葉の庭' - 8 spots
+2026-07-27 09:45:17,673 - AniTabiJP - INFO -   '言の葉の庭' already in index.json (different source), skipping
+2026-07-27 09:45:19,675 - AniTabiJP - INFO - 
+[61/253] Work 73: 秒速5センチメートル
+2026-07-27 09:45:19,675 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/73
+2026-07-27 09:45:20,090 - AniTabiJP - INFO - Work 73: '秒速5センチメートル' - 10 spots
+2026-07-27 09:45:20,408 - AniTabiJP - INFO -   '秒速5センチメートル' already in index.json (different source), skipping
+2026-07-27 09:45:22,411 - AniTabiJP - INFO - 
+[62/253] Work 74: 時をかける少女
+2026-07-27 09:45:22,411 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/74
+2026-07-27 09:45:22,830 - AniTabiJP - INFO - Work 74: '時をかける少女' - 3 spots
+2026-07-27 09:45:23,119 - AniTabiJP - INFO -   '時をかける少女' already in index.json (different source), skipping
+2026-07-27 09:45:25,121 - AniTabiJP - INFO - 
+[63/253] Work 75: おおかみこどもの雨と雪
+2026-07-27 09:45:25,122 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/75
+2026-07-27 09:45:25,529 - AniTabiJP - INFO - Work 75: 'おおかみこどもの雨と雪' - 10 spots
+2026-07-27 09:45:25,834 - AniTabiJP - INFO -   'おおかみこどもの雨と雪' already in index.json (different source), skipping
+2026-07-27 09:45:27,836 - AniTabiJP - INFO - 
+[64/253] Work 76: サマーゴースト
+2026-07-27 09:45:27,837 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/76
+2026-07-27 09:45:28,250 - AniTabiJP - INFO - Work 76: 'サマーゴースト' - 1 spots
+2026-07-27 09:45:28,581 - AniTabiJP - INFO -   'サマーゴースト' already in index.json (different source), skipping
+2026-07-27 09:45:30,583 - AniTabiJP - INFO - 
+[65/253] Work 78: Just Because!
+2026-07-27 09:45:30,583 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/78
+2026-07-27 09:45:30,979 - AniTabiJP - INFO - Work 78: 'Just Because!' - 10 spots
+2026-07-27 09:45:31,321 - AniTabiJP - INFO -   'Just Because!' already in index.json (different source), skipping
+2026-07-27 09:45:33,323 - AniTabiJP - INFO - 
+[66/253] Work 79: 月がきれい
+2026-07-27 09:45:33,323 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/79
+2026-07-27 09:45:33,730 - AniTabiJP - INFO - Work 79: '月がきれい' - 10 spots
+2026-07-27 09:45:34,027 - AniTabiJP - INFO -   '月がきれい' already in index.json (different source), skipping
+2026-07-27 09:45:36,030 - AniTabiJP - INFO - 
+[67/253] Work 80: 境界の彼方
+2026-07-27 09:45:36,030 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/80
+2026-07-27 09:45:36,453 - AniTabiJP - INFO - Work 80: '境界の彼方' - 9 spots
+2026-07-27 09:45:36,775 - AniTabiJP - INFO -   '境界の彼方' already in index.json (different source), skipping
+2026-07-27 09:45:38,777 - AniTabiJP - INFO - 
+[68/253] Work 81: 日常
+2026-07-27 09:45:38,777 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/81
+2026-07-27 09:45:39,188 - AniTabiJP - INFO - Work 81: '日常' - 8 spots
+2026-07-27 09:45:39,517 - AniTabiJP - INFO -   '日常' already in index.json (different source), skipping
+2026-07-27 09:45:41,519 - AniTabiJP - INFO - 
+[69/253] Work 82: 恋は雨上がりのように
+2026-07-27 09:45:41,519 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/82
+2026-07-27 09:45:41,923 - AniTabiJP - INFO - Work 82: '恋は雨上がりのように' - 6 spots
+2026-07-27 09:45:42,228 - AniTabiJP - INFO -   '恋は雨上がりのように' already in index.json (different source), skipping
+2026-07-27 09:45:44,231 - AniTabiJP - INFO - 
+[70/253] Work 83: つり球
+2026-07-27 09:45:44,231 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/83
+2026-07-27 09:45:44,666 - AniTabiJP - INFO - Work 83: 'つり球' - 10 spots
+2026-07-27 09:45:44,981 - AniTabiJP - INFO -   'つり球' already in index.json (different source), skipping
+2026-07-27 09:45:46,983 - AniTabiJP - INFO - 
+[71/253] Work 84: たまゆら
+2026-07-27 09:45:46,983 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/84
+2026-07-27 09:45:47,398 - AniTabiJP - INFO - Work 84: 'たまゆら' - 10 spots
+2026-07-27 09:45:47,725 - AniTabiJP - INFO -   'たまゆら' already in index.json (different source), skipping
+2026-07-27 09:45:49,727 - AniTabiJP - INFO - 
+[72/253] Work 85: かみちゅ!
+2026-07-27 09:45:49,727 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/85
+2026-07-27 09:45:50,143 - AniTabiJP - INFO - Work 85: 'かみちゅ!' - 10 spots
+2026-07-27 09:45:50,431 - AniTabiJP - INFO -   'かみちゅ!' already in index.json (different source), skipping
+2026-07-27 09:45:52,433 - AniTabiJP - INFO - 
+[73/253] Work 86: TARI TARI
+2026-07-27 09:45:52,433 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/86
+2026-07-27 09:45:52,832 - AniTabiJP - INFO - Work 86: 'TARI TARI' - 10 spots
+2026-07-27 09:45:53,132 - AniTabiJP - INFO -   'TARI TARI' already in index.json (different source), skipping
+2026-07-27 09:45:55,134 - AniTabiJP - INFO - 
+[74/253] Work 87: 色づく世界の明日から
+2026-07-27 09:45:55,135 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/87
+2026-07-27 09:45:55,528 - AniTabiJP - INFO - Work 87: '色づく世界の明日から' - 10 spots
+2026-07-27 09:45:55,853 - AniTabiJP - INFO -   '色づく世界の明日から' already in index.json (different source), skipping
+2026-07-27 09:45:57,856 - AniTabiJP - INFO - 
+[75/253] Work 88: 凪のあすから
+2026-07-27 09:45:57,856 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/88
+2026-07-27 09:45:58,536 - AniTabiJP - INFO - Work 88: '凪のあすから' - 8 spots
+2026-07-27 09:45:58,838 - AniTabiJP - INFO -   '凪のあすから' already in index.json (different source), skipping
+2026-07-27 09:46:00,840 - AniTabiJP - INFO - 
+[76/253] Work 89: グラスリップ
+2026-07-27 09:46:00,841 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/89
+2026-07-27 09:46:01,293 - AniTabiJP - INFO - Work 89: 'グラスリップ' - 9 spots
+2026-07-27 09:46:01,603 - AniTabiJP - INFO -   'グラスリップ' already in index.json (different source), skipping
+2026-07-27 09:46:03,606 - AniTabiJP - INFO - 
+[77/253] Work 90: 蛍火の杜へ
+2026-07-27 09:46:03,606 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/90
+2026-07-27 09:46:04,016 - AniTabiJP - INFO - Work 90: '蛍火の杜へ' - 4 spots
+2026-07-27 09:46:04,325 - AniTabiJP - INFO -   '蛍火の杜へ' already in index.json (different source), skipping
+2026-07-27 09:46:06,328 - AniTabiJP - INFO - 
+[78/253] Work 91: 海がきこえる
+2026-07-27 09:46:06,328 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/91
+2026-07-27 09:46:06,730 - AniTabiJP - INFO - Work 91: '海がきこえる' - 9 spots
+2026-07-27 09:46:07,063 - AniTabiJP - INFO -   '海がきこえる' already in index.json (different source), skipping
+2026-07-27 09:46:09,066 - AniTabiJP - INFO - 
+[79/253] Work 93: ポケットモンスター
+2026-07-27 09:46:09,066 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/93
+2026-07-27 09:46:11,280 - AniTabiJP - INFO - Work 93: 'ポケットモンスター' - 22 spots
+2026-07-27 09:46:11,590 - AniTabiJP - INFO -   'ポケットモンスター' already in index.json (different source), skipping
+2026-07-27 09:46:13,592 - AniTabiJP - INFO - 
+[80/253] Work 99: 青春ブタ野郎はバニーガール先輩の夢を見ない
+2026-07-27 09:46:13,593 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/99
+2026-07-27 09:46:14,148 - AniTabiJP - INFO - Work 99: '青春ブタ野郎はバニーガール先輩の夢を見ない' - 10 spots
+2026-07-27 09:46:14,458 - AniTabiJP - INFO -   '青春ブタ野郎はバニーガール先輩の夢を見ない' already in index.json (different source), skipping
+2026-07-27 09:46:16,460 - AniTabiJP - INFO - 
+[81/253] Work 100: 僕だけがいない街
+2026-07-27 09:46:16,460 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/100
+2026-07-27 09:46:16,868 - AniTabiJP - INFO - Work 100: '僕だけがいない街' - 8 spots
+2026-07-27 09:46:17,201 - AniTabiJP - INFO -   '僕だけがいない街' already in index.json (different source), skipping
+2026-07-27 09:46:19,203 - AniTabiJP - INFO - 
+[82/253] Work 101: リコリス・リコイル
+2026-07-27 09:46:19,203 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/101
+2026-07-27 09:46:19,620 - AniTabiJP - INFO - Work 101: 'リコリス・リコイル' - 10 spots
+2026-07-27 09:46:19,917 - AniTabiJP - INFO -   'リコリス・リコイル' already in index.json (different source), skipping
+2026-07-27 09:46:21,920 - AniTabiJP - INFO - 
+[83/253] Work 102: たまこまーけっと
+2026-07-27 09:46:21,920 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/102
+2026-07-27 09:46:22,338 - AniTabiJP - INFO - Work 102: 'たまこまーけっと' - 10 spots
+2026-07-27 09:46:22,639 - AniTabiJP - INFO -   'たまこまーけっと' already in index.json (different source), skipping
+2026-07-27 09:46:24,641 - AniTabiJP - INFO - 
+[84/253] Work 103: その着せ替え人形は恋をする
+2026-07-27 09:46:24,641 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/103
+2026-07-27 09:46:25,060 - AniTabiJP - INFO - Work 103: 'その着せ替え人形は恋をする' - 5 spots
+2026-07-27 09:46:25,388 - AniTabiJP - INFO -   'その着せ替え人形は恋をする' already in index.json (different source), skipping
+2026-07-27 09:46:27,390 - AniTabiJP - INFO - 
+[85/253] Work 104: 逃げ上手の若君
+2026-07-27 09:46:27,390 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/104
+2026-07-27 09:46:27,822 - AniTabiJP - INFO - Work 104: '逃げ上手の若君' - 5 spots
+2026-07-27 09:46:28,117 - AniTabiJP - INFO -   '逃げ上手の若君' already in index.json (different source), skipping
+2026-07-27 09:46:30,119 - AniTabiJP - INFO - 
+[86/253] Work 105: とんがり帽子のアトリエ
+2026-07-27 09:46:30,119 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/105
+2026-07-27 09:46:30,327 - AniTabiJP - INFO - JSON-LD had no spots for work 105, parsing HTML cards
+2026-07-27 09:46:30,520 - AniTabiJP - INFO - Work 105: 'とんがり帽子のアトリエ' - 0 spots
+2026-07-27 09:46:30,521 - AniTabiJP - INFO -   No spots for work 105, skipping
+2026-07-27 09:46:32,523 - AniTabiJP - INFO - 
+[87/253] Work 106: 転生したらスライムだった件
+2026-07-27 09:46:32,523 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/106
+2026-07-27 09:46:32,741 - AniTabiJP - INFO - JSON-LD had no spots for work 106, parsing HTML cards
+2026-07-27 09:46:32,936 - AniTabiJP - INFO - Work 106: '転生したらスライムだった件' - 0 spots
+2026-07-27 09:46:32,936 - AniTabiJP - INFO -   No spots for work 106, skipping
+2026-07-27 09:46:34,938 - AniTabiJP - INFO - 
+[88/253] Work 107: ようこそ実力至上主義の教室へ
+2026-07-27 09:46:34,938 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/107
+2026-07-27 09:46:35,348 - AniTabiJP - INFO - Work 107: 'ようこそ実力至上主義の教室へ' - 2 spots
+2026-07-27 09:46:35,650 - AniTabiJP - INFO -   'ようこそ実力至上主義の教室へ' already in index.json (different source), skipping
+2026-07-27 09:46:37,653 - AniTabiJP - INFO - 
+[89/253] Work 108: MARRIAGETOXIN
+2026-07-27 09:46:37,653 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/108
+2026-07-27 09:46:37,873 - AniTabiJP - INFO - JSON-LD had no spots for work 108, parsing HTML cards
+2026-07-27 09:46:38,071 - AniTabiJP - INFO - Work 108: 'MARRIAGETOXIN' - 0 spots
+2026-07-27 09:46:38,071 - AniTabiJP - INFO -   No spots for work 108, skipping
+2026-07-27 09:46:40,073 - AniTabiJP - INFO - 
+[90/253] Work 109: あかね噺
+2026-07-27 09:46:40,073 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/109
+2026-07-27 09:46:40,618 - AniTabiJP - INFO - Work 109: 'あかね噺' - 10 spots
+2026-07-27 09:46:40,964 - AniTabiJP - INFO -   'あかね噺' already in index.json (different source), skipping
+2026-07-27 09:46:42,966 - AniTabiJP - INFO - 
+[91/253] Work 110: NEEDY GIRL OVERDOSE
+2026-07-27 09:46:42,966 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/110
+2026-07-27 09:46:43,205 - AniTabiJP - INFO - JSON-LD had no spots for work 110, parsing HTML cards
+2026-07-27 09:46:43,402 - AniTabiJP - INFO - Work 110: 'NEEDY GIRL OVERDOSE' - 0 spots
+2026-07-27 09:46:43,403 - AniTabiJP - INFO -   No spots for work 110, skipping
+2026-07-27 09:46:45,405 - AniTabiJP - INFO - 
+[92/253] Work 113: 上伊那ぼたん、酔へる姿は百合の花
+2026-07-27 09:46:45,405 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/113
+2026-07-27 09:46:45,829 - AniTabiJP - INFO - Work 113: '上伊那ぼたん、酔へる姿は百合の花' - 3 spots
+2026-07-27 09:46:46,128 - AniTabiJP - INFO -   '上伊那ぼたん、酔へる姿は百合の花' already in index.json (different source), skipping
+2026-07-27 09:46:48,130 - AniTabiJP - INFO - 
+[93/253] Work 115: 彼女、お借りします
+2026-07-27 09:46:48,130 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/115
+2026-07-27 09:46:48,544 - AniTabiJP - INFO - Work 115: '彼女、お借りします' - 8 spots
+2026-07-27 09:46:48,868 - AniTabiJP - INFO -   '彼女、お借りします' already in index.json (different source), skipping
+2026-07-27 09:46:50,870 - AniTabiJP - INFO - 
+[94/253] Work 116: 神の雫
+2026-07-27 09:46:50,870 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/116
+2026-07-27 09:46:51,073 - AniTabiJP - INFO - JSON-LD had no spots for work 116, parsing HTML cards
+2026-07-27 09:46:51,266 - AniTabiJP - INFO - Work 116: '神の雫' - 0 spots
+2026-07-27 09:46:51,266 - AniTabiJP - INFO -   No spots for work 116, skipping
+2026-07-27 09:46:53,268 - AniTabiJP - INFO - 
+[95/253] Work 117: スティール・ボール・ラン
+2026-07-27 09:46:53,268 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/117
+2026-07-27 09:46:53,481 - AniTabiJP - INFO - JSON-LD had no spots for work 117, parsing HTML cards
+2026-07-27 09:46:53,672 - AniTabiJP - INFO - Work 117: 'スティール・ボール・ラン' - 0 spots
+2026-07-27 09:46:53,672 - AniTabiJP - INFO -   No spots for work 117, skipping
+2026-07-27 09:46:55,675 - AniTabiJP - INFO - 
+[96/253] Work 118: キルアオ
+2026-07-27 09:46:55,675 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/118
+2026-07-27 09:46:56,000 - AniTabiJP - INFO - JSON-LD had no spots for work 118, parsing HTML cards
+2026-07-27 09:46:56,204 - AniTabiJP - INFO - Work 118: 'キルアオ' - 0 spots
+2026-07-27 09:46:56,204 - AniTabiJP - INFO -   No spots for work 118, skipping
+2026-07-27 09:46:58,204 - AniTabiJP - INFO - 
+[97/253] Work 119: 日本三國
+2026-07-27 09:46:58,204 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/119
+2026-07-27 09:46:58,609 - AniTabiJP - INFO - Work 119: '日本三國' - 1 spots
+2026-07-27 09:46:58,973 - AniTabiJP - INFO -   '日本三國' already in index.json (different source), skipping
+2026-07-27 09:47:00,976 - AniTabiJP - INFO - 
+[98/253] Work 120: MFゴースト
+2026-07-27 09:47:00,976 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/120
+2026-07-27 09:47:01,383 - AniTabiJP - INFO - Work 120: 'MFゴースト' - 3 spots
+2026-07-27 09:47:01,712 - AniTabiJP - INFO -   'MFゴースト' already in index.json (different source), skipping
+2026-07-27 09:47:03,714 - AniTabiJP - INFO - 
+[99/253] Work 121: 君は放課後インソムニア
+2026-07-27 09:47:03,715 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/121
+2026-07-27 09:47:04,116 - AniTabiJP - INFO - Work 121: '君は放課後インソムニア' - 3 spots
+2026-07-27 09:47:04,405 - AniTabiJP - INFO -   '君は放課後インソムニア' already in index.json (different source), skipping
+2026-07-27 09:47:06,405 - AniTabiJP - INFO - 
+[100/253] Work 122: 千歳くんはラムネ瓶のなか
+2026-07-27 09:47:06,405 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/122
+2026-07-27 09:47:06,832 - AniTabiJP - INFO - Work 122: '千歳くんはラムネ瓶のなか' - 3 spots
+2026-07-27 09:47:07,169 - AniTabiJP - INFO -   '千歳くんはラムネ瓶のなか' already in index.json (different source), skipping
+2026-07-27 09:47:09,172 - AniTabiJP - INFO - 
+[101/253] Work 123: ぐらんぶる
+2026-07-27 09:47:09,172 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/123
+2026-07-27 09:47:09,978 - AniTabiJP - INFO - Work 123: 'ぐらんぶる' - 3 spots
+2026-07-27 09:47:10,309 - AniTabiJP - INFO -   'ぐらんぶる' already in index.json (different source), skipping
+2026-07-27 09:47:12,311 - AniTabiJP - INFO - 
+[102/253] Work 124: 薫る花は凛と咲く
+2026-07-27 09:47:12,311 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/124
+2026-07-27 09:47:12,717 - AniTabiJP - INFO - Work 124: '薫る花は凛と咲く' - 2 spots
+2026-07-27 09:47:13,009 - AniTabiJP - INFO -   '薫る花は凛と咲く' already in index.json (different source), skipping
+2026-07-27 09:47:15,011 - AniTabiJP - INFO - 
+[103/253] Work 125: ウマ娘 シンデレラグレイ
+2026-07-27 09:47:15,011 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/125
+2026-07-27 09:47:15,422 - AniTabiJP - INFO - Work 125: 'ウマ娘 シンデレラグレイ' - 3 spots
+2026-07-27 09:47:15,730 - AniTabiJP - INFO -   'ウマ娘 シンデレラグレイ' already in index.json (different source), skipping
+2026-07-27 09:47:17,732 - AniTabiJP - INFO - 
+[104/253] Work 126: 沖縄で好きになった子が方言すぎてツラすぎる
+2026-07-27 09:47:17,732 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/126
+2026-07-27 09:47:18,151 - AniTabiJP - INFO - Work 126: '沖縄で好きになった子が方言すぎてツラすぎる' - 2 spots
+2026-07-27 09:47:18,483 - AniTabiJP - INFO -   '沖縄で好きになった子が方言すぎてツラすぎる' already in index.json (different source), skipping
+2026-07-27 09:47:20,485 - AniTabiJP - INFO - 
+[105/253] Work 127: Summer Pockets
+2026-07-27 09:47:20,485 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/127
+2026-07-27 09:47:20,942 - AniTabiJP - INFO - Work 127: 'Summer Pockets' - 2 spots
+2026-07-27 09:47:21,234 - AniTabiJP - INFO -   'Summer Pockets' already in index.json (different source), skipping
+2026-07-27 09:47:23,237 - AniTabiJP - INFO - 
+[106/253] Work 129: ざつ旅 -That&#039;s Journey-
+2026-07-27 09:47:23,237 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/129
+2026-07-27 09:47:23,655 - AniTabiJP - INFO - Work 129: 'ざつ旅 -That's Journey-' - 2 spots
+2026-07-27 09:47:23,962 - AniTabiJP - INFO -   'ざつ旅 -That's Journey-' already in index.json (different source), skipping
+2026-07-27 09:47:25,965 - AniTabiJP - INFO - 
+[107/253] Work 130: 前橋ウィッチーズ
+2026-07-27 09:47:25,965 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/130
+2026-07-27 09:47:26,384 - AniTabiJP - INFO - Work 130: '前橋ウィッチーズ' - 3 spots
+2026-07-27 09:47:26,703 - AniTabiJP - INFO -   '前橋ウィッチーズ' already in index.json (different source), skipping
+2026-07-27 09:47:28,705 - AniTabiJP - INFO - 
+[108/253] Work 131: 日々は過ぎれど飯うまし
+2026-07-27 09:47:28,705 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/131
+2026-07-27 09:47:29,148 - AniTabiJP - INFO - Work 131: '日々は過ぎれど飯うまし' - 3 spots
+2026-07-27 09:47:29,444 - AniTabiJP - INFO -   '日々は過ぎれど飯うまし' already in index.json (different source), skipping
+2026-07-27 09:47:31,446 - AniTabiJP - INFO - 
+[109/253] Work 132: 白い砂のアクアトープ
+2026-07-27 09:47:31,446 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/132
+2026-07-27 09:47:31,869 - AniTabiJP - INFO - Work 132: '白い砂のアクアトープ' - 7 spots
+2026-07-27 09:47:32,171 - AniTabiJP - INFO -   '白い砂のアクアトープ' already in index.json (different source), skipping
+2026-07-27 09:47:34,173 - AniTabiJP - INFO - 
+[110/253] Work 133: とある科学の超電磁砲
+2026-07-27 09:47:34,174 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/133
+2026-07-27 09:47:34,591 - AniTabiJP - INFO - Work 133: 'とある科学の超電磁砲' - 6 spots
+2026-07-27 09:47:34,905 - AniTabiJP - INFO -   'とある科学の超電磁砲' already in index.json (different source), skipping
+2026-07-27 09:47:36,908 - AniTabiJP - INFO - 
+[111/253] Work 134: スキップとローファー
+2026-07-27 09:47:36,908 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/134
+2026-07-27 09:47:37,332 - AniTabiJP - INFO - Work 134: 'スキップとローファー' - 6 spots
+2026-07-27 09:47:37,621 - AniTabiJP - INFO -   'スキップとローファー' already in index.json (different source), skipping
+2026-07-27 09:47:39,623 - AniTabiJP - INFO - 
+[112/253] Work 135: 艦隊これくしょん -艦これ-
+2026-07-27 09:47:39,624 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/135
+2026-07-27 09:47:40,048 - AniTabiJP - INFO - Work 135: '艦隊これくしょん -艦これ-' - 7 spots
+2026-07-27 09:47:40,345 - AniTabiJP - INFO -   '艦隊これくしょん -艦これ-' already in index.json (different source), skipping
+2026-07-27 09:47:42,347 - AniTabiJP - INFO - 
+[113/253] Work 136: からかい上手の高木さん
+2026-07-27 09:47:42,347 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/136
+2026-07-27 09:47:42,753 - AniTabiJP - INFO - Work 136: 'からかい上手の高木さん' - 6 spots
+2026-07-27 09:47:43,061 - AniTabiJP - INFO -   'からかい上手の高木さん' already in index.json (different source), skipping
+2026-07-27 09:47:45,063 - AniTabiJP - INFO - 
+[114/253] Work 137: ひぐらしのなく頃に
+2026-07-27 09:47:45,063 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/137
+2026-07-27 09:47:45,472 - AniTabiJP - INFO - Work 137: 'ひぐらしのなく頃に' - 7 spots
+2026-07-27 09:47:45,803 - AniTabiJP - INFO -   'ひぐらしのなく頃に' already in index.json (different source), skipping
+2026-07-27 09:47:47,805 - AniTabiJP - INFO - 
+[115/253] Work 138: あの夏で待ってる
+2026-07-27 09:47:47,805 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/138
+2026-07-27 09:47:48,286 - AniTabiJP - INFO - Work 138: 'あの夏で待ってる' - 2 spots
+2026-07-27 09:47:48,579 - AniTabiJP - INFO -   'あの夏で待ってる' already in index.json (different source), skipping
+2026-07-27 09:47:50,581 - AniTabiJP - INFO - 
+[116/253] Work 139: ラブライブ！スーパースター!!
+2026-07-27 09:47:50,581 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/139
+2026-07-27 09:47:50,976 - AniTabiJP - INFO - Work 139: 'ラブライブ！スーパースター!!' - 2 spots
+2026-07-27 09:47:51,291 - AniTabiJP - INFO -   'ラブライブ！スーパースター!!' already in index.json (different source), skipping
+2026-07-27 09:47:53,293 - AniTabiJP - INFO - 
+[117/253] Work 140: 負けヒロインが多すぎる！
+2026-07-27 09:47:53,293 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/140
+2026-07-27 09:47:53,731 - AniTabiJP - INFO - Work 140: '負けヒロインが多すぎる！' - 7 spots
+2026-07-27 09:47:54,070 - AniTabiJP - INFO -   '負けヒロインが多すぎる！' already in index.json (different source), skipping
+2026-07-27 09:47:56,072 - AniTabiJP - INFO - 
+[118/253] Work 141: 天久鷹央の推理カルテ
+2026-07-27 09:47:56,072 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/141
+2026-07-27 09:47:56,489 - AniTabiJP - INFO - Work 141: '天久鷹央の推理カルテ' - 1 spots
+2026-07-27 09:47:56,784 - AniTabiJP - INFO -   '天久鷹央の推理カルテ' already in index.json (different source), skipping
+2026-07-27 09:47:58,786 - AniTabiJP - INFO - 
+[119/253] Work 142: BanG Dream! It&#039;s MyGO!!!!!
+2026-07-27 09:47:58,786 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/142
+2026-07-27 09:47:59,183 - AniTabiJP - INFO - Work 142: 'BanG Dream! It's MyGO!!!!!' - 2 spots
+2026-07-27 09:47:59,499 - AniTabiJP - INFO -   'BanG Dream! It's MyGO!!!!!' already in index.json (different source), skipping
+2026-07-27 09:48:01,501 - AniTabiJP - INFO - 
+[120/253] Work 144: ゴールデンカムイ
+2026-07-27 09:48:01,501 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/144
+2026-07-27 09:48:01,903 - AniTabiJP - INFO - Work 144: 'ゴールデンカムイ' - 3 spots
+2026-07-27 09:48:02,224 - AniTabiJP - INFO -   'ゴールデンカムイ' already in index.json (different source), skipping
+2026-07-27 09:48:04,226 - AniTabiJP - INFO - 
+[121/253] Work 145: ガールズバンドクライ
+2026-07-27 09:48:04,226 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/145
+2026-07-27 09:48:04,650 - AniTabiJP - INFO - Work 145: 'ガールズバンドクライ' - 2 spots
+2026-07-27 09:48:04,938 - AniTabiJP - INFO -   'ガールズバンドクライ' already in index.json (different source), skipping
+2026-07-27 09:48:06,941 - AniTabiJP - INFO - 
+[122/253] Work 147: 多聞くん、今どっち！？
+2026-07-27 09:48:06,941 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/147
+2026-07-27 09:48:07,369 - AniTabiJP - INFO - Work 147: '多聞くん、今どっち！？' - 2 spots
+2026-07-27 09:48:07,705 - AniTabiJP - INFO -   '多聞くん、今どっち！？' already in index.json (different source), skipping
+2026-07-27 09:48:09,706 - AniTabiJP - INFO - 
+[123/253] Work 148: メダリスト
+2026-07-27 09:48:09,706 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/148
+2026-07-27 09:48:10,961 - AniTabiJP - INFO - Work 148: 'メダリスト' - 2 spots
+2026-07-27 09:48:11,281 - AniTabiJP - INFO -   'メダリスト' already in index.json (different source), skipping
+2026-07-27 09:48:13,283 - AniTabiJP - INFO - 
+[124/253] Work 149: 正反対な君と僕
+2026-07-27 09:48:13,284 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/149
+2026-07-27 09:48:13,697 - AniTabiJP - INFO - Work 149: '正反対な君と僕' - 4 spots
+2026-07-27 09:48:14,009 - AniTabiJP - INFO -   '正反対な君と僕' already in index.json (different source), skipping
+2026-07-27 09:48:16,011 - AniTabiJP - INFO - 
+[125/253] Work 150: 魔法少女まどか☆マギカ
+2026-07-27 09:48:16,011 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/150
+2026-07-27 09:48:16,428 - AniTabiJP - INFO - Work 150: '魔法少女まどか☆マギカ' - 2 spots
+2026-07-27 09:48:16,722 - AniTabiJP - INFO -   '魔法少女まどか☆マギカ' already in index.json (different source), skipping
+2026-07-27 09:48:18,724 - AniTabiJP - INFO - 
+[126/253] Work 151: 異世界おじさん
+2026-07-27 09:48:18,724 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/151
+2026-07-27 09:48:19,170 - AniTabiJP - INFO - Work 151: '異世界おじさん' - 2 spots
+2026-07-27 09:48:19,501 - AniTabiJP - INFO -   '異世界おじさん' already in index.json (different source), skipping
+2026-07-27 09:48:21,503 - AniTabiJP - INFO - 
+[127/253] Work 152: Dr.STONE
+2026-07-27 09:48:21,504 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/152
+2026-07-27 09:48:21,935 - AniTabiJP - INFO - Work 152: 'Dr.STONE' - 3 spots
+2026-07-27 09:48:22,315 - AniTabiJP - INFO -   'Dr.STONE' already in index.json (different source), skipping
+2026-07-27 09:48:24,317 - AniTabiJP - INFO - 
+[128/253] Work 153: やはり俺の青春ラブコメはまちがっている。
+2026-07-27 09:48:24,318 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/153
+2026-07-27 09:48:24,726 - AniTabiJP - INFO - Work 153: 'やはり俺の青春ラブコメはまちがっている。' - 3 spots
+2026-07-27 09:48:25,013 - AniTabiJP - INFO -   'やはり俺の青春ラブコメはまちがっている。' already in index.json (different source), skipping
+2026-07-27 09:48:27,016 - AniTabiJP - INFO - 
+[129/253] Work 154: 心が叫びたがってるんだ。
+2026-07-27 09:48:27,016 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/154
+2026-07-27 09:48:27,586 - AniTabiJP - INFO - Work 154: '心が叫びたがってるんだ。' - 3 spots
+2026-07-27 09:48:27,886 - AniTabiJP - INFO -   '心が叫びたがってるんだ。' already in index.json (different source), skipping
+2026-07-27 09:48:29,889 - AniTabiJP - INFO - 
+[130/253] Work 155: 空の青さを知る人よ
+2026-07-27 09:48:29,889 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/155
+2026-07-27 09:48:30,309 - AniTabiJP - INFO - Work 155: '空の青さを知る人よ' - 2 spots
+2026-07-27 09:48:30,630 - AniTabiJP - INFO -   '空の青さを知る人よ' already in index.json (different source), skipping
+2026-07-27 09:48:32,632 - AniTabiJP - INFO - 
+[131/253] Work 156: ヤマノススメ
+2026-07-27 09:48:32,633 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/156
+2026-07-27 09:48:33,050 - AniTabiJP - INFO - Work 156: 'ヤマノススメ' - 4 spots
+2026-07-27 09:48:33,340 - AniTabiJP - INFO -   'ヤマノススメ' already in index.json (different source), skipping
+2026-07-27 09:48:35,342 - AniTabiJP - INFO - 
+[132/253] Work 157: 竜とそばかすの姫
+2026-07-27 09:48:35,342 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/157
+2026-07-27 09:48:35,736 - AniTabiJP - INFO - Work 157: '竜とそばかすの姫' - 3 spots
+2026-07-27 09:48:36,041 - AniTabiJP - INFO -   '竜とそばかすの姫' already in index.json (different source), skipping
+2026-07-27 09:48:38,043 - AniTabiJP - INFO - 
+[133/253] Work 158: デュラララ!!
+2026-07-27 09:48:38,043 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/158
+2026-07-27 09:48:38,460 - AniTabiJP - INFO - Work 158: 'デュラララ!!' - 3 spots
+2026-07-27 09:48:38,791 - AniTabiJP - INFO -   'デュラララ!!' already in index.json (different source), skipping
+2026-07-27 09:48:40,793 - AniTabiJP - INFO - 
+[134/253] Work 159: 冴えない彼女の育てかた
+2026-07-27 09:48:40,793 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/159
+2026-07-27 09:48:41,207 - AniTabiJP - INFO - Work 159: '冴えない彼女の育てかた' - 2 spots
+2026-07-27 09:48:41,499 - AniTabiJP - INFO -   '冴えない彼女の育てかた' already in index.json (different source), skipping
+2026-07-27 09:48:43,501 - AniTabiJP - INFO - 
+[135/253] Work 160: 江戸前エルフ
+2026-07-27 09:48:43,501 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/160
+2026-07-27 09:48:43,911 - AniTabiJP - INFO - Work 160: '江戸前エルフ' - 3 spots
+2026-07-27 09:48:44,217 - AniTabiJP - INFO -   '江戸前エルフ' already in index.json (different source), skipping
+2026-07-27 09:48:46,219 - AniTabiJP - INFO - 
+[136/253] Work 161: スーパーカブ
+2026-07-27 09:48:46,219 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/161
+2026-07-27 09:48:46,616 - AniTabiJP - INFO - Work 161: 'スーパーカブ' - 2 spots
+2026-07-27 09:48:46,927 - AniTabiJP - INFO -   'スーパーカブ' already in index.json (different source), skipping
+2026-07-27 09:48:48,929 - AniTabiJP - INFO - 
+[137/253] Work 162: 小市民シリーズ
+2026-07-27 09:48:48,929 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/162
+2026-07-27 09:48:49,329 - AniTabiJP - INFO - Work 162: '小市民シリーズ' - 3 spots
+2026-07-27 09:48:49,610 - AniTabiJP - INFO -   '小市民シリーズ' already in index.json (different source), skipping
+2026-07-27 09:48:51,613 - AniTabiJP - INFO - 
+[138/253] Work 163: SHIROBAKO
+2026-07-27 09:48:51,613 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/163
+2026-07-27 09:48:52,023 - AniTabiJP - INFO - Work 163: 'SHIROBAKO' - 2 spots
+2026-07-27 09:48:52,322 - AniTabiJP - INFO -   'SHIROBAKO' already in index.json (different source), skipping
+2026-07-27 09:48:54,324 - AniTabiJP - INFO - 
+[139/253] Work 164: とある魔術の禁書目録
+2026-07-27 09:48:54,325 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/164
+2026-07-27 09:48:54,765 - AniTabiJP - INFO - Work 164: 'とある魔術の禁書目録' - 2 spots
+2026-07-27 09:48:55,068 - AniTabiJP - INFO -   'とある魔術の禁書目録' already in index.json (different source), skipping
+2026-07-27 09:48:57,068 - AniTabiJP - INFO - 
+[140/253] Work 165: 神様はじめました
+2026-07-27 09:48:57,068 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/165
+2026-07-27 09:48:57,490 - AniTabiJP - INFO - Work 165: '神様はじめました' - 3 spots
+2026-07-27 09:48:57,814 - AniTabiJP - INFO -   '神様はじめました' already in index.json (different source), skipping
+2026-07-27 09:48:59,817 - AniTabiJP - INFO - 
+[141/253] Work 166: 放課後ていぼう日誌
+2026-07-27 09:48:59,817 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/166
+2026-07-27 09:49:00,234 - AniTabiJP - INFO - Work 166: '放課後ていぼう日誌' - 2 spots
+2026-07-27 09:49:00,532 - AniTabiJP - INFO -   '放課後ていぼう日誌' already in index.json (different source), skipping
+2026-07-27 09:49:02,534 - AniTabiJP - INFO - 
+[142/253] Work 167: 結城友奈は勇者である
+2026-07-27 09:49:02,534 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/167
+2026-07-27 09:49:05,461 - AniTabiJP - INFO - Work 167: '結城友奈は勇者である' - 2 spots
+2026-07-27 09:49:05,760 - AniTabiJP - INFO -   '結城友奈は勇者である' already in index.json (different source), skipping
+2026-07-27 09:49:07,762 - AniTabiJP - INFO - 
+[143/253] Work 168: 夜のクラゲは泳げない
+2026-07-27 09:49:07,762 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/168
+2026-07-27 09:49:09,245 - AniTabiJP - INFO - Work 168: '夜のクラゲは泳げない' - 2 spots
+2026-07-27 09:49:09,569 - AniTabiJP - INFO -   '夜のクラゲは泳げない' already in index.json (different source), skipping
+2026-07-27 09:49:11,572 - AniTabiJP - INFO - 
+[144/253] Work 169: 推しが武道館いってくれたら死ぬ
+2026-07-27 09:49:11,572 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/169
+2026-07-27 09:49:11,990 - AniTabiJP - INFO - Work 169: '推しが武道館いってくれたら死ぬ' - 2 spots
+2026-07-27 09:49:12,273 - AniTabiJP - INFO -   '推しが武道館いってくれたら死ぬ' already in index.json (different source), skipping
+2026-07-27 09:49:14,276 - AniTabiJP - INFO - 
+[145/253] Work 170: ハイスクール・フリート
+2026-07-27 09:49:14,276 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/170
+2026-07-27 09:49:14,692 - AniTabiJP - INFO - Work 170: 'ハイスクール・フリート' - 2 spots
+2026-07-27 09:49:14,992 - AniTabiJP - INFO -   'ハイスクール・フリート' already in index.json (different source), skipping
+2026-07-27 09:49:16,994 - AniTabiJP - INFO - 
+[146/253] Work 171: 俺の妹がこんなに可愛いわけがない
+2026-07-27 09:49:16,994 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/171
+2026-07-27 09:49:17,415 - AniTabiJP - INFO - Work 171: '俺の妹がこんなに可愛いわけがない' - 2 spots
+2026-07-27 09:49:17,733 - AniTabiJP - INFO -   '俺の妹がこんなに可愛いわけがない' already in index.json (different source), skipping
+2026-07-27 09:49:19,735 - AniTabiJP - INFO - 
+[147/253] Work 172: きみの色
+2026-07-27 09:49:19,735 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/172
+2026-07-27 09:49:20,261 - AniTabiJP - INFO - Work 172: 'きみの色' - 3 spots
+2026-07-27 09:49:20,548 - AniTabiJP - INFO -   'きみの色' already in index.json (different source), skipping
+2026-07-27 09:49:22,550 - AniTabiJP - INFO - 
+[148/253] Work 173: 青のオーケストラ
+2026-07-27 09:49:22,550 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/173
+2026-07-27 09:49:22,982 - AniTabiJP - INFO - Work 173: '青のオーケストラ' - 2 spots
+2026-07-27 09:49:23,302 - AniTabiJP - INFO -   '青のオーケストラ' already in index.json (different source), skipping
+2026-07-27 09:49:25,305 - AniTabiJP - INFO - 
+[149/253] Work 174: しかのこのこのここしたんたん
+2026-07-27 09:49:25,305 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/174
+2026-07-27 09:49:25,704 - AniTabiJP - INFO - Work 174: 'しかのこのこのここしたんたん' - 2 spots
+2026-07-27 09:49:26,022 - AniTabiJP - INFO -   'しかのこのこのここしたんたん' already in index.json (different source), skipping
+2026-07-27 09:49:28,025 - AniTabiJP - INFO - 
+[150/253] Work 176: スローループ
+2026-07-27 09:49:28,025 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/176
+2026-07-27 09:49:28,446 - AniTabiJP - INFO - Work 176: 'スローループ' - 2 spots
+2026-07-27 09:49:28,726 - AniTabiJP - INFO -   'スローループ' already in index.json (different source), skipping
+2026-07-27 09:49:30,729 - AniTabiJP - INFO - 
+[151/253] Work 178: Do It Yourself!!
+2026-07-27 09:49:30,729 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/178
+2026-07-27 09:49:31,164 - AniTabiJP - INFO - Work 178: 'Do It Yourself!!' - 2 spots
+2026-07-27 09:49:31,462 - AniTabiJP - INFO -   'Do It Yourself!!' already in index.json (different source), skipping
+2026-07-27 09:49:33,464 - AniTabiJP - INFO - 
+[152/253] Work 179: 女子高生の無駄づかい
+2026-07-27 09:49:33,465 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/179
+2026-07-27 09:49:33,925 - AniTabiJP - INFO - Work 179: '女子高生の無駄づかい' - 2 spots
+2026-07-27 09:49:34,233 - AniTabiJP - INFO -   '女子高生の無駄づかい' already in index.json (different source), skipping
+2026-07-27 09:49:36,236 - AniTabiJP - INFO - 
+[153/253] Work 180: トラペジウム
+2026-07-27 09:49:36,236 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/180
+2026-07-27 09:49:36,668 - AniTabiJP - INFO - Work 180: 'トラペジウム' - 2 spots
+2026-07-27 09:49:37,029 - AniTabiJP - INFO -   'トラペジウム' already in index.json (different source), skipping
+2026-07-27 09:49:39,032 - AniTabiJP - INFO - 
+[154/253] Work 181: ラブライブ！虹ヶ咲学園スクールアイドル同好会
+2026-07-27 09:49:39,032 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/181
+2026-07-27 09:49:39,434 - AniTabiJP - INFO - Work 181: 'ラブライブ！虹ヶ咲学園スクールアイドル同好会' - 2 spots
+2026-07-27 09:49:39,727 - AniTabiJP - INFO -   'ラブライブ！虹ヶ咲学園スクールアイドル同好会' already in index.json (different source), skipping
+2026-07-27 09:49:41,729 - AniTabiJP - INFO - 
+[155/253] Work 182: アイドルマスター ミリオンライブ！
+2026-07-27 09:49:41,729 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/182
+2026-07-27 09:49:42,151 - AniTabiJP - INFO - Work 182: 'アイドルマスター ミリオンライブ！' - 2 spots
+2026-07-27 09:49:42,460 - AniTabiJP - INFO -   'アイドルマスター ミリオンライブ！' already in index.json (different source), skipping
+2026-07-27 09:49:44,463 - AniTabiJP - INFO - 
+[156/253] Work 183: ふらいんぐうぃっち
+2026-07-27 09:49:44,463 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/183
+2026-07-27 09:49:44,873 - AniTabiJP - INFO - Work 183: 'ふらいんぐうぃっち' - 3 spots
+2026-07-27 09:49:45,191 - AniTabiJP - INFO -   'ふらいんぐうぃっち' already in index.json (different source), skipping
+2026-07-27 09:49:47,194 - AniTabiJP - INFO - 
+[157/253] Work 184: サクラクエスト
+2026-07-27 09:49:47,194 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/184
+2026-07-27 09:49:47,594 - AniTabiJP - INFO - Work 184: 'サクラクエスト' - 3 spots
+2026-07-27 09:49:47,879 - AniTabiJP - INFO -   'サクラクエスト' already in index.json (different source), skipping
+2026-07-27 09:49:49,881 - AniTabiJP - INFO - 
+[158/253] Work 185: 有頂天家族
+2026-07-27 09:49:49,881 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/185
+2026-07-27 09:49:50,293 - AniTabiJP - INFO - Work 185: '有頂天家族' - 2 spots
+2026-07-27 09:49:50,590 - AniTabiJP - INFO -   '有頂天家族' already in index.json (different source), skipping
+2026-07-27 09:49:52,593 - AniTabiJP - INFO - 
+[159/253] Work 187: ラーメン大好き小泉さん
+2026-07-27 09:49:52,593 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/187
+2026-07-27 09:49:53,013 - AniTabiJP - INFO - Work 187: 'ラーメン大好き小泉さん' - 3 spots
+2026-07-27 09:49:53,327 - AniTabiJP - INFO -   'ラーメン大好き小泉さん' already in index.json (different source), skipping
+2026-07-27 09:49:55,329 - AniTabiJP - INFO - 
+[160/253] Work 189: セクシーコマンドー外伝 すごいよ!!マサルさん
+2026-07-27 09:49:55,329 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/189
+2026-07-27 09:49:55,537 - AniTabiJP - INFO - JSON-LD had no spots for work 189, parsing HTML cards
+2026-07-27 09:49:55,737 - AniTabiJP - INFO - Work 189: 'セクシーコマンドー外伝 すごいよ!!マサルさん' - 0 spots
+2026-07-27 09:49:55,737 - AniTabiJP - INFO -   No spots for work 189, skipping
+2026-07-27 09:49:57,739 - AniTabiJP - INFO - 
+[161/253] Work 190: ピューと吹く!ジャガー
+2026-07-27 09:49:57,739 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/190
+2026-07-27 09:49:57,948 - AniTabiJP - INFO - JSON-LD had no spots for work 190, parsing HTML cards
+2026-07-27 09:49:58,160 - AniTabiJP - INFO - Work 190: 'ピューと吹く!ジャガー' - 0 spots
+2026-07-27 09:49:58,161 - AniTabiJP - INFO -   No spots for work 190, skipping
+2026-07-27 09:50:00,163 - AniTabiJP - INFO - 
+[162/253] Work 191: 喧嘩商売
+2026-07-27 09:50:00,163 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/191
+2026-07-27 09:50:00,379 - AniTabiJP - INFO - JSON-LD had no spots for work 191, parsing HTML cards
+2026-07-27 09:50:00,573 - AniTabiJP - INFO - Work 191: '喧嘩商売' - 0 spots
+2026-07-27 09:50:00,573 - AniTabiJP - INFO -   No spots for work 191, skipping
+2026-07-27 09:50:02,575 - AniTabiJP - INFO - 
+[163/253] Work 192: 犬夜叉
+2026-07-27 09:50:02,575 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/192
+2026-07-27 09:50:03,124 - AniTabiJP - INFO - Work 192: '犬夜叉' - 2 spots
+2026-07-27 09:50:03,412 - AniTabiJP - INFO -   '犬夜叉' already in index.json (different source), skipping
+2026-07-27 09:50:05,415 - AniTabiJP - INFO - 
+[164/253] Work 194: GTO
+2026-07-27 09:50:05,415 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/194
+2026-07-27 09:50:05,849 - AniTabiJP - INFO - Work 194: 'GTO' - 1 spots
+2026-07-27 09:50:06,155 - AniTabiJP - INFO -   'GTO' already in index.json (different source), skipping
+2026-07-27 09:50:08,157 - AniTabiJP - INFO - 
+[165/253] Work 195: バジリスク〜甲賀忍法帖〜
+2026-07-27 09:50:08,158 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/195
+2026-07-27 09:50:08,573 - AniTabiJP - INFO - Work 195: 'バジリスク〜甲賀忍法帖〜' - 2 spots
+2026-07-27 09:50:08,912 - AniTabiJP - INFO -   'バジリスク〜甲賀忍法帖〜' already in index.json (different source), skipping
+2026-07-27 09:50:10,914 - AniTabiJP - INFO - 
+[166/253] Work 197: 戦姫絶唱シンフォギア
+2026-07-27 09:50:10,914 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/197
+2026-07-27 09:50:11,309 - AniTabiJP - INFO - Work 197: '戦姫絶唱シンフォギア' - 1 spots
+2026-07-27 09:50:11,599 - AniTabiJP - INFO -   '戦姫絶唱シンフォギア' already in index.json (different source), skipping
+2026-07-27 09:50:13,602 - AniTabiJP - INFO - 
+[167/253] Work 199: マクロスF
+2026-07-27 09:50:13,602 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/199
+2026-07-27 09:50:13,813 - AniTabiJP - INFO - JSON-LD had no spots for work 199, parsing HTML cards
+2026-07-27 09:50:14,010 - AniTabiJP - INFO - Work 199: 'マクロスF' - 0 spots
+2026-07-27 09:50:14,010 - AniTabiJP - INFO -   No spots for work 199, skipping
+2026-07-27 09:50:16,012 - AniTabiJP - INFO - 
+[168/253] Work 201: 交響詩篇エウレカセブン
+2026-07-27 09:50:16,012 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/201
+2026-07-27 09:50:16,230 - AniTabiJP - INFO - JSON-LD had no spots for work 201, parsing HTML cards
+2026-07-27 09:50:16,441 - AniTabiJP - INFO - Work 201: '交響詩篇エウレカセブン' - 0 spots
+2026-07-27 09:50:16,441 - AniTabiJP - INFO -   No spots for work 201, skipping
+2026-07-27 09:50:18,444 - AniTabiJP - INFO - 
+[169/253] Work 203: 盾の勇者の成り上がり
+2026-07-27 09:50:18,444 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/203
+2026-07-27 09:50:18,659 - AniTabiJP - INFO - JSON-LD had no spots for work 203, parsing HTML cards
+2026-07-27 09:50:18,874 - AniTabiJP - INFO - Work 203: '盾の勇者の成り上がり' - 0 spots
+2026-07-27 09:50:18,875 - AniTabiJP - INFO -   No spots for work 203, skipping
+2026-07-27 09:50:20,877 - AniTabiJP - INFO - 
+[170/253] Work 204: BLACK LAGOON
+2026-07-27 09:50:20,877 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/204
+2026-07-27 09:50:21,090 - AniTabiJP - INFO - JSON-LD had no spots for work 204, parsing HTML cards
+2026-07-27 09:50:21,288 - AniTabiJP - INFO - Work 204: 'BLACK LAGOON' - 0 spots
+2026-07-27 09:50:21,288 - AniTabiJP - INFO -   No spots for work 204, skipping
+2026-07-27 09:50:23,290 - AniTabiJP - INFO - 
+[171/253] Work 205: スレイヤーズ
+2026-07-27 09:50:23,290 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/205
+2026-07-27 09:50:23,508 - AniTabiJP - INFO - JSON-LD had no spots for work 205, parsing HTML cards
+2026-07-27 09:50:23,706 - AniTabiJP - INFO - Work 205: 'スレイヤーズ' - 0 spots
+2026-07-27 09:50:23,706 - AniTabiJP - INFO -   No spots for work 205, skipping
+2026-07-27 09:50:25,708 - AniTabiJP - INFO - 
+[172/253] Work 206: アカギ〜闇に降り立った天才〜
+2026-07-27 09:50:25,708 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/206
+2026-07-27 09:50:25,918 - AniTabiJP - INFO - JSON-LD had no spots for work 206, parsing HTML cards
+2026-07-27 09:50:26,108 - AniTabiJP - INFO - Work 206: 'アカギ〜闇に降り立った天才〜' - 0 spots
+2026-07-27 09:50:26,108 - AniTabiJP - INFO -   No spots for work 206, skipping
+2026-07-27 09:50:28,110 - AniTabiJP - INFO - 
+[173/253] Work 207: ばらかもん
+2026-07-27 09:50:28,111 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/207
+2026-07-27 09:50:28,520 - AniTabiJP - INFO - Work 207: 'ばらかもん' - 2 spots
+2026-07-27 09:50:28,807 - AniTabiJP - INFO -   'ばらかもん' already in index.json (different source), skipping
+2026-07-27 09:50:30,809 - AniTabiJP - INFO - 
+[174/253] Work 208: BANANA FISH
+2026-07-27 09:50:30,809 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/208
+2026-07-27 09:50:31,232 - AniTabiJP - INFO - Work 208: 'BANANA FISH' - 2 spots
+2026-07-27 09:50:31,542 - AniTabiJP - INFO -   'BANANA FISH' already in index.json (different source), skipping
+2026-07-27 09:50:33,545 - AniTabiJP - INFO - 
+[175/253] Work 209: はたらく魔王さま!
+2026-07-27 09:50:33,545 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/209
+2026-07-27 09:50:33,980 - AniTabiJP - INFO - Work 209: 'はたらく魔王さま!' - 2 spots
+2026-07-27 09:50:34,307 - AniTabiJP - INFO -   'はたらく魔王さま!' already in index.json (different source), skipping
+2026-07-27 09:50:36,309 - AniTabiJP - INFO - 
+[176/253] Work 210: orange
+2026-07-27 09:50:36,309 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/210
+2026-07-27 09:50:36,717 - AniTabiJP - INFO - Work 210: 'orange' - 2 spots
+2026-07-27 09:50:37,003 - AniTabiJP - INFO -   'orange' already in index.json (different source), skipping
+2026-07-27 09:50:39,005 - AniTabiJP - INFO - 
+[177/253] Work 211: 天体のメソッド
+2026-07-27 09:50:39,005 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/211
+2026-07-27 09:50:39,762 - AniTabiJP - INFO - Work 211: '天体のメソッド' - 2 spots
+2026-07-27 09:50:40,066 - AniTabiJP - INFO -   '天体のメソッド' already in index.json (different source), skipping
+2026-07-27 09:50:42,068 - AniTabiJP - INFO - 
+[178/253] Work 212: のうりん
+2026-07-27 09:50:42,068 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/212
+2026-07-27 09:50:42,530 - AniTabiJP - INFO - Work 212: 'のうりん' - 1 spots
+2026-07-27 09:50:42,855 - AniTabiJP - INFO -   'のうりん' already in index.json (different source), skipping
+2026-07-27 09:50:44,858 - AniTabiJP - INFO - 
+[179/253] Work 213: ハナヤマタ
+2026-07-27 09:50:44,858 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/213
+2026-07-27 09:50:45,304 - AniTabiJP - INFO - Work 213: 'ハナヤマタ' - 3 spots
+2026-07-27 09:50:45,583 - AniTabiJP - INFO -   'ハナヤマタ' already in index.json (different source), skipping
+2026-07-27 09:50:47,585 - AniTabiJP - INFO - 
+[180/253] Work 214: おそ松さん
+2026-07-27 09:50:47,585 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/214
+2026-07-27 09:50:47,837 - AniTabiJP - INFO - JSON-LD had no spots for work 214, parsing HTML cards
+2026-07-27 09:50:48,083 - AniTabiJP - INFO - Work 214: 'おそ松さん' - 0 spots
+2026-07-27 09:50:48,083 - AniTabiJP - INFO -   No spots for work 214, skipping
+2026-07-27 09:50:50,085 - AniTabiJP - INFO - 
+[181/253] Work 215: 鬼灯の冷徹
+2026-07-27 09:50:50,086 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/215
+2026-07-27 09:50:50,279 - AniTabiJP - INFO - JSON-LD had no spots for work 215, parsing HTML cards
+2026-07-27 09:50:50,489 - AniTabiJP - INFO - Work 215: '鬼灯の冷徹' - 0 spots
+2026-07-27 09:50:50,489 - AniTabiJP - INFO -   No spots for work 215, skipping
+2026-07-27 09:50:52,491 - AniTabiJP - INFO - 
+[182/253] Work 216: 甘々と稲妻
+2026-07-27 09:50:52,491 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/216
+2026-07-27 09:50:52,697 - AniTabiJP - INFO - JSON-LD had no spots for work 216, parsing HTML cards
+2026-07-27 09:50:52,891 - AniTabiJP - INFO - Work 216: '甘々と稲妻' - 0 spots
+2026-07-27 09:50:52,891 - AniTabiJP - INFO -   No spots for work 216, skipping
+2026-07-27 09:50:54,892 - AniTabiJP - INFO - 
+[183/253] Work 217: 多田くんは恋をしない
+2026-07-27 09:50:54,892 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/217
+2026-07-27 09:50:55,091 - AniTabiJP - INFO - JSON-LD had no spots for work 217, parsing HTML cards
+2026-07-27 09:50:55,299 - AniTabiJP - INFO - Work 217: '多田くんは恋をしない' - 0 spots
+2026-07-27 09:50:55,299 - AniTabiJP - INFO -   No spots for work 217, skipping
+2026-07-27 09:50:57,302 - AniTabiJP - INFO - 
+[184/253] Work 218: 僕は友達が少ない
+2026-07-27 09:50:57,302 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/218
+2026-07-27 09:50:57,513 - AniTabiJP - INFO - JSON-LD had no spots for work 218, parsing HTML cards
+2026-07-27 09:50:57,703 - AniTabiJP - INFO - Work 218: '僕は友達が少ない' - 0 spots
+2026-07-27 09:50:57,703 - AniTabiJP - INFO -   No spots for work 218, skipping
+2026-07-27 09:50:59,705 - AniTabiJP - INFO - 
+[185/253] Work 219: サクラダリセット
+2026-07-27 09:50:59,705 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/219
+2026-07-27 09:50:59,910 - AniTabiJP - INFO - JSON-LD had no spots for work 219, parsing HTML cards
+2026-07-27 09:51:00,103 - AniTabiJP - INFO - Work 219: 'サクラダリセット' - 0 spots
+2026-07-27 09:51:00,103 - AniTabiJP - INFO -   No spots for work 219, skipping
+2026-07-27 09:51:02,105 - AniTabiJP - INFO - 
+[186/253] Work 220: ろこどる
+2026-07-27 09:51:02,106 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/220
+2026-07-27 09:51:02,514 - AniTabiJP - INFO - Work 220: 'ろこどる' - 1 spots
+2026-07-27 09:51:03,259 - AniTabiJP - INFO -   [1/1] Fetching spot 3100: 流山おおたかの森駅
+2026-07-27 09:51:05,598 - AniTabiJP - INFO -   Extracted theme_color: #fce4cc
+2026-07-27 09:51:06,986 - AniTabiJP - INFO - Saved work 'ろこどる' -> local_id 6936 (1 points)
+2026-07-27 09:51:11,129 - AniTabiJP - INFO - 
+[187/253] Work 221: 東京喰種 トーキョーグール
+2026-07-27 09:51:11,129 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/221
+2026-07-27 09:51:12,106 - AniTabiJP - INFO - Work 221: '東京喰種 トーキョーグール' - 4 spots
+2026-07-27 09:51:12,399 - AniTabiJP - INFO -   '東京喰種 トーキョーグール' already in index.json (different source), skipping
+2026-07-27 09:51:14,402 - AniTabiJP - INFO - 
+[188/253] Work 222: 3月のライオン
+2026-07-27 09:51:14,402 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/222
+2026-07-27 09:51:14,814 - AniTabiJP - INFO - Work 222: '3月のライオン' - 4 spots
+2026-07-27 09:51:15,118 - AniTabiJP - INFO -   '3月のライオン' already in index.json (different source), skipping
+2026-07-27 09:51:17,120 - AniTabiJP - INFO - 
+[189/253] Work 223: 暗殺教室
+2026-07-27 09:51:17,121 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/223
+2026-07-27 09:51:17,534 - AniTabiJP - INFO - Work 223: '暗殺教室' - 2 spots
+2026-07-27 09:51:17,857 - AniTabiJP - INFO -   '暗殺教室' already in index.json (different source), skipping
+2026-07-27 09:51:19,859 - AniTabiJP - INFO - 
+[190/253] Work 224: 宇宙兄弟
+2026-07-27 09:51:19,859 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/224
+2026-07-27 09:51:20,280 - AniTabiJP - INFO - Work 224: '宇宙兄弟' - 2 spots
+2026-07-27 09:51:20,575 - AniTabiJP - INFO -   '宇宙兄弟' already in index.json (different source), skipping
+2026-07-27 09:51:22,577 - AniTabiJP - INFO - 
+[191/253] Work 227: 銀の匙 Silver Spoon
+2026-07-27 09:51:22,577 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/227
+2026-07-27 09:51:22,985 - AniTabiJP - INFO - Work 227: '銀の匙 Silver Spoon' - 3 spots
+2026-07-27 09:51:23,279 - AniTabiJP - INFO -   '銀の匙 Silver Spoon' already in index.json (different source), skipping
+2026-07-27 09:51:25,282 - AniTabiJP - INFO - 
+[192/253] Work 228: とらドラ！
+2026-07-27 09:51:25,282 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/228
+2026-07-27 09:51:25,743 - AniTabiJP - INFO - Work 228: 'とらドラ！' - 4 spots
+2026-07-27 09:51:26,052 - AniTabiJP - INFO -   'とらドラ！' already in index.json (different source), skipping
+2026-07-27 09:51:28,054 - AniTabiJP - INFO - 
+[193/253] Work 229: 君に届け
+2026-07-27 09:51:28,054 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/229
+2026-07-27 09:51:28,501 - AniTabiJP - INFO - Work 229: '君に届け' - 4 spots
+2026-07-27 09:51:28,784 - AniTabiJP - INFO -   '君に届け' already in index.json (different source), skipping
+2026-07-27 09:51:30,786 - AniTabiJP - INFO - 
+[194/253] Work 230: 干物妹！うまるちゃん
+2026-07-27 09:51:30,786 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/230
+2026-07-27 09:51:31,205 - AniTabiJP - INFO - Work 230: '干物妹！うまるちゃん' - 4 spots
+2026-07-27 09:51:31,489 - AniTabiJP - INFO -   '干物妹！うまるちゃん' already in index.json (different source), skipping
+2026-07-27 09:51:33,492 - AniTabiJP - INFO - 
+[195/253] Work 231: 小林さんちのメイドラゴン
+2026-07-27 09:51:33,492 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/231
+2026-07-27 09:51:33,913 - AniTabiJP - INFO - Work 231: '小林さんちのメイドラゴン' - 4 spots
+2026-07-27 09:51:34,278 - AniTabiJP - INFO -   '小林さんちのメイドラゴン' already in index.json (different source), skipping
+2026-07-27 09:51:36,280 - AniTabiJP - INFO - 
+[196/253] Work 232: CHAOS;HEAD
+2026-07-27 09:51:36,280 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/232
+2026-07-27 09:51:36,683 - AniTabiJP - INFO - Work 232: 'CHAOS;HEAD' - 4 spots
+2026-07-27 09:51:36,959 - AniTabiJP - INFO -   'CHAOS;HEAD' already in index.json (different source), skipping
+2026-07-27 09:51:38,961 - AniTabiJP - INFO - 
+[197/253] Work 233: ROBOTICS;NOTES
+2026-07-27 09:51:38,961 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/233
+2026-07-27 09:51:39,371 - AniTabiJP - INFO - Work 233: 'ROBOTICS;NOTES' - 4 spots
+2026-07-27 09:51:39,653 - AniTabiJP - INFO -   'ROBOTICS;NOTES' already in index.json (different source), skipping
+2026-07-27 09:51:41,656 - AniTabiJP - INFO - 
+[198/253] Work 234: 政宗くんのリベンジ
+2026-07-27 09:51:41,656 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/234
+2026-07-27 09:51:42,049 - AniTabiJP - INFO - Work 234: '政宗くんのリベンジ' - 3 spots
+2026-07-27 09:51:42,347 - AniTabiJP - INFO -   '政宗くんのリベンジ' already in index.json (different source), skipping
+2026-07-27 09:51:44,350 - AniTabiJP - INFO - 
+[199/253] Work 235: 男子高校生の日常
+2026-07-27 09:51:44,350 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/235
+2026-07-27 09:51:44,807 - AniTabiJP - INFO - Work 235: '男子高校生の日常' - 3 spots
+2026-07-27 09:51:45,078 - AniTabiJP - INFO -   '男子高校生の日常' already in index.json (different source), skipping
+2026-07-27 09:51:47,080 - AniTabiJP - INFO - 
+[200/253] Work 236: 甘城ブリリアントパーク
+2026-07-27 09:51:47,080 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/236
+2026-07-27 09:51:47,494 - AniTabiJP - INFO - Work 236: '甘城ブリリアントパーク' - 3 spots
+2026-07-27 09:51:47,783 - AniTabiJP - INFO -   '甘城ブリリアントパーク' already in index.json (different source), skipping
+2026-07-27 09:51:49,786 - AniTabiJP - INFO - 
+[201/253] Work 237: やがて君になる
+2026-07-27 09:51:49,786 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/237
+2026-07-27 09:51:50,200 - AniTabiJP - INFO - Work 237: 'やがて君になる' - 4 spots
+2026-07-27 09:51:50,489 - AniTabiJP - INFO -   'やがて君になる' already in index.json (different source), skipping
+2026-07-27 09:51:52,491 - AniTabiJP - INFO - 
+[202/253] Work 240: 荒川アンダー ザ ブリッジ
+2026-07-27 09:51:52,491 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/240
+2026-07-27 09:51:52,902 - AniTabiJP - INFO - Work 240: '荒川アンダー ザ ブリッジ' - 3 spots
+2026-07-27 09:51:53,223 - AniTabiJP - INFO -   '荒川アンダー ザ ブリッジ' already in index.json (different source), skipping
+2026-07-27 09:51:55,225 - AniTabiJP - INFO - 
+[203/253] Work 243: イエスタデイをうたって
+2026-07-27 09:51:55,225 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/243
+2026-07-27 09:51:55,640 - AniTabiJP - INFO - Work 243: 'イエスタデイをうたって' - 4 spots
+2026-07-27 09:51:55,942 - AniTabiJP - INFO -   'イエスタデイをうたって' already in index.json (different source), skipping
+2026-07-27 09:51:57,944 - AniTabiJP - INFO - 
+[204/253] Work 244: ハイスコアガール
+2026-07-27 09:51:57,944 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/244
+2026-07-27 09:51:58,353 - AniTabiJP - INFO - Work 244: 'ハイスコアガール' - 3 spots
+2026-07-27 09:51:58,662 - AniTabiJP - INFO -   'ハイスコアガール' already in index.json (different source), skipping
+2026-07-27 09:52:00,664 - AniTabiJP - INFO - 
+[205/253] Work 245: ノラガミ
+2026-07-27 09:52:00,664 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/245
+2026-07-27 09:52:01,168 - AniTabiJP - INFO - Work 245: 'ノラガミ' - 3 spots
+2026-07-27 09:52:01,475 - AniTabiJP - INFO -   'ノラガミ' already in index.json (different source), skipping
+2026-07-27 09:52:03,477 - AniTabiJP - INFO - 
+[206/253] Work 246: シティーハンター
+2026-07-27 09:52:03,477 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/246
+2026-07-27 09:52:03,903 - AniTabiJP - INFO - Work 246: 'シティーハンター' - 4 spots
+2026-07-27 09:52:04,188 - AniTabiJP - INFO -   'シティーハンター' already in index.json (different source), skipping
+2026-07-27 09:52:06,190 - AniTabiJP - INFO - 
+[207/253] Work 247: WORKING!!
+2026-07-27 09:52:06,190 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/247
+2026-07-27 09:52:06,600 - AniTabiJP - INFO - Work 247: 'WORKING!!' - 4 spots
+2026-07-27 09:52:06,891 - AniTabiJP - INFO -   'WORKING!!' already in index.json (different source), skipping
+2026-07-27 09:52:08,893 - AniTabiJP - INFO - 
+[208/253] Work 248: ハチミツとクローバー
+2026-07-27 09:52:08,893 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/248
+2026-07-27 09:52:10,153 - AniTabiJP - INFO - Work 248: 'ハチミツとクローバー' - 4 spots
+2026-07-27 09:52:10,450 - AniTabiJP - INFO -   'ハチミツとクローバー' already in index.json (different source), skipping
+2026-07-27 09:52:12,452 - AniTabiJP - INFO - 
+[209/253] Work 249: ろんぐらいだぁす！
+2026-07-27 09:52:12,453 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/249
+2026-07-27 09:52:12,866 - AniTabiJP - INFO - Work 249: 'ろんぐらいだぁす！' - 4 spots
+2026-07-27 09:52:13,137 - AniTabiJP - INFO -   'ろんぐらいだぁす！' already in index.json (different source), skipping
+2026-07-27 09:52:15,140 - AniTabiJP - INFO - 
+[210/253] Work 250: 東京マグニチュード8.0
+2026-07-27 09:52:15,140 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/250
+2026-07-27 09:52:15,562 - AniTabiJP - INFO - Work 250: '東京マグニチュード8.0' - 4 spots
+2026-07-27 09:52:15,842 - AniTabiJP - INFO -   '東京マグニチュード8.0' already in index.json (different source), skipping
+2026-07-27 09:52:17,845 - AniTabiJP - INFO - 
+[211/253] Work 251: ゆるゆり
+2026-07-27 09:52:17,845 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/251
+2026-07-27 09:52:18,608 - AniTabiJP - INFO - Work 251: 'ゆるゆり' - 4 spots
+2026-07-27 09:52:18,927 - AniTabiJP - INFO -   'ゆるゆり' already in index.json (different source), skipping
+2026-07-27 09:52:20,929 - AniTabiJP - INFO - 
+[212/253] Work 252: 少女☆歌劇 レヴュースタァライト
+2026-07-27 09:52:20,929 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/252
+2026-07-27 09:52:21,354 - AniTabiJP - INFO - Work 252: '少女☆歌劇 レヴュースタァライト' - 4 spots
+2026-07-27 09:52:21,616 - AniTabiJP - INFO -   '少女☆歌劇 レヴュースタァライト' already in index.json (different source), skipping
+2026-07-27 09:52:23,619 - AniTabiJP - INFO - 
+[213/253] Work 255: デート・ア・ライブ
+2026-07-27 09:52:23,619 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/255
+2026-07-27 09:52:24,092 - AniTabiJP - INFO - Work 255: 'デート・ア・ライブ' - 4 spots
+2026-07-27 09:52:24,365 - AniTabiJP - INFO -   'デート・ア・ライブ' already in index.json (different source), skipping
+2026-07-27 09:52:26,367 - AniTabiJP - INFO - 
+[214/253] Work 257: 東京ミュウミュウ
+2026-07-27 09:52:26,367 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/257
+2026-07-27 09:52:26,781 - AniTabiJP - INFO - Work 257: '東京ミュウミュウ' - 3 spots
+2026-07-27 09:52:27,078 - AniTabiJP - INFO -   '東京ミュウミュウ' already in index.json (different source), skipping
+2026-07-27 09:52:29,081 - AniTabiJP - INFO - 
+[215/253] Work 258: おねがい☆ティーチャー
+2026-07-27 09:52:29,081 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/258
+2026-07-27 09:52:29,529 - AniTabiJP - INFO - Work 258: 'おねがい☆ティーチャー' - 4 spots
+2026-07-27 09:52:29,838 - AniTabiJP - INFO -   'おねがい☆ティーチャー' already in index.json (different source), skipping
+2026-07-27 09:52:31,840 - AniTabiJP - INFO - 
+[216/253] Work 260: おもひでぽろぽろ
+2026-07-27 09:52:31,840 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/260
+2026-07-27 09:52:32,249 - AniTabiJP - INFO - Work 260: 'おもひでぽろぽろ' - 3 spots
+2026-07-27 09:52:32,513 - AniTabiJP - INFO -   'おもひでぽろぽろ' already in index.json (different source), skipping
+2026-07-27 09:52:34,515 - AniTabiJP - INFO - 
+[217/253] Work 263: 思い出のマーニー
+2026-07-27 09:52:34,516 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/263
+2026-07-27 09:52:34,924 - AniTabiJP - INFO - Work 263: '思い出のマーニー' - 4 spots
+2026-07-27 09:52:35,204 - AniTabiJP - INFO -   '思い出のマーニー' already in index.json (different source), skipping
+2026-07-27 09:52:37,207 - AniTabiJP - INFO - 
+[218/253] Work 265: 打ち上げ花火、下から見るか？横から見るか？
+2026-07-27 09:52:37,207 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/265
+2026-07-27 09:52:37,634 - AniTabiJP - INFO - Work 265: '打ち上げ花火、下から見るか？横から見るか？' - 3 spots
+2026-07-27 09:52:37,927 - AniTabiJP - INFO -   '打ち上げ花火、下から見るか？横から見るか？' already in index.json (different source), skipping
+2026-07-27 09:52:39,929 - AniTabiJP - INFO - 
+[219/253] Work 266: 君の膵臓をたべたい
+2026-07-27 09:52:39,929 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/266
+2026-07-27 09:52:40,352 - AniTabiJP - INFO - Work 266: '君の膵臓をたべたい' - 4 spots
+2026-07-27 09:52:40,621 - AniTabiJP - INFO -   '君の膵臓をたべたい' already in index.json (different source), skipping
+2026-07-27 09:52:42,623 - AniTabiJP - INFO - 
+[220/253] Work 267: ジョジョの奇妙な冒険 ダイヤモンドは砕けない
+2026-07-27 09:52:42,624 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/267
+2026-07-27 09:52:43,023 - AniTabiJP - INFO - Work 267: 'ジョジョの奇妙な冒険 ダイヤモンドは砕けない' - 4 spots
+2026-07-27 09:52:43,329 - AniTabiJP - INFO -   'ジョジョの奇妙な冒険 ダイヤモンドは砕けない' already in index.json (different source), skipping
+2026-07-27 09:52:45,331 - AniTabiJP - INFO - 
+[221/253] Work 269: PERSONA5 the Animation
+2026-07-27 09:52:45,332 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/269
+2026-07-27 09:52:45,738 - AniTabiJP - INFO - Work 269: 'PERSONA5 the Animation' - 4 spots
+2026-07-27 09:52:46,033 - AniTabiJP - INFO -   'PERSONA5 the Animation' already in index.json (different source), skipping
+2026-07-27 09:52:48,035 - AniTabiJP - INFO - 
+[222/253] Work 271: Wake Up, Girls!
+2026-07-27 09:52:48,035 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/271
+2026-07-27 09:52:48,445 - AniTabiJP - INFO - Work 271: 'Wake Up, Girls!' - 3 spots
+2026-07-27 09:52:48,710 - AniTabiJP - INFO -   'Wake Up, Girls!' already in index.json (different source), skipping
+2026-07-27 09:52:50,712 - AniTabiJP - INFO - 
+[223/253] Work 272: ケロロ軍曹
+2026-07-27 09:52:50,712 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/272
+2026-07-27 09:52:51,132 - AniTabiJP - INFO - Work 272: 'ケロロ軍曹' - 3 spots
+2026-07-27 09:52:51,423 - AniTabiJP - INFO -   'ケロロ軍曹' already in index.json (different source), skipping
+2026-07-27 09:52:53,426 - AniTabiJP - INFO - 
+[224/253] Work 274: くまみこ
+2026-07-27 09:52:53,426 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/274
+2026-07-27 09:52:53,840 - AniTabiJP - INFO - Work 274: 'くまみこ' - 3 spots
+2026-07-27 09:52:54,137 - AniTabiJP - INFO -   'くまみこ' already in index.json (different source), skipping
+2026-07-27 09:52:56,139 - AniTabiJP - INFO - 
+[225/253] Work 276: AKIRA
+2026-07-27 09:52:56,139 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/276
+2026-07-27 09:52:56,554 - AniTabiJP - INFO - Work 276: 'AKIRA' - 3 spots
+2026-07-27 09:52:56,825 - AniTabiJP - INFO -   'AKIRA' already in index.json (different source), skipping
+2026-07-27 09:52:58,828 - AniTabiJP - INFO - 
+[226/253] Work 277: 電脳コイル
+2026-07-27 09:52:58,828 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/277
+2026-07-27 09:52:59,237 - AniTabiJP - INFO - Work 277: '電脳コイル' - 3 spots
+2026-07-27 09:52:59,515 - AniTabiJP - INFO -   '電脳コイル' already in index.json (different source), skipping
+2026-07-27 09:53:01,517 - AniTabiJP - INFO - 
+[227/253] Work 279: 侵略！イカ娘
+2026-07-27 09:53:01,517 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/279
+2026-07-27 09:53:01,947 - AniTabiJP - INFO - Work 279: '侵略！イカ娘' - 4 spots
+2026-07-27 09:53:02,234 - AniTabiJP - INFO -   '侵略！イカ娘' already in index.json (different source), skipping
+2026-07-27 09:53:04,236 - AniTabiJP - INFO - 
+[228/253] Work 280: 電波女と青春男
+2026-07-27 09:53:04,236 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/280
+2026-07-27 09:53:04,646 - AniTabiJP - INFO - Work 280: '電波女と青春男' - 3 spots
+2026-07-27 09:53:04,952 - AniTabiJP - INFO -   '電波女と青春男' already in index.json (different source), skipping
+2026-07-27 09:53:06,954 - AniTabiJP - INFO - 
+[229/253] Work 281: 究極超人あ〜る
+2026-07-27 09:53:06,955 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/281
+2026-07-27 09:53:07,370 - AniTabiJP - INFO - Work 281: '究極超人あ〜る' - 3 spots
+2026-07-27 09:53:07,644 - AniTabiJP - INFO -   '究極超人あ〜る' already in index.json (different source), skipping
+2026-07-27 09:53:09,646 - AniTabiJP - INFO - 
+[230/253] Work 282: 僕等がいた
+2026-07-27 09:53:09,647 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/282
+2026-07-27 09:53:10,763 - AniTabiJP - INFO - Work 282: '僕等がいた' - 4 spots
+2026-07-27 09:53:11,080 - AniTabiJP - INFO -   '僕等がいた' already in index.json (different source), skipping
+2026-07-27 09:53:13,083 - AniTabiJP - INFO - 
+[231/253] Work 283: 昭和元禄落語心中
+2026-07-27 09:53:13,083 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/283
+2026-07-27 09:53:13,492 - AniTabiJP - INFO - Work 283: '昭和元禄落語心中' - 3 spots
+2026-07-27 09:53:13,796 - AniTabiJP - INFO -   '昭和元禄落語心中' already in index.json (different source), skipping
+2026-07-27 09:53:15,798 - AniTabiJP - INFO - 
+[232/253] Work 285: 戦翼のシグルドリーヴァ
+2026-07-27 09:53:15,799 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/285
+2026-07-27 09:53:16,210 - AniTabiJP - INFO - Work 285: '戦翼のシグルドリーヴァ' - 4 spots
+2026-07-27 09:53:16,479 - AniTabiJP - INFO -   '戦翼のシグルドリーヴァ' already in index.json (different source), skipping
+2026-07-27 09:53:18,481 - AniTabiJP - INFO - 
+[233/253] Work 287: がっこうぐらし!
+2026-07-27 09:53:18,481 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/287
+2026-07-27 09:53:18,937 - AniTabiJP - INFO - Work 287: 'がっこうぐらし!' - 4 spots
+2026-07-27 09:53:19,211 - AniTabiJP - INFO -   'がっこうぐらし!' already in index.json (different source), skipping
+2026-07-27 09:53:21,213 - AniTabiJP - INFO - 
+[234/253] Work 288: クロムクロ
+2026-07-27 09:53:21,213 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/288
+2026-07-27 09:53:21,616 - AniTabiJP - INFO - Work 288: 'クロムクロ' - 4 spots
+2026-07-27 09:53:21,913 - AniTabiJP - INFO -   'クロムクロ' already in index.json (different source), skipping
+2026-07-27 09:53:23,915 - AniTabiJP - INFO - 
+[235/253] Work 289: 天体戦士サンレッド
+2026-07-27 09:53:23,915 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/289
+2026-07-27 09:53:24,323 - AniTabiJP - INFO - Work 289: '天体戦士サンレッド' - 4 spots
+2026-07-27 09:53:24,603 - AniTabiJP - INFO -   '天体戦士サンレッド' already in index.json (different source), skipping
+2026-07-27 09:53:26,606 - AniTabiJP - INFO - 
+[236/253] Work 291: 「C」 THE MONEY OF SOUL AND POSSIBILITY CONTROL
+2026-07-27 09:53:26,606 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/291
+2026-07-27 09:53:27,024 - AniTabiJP - INFO - Work 291: '「C」 THE MONEY OF SOUL AND POSSIBILITY CONTROL' - 3 spots
+2026-07-27 09:53:27,312 - AniTabiJP - INFO -   '「C」 THE MONEY OF SOUL AND POSSIBILITY CONTROL' already in index.json (different source), skipping
+2026-07-27 09:53:29,315 - AniTabiJP - INFO - 
+[237/253] Work 292: 賭ケグルイ
+2026-07-27 09:53:29,315 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/292
+2026-07-27 09:53:29,732 - AniTabiJP - INFO - Work 292: '賭ケグルイ' - 3 spots
+2026-07-27 09:53:30,047 - AniTabiJP - INFO -   '賭ケグルイ' already in index.json (different source), skipping
+2026-07-27 09:53:32,049 - AniTabiJP - INFO - 
+[238/253] Work 293: NANA
+2026-07-27 09:53:32,050 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/293
+2026-07-27 09:53:32,464 - AniTabiJP - INFO - Work 293: 'NANA' - 3 spots
+2026-07-27 09:53:32,725 - AniTabiJP - INFO -   'NANA' already in index.json (different source), skipping
+2026-07-27 09:53:34,727 - AniTabiJP - INFO - 
+[239/253] Work 298: 波よ聞いてくれ
+2026-07-27 09:53:34,727 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/298
+2026-07-27 09:53:35,142 - AniTabiJP - INFO - Work 298: '波よ聞いてくれ' - 4 spots
+2026-07-27 09:53:35,411 - AniTabiJP - INFO -   '波よ聞いてくれ' already in index.json (different source), skipping
+2026-07-27 09:53:37,414 - AniTabiJP - INFO - 
+[240/253] Work 299: 夜は短し歩けよ乙女
+2026-07-27 09:53:37,414 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/299
+2026-07-27 09:53:37,815 - AniTabiJP - INFO - Work 299: '夜は短し歩けよ乙女' - 4 spots
+2026-07-27 09:53:38,104 - AniTabiJP - INFO -   '夜は短し歩けよ乙女' already in index.json (different source), skipping
+2026-07-27 09:53:40,106 - AniTabiJP - INFO - 
+[241/253] Work 300: リトルバスターズ!
+2026-07-27 09:53:40,106 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/300
+2026-07-27 09:53:40,557 - AniTabiJP - INFO - Work 300: 'リトルバスターズ!' - 3 spots
+2026-07-27 09:53:40,860 - AniTabiJP - INFO -   'リトルバスターズ!' already in index.json (different source), skipping
+2026-07-27 09:53:42,862 - AniTabiJP - INFO - 
+[242/253] Work 301: ロウきゅーぶ!
+2026-07-27 09:53:42,862 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/301
+2026-07-27 09:53:43,259 - AniTabiJP - INFO - Work 301: 'ロウきゅーぶ!' - 3 spots
+2026-07-27 09:53:43,523 - AniTabiJP - INFO -   'ロウきゅーぶ!' already in index.json (different source), skipping
+2026-07-27 09:53:45,526 - AniTabiJP - INFO - 
+[243/253] Work 302: ピンポン THE ANIMATION
+2026-07-27 09:53:45,526 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/302
+2026-07-27 09:53:45,946 - AniTabiJP - INFO - Work 302: 'ピンポン THE ANIMATION' - 4 spots
+2026-07-27 09:53:46,233 - AniTabiJP - INFO -   'ピンポン THE ANIMATION' already in index.json (different source), skipping
+2026-07-27 09:53:48,236 - AniTabiJP - INFO - 
+[244/253] Work 303: ホリミヤ
+2026-07-27 09:53:48,236 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/303
+2026-07-27 09:53:48,656 - AniTabiJP - INFO - Work 303: 'ホリミヤ' - 4 spots
+2026-07-27 09:53:48,952 - AniTabiJP - INFO -   'ホリミヤ' already in index.json (different source), skipping
+2026-07-27 09:53:50,954 - AniTabiJP - INFO - 
+[245/253] Work 305: N・H・Kにようこそ！
+2026-07-27 09:53:50,954 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/305
+2026-07-27 09:53:51,356 - AniTabiJP - INFO - Work 305: 'N・H・Kにようこそ！' - 3 spots
+2026-07-27 09:53:51,621 - AniTabiJP - INFO -   'N・H・Kにようこそ！' already in index.json (different source), skipping
+2026-07-27 09:53:53,623 - AniTabiJP - INFO - 
+[246/253] Work 307: けものフレンズ
+2026-07-27 09:53:53,624 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/307
+2026-07-27 09:53:54,028 - AniTabiJP - INFO - Work 307: 'けものフレンズ' - 4 spots
+2026-07-27 09:53:54,308 - AniTabiJP - INFO -   'けものフレンズ' already in index.json (different source), skipping
+2026-07-27 09:53:56,310 - AniTabiJP - INFO - 
+[247/253] Work 310: ルックバック
+2026-07-27 09:53:56,311 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/310
+2026-07-27 09:53:56,861 - AniTabiJP - INFO - Work 310: 'ルックバック' - 5 spots
+2026-07-27 09:53:57,157 - AniTabiJP - INFO -   'ルックバック' already in index.json (different source), skipping
+2026-07-27 09:53:59,159 - AniTabiJP - INFO - 
+[248/253] Work 311: 四畳半神話大系
+2026-07-27 09:53:59,159 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/311
+2026-07-27 09:53:59,580 - AniTabiJP - INFO - Work 311: '四畳半神話大系' - 3 spots
+2026-07-27 09:53:59,843 - AniTabiJP - INFO -   '四畳半神話大系' already in index.json (different source), skipping
+2026-07-27 09:54:01,845 - AniTabiJP - INFO - 
+[249/253] Work 312: ペンギン・ハイウェイ
+2026-07-27 09:54:01,845 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/312
+2026-07-27 09:54:02,401 - AniTabiJP - INFO - Work 312: 'ペンギン・ハイウェイ' - 3 spots
+2026-07-27 09:54:02,682 - AniTabiJP - INFO -   'ペンギン・ハイウェイ' already in index.json (different source), skipping
+2026-07-27 09:54:04,684 - AniTabiJP - INFO - 
+[250/253] Work 313: 四畳半タイムマシンブルース
+2026-07-27 09:54:04,684 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/313
+2026-07-27 09:54:05,106 - AniTabiJP - INFO - Work 313: '四畳半タイムマシンブルース' - 3 spots
+2026-07-27 09:54:05,396 - AniTabiJP - INFO -   '四畳半タイムマシンブルース' already in index.json (different source), skipping
+2026-07-27 09:54:07,398 - AniTabiJP - INFO - 
+[251/253] Work 314: AIR
+2026-07-27 09:54:07,398 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/314
+2026-07-27 09:54:07,856 - AniTabiJP - INFO - Work 314: 'AIR' - 2 spots
+2026-07-27 09:54:08,115 - AniTabiJP - INFO -   'AIR' already in index.json (different source), skipping
+2026-07-27 09:54:10,118 - AniTabiJP - INFO - 
+[252/253] Work 315: 夏へのトンネル、さよならの出口
+2026-07-27 09:54:10,118 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/315
+2026-07-27 09:54:10,964 - AniTabiJP - INFO - Work 315: '夏へのトンネル、さよならの出口' - 3 spots
+2026-07-27 09:54:11,241 - AniTabiJP - INFO -   '夏へのトンネル、さよならの出口' already in index.json (different source), skipping
+2026-07-27 09:54:13,243 - AniTabiJP - INFO - 
+[253/253] Work 316: さよならララ
+2026-07-27 09:54:13,243 - AniTabiJP - INFO - Fetching work detail: https://www.anitabi.jp/works/316
+2026-07-27 09:54:13,658 - AniTabiJP - INFO - Work 316: 'さよならララ' - 2 spots
+2026-07-27 09:54:13,968 - AniTabiJP - INFO -   'さよならララ' already in index.json (different source), skipping
+2026-07-27 09:54:15,971 - AniTabiJP - INFO - Done! New: 1, Updated: 0
+2026-07-27 09:54:15,971 - AniTabiJP - INFO - Lock file removed
