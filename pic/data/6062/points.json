@@ -1264,5 +1264,131 @@
     "s": 1294,
     "mark": "远处左侧建筑是净水厂的一部分，右侧是近江大桥。",
     "folder": "膳所・晴岚之道"
+  },
+  {
+    "id": "hj2wuns",
+    "name": "滋賀県立琵琶湖博物館 トイレ",
+    "image": "https://image.xinu.ink/pic/data/6062/images/hj2wuns_1785169624760.webp",
+    "geo": [
+      35.073904,
+      135.933426
+    ],
+    "ep": 4,
+    "s": 390,
+    "mark": "https://maps.app.goo.gl/AKN6ikE5T17Gtydg9",
+    "folder": "乌丸半岛"
+  },
+  {
+    "id": "hj31zcj",
+    "name": "滋賀県立琵琶湖博物館 トイレ",
+    "image": "https://image.xinu.ink/pic/data/6062/images/hj31zcj_1785169642288.webp",
+    "geo": [
+      35.073737,
+      135.93326
+    ],
+    "ep": 4,
+    "s": 402,
+    "folder": "乌丸半岛"
+  },
+  {
+    "id": "hj32mcc",
+    "name": "膳所城跡公園 ベンチ",
+    "image": "https://image.xinu.ink/pic/data/6062/images/hj32mcc_1785169782896.webp",
+    "geo": [
+      34.9947,
+      135.896102
+    ],
+    "ep": 4,
+    "s": 741,
+    "mark": "从远景来看，应该是面向东南的几个长椅之一。",
+    "folder": "膳所城迹公园"
+  },
+  {
+    "id": "hj359l6",
+    "name": "膳所城跡公園 ベンチ",
+    "image": "https://image.xinu.ink/pic/data/6062/images/hj359l6_1785169795905.webp",
+    "geo": [
+      34.994654,
+      135.896151
+    ],
+    "ep": 4,
+    "s": 779,
+    "folder": "膳所城迹公园"
+  },
+  {
+    "id": "hj35k7h",
+    "name": "膳所城跡公園 ベンチ",
+    "image": "https://image.xinu.ink/pic/data/6062/images/hj35k7h_1785169810554.webp",
+    "geo": [
+      34.994698,
+      135.89611
+    ],
+    "ep": 4,
+    "s": 1065,
+    "folder": "膳所城迹公园"
+  },
+  {
+    "id": "hj3a9z2",
+    "name": "居酒屋 鯛の鯛",
+    "image": "https://image.xinu.ink/pic/data/6062/images/hj3a9z2_1785170533990.webp",
+    "geo": [
+      34.977851,
+      135.902039
+    ],
+    "ep": 4,
+    "s": 1154,
+    "mark": "左侧是国道1号线的高架桥，画面中间的店铺现实中为居酒屋「鯛の鯛」。",
+    "folder": "石山商店街"
+  },
+  {
+    "id": "hj3comr",
+    "name": "石山商店街",
+    "image": "https://image.xinu.ink/pic/data/6062/images/hj3comr_1785170544137.webp",
+    "geo": [
+      34.977824,
+      135.902035
+    ],
+    "ep": 4,
+    "s": 1158,
+    "mark": "左侧建筑为「ルネ石山 センタープレイス」，右侧为「鶴屋ビル」。",
+    "folder": "石山商店街"
+  },
+  {
+    "id": "hj3g77d",
+    "name": "クレッセント",
+    "image": "https://image.xinu.ink/pic/data/6062/images/hj3g77d_1785170317814.webp",
+    "geo": [
+      34.977716,
+      135.902064
+    ],
+    "ep": 4,
+    "s": 1167,
+    "mark": "背景是理发店クレッセント的卷帘门和木门。",
+    "folder": "石山商店街"
+  },
+  {
+    "id": "hj3ivd3",
+    "name": "とみもと呉服店",
+    "image": "https://image.xinu.ink/pic/data/6062/images/hj3ivd3_1785170435320.webp",
+    "geo": [
+      34.977728,
+      135.90208
+    ],
+    "ep": 4,
+    "s": 1169,
+    "mark": "背景红色棚子是隔壁的とみもと呉服店。",
+    "folder": "石山商店街"
+  },
+  {
+    "id": "hj3jxos",
+    "name": "国道1号高架下",
+    "image": "https://image.xinu.ink/pic/data/6062/images/hj3jxos_1785170500213.webp",
+    "geo": [
+      34.977917,
+      135.902023
+    ],
+    "ep": 4,
+    "s": 1175,
+    "folder": "石山商店街"
   }
 ]

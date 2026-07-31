@@ -6007,5 +6007,28 @@
     "folder": "一色海岸",
     "origin": "橡树酱",
     "cn": "一色海岸北侧石滩"
+  },
+  {
+    "id": "gyhsbs0",
+    "name": "西川口Live House Hearts",
+    "image": "https://image.xinu.ink/pic/data/866/images/gyhsbs0-1783924600170.webp",
+    "geo": [
+      35.815902,
+      139.707943
+    ],
+    "ep": "剧场版上",
+    "s": 1142,
+    "folder": "SPACE"
+  },
+  {
+    "id": "h9xgca7",
+    "name": "私立學習院大學 正門",
+    "image": "https://image.xinu.ink/pic/data/866/images/h9xgca7-1784616102034.webp",
+    "geo": [
+      35.720309,
+      139.709649
+    ],
+    "ep": "EP1",
+    "cn": "私立学习院大学 正门"
   }
 ]

@@ -2687,5 +2687,129 @@
     ],
     "ep": 12,
     "s": 1089
+  },
+  {
+    "id": "hk4ui74",
+    "name": "押堀川水辺広場",
+    "image": "https://image.xinu.ink/pic/data/6544/images/hk4ui74-1785233142584.jpg",
+    "geo": [
+      35.986444,
+      139.073248
+    ],
+    "ep": 1,
+    "s": 1344,
+    "folder": "押堀川水辺広場",
+    "cn": "河边红桥旁的一个小水潭"
+  },
+  {
+    "id": "hh3ph52",
+    "name": "葛飾講寄付の狼像",
+    "image": "https://image.xinu.ink/pic/data/6544/images/hh3ph52-1785049889743.webp",
+    "geo": [
+      35.925159,
+      138.93001
+    ],
+    "ep": 4,
+    "s": 226,
+    "folder": "三峯神社 Mitsumine"
+  },
+  {
+    "id": "hh3sf5n",
+    "name": "三峯神社 神社供奉",
+    "image": "https://image.xinu.ink/pic/data/6544/images/hh3sf5n-1785049973422.webp",
+    "geo": [
+      35.92501,
+      138.931005
+    ],
+    "ep": 4,
+    "s": 233,
+    "folder": "三峯神社 Mitsumine"
+  },
+  {
+    "id": "hh3i4st",
+    "name": "三峯山オリジナルショップ",
+    "image": "https://image.xinu.ink/pic/data/6544/images/hh3i4st-1785049500815.webp",
+    "geo": [
+      35.92551,
+      138.9299
+    ],
+    "ep": 4,
+    "s": 293,
+    "folder": "三峯神社 Mitsumine"
+  },
+  {
+    "id": "hh3m1h2",
+    "name": "縁結びの木 案内板",
+    "image": "https://image.xinu.ink/pic/data/6544/images/hh3m1h2-1785049678739.webp",
+    "geo": [
+      35.925984,
+      138.928858
+    ],
+    "ep": 4,
+    "s": 316,
+    "folder": "三峯神社 Mitsumine"
+  },
+  {
+    "id": "hh3yjk4",
+    "name": "光西寺前の坂道",
+    "image": "https://image.xinu.ink/pic/data/6544/images/hh3yjk4-1785050229944.webp",
+    "geo": [
+      35.962928,
+      139.058158
+    ],
+    "ep": 6,
+    "s": 177,
+    "folder": "浦山口駅"
+  },
+  {
+    "id": "he50mkd",
+    "name": "武甲山一之鳥居付近",
+    "image": "https://image.xinu.ink/pic/data/6544/images/he50mkd_1784870692503.webp",
+    "geo": [
+      35.941761,
+      139.115682
+    ],
+    "ep": 7,
+    "s": 197,
+    "folder": "武甲山"
+  },
+  {
+    "id": "hb0egwo",
+    "name": "水池前小屋",
+    "image": "https://image.xinu.ink/pic/data/6544/images/hb0egwo-1784681492703.jpg",
+    "geo": [
+      35.941712,
+      139.112536
+    ],
+    "ep": 7,
+    "s": 209,
+    "folder": "武甲山",
+    "cn": "水池前小屋"
+  },
+  {
+    "id": "hff3c89",
+    "name": "蘭陽海岸保護區",
+    "image": "https://image.xinu.ink/pic/data/6544/images/hff3c89_1785213609314.jpg",
+    "geo": [
+      24.794577,
+      121.818081
+    ],
+    "ep": 8,
+    "s": 1333,
+    "mark": "该点位为大福海岸，也有石城、頭城烏石港、竹安等众多说法",
+    "cn": "張景嵐家"
+  },
+  {
+    "id": "hiodchr",
+    "name": "Yamaha Sound Crossing Shibuya",
+    "image": "https://image.xinu.ink/pic/data/6544/images/hiodchr-1785145129973.webp",
+    "geo": [
+      35.656136,
+      139.70226
+    ],
+    "ep": 10,
+    "s": 996,
+    "folder": "Yamaha Sound Crossing Shibuya",
+    "cn": "雅马哈 Sound Crossing 涩谷"
   }
 ]

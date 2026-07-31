@@ -147,5 +147,30 @@
     "ep": 11,
     "s": 261,
     "mark": "OP1中佐天泪子的镜头"
+  },
+  {
+    "id": "hfy47ja",
+    "name": "立川北駅北口",
+    "image": "https://image.xinu.ink/pic/data/102/images/hfy47ja-1784979967245.webp",
+    "geo": [
+      35.700079,
+      139.41249
+    ],
+    "ep": "9",
+    "s": "181",
+    "mark": "巡礼点位在天桥上，用谷歌街景应该是在下面",
+    "cn": "立川北站北口"
+  },
+  {
+    "id": "hfyxxb1",
+    "name": "高島屋北口 歩道橋",
+    "image": "https://image.xinu.ink/pic/data/102/images/hfyxxb1-1784981506019.webp",
+    "geo": [
+      35.700388,
+      139.413572
+    ],
+    "ep": "18",
+    "s": "171",
+    "mark": "在天桥上的交叉口向西看"
   }
 ]

@@ -646,5 +646,19 @@
     "s": 686,
     "folder": "南极",
     "cn": "昭和基地"
+  },
+  {
+    "id": "hmdsycl",
+    "name": "Market St",
+    "image": "https://image.xinu.ink/pic/data/545/images/hmdsycl-1785369098992.webp",
+    "geo": [
+      -32.05562,
+      115.746927
+    ],
+    "ep": 7,
+    "s": 824,
+    "mark": "The Italian restaurant depicted in the show is no longer in business :(",
+    "folder": "A Place Further Than The Universe",
+    "origin": "Mild Lee Interested"
   }
 ]

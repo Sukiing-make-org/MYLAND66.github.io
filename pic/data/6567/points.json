@@ -38,5 +38,32 @@
     ],
     "mark": "此地",
     "cn": "武汉长江大桥"
+  },
+  {
+    "id": "heozmpa",
+    "name": "光谷天地",
+    "image": "https://image.xinu.ink/pic/data/6567/images/heozmpa-1784904337394.webp",
+    "geo": [
+      30.479721,
+      114.404342
+    ]
+  },
+  {
+    "id": "hep6ero",
+    "name": "武汉长江大桥",
+    "image": "https://image.xinu.ink/pic/data/6567/images/hep6ero-1784904474852.webp",
+    "geo": [
+      30.548761,
+      114.287275
+    ]
+  },
+  {
+    "id": "hep7v47",
+    "name": "紫阳公园",
+    "image": "https://image.xinu.ink/pic/data/6567/images/hep7v47-1784904546663.webp",
+    "geo": [
+      30.533086,
+      114.299479
+    ]
   }
 ]

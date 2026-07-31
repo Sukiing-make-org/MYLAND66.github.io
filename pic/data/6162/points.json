@@ -20,5 +20,135 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "hjun2k9",
+    "name": "主楼前楼梯",
+    "image": "https://image.xinu.ink/pic/data/6162/images/hjun2k9_1785216109129.webp",
+    "geo": [
+      34.247065,
+      108.978966
+    ]
+  },
+  {
+    "id": "hjuqqex",
+    "name": "宿舍",
+    "image": "https://image.xinu.ink/pic/data/6162/images/hjuqqex_1785216151588.webp",
+    "geo": [
+      34.246447,
+      108.982015
+    ],
+    "mark": "连廊和立面风格比较像"
+  },
+  {
+    "id": "hjus2hs",
+    "name": "钱学森图书馆 内部",
+    "image": "https://image.xinu.ink/pic/data/6162/images/hjus2hs_1785216222758.webp",
+    "geo": [
+      34.248239,
+      108.978971
+    ]
+  },
+  {
+    "id": "hn2ymjt",
+    "name": "钱学森图书馆",
+    "image": "https://image.xinu.ink/pic/data/6162/images/hn2ymjt_1785411352726.webp",
+    "geo": [
+      34.247893,
+      108.97897
+    ]
+  },
+  {
+    "id": "hk80rzr",
+    "name": "思源活动中心附近",
+    "image": "https://image.xinu.ink/pic/data/6162/images/hk80rzr_1785238464687.webp",
+    "geo": [
+      34.244734,
+      108.979642
+    ]
+  },
+  {
+    "id": "hjut81s",
+    "name": "交大西迁博物馆",
+    "image": "https://image.xinu.ink/pic/data/6162/images/hjut81s_1785216277358.webp",
+    "geo": [
+      34.243758,
+      108.979783
+    ],
+    "mark": "是博物馆，并非同名纪念馆"
+  },
+  {
+    "id": "hjuty6f",
+    "name": "四大发明广场雕塑",
+    "image": "https://image.xinu.ink/pic/data/6162/images/hjuty6f_1785216311418.webp",
+    "geo": [
+      34.247476,
+      108.97896
+    ]
+  },
+  {
+    "id": "hjux65b",
+    "name": "腾飞塔",
+    "image": "https://image.xinu.ink/pic/data/6162/images/hjux65b_1785216452564.webp",
+    "geo": [
+      34.250259,
+      108.978971
+    ]
+  },
+  {
+    "id": "hjuxl27",
+    "name": "理科楼",
+    "image": "https://image.xinu.ink/pic/data/6162/images/hjuxl27_1785216532691.webp",
+    "geo": [
+      34.250914,
+      108.978983
+    ]
+  },
+  {
+    "id": "hjv04vi",
+    "name": "樱花道",
+    "image": "https://image.xinu.ink/pic/data/6162/images/hjv04vi_1785216597006.webp",
+    "geo": [
+      34.250264,
+      108.979721
+    ]
+  },
+  {
+    "id": "hjv1h12",
+    "name": "西安交通大学北门",
+    "image": "https://image.xinu.ink/pic/data/6162/images/hjv1h12_1785216667379.webp",
+    "geo": [
+      34.252194,
+      108.978958
+    ],
+    "mark": "对面是兴庆宫公园南门"
+  },
+  {
+    "id": "hk825i2",
+    "name": "西安交通大学东门",
+    "image": "https://image.xinu.ink/pic/data/6162/images/hk825i2_1785238557583.webp",
+    "geo": [
+      34.246949,
+      108.98264
+    ]
+  },
+  {
+    "id": "hk828jk",
+    "name": "德克士（交大店）",
+    "image": "https://image.xinu.ink/pic/data/6162/images/hk828jk_1785238528860.webp",
+    "geo": [
+      34.246953,
+      108.983779
+    ],
+    "mark": "小吃街"
+  },
+  {
+    "id": "hn2zcls",
+    "name": "交大东南门人行天桥",
+    "image": "https://image.xinu.ink/pic/data/6162/images/hn2zcls_1785411402290.webp",
+    "geo": [
+      34.247325,
+      108.983345
+    ]
   }
 ]
