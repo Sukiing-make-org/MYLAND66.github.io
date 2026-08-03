@@ -1,0 +1,60 @@
+[
+  {
+    "id": "hlf2mfp",
+    "name": "羽田国際空港",
+    "image": "https://image.xinu.ink/pic/data/6945/images/hlf2mfp-1785310790410.webp",
+    "geo": [
+      35.550859,
+      139.758903
+    ],
+    "s": "16分15秒",
+    "cn": "羽田国际机场T3航站楼"
+  },
+  {
+    "id": "hlgzim9",
+    "name": "羽田空港34L滑走路",
+    "image": "https://image.xinu.ink/pic/data/6945/images/hlgzim9-1785314299245.webp",
+    "geo": [
+      35.536861,
+      139.785512
+    ],
+    "s": "21:40",
+    "mark": "羽田机场34L跑道（RWY34L），靠近第一、三航站楼，此方向专属于降落跑道，不执行起飞任务",
+    "cn": "羽田机场34L跑道"
+  },
+  {
+    "id": "hlhqnu0",
+    "name": "羽田空港T3ターミナル",
+    "image": "https://image.xinu.ink/pic/data/6945/images/hlhqnu0-1785315268520.webp",
+    "geo": [
+      35.543878,
+      139.769005
+    ],
+    "s": "25:54",
+    "mark": "根据后方道路和停车场位置推测大概是在航站楼顶层，应该是不能进去的（",
+    "cn": "羽田机场第三航站楼"
+  },
+  {
+    "id": "hlio02s",
+    "name": "靖国通り",
+    "image": "https://image.xinu.ink/pic/data/6945/images/hlio02s-1785316814530.webp",
+    "geo": [
+      35.693563,
+      139.700865
+    ],
+    "s": "55:53",
+    "cn": "歌舞伎町一番街"
+  },
+  {
+    "id": "hliqoin",
+    "name": "歌舞伎町一番街",
+    "image": "https://image.xinu.ink/pic/data/6945/images/hliqoin-1785316950582.webp",
+    "geo": [
+      35.693698,
+      139.700899
+    ],
+    "s": "55:40",
+    "mark": "从此处向新宿站方向看，可以看到大屏幕",
+    "cn": "歌舞伎町一番街"
+  }
+]
