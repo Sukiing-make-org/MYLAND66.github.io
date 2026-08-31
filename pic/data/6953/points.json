@@ -1,0 +1,128 @@
+[
+  {
+    "id": "hvxr34o",
+    "name": "すみだ水族館 6F サンゴ礁",
+    "image": "https://image.xinu.ink/pic/data/6953/images/hvxr34o_1785946871861.webp",
+    "geo": [
+      35.709929,
+      139.809903
+    ],
+    "ep": 5,
+    "mark": "https://www.sumida-aquarium.com/about/floor/coral-reefs/",
+    "folder": "墨田水族馆"
+  },
+  {
+    "id": "hvxvzyi",
+    "name": "すみだ水族館 5F アクアスコープ",
+    "image": "https://image.xinu.ink/pic/data/6953/images/hvxvzyi_1785947079405.webp",
+    "geo": [
+      35.709974,
+      139.809873
+    ],
+    "ep": 5,
+    "mark": "https://www.sumida-aquarium.com/about/floor/ogasawara/",
+    "folder": "墨田水族馆"
+  },
+  {
+    "id": "i8islku",
+    "name": "TOHOシネマズ 新宿",
+    "image": "https://image.xinu.ink/pic/data/6953/images/i8islku_1786707875872.webp",
+    "geo": [
+      35.695022,
+      139.70145
+    ],
+    "ep": 37,
+    "folder": "新宿"
+  },
+  {
+    "id": "i8irqnd",
+    "name": "TOHOシネマズ 新宿",
+    "image": "https://image.xinu.ink/pic/data/6953/images/i8irqnd_1786707898191.webp",
+    "geo": [
+      35.694842,
+      139.70201
+    ],
+    "ep": 37,
+    "folder": "新宿"
+  },
+  {
+    "id": "hvxfc22",
+    "name": "浜辺の茶屋",
+    "image": "https://image.xinu.ink/pic/data/6953/images/hvxfc22_1785946299089.webp",
+    "geo": [
+      26.133542,
+      127.78457
+    ],
+    "ep": 42,
+    "folder": "冲绳"
+  },
+  {
+    "id": "hvydmjh",
+    "name": "マザー牧場 うしの牧場",
+    "image": "https://image.xinu.ink/pic/data/6953/images/hvydmjh_1785947893483.webp",
+    "geo": [
+      35.248291,
+      139.938356
+    ],
+    "ep": 47,
+    "folder": "母亲牧场"
+  },
+  {
+    "id": "hvyfhfu",
+    "name": "マザー牧場 こぶたスタジアム",
+    "image": "https://image.xinu.ink/pic/data/6953/images/hvyfhfu_1785947962020.webp",
+    "geo": [
+      35.247006,
+      139.93882
+    ],
+    "ep": 47,
+    "folder": "母亲牧场"
+  },
+  {
+    "id": "i8inwef",
+    "name": "涩谷",
+    "image": "https://image.xinu.ink/pic/data/6953/images/i8inwef_1786707515725.webp",
+    "geo": [
+      35.659525,
+      139.700494
+    ],
+    "ep": 85,
+    "mark": "背后有涩谷标志性的久光制药广告牌。",
+    "folder": "涩谷"
+  },
+  {
+    "id": "i8i6giu",
+    "name": "戎橋",
+    "image": "https://image.xinu.ink/pic/data/6953/images/i8i6giu_1786706710287.webp",
+    "geo": [
+      34.669136,
+      135.501386
+    ],
+    "ep": 99,
+    "mark": "大阪著名地标。",
+    "folder": "戎桥"
+  },
+  {
+    "id": "i8hzq0n",
+    "name": "戎橋",
+    "image": "https://image.xinu.ink/pic/data/6953/images/i8hzq0n_1786706668046.webp",
+    "geo": [
+      34.669046,
+      135.501313
+    ],
+    "ep": 99,
+    "mark": "环的背后是北侧的ニコニコレンタカー和约会软件ワクワク的广告牌，现在均已更换为其他广告。",
+    "folder": "戎桥"
+  },
+  {
+    "id": "i8i45oj",
+    "name": "戎橋",
+    "image": "https://image.xinu.ink/pic/data/6953/images/i8i45oj_1786706681981.webp",
+    "geo": [
+      34.669087,
+      135.501311
+    ],
+    "ep": 99,
+    "folder": "戎桥"
+  }
+]
