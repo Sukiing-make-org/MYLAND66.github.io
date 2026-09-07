@@ -1,0 +1,593 @@
+[
+  {
+    "id": "i50w5xd",
+    "name": "JR市ケ谷駅",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i50w5xd_1786496749460.webp",
+    "geo": [
+      35.691213,
+      139.735596
+    ],
+    "ep": 2,
+    "mark": "中央・总武线（各站停车）的车站，图中月台站名牌显示了其前后站饭田桥和四谷。",
+    "folder": "市谷站"
+  },
+  {
+    "id": "i51554s",
+    "name": "JR市ケ谷駅",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i51554s_1786496775926.webp",
+    "geo": [
+      35.691179,
+      139.735554
+    ],
+    "ep": 2,
+    "mark": "因年代过于久远无法确认具体位置的平假名站名牌，一应当位于月台楼梯处。",
+    "folder": "市谷站"
+  },
+  {
+    "id": "i51kv3f",
+    "name": "峰岸ビル",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i51kv3f_1786497711690.webp",
+    "geo": [
+      35.659666,
+      139.700308
+    ],
+    "ep": 3,
+    "mark": "左侧为峰岸大楼，1997年拆除。右侧远处的圆柱体建筑为涩谷丸井。",
+    "folder": "涩谷"
+  },
+  {
+    "id": "i51bhek",
+    "name": "SHIBUYA109",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i51bhek_1786497008718.webp",
+    "geo": [
+      35.659669,
+      139.699403
+    ],
+    "ep": 3,
+    "folder": "涩谷"
+  },
+  {
+    "id": "i51wn2a",
+    "name": "SHIBUYA109",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i51wn2a_1786497980925.webp",
+    "geo": [
+      35.659635,
+      139.699369
+    ],
+    "ep": 4,
+    "mark": "下一页的长椅场景也位于附近，但具体位置已无法确认。",
+    "folder": "涩谷"
+  },
+  {
+    "id": "i51zhcz",
+    "name": "JR秋葉原駅",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i51zhcz_1786498131116.webp",
+    "geo": [
+      35.698296,
+      139.773129
+    ],
+    "ep": 5,
+    "mark": "此画面为秋叶原站台的平假名站名牌。根据漫画内容，真理子应该住秋叶原站附近，每天乘坐中央·总武线前往市谷站上学。根据第20话的内容，亚希子似乎住在别处，每天在秋叶原站下车与真理子会和。",
+    "folder": "秋叶原"
+  },
+  {
+    "id": "i524w0a",
+    "name": "PLAZA 渋谷109店",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i524w0a_1786498355656.webp",
+    "geo": [
+      35.659713,
+      139.698678
+    ],
+    "ep": 5,
+    "mark": "此处并未明确是哪家PLAZA，但考虑到主角日常逛街的地点均为涩谷，可定为此店。",
+    "folder": "涩谷"
+  },
+  {
+    "id": "i52bw1h",
+    "name": "JR市ケ谷駅",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i52bw1h_1786498745328.webp",
+    "geo": [
+      35.691022,
+      139.735794
+    ],
+    "ep": 8,
+    "folder": "市谷站"
+  },
+  {
+    "id": "i52fb9j",
+    "name": "ヨドバシカメラ マルチメディアAkiba",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i52fb9j_1786498856885.webp",
+    "geo": [
+      35.698539,
+      139.774419
+    ],
+    "ep": 8,
+    "folder": "秋叶原"
+  },
+  {
+    "id": "i52mvka",
+    "name": "マクドナルド 秋葉原​駅前​店",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i52mvka_1786499212906.webp",
+    "geo": [
+      35.699233,
+      139.773786
+    ],
+    "ep": 8,
+    "mark": "造型已发生较大改变，根据前一个画面的位置判定大概为这家店。",
+    "folder": "秋叶原"
+  },
+  {
+    "id": "i52ofif",
+    "name": "東京メトロ 秋葉原駅",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i52ofif_1786499304901.webp",
+    "geo": [
+      35.698271,
+      139.775499
+    ],
+    "ep": 8,
+    "mark": "在1号口附近。",
+    "folder": "秋叶原"
+  },
+  {
+    "id": "i52ry09",
+    "name": "JR秋葉原駅",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i52ry09_1786499449857.webp",
+    "geo": [
+      35.698309,
+      139.77298
+    ],
+    "ep": 10,
+    "mark": "这几个场景应该在通向月台的通道里。两个女主上学的路线是在5号站台乘坐中央·总武线各停前往市谷站。",
+    "folder": "秋叶原"
+  },
+  {
+    "id": "i52uydp",
+    "name": "JR秋葉原駅",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i52uydp_1786499568955.webp",
+    "geo": [
+      35.698312,
+      139.772924
+    ],
+    "ep": 10,
+    "mark": "这里女主应该是进站后走上去站台通道的楼梯，在楼梯上折返并出站。",
+    "folder": "秋叶原"
+  },
+  {
+    "id": "i5uayrm",
+    "name": "東京メトロ 小伝馬町駅",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5uayrm_1786545718511.webp",
+    "geo": [
+      35.690719,
+      139.77848
+    ],
+    "ep": 11,
+    "folder": "小传马町"
+  },
+  {
+    "id": "i5us7t8",
+    "name": "THE BODY SHOP 渋谷東急東横店",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5us7t8_1786546624281.webp",
+    "geo": [
+      35.658743,
+      139.700802
+    ],
+    "ep": 12,
+    "mark": "根据历史资料，本作连载的2005年当时，在涩谷只有东急百货店东横店和涩谷ONE-OH-NINE两处存在THE BODY SHOP的分店。两处商场现均已不存。\nhttps://web.archive.org/web/20051214180001/http://www.the-body-shop.co.jp/shop/thebodyshop.pdf",
+    "folder": "涩谷"
+  },
+  {
+    "id": "i5uwnp4",
+    "name": "THE BODY SHOP 渋谷東急東横店",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5uwnp4_1786546678944.webp",
+    "geo": [
+      35.658733,
+      139.700762
+    ],
+    "ep": 12,
+    "folder": "涩谷"
+  },
+  {
+    "id": "i5v7cin",
+    "name": "東京メトロ 秋葉原駅",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5v7cin_1786547194909.webp",
+    "geo": [
+      35.697914,
+      139.775478
+    ],
+    "ep": 13,
+    "folder": "秋叶原"
+  },
+  {
+    "id": "i5vdp77",
+    "name": "JR秋葉原駅",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5vdp77_1786547479992.webp",
+    "geo": [
+      35.698312,
+      139.773079
+    ],
+    "ep": 15,
+    "folder": "秋叶原"
+  },
+  {
+    "id": "i5vefnz",
+    "name": "JR秋葉原駅",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5vefnz_1786547518334.webp",
+    "geo": [
+      35.6983,
+      139.773027
+    ],
+    "ep": 15,
+    "folder": "秋叶原"
+  },
+  {
+    "id": "i5vs9fo",
+    "name": "新宿LUMINE 2",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5vs9fo_1786548170744.webp",
+    "geo": [
+      35.689517,
+      139.701523
+    ],
+    "ep": 17,
+    "mark": "从建筑东侧向西看。",
+    "folder": "新宿"
+  },
+  {
+    "id": "i5vxixu",
+    "name": "足立の花火",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5vxixu_1786556831455.webp",
+    "geo": [
+      35.760714,
+      139.799298
+    ],
+    "ep": 18,
+    "mark": "足立区举办的烟花大会，本作出现的烟花大会是7月25日星期五举办的。",
+    "folder": "足立"
+  },
+  {
+    "id": "i5wmmg9",
+    "name": "JR秋葉原駅",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5wmmg9_1786549578432.webp",
+    "geo": [
+      35.698323,
+      139.77288
+    ],
+    "ep": 22,
+    "folder": "秋叶原"
+  },
+  {
+    "id": "i5wubge",
+    "name": "東京体育館",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5wubge_1786556769783.webp",
+    "geo": [
+      35.680007,
+      139.711803
+    ],
+    "ep": 23,
+    "folder": "东京体育馆"
+  },
+  {
+    "id": "i5wvz37",
+    "name": "JR秋葉原駅",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5wvz37_1786550021446.webp",
+    "geo": [
+      35.698333,
+      139.772839
+    ],
+    "ep": 23,
+    "folder": "秋叶原"
+  },
+  {
+    "id": "i5wz4hd",
+    "name": "成田空港第1ターミナル 北ウイング",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5wz4hd_1786550215038.webp",
+    "geo": [
+      35.764952,
+      140.384341
+    ],
+    "ep": 23,
+    "folder": "成田机场"
+  },
+  {
+    "id": "i5x2exj",
+    "name": "鹿児島空港",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5x2exj_1786550330374.webp",
+    "geo": [
+      31.800668,
+      130.715931
+    ],
+    "ep": 24,
+    "mark": "主角修学旅行第一天到访的地点之一。",
+    "folder": "鹿儿岛"
+  },
+  {
+    "id": "i5x4jh5",
+    "name": "仙巌園",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5x4jh5_1786550432985.webp",
+    "geo": [
+      31.61804,
+      130.579129
+    ],
+    "ep": 24,
+    "mark": "主角修学旅行第一天到访的地点之一，借景海湾对岸的樱岛火山的庭园。",
+    "folder": "鹿儿岛"
+  },
+  {
+    "id": "i5x7z3e",
+    "name": "西郷隆盛銅像",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5x7z3e_1786550580904.webp",
+    "geo": [
+      31.595322,
+      130.55354
+    ],
+    "ep": 24,
+    "mark": "主角修学旅行第一天到访的地点之一。",
+    "folder": "鹿儿岛"
+  },
+  {
+    "id": "i5xeu1g",
+    "name": "維新ふるさと館",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5xeu1g_1786550929269.webp",
+    "geo": [
+      31.584646,
+      130.547793
+    ],
+    "ep": 25,
+    "mark": "主角修学旅行第二天到访的地点之一，似乎只出现在对话中。",
+    "folder": "鹿儿岛"
+  },
+  {
+    "id": "i5xixfe",
+    "name": "阿蘇山ロープウェー 火口西駅",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5xixfe_1786551400145.webp",
+    "geo": [
+      32.880789,
+      131.083981
+    ],
+    "ep": 25,
+    "mark": "主角修学旅行第二天到访的地点之一。该索道后遭火山喷发破坏，现已彻底拆除。",
+    "folder": "熊本"
+  },
+  {
+    "id": "i5xrqe7",
+    "name": "阿蘇中岳 第1火口展望台",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5xrqe7_1786551533161.webp",
+    "geo": [
+      32.881707,
+      131.084989
+    ],
+    "ep": 25,
+    "folder": "熊本"
+  },
+  {
+    "id": "i5xueyx",
+    "name": "熊本港​",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5xueyx_1786551650550.webp",
+    "geo": [
+      32.76356,
+      130.59007
+    ],
+    "ep": 26,
+    "mark": "主角修学旅行第三天途径的场所之一，大家从此处乘轮渡前往长崎县的岛原港。",
+    "folder": "熊本"
+  },
+  {
+    "id": "i5y90ov",
+    "name": "長崎駅",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5y90ov_1786552569123.webp",
+    "geo": [
+      32.752573,
+      129.871376
+    ],
+    "ep": 26,
+    "mark": "主角修学旅行第四天途径的场所之一，长崎站的旧站舍。2020年的高架化工程将长崎站向西移动150米，原站舍所在位置现为アミュプラザ長崎，造型有较大改变。",
+    "folder": "长崎"
+  },
+  {
+    "id": "i5ygjtc",
+    "name": "長崎電気軌道 長崎駅前停留場",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5ygjtc_1786552657753.webp",
+    "geo": [
+      32.752541,
+      129.871846
+    ],
+    "ep": 26,
+    "mark": "主角修学旅行第四天途径的场所之一，长崎站前的路面电车站。不过在长崎站迁移后其实距离车站已经不算是在站前了。",
+    "folder": "长崎"
+  },
+  {
+    "id": "i5ymdbe",
+    "name": "グラバー園 入口",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5ymdbe_1786553029744.webp",
+    "geo": [
+      32.734622,
+      129.869762
+    ],
+    "ep": 26,
+    "mark": "主角修学旅行第四天造访的场所之一。",
+    "folder": "长崎"
+  },
+  {
+    "id": "i5yzxvb",
+    "name": "グラバー園 ハートの石",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5yzxvb_1786553577761.webp",
+    "geo": [
+      32.733717,
+      129.868872
+    ],
+    "ep": 26,
+    "mark": "格拉博园有三处心型石，根据漫画中的形状可确认出现的是这一处。\nhttps://nagasaki-note.com/glover-heart/",
+    "folder": "长崎"
+  },
+  {
+    "id": "i5z0rgy",
+    "name": "グラバー園 ハートの石",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5z0rgy_1786553597790.webp",
+    "geo": [
+      32.733703,
+      129.868882
+    ],
+    "ep": 26,
+    "folder": "长崎"
+  },
+  {
+    "id": "i5z1u11",
+    "name": "グラバー園 ハートの石",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5z1u11_1786553643342.webp",
+    "geo": [
+      32.733702,
+      129.868865
+    ],
+    "ep": 27,
+    "folder": "长崎"
+  },
+  {
+    "id": "i5z6ep1",
+    "name": "グラバー園",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5z6ep1_1786553862689.webp",
+    "geo": [
+      32.732689,
+      129.869896
+    ],
+    "ep": 27,
+    "mark": "可能为后续两人追逐后抵达的展望台，楼梯与建筑的位置关系符合这一场景。",
+    "folder": "长崎"
+  },
+  {
+    "id": "i5zfw6e",
+    "name": "太宰府天満宮 鳥居",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5zfw6e_1786554396413.webp",
+    "geo": [
+      33.51954,
+      130.534404
+    ],
+    "ep": 27,
+    "mark": "主角修学旅行第五天造访的场所之一。太宰府天满宫有六座石制鸟居，无法确认具体是哪一座，不过能看出这是从鸟居背面拍摄的。",
+    "folder": "福冈"
+  },
+  {
+    "id": "i5zim93",
+    "name": "太宰府天満宮 太鼓橋",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5zim93_1786554469112.webp",
+    "geo": [
+      33.519832,
+      130.534903
+    ],
+    "ep": 27,
+    "folder": "福冈"
+  },
+  {
+    "id": "i5zkskn",
+    "name": "太宰府天満宮 太鼓橋",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5zkskn_1786554529524.webp",
+    "geo": [
+      33.519705,
+      130.534639
+    ],
+    "ep": 27,
+    "mark": "https://maps.app.goo.gl/wH8EbgaLPzfDBUoy9",
+    "folder": "福冈"
+  },
+  {
+    "id": "i5ztveh",
+    "name": "太宰府天満宮 受付所・授与所",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5ztveh_1786554977963.webp",
+    "geo": [
+      33.521487,
+      130.534699
+    ],
+    "ep": 27,
+    "folder": "福冈"
+  },
+  {
+    "id": "i5zp06q",
+    "name": "太宰府天満宮 参道",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5zp06q_1786554778570.webp",
+    "geo": [
+      33.519544,
+      130.533449
+    ],
+    "ep": 27,
+    "folder": "福冈"
+  },
+  {
+    "id": "i5zxatc",
+    "name": "福岡空港",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i5zxatc_1786555141384.webp",
+    "geo": [
+      33.597482,
+      130.448344
+    ],
+    "ep": 27,
+    "mark": "后方的建筑上以前有一个2字，现在没有了。\nhttps://maps.app.goo.gl/B6jRhD6M4qBMSVZWA",
+    "folder": "福冈"
+  },
+  {
+    "id": "i6016x6",
+    "name": "都營地下鐵 市ケ谷駅 A3口",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i6016x6_1786555308605.webp",
+    "geo": [
+      35.691753,
+      139.738715
+    ],
+    "ep": 28,
+    "mark": "https://maps.app.goo.gl/hQFewRfqf44mk98P9",
+    "folder": "市谷站"
+  },
+  {
+    "id": "i604dlr",
+    "name": "JPR市ヶ谷ビル前",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i604dlr_1786555585967.webp",
+    "geo": [
+      35.691732,
+      139.738599
+    ],
+    "ep": 28,
+    "mark": "https://maps.app.goo.gl/pEJui4yiC8cPXja37",
+    "folder": "市谷站"
+  },
+  {
+    "id": "i60e5hd",
+    "name": "都營地下鐵 市ケ谷駅 A3口",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i60e5hd_1786555928055.webp",
+    "geo": [
+      35.691698,
+      139.738458
+    ],
+    "ep": 28,
+    "folder": "市谷站"
+  },
+  {
+    "id": "i60icp3",
+    "name": "北千住駅西口",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i60icp3_1786556117108.webp",
+    "geo": [
+      35.749697,
+      139.804463
+    ],
+    "ep": 30,
+    "mark": "根据后续场景，两个人去了一家PLAZA。",
+    "folder": "北千住"
+  },
+  {
+    "id": "i60mqr2",
+    "name": "JR市ケ谷駅 JR出口1",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i60mqr2_1786556299709.webp",
+    "geo": [
+      35.691254,
+      139.735738
+    ],
+    "ep": 32,
+    "folder": "市谷站"
+  },
+  {
+    "id": "i60otry",
+    "name": "JR市ケ谷駅 2番ホーム",
+    "image": "https://image.xinu.ink/pic/data/6961/images/i60otry_1786556683490.webp",
+    "geo": [
+      35.691295,
+      139.735659
+    ],
+    "ep": 32,
+    "folder": "市谷站"
+  }
+]

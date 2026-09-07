@@ -1,0 +1,25 @@
+[
+  {
+    "id": "hvplipy",
+    "name": "ファミリーマート 新宿東宝ビル前店",
+    "image": "https://image.xinu.ink/pic/data/6957/images/hvplipy-1785933115241.jpg",
+    "geo": [
+      35.694551,
+      139.702266
+    ],
+    "ep": 1,
+    "s": 318
+  },
+  {
+    "id": "hvq1rut",
+    "name": "秋葉原駅",
+    "image": "https://image.xinu.ink/pic/data/6957/images/hvq1rut-1785933884639.jpg",
+    "geo": [
+      35.698706,
+      139.772694
+    ],
+    "ep": 1,
+    "s": 1300,
+    "cn": "秋叶原站"
+  }
+]
