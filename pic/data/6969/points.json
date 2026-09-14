@@ -1,0 +1,104 @@
+[
+  {
+    "id": "j3giy7i",
+    "name": "JR八王子駅",
+    "image": "https://image.xinu.ink/pic/data/6969/images/j3giy7i_1788578489508.webp",
+    "geo": [
+      35.655567,
+      139.338892
+    ],
+    "ep": 1
+  },
+  {
+    "id": "j3glstn",
+    "name": "JR八王子駅",
+    "image": "https://image.xinu.ink/pic/data/6969/images/j3glstn_1788578508537.webp",
+    "geo": [
+      35.655568,
+      139.338855
+    ],
+    "ep": 1
+  },
+  {
+    "id": "j3gj0t7",
+    "name": "NewDays 八王子",
+    "image": "https://image.xinu.ink/pic/data/6969/images/j3gj0t7_1788578551997.webp",
+    "geo": [
+      35.655786,
+      139.338981
+    ],
+    "ep": 1
+  },
+  {
+    "id": "j3gix1c",
+    "name": "JR八王子駅北口",
+    "image": "https://image.xinu.ink/pic/data/6969/images/j3gix1c_1788578589210.webp",
+    "geo": [
+      35.655822,
+      139.338944
+    ],
+    "ep": 1
+  },
+  {
+    "id": "j3gpo8w",
+    "name": "JR八王子駅北口 マルベリーブリッジ",
+    "image": "https://image.xinu.ink/pic/data/6969/images/j3gpo8w_1788578709424.webp",
+    "geo": [
+      35.656719,
+      139.339248
+    ],
+    "ep": 1
+  },
+  {
+    "id": "j3gqw4j",
+    "name": "JR八王子駅北口 絹の舞",
+    "image": "https://image.xinu.ink/pic/data/6969/images/j3gqw4j_1788578752557.webp",
+    "geo": [
+      35.656869,
+      139.339159
+    ],
+    "ep": 1
+  },
+  {
+    "id": "j3h41pj",
+    "name": "八王子駅北口地下駐車場",
+    "image": "https://image.xinu.ink/pic/data/6969/images/j3h41pj_1788579368226.webp",
+    "geo": [
+      35.656985,
+      139.33942
+    ],
+    "ep": 2,
+    "mark": "位置未确认。"
+  },
+  {
+    "id": "j3h2n0v",
+    "name": "八王子駅北口地下駐車場",
+    "image": "https://image.xinu.ink/pic/data/6969/images/j3h2n0v_1788579344044.webp",
+    "geo": [
+      35.657111,
+      139.339294
+    ],
+    "ep": 2
+  },
+  {
+    "id": "j3h9ptu",
+    "name": "国道411号・都道28号交点",
+    "image": "https://image.xinu.ink/pic/data/6969/images/j3h9ptu_1788579737426.webp",
+    "geo": [
+      35.788846,
+      139.254904
+    ],
+    "ep": 2
+  },
+  {
+    "id": "j3hk5vk",
+    "name": "西多摩郡 廃村",
+    "image": "https://image.xinu.ink/pic/data/6969/images/j3hk5vk_1788580175698.webp",
+    "geo": [
+      35.809197,
+      139.083573
+    ],
+    "ep": 2,
+    "mark": "未确认具体位置。"
+  }
+]

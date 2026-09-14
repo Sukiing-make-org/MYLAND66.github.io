@@ -1,0 +1,120 @@
+[
+  {
+    "id": "ht3d3ar",
+    "name": "星川四丁目",
+    "image": "https://image.xinu.ink/pic/data/6970/images/ht3d3ar_1785774848242.webp",
+    "geo": [
+      35.458787,
+      139.595223
+    ],
+    "ep": "第三卷",
+    "mark": "本作舞台设定在星川站东北的「星川四丁目」，现实中星川只有一到三丁目，星川站东北空间很小，本作舞台大部分为架空。"
+  },
+  {
+    "id": "ht2zvp9",
+    "name": "相鉄星川駅",
+    "image": "https://image.xinu.ink/pic/data/6970/images/ht2zvp9_1785774378183.webp",
+    "geo": [
+      35.458556,
+      139.595067
+    ],
+    "ep": 3
+  },
+  {
+    "id": "ht37shn",
+    "name": "帷子川",
+    "image": "https://image.xinu.ink/pic/data/6970/images/ht37shn_1785774670812.webp",
+    "geo": [
+      35.458424,
+      139.596406
+    ],
+    "ep": 4,
+    "mark": "背景中的大型建筑为ダイゴプラザ。"
+  },
+  {
+    "id": "ht2vfmr",
+    "name": "星川二丁目",
+    "image": "https://image.xinu.ink/pic/data/6970/images/ht2vfmr_1785774028415.webp",
+    "geo": [
+      35.457679,
+      139.591327
+    ],
+    "ep": "第二卷",
+    "mark": "第二卷封面对应的现实位置。"
+  },
+  {
+    "id": "ht30p2s",
+    "name": "星川二丁目",
+    "image": "https://image.xinu.ink/pic/data/6970/images/ht30p2s_1785774245462.webp",
+    "geo": [
+      35.457665,
+      139.591254
+    ],
+    "ep": 12,
+    "mark": "从左下角的路线可确认两人的步行路线。"
+  },
+  {
+    "id": "ht3hptp",
+    "name": "上星川町歩道橋",
+    "image": "https://image.xinu.ink/pic/data/6970/images/ht3hptp_1785775060348.webp",
+    "geo": [
+      35.467682,
+      139.58109
+    ],
+    "ep": "第三卷"
+  },
+  {
+    "id": "ht3rsza",
+    "name": "横浜駅西口",
+    "image": "https://image.xinu.ink/pic/data/6970/images/ht3rsza_1785775557805.webp",
+    "geo": [
+      35.466776,
+      139.621418
+    ],
+    "ep": "第三卷",
+    "mark": "横滨站西口的公交站区域，数字3即为站台标号。远处的建筑是CIAL横滨所在的横浜ステーションビル，已于2013年拆除。"
+  },
+  {
+    "id": "ht3v67g",
+    "name": "相鉄星川駅",
+    "image": "https://image.xinu.ink/pic/data/6970/images/ht3v67g_1785775670859.webp",
+    "geo": [
+      35.458426,
+      139.595065
+    ],
+    "ep": "第三卷"
+  },
+  {
+    "id": "ht4416w",
+    "name": "​団地",
+    "image": "https://image.xinu.ink/pic/data/6970/images/ht4416w_1785776367029.webp",
+    "geo": [
+      35.459024,
+      139.550403
+    ],
+    "ep": "第三卷",
+    "mark": "造型与左近山团地较为接近。"
+  },
+  {
+    "id": "ht4clpx",
+    "name": "青森ベイブリッジ",
+    "image": "https://image.xinu.ink/pic/data/6970/images/ht4clpx_1785776700085.webp",
+    "geo": [
+      40.829697,
+      140.74101
+    ],
+    "ep": "第三卷",
+    "mark": "青森湾的大桥。该场景大概是从アスパム13階展望台眺望。"
+  },
+  {
+    "id": "ht4gwui",
+    "name": "国道7号青森西バイパス",
+    "image": "https://image.xinu.ink/pic/data/6970/images/ht4gwui_1785776756229.webp",
+    "geo": [
+      40.82623,
+      140.722096
+    ],
+    "ep": "第三卷",
+    "mark": "图示路牌所在地。"
+  }
+]

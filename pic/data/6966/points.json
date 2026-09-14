@@ -1,0 +1,91 @@
+[
+  {
+    "id": "iv62rra",
+    "name": "东区海底隧道 九龙出口",
+    "image": "https://image.xinu.ink/pic/data/6966/images/iv62rra_1788844886975_c16v9.webp",
+    "geo": [
+      22.300555,
+      114.232488
+    ],
+    "s": 2482,
+    "mark": "琪琪搭车路过的地点\n香港实际靠左行驶，片中均改为靠右行驶",
+    "folder": "香港",
+    "cn": "东区海底隧道 九龙出口"
+  },
+  {
+    "id": "iv6pula",
+    "name": "东区海底隧道 港岛出口",
+    "image": "https://image.xinu.ink/pic/data/6966/images/iv6pula_1788831212015_cblack.webp",
+    "geo": [
+      22.288905,
+      114.212142
+    ],
+    "s": 2492,
+    "mark": "琪琪搭车驶出海底隧道",
+    "folder": "香港",
+    "cn": "东区海底隧道 港岛出口"
+  },
+  {
+    "id": "iv9i8cu",
+    "name": "Gloucester Rd",
+    "image": "https://image.xinu.ink/pic/data/6966/images/iv9i8cu_1788844975094_cblack.webp",
+    "geo": [
+      22.281691,
+      114.186639
+    ],
+    "s": 2510,
+    "mark": "琪琪坐车路过",
+    "folder": "香港",
+    "originURL": "百度地图",
+    "cn": "告士打道 新豪大厦对面"
+  },
+  {
+    "id": "iv9qsx5",
+    "name": "Moreton Terrance Flyover",
+    "image": "https://image.xinu.ink/pic/data/6966/images/iv9qsx5_1788844988870_cblack.webp",
+    "geo": [
+      22.279802,
+      114.188949
+    ],
+    "s": 2513,
+    "folder": "香港",
+    "cn": "摩顿台天桥 香港中央图书馆旁"
+  },
+  {
+    "id": "j7wpwwo",
+    "name": "Tai Hang Rd (Trafalgar Court)",
+    "image": "https://image.xinu.ink/pic/data/6966/images/j7wpwwo_1788847601140_cblack.webp",
+    "geo": [
+      22.276875,
+      114.191539
+    ],
+    "s": 2515,
+    "folder": "香港",
+    "cn": "大坑道 大宝阁旁"
+  },
+  {
+    "id": "j7wb3pa",
+    "name": "Mt Austin Rd",
+    "image": "https://image.xinu.ink/pic/data/6966/images/j7wb3pa_1788846784870_cblack.webp",
+    "geo": [
+      22.273402,
+      114.148368
+    ],
+    "s": 2546,
+    "folder": "香港",
+    "cn": "柯士甸山道 山顶花园旁"
+  },
+  {
+    "id": "iv5b1k5",
+    "name": "Mount Austin Rd",
+    "image": "https://image.xinu.ink/pic/data/6966/images/iv5b1k5_1788850870542_cblack.webp",
+    "geo": [
+      22.273563,
+      114.148325
+    ],
+    "s": 2962,
+    "folder": "香港",
+    "originURL": "百度地图",
+    "cn": "柯士甸山道 山顶花园旁"
+  }
+]

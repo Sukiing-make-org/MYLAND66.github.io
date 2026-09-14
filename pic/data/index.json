@@ -4550,6 +4550,16 @@
           141.298492
         ],
         "mark": "アニメ「Kanon」 / 京都アニメーション / 2006-2007  第17話[2007/5/4 撮影]⇒旅行記へ (http://www7a.biglobe.ne.jp/~uso9000/travel/kanon-tv1-4.htm#txt27)by USO9000"
+      },
+      {
+        "id": "il024o8",
+        "name": "守口市站前",
+        "image": "https://image.xinu.ink/pic/data/9/images/il024o8-1787462353701.webp",
+        "geo": [
+          34.735693,
+          135.566301
+        ],
+        "mark": "找了一圈结果就在脚下）出站一楼左拐往前走一点就好了，到整点还会有钟声，很有感觉"
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/9/points.json"
@@ -862441,5 +862451,527 @@
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/6965/points.json"
+  },
+  "6966": {
+    "name": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
+    "name_cn": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
+    "cover": "https://image.xinu.ink/pic/data/6966/images/243430.jpg",
+    "theme_color": "#152a40",
+    "points": [
+      {
+        "id": "iv62rra",
+        "name": "东区海底隧道 九龙出口",
+        "image": "https://image.xinu.ink/pic/data/6966/images/iv62rra_1788844886975_c16v9.webp",
+        "geo": [
+          22.300555,
+          114.232488
+        ],
+        "s": 2482,
+        "mark": "琪琪搭车路过的地点\n香港实际靠左行驶，片中均改为靠右行驶",
+        "folder": "香港",
+        "cn": "东区海底隧道 九龙出口"
+      },
+      {
+        "id": "iv6pula",
+        "name": "东区海底隧道 港岛出口",
+        "image": "https://image.xinu.ink/pic/data/6966/images/iv6pula_1788831212015_cblack.webp",
+        "geo": [
+          22.288905,
+          114.212142
+        ],
+        "s": 2492,
+        "mark": "琪琪搭车驶出海底隧道",
+        "folder": "香港",
+        "cn": "东区海底隧道 港岛出口"
+      },
+      {
+        "id": "iv9i8cu",
+        "name": "Gloucester Rd",
+        "image": "https://image.xinu.ink/pic/data/6966/images/iv9i8cu_1788844975094_cblack.webp",
+        "geo": [
+          22.281691,
+          114.186639
+        ],
+        "s": 2510,
+        "mark": "琪琪坐车路过",
+        "folder": "香港",
+        "originURL": "百度地图",
+        "cn": "告士打道 新豪大厦对面"
+      },
+      {
+        "id": "iv9qsx5",
+        "name": "Moreton Terrance Flyover",
+        "image": "https://image.xinu.ink/pic/data/6966/images/iv9qsx5_1788844988870_cblack.webp",
+        "geo": [
+          22.279802,
+          114.188949
+        ],
+        "s": 2513,
+        "folder": "香港",
+        "cn": "摩顿台天桥 香港中央图书馆旁"
+      },
+      {
+        "id": "j7wpwwo",
+        "name": "Tai Hang Rd (Trafalgar Court)",
+        "image": "https://image.xinu.ink/pic/data/6966/images/j7wpwwo_1788847601140_cblack.webp",
+        "geo": [
+          22.276875,
+          114.191539
+        ],
+        "s": 2515,
+        "folder": "香港",
+        "cn": "大坑道 大宝阁旁"
+      },
+      {
+        "id": "j7wb3pa",
+        "name": "Mt Austin Rd",
+        "image": "https://image.xinu.ink/pic/data/6966/images/j7wb3pa_1788846784870_cblack.webp",
+        "geo": [
+          22.273402,
+          114.148368
+        ],
+        "s": 2546,
+        "folder": "香港",
+        "cn": "柯士甸山道 山顶花园旁"
+      },
+      {
+        "id": "iv5b1k5",
+        "name": "Mount Austin Rd",
+        "image": "https://image.xinu.ink/pic/data/6966/images/iv5b1k5_1788850870542_cblack.webp",
+        "geo": [
+          22.273563,
+          114.148325
+        ],
+        "s": 2962,
+        "folder": "香港",
+        "originURL": "百度地图",
+        "cn": "柯士甸山道 山顶花园旁"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6966/points.json"
+  },
+  "6967": {
+    "name": "湘南爆走族",
+    "name_cn": "湘南爆走族",
+    "cover": "https://image.xinu.ink/pic/data/6967/images/82490.jpg",
+    "theme_color": "#d10221",
+    "points": [
+      {
+        "id": "ir7xogq",
+        "name": "辻堂ハウス",
+        "image": "https://image.xinu.ink/pic/data/6967/images/ir7xogq-1787838359733.webp",
+        "geo": [
+          35.329905,
+          139.437469
+        ],
+        "ep": 10,
+        "cn": "辻堂高校站前公交站"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6967/points.json"
+  },
+  "6968": {
+    "name": "日本三國",
+    "name_cn": "日本三国",
+    "cover": "https://image.xinu.ink/pic/data/6968/images/623851.jpg",
+    "theme_color": "#db242d",
+    "points": [
+      {
+        "id": "ik6r9gy",
+        "name": "通天閣",
+        "image": "https://image.xinu.ink/pic/data/6968/images/ik6r9gy-1787413348737.webp",
+        "geo": [
+          34.65085,
+          135.505688
+        ],
+        "ep": 2,
+        "s": 341,
+        "mark": "道顿崛水上观光船的导游专门提了这个",
+        "cn": "通天阁"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6968/points.json"
+  },
+  "6969": {
+    "name": "廃墟めぐり ここから先は自己責任です！",
+    "name_cn": "废墟巡游 从现在开始，自行负责！",
+    "cover": "https://image.xinu.ink/pic/data/6969/images/699546.jpg",
+    "theme_color": "#9fb9d2",
+    "points": [
+      {
+        "id": "j3giy7i",
+        "name": "JR八王子駅",
+        "image": "https://image.xinu.ink/pic/data/6969/images/j3giy7i_1788578489508.webp",
+        "geo": [
+          35.655567,
+          139.338892
+        ],
+        "ep": 1
+      },
+      {
+        "id": "j3glstn",
+        "name": "JR八王子駅",
+        "image": "https://image.xinu.ink/pic/data/6969/images/j3glstn_1788578508537.webp",
+        "geo": [
+          35.655568,
+          139.338855
+        ],
+        "ep": 1
+      },
+      {
+        "id": "j3gj0t7",
+        "name": "NewDays 八王子",
+        "image": "https://image.xinu.ink/pic/data/6969/images/j3gj0t7_1788578551997.webp",
+        "geo": [
+          35.655786,
+          139.338981
+        ],
+        "ep": 1
+      },
+      {
+        "id": "j3gix1c",
+        "name": "JR八王子駅北口",
+        "image": "https://image.xinu.ink/pic/data/6969/images/j3gix1c_1788578589210.webp",
+        "geo": [
+          35.655822,
+          139.338944
+        ],
+        "ep": 1
+      },
+      {
+        "id": "j3gpo8w",
+        "name": "JR八王子駅北口 マルベリーブリッジ",
+        "image": "https://image.xinu.ink/pic/data/6969/images/j3gpo8w_1788578709424.webp",
+        "geo": [
+          35.656719,
+          139.339248
+        ],
+        "ep": 1
+      },
+      {
+        "id": "j3gqw4j",
+        "name": "JR八王子駅北口 絹の舞",
+        "image": "https://image.xinu.ink/pic/data/6969/images/j3gqw4j_1788578752557.webp",
+        "geo": [
+          35.656869,
+          139.339159
+        ],
+        "ep": 1
+      },
+      {
+        "id": "j3h41pj",
+        "name": "八王子駅北口地下駐車場",
+        "image": "https://image.xinu.ink/pic/data/6969/images/j3h41pj_1788579368226.webp",
+        "geo": [
+          35.656985,
+          139.33942
+        ],
+        "ep": 2,
+        "mark": "位置未确认。"
+      },
+      {
+        "id": "j3h2n0v",
+        "name": "八王子駅北口地下駐車場",
+        "image": "https://image.xinu.ink/pic/data/6969/images/j3h2n0v_1788579344044.webp",
+        "geo": [
+          35.657111,
+          139.339294
+        ],
+        "ep": 2
+      },
+      {
+        "id": "j3h9ptu",
+        "name": "国道411号・都道28号交点",
+        "image": "https://image.xinu.ink/pic/data/6969/images/j3h9ptu_1788579737426.webp",
+        "geo": [
+          35.788846,
+          139.254904
+        ],
+        "ep": 2
+      },
+      {
+        "id": "j3hk5vk",
+        "name": "西多摩郡 廃村",
+        "image": "https://image.xinu.ink/pic/data/6969/images/j3hk5vk_1788580175698.webp",
+        "geo": [
+          35.809197,
+          139.083573
+        ],
+        "ep": 2,
+        "mark": "未确认具体位置。"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6969/points.json"
+  },
+  "6970": {
+    "name": "星川銀座四丁目",
+    "name_cn": "星川银座四丁目",
+    "cover": "https://image.xinu.ink/pic/data/6970/images/21681.jpg",
+    "theme_color": "#fce9c8",
+    "points": [
+      {
+        "id": "ht3d3ar",
+        "name": "星川四丁目",
+        "image": "https://image.xinu.ink/pic/data/6970/images/ht3d3ar_1785774848242.webp",
+        "geo": [
+          35.458787,
+          139.595223
+        ],
+        "ep": "第三卷",
+        "mark": "本作舞台设定在星川站东北的「星川四丁目」，现实中星川只有一到三丁目，星川站东北空间很小，本作舞台大部分为架空。"
+      },
+      {
+        "id": "ht2zvp9",
+        "name": "相鉄星川駅",
+        "image": "https://image.xinu.ink/pic/data/6970/images/ht2zvp9_1785774378183.webp",
+        "geo": [
+          35.458556,
+          139.595067
+        ],
+        "ep": 3
+      },
+      {
+        "id": "ht37shn",
+        "name": "帷子川",
+        "image": "https://image.xinu.ink/pic/data/6970/images/ht37shn_1785774670812.webp",
+        "geo": [
+          35.458424,
+          139.596406
+        ],
+        "ep": 4,
+        "mark": "背景中的大型建筑为ダイゴプラザ。"
+      },
+      {
+        "id": "ht2vfmr",
+        "name": "星川二丁目",
+        "image": "https://image.xinu.ink/pic/data/6970/images/ht2vfmr_1785774028415.webp",
+        "geo": [
+          35.457679,
+          139.591327
+        ],
+        "ep": "第二卷",
+        "mark": "第二卷封面对应的现实位置。"
+      },
+      {
+        "id": "ht30p2s",
+        "name": "星川二丁目",
+        "image": "https://image.xinu.ink/pic/data/6970/images/ht30p2s_1785774245462.webp",
+        "geo": [
+          35.457665,
+          139.591254
+        ],
+        "ep": 12,
+        "mark": "从左下角的路线可确认两人的步行路线。"
+      },
+      {
+        "id": "ht3hptp",
+        "name": "上星川町歩道橋",
+        "image": "https://image.xinu.ink/pic/data/6970/images/ht3hptp_1785775060348.webp",
+        "geo": [
+          35.467682,
+          139.58109
+        ],
+        "ep": "第三卷"
+      },
+      {
+        "id": "ht3rsza",
+        "name": "横浜駅西口",
+        "image": "https://image.xinu.ink/pic/data/6970/images/ht3rsza_1785775557805.webp",
+        "geo": [
+          35.466776,
+          139.621418
+        ],
+        "ep": "第三卷",
+        "mark": "横滨站西口的公交站区域，数字3即为站台标号。远处的建筑是CIAL横滨所在的横浜ステーションビル，已于2013年拆除。"
+      },
+      {
+        "id": "ht3v67g",
+        "name": "相鉄星川駅",
+        "image": "https://image.xinu.ink/pic/data/6970/images/ht3v67g_1785775670859.webp",
+        "geo": [
+          35.458426,
+          139.595065
+        ],
+        "ep": "第三卷"
+      },
+      {
+        "id": "ht4416w",
+        "name": "​団地",
+        "image": "https://image.xinu.ink/pic/data/6970/images/ht4416w_1785776367029.webp",
+        "geo": [
+          35.459024,
+          139.550403
+        ],
+        "ep": "第三卷",
+        "mark": "造型与左近山团地较为接近。"
+      },
+      {
+        "id": "ht4clpx",
+        "name": "青森ベイブリッジ",
+        "image": "https://image.xinu.ink/pic/data/6970/images/ht4clpx_1785776700085.webp",
+        "geo": [
+          40.829697,
+          140.74101
+        ],
+        "ep": "第三卷",
+        "mark": "青森湾的大桥。该场景大概是从アスパム13階展望台眺望。"
+      },
+      {
+        "id": "ht4gwui",
+        "name": "国道7号青森西バイパス",
+        "image": "https://image.xinu.ink/pic/data/6970/images/ht4gwui_1785776756229.webp",
+        "geo": [
+          40.82623,
+          140.722096
+        ],
+        "ep": "第三卷",
+        "mark": "图示路牌所在地。"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6970/points.json"
+  },
+  "6971": {
+    "name": "機動戦士ガンダム0083 STARDUST MEMORY",
+    "name_cn": "机动战士高达0083 星尘的回忆",
+    "cover": "https://image.xinu.ink/pic/data/6971/images/804_OFF1z.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "hsq2sc8",
+        "name": "トリントン基地/Torrington Memorial Park",
+        "image": "https://image.xinu.ink/pic/data/6971/images/hsq2sc8-1785752786508.jpg",
+        "geo": [
+          -29.313851,
+          151.694646
+        ],
+        "ep": "第1话",
+        "s": "07:07",
+        "mark": "欢迎来到特灵顿，现实中是个什么都没有的小村庄（即便以土澳的标准来说也非常小），这里没有任何军事设施，更没有藏核弹，北部是一片州立自然保护区，挺适合徒步的。\n不会得特灵顿综合症，也没有高达可以抢，村里有个酒坊和一个教堂，其他的没有了",
+        "cn": "特灵顿基地"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6971/points.json"
+  },
+  "6972": {
+    "name": "アサルトリリィ BOUQUET",
+    "name_cn": "突击莉莉 BOUQUET",
+    "cover": "https://image.xinu.ink/pic/data/6972/images/292712_pACzh.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "hoccel7",
+        "name": "勝沼ぶどう郷駅前",
+        "image": "https://image.xinu.ink/pic/data/6972/images/hoccel7-1785487677004.webp",
+        "geo": [
+          35.672495,
+          138.742982
+        ],
+        "ep": "第5話",
+        "s": "220",
+        "cn": "胜沼葡萄乡站前"
+      },
+      {
+        "id": "hocs5qy",
+        "name": "祝橋",
+        "image": "https://image.xinu.ink/pic/data/6972/images/hocs5qy-1785488350132.webp",
+        "geo": [
+          35.658844,
+          138.73152
+        ],
+        "ep": "第一话",
+        "s": "30",
+        "cn": "祝桥"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6972/points.json"
+  },
+  "6973": {
+    "name": "糺糺縁糸（きゅうきゅうえんし）",
+    "name_cn": "纠纠缘丝",
+    "cover": "https://image.xinu.ink/pic/data/6973/images/679547.jpg",
+    "theme_color": "#0d4523",
+    "points": [
+      {
+        "id": "hrk58zt",
+        "name": "奈良",
+        "image": "",
+        "geo": [
+          34.680958,
+          135.819038
+        ],
+        "mark": "在本作名为「平须」。"
+      },
+      {
+        "id": "hrk4o3w",
+        "name": "奈良公園",
+        "image": "",
+        "geo": [
+          34.685467,
+          135.843423
+        ],
+        "mark": "对应本作的「白鹿公园」。"
+      },
+      {
+        "id": "hrjvndn",
+        "name": "春日大社",
+        "image": "",
+        "geo": [
+          34.681491,
+          135.848442
+        ],
+        "mark": "在本作名为「白鹿大社」。春日大社的主祭神武瓮槌命有乘白鹿下世的传说，因此白鹿是春日大社的重要要素。"
+      },
+      {
+        "id": "hrjyx3k",
+        "name": "石上神宮",
+        "image": "",
+        "geo": [
+          34.598071,
+          135.851959
+        ],
+        "mark": "在本作名为「空见神宫」。石上神宫有供奉天羽羽斩和十种神宝的传说，两者在本作都有重要地位。"
+      },
+      {
+        "id": "hrlsvxs",
+        "name": "心霊豪農屋敷",
+        "image": "",
+        "geo": [
+          36.24896,
+          139.221632
+        ],
+        "mark": "第一章舞台「豪農屋敷」的原型，位于埼玉县本庄市仁手的废屋，不过在游戏设定中第一章的废屋位于空见（石上）。曾有杂志文章将其描述为发生过惨烈事件的灵异地点。建筑本身约在2012年被彻底拆除。2012年谷歌街景可看到拆除后的残留：\nhttps://maps.app.goo.gl/DaG9YzdfqjiV2G3t8\nhttps://x.com/GSX1100SSSL/status/1416401260220014594/photo/1"
+      },
+      {
+        "id": "hrk5uq7",
+        "name": "生駒山上遊園地",
+        "image": "",
+        "geo": [
+          34.679795,
+          135.678368
+        ],
+        "mark": "生驹山在本作名为「斋隈山」，现实中在此有多处宗教宗教修行场所，山顶则1929年开业的游乐园。两位主角在第二章之前前往山顶游乐园游玩，然后在第二章前往废弃的宗教设施探险。"
+      },
+      {
+        "id": "hrkg4pk",
+        "name": "神戸·異人館",
+        "image": "",
+        "geo": [
+          34.701227,
+          135.189694
+        ],
+        "mark": "神户在本作名为「水门」，异人馆指的是日本对外开放后外国人在神户修建的宅邸，现实中有著名的北野异人馆街。第三章的剧情便发生于一处异人馆。"
+      },
+      {
+        "id": "hrkwge5",
+        "name": "冠島",
+        "image": "",
+        "geo": [
+          35.681226,
+          135.424427
+        ],
+        "mark": "在本作被描述为「西府羽津市北部湾」的无人岛「神户岛」，为游戏第四章舞台。冠岛现实中是位于京都府舞鹤市的无人岛，又称常世岛。全岛在1924年被指定为天然纪念物，未经许可不允许登陆。《丹后风土记》记载当地有传说该岛是天宝元年地震后诞生。皆与游戏中描述一致。"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6973/points.json"
   }
 }
