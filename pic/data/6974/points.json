@@ -1,0 +1,105 @@
+[
+  {
+    "id": "jn2ewdx",
+    "name": "音楽と森の美術館",
+    "image": "https://image.xinu.ink/pic/data/6974/images/jn2ewdx-1789764426023.webp",
+    "geo": [
+      35.521904,
+      138.769696
+    ],
+    "ep": "游戏背景图",
+    "folder": "天色幻想岛-山梨"
+  },
+  {
+    "id": "jn1yrop",
+    "name": "Schloss Nymphenburg",
+    "image": "https://image.xinu.ink/pic/data/6974/images/jn1yrop-1789763269102.webp",
+    "geo": [
+      48.158202,
+      11.502696
+    ],
+    "ep": "游戏背景图",
+    "folder": "天色幻想岛-慕尼黑",
+    "cn": "纽芬堡"
+  },
+  {
+    "id": "jn26sbo",
+    "name": "Schloss Nymphenburg",
+    "image": "https://image.xinu.ink/pic/data/6974/images/jn26sbo-1789763652499.webp",
+    "geo": [
+      48.158166,
+      11.501638
+    ],
+    "ep": "游戏背景图",
+    "folder": "天色幻想岛-慕尼黑",
+    "cn": "纽芬堡（喷泉）"
+  },
+  {
+    "id": "jn1v0ns",
+    "name": "Marienplatz",
+    "image": "https://image.xinu.ink/pic/data/6974/images/jn1v0ns-1789763096810.webp",
+    "geo": [
+      48.137339,
+      11.575434
+    ],
+    "folder": "天色幻想岛-慕尼黑",
+    "cn": "玛丽亚广场"
+  },
+  {
+    "id": "jn1spgw",
+    "name": "TOP Hotel Goldenes Fass",
+    "image": "https://image.xinu.ink/pic/data/6974/images/jn1spgw-1789762978948.webp",
+    "geo": [
+      49.375483,
+      10.191513
+    ],
+    "ep": "游戏背景图",
+    "folder": "天色幻想岛-罗滕堡"
+  },
+  {
+    "id": "jn1pmgp",
+    "name": "Karlstor",
+    "image": "https://image.xinu.ink/pic/data/6974/images/jn1pmgp-1789762884080.webp",
+    "geo": [
+      48.139244,
+      11.565991
+    ],
+    "ep": "游戏背景图",
+    "folder": "天色幻想岛-慕尼黑",
+    "cn": "卡尔广场"
+  },
+  {
+    "id": "jn16q7n",
+    "name": "Wenggasse",
+    "image": "https://image.xinu.ink/pic/data/6974/images/jn16q7n-1789761955875.webp",
+    "geo": [
+      49.375329,
+      10.180583
+    ],
+    "ep": "游戏背景图",
+    "mark": "游戏背景和现实是镜像的，需要反转图片"
+  },
+  {
+    "id": "jn140km",
+    "name": "Das Plönlein",
+    "image": "https://image.xinu.ink/pic/data/6974/images/jn140km-1789761840014.webp",
+    "geo": [
+      49.374465,
+      10.180103
+    ],
+    "ep": "游戏背景图",
+    "folder": "天色幻想岛-罗滕堡"
+  },
+  {
+    "id": "jn0qu3i",
+    "name": "St.-Jakobs-Kirche (Skulpturen)",
+    "image": "https://image.xinu.ink/pic/data/6974/images/jn0qu3i-1789761325707.webp",
+    "geo": [
+      49.377931,
+      10.17815
+    ],
+    "ep": "游戏背景图",
+    "folder": "天色幻想岛-罗滕堡",
+    "cn": "圣雅各布教堂"
+  }
+]
