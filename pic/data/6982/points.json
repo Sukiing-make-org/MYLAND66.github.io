@@ -1,0 +1,49 @@
+[
+  {
+    "id": "jo7y5il",
+    "name": "埼玉県立浦和高等学校（体育館）",
+    "image": "https://image.xinu.ink/pic/data/6982/images/jo7y5il-1789833816241.webp",
+    "geo": [
+      35.878392,
+      139.65063
+    ],
+    "ep": "游戏背景图",
+    "mark": "初雪等人的学校体育馆，在此点位向学校方向看可以看到和游戏一样的视角",
+    "folder": "琦玉"
+  },
+  {
+    "id": "jo84m9o",
+    "name": "代々木公園",
+    "image": "https://image.xinu.ink/pic/data/6982/images/jo84m9o-1789834111480.webp",
+    "geo": [
+      35.670474,
+      139.695727
+    ],
+    "ep": "游戏背景图",
+    "folder": "涩谷",
+    "cn": "代代木公园"
+  },
+  {
+    "id": "jo899ff",
+    "name": "岩田屋本店",
+    "image": "https://image.xinu.ink/pic/data/6982/images/jo899ff-1789834471563.webp",
+    "geo": [
+      33.590786,
+      130.397754
+    ],
+    "ep": "游戏背景图",
+    "folder": "福冈"
+  },
+  {
+    "id": "jo7o3pv",
+    "name": "グランドプリンスホテル高輪 貴賓館ウエディング",
+    "image": "https://image.xinu.ink/pic/data/6982/images/jo7o3pv-1789833435128.webp",
+    "geo": [
+      35.631875,
+      139.735699
+    ],
+    "ep": "游戏背景图",
+    "mark": "河野初雪的家，要从侧面看",
+    "folder": "品川"
+  }
+]

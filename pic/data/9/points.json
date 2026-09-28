@@ -457,5 +457,46 @@
       135.566301
     ],
     "mark": "找了一圈结果就在脚下）出站一楼左拐往前走一点就好了，到整点还会有钟声，很有感觉"
+  },
+  {
+    "id": "jqz314m",
+    "name": "鸟居",
+    "image": "https://image.xinu.ink/pic/data/9/images/jqz314m-1790000267171.webp",
+    "geo": [
+      43.053074,
+      141.311127
+    ],
+    "mark": "冬季爬山不建议，有点滑"
+  },
+  {
+    "id": "jqz2fl7",
+    "name": "すみれ 札幌本店",
+    "image": "https://image.xinu.ink/pic/data/9/images/jqz2fl7-1790000247401.webp",
+    "geo": [
+      43.032686,
+      141.361609
+    ],
+    "ep": "8"
+  },
+  {
+    "id": "jqz1rjp",
+    "name": "隧道",
+    "image": "https://image.xinu.ink/pic/data/9/images/jqz1rjp-1790000213386.webp",
+    "geo": [
+      43.034999,
+      141.357418
+    ],
+    "ep": "8"
+  },
+  {
+    "id": "jqz0lxn",
+    "name": "楼梯",
+    "image": "https://image.xinu.ink/pic/data/9/images/jqz0lxn-1790000162654.webp",
+    "geo": [
+      43.035151,
+      141.357202
+    ],
+    "ep": "8",
+    "mark": "左面位置"
   }
 ]

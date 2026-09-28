@@ -1,0 +1,59 @@
+[
+  {
+    "id": "juiblte",
+    "name": "JR品川駅北改札",
+    "image": "https://image.xinu.ink/pic/data/6980/images/juiblte-1790214120520.webp",
+    "geo": [
+      35.628954,
+      139.739047
+    ],
+    "ep": "游戏背景图",
+    "folder": "品川",
+    "origin": "rinnow",
+    "originURL": "https://rinnow.hatenablog.com/entry/koikari",
+    "cn": "JR品川站北检票口"
+  },
+  {
+    "id": "jujd50m",
+    "name": "代々木駅前",
+    "image": "https://image.xinu.ink/pic/data/6980/images/jujd50m-1790215909709.webp",
+    "geo": [
+      35.682787,
+      139.702113
+    ],
+    "ep": "游戏背景图",
+    "folder": "涩谷",
+    "origin": "rinnow",
+    "originURL": "https://rinnow.hatenablog.com/entry/koikari",
+    "cn": "代代木站前"
+  },
+  {
+    "id": "jujky7t",
+    "name": "末広町駅前",
+    "image": "https://image.xinu.ink/pic/data/6980/images/jujky7t-1790216126565.webp",
+    "geo": [
+      35.702807,
+      139.771937
+    ],
+    "ep": "游戏背景图",
+    "folder": "千代田",
+    "origin": "rinnow",
+    "originURL": "https://rinnow.hatenablog.com/entry/koikari",
+    "cn": "末广町站前"
+  },
+  {
+    "id": "jujp4j3",
+    "name": "ららぽーと新三郷",
+    "image": "https://image.xinu.ink/pic/data/6980/images/jujp4j3_1790220532068.webp",
+    "geo": [
+      35.858334,
+      139.868411
+    ],
+    "ep": "游戏背景图",
+    "mark": "💵OR💳？",
+    "folder": "埼玉",
+    "origin": "rinnow",
+    "originURL": "https://rinnow.hatenablog.com/entry/koikari",
+    "cn": "新三乡啦啦宝都"
+  }
+]
