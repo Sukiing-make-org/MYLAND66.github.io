@@ -1,0 +1,616 @@
+[
+  {
+    "id": "2qnpda3",
+    "name": "普明閣階段",
+    "image": "https://image.xinu.ink/pic/data/6986/images/2qnpda3-1783682502370.webp",
+    "geo": [
+      34.346861,
+      132.911127
+    ],
+    "ep": "主视图",
+    "folder": "町並み保存地区（竹原市）"
+  },
+  {
+    "id": "2qnpd9o",
+    "name": "照蓮寺",
+    "image": "https://image.xinu.ink/pic/data/6986/images/2qnpd9o-1783682340144.webp",
+    "geo": [
+      34.348743,
+      132.909617
+    ],
+    "ep": "OP",
+    "s": 17,
+    "folder": "町並み保存地区（竹原市）"
+  },
+  {
+    "id": "guhhbtt",
+    "name": "憧憬の広場",
+    "image": "https://image.xinu.ink/pic/data/6986/images/guhhbtt-1783682222401.webp",
+    "geo": [
+      34.34742,
+      132.910073
+    ],
+    "ep": 1,
+    "s": 816,
+    "folder": "町並み保存地区（竹原市）"
+  },
+  {
+    "id": "2qnpd9i",
+    "name": "野外劇場",
+    "image": "https://image.xinu.ink/pic/data/6986/images/2qnpd9i-1783683787390.webp",
+    "geo": [
+      34.337685,
+      132.93196
+    ],
+    "ep": 4,
+    "s": 387,
+    "folder": "バンブー総合公園（竹原市）"
+  },
+  {
+    "id": "guif969",
+    "name": "野外劇場",
+    "image": "https://image.xinu.ink/pic/data/6986/images/guif969-1783683801241.webp",
+    "geo": [
+      34.337604,
+      132.931847
+    ],
+    "ep": 4,
+    "s": 394,
+    "folder": "バンブー総合公園（竹原市）"
+  },
+  {
+    "id": "2qnpdbh",
+    "name": "かおたん桜",
+    "image": "https://image.xinu.ink/pic/data/6986/images/2qnpdbh-1783683778129.webp",
+    "geo": [
+      34.336691,
+      132.933848
+    ],
+    "ep": 4,
+    "s": 441,
+    "folder": "バンブー総合公園（竹原市）"
+  },
+  {
+    "id": "2qnpdbf",
+    "name": "こまちだけ",
+    "image": "https://image.xinu.ink/pic/data/6986/images/2qnpdbf-1783683822695.webp",
+    "geo": [
+      34.336795,
+      132.929301
+    ],
+    "ep": 4,
+    "s": 834,
+    "folder": "バンブー総合公園（竹原市）"
+  },
+  {
+    "id": "2qnpd9f",
+    "name": "ぽって桜",
+    "image": "https://image.xinu.ink/pic/data/6986/images/2qnpd9f_1790877891847.webp",
+    "geo": [
+      34.33985,
+      132.928227
+    ],
+    "ep": 4,
+    "s": 1373,
+    "folder": "バンブー総合公園（竹原市）"
+  },
+  {
+    "id": "2qnpd9h",
+    "name": "駐車場(バンブー・ジョイ・ハイランド)",
+    "image": "https://image.xinu.ink/pic/data/6986/images/2qnpd9h-1783683758811.webp",
+    "geo": [
+      34.337156,
+      132.933076
+    ],
+    "ep": 5,
+    "s": 403,
+    "folder": "バンブー総合公園（竹原市）"
+  },
+  {
+    "id": "guia49q",
+    "name": "ももねこ様神社",
+    "image": "https://image.xinu.ink/pic/data/6986/images/guia49q-1783683565329.webp",
+    "geo": [
+      34.340958,
+      132.910452
+    ],
+    "ep": 5,
+    "s": 611,
+    "folder": "竹原駅周辺（竹原市）"
+  },
+  {
+    "id": "2qnpdaf",
+    "name": "ももねこ様神社",
+    "image": "https://image.xinu.ink/pic/data/6986/images/2qnpdaf-1783683559354.webp",
+    "geo": [
+      34.340909,
+      132.910405
+    ],
+    "ep": 5,
+    "s": 670,
+    "folder": "竹原駅周辺（竹原市）"
+  },
+  {
+    "id": "k7v9bp8",
+    "name": "宿根の大桜 迹",
+    "image": "https://image.xinu.ink/pic/data/6986/images/k7v9bp8-1791021779460.webp",
+    "geo": [
+      34.35962,
+      132.87631
+    ],
+    "ep": 5,
+    "s": 1222,
+    "mark": "25.8.30 百年樱花树已经倒塌，只剩下树根和残木（悲）",
+    "folder": "朝日山（竹原市）"
+  },
+  {
+    "id": "k7uis4e",
+    "name": "TSUNAMI",
+    "image": "https://image.xinu.ink/pic/data/6986/images/k7uis4e-1791020560144.webp",
+    "geo": [
+      35.281898,
+      139.665932
+    ],
+    "ep": 7,
+    "s": 482,
+    "folder": "横須賀市",
+    "cn": "TSUNAMI汉堡店"
+  },
+  {
+    "id": "k7uqdl6",
+    "name": "坂本隧道",
+    "image": "https://image.xinu.ink/pic/data/6986/images/k7uqdl6-1791020890991.webp",
+    "geo": [
+      35.275903,
+      139.652797
+    ],
+    "ep": 7,
+    "s": 524,
+    "folder": "横須賀市"
+  },
+  {
+    "id": "k7um1xr",
+    "name": "小栗上野介忠顺",
+    "image": "https://image.xinu.ink/pic/data/6986/images/k7um1xr-1791020685575.webp",
+    "geo": [
+      35.28364,
+      139.658151
+    ],
+    "ep": 7,
+    "s": 562,
+    "folder": "横須賀市"
+  },
+  {
+    "id": "k7unq6j",
+    "name": "ヨコスカ街なかピアノ",
+    "image": "https://image.xinu.ink/pic/data/6986/images/k7unq6j-1791020813049.webp",
+    "geo": [
+      35.283296,
+      139.659356
+    ],
+    "ep": 7,
+    "s": 572,
+    "folder": "横須賀市"
+  },
+  {
+    "id": "k68c3j1",
+    "name": "叶神社（西叶神社）",
+    "image": "https://image.xinu.ink/pic/data/6986/images/k68c3j1-1790922804079.webp",
+    "geo": [
+      35.241952,
+      139.718191
+    ],
+    "ep": 7,
+    "s": 864,
+    "folder": "浦賀（横須賀市）"
+  },
+  {
+    "id": "k7uuxmr",
+    "name": "西渡船場（浦賀の渡し）",
+    "image": "https://image.xinu.ink/pic/data/6986/images/k7uuxmr-1791021116657.webp",
+    "geo": [
+      35.241291,
+      139.71921
+    ],
+    "ep": 7,
+    "s": 893,
+    "folder": "浦賀（横須賀市）"
+  },
+  {
+    "id": "k7uwhyc",
+    "name": "叶神社 (東叶神社)",
+    "image": "https://image.xinu.ink/pic/data/6986/images/k7uwhyc-1791021205474.webp",
+    "geo": [
+      35.24095,
+      139.723138
+    ],
+    "ep": 7,
+    "s": 934,
+    "folder": "浦賀（横須賀市）"
+  },
+  {
+    "id": "k7v01mr",
+    "name": "西浦贺みなと绿地",
+    "image": "https://image.xinu.ink/pic/data/6986/images/k7v01mr-1791021373200.webp",
+    "geo": [
+      35.239025,
+      139.721374
+    ],
+    "ep": 7,
+    "s": 1337,
+    "folder": "浦賀（横須賀市）"
+  },
+  {
+    "id": "guhqpji",
+    "name": "西方寺普明閣",
+    "image": "https://image.xinu.ink/pic/data/6986/images/guhqpji-1783682656679.webp",
+    "geo": [
+      34.346551,
+      132.911362
+    ],
+    "ep": 8,
+    "s": 364,
+    "folder": "町並み保存地区（竹原市）"
+  },
+  {
+    "id": "2qnpdah",
+    "name": "大乗駅",
+    "image": "https://image.xinu.ink/pic/data/6986/images/2qnpdah-1783683684781.webp",
+    "geo": [
+      34.340593,
+      132.945481
+    ],
+    "ep": 8,
+    "s": 781,
+    "folder": "大乗駅（竹原市）"
+  },
+  {
+    "id": "2qnpd9n",
+    "name": "憩いの広場登り口",
+    "image": "https://image.xinu.ink/pic/data/6986/images/2qnpd9n-1783683825395.webp",
+    "geo": [
+      34.336675,
+      132.929227
+    ],
+    "ep": 8,
+    "s": 1027,
+    "folder": "バンブー総合公園（竹原市）"
+  },
+  {
+    "id": "2qnpdc0",
+    "name": "憩いの広場",
+    "image": "https://image.xinu.ink/pic/data/6986/images/2qnpdc0-1783683857703.webp",
+    "geo": [
+      34.336783,
+      132.928574
+    ],
+    "ep": 8,
+    "s": 1177,
+    "folder": "バンブー総合公園（竹原市）"
+  },
+  {
+    "id": "guiggdg",
+    "name": "憩いの広場",
+    "image": "https://image.xinu.ink/pic/data/6986/images/guiggdg-1783683863658.webp",
+    "geo": [
+      34.336784,
+      132.928526
+    ],
+    "ep": 8,
+    "s": 1347,
+    "folder": "バンブー総合公園（竹原市）"
+  },
+  {
+    "id": "k7w99pj",
+    "name": "小田山神社",
+    "image": "https://image.xinu.ink/pic/data/6986/images/k7w99pj-1791023450253.webp",
+    "geo": [
+      34.350135,
+      132.908288
+    ],
+    "ep": 10,
+    "s": 319,
+    "mark": "小田山神社的小路",
+    "folder": "竹原市内"
+  },
+  {
+    "id": "2qnpdbw",
+    "name": "岡村大橋",
+    "image": "https://image.xinu.ink/pic/data/6986/images/2qnpdbw-1783682717145.webp",
+    "geo": [
+      34.192763,
+      132.860552
+    ],
+    "ep": 10,
+    "s": 583,
+    "folder": "大崎下島"
+  },
+  {
+    "id": "2qnpd9j",
+    "name": "のどか亭（御手洗七卿落遺跡）",
+    "image": "https://image.xinu.ink/pic/data/6986/images/2qnpd9j-1783683024487.webp",
+    "geo": [
+      34.17995,
+      132.868188
+    ],
+    "ep": 10,
+    "s": 658,
+    "folder": "大崎下島"
+  },
+  {
+    "id": "2qnpdbg",
+    "name": "歴史の見える丘公園（ベンチ）",
+    "image": "https://image.xinu.ink/pic/data/6986/images/2qnpdbg-1783682858985.webp",
+    "geo": [
+      34.176332,
+      132.866352
+    ],
+    "ep": 10,
+    "s": 774,
+    "folder": "大崎下島"
+  },
+  {
+    "id": "guhvj50",
+    "name": "歴史の見える丘公園（ベンチ）",
+    "image": "https://image.xinu.ink/pic/data/6986/images/guhvj50-1783682883089.webp",
+    "geo": [
+      34.176416,
+      132.866387
+    ],
+    "ep": 10,
+    "s": 854,
+    "folder": "大崎下島"
+  },
+  {
+    "id": "guhuhd8",
+    "name": "御手洗おみあげ屋",
+    "image": "https://image.xinu.ink/pic/data/6986/images/guhuhd8-1783682836885.webp",
+    "geo": [
+      34.176406,
+      132.868152
+    ],
+    "ep": 10,
+    "s": 878,
+    "folder": "大崎下島"
+  },
+  {
+    "id": "2qnpdbm",
+    "name": "恵美須神社 鳥居",
+    "image": "https://image.xinu.ink/pic/data/6986/images/2qnpdbm-1783682733421.webp",
+    "geo": [
+      34.180184,
+      132.867757
+    ],
+    "ep": 10,
+    "s": 1256,
+    "folder": "大崎下島"
+  },
+  {
+    "id": "k7vqg5m",
+    "name": "三原市すなみ海浜公园",
+    "image": "https://image.xinu.ink/pic/data/6986/images/k7vqg5m-1791022569123.webp",
+    "geo": [
+      34.352835,
+      133.082027
+    ],
+    "ep": 11,
+    "s": 1193,
+    "folder": "三原市"
+  },
+  {
+    "id": "2qnpd7t",
+    "name": "大久野島休暇島前",
+    "image": "https://image.xinu.ink/pic/data/6986/images/2qnpd7t-1783681853464.webp",
+    "geo": [
+      34.305474,
+      132.991492
+    ],
+    "ep": 12,
+    "s": 700,
+    "folder": "忠海町（竹原市）"
+  },
+  {
+    "id": "2qnpdal",
+    "name": "大久野島 展望台",
+    "image": "https://image.xinu.ink/pic/data/6986/images/2qnpdal-1783681911570.webp",
+    "geo": [
+      34.30971,
+      132.993173
+    ],
+    "ep": 12,
+    "s": 731,
+    "mark": "2019年1月時点では登れません。",
+    "folder": "忠海町（竹原市）"
+  },
+  {
+    "id": "k7w4yx2",
+    "name": "広岛県立竹原高等学校",
+    "image": "https://image.xinu.ink/pic/data/6986/images/k7w4yx2-1791023260880.webp",
+    "geo": [
+      34.341224,
+      132.903108
+    ],
+    "ep": 12,
+    "s": 1121,
+    "mark": "剧里的女主一行人就读的高中（同名）",
+    "folder": "竹原市内"
+  },
+  {
+    "id": "hrdrze9",
+    "name": "尾道",
+    "image": "https://image.xinu.ink/pic/data/6986/images/hrdrze9-1785671388146.webp",
+    "geo": [
+      34.404801,
+      133.193635
+    ],
+    "ep": "EP8.5",
+    "s": 791,
+    "folder": "尾道市",
+    "cn": "尾道站"
+  },
+  {
+    "id": "hre3wuc",
+    "name": "B&B潮風",
+    "image": "https://image.xinu.ink/pic/data/6986/images/hre3wuc-1785671941978.webp",
+    "geo": [
+      34.398826,
+      133.195438
+    ],
+    "ep": "EP8.5",
+    "s": 833,
+    "mark": "第8.5话入住的民宿原型，动画里是B&B海风",
+    "folder": "尾道市",
+    "cn": "B&B潮风"
+  },
+  {
+    "id": "k7xol4t",
+    "name": "駅前桟桥",
+    "image": "https://image.xinu.ink/pic/data/6986/images/k7xol4t-1791025854432.webp",
+    "geo": [
+      34.403397,
+      133.193773
+    ],
+    "ep": "EP8.5",
+    "s": 876,
+    "folder": "尾道市"
+  },
+  {
+    "id": "hrebrx6",
+    "name": "林芙美子記念像",
+    "image": "https://image.xinu.ink/pic/data/6986/images/hrebrx6-1785672339338.webp",
+    "geo": [
+      34.405767,
+      133.195539
+    ],
+    "ep": "EP8.5",
+    "s": 880,
+    "mark": "尾道商店街入口旁边",
+    "folder": "尾道市"
+  },
+  {
+    "id": "hrekln1",
+    "name": "築姫稲荷",
+    "image": "https://image.xinu.ink/pic/data/6986/images/hrekln1-1785672745432.webp",
+    "geo": [
+      34.40746,
+      133.20151
+    ],
+    "ep": "EP8.5",
+    "s": 883,
+    "mark": "在一条半米宽的小路里面",
+    "folder": "尾道市"
+  },
+  {
+    "id": "hrey5ju",
+    "name": "无名道路",
+    "image": "https://image.xinu.ink/pic/data/6986/images/hrey5ju-1785673356659.webp",
+    "geo": [
+      34.407384,
+      133.199396
+    ],
+    "ep": "EP8.5",
+    "s": 884,
+    "mark": "在店铺\"シミズ本部\"旁边，左转路牌已经没了",
+    "folder": "尾道市",
+    "cn": "无名道路"
+  },
+  {
+    "id": "hrf5713",
+    "name": "刀鍛冶発祥の地",
+    "image": "https://image.xinu.ink/pic/data/6986/images/hrf5713-1785673701628.webp",
+    "geo": [
+      34.410459,
+      133.202255
+    ],
+    "ep": "EP8.5",
+    "s": 887,
+    "folder": "尾道市"
+  },
+  {
+    "id": "hrf8b71",
+    "name": "おのみち​映画​資料館",
+    "image": "https://image.xinu.ink/pic/data/6986/images/hrf8b71-1785673856977.webp",
+    "geo": [
+      34.409582,
+      133.205276
+    ],
+    "ep": "EP8.5",
+    "s": 891,
+    "mark": "就在资料馆门口",
+    "folder": "尾道市",
+    "cn": "尾道电影资料馆"
+  },
+  {
+    "id": "hrfemnh",
+    "name": "東第1踏切前",
+    "image": "https://image.xinu.ink/pic/data/6986/images/hrfemnh-1785674119685.webp",
+    "geo": [
+      34.405573,
+      133.195135
+    ],
+    "ep": "EP8.5",
+    "s": 904,
+    "folder": "尾道市"
+  },
+  {
+    "id": "hrfo8wb",
+    "name": "駅前商店街",
+    "image": "https://image.xinu.ink/pic/data/6986/images/hrfo8wb-1785674579241.webp",
+    "geo": [
+      34.405503,
+      133.195076
+    ],
+    "ep": "EP8.5",
+    "s": 912,
+    "folder": "尾道市"
+  },
+  {
+    "id": "hrfsi3f",
+    "name": "尾道絵のまち通り",
+    "image": "https://image.xinu.ink/pic/data/6986/images/hrfsi3f-1785674773145.webp",
+    "geo": [
+      34.407937,
+      133.200831
+    ],
+    "ep": "EP8.5",
+    "s": 930,
+    "folder": "尾道市"
+  },
+  {
+    "id": "hrfzbpd",
+    "name": "千光寺",
+    "image": "https://image.xinu.ink/pic/data/6986/images/hrfzbpd-1785675222843.webp",
+    "geo": [
+      34.410631,
+      133.198753
+    ],
+    "ep": "EP8.5",
+    "s": 937,
+    "folder": "尾道市"
+  },
+  {
+    "id": "hrg3m82",
+    "name": "千光寺本堂",
+    "image": "https://image.xinu.ink/pic/data/6986/images/hrg3m82-1785675291501.webp",
+    "geo": [
+      34.410491,
+      133.198746
+    ],
+    "ep": "EP8.5",
+    "s": 939,
+    "folder": "尾道市"
+  },
+  {
+    "id": "hrgi2jq",
+    "name": "石鎚山鎖修行",
+    "image": "https://image.xinu.ink/pic/data/6986/images/hrgi2jq-1785675969225.webp",
+    "geo": [
+      34.410426,
+      133.198494
+    ],
+    "ep": "EP8.5",
+    "s": 961,
+    "mark": "8.5话后半爬山的画面都在这里",
+    "folder": "尾道市"
+  }
+]

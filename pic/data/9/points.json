@@ -498,5 +498,113 @@
     ],
     "ep": "8",
     "mark": "左面位置"
+  },
+  {
+    "id": "fc6b38ef",
+    "name": "祐一送真琴去面试的地方",
+    "image": "https://image.xinu.ink/pic/data/9/images/fc6b38ef_1790942719539.webp",
+    "geo": [
+      35.441139,
+      139.650056
+    ],
+    "ep": 6,
+    "s": 646,
+    "originURL": "https://note.com/niwaka_yaro/n/n97f3164a4e74"
+  },
+  {
+    "id": "0d16c318",
+    "name": "百花屋",
+    "image": "https://image.xinu.ink/pic/data/9/images/0d16c318_1790942287511.webp",
+    "geo": [
+      35.440686,
+      139.648946
+    ],
+    "ep": 1,
+    "s": 866,
+    "originURL": "https://note.com/niwaka_yaro/n/n97f3164a4e74"
+  },
+  {
+    "id": "549e59bc",
+    "name": "亚由坐着吃鲷鱼烧的楼梯",
+    "image": "https://image.xinu.ink/pic/data/9/images/549e59bc_1790942736626.webp",
+    "geo": [
+      35.439274,
+      139.645768
+    ],
+    "ep": 3,
+    "s": 1007,
+    "originURL": "https://note.com/niwaka_yaro/n/n97f3164a4e74"
+  },
+  {
+    "id": "4cf8578b",
+    "name": "商店街入口",
+    "image": "https://image.xinu.ink/pic/data/9/images/4cf8578b_1790942747476.webp",
+    "geo": [
+      35.43905,
+      139.645546
+    ],
+    "ep": 2,
+    "s": 856,
+    "originURL": "https://note.com/niwaka_yaro/n/n97f3164a4e74"
+  },
+  {
+    "id": "26bbd915",
+    "name": "代官坂通り",
+    "image": "https://image.xinu.ink/pic/data/9/images/26bbd915_1790942762010.webp",
+    "geo": [
+      35.440083,
+      139.649861
+    ],
+    "ep": 24,
+    "s": 963,
+    "originURL": "https://note.com/niwaka_yaro/n/n97f3164a4e74"
+  },
+  {
+    "id": "bf223cb6",
+    "name": "元町仲通り",
+    "image": "https://image.xinu.ink/pic/data/9/images/bf223cb6_1790942786237.webp",
+    "geo": [
+      35.439306,
+      139.646806
+    ],
+    "ep": 24,
+    "s": 945,
+    "originURL": "https://note.com/niwaka_yaro/n/n97f3164a4e74"
+  },
+  {
+    "id": "1d8f6d4b",
+    "name": "山手教堂",
+    "image": "https://image.xinu.ink/pic/data/9/images/1d8f6d4b_1790942801661.webp",
+    "geo": [
+      35.436427,
+      139.647235
+    ],
+    "ep": 24,
+    "s": 777,
+    "originURL": "https://note.com/niwaka_yaro/n/n97f3164a4e74"
+  },
+  {
+    "id": "32c8fbab",
+    "name": "祐一送真琴去面试的地方旁边",
+    "image": "https://image.xinu.ink/pic/data/9/images/32c8fbab_1790942817902.webp",
+    "geo": [
+      35.441472,
+      139.650667
+    ],
+    "ep": 6,
+    "s": 636,
+    "originURL": "https://note.com/niwaka_yaro/n/n97f3164a4e74"
+  },
+  {
+    "id": "094324f9",
+    "name": "祐一和亚由向鲷鱼烧大叔道歉",
+    "image": "https://image.xinu.ink/pic/data/9/images/094324f9_1790942836900.webp",
+    "geo": [
+      35.439196,
+      139.645726
+    ],
+    "ep": 2,
+    "s": 1213,
+    "originURL": "https://note.com/niwaka_yaro/n/n97f3164a4e74"
   }
 ]
