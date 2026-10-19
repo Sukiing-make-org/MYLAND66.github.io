@@ -1,0 +1,84 @@
+[
+  {
+    "id": "knx59g2",
+    "name": "新橋駅",
+    "image": "https://image.xinu.ink/pic/data/6996/images/knx59g2_1791992427442.webp",
+    "geo": [
+      35.665466,
+      139.758062
+    ],
+    "ep": 1
+  },
+  {
+    "id": "knx6dh8",
+    "name": "新橋駅",
+    "image": "https://image.xinu.ink/pic/data/6996/images/knx6dh8_1791992452776.webp",
+    "geo": [
+      35.665429,
+      139.758072
+    ],
+    "ep": 1
+  },
+  {
+    "id": "knx6nmk",
+    "name": "新橋駅",
+    "image": "https://image.xinu.ink/pic/data/6996/images/knx6nmk_1791992470160.webp",
+    "geo": [
+      35.665409,
+      139.758075
+    ],
+    "ep": 1
+  },
+  {
+    "id": "knsahlp",
+    "name": "新橋駅 日比谷口",
+    "image": "https://image.xinu.ink/pic/data/6996/images/knsahlp_1791992567348.webp",
+    "geo": [
+      35.667079,
+      139.757748
+    ],
+    "ep": 3
+  },
+  {
+    "id": "kns5rvy",
+    "name": "新橋駅",
+    "image": "https://image.xinu.ink/pic/data/6996/images/kns5rvy_1791992584805.webp",
+    "geo": [
+      35.666915,
+      139.757545
+    ],
+    "ep": 3,
+    "mark": "背景是南侧的「ニュー新橋ビル」。"
+  },
+  {
+    "id": "knx9ppb",
+    "name": "新橋駅",
+    "image": "https://image.xinu.ink/pic/data/6996/images/knx9ppb_1791992610319.webp",
+    "geo": [
+      35.66635,
+      139.75784
+    ],
+    "ep": 3
+  },
+  {
+    "id": "knxa2w3",
+    "name": "新橋駅",
+    "image": "https://image.xinu.ink/pic/data/6996/images/knxa2w3_1791992624454.webp",
+    "geo": [
+      35.666322,
+      139.757814
+    ],
+    "ep": 3
+  },
+  {
+    "id": "knsi5cd",
+    "name": "東京駅 16番線·17番線",
+    "image": "",
+    "geo": [
+      35.68112,
+      139.768033
+    ],
+    "ep": 6,
+    "mark": "东海道新干线的站台。"
+  }
+]

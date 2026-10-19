@@ -1,0 +1,48 @@
+[
+  {
+    "id": "ktfh95k",
+    "name": "中入谷停留所",
+    "image": "https://image.xinu.ink/pic/data/6991/images/ktfh95k_1792325540248.webp",
+    "geo": [
+      35.801814,
+      139.768681
+    ],
+    "ep": 8,
+    "mark": "瞳和奈奈每天早上在中入谷公交站碰头，乘坐里48系统巴士前往西日暮里站。",
+    "folder": "中入谷停留所"
+  },
+  {
+    "id": "ktgbz9b",
+    "name": "中入谷停留所",
+    "image": "https://image.xinu.ink/pic/data/6991/images/ktfj247_1792325646556.webp",
+    "geo": [
+      35.801828,
+      139.768425
+    ],
+    "ep": 8,
+    "folder": "中入谷停留所"
+  },
+  {
+    "id": "ktfkdgk",
+    "name": "中入谷停留所",
+    "image": "https://image.xinu.ink/pic/data/6991/images/ktfkdgk_1792325670723.webp",
+    "geo": [
+      35.801806,
+      139.768657
+    ],
+    "ep": 8,
+    "folder": "中入谷停留所"
+  },
+  {
+    "id": "ktg1bx0",
+    "name": "西日暮里駅 JR出口2",
+    "image": "https://image.xinu.ink/pic/data/6991/images/ktg1bx0_1792326521395.webp",
+    "geo": [
+      35.732358,
+      139.767325
+    ],
+    "ep": 8,
+    "mark": "https://maps.app.goo.gl/3gqhkUX3utyvVkqJ7",
+    "folder": "西日暮里站"
+  }
+]

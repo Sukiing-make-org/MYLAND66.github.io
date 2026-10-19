@@ -1,0 +1,546 @@
+[
+  {
+    "id": "kqmjbft",
+    "name": "びっくり亭本家 長浜ラーメン",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kqmjbft_1792155979720.webp",
+    "geo": [
+      33.54289,
+      130.460033
+    ],
+    "ep": 1,
+    "folder": "びっくり亭本家 本店"
+  },
+  {
+    "id": "kqm9tm8",
+    "name": "福岡女学院大学 125周年記念館",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kqm9tm8_1792155654238.webp",
+    "geo": [
+      33.533626,
+      130.44213
+    ],
+    "ep": 1,
+    "folder": "福冈女学院大学"
+  },
+  {
+    "id": "kqmd2sd",
+    "name": "福岡女学院大学 125周年記念館",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kqmd2sd_1792155686386.webp",
+    "geo": [
+      33.533417,
+      130.442339
+    ],
+    "ep": 1,
+    "folder": "福冈女学院大学"
+  },
+  {
+    "id": "kqme2y5",
+    "name": "福岡女学院大学 正門",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kqme2y5_1792155740832.webp",
+    "geo": [
+      33.533656,
+      130.442903
+    ],
+    "ep": 1,
+    "folder": "福冈女学院大学"
+  },
+  {
+    "id": "kqmglv0",
+    "name": "びっくり亭本家 本店",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kqmglv0_1792155877149.webp",
+    "geo": [
+      33.542873,
+      130.460078
+    ],
+    "ep": 1,
+    "folder": "びっくり亭本家 本店"
+  },
+  {
+    "id": "kqmhlwl",
+    "name": "びっくり亭本家 本店",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kqmhlwl_1792155901715.webp",
+    "geo": [
+      33.542865,
+      130.460049
+    ],
+    "ep": 1,
+    "folder": "びっくり亭本家 本店"
+  },
+  {
+    "id": "kqmhy8v",
+    "name": "びっくり亭本家 本店",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kqmhy8v_1792155914845.webp",
+    "geo": [
+      33.542904,
+      130.460029
+    ],
+    "ep": 1,
+    "folder": "びっくり亭本家 本店"
+  },
+  {
+    "id": "kqmi9gt",
+    "name": "びっくり亭本家 本店 焼肉",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kqmi9gt_1792155927238.webp",
+    "geo": [
+      33.54289,
+      130.460024
+    ],
+    "ep": 1,
+    "folder": "びっくり亭本家 本店"
+  },
+  {
+    "id": "kqmq0u6",
+    "name": "南福岡駅",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kqmq0u6_1792156307703.webp",
+    "geo": [
+      33.542344,
+      130.460625
+    ],
+    "ep": 1,
+    "mark": "https://maps.app.goo.gl/6ng9wERuU2pzgBtC8",
+    "folder": "南福冈站"
+  },
+  {
+    "id": "kqmreo6",
+    "name": "南福岡駅",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kqmreo6_1792156378949.webp",
+    "geo": [
+      33.542206,
+      130.460776
+    ],
+    "ep": 1,
+    "mark": "https://maps.app.goo.gl/3GwFLQGm3xyYKTQh7",
+    "folder": "南福冈站"
+  },
+  {
+    "id": "kqmvwu9",
+    "name": "西鉄香椎駅",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kqmvwu9_1792156598641.webp",
+    "geo": [
+      33.659671,
+      130.441778
+    ],
+    "ep": 2,
+    "folder": "西铁香椎站"
+  },
+  {
+    "id": "kqmxjts",
+    "name": "ざいとん 香椎本店",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kqmxjts_1792156645653.webp",
+    "geo": [
+      33.659345,
+      130.44193
+    ],
+    "ep": 2,
+    "folder": "ざいとん 香椎本店"
+  },
+  {
+    "id": "kqmxx1f",
+    "name": "ざいとん 香椎本店",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kqmxx1f_1792156664407.webp",
+    "geo": [
+      33.659361,
+      130.442039
+    ],
+    "ep": 2,
+    "folder": "ざいとん 香椎本店"
+  },
+  {
+    "id": "kqmyewu",
+    "name": "ざいとん 香椎本店",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kqmyewu_1792156687649.webp",
+    "geo": [
+      33.659362,
+      130.442006
+    ],
+    "ep": 2,
+    "folder": "ざいとん 香椎本店"
+  },
+  {
+    "id": "kqmytgf",
+    "name": "ざいとん 香椎本店",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kqmytgf_1792156699958.webp",
+    "geo": [
+      33.659356,
+      130.442022
+    ],
+    "ep": 2,
+    "folder": "ざいとん 香椎本店"
+  },
+  {
+    "id": "kqmz1kb",
+    "name": "ざいとん 台湾まぜそば",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kqmz1kb_1792156710688.webp",
+    "geo": [
+      33.659363,
+      130.442022
+    ],
+    "ep": 2,
+    "folder": "ざいとん 香椎本店"
+  },
+  {
+    "id": "kqn0d54",
+    "name": "西鉄香椎駅",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kqn0d54_1792156774834.webp",
+    "geo": [
+      33.659649,
+      130.441668
+    ],
+    "ep": 2,
+    "folder": "西铁香椎站"
+  },
+  {
+    "id": "ks40532",
+    "name": "福岡PARCO",
+    "image": "https://image.xinu.ink/pic/data/6992/images/ks40532_1792245833601.webp",
+    "geo": [
+      33.591541,
+      130.399122
+    ],
+    "ep": 3,
+    "folder": "天神·新天町"
+  },
+  {
+    "id": "ks46meh",
+    "name": "新天町北通り",
+    "image": "https://image.xinu.ink/pic/data/6992/images/ks46meh_1792246101224.webp",
+    "geo": [
+      33.590497,
+      130.398437
+    ],
+    "ep": 3,
+    "folder": "天神·新天町"
+  },
+  {
+    "id": "ks43qmq",
+    "name": "釜めしビクトリア",
+    "image": "https://image.xinu.ink/pic/data/6992/images/ks43qmq_1792245956566.webp",
+    "geo": [
+      33.590241,
+      130.396964
+    ],
+    "ep": 3,
+    "folder": "釜めしビクトリア"
+  },
+  {
+    "id": "ks4adr5",
+    "name": "飛うめ新天町",
+    "image": "https://image.xinu.ink/pic/data/6992/images/ks4adr5_1792246280968.webp",
+    "geo": [
+      33.590266,
+      130.397007
+    ],
+    "ep": 3,
+    "mark": "釜めしビクトリア对面的荞麦面店，对话中有提到该店的招牌菜为天妇罗丼。",
+    "folder": "釜めしビクトリア"
+  },
+  {
+    "id": "ks47uoy",
+    "name": "釜めしビクトリア",
+    "image": "https://image.xinu.ink/pic/data/6992/images/ks47uoy_1792246218502.webp",
+    "geo": [
+      33.590173,
+      130.396989
+    ],
+    "ep": 3,
+    "folder": "釜めしビクトリア"
+  },
+  {
+    "id": "ks4cfqg",
+    "name": "釜めしビクトリア",
+    "image": "https://image.xinu.ink/pic/data/6992/images/ks4cfqg_1792246357657.webp",
+    "geo": [
+      33.590181,
+      130.396998
+    ],
+    "ep": 3,
+    "folder": "釜めしビクトリア"
+  },
+  {
+    "id": "kt2ojmi",
+    "name": "釜めしビクトリア",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kt2ojmi_1792304028424.webp",
+    "geo": [
+      33.590165,
+      130.397006
+    ],
+    "ep": 3,
+    "folder": "釜めしビクトリア"
+  },
+  {
+    "id": "kt2p2ji",
+    "name": "釜めしビクトリア",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kt2p2ji_1792304061480.webp",
+    "geo": [
+      33.590163,
+      130.397004
+    ],
+    "ep": 3,
+    "folder": "釜めしビクトリア"
+  },
+  {
+    "id": "kt2pk03",
+    "name": "釜めしビクトリア",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kt2pk03_1792304084193.webp",
+    "geo": [
+      33.590163,
+      130.397007
+    ],
+    "ep": 3,
+    "folder": "釜めしビクトリア"
+  },
+  {
+    "id": "kt2kdjc",
+    "name": "釜めしビクトリア",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kt2kdjc_1792303848392.webp",
+    "geo": [
+      33.590165,
+      130.397001
+    ],
+    "ep": 3,
+    "folder": "釜めしビクトリア"
+  },
+  {
+    "id": "kt359p6",
+    "name": "新天町サンドーム",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kt359p6_1792304818516.webp",
+    "geo": [
+      33.590285,
+      130.397965
+    ],
+    "ep": 3,
+    "folder": "天神·新天町"
+  },
+  {
+    "id": "kt2x72x",
+    "name": "タイトーステーション 福岡天神店",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kt2x72x_1792304896463.webp",
+    "geo": [
+      33.589795,
+      130.397202
+    ],
+    "ep": 3,
+    "folder": "天神·新天町"
+  },
+  {
+    "id": "kt42cm7",
+    "name": "タイトーステーション 福岡天神店",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kt42cm7_1792306363750.webp",
+    "geo": [
+      33.589642,
+      130.397273
+    ],
+    "ep": 3,
+    "folder": "天神·新天町"
+  },
+  {
+    "id": "kt4a4xd",
+    "name": "天神コア",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kt4a4xd_1792306887198.webp",
+    "geo": [
+      33.59063,
+      130.399325
+    ],
+    "ep": 3,
+    "mark": "2020年3月31日停业，已拆除。\nhttps://maps.app.goo.gl/wfMbFe91wzkrf9xd8",
+    "folder": "天神·新天町"
+  },
+  {
+    "id": "kt5at4y",
+    "name": "西鉄福岡駅",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kt5at4y_1792308565874.webp",
+    "geo": [
+      33.590016,
+      130.398159
+    ],
+    "ep": 3,
+    "folder": "天神·新天町"
+  },
+  {
+    "id": "kt5hzgs",
+    "name": "西鉄福岡駅",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kt5g1np_1792308681583.webp",
+    "geo": [
+      33.590078,
+      130.398625
+    ],
+    "ep": 3,
+    "folder": "天神·新天町"
+  },
+  {
+    "id": "kt6ol25",
+    "name": "うどん 兎屋",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kt6ol25_1792310973142.webp",
+    "geo": [
+      33.559205,
+      130.412074
+    ],
+    "ep": 4,
+    "folder": "うどん 兎屋"
+  },
+  {
+    "id": "kt6tvkz",
+    "name": "うどん 兎屋",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kt6tvkz_1792311005474.webp",
+    "geo": [
+      33.55918,
+      130.412045
+    ],
+    "ep": 4,
+    "folder": "うどん 兎屋"
+  },
+  {
+    "id": "kt6uwr1",
+    "name": "うどん 兎屋",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kt6uwr1_1792311048861.webp",
+    "geo": [
+      33.559176,
+      130.412016
+    ],
+    "ep": 4,
+    "folder": "うどん 兎屋"
+  },
+  {
+    "id": "kt6vf6d",
+    "name": "うどん 兎屋",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kt6vf6d_1792311075046.webp",
+    "geo": [
+      33.559172,
+      130.412042
+    ],
+    "ep": 4,
+    "folder": "うどん 兎屋"
+  },
+  {
+    "id": "kt6vv4f",
+    "name": "うどん 兎屋",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kt6vv4f_1792311164352.webp",
+    "geo": [
+      33.55921,
+      130.411982
+    ],
+    "ep": 4,
+    "folder": "うどん 兎屋"
+  },
+  {
+    "id": "kt6y6vg",
+    "name": "うどん 兎屋",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kt6y6vg_1792311199565.webp",
+    "geo": [
+      33.559185,
+      130.411981
+    ],
+    "ep": 4,
+    "folder": "うどん 兎屋"
+  },
+  {
+    "id": "kt6y7h5",
+    "name": "うどん 兎屋",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kt6y7h5_1792311211061.webp",
+    "geo": [
+      33.559181,
+      130.411988
+    ],
+    "ep": 4,
+    "folder": "うどん 兎屋"
+  },
+  {
+    "id": "kt6z4yi",
+    "name": "うどん 兎屋",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kt6z4yi_1792311245068.webp",
+    "geo": [
+      33.559194,
+      130.412011
+    ],
+    "ep": 4,
+    "folder": "うどん 兎屋"
+  },
+  {
+    "id": "kt6zied",
+    "name": "うどん 兎屋",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kt6zied_1792311263645.webp",
+    "geo": [
+      33.559199,
+      130.411989
+    ],
+    "ep": 4,
+    "folder": "うどん 兎屋"
+  },
+  {
+    "id": "kt701ja",
+    "name": "うどん 兎屋",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kt701ja_1792311313567.webp",
+    "geo": [
+      33.559195,
+      130.411982
+    ],
+    "ep": 4,
+    "folder": "うどん 兎屋"
+  },
+  {
+    "id": "kt71pzb",
+    "name": "うどん 兎屋",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kt71pzb_1792311377146.webp",
+    "geo": [
+      33.559207,
+      130.412003
+    ],
+    "ep": 4,
+    "folder": "うどん 兎屋"
+  },
+  {
+    "id": "kt72dun",
+    "name": "うどん 兎屋",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kt72dun_1792311421092.webp",
+    "geo": [
+      33.559204,
+      130.412011
+    ],
+    "ep": 4,
+    "folder": "うどん 兎屋"
+  },
+  {
+    "id": "kt73xj8",
+    "name": "うどん 兎屋",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kt73xj8_1792311477148.webp",
+    "geo": [
+      33.559191,
+      130.411992
+    ],
+    "ep": 4,
+    "folder": "うどん 兎屋"
+  },
+  {
+    "id": "kt74lqu",
+    "name": "うどん 兎屋",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kt74lqu_1792311501502.webp",
+    "geo": [
+      33.559184,
+      130.412033
+    ],
+    "ep": 4,
+    "folder": "うどん 兎屋"
+  },
+  {
+    "id": "kt74z2q",
+    "name": "うどん 兎屋",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kt74z2q_1792311514434.webp",
+    "geo": [
+      33.559165,
+      130.412022
+    ],
+    "ep": 4,
+    "folder": "うどん 兎屋"
+  },
+  {
+    "id": "kt78swg",
+    "name": "うどん 兎屋",
+    "image": "https://image.xinu.ink/pic/data/6992/images/kt78swg_1792311701613.webp",
+    "geo": [
+      33.559191,
+      130.41208
+    ],
+    "ep": 4,
+    "mark": "斑马线对面的人行道进修了翻修并加装了护栏。",
+    "folder": "うどん 兎屋"
+  }
+]
