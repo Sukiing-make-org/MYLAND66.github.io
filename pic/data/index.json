@@ -869857,5 +869857,505 @@
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/6997/points.json"
+  },
+  "6998": {
+    "name": "かけぬけ★青春スパーキング",
+    "name_cn": "绽放★青春全力向前冲！",
+    "cover": "https://image.xinu.ink/pic/data/6998/images/304375_jzk3b40.jpg",
+    "theme_color": "#ff0000",
+    "points": [
+      {
+        "id": "kz1s5o1",
+        "name": "瀬戸田サンセットビーチ",
+        "image": "https://image.xinu.ink/pic/data/6998/images/kz1s5o1_1792665314362.webp",
+        "geo": [
+          34.279923,
+          133.073543
+        ],
+        "cn": "濑户田日落海滩"
+      },
+      {
+        "id": "l28owtz",
+        "name": "共楽園",
+        "image": "https://image.xinu.ink/pic/data/6998/images/l28owtz_1792858318792.webp",
+        "geo": [
+          34.409773,
+          133.199294
+        ]
+      },
+      {
+        "id": "l340ivs",
+        "name": "文学のこみち",
+        "image": "https://image.xinu.ink/pic/data/6998/images/l340ivs_1792910940863.webp",
+        "geo": [
+          34.410911,
+          133.198203
+        ],
+        "mark": "游戏中通往神社的路，只有台阶比较像"
+      },
+      {
+        "id": "l341xav",
+        "name": "尾道駅前",
+        "image": "https://image.xinu.ink/pic/data/6998/images/l341xav_1792911015186.webp",
+        "geo": [
+          34.404476,
+          133.194117
+        ],
+        "mark": "这里仅有左侧建筑和右侧车站比较相似",
+        "cn": "尾道站前"
+      },
+      {
+        "id": "l344ylg",
+        "name": "街並み",
+        "image": "https://image.xinu.ink/pic/data/6998/images/l344ylg_1792911255547.webp",
+        "geo": [
+          34.40838,
+          133.199086
+        ]
+      },
+      {
+        "id": "l349jbx",
+        "name": "艮神社",
+        "image": "https://image.xinu.ink/pic/data/6998/images/l349jbx_1792911345911.webp",
+        "geo": [
+          34.410631,
+          133.200771
+        ]
+      },
+      {
+        "id": "l290g5z",
+        "name": "尾道本通り商店街",
+        "image": "https://image.xinu.ink/pic/data/6998/images/l290g5z_1792858862878.webp",
+        "geo": [
+          34.405828,
+          133.195766
+        ],
+        "cn": "尾道本通商店街"
+      },
+      {
+        "id": "l33wwoh",
+        "name": "俳句広場",
+        "image": "https://image.xinu.ink/pic/data/6998/images/l33wwoh_1792910795017.webp",
+        "geo": [
+          34.41035,
+          133.196649
+        ]
+      },
+      {
+        "id": "l34bb1l",
+        "name": "尾道U2 ウッドデッキ",
+        "image": "https://image.xinu.ink/pic/data/6998/images/l34bb1l_1792911430592.webp",
+        "geo": [
+          34.401891,
+          133.190251
+        ],
+        "mark": "原游戏CG是合成的，这里取材了左侧餐厅的部分"
+      },
+      {
+        "id": "l34eo48",
+        "name": "尾道駅前広場",
+        "image": "https://image.xinu.ink/pic/data/6998/images/l34eo48_1792911592325.webp",
+        "geo": [
+          34.404162,
+          133.194788
+        ],
+        "mark": "原游戏CG是合成的，这里取材了右侧栏杆的部分"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6998/points.json"
+  },
+  "6999": {
+    "name": "FX戦士くるみちゃん",
+    "name_cn": "FX战士久留美",
+    "cover": "https://image.xinu.ink/pic/data/6999/images/622288_nmbC3.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "l0fbui0",
+        "name": "立教大学本館",
+        "image": "https://image.xinu.ink/pic/data/6999/images/l0fbui0-1792748570137.webp",
+        "geo": [
+          35.73052,
+          139.703903
+        ],
+        "ep": "3",
+        "s": "18：41",
+        "cn": "立教大学本馆"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6999/points.json"
+  },
+  "7000": {
+    "name": "フローラル・フローラブ",
+    "name_cn": "花之天使的夏日恋歌",
+    "cover": "https://image.xinu.ink/pic/data/7000/images/172842_jzkz202.jpg",
+    "theme_color": "#7fe15b",
+    "points": [
+      {
+        "id": "kywr06a",
+        "name": "東武橋",
+        "image": "https://image.xinu.ink/pic/data/7000/images/kywr06a_1792656916132.webp",
+        "geo": [
+          35.709419,
+          139.808506
+        ],
+        "cn": "东武桥"
+      },
+      {
+        "id": "kzh8o9h",
+        "name": "東武橋",
+        "image": "https://image.xinu.ink/pic/data/7000/images/kzh8o9h-1792691318522.webp",
+        "geo": [
+          35.709518,
+          139.808455
+        ],
+        "cn": "东武桥"
+      },
+      {
+        "id": "l1oc3mn",
+        "name": "カトリック赤羽教会",
+        "image": "https://image.xinu.ink/pic/data/7000/images/l1oc3mn-1792824167070.webp",
+        "geo": [
+          35.778801,
+          139.723011
+        ],
+        "cn": "赤羽教会"
+      },
+      {
+        "id": "l1og8n1",
+        "name": "谷中銀座",
+        "image": "https://image.xinu.ink/pic/data/7000/images/l1og8n1-1792824354760.webp",
+        "geo": [
+          35.727698,
+          139.765975
+        ],
+        "cn": "谷中银座"
+      },
+      {
+        "id": "l1okac8",
+        "name": "マリーナアイランド",
+        "image": "https://image.xinu.ink/pic/data/7000/images/l1okac8-1792824541096.webp",
+        "geo": [
+          35.721264,
+          139.763967
+        ]
+      },
+      {
+        "id": "l1opfib",
+        "name": "おしおりーぶ",
+        "image": "https://image.xinu.ink/pic/data/7000/images/l1opfib-1792824761115.webp",
+        "geo": [
+          35.722306,
+          139.770976
+        ]
+      },
+      {
+        "id": "l1orqax",
+        "name": "異人坂",
+        "image": "https://image.xinu.ink/pic/data/7000/images/l1orqax-1792824948254.webp",
+        "geo": [
+          35.718007,
+          139.762924
+        ]
+      },
+      {
+        "id": "l1oxgsy",
+        "name": "東大赤門前",
+        "image": "https://image.xinu.ink/pic/data/7000/images/l1oxgsy-1792825195951.webp",
+        "geo": [
+          35.709841,
+          139.760286
+        ],
+        "mark": "非精确点位，东大赤门这一块的围墙和街景都比较像"
+      },
+      {
+        "id": "l1p594h",
+        "name": "同志社大学 クラーク記念館",
+        "image": "https://image.xinu.ink/pic/data/7000/images/l1p594h-1792825492738.webp",
+        "geo": [
+          35.030191,
+          135.761792
+        ]
+      },
+      {
+        "id": "l1p86cu",
+        "name": "うろこの家",
+        "image": "https://image.xinu.ink/pic/data/7000/images/l1p86cu-1792825645970.webp",
+        "geo": [
+          34.702942,
+          135.190658
+        ],
+        "cn": "鱼鳞之家"
+      },
+      {
+        "id": "l1paocs",
+        "name": "北野通り",
+        "image": "https://image.xinu.ink/pic/data/7000/images/l1paocs-1792825749719.webp",
+        "geo": [
+          34.701163,
+          135.191999
+        ],
+        "mark": "原CG镜像反转"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/7000/points.json"
+  },
+  "7001": {
+    "name": "ハロー・レディ！ -Superior Dynamis-",
+    "name_cn": null,
+    "cover": "https://image.xinu.ink/pic/data/7001/images/215171_680Q7.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "kyox2dw",
+        "name": "新町川・阿波製紙水際公園",
+        "image": "https://image.xinu.ink/pic/data/7001/images/kyox2dw-1792643735781.webp",
+        "geo": [
+          34.07019,
+          134.550106
+        ]
+      },
+      {
+        "id": "kyp1mn0",
+        "name": "徳岛市立徳岛城博物馆",
+        "image": "https://image.xinu.ink/pic/data/7001/images/kyp1mn0-1792643934568.webp",
+        "geo": [
+          34.073652,
+          134.555625
+        ],
+        "cn": "德岛城博物馆"
+      },
+      {
+        "id": "kyp3976",
+        "name": "阿波しらさぎ大橋付近",
+        "image": "https://image.xinu.ink/pic/data/7001/images/kyp3976-1792644010445.webp",
+        "geo": [
+          34.079546,
+          134.578543
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/7001/points.json"
+  },
+  "7002": {
+    "name": "みのりスクランブル！",
+    "name_cn": "实乃里Scramble!",
+    "cover": "https://image.xinu.ink/pic/data/7002/images/13344_QBi8f.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "kymvays",
+        "name": "西新町商店街",
+        "image": "https://image.xinu.ink/pic/data/7002/images/kymvays-1792640420112.webp",
+        "geo": [
+          34.069759,
+          134.548133
+        ],
+        "ep": "1"
+      },
+      {
+        "id": "kyn2xi5",
+        "name": "アスティとくしま",
+        "image": "https://image.xinu.ink/pic/data/7002/images/kyn2xi5-1792640635328.webp",
+        "geo": [
+          34.053585,
+          134.563617
+        ],
+        "ep": "1",
+        "cn": "德岛产业观光交流中心"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/7002/points.json"
+  },
+  "7003": {
+    "name": "私のブルーガーネット",
+    "name_cn": "我的蓝色石榴石",
+    "cover": "https://image.xinu.ink/pic/data/7003/images/461932.jpg",
+    "theme_color": "#048ec5",
+    "points": [
+      {
+        "id": "kw56t0b",
+        "name": "池袋駅東口",
+        "image": "",
+        "geo": [
+          35.730287,
+          139.712496
+        ]
+      },
+      {
+        "id": "kw55kp6",
+        "name": "三段壁",
+        "image": "",
+        "geo": [
+          33.666313,
+          135.332296
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/7003/points.json"
+  },
+  "7004": {
+    "name": "イベリスの花嫁",
+    "name_cn": "屈曲花新娘",
+    "cover": "https://image.xinu.ink/pic/data/7004/images/360522_mg4d4.jpg",
+    "theme_color": "#7f6a95",
+    "points": [
+      {
+        "id": "kv42875",
+        "name": "千鳥ヶ淵ボート場",
+        "image": "https://image.xinu.ink/pic/data/7004/images/kv42875_1792427308584.webp",
+        "geo": [
+          35.690555,
+          139.747549
+        ],
+        "ep": 6
+      },
+      {
+        "id": "kv4aeix",
+        "name": "千鳥ヶ淵ボート",
+        "image": "https://image.xinu.ink/pic/data/7004/images/kv4aeix_1792427671262.webp",
+        "geo": [
+          35.694443,
+          139.748821
+        ],
+        "ep": 6,
+        "mark": "背景是东侧的田安门桥。"
+      },
+      {
+        "id": "kv4fo3o",
+        "name": "北の丸公園",
+        "image": "https://image.xinu.ink/pic/data/7004/images/kv4fo3o_1792427943772.webp",
+        "geo": [
+          35.691877,
+          139.748149
+        ],
+        "ep": 6,
+        "mark": "https://maps.app.goo.gl/gUJ162h8Kx8gtg1T8"
+      },
+      {
+        "id": "kv4grei",
+        "name": "北の丸公園",
+        "image": "https://image.xinu.ink/pic/data/7004/images/kv4grei_1792427966473.webp",
+        "geo": [
+          35.69191,
+          139.74817
+        ],
+        "ep": 6
+      },
+      {
+        "id": "kv4i7s7",
+        "name": "北の丸公園",
+        "image": "https://image.xinu.ink/pic/data/7004/images/kv4i7s7_1792428028957.webp",
+        "geo": [
+          35.691869,
+          139.7482
+        ],
+        "ep": 6
+      },
+      {
+        "id": "kv4mc87",
+        "name": "北の丸公園",
+        "image": "https://image.xinu.ink/pic/data/7004/images/kv4mc87_1792428217336.webp",
+        "geo": [
+          35.691903,
+          139.748221
+        ],
+        "ep": 6,
+        "mark": "https://maps.app.goo.gl/BuHCQodS164UrMGC7"
+      },
+      {
+        "id": "kv3mwwb",
+        "name": "九段下駅 東西線 2番線",
+        "image": "https://image.xinu.ink/pic/data/7004/images/kv3mwwb_1792426735565.webp",
+        "geo": [
+          35.695318,
+          139.751504
+        ],
+        "ep": 6
+      },
+      {
+        "id": "kv3r3m9",
+        "name": "九段下駅 東西線 2番線",
+        "image": "https://image.xinu.ink/pic/data/7004/images/kv3r3m9_1792426767628.webp",
+        "geo": [
+          35.695289,
+          139.751532
+        ],
+        "ep": 6
+      },
+      {
+        "id": "kv3hfa5",
+        "name": "九段下駅 東西線 2番線",
+        "image": "https://image.xinu.ink/pic/data/7004/images/kv3hfa5_1792426315633.webp",
+        "geo": [
+          35.69531,
+          139.75153
+        ],
+        "ep": 6
+      },
+      {
+        "id": "kv3tdbr",
+        "name": "九段下駅 東西線 2番線",
+        "image": "https://image.xinu.ink/pic/data/7004/images/kv3tdbr_1792426901167.webp",
+        "geo": [
+          35.695326,
+          139.751539
+        ],
+        "ep": 6
+      },
+      {
+        "id": "kv3ufuo",
+        "name": "九段下駅 東西線 2番線",
+        "image": "https://image.xinu.ink/pic/data/7004/images/kv3ufuo_1792427003852.webp",
+        "geo": [
+          35.6953,
+          139.751516
+        ],
+        "ep": 6
+      },
+      {
+        "id": "kv3ugwc",
+        "name": "九段下駅 東西線 2番線",
+        "image": "https://image.xinu.ink/pic/data/7004/images/kv3ugwc_1792427016178.webp",
+        "geo": [
+          35.69534,
+          139.751508
+        ],
+        "ep": 6
+      },
+      {
+        "id": "kv36ml3",
+        "name": "東京都立潮風公園",
+        "image": "https://image.xinu.ink/pic/data/7004/images/kv36ml3_1792425829305.webp",
+        "geo": [
+          35.620685,
+          139.769051
+        ],
+        "ep": 10
+      },
+      {
+        "id": "kv34ss3",
+        "name": "東京都立潮風公園",
+        "image": "https://image.xinu.ink/pic/data/7004/images/kv34ss3_1792426038016.webp",
+        "geo": [
+          35.620679,
+          139.769099
+        ],
+        "ep": 11,
+        "mark": "远处建筑为東京国際クルーズターミナル。"
+      },
+      {
+        "id": "kv3cbs8",
+        "name": "東京都立潮風公園",
+        "image": "https://image.xinu.ink/pic/data/7004/images/kv3cbs8_1792426078960.webp",
+        "geo": [
+          35.620682,
+          139.768968
+        ],
+        "ep": 11,
+        "mark": "右侧建筑为東京港トンネル13号地換気所。"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/7004/points.json"
   }
 }

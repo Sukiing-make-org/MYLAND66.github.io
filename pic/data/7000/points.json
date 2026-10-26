@@ -1,0 +1,108 @@
+[
+  {
+    "id": "kywr06a",
+    "name": "東武橋",
+    "image": "https://image.xinu.ink/pic/data/7000/images/kywr06a_1792656916132.webp",
+    "geo": [
+      35.709419,
+      139.808506
+    ],
+    "cn": "东武桥"
+  },
+  {
+    "id": "kzh8o9h",
+    "name": "東武橋",
+    "image": "https://image.xinu.ink/pic/data/7000/images/kzh8o9h-1792691318522.webp",
+    "geo": [
+      35.709518,
+      139.808455
+    ],
+    "cn": "东武桥"
+  },
+  {
+    "id": "l1oc3mn",
+    "name": "カトリック赤羽教会",
+    "image": "https://image.xinu.ink/pic/data/7000/images/l1oc3mn-1792824167070.webp",
+    "geo": [
+      35.778801,
+      139.723011
+    ],
+    "cn": "赤羽教会"
+  },
+  {
+    "id": "l1og8n1",
+    "name": "谷中銀座",
+    "image": "https://image.xinu.ink/pic/data/7000/images/l1og8n1-1792824354760.webp",
+    "geo": [
+      35.727698,
+      139.765975
+    ],
+    "cn": "谷中银座"
+  },
+  {
+    "id": "l1okac8",
+    "name": "マリーナアイランド",
+    "image": "https://image.xinu.ink/pic/data/7000/images/l1okac8-1792824541096.webp",
+    "geo": [
+      35.721264,
+      139.763967
+    ]
+  },
+  {
+    "id": "l1opfib",
+    "name": "おしおりーぶ",
+    "image": "https://image.xinu.ink/pic/data/7000/images/l1opfib-1792824761115.webp",
+    "geo": [
+      35.722306,
+      139.770976
+    ]
+  },
+  {
+    "id": "l1orqax",
+    "name": "異人坂",
+    "image": "https://image.xinu.ink/pic/data/7000/images/l1orqax-1792824948254.webp",
+    "geo": [
+      35.718007,
+      139.762924
+    ]
+  },
+  {
+    "id": "l1oxgsy",
+    "name": "東大赤門前",
+    "image": "https://image.xinu.ink/pic/data/7000/images/l1oxgsy-1792825195951.webp",
+    "geo": [
+      35.709841,
+      139.760286
+    ],
+    "mark": "非精确点位，东大赤门这一块的围墙和街景都比较像"
+  },
+  {
+    "id": "l1p594h",
+    "name": "同志社大学 クラーク記念館",
+    "image": "https://image.xinu.ink/pic/data/7000/images/l1p594h-1792825492738.webp",
+    "geo": [
+      35.030191,
+      135.761792
+    ]
+  },
+  {
+    "id": "l1p86cu",
+    "name": "うろこの家",
+    "image": "https://image.xinu.ink/pic/data/7000/images/l1p86cu-1792825645970.webp",
+    "geo": [
+      34.702942,
+      135.190658
+    ],
+    "cn": "鱼鳞之家"
+  },
+  {
+    "id": "l1paocs",
+    "name": "北野通り",
+    "image": "https://image.xinu.ink/pic/data/7000/images/l1paocs-1792825749719.webp",
+    "geo": [
+      34.701163,
+      135.191999
+    ],
+    "mark": "原CG镜像反转"
+  }
+]
