@@ -1,0 +1,425 @@
+[
+  {
+    "id": "lcgli6l",
+    "name": "東京市営軍ひみつ基地·聖アグリッパ学園",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lcgli6l_1793476257052.webp",
+    "geo": [
+      35.65948,
+      139.700502
+    ],
+    "ep": "单行本追加",
+    "mark": "即现实中的涩谷站到涩谷109一带。"
+  },
+  {
+    "id": "lcf4jjk",
+    "name": "西岸地区",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lcf4jjk_1793473799387.webp",
+    "geo": [
+      31.582497,
+      35.349827
+    ],
+    "ep": 1,
+    "mark": "鲸冈美香儿时与父亲一同遭受袭击之地。",
+    "folder": "以色列"
+  },
+  {
+    "id": "lcf848d",
+    "name": "渋谷",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lcf848d_1793473967386.webp",
+    "geo": [
+      35.659492,
+      139.70035
+    ],
+    "ep": 1,
+    "mark": "在本作的设定中，东京因怪兽袭击而失去首都身份，成为特别行政区。涩谷的109大楼被改为本作主角就读的圣亚格利帕学院。",
+    "folder": "涩谷"
+  },
+  {
+    "id": "lcfebm6",
+    "name": "渋谷",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lcfebm6_1793474254159.webp",
+    "geo": [
+      35.659658,
+      139.699366
+    ],
+    "ep": 1,
+    "folder": "涩谷"
+  },
+  {
+    "id": "lcffqu6",
+    "name": "渋谷",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lcffqu6_1793474311653.webp",
+    "geo": [
+      35.659439,
+      139.700748
+    ],
+    "ep": 1,
+    "mark": "背景中是东侧的高架。",
+    "folder": "涩谷"
+  },
+  {
+    "id": "lcfhg6n",
+    "name": "渋谷",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lcfhg6n_1793474450992.webp",
+    "geo": [
+      35.659267,
+      139.700612
+    ],
+    "ep": 1,
+    "mark": "此时主角站立的位置是涩谷全向路口，左下角有方格结构的建筑是已拆除的东横百货店。\nhttps://maps.app.goo.gl/QKQyiSUA6v7mSfQX6",
+    "folder": "涩谷"
+  },
+  {
+    "id": "lcg4zoq",
+    "name": "渋谷",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lcg4zoq_1793475496317.webp",
+    "geo": [
+      35.659349,
+      139.700355
+    ],
+    "ep": 1,
+    "mark": "背景是已拆除的东急百货店。",
+    "folder": "涩谷"
+  },
+  {
+    "id": "lcg5w43",
+    "name": "渋谷",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lcg5w43_1793475528947.webp",
+    "geo": [
+      35.659507,
+      139.699649
+    ],
+    "ep": 2,
+    "folder": "涩谷"
+  },
+  {
+    "id": "lcg84ar",
+    "name": "警視庁",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lcg84ar_1793475641136.webp",
+    "geo": [
+      35.677538,
+      139.75305
+    ],
+    "ep": 3,
+    "folder": "千代田"
+  },
+  {
+    "id": "lcgcg12",
+    "name": "原宿",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lcgcg12_1793475842858.webp",
+    "geo": [
+      35.66994,
+      139.70281
+    ],
+    "ep": 3,
+    "mark": "左下角为天桥的阶梯部分，现已拆除。背景中为原宿的高级公寓コープオリンピア。\nhttps://maps.app.goo.gl/ZLq7AmwGWd7B81acA",
+    "folder": "原宿"
+  },
+  {
+    "id": "lcgfrnh",
+    "name": "原宿",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lcgfrnh_1793476031906.webp",
+    "geo": [
+      35.669434,
+      139.703551
+    ],
+    "ep": 3,
+    "mark": "天桥已被拆除。",
+    "folder": "原宿"
+  },
+  {
+    "id": "lcgikeh",
+    "name": "原宿",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lcgikeh_1793476124225.webp",
+    "geo": [
+      35.669504,
+      139.703427
+    ],
+    "ep": 3,
+    "folder": "原宿"
+  },
+  {
+    "id": "lcgzpuq",
+    "name": "川崎石油コンビナート",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lcgzpuq_1793476942767.webp",
+    "geo": [
+      35.517317,
+      139.77508
+    ],
+    "ep": 9,
+    "folder": "川崎"
+  },
+  {
+    "id": "lch46as",
+    "name": "八丈島​",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lch46as_1793477189055.webp",
+    "geo": [
+      33.11527,
+      139.785334
+    ],
+    "ep": 9,
+    "mark": "漫画中八丈岛举行了一次国际会议，剧情中出现的建筑现实中并不存在。",
+    "folder": "八丈岛"
+  },
+  {
+    "id": "lchauhy",
+    "name": "渋谷",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lchauhy_1793477450223.webp",
+    "geo": [
+      35.659348,
+      139.700562
+    ],
+    "ep": 13,
+    "mark": "右侧建筑是现在的涩谷MAGNET，当时似乎还没有标志性的大屏幕。\nhttps://maps.app.goo.gl/1R7wJuGMD3wfEkti9",
+    "folder": "涩谷"
+  },
+  {
+    "id": "lchifuj",
+    "name": "JR福井駅",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lchifuj_1793477918781.webp",
+    "geo": [
+      36.062344,
+      136.222937
+    ],
+    "ep": 14,
+    "mark": "福井县胜山市为南伦奈的故乡。\nhttps://maps.app.goo.gl/T5UGrxkc1pW8UBoi8",
+    "folder": "福井"
+  },
+  {
+    "id": "lchkvfx",
+    "name": "福井県立恐竜博物館",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lchkvfx_1793477961242.webp",
+    "geo": [
+      36.083599,
+      136.507148
+    ],
+    "ep": 15,
+    "folder": "胜山"
+  },
+  {
+    "id": "lchnsqg",
+    "name": "福井県立恐竜博物館",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lchnsqg_1793478046305.webp",
+    "geo": [
+      36.082385,
+      136.506541
+    ],
+    "ep": 15,
+    "folder": "胜山"
+  },
+  {
+    "id": "lcho6ct",
+    "name": "福井県立恐竜博物館",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lcho6ct_1793478060249.webp",
+    "geo": [
+      36.08232,
+      136.506587
+    ],
+    "ep": 15,
+    "folder": "胜山"
+  },
+  {
+    "id": "lchoo1l",
+    "name": "福井県立恐竜博物館",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lchoo1l_1793478085169.webp",
+    "geo": [
+      36.082399,
+      136.506666
+    ],
+    "ep": 15,
+    "folder": "胜山"
+  },
+  {
+    "id": "lchs09k",
+    "name": "Uluru",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lchs09k_1793478315432.webp",
+    "geo": [
+      -25.341199,
+      131.007947
+    ],
+    "ep": 15,
+    "folder": "澳大利亚",
+    "cn": "乌鲁鲁巨岩"
+  },
+  {
+    "id": "lchxxaz",
+    "name": "鯖江​駐屯地",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lchxxaz_1793478525369.webp",
+    "geo": [
+      35.994425,
+      136.172757
+    ],
+    "ep": 19,
+    "folder": "鲭江"
+  },
+  {
+    "id": "lchz8ka",
+    "name": "舞鶴基地",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lchz8ka_1793478725388.webp",
+    "geo": [
+      35.489665,
+      135.376733
+    ],
+    "ep": 19,
+    "folder": "舞鹤"
+  },
+  {
+    "id": "lci2558",
+    "name": "美浜発電所",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lci2558_1793478787894.webp",
+    "geo": [
+      35.701115,
+      135.973802
+    ],
+    "ep": 19,
+    "mark": "位于福井县美滨町的核电站。",
+    "folder": "美滨"
+  },
+  {
+    "id": "lci2wwy",
+    "name": "美浜発電所",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lci2wwy_1793478811763.webp",
+    "geo": [
+      35.703559,
+      135.971419
+    ],
+    "ep": 20,
+    "folder": "美滨"
+  },
+  {
+    "id": "lci554n",
+    "name": "美浜発電所",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lci554n_1793478853963.webp",
+    "geo": [
+      35.696563,
+      135.969876
+    ],
+    "ep": 20,
+    "folder": "美滨"
+  },
+  {
+    "id": "lciesxx",
+    "name": "鸟巢",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lciesxx_1793479338052.webp",
+    "geo": [
+      39.991522,
+      116.390468
+    ],
+    "ep": 21,
+    "folder": "中国"
+  },
+  {
+    "id": "lciie87",
+    "name": "白宫",
+    "image": "https://image.xinu.ink/pic/data/7006/images/lciie87_1793479517286.webp",
+    "geo": [
+      38.895519,
+      -77.03654
+    ],
+    "ep": 23,
+    "folder": "美国"
+  },
+  {
+    "id": "ld0vzn1",
+    "name": "若狭国·小浜",
+    "image": "https://image.xinu.ink/pic/data/7006/images/ld0vzn1_1793510410693.webp",
+    "geo": [
+      35.493175,
+      135.736543
+    ],
+    "ep": 27,
+    "mark": "南伦奈和安生穿越至的地点，为八百比丘尼传说的起源地之一。",
+    "folder": "小滨"
+  },
+  {
+    "id": "ld1a2jc",
+    "name": "Cenacle",
+    "image": "https://image.xinu.ink/pic/data/7006/images/ld1a2jc_1793511128347.webp",
+    "geo": [
+      31.771881,
+      35.228538
+    ],
+    "ep": 29,
+    "mark": "鲸冈美香和脐矢穿越至的地点。点位处为马克楼，大卫墓的一处房间，被视为耶稣在耶路撒冷的活动地和最后的晚餐的发生地。",
+    "folder": "以色列"
+  },
+  {
+    "id": "ld1l1zr",
+    "name": "Church of the Holy Sepulchre",
+    "image": "https://image.xinu.ink/pic/data/7006/images/ld1l1zr_1793511613356.webp",
+    "geo": [
+      31.778489,
+      35.22956
+    ],
+    "ep": 29,
+    "mark": "耶稣（鲸冈美香）被钉上十字架之地。点位为耶路撒冷圣墓教堂。",
+    "folder": "以色列"
+  },
+  {
+    "id": "ld2139h",
+    "name": "8th Field Hospital, Nha Trang",
+    "image": "https://image.xinu.ink/pic/data/7006/images/ld2139h_1793512266227.webp",
+    "geo": [
+      12.231144,
+      109.194613
+    ],
+    "ep": 31,
+    "mark": "越南战争期间，美军设置于芽庄的第八野战医院，位于芽庄旧机场旁边。现实中该野战医院由简易平房和帐篷组成，没有这种建筑，",
+    "folder": "越南"
+  },
+  {
+    "id": "ld2ahbf",
+    "name": "法​観​寺​·八坂​の​塔",
+    "image": "https://image.xinu.ink/pic/data/7006/images/ld2ahbf_1793512724888.webp",
+    "geo": [
+      34.998375,
+      135.778992
+    ],
+    "ep": 35,
+    "folder": "京都"
+  },
+  {
+    "id": "ld2dld0",
+    "name": "京都駅",
+    "image": "https://image.xinu.ink/pic/data/7006/images/ld2dld0_1793512855656.webp",
+    "geo": [
+      34.986251,
+      135.75739
+    ],
+    "ep": 35,
+    "folder": "京都"
+  },
+  {
+    "id": "ld2hh1g",
+    "name": "レインボー​ブリッジ",
+    "image": "https://image.xinu.ink/pic/data/7006/images/ld2hh1g_1793513046705.webp",
+    "geo": [
+      35.63913,
+      139.76385
+    ],
+    "ep": 40,
+    "folder": "台场"
+  },
+  {
+    "id": "ld2ileh",
+    "name": "東京​ビッグ​サイト",
+    "image": "https://image.xinu.ink/pic/data/7006/images/ld2ileh_1793513081638.webp",
+    "geo": [
+      35.630617,
+      139.793397
+    ],
+    "ep": 40,
+    "folder": "台场"
+  },
+  {
+    "id": "ld2jasj",
+    "name": "国会議事堂",
+    "image": "https://image.xinu.ink/pic/data/7006/images/ld2jasj_1793513132634.webp",
+    "geo": [
+      35.67655,
+      139.745941
+    ],
+    "ep": 40,
+    "folder": "千代田"
+  }
+]

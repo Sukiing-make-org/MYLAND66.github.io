@@ -1,0 +1,182 @@
+[
+  {
+    "id": "l9ar4z5",
+    "name": "立川駅北",
+    "image": "https://image.xinu.ink/pic/data/7008/images/l9ar4z5-1793285072947.webp",
+    "geo": [
+      35.69868,
+      139.41299
+    ],
+    "ep": 1,
+    "s": 27
+  },
+  {
+    "id": "l9d2vy5",
+    "name": "立川北駅",
+    "image": "https://image.xinu.ink/pic/data/7008/images/l9d2vy5-1793328672154.webp",
+    "geo": [
+      35.699278,
+      139.412423
+    ],
+    "ep": 1,
+    "s": 28
+  },
+  {
+    "id": "l9aeltw",
+    "name": "Sakurano",
+    "image": "https://image.xinu.ink/pic/data/7008/images/l9aeltw-1793284514114.webp",
+    "geo": [
+      35.701517,
+      139.412473
+    ],
+    "ep": 1,
+    "s": 37
+  },
+  {
+    "id": "la7j8vv",
+    "name": "立川市曙一丁目公園",
+    "image": "https://image.xinu.ink/pic/data/7008/images/la7j8vv-1793340105438.webp",
+    "geo": [
+      35.701543,
+      139.411027
+    ],
+    "ep": 1,
+    "s": 65
+  },
+  {
+    "id": "la7ow15",
+    "name": "立川市曙一丁目公園",
+    "image": "https://image.xinu.ink/pic/data/7008/images/la7ow15-1793340369020.webp",
+    "geo": [
+      35.701365,
+      139.41084
+    ],
+    "ep": 1,
+    "s": 90
+  },
+  {
+    "id": "la7fykz",
+    "name": "立川市曙一丁目公園",
+    "image": "https://image.xinu.ink/pic/data/7008/images/la7fykz-1793340193146.webp",
+    "geo": [
+      35.701483,
+      139.411086
+    ],
+    "ep": 1,
+    "s": 112
+  },
+  {
+    "id": "l9a4ffo",
+    "name": "警視庁 多摩中央警察署 前",
+    "image": "https://image.xinu.ink/pic/data/7008/images/l9a4ffo-1793284016155.webp",
+    "geo": [
+      35.62334,
+      139.42168
+    ],
+    "ep": 1,
+    "s": 282
+  },
+  {
+    "id": "la5h76b",
+    "name": "クイーンズスクエア横浜",
+    "image": "https://image.xinu.ink/pic/data/7008/images/la5h76b-1793336758438.webp",
+    "geo": [
+      35.456658,
+      139.633444
+    ],
+    "ep": 1,
+    "s": 328,
+    "mark": "两人初一时（应该是地上2楼"
+  },
+  {
+    "id": "la61i0a",
+    "name": "クイーンズスクエア横浜",
+    "image": "https://image.xinu.ink/pic/data/7008/images/la61i0a-1793337603691.webp",
+    "geo": [
+      35.456849,
+      139.633384
+    ],
+    "ep": 1,
+    "s": 333
+  },
+  {
+    "id": "la62n0p",
+    "name": "クイーンズスクエア横浜",
+    "image": "https://image.xinu.ink/pic/data/7008/images/la62n0p-1793337649385.webp",
+    "geo": [
+      35.456834,
+      139.633436
+    ],
+    "ep": 1,
+    "s": 345
+  },
+  {
+    "id": "la3bqau",
+    "name": "Embassy of the United States of America",
+    "image": "https://image.xinu.ink/pic/data/7008/images/la3bqau-1793333279795.webp",
+    "geo": [
+      35.668716,
+      139.744158
+    ],
+    "ep": 1,
+    "s": 672,
+    "cn": "美国大使馆 前"
+  },
+  {
+    "id": "la8id4u",
+    "name": "中野駅",
+    "image": "https://image.xinu.ink/pic/data/7008/images/la8id4u-1793341743149.webp",
+    "geo": [
+      35.705882,
+      139.665423
+    ],
+    "ep": 2,
+    "s": 92,
+    "mark": "在车站下的隧道"
+  },
+  {
+    "id": "la9qf42",
+    "name": "パルテノン多摩",
+    "image": "https://image.xinu.ink/pic/data/7008/images/la9qf42-1793343798891.webp",
+    "geo": [
+      35.622371,
+      139.426116
+    ],
+    "ep": 2,
+    "s": 137
+  },
+  {
+    "id": "laecyft",
+    "name": "THE 3RD CAFE by Standard Coffee",
+    "image": "https://image.xinu.ink/pic/data/7008/images/laecyft-1793351571125.webp",
+    "geo": [
+      35.666885,
+      139.749969
+    ],
+    "ep": 2,
+    "s": 987
+  },
+  {
+    "id": "lad5cy0",
+    "name": "THE 3RD CAFE by Standard Coffee",
+    "image": "https://image.xinu.ink/pic/data/7008/images/lad5cy0-1793349642113.webp",
+    "geo": [
+      35.666837,
+      139.749995
+    ],
+    "ep": 3,
+    "s": 18
+  },
+  {
+    "id": "l9gedp9",
+    "name": "TOHOシネマズ 六本木ヒルズ",
+    "image": "https://image.xinu.ink/pic/data/7008/images/l9gedp9-1793294575863.webp",
+    "geo": [
+      35.659981,
+      139.729701
+    ],
+    "ep": 3,
+    "s": 671,
+    "cn": "东宝影院 六本木新城"
+  }
+]
