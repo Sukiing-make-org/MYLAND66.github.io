@@ -873148,5 +873148,84 @@
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/7012/points.json"
+  },
+  "7013": {
+    "name": "1日外出録ハンチョウ",
+    "name_cn": "一日出行录班长",
+    "cover": "https://image.xinu.ink/pic/data/7013/images/248607_llcy5wu.jpg",
+    "theme_color": "#f0b511",
+    "points": [
+      {
+        "id": "lgz7dj0",
+        "name": "日比谷公園 キリノ大統領像",
+        "image": "https://image.xinu.ink/pic/data/7013/images/lgz7dj0-1793749508102.webp",
+        "geo": [
+          35.67159,
+          139.756165
+        ],
+        "ep": "1",
+        "mark": "长椅背后植被最接近的地方，同时左手边有植被让黑服藏身（推测）。需现地考察"
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/7013/points.json"
+  },
+  "7014": {
+    "name": "HEN",
+    "name_cn": "HEN",
+    "cover": "https://image.xinu.ink/pic/data/7014/images/103755.jpg",
+    "theme_color": "#f71f24",
+    "points": [
+      {
+        "id": "lezihbk",
+        "name": "東京都立大学 空の目門",
+        "image": "https://image.xinu.ink/pic/data/7014/images/lezihbk_1793629002551.webp",
+        "geo": [
+          35.616871,
+          139.377269
+        ],
+        "ep": 44
+      },
+      {
+        "id": "lezjo5x",
+        "name": "東京都立大学 空の目門",
+        "image": "https://image.xinu.ink/pic/data/7014/images/lezjo5x_1793629059240.webp",
+        "geo": [
+          35.616919,
+          139.377376
+        ],
+        "ep": 44
+      },
+      {
+        "id": "lezgpji",
+        "name": "東京都立大学 調整池",
+        "image": "https://image.xinu.ink/pic/data/7014/images/lezgpji_1793629271518.webp",
+        "geo": [
+          35.619619,
+          139.382252
+        ],
+        "ep": 61
+      },
+      {
+        "id": "lezri7r",
+        "name": "東京都立大学 空の目門",
+        "image": "https://image.xinu.ink/pic/data/7014/images/lezri7r_1793629384644.webp",
+        "geo": [
+          35.616937,
+          139.377424
+        ],
+        "ep": 63
+      },
+      {
+        "id": "lezrxfw",
+        "name": "東京都立大学 空の目門",
+        "image": "https://image.xinu.ink/pic/data/7014/images/lezrxfw_1793629402773.webp",
+        "geo": [
+          35.616956,
+          139.377457
+        ],
+        "ep": 63
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/7014/points.json"
   }
 }
